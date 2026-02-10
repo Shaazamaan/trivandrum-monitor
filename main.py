@@ -1,3 +1,4 @@
+import urllib.parse
 from scraper import GoogleMapsScraper
 from database import Storage
 from notifier import DiscordNotifier
@@ -49,8 +50,12 @@ def main():
                     # Only alert if NOT first run
                     if not is_first_run:
                         print(f"NEW FOUND: {business['name']} - Sending Alert")
-                        # Enrichment (Disabled for speed/reliability in cloud free tier)
-                        ig_url = None 
+                        
+                        # Generate a smart search link for Instagram
+                        # We do this instead of scraping to prevent the free cloud IP from being blocked by Google.
+                        query = f"{business['name']} trivandrum instagram"
+                        ig_url = f"https://www.google.com/search?q={urllib.parse.quote(query)}"
+                        
                         notifier.send_alert(business, ig_url)
                         time.sleep(1) # Rate limit protection
                     else:

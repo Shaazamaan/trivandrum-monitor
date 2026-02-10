@@ -45,10 +45,11 @@ class DiscordNotifier:
                 "inline": False
             })
              
+        # Add a direct search link for Instagram
         if instagram_url:
             embed["fields"].append({
-                "name": "Instagram Found",
-                "value": instagram_url,
+                "name": "Socials",
+                "value": f"[Find on Instagram]({instagram_url})",
                 "inline": False
             })
 
