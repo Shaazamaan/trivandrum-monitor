@@ -69,6 +69,21 @@ class GoogleMapsScraper:
                                 break
                     
                     import re
+                    # Extract Rating/Reviews
+                    # Format is often "4.7(105)" or similar in the text
+                    rating = None
+                    reviews = 0
+                    try:
+                        # Search for pattern like 4.7(1,234)
+                        # We look for a float followed by parens with digits
+                        rating_match = re.search(r'([0-9]\.[0-9])\s*\(([\d,]+)\)', text)
+                        if rating_match:
+                            rating = float(rating_match.group(1))
+                            reviews_str = rating_match.group(2).replace(',', '')
+                            reviews = int(reviews_str)
+                    except:
+                        pass # Keep defaults
+
                     pid_match = re.search(r'!1s(0x[0-9a-f]+:[0-9a-f]+)', url)
                     place_id = pid_match.group(1) if pid_match else url
                     
@@ -78,6 +93,8 @@ class GoogleMapsScraper:
                         "category": category,
                         "address": address,
                         "url": url,
+                        "rating": rating,
+                        "reviews": reviews,
                         "phone": None,
                         "website": None
                     })
