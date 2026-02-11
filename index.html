@@ -6,75 +6,162 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trivandrum Monitor Health</title>
     <style>
+        :root {
+            --bg-color: #f0f2f5;
+            --container-bg: #ffffff;
+            --text-color: #333333;
+            --table-header: #f8f9fa;
+            --border-color: #dddddd;
+            --accent-color: #1a73e8;
+        }
+
+        [data-theme="dark"] {
+            --bg-color: #18191a;
+            --container-bg: #242526;
+            --text-color: #e4e6eb;
+            --table-header: #3a3b3c;
+            --border-color: #3e4042;
+            --accent-color: #4599ff;
+        }
+
         body {
-            font-family: sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             padding: 20px;
-            background: #f0f2f5;
+            background: var(--bg-color);
+            color: var(--text-color);
+            transition: background 0.3s, color 0.3s;
         }
 
         .container {
-            max-width: 800px;
+            max-width: 900px;
             margin: 0 auto;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            background: var(--container-bg);
+            padding: 25px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            transition: background 0.3s;
         }
 
         h1 {
-            color: #333;
+            color: var(--text-color);
+        }
+
+        h2 {
+            color: var(--text-color);
+            border-bottom: 2px solid var(--accent-color);
+            padding-bottom: 10px;
+            display: inline-block;
         }
 
         .status {
             padding: 15px;
-            background: #e8f5e9;
+            background: rgba(46, 125, 50, 0.1);
+            /* Transparent Green */
+            border-left: 5px solid #2e7d32;
             border-radius: 4px;
             color: #2e7d32;
             margin-bottom: 20px;
         }
 
-        .error {
-            background: #ffebee;
-            color: #c62828;
+        [data-theme="dark"] .status {
+            color: #66bb6a;
+            background: rgba(102, 187, 106, 0.1);
         }
 
         table {
             width: 100%;
             border-collapse: collapse;
-            margin-top: 10px;
+            margin-top: 20px;
         }
 
         th,
         td {
             text-align: left;
-            padding: 12px;
-            border-bottom: 1px solid #ddd;
+            padding: 15px;
+            border-bottom: 1px solid var(--border-color);
         }
 
         th {
-            background-color: #f8f9fa;
+            background-color: var(--table-header);
+            font-weight: 600;
         }
 
         a {
-            color: #1a73e8;
+            color: var(--accent-color);
             text-decoration: none;
+            font-weight: 500;
         }
 
         a:hover {
             text-decoration: underline;
         }
+
+        /* Toggle Button */
+        .theme-toggle {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            background: none;
+            border: 2px solid var(--text-color);
+            color: var(--text-color);
+            padding: 5px 10px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-weight: bold;
+        }
     </style>
 </head>
 
 <body>
-    <div class="container">
+    <div class="container" style="position:relative">
+        <button class="theme-toggle" onclick="toggleTheme()">🌓 Theme</button>
         <h1>Google Maps Monitor Status</h1>
 
         <div id="status-box" class="status">
             Loading status...
         </div>
 
-        <h2>New Discoveries (Live Feed)</h2>
+        <div id="analytics-section" style="display:none; margin-bottom: 20px;">
+            <!-- Controls -->
+            <div style="display:flex; gap:10px; margin-bottom: 20px; align-items:center;">
+                <input type="text" id="searchInput" onkeyup="filterTable()" placeholder="Search businesses..."
+                    style="padding:10px; width:60%; border:1px solid #ddd; border-radius:4px;">
+
+                <button onclick="downloadCSV()"
+                    style="padding:10px 20px; background:#1a73e8; color:white; border:none; border-radius:4px; cursor:pointer;">
+                    ⬇ Download CSV
+                </button>
+            </div>
+
+            <!-- Charts Container -->
+            <div style="display:flex; gap:20px; flex-wrap:wrap; margin-bottom: 20px;">
+                <!-- Category Chart -->
+                <div
+                    style="background:var(--container-bg); padding:15px; border:1px solid var(--border-color); border-radius:8px; flex:1; min-width:300px;">
+                    <canvas id="categoryChart"></canvas>
+                </div>
+                <!-- Location Chart -->
+                <div
+                    style="background:var(--container-bg); padding:15px; border:1px solid var(--border-color); border-radius:8px; flex:1; min-width:300px;">
+                    <canvas id="locationChart"></canvas>
+                </div>
+            </div>
+
+            <!-- MAP -->
+            <div id="map"
+                style="height: 400px; width: 100%; border-radius: 8px; margin-bottom: 20px; border: 1px solid var(--border-color); z-index: 1;">
+            </div>
+        </div>
+
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
+            <h2>New Discoveries (Live Feed)</h2>
+            <div style="font-size:0.9em; color:var(--accent-color); display:flex; align-items:center; gap:5px;">
+                <span id="live-indicator"
+                    style="height:8px; width:8px; background:red; border-radius:50%; display:inline-block;"></span>
+                Live Monitor Active (30s)
+            </div>
+        </div>
+
         <table id="data-table">
             <thead>
                 <tr>
@@ -95,82 +182,338 @@
         </p>
     </div>
 
+    <!-- Hidden Audio for Alerts -->
+    <audio id="alertSound" src="https://assets.mixkit.co/active_storage/sfx/2869/2869-preview.mp3"
+        preload="auto"></audio>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+        integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+        integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+
     <script>
+        let allData = []; // Store data globally
+        let lastCount = 0; // Track count for alerts
+        let isFirstLoad = true;
+        let map = null;
+        let markers = [];
+
+        // Known Hub Coordinates for faster plotting (Fallback for API)
+        const HUB_COORDS = {
+            "kazhakkoottam": [8.5686, 76.8731],
+            "technopark": [8.5581, 76.8816],
+            "thampanoor": [8.4875, 76.9525],
+            "pattom": [8.5204, 76.9427],
+            "kowdiar": [8.5262, 76.9699],
+            "vazhuthacaud": [8.4996, 76.9634],
+            "palay": [8.5039, 76.9510],
+            "east fort": [8.4834, 76.9463],
+            "ulloor": [8.5360, 76.9329],
+            "kesavadasapuram": [8.5413, 76.9366],
+            "sreekaryam": [8.5489, 76.9234],
+            "trivandrum": [8.5241, 76.9366] // Center
+        };
+
+        if (Notification.permission !== "granted") {
+            Notification.requestPermission();
+        }
+
         async function loadData() {
             const statusBox = document.getElementById('status-box');
-            const tableBody = document.querySelector('#data-table tbody');
+            const liveIndicator = document.getElementById('live-indicator');
 
             try {
-                // Fetch the JSON file generated by the scraper
+                liveIndicator.style.background = '#ffd700'; // Loading
+
                 const response = await fetch('data.json?t=' + new Date().getTime());
                 if (!response.ok) throw new Error("Failed to fetch data");
 
-                const data = await response.json();
-                const now = new Date();
+                const rawData = await response.json();
 
-                // Fetch Metadata for actual "Last Scrape" time
-                let lastScrapeText = "Unknown";
+                // Fetch Meta
+                const now = new Date();
                 try {
                     const metaResponse = await fetch('metadata.json?t=' + now.getTime());
-                    if (metaResponse.ok) {
-                        const meta = await metaResponse.json();
-                        const scrapeDate = new Date(meta.last_run);
-                        const minsAgo = Math.round((now - scrapeDate) / 60000);
-                        lastScrapeText = `${scrapeDate.toLocaleString()} (${minsAgo} mins ago)`;
-                    }
-                } catch (e) { console.log("No metadata yet"); }
+                    if (metaResponse.ok) console.log("Meta loaded");
+                } catch (e) { }
 
-                // FILTER: Show only items found AFTER this specific time
-                // This timestamp represents when the user said "from now onwards"
+                // CUTOFF LOGIC
                 const CUTOFF_DATE = new Date("2026-02-11T23:30:00+05:30");
-
-                const recent = data.filter(item => new Date(item.discovered_at) > CUTOFF_DATE);
+                allData = rawData.filter(item => new Date(item.discovered_at) > CUTOFF_DATE);
 
                 statusBox.innerHTML = `
                     <strong>System Operational</strong><br>
-                    Last Scrape Run: <strong>${lastScrapeText}</strong><br>
-                    New Businesses Found (Since Reset): <strong>${recent.length}</strong><br>
-                    Total Database Size: ${data.length}
+                    New Businesses Found: <strong>${allData.length}</strong><br>
+                    Total Database Size: ${rawData.length}
                 `;
 
-                if (recent.length === 0) {
-                    tableBody.innerHTML = `<tr><td colspan="5" style="text-align:center; color:#666; padding:20px;">No new businesses found in the last 24 hours. Monitor is watching...</td></tr>`;
+                // Calculate Vibe & Location for each item
+                allData.forEach(item => {
+                    item.vibe = analyzeVibe(item);
+                    item.coords = getApproxCoords(item.address);
+                });
+
+                // Alert Logic
+                if (!isFirstLoad && allData.length > lastCount) {
+                    playAlert(allData.length - lastCount);
+                }
+                lastCount = allData.length;
+                isFirstLoad = false;
+
+                if (allData.length === 0) {
+                    document.querySelector('#data-table tbody').innerHTML = `<tr><td colspan="6" style="text-align:center; color:var(--text-color); padding:20px;">No new businesses. Waiting...</td></tr>`;
+                    document.getElementById('analytics-section').style.display = 'none';
+                    liveIndicator.style.background = '#4CAF50';
                     return;
                 }
 
-                // Render Table
-                tableBody.innerHTML = recent.map(item => {
-                    // Construct Links
-                    const mapsLink = item.url || (item.place_id ? `https://www.google.com/maps/place/?q=place_id:${item.place_id}` : '#');
-                    const igLink = `https://www.google.com/search?q=${encodeURIComponent(item.name + ' trivandrum instagram')}`;
-                    const webLink = item.website ? `<a href="${item.website}" target="_blank">🌐 Website</a>` : '';
-                    const phone = item.phone || '';
-
-                    return `
-                    <tr>
-                        <td>
-                            <strong><a href="${mapsLink}" target="_blank" style="color:#1a73e8">${item.name}</a></strong><br>
-                            <span style="font-size:0.85em; color:#666">${item.address || 'No Address'}</span>
-                        </td>
-                        <td>${item.category || 'N/A'}</td>
-                        <td style="font-size:0.9em">
-                            ${phone ? '📞 ' + phone + '<br>' : ''}
-                            ${webLink}
-                        </td>
-                        <td>
-                            <a href="${igLink}" target="_blank" style="color:#E1306C; font-weight:bold">📸 Instagram</a>
-                        </td>
-                        <td style="font-size:0.85em">${new Date(item.discovered_at).toLocaleString()}</td>
-                    </tr>
-                `}).join('');
+                document.getElementById('analytics-section').style.display = 'block';
+                renderTable(allData);
+                renderCharts(allData);
+                initMap(allData);
+                liveIndicator.style.background = '#4CAF50';
 
             } catch (e) {
-                statusBox.className = 'status error';
-                statusBox.innerText = "Error loading system status. " + e.message;
+                statusBox.innerHTML = `<span style="color:red">Error: ${e.message}</span>`;
+                liveIndicator.style.background = 'red';
             }
         }
 
+        // --- INTELLIGENCE MODULE ---
+
+        function analyzeVibe(item) {
+            const name = item.name.toLowerCase();
+            const cat = (item.category || "").toLowerCase();
+            const addr = (item.address || "").toLowerCase();
+
+            let tags = [];
+            let score = 50; // Base Hype Score
+
+            // Category Logic
+            if (cat.includes('cafe') || name.includes('cafe') || cat.includes('coffee')) {
+                tags.push("☕ Café Culture");
+                score += 20;
+            }
+            if (cat.includes('gym') || cat.includes('fitness')) {
+                tags.push("💪 Fitness");
+                score += 15;
+            }
+            if (cat.includes('boutique') || cat.includes('fashion') || cat.includes('clothing')) {
+                tags.push("👗 Fashion");
+                score += 10;
+            }
+            if (cat.includes('restaurant') || cat.includes('dining')) {
+                tags.push("🍽️ Dining");
+                score += 5;
+            }
+
+            // Location Logic
+            if (addr.includes('kowdiar') || addr.includes('kuravankonam')) {
+                tags.push("💎 Premium Area");
+                score += 25;
+            }
+            if (addr.includes('technopark') || addr.includes('kazhak')) {
+                tags.push("👨‍💻 Tech Hub");
+                score += 20;
+            }
+
+            // Keyword Logic
+            if (name.includes('new') || name.includes('grand')) score += 5;
+            if (name.includes('lounge') || name.includes('club')) {
+                tags.push("🌙 Nightlife");
+                score += 15;
+            }
+
+            if (tags.length === 0) tags.push("🏢 General");
+
+            return {
+                tags: tags,
+                score: Math.min(score, 100)
+            };
+        }
+
+        function getApproxCoords(address) {
+            if (!address) return HUB_COORDS["trivandrum"];
+            const lowerAddr = address.toLowerCase();
+
+            for (const [key, coords] of Object.entries(HUB_COORDS)) {
+                if (lowerAddr.includes(key)) {
+                    // Add slight random jitter so markers don't overlap perfectly
+                    return [
+                        coords[0] + (Math.random() * 0.002 - 0.001),
+                        coords[1] + (Math.random() * 0.002 - 0.001)
+                    ];
+                }
+            }
+            return HUB_COORDS["trivandrum"]; // Fallback to center
+        }
+
+        // --- RENDERING ---
+
+        function initMap(data) {
+            if (!map) {
+                // Initialize Map
+                map = L.map('map').setView(HUB_COORDS["trivandrum"], 11);
+
+                // Dark Mode friendly tiles (CartoDB DarkMatter) or Standard OSM based on theme
+                // Let's use OpenStreetMap Standard for clarity, or switch based on theme?
+                // For "Maximum" vibe, let's use a nice clean tile.
+                L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+                    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+                    subdomains: 'abcd',
+                    maxZoom: 20
+                }).addTo(map);
+            }
+
+            // Clear existing markers
+            markers.forEach(m => map.removeLayer(m));
+            markers = [];
+
+            data.forEach(item => {
+                const marker = L.marker(item.coords)
+                    .addTo(map)
+                    .bindPopup(`<b>${item.name}</b><br>${item.category}<br>${item.vibe.tags.join(' ')}`);
+                markers.push(marker);
+            });
+        }
+
+        function renderTable(dataToRender) {
+            const tableBody = document.querySelector('#data-table tbody');
+            const sortedData = [...dataToRender].sort((a, b) => new Date(b.discovered_at) - new Date(a.discovered_at));
+
+            tableBody.innerHTML = sortedData.map(item => {
+                const mapsLink = item.url || (item.place_id ? `https://www.google.com/maps/place/?q=place_id:${item.place_id}` : '#');
+                const igLink = `https://www.google.com/search?q=${encodeURIComponent(item.name + ' trivandrum instagram')}`;
+                const webLink = item.website ? `<a href="${item.website}" target="_blank">🌐 Website</a>` : '';
+                const phone = item.phone || '';
+
+                // Vibe Badge
+                const vibeBadges = item.vibe.tags.map(t =>
+                    `<span style="background:var(--accent-color); color:white; padding:2px 6px; border-radius:10px; font-size:0.75em; margin-right:4px; display:inline-block; margin-bottom:2px;">${t}</span>`
+                ).join('');
+
+                return `
+                <tr>
+                    <td>
+                        <strong><a href="${mapsLink}" target="_blank" style="color:var(--accent-color)">${item.name}</a></strong><br>
+                        <span style="font-size:0.85em; opacity:0.8">${item.address || 'No Address'}</span>
+                    </td>
+                    <td>
+                        ${item.category || 'N/A'}<br>
+                        <div style="margin-top:4px;">${vibeBadges}</div>
+                    </td>
+                    <td style="font-size:0.9em">
+                        ${phone ? '📞 ' + phone + '<br>' : ''}
+                        ${webLink}
+                    </td>
+                    <td>
+                        <a href="${igLink}" target="_blank" style="color:#E1306C; font-weight:bold">📸 Instagram</a>
+                    </td>
+                    <td style="font-size:0.85em">
+                        ${new Date(item.discovered_at).toLocaleString()}<br>
+                        <span style="color:#4CAF50; font-weight:bold;">🔥 ${item.vibe.score}/100</span>
+                    </td>
+                </tr>
+            `}).join('');
+        }
+
+        // ... (Keep renderCharts, filterTable, downloadCSV, toggleTheme, playAlert, etc.) ...
+
+        function renderCharts(data) {
+            // ... (Keep existing chart logic) ...
+            // We just need to make sure we don't overwrite the Leaflet map logic
+            // Re-implementing chart logic for completeness safely
+
+            const catCtx = document.getElementById('categoryChart').getContext('2d');
+            const locCtx = document.getElementById('locationChart').getContext('2d');
+
+            const categories = {};
+            const locations = {};
+
+            data.forEach(item => {
+                const cat = item.category || 'Unknown';
+                categories[cat] = (categories[cat] || 0) + 1;
+
+                // Use the smart vibe location logic if available or simpler split
+                let loc = "General";
+                if (item.address) {
+                    const parts = item.address.split(',');
+                    const addr = item.address.toLowerCase();
+                    if (addr.includes('kazhak')) loc = "Kazhakkoottam";
+                    else if (addr.includes('thamp')) loc = "Thampanoor";
+                    else if (addr.includes('kowdiar')) loc = "Kowdiar";
+                    else if (addr.includes('pattom')) loc = "Pattom";
+                    else if (addr.includes('palay')) loc = "Palayam";
+                    else if (addr.includes('techno')) loc = "Technopark";
+                    else if (addr.includes('vazhuth')) loc = "Vazhuthacaud";
+                    else if (parts.length > 2) loc = parts[parts.length - 3].trim();
+                }
+                locations[loc] = (locations[loc] || 0) + 1;
+            });
+
+            const colors = ['#4CAF50', '#2196F3', '#FFC107', '#E91E63', '#9C27B0', '#00BCD4', '#FF5722', '#795548'];
+
+            if (window.catChart) window.catChart.destroy();
+            window.catChart = new Chart(catCtx, {
+                type: 'doughnut',
+                data: { labels: Object.keys(categories), datasets: [{ data: Object.values(categories), backgroundColor: colors }] },
+                options: { responsive: true, plugins: { title: { display: true, text: 'Business Types', color: 'var(--text-color)' }, legend: { labels: { color: 'var(--text-color)' } } } }
+            });
+
+            if (window.locChart) window.locChart.destroy();
+            window.locChart = new Chart(locCtx, {
+                type: 'bar',
+                data: { labels: Object.keys(locations), datasets: [{ label: 'New Listings', data: Object.values(locations), backgroundColor: '#1a73e8' }] },
+                options: {
+                    responsive: true,
+                    plugins: { title: { display: true, text: 'Top Hotspots', color: 'var(--text-color)' }, legend: { display: false } },
+                    scales: { y: { ticks: { color: 'var(--text-color)' }, grid: { color: 'var(--border-color)' } }, x: { ticks: { color: 'var(--text-color)' }, grid: { display: false } } }
+                }
+            });
+        }
+
+        function filterTable() {
+            const term = document.getElementById('searchInput').value.toLowerCase();
+            const filtered = allData.filter(item =>
+                item.name.toLowerCase().includes(term) ||
+                (item.category && item.category.toLowerCase().includes(term))
+            );
+            renderTable(filtered);
+        }
+
+        function downloadCSV() {
+            if (allData.length === 0) return alert("No data to export!");
+            const headers = ["Name", "Address", "Category", "Vibe Tags", "Hype Score", "Phone", "Website", "Discovered At"];
+            const csvContent = "data:text/csv;charset=utf-8,"
+                + headers.join(",") + "\n"
+                + allData.map(e => `"${e.name}","${e.address || ''}","${e.category || ''}","${e.vibe.tags.join(' ')}","${e.vibe.score}","${e.phone || ''}","${e.website || ''}","${e.discovered_at}"`).join("\n");
+            const link = document.createElement("a"); link.href = encodeURI(csvContent); link.download = "trivandrum_monitor_data.csv"; document.body.appendChild(link); link.click(); document.body.removeChild(link);
+        }
+
+        function toggleTheme() {
+            const body = document.body;
+            const currentTheme = body.getAttribute('data-theme');
+            const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+            body.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            if (allData.length > 0) renderCharts(allData);
+        }
+
+        function playAlert(count) {
+            const audio = document.getElementById('alertSound');
+            audio.play().catch(e => console.log("Audio permission needed"));
+            if (Notification.permission === "granted") {
+                new Notification("New Business Detected!", { body: `${count} new listing(s) found in Trivandrum!`, icon: "https://maps.google.com/mapfiles/ms/icons/red-dot.png" });
+            }
+        }
+
+        const savedTheme = localStorage.getItem('theme') || 'light';
+        document.body.setAttribute('data-theme', savedTheme);
         loadData();
+        setInterval(loadData, 30000);
     </script>
 </body>
 
