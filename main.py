@@ -1,8 +1,7 @@
 import urllib.parse
-from scraper import GoogleMapsScraper
+from scraper import GoogleMapsScraper, TRIVANDRUM_LOCATIONS
 from database import Storage
 from notifier import DiscordNotifier
-from socials import InstagramFinder
 import time
 import random
 
@@ -22,53 +21,58 @@ def main():
     notifier = DiscordNotifier(WEBHOOK_URL)
     
     # Check if this is the first run (DB is empty)
-    # We'll check by querying the count
     is_first_run = storage.get_count() == 0
     if is_first_run:
         print("First run detected! Monitoring mode: POPULATION (No alerts will be sent).")
     else:
         print("Monitoring mode: ACTIVE (Alerts enabled).")
 
-    scraper = GoogleMapsScraper(headless=True) # Always headless for cloud
+    scraper = GoogleMapsScraper(headless=True)
     scraper.start_browser()
     
     try:
-        # Single Pass Loop (for Cron)
+        all_results = []
+        
+        # 1. Base Scan: "Keyword + Trivandrum" (General Coverage)
+        print("--- Starting Base Scan (Trivandrum) ---")
         for keyword in KEYWORDS:
-            print(f"Checking for new '{keyword}' in {LOCATION}...")
-            
-            results = scraper.search_and_scrape(keyword, LOCATION)
-            print(f"Found {len(results)} results for {keyword}.")
-            
-            new_count = 0
-            for business in results:
-                if storage.is_new(business['place_id']):
-                    # Save first
-                    storage.add_place(business)
-                    new_count += 1
-                    
-                    # Only alert if NOT first run
-                    if not is_first_run:
-                        print(f"NEW FOUND: {business['name']} - Sending Alert")
-                        
-                        # Generate a smart search link for Instagram
-                        # We do this instead of scraping to prevent the free cloud IP from being blocked by Google.
-                        query = f"{business['name']} trivandrum instagram"
-                        ig_url = f"https://www.google.com/search?q={urllib.parse.quote(query)}"
-                        
-                        notifier.send_alert(business, ig_url)
-                        time.sleep(1) # Rate limit protection
-                    else:
-                        print(f"Discovered existing: {business['name']} (Silent Save)")
+            print(f"Scanning {keyword} in Trivandrum...")
+            results = scraper.search_and_scrape(keyword, "Trivandrum")
+            all_results.extend(results)
+            time.sleep(2)
 
-            print(f"Processed keyword '{keyword}'. New/Added: {new_count}")
-            # Short delay between keywords
-            time.sleep(random.randint(2, 5))
-            
+        # 2. Deep Scan: Pick 2 Random Locations from the expanded list
+        random_locations = random.sample(TRIVANDRUM_LOCATIONS, 2)
+        print(f"--- Starting Deep Scan ({', '.join(random_locations)}) ---")
+        
+        for loc in random_locations:
+            for keyword in KEYWORDS:
+                print(f"Scanning {keyword} in {loc}...")
+                results = scraper.search_and_scrape(keyword, loc)
+                all_results.extend(results)
+                time.sleep(2)
+        
+        # Process All Results
+        new_count = 0
+        for business in all_results:
+            if storage.is_new(business['place_id']):
+                # Save first
+                storage.add_place(business)
+                new_count += 1
+                
+                if not is_first_run:
+                    print(f"NEW FOUND: {business['name']} - Sending Alert")
+                    query = f"{business['name']} trivandrum instagram"
+                    ig_url = f"https://www.google.com/search?q={urllib.parse.quote(query)}"
+                    notifier.send_alert(business, ig_url)
+                    time.sleep(1)
+        
+        print(f"Run complete. Total New: {new_count}")
+
         # Export API Data
         storage.export_to_json("data.json")
         
-        # Export Metadata (Last Run Time)
+        # Export Metadata
         import json
         from datetime import datetime
         with open("metadata.json", "w") as f:

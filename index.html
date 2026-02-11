@@ -437,19 +437,25 @@
                 const cat = item.category || 'Unknown';
                 categories[cat] = (categories[cat] || 0) + 1;
 
-                // Use the smart vibe location logic if available or simpler split
-                let loc = "General";
+                // Expanded Location List for Deep Analytics
+                const ALL_LOCATIONS = [
+                    "Kazhakoottam", "Technopark", "Thampanoor", "Pattom", "Kowdiar", "Vazhuthacaud", "Palayam", "East Fort", "Ulloor",
+                    "Kesavadasapuram", "Sreekaryam", "Varkala", "Attingal", "Neyyattinkara", "Nedumangad", "Vizhinjam", "Poovar",
+                    "Kattakada", "Parassala", "Pothencode", "Vattiyoorkavu", "Peroorkada", "Nemom", "Manacaud", "Sreekaryam",
+                    "Kadinamkulam", "Chirayinkeezh", "Kilimanoor", "Venjaramoodu", "Vithura", "Ponmudi", "Kallambalam"
+                ];
+
+                // Location Extraction
+                let loc = "Trivandrum (General)";
                 if (item.address) {
-                    const parts = item.address.split(',');
-                    const addr = item.address.toLowerCase();
-                    if (addr.includes('kazhak')) loc = "Kazhakkoottam";
-                    else if (addr.includes('thamp')) loc = "Thampanoor";
-                    else if (addr.includes('kowdiar')) loc = "Kowdiar";
-                    else if (addr.includes('pattom')) loc = "Pattom";
-                    else if (addr.includes('palay')) loc = "Palayam";
-                    else if (addr.includes('techno')) loc = "Technopark";
-                    else if (addr.includes('vazhuth')) loc = "Vazhuthacaud";
-                    else if (parts.length > 2) loc = parts[parts.length - 3].trim();
+                    const addr_lower = item.address.toLowerCase();
+                    // Check against our master list
+                    for (const place of ALL_LOCATIONS) {
+                        if (addr_lower.includes(place.toLowerCase())) {
+                            loc = place;
+                            break;
+                        }
+                    }
                 }
                 locations[loc] = (locations[loc] || 0) + 1;
             });
