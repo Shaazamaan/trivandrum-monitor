@@ -11,6 +11,11 @@ WEBHOOK_URL = "https://discord.com/api/webhooks/1470815883613176003/zlIN-_hKPMPG
 # Import Advanced Taxonomy
 from keywords import ALL_KEYWORDS
 
+# CONFIG
+# Set to True for the first 48h to populate the DB without spamming alerts.
+# After 2 days, set this to False to start receiving "New Business" notifications.
+SILENT_MODE = True 
+
 # Dynamic Keyword Selection
 # We pick 10 random High-Value keywords per run to keep it fresh and broad.
 # This ensures we cycle through "Orthodontist", "Patent Attorney", "Vegan Restaurant" etc over time.
@@ -27,7 +32,10 @@ def main():
     
     # Check if this is the first run (DB is empty)
     is_first_run = storage.get_count() == 0
-    if is_first_run:
+    
+    if SILENT_MODE:
+        print("CONFIG: SILENT_MODE is ON. Populating database without alerts...")
+    elif is_first_run:
         print("First run detected! Monitoring mode: POPULATION (No alerts will be sent).")
     else:
         print("Monitoring mode: ACTIVE (Alerts enabled).")
@@ -68,7 +76,7 @@ def main():
                 storage.add_place(business)
                 new_count += 1
                 
-                if not is_first_run:
+                if not is_first_run and not SILENT_MODE:
                     # Intelligence Filter: High Priority if Reviews < 5
                     is_fresh = business.get('reviews', 0) < 5
                     fresh_tag = " [💎 FRESH OPPORTUNITY]" if is_fresh else ""
