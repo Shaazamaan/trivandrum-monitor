@@ -67,6 +67,12 @@ def main():
             
         # Export API Data
         storage.export_to_json("data.json")
+        
+        # Export Metadata (Last Run Time)
+        import json
+        from datetime import datetime
+        with open("metadata.json", "w") as f:
+            json.dump({"last_run": datetime.now().strftime("%Y-%m-%d %H:%M:%S")}, f)
             
     except Exception as e:
         print(f"Critical Error: {e}")

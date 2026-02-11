@@ -33,7 +33,7 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          git add known_places.db
+          git add known_places.db data.json metadata.json
           # Only commit if there are changes (i.e. new businesses found)
           git commit -m "Update known places database" || echo "No changes to commit"
           git push

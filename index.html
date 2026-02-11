@@ -1,26 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Trivandrum Monitor Health</title>
     <style>
-        body { font-family: sans-serif; padding: 20px; background: #f0f2f5; }
-        .container { max-width: 800px; margin: 0 auto; background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-        h1 { color: #333; }
-        .status { padding: 15px; background: #e8f5e9; border-radius: 4px; color: #2e7d32; margin-bottom: 20px; }
-        .error { background: #ffebee; color: #c62828; }
-        table { width: 100%; border-collapse: collapse; margin-top: 10px; }
-        th, td { text-align: left; padding: 12px; border-bottom: 1px solid #ddd; }
-        th { background-color: #f8f9fa; }
-        a { color: #1a73e8; text-decoration: none; }
-        a:hover { text-decoration: underline; }
+        body {
+            font-family: sans-serif;
+            padding: 20px;
+            background: #f0f2f5;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .status {
+            padding: 15px;
+            background: #e8f5e9;
+            border-radius: 4px;
+            color: #2e7d32;
+            margin-bottom: 20px;
+        }
+
+        .error {
+            background: #ffebee;
+            color: #c62828;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        th,
+        td {
+            text-align: left;
+            padding: 12px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        th {
+            background-color: #f8f9fa;
+        }
+
+        a {
+            color: #1a73e8;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
     </style>
 </head>
+
 <body>
     <div class="container">
         <h1>Google Maps Monitor Status</h1>
-        
+
         <div id="status-box" class="status">
             Loading status...
         </div>
@@ -31,6 +80,8 @@
                 <tr>
                     <th>Name</th>
                     <th>Category</th>
+                    <th>Contact</th>
+                    <th>Socials</th>
                     <th>Discovered At</th>
                 </tr>
             </thead>
@@ -38,7 +89,7 @@
                 <!-- Rows will be inserted here -->
             </tbody>
         </table>
-        
+
         <p style="margin-top:20px; font-size: 0.9em; color: #666;">
             Data Source: <a href="data.json">data.json</a> (Updated every ~20 mins)
         </p>
@@ -54,9 +105,9 @@
                 // In local dev we look for relative file, on Pages it works the same.
                 const response = await fetch('data.json?t=' + new Date().getTime());
                 if (!response.ok) throw new Error("Failed to fetch data");
-                
+
                 const data = await response.json();
-                
+
                 if (data.length === 0) {
                     statusBox.innerHTML = "<strong>System Online.</strong> Database is empty (waiting for first scrape).";
                     return;
@@ -67,29 +118,64 @@
                 const lastTime = new Date(lastItem.discovered_at);
                 const now = new Date();
                 const diffMins = Math.round((now - lastTime) / 60000);
-                
-                statusBox.innerHTML = `<strong>System Operational.</strong><br>Last new business found: ${diffMins} minutes ago.<br>Total tracked: ${data.length}`;
 
-                // Render Table (Top 5)
-                const recent = data.slice(0, 10);
-                tableBody.innerHTML = recent.map(item => `
+                // Fetch Metadata for actual "Last Scrape" time
+                let lastScrapeText = "Unknown";
+                try {
+                    const metaResponse = await fetch('metadata.json?t=' + now.getTime());
+                    if (metaResponse.ok) {
+                        const meta = await metaResponse.json();
+                        // formatting the date nicely
+                        const scrapeDate = new Date(meta.last_run);
+                        const minsAgo = Math.round((now - scrapeDate) / 60000);
+                        lastScrapeText = `${scrapeDate.toLocaleString()} (${minsAgo} mins ago)`;
+                    }
+                } catch (e) {
+                    console.log("No metadata yet");
+                }
+
+                statusBox.innerHTML = `
+                    <strong>System Operational</strong><br>
+                    Last Scrape Run: <strong>${lastScrapeText}</strong><br>
+                    Last New Business Found: ${diffMins} minutes ago<br>
+                    Total Tracked: ${data.length}
+                `;
+
+                // Render Table (Top 20)
+                const recent = data.slice(0, 20);
+                tableBody.innerHTML = recent.map(item => {
+                    // Construct Links
+                    const mapsLink = item.url || (item.place_id ? `https://www.google.com/maps/place/?q=place_id:${item.place_id}` : '#');
+                    const igLink = `https://www.google.com/search?q=${encodeURIComponent(item.name + ' trivandrum instagram')}`;
+                    const webLink = item.website ? `<a href="${item.website}" target="_blank">🌐 Website</a>` : '';
+                    const phone = item.phone || '';
+
+                    return `
                     <tr>
                         <td>
-                            <strong>${item.name}</strong><br>
+                            <strong><a href="${mapsLink}" target="_blank" style="color:#1a73e8">${item.name}</a></strong><br>
                             <span style="font-size:0.85em; color:#666">${item.address || 'No Address'}</span>
                         </td>
                         <td>${item.category || 'N/A'}</td>
-                        <td>${new Date(item.discovered_at).toLocaleString()}</td>
+                        <td style="font-size:0.9em">
+                            ${phone ? '📞 ' + phone + '<br>' : ''}
+                            ${webLink}
+                        </td>
+                        <td>
+                            <a href="${igLink}" target="_blank" style="color:#E1306C; font-weight:bold">📸 Instagram</a>
+                        </td>
+                        <td style="font-size:0.85em">${new Date(item.discovered_at).toLocaleString()}</td>
                     </tr>
-                `).join('');
+                `}).join('');
 
             } catch (e) {
                 statusBox.className = 'status error';
                 statusBox.innerText = "Error loading system status. " + e.message;
             }
         }
-        
+
         loadData();
     </script>
 </body>
+
 </html>
