@@ -46,7 +46,8 @@ class GoogleMapsScraper:
             
             # Scroll loop - let's do 5 scrolls for now to keep it fast for testing
             for _ in range(5):
-                self.page.evaluate(f'document.querySelector("{scrollable_div}").scrollBy(0, 5000)')
+                # Using more robust evaluate
+                self.page.evaluate('document.querySelector("div[role=\'feed\']").scrollBy(0, 5000)')
                 time.sleep(2)
             
             # Process results

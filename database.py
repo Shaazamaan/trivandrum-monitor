@@ -32,6 +32,24 @@ class Storage:
         conn.close()
         return count
 
+    def export_to_json(self, json_path="data.json"):
+        import json
+        conn = sqlite3.connect(self.db_path)
+        conn.row_factory = sqlite3.Row
+        cursor = conn.cursor()
+        cursor.execute('SELECT * FROM places ORDER BY discovered_at DESC')
+        rows = [dict(row) for row in cursor.fetchall()]
+        conn.close()
+        
+        # Convert datetime objects to string
+        for row in rows:
+            if row.get('discovered_at'):
+                row['discovered_at'] = str(row['discovered_at'])
+                
+        with open(json_path, 'w', encoding='utf-8') as f:
+            json.dump(rows, f, indent=2, ensure_ascii=False)
+        print(f"Exported {len(rows)} items to {json_path}")
+
     def is_new(self, place_id):
         conn = sqlite3.connect(self.db_path)
         cursor = conn.cursor()

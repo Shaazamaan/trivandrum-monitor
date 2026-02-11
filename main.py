@@ -65,6 +65,9 @@ def main():
             # Short delay between keywords
             time.sleep(random.randint(2, 5))
             
+        # Export API Data
+        storage.export_to_json("data.json")
+            
     except Exception as e:
         print(f"Critical Error: {e}")
     finally:
