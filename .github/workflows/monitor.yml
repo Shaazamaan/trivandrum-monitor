@@ -6,6 +6,13 @@ on:
     - cron: '*/20 * * * *'
   workflow_dispatch: # Allows manual trigger
 
+# CONCURRENCY CONTROL
+# Prevents multiple runs from overlapping and corrupting the database.
+# If a new run starts while one is running, it will queue (not cancel, to ensure data safety).
+concurrency:
+  group: scraper-prod
+  cancel-in-progress: false
+
 jobs:
   scrape_and_alert:
     runs-on: ubuntu-latest
@@ -20,6 +27,23 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.9'
+
+      # CACHING (Gold Standard Speed)
+      - name: Cache Pip
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Cache Playwright Browsers
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-playwright-
 
       - name: Install dependencies
         run: |

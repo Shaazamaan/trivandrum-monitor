@@ -32,6 +32,14 @@ class GoogleMapsScraper:
         if self.playwright:
             self.playwright.stop()
 
+    def clean_data(self, text):
+        if not text: return None
+        # Remove tracking params from URLs
+        if "http" in text:
+            return text.split("?utm")[0].split("&utm")[0]
+        # Remove "Call" from phone
+        return text.replace("Call", "").strip()
+
     def search_and_scrape(self, keyword, location="Trivandrum"):
         if not self.page:
             self.start_browser()
@@ -40,23 +48,33 @@ class GoogleMapsScraper:
         print(f"Searching for: {search_query}")
         
         # RESOURCE BLOCKING (Turbo Mode)
-        # We block images, fonts, and CSS to save bandwidth and speed up the scrape.
-        # This makes the scraper 2x faster and less detectable (mimics "Data Saver" mode).
         def route_intercept(route):
             if route.request.resource_type in ["image", "stylesheet", "font", "media"]:
                 route.abort()
             else:
                 route.continue_()
 
-        try:
-            self.page.route("**/*", route_intercept)
-            self.page.goto(f"https://www.google.com/maps/search/{search_query}", timeout=60000)
+        # RETRY LOGIC (Self-Healing)
+        max_retries = 3
+        for attempt in range(max_retries):
             try:
-                self.page.wait_for_selector('div[role="feed"]', timeout=5000)
-            except:
-                print(f"No results found for {search_query}")
-                return []
-            
+                self.page.route("**/*", route_intercept)
+                self.page.goto(f"https://www.google.com/maps/search/{search_query}", timeout=60000)
+                try:
+                    self.page.wait_for_selector('div[role="feed"]', timeout=10000)
+                    break # Success, exit retry loop
+                except:
+                    if attempt == max_retries - 1:
+                        print(f"No results found for {search_query} (after {max_retries} retries)")
+                        return []
+                    print(f"Retry {attempt+1}/{max_retries} for {search_query}...")
+                    time.sleep(2)
+            except Exception as e:
+                print(f"Network Error on {search_query}: {e}")
+                if attempt == max_retries - 1: return []
+                time.sleep(5)
+        
+        try:
             # Scroll loop - do 3 scrolls for speed/efficiency per sub-location
             for _ in range(3):
                 self.page.evaluate('document.querySelector("div[role=\'feed\']").scrollBy(0, 5000)')
@@ -73,6 +91,7 @@ class GoogleMapsScraper:
                     url_el = entry.query_selector('a')
                     if not url_el: continue
                     url = url_el.get_attribute('href')
+                    url = self.clean_data(url) # Sanitize URL
                     
                     text = entry.inner_text()
                     
@@ -89,58 +108,47 @@ class GoogleMapsScraper:
                     
                     import re
                     # Extract Rating/Reviews
-                    # Format is often "4.7(105)" or similar in the text
                     rating = None
                     reviews = 0
                     try:
-                        # Search for pattern like 4.7(1,234)
-                        # We look for a float followed by parens with digits
                         rating_match = re.search(r'([0-9]\.[0-9])\s*\(([\d,]+)\)', text)
                         if rating_match:
                             rating = float(rating_match.group(1))
                             reviews_str = rating_match.group(2).replace(',', '')
                             reviews = int(reviews_str)
                     except:
-                        pass # Keep defaults
-
+                        pass
+                    
                     pid_match = re.search(r'!1s(0x[0-9a-f]+:[0-9a-f]+)', url)
                     place_id = pid_match.group(1) if pid_match else url
                     
-                    
-                    # Extract Phone and Website from buttons
+                    # Extract Phone and Website
                     phone = None
                     website = None
                     
-                    # 1. Try to find Phone in "Call" button aria-label
                     try:
-                        # Look for button/link with aria-label starting with "Call"
-                        # E.g. aria-label="Call +91 1234567890"
                         phone_el = entry.query_selector('[aria-label^="Call"]')
                         if phone_el:
                             lbl = phone_el.get_attribute('aria-label')
                             if lbl:
-                                # Remove "Call " prefix
-                                phone = lbl.replace("Call", "").strip()
+                                phone = self.clean_data(lbl) # Sanitize Phone
                     except:
                         pass
 
-                    # 2. Try to find Website link
                     try:
-                        # Often has data-value="Website" or aria-label="Website"
-                        # Or simply is an 'a' tag that is NOT the main map link
                         website_el = entry.query_selector('a[data-value="Website"]')
                         if not website_el:
                             website_el = entry.query_selector('a[aria-label="Website"]')
                         
                         if website_el:
                             website = website_el.get_attribute('href')
-                            # Clean up Google redirect if present
                             if "google.com/url" in website:
                                 import urllib.parse
                                 parsed = urllib.parse.urlparse(website)
                                 qs = urllib.parse.parse_qs(parsed.query)
                                 if 'q' in qs:
                                     website = qs['q'][0]
+                            website = self.clean_data(website) # Sanitize Website
                     except:
                         pass
                     
