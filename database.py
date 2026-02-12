@@ -9,8 +9,8 @@ class Storage:
 
     def _init_db(self):
         conn = sqlite3.connect(self.db_path)
-        # Enable Write-Ahead Logging for concurrency and performance
-        conn.execute('PRAGMA journal_mode=WAL;')
+        # WAL mode removed for Git-Repo stability (avoiding .shm/.wal sync issues)
+        # conn.execute('PRAGMA journal_mode=WAL;') 
         cursor = conn.cursor()
         cursor.execute('''
             CREATE TABLE IF NOT EXISTS places (

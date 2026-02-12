@@ -13,7 +13,10 @@ class GoogleMapsScraper:
 
     def start_browser(self):
         self.playwright = sync_playwright().start()
-        self.browser = self.playwright.chromium.launch(headless=self.headless)
+        self.browser = self.playwright.chromium.launch(
+            headless=self.headless,
+            args=['--no-sandbox', '--disable-dev-shm-usage']
+        )
         
         # Random User Agent for Stealth
         random_ua = self.ua.random
