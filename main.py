@@ -56,10 +56,10 @@ def main():
             all_results.extend(results)
             time.sleep(2)
 
-        # 2. Deep Scan: Pick 2 Random Locations (Reduced from 4)
+        # 2. Deep Scan: Pick Random Locations
         # We process fewer locations per run but run often (every 20 mins).
         # This keeps the total daily coverage high while preventing crashes.
-        random_locations = random.sample(TRIVANDRUM_LOCATIONS, 2)
+        random_locations = random.sample(LOCATIONS, CONFIG["scraping"]["locations_per_run"])
         print(f"--- Starting Deep Scan ({', '.join(random_locations)}) ---")
         
         for loc in random_locations:

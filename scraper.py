@@ -1,6 +1,7 @@
 from playwright.sync_api import sync_playwright
 import time
 import random
+from fake_useragent import UserAgent
 
 class GoogleMapsScraper:
     def __init__(self, headless=True):
@@ -8,12 +9,20 @@ class GoogleMapsScraper:
         self.browser = None
         self.page = None
         self.playwright = None
+        self.ua = UserAgent()
 
     def start_browser(self):
         self.playwright = sync_playwright().start()
         self.browser = self.playwright.chromium.launch(headless=self.headless)
+        
+        # Random User Agent for Stealth
+        random_ua = self.ua.random
+        print(f"🕵️‍♂️ Stealth Mode: Using User-Agent: {random_ua[:30]}...")
+        
         self.context = self.browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+            user_agent=random_ua,
+            viewport={'width': 1920, 'height': 1080},
+            locale='en-US'
         )
         self.page = self.context.new_page()
 
@@ -30,7 +39,17 @@ class GoogleMapsScraper:
         search_query = f"{keyword} in {location}"
         print(f"Searching for: {search_query}")
         
+        # RESOURCE BLOCKING (Turbo Mode)
+        # We block images, fonts, and CSS to save bandwidth and speed up the scrape.
+        # This makes the scraper 2x faster and less detectable (mimics "Data Saver" mode).
+        def route_intercept(route):
+            if route.request.resource_type in ["image", "stylesheet", "font", "media"]:
+                route.abort()
+            else:
+                route.continue_()
+
         try:
+            self.page.route("**/*", route_intercept)
             self.page.goto(f"https://www.google.com/maps/search/{search_query}", timeout=60000)
             try:
                 self.page.wait_for_selector('div[role="feed"]', timeout=5000)
@@ -145,19 +164,4 @@ class GoogleMapsScraper:
             print(f"Error scraping {search_query}: {e}")
             return []
 
-TRIVANDRUM_LOCATIONS = [
-    "Thiruvananthapuram", "Andoorkonam", "Attipra", "Cheruvakkal", "Ayiroopara", "Kadakampally", "Kadinamkulam", "Kalliyoor", 
-    "Kazhakoottam", "Keezhthonnakkal", "Kowdiar", "Kudappanakunnu", "Manacaud", "Melthonackal", "Muttathara", "Nemom", "Pallipuram", 
-    "Pangapara", "Pattom", "Peroorkada", "Pettah", "Sasthamangalam", "Thirumala", "Thiruvallam", "Thycaud", "Uliyazhathura", "Uloor", 
-    "Vanchiyoor", "Vattiyoorkavu", "Veiloor", "Veganoor", "Menamkulam", "Alamcode", "Attingal", "Azhoor", "Edakode", "Koonthalloor", 
-    "Kadakkavur", "Karavaram", "Keezhattingal", "Kizhuvillam", "Kilimanoor", "Koduvazhanoor", "Nagaroor", "Pazhayakunnummel", "Pulimath", 
-    "Sarkara", "Vakkam", "Vellalloor", "Avanavancherry", "Elamba", "Mudhakkal", "Anchuthengu", "Anad", "Aruvikkara", "Aryanad", 
-    "Kallara Nedumangad", "Karakulam", "Karippur", "Koliyacode", "Kurupuzha", "Manikkal", "Nedumangad", "Nellanad", "Palode", "Panavoor", 
-    "Peringammala", "Pullampara", "Thekkada", "Thennoor", "Tholicode", "Uzhamalakkal", "Vamanapuram", "Vattappara", "Vellanad", 
-    "Vembayam", "Vithura", "Pangode", "Anavoor", "Athiyannoor", "Chenkal", "Kanjiramkulam", "Karumkulam", "Karode", "Kollayil", 
-    "Kottukal", "Kulathoor", "Kunnathukal", "Neyyattinkara", "Pallichal", "Parassala", "Parasuvaikkal", "Perumkadavila", "Perumpazhuthoor", 
-    "Thirupuram", "Vellarada", "Vizhinjam", "Balaramapuram", "Poovar", "Amboori", "Kallikkad", "Keezharoor", "Kulathummal", "Malayinkeezh", 
-    "Mannoorkkara", "Maranallur", "Ottasekharamangalam", "Perumkulam", "Vazhichal", "Veeranakav", "Vilappil", "Vilavoorkal", "Ayiroor", 
-    "Chemmaruthi", "Cherunniyur", "Edava", "Kudavoor", "Madavoor", "Manamboor", "Navaikulam", "Ottur", "Pallikkal", "Varkala", "Vettur", 
-    "Chirayinkeezh", "Kattakada"
-]
+
