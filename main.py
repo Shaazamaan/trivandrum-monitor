@@ -3,6 +3,7 @@ from database import Storage
 from notifier import DiscordNotifier
 import time
 import random
+import urllib.parse
 
 # CONFIG
 WEBHOOK_URL = "https://discord.com/api/webhooks/1470815883613176003/zlIN-_hKPMPGYIvmyK3jWhPrjrWNQlXUpBLBCr7JuK3HxJ4WB26-5fwt84Nv-hJCesHV"
