@@ -9,6 +9,8 @@ class Storage:
 
     def _init_db(self):
         conn = sqlite3.connect(self.db_path)
+        # Enable Write-Ahead Logging for concurrency and performance
+        conn.execute('PRAGMA journal_mode=WAL;')
         cursor = conn.cursor()
         cursor.execute('''
             CREATE TABLE IF NOT EXISTS places (
@@ -32,23 +34,38 @@ class Storage:
         conn.close()
         return count
 
-    def export_to_json(self, json_path="data.json"):
+    def export_partitioned(self):
+        """
+        Exports two files:
+        1. data.json: Latest 1000 items (Hot Data for fast loading)
+        2. archive.json: All items (Cold Data for history)
+        """
         import json
         conn = sqlite3.connect(self.db_path)
         conn.row_factory = sqlite3.Row
         cursor = conn.cursor()
+        
+        # Fetch ALL data sorted by newest first
         cursor.execute('SELECT * FROM places ORDER BY discovered_at DESC')
         rows = [dict(row) for row in cursor.fetchall()]
         conn.close()
         
-        # Convert datetime objects to string
+        # Convert timestamps
         for row in rows:
             if row.get('discovered_at'):
                 row['discovered_at'] = str(row['discovered_at'])
+
+        # 1. HOT DATA (Latest 1000)
+        hot_data = rows[:1000]
+        with open("data.json", 'w', encoding='utf-8') as f:
+            json.dump(hot_data, f, indent=2, ensure_ascii=False)
+            
+        # 2. COLD DATA (Full Archive) - Only if we have more than 1000
+        if len(rows) > 0:
+            with open("archive.json", 'w', encoding='utf-8') as f:
+                json.dump(rows, f, indent=2, ensure_ascii=False)
                 
-        with open(json_path, 'w', encoding='utf-8') as f:
-            json.dump(rows, f, indent=2, ensure_ascii=False)
-        print(f"Exported {len(rows)} items to {json_path}")
+        print(f"Exported: data.json ({len(hot_data)}), archive.json ({len(rows)})")
 
     def is_new(self, place_id):
         conn = sqlite3.connect(self.db_path)

@@ -1,0 +1,6 @@
+# Ignore local data files so they don't overwrite Cloud Data
+data.json
+metadata.json
+known_places.db
+__pycache__/
+*.pyc

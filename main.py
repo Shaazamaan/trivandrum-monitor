@@ -95,8 +95,8 @@ def main():
         
         print(f"Run complete. Total New: {new_count}")
 
-        # Export API Data
-        storage.export_to_json("data.json")
+        # Export API Data (Hot & Cold)
+        storage.export_partitioned()
         
         # Export Metadata
         import json
