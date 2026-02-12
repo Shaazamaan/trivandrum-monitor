@@ -87,6 +87,44 @@ class GoogleMapsScraper:
                     pid_match = re.search(r'!1s(0x[0-9a-f]+:[0-9a-f]+)', url)
                     place_id = pid_match.group(1) if pid_match else url
                     
+                    
+                    # Extract Phone and Website from buttons
+                    phone = None
+                    website = None
+                    
+                    # 1. Try to find Phone in "Call" button aria-label
+                    try:
+                        # Look for button/link with aria-label starting with "Call"
+                        # E.g. aria-label="Call +91 1234567890"
+                        phone_el = entry.query_selector('[aria-label^="Call"]')
+                        if phone_el:
+                            lbl = phone_el.get_attribute('aria-label')
+                            if lbl:
+                                # Remove "Call " prefix
+                                phone = lbl.replace("Call", "").strip()
+                    except:
+                        pass
+
+                    # 2. Try to find Website link
+                    try:
+                        # Often has data-value="Website" or aria-label="Website"
+                        # Or simply is an 'a' tag that is NOT the main map link
+                        website_el = entry.query_selector('a[data-value="Website"]')
+                        if not website_el:
+                            website_el = entry.query_selector('a[aria-label="Website"]')
+                        
+                        if website_el:
+                            website = website_el.get_attribute('href')
+                            # Clean up Google redirect if present
+                            if "google.com/url" in website:
+                                import urllib.parse
+                                parsed = urllib.parse.urlparse(website)
+                                qs = urllib.parse.parse_qs(parsed.query)
+                                if 'q' in qs:
+                                    website = qs['q'][0]
+                    except:
+                        pass
+                    
                     results.append({
                         "place_id": place_id,
                         "name": aria_label,
@@ -95,8 +133,8 @@ class GoogleMapsScraper:
                         "url": url,
                         "rating": rating,
                         "reviews": reviews,
-                        "phone": None,
-                        "website": None
+                        "phone": phone,
+                        "website": website
                     })
                 except:
                     continue

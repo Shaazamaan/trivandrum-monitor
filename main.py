@@ -17,9 +17,11 @@ from keywords import ALL_KEYWORDS
 SILENT_MODE = True 
 
 # Dynamic Keyword Selection
-# We pick 10 random High-Value keywords per run to keep it fresh and broad.
-# This ensures we cycle through "Orthodontist", "Patent Attorney", "Vegan Restaurant" etc over time.
-TARGET_KEYWORDS = random.sample(ALL_KEYWORDS, 10)
+# REDUCED BATCH SIZE FOR SAFETY
+# We pick 5 random High-Value keywords per run to keep runtime short (~3-5 mins).
+# 5 keywords * 3 locations = 15 searches per run.
+# This prevents GitHub Actions timeouts and Google IP blocks.
+TARGET_KEYWORDS = random.sample(ALL_KEYWORDS, 5)
 
 LOCATION = "Trivandrum"
 
@@ -54,11 +56,10 @@ def main():
             all_results.extend(results)
             time.sleep(2)
 
-        # 2. Deep Scan: Pick 4 Random Locations from the expanded list
-        # We have ~85 locations. 
-        # 4 locs * 72 runs/day = 288 scans/day.
-        # Probability of a location being missed in 24h drops to < 2%.
-        random_locations = random.sample(TRIVANDRUM_LOCATIONS, 4)
+        # 2. Deep Scan: Pick 2 Random Locations (Reduced from 4)
+        # We process fewer locations per run but run often (every 20 mins).
+        # This keeps the total daily coverage high while preventing crashes.
+        random_locations = random.sample(TRIVANDRUM_LOCATIONS, 2)
         print(f"--- Starting Deep Scan ({', '.join(random_locations)}) ---")
         
         for loc in random_locations:
