@@ -58,7 +58,8 @@ jobs:
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           # Removed 'git pull' to prevent binary conflicts. Concurrency handles serialization.
-          git add known_places.db data.json metadata.json
+          git add -f known_places.db data.json
+          git add -f metadata.json
           # Only commit if there are changes (i.e. new businesses found)
           git commit -m "Update known places database" || echo "No changes to commit"
           git push
