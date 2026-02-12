@@ -27,10 +27,10 @@ TRIVANDRUM_LOCATIONS = [
 
 # Dynamic Keyword Selection
 # REDUCED BATCH SIZE FOR SAFETY
-# We pick 5 random High-Value keywords per run to keep runtime short (~3-5 mins).
-# 5 keywords * 3 locations = 15 searches per run.
+# We pick 3 random High-Value keywords per run to keep runtime short (~3-5 mins).
+# 3 keywords * 3 locations = 9 searches per run.
 # This prevents GitHub Actions timeouts and Google IP blocks.
-TARGET_KEYWORDS = random.sample(ALL_KEYWORDS, 5)
+TARGET_KEYWORDS = random.sample(ALL_KEYWORDS, 3)
 
 LOCATION = "Trivandrum"
 
