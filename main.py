@@ -1,5 +1,4 @@
-import urllib.parse
-from scraper import GoogleMapsScraper, TRIVANDRUM_LOCATIONS
+from scraper import GoogleMapsScraper
 from database import Storage
 from notifier import DiscordNotifier
 import time
@@ -14,7 +13,16 @@ from keywords import ALL_KEYWORDS
 # CONFIG
 # Set to True for the first 48h to populate the DB without spamming alerts.
 # After 2 days, set this to False to start receiving "New Business" notifications.
-SILENT_MODE = True 
+SILENT_MODE = False 
+
+# Locations to Scan
+TRIVANDRUM_LOCATIONS = [
+    "Kazhakoottam", "Technopark", "Thampanoor", "Pattom", "Kowdiar", "Vazhuthacaud", "Palayam",
+    "East Fort", "Ulloor", "Kesavadasapuram", "Sreekaryam", "Varkala", "Attingal", "Neyyattinkara",
+    "Nedumangad", "Vizhinjam", "Poovar", "Kattakada", "Parassala", "Pothencode", "Vattiyoorkavu",
+    "Peroorkada", "Nemom", "Manacaud", "Kadinamkulam", "Chirayinkeezh", "Kilimanoor",
+    "Venjaramoodu", "Vithura", "Ponmudi", "Kallambalam"
+]
 
 # Dynamic Keyword Selection
 # REDUCED BATCH SIZE FOR SAFETY
@@ -59,7 +67,7 @@ def main():
         # 2. Deep Scan: Pick Random Locations
         # We process fewer locations per run but run often (every 20 mins).
         # This keeps the total daily coverage high while preventing crashes.
-        random_locations = random.sample(LOCATIONS, CONFIG["scraping"]["locations_per_run"])
+        random_locations = random.sample(TRIVANDRUM_LOCATIONS, 3)
         print(f"--- Starting Deep Scan ({', '.join(random_locations)}) ---")
         
         for loc in random_locations:
