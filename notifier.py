@@ -61,7 +61,8 @@ class DiscordNotifier:
             response = requests.post(
                 self.webhook_url, 
                 data=json.dumps(payload), 
-                headers={"Content-Type": "application/json"}
+                headers={"Content-Type": "application/json"},
+                timeout=10
             )
             response.raise_for_status()
         except Exception as e:
