@@ -2,6 +2,8 @@
 
 > **Live Intelligence Dashboard for Trivandrum Business Ecosystem.**
 
+[![Google Maps Monitor](https://github.com/Shaazamaan/trivandrum-monitor/actions/workflows/monitor.yml/badge.svg)](https://github.com/Shaazamaan/trivandrum-monitor/actions/workflows/monitor.yml)
+
 ![HASHCOVETS Monitor](logo-full.png)
 
 ## Overview

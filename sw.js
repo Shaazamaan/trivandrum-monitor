@@ -10,9 +10,14 @@ const ASSETS = [
 ];
 
 self.addEventListener('install', (e) => {
+    self.skipWaiting(); // Force new service worker to activate immediately
     e.waitUntil(
         caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSETS))
     );
+});
+
+self.addEventListener('activate', (e) => {
+    e.waitUntil(clients.claim()); // Take control of open tabs immediately
 });
 
 self.addEventListener('fetch', (e) => {
