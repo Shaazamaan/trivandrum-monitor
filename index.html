@@ -497,7 +497,8 @@
             const sortedData = [...dataToRender].sort((a, b) => new Date(b.discovered_at) - new Date(a.discovered_at));
 
             tableBody.innerHTML = sortedData.map(item => {
-                const mapsLink = item.url || (item.place_id ? `https://www.google.com/maps/place/?q=place_id:${item.place_id}` : '#');
+                // Prioritize Canonical Place ID Link for accuracy
+                const mapsLink = item.place_id ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.name)}&query_place_id=${item.place_id}` : (item.url || '#');
                 const igLink = `https://www.google.com/search?q=${encodeURIComponent(item.name + ' trivandrum instagram')}`;
                 const webLink = item.website ? `<a href="${item.website}" target="_blank">🌐 Website</a>` : '';
                 const phone = item.phone || '';

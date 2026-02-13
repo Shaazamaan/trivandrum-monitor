@@ -130,11 +130,19 @@ class GoogleMapsScraper:
                     website = None
                     
                     try:
+                        # Strategy 1: Aria Label (Call ...)
                         phone_el = entry.query_selector('[aria-label^="Call"]')
                         if phone_el:
                             lbl = phone_el.get_attribute('aria-label')
                             if lbl:
                                 phone = self.clean_data(lbl) # Sanitize Phone
+                        
+                        # Strategy 2: Regex on Inner Text (Fallback)
+                        if not phone:
+                            # Matches formats like: 0471 234 5678, +91 98765 43210, 9876543210
+                            phone_match = re.search(r'((\+91|0)?\s?\d{3,5}\s?\d{5,8})', text)
+                            if phone_match:
+                                phone = phone_match.group(0).strip()
                     except:
                         pass
 
