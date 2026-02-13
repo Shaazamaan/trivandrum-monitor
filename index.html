@@ -323,6 +323,41 @@
             Notification.requestPermission();
         }
 
+        // Function to load full history (no date filter)
+        async function loadArchive() {
+            try {
+                document.getElementById('loadHistoryBtn').textContent = '⏳ Loading...';
+                const response = await fetch('data.json?t=' + new Date().getTime());
+                if (!response.ok) throw new Error("Failed to fetch archive");
+
+                allData = await response.json(); // Load ALL data without date filter
+
+                // Calculate Vibe & Location for each item
+                allData.forEach(item => {
+                    item.vibe = analyzeVibe(item);
+                    item.coords = getApproxCoords(item.address);
+                });
+
+                document.getElementById('status-box').innerHTML = `
+                    <strong>Full Database Loaded</strong><br>
+                    Total Businesses: <strong>${allData.length}</strong><br>
+                    <div style="margin-top:10px;">
+                        <button onclick="location.reload()" style="background:var(--accent-color); color:white; border:none; padding:5px 10px; border-radius:4px; cursor:pointer; font-size:0.8em;">
+                            ↻ Back to Live Feed
+                        </button>
+                    </div>
+                `;
+
+                document.getElementById('analytics-section').style.display = 'block';
+                renderTable(allData);
+                renderCharts(allData);
+                initMap(allData);
+            } catch (error) {
+                alert('Failed to load history: ' + error.message);
+                console.error('Archive load error:', error);
+            }
+        }
+
         async function loadData() {
             const statusBox = document.getElementById('status-box');
             const liveIndicator = document.getElementById('live-indicator');
@@ -497,8 +532,8 @@
             const sortedData = [...dataToRender].sort((a, b) => new Date(b.discovered_at) - new Date(a.discovered_at));
 
             tableBody.innerHTML = sortedData.map(item => {
-                // Prioritize Canonical Place ID Link for accuracy
-                const mapsLink = item.place_id ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.name)}&query_place_id=${item.place_id}` : (item.url || '#');
+                // Use original URL from scraper (already in correct Google Maps format)
+                const mapsLink = item.url || '#';
                 const igLink = `https://www.google.com/search?q=${encodeURIComponent(item.name + ' trivandrum instagram')}`;
                 const webLink = item.website ? `<a href="${item.website}" target="_blank">🌐 Website</a>` : '';
                 const phone = item.phone || '';
