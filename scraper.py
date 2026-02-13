@@ -125,50 +125,72 @@ class GoogleMapsScraper:
                     pid_match = re.search(r'!1s(0x[0-9a-f]+:[0-9a-f]+)', url)
                     place_id = pid_match.group(1) if pid_match else url
                     
-                    # Extract Phone and Website
+                    # Extract Phone and Website by clicking into detail page
                     phone = None
                     website = None
+                    canonical_url = url  # Fallback to search result URL
                     
                     try:
-                        # Strategy 1: Aria Label (Call ...)
-                        phone_el = entry.query_selector('[aria-label^="Call"]')
-                        if phone_el:
-                            lbl = phone_el.get_attribute('aria-label')
-                            if lbl:
-                                phone = self.clean_data(lbl) # Sanitize Phone
+                        # Click the listing to open detail panel
+                        url_el.click()
+                        time.sleep(2)  # Wait for panel to load
                         
-                        # Strategy 2: Regex on Inner Text (Fallback)
+                        # Get the canonical Place URL from browser address bar
+                        current_url = self.page.url
+                        if '/maps/place/' in current_url:
+                            canonical_url = current_url
+                        
+                        # Extract phone from detail panel
+                        # Strategy 1: Look for phone number button/link
+                        phone_button = self.page.query_selector('button[data-item-id^="phone"]')
+                        if phone_button:
+                            phone_text = phone_button.get_attribute('aria-label')
+                            if phone_text:
+                                # Extract just the number from "Phone: +91 xxx xxx xxxx"
+                                phone_match = re.search(r'[\d\s\+\-\(\)]+$', phone_text)
+                                if phone_match:
+                                    phone = phone_match.group(0).strip()
+                        
+                        # Strategy 2: Look in the detail panel text
                         if not phone:
-                            # Matches formats like: 0471 234 5678, +91 98765 43210, 9876543210
-                            phone_match = re.search(r'((\+91|0)?\s?\d{3,5}\s?\d{5,8})', text)
-                            if phone_match:
-                                phone = phone_match.group(0).strip()
-                    except:
-                        pass
-
-                    try:
-                        website_el = entry.query_selector('a[data-value="Website"]')
-                        if not website_el:
-                            website_el = entry.query_selector('a[aria-label="Website"]')
+                            detail_panel = self.page.query_selector('div[role="main"]')
+                            if detail_panel:
+                                detail_text = detail_panel.inner_text()
+                                # Match Indian phone patterns
+                                phone_match = re.search(r'(\+91[\s\-]?)?[6-9]\d{9}', detail_text)
+                                if phone_match:
+                                    phone = phone_match.group(0).strip()
                         
-                        if website_el:
-                            website = website_el.get_attribute('href')
-                            if "google.com/url" in website:
+                        # Extract website
+                        website_link = self.page.query_selector('a[data-item-id="authority"]')
+                        if not website_link:
+                            website_link = self.page.query_selector('a[aria-label*="Website"]')
+                        
+                        if website_link:
+                            website = website_link.get_attribute('href')
+                            if website and "google.com/url" in website:
                                 import urllib.parse
                                 parsed = urllib.parse.urlparse(website)
                                 qs = urllib.parse.parse_qs(parsed.query)
                                 if 'q' in qs:
                                     website = qs['q'][0]
-                            website = self.clean_data(website) # Sanitize Website
-                    except:
-                        pass
+                            if website:
+                                website = self.clean_data(website)
+                        
+                        # Go back to results list
+                        self.page.go_back()
+                        time.sleep(1)
+                        
+                    except Exception as e:
+                        print(f"Error extracting details for {aria_label}: {e}")
+                        # Continue with None values
                     
                     results.append({
                         "place_id": place_id,
                         "name": aria_label,
                         "category": category,
                         "address": address,
-                        "url": url,
+                        "url": canonical_url,  # Use the canonical URL from detail page
                         "rating": rating,
                         "reviews": reviews,
                         "phone": phone,
