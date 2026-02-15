@@ -59,10 +59,12 @@ class GoogleMapsScraper:
 
         # RETRY LOGIC (Self-Healing)
         max_retries = 3
+        search_url = f"https://www.google.com/maps/search/{search_query}"  # Store for potential reload
+        
         for attempt in range(max_retries):
             try:
                 self.page.route("**/*", route_intercept)
-                self.page.goto(f"https://www.google.com/maps/search/{search_query}", timeout=60000)
+                self.page.goto(search_url, timeout=60000)
                 try:
                     self.page.wait_for_selector('div[role="feed"]', timeout=10000)
                     break # Success, exit retry loop
@@ -76,6 +78,7 @@ class GoogleMapsScraper:
                 print(f"Network Error on {search_query}: {e}")
                 if attempt == max_retries - 1: return []
                 time.sleep(5)
+        
         
         try:
             # Scroll loop - do 3 scrolls for speed/efficiency per sub-location
@@ -133,12 +136,21 @@ class GoogleMapsScraper:
                     try:
                         # Click the listing to open detail panel
                         url_el.click()
-                        time.sleep(2)  # Wait for panel to load
+                        
+                        # Wait for detail panel to load (dynamic wait up to 5 seconds)
+                        try:
+                            self.page.wait_for_selector('div[role="main"]', timeout=5000)
+                        except:
+                            # Detail panel didn't load, skip this listing
+                            print(f"⚠️ Detail panel timeout for: {aria_label[:30]}...")
+                            raise Exception("Detail panel load timeout")
                         
                         # Get the canonical Place URL from browser address bar
                         current_url = self.page.url
                         if '/maps/place/' in current_url:
                             canonical_url = current_url
+                        else:
+                            print(f"⚠️ URL didn't navigate to place page: {current_url[:50]}")
                         
                         # Extract phone from detail panel
                         # Strategy 1: Look for phone number button/link
@@ -177,13 +189,25 @@ class GoogleMapsScraper:
                             if website:
                                 website = self.clean_data(website)
                         
-                        # Go back to results list
-                        self.page.go_back()
-                        time.sleep(1)
+                        # Go back to results list with error handling
+                        try:
+                            self.page.go_back()
+                            # Wait for results feed to be visible again
+                            self.page.wait_for_selector('div[role="feed"]', timeout=3000)
+                        except:
+                            # Fallback: reload the search if go_back fails
+                            print(f"⚠️ go_back() failed, reloading search...")
+                            self.page.goto(search_url)
+                            self.page.wait_for_selector('div[role="feed"]', timeout=10000)
                         
                     except Exception as e:
-                        print(f"Error extracting details for {aria_label}: {e}")
-                        # Continue with None values
+                        print(f"❌ Error extracting details for {aria_label}: {e}")
+                        # Try to recover: reload the search page
+                        try:
+                            self.page.goto(search_url)
+                            self.page.wait_for_selector('div[role="feed"]', timeout=10000)
+                        except:
+                            pass  # Continue with None values
                     
                     results.append({
                         "place_id": place_id,
