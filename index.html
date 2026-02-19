@@ -532,8 +532,12 @@
             const sortedData = [...dataToRender].sort((a, b) => new Date(b.discovered_at) - new Date(a.discovered_at));
 
             tableBody.innerHTML = sortedData.map(item => {
-                // Use original URL from scraper (already in correct Google Maps format)
-                const mapsLink = item.url || '#';
+                // Robust Map Link Logic
+                let mapsLink = item.url;
+                if (!mapsLink || !mapsLink.startsWith('http') || mapsLink.includes('place_id:')) {
+                    // Fallback to name search if URL is broken/missing
+                    mapsLink = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(item.name + ' ' + (item.address || 'Trivandrum'))}`;
+                }
                 const igLink = `https://www.google.com/search?q=${encodeURIComponent(item.name + ' trivandrum instagram')}`;
                 const webLink = item.website ? `<a href="${item.website}" target="_blank">🌐 Website</a>` : '';
                 const phone = item.phone || '';

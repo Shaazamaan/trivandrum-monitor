@@ -153,25 +153,49 @@ class GoogleMapsScraper:
                             print(f"⚠️ URL didn't navigate to place page: {current_url[:50]}")
                         
                         # Extract phone from detail panel
-                        # Strategy 1: Look for phone number button/link
-                        phone_button = self.page.query_selector('button[data-item-id^="phone"]')
-                        if phone_button:
-                            phone_text = phone_button.get_attribute('aria-label')
-                            if phone_text:
-                                # Extract just the number from "Phone: +91 xxx xxx xxxx"
-                                phone_match = re.search(r'[\d\s\+\-\(\)]+$', phone_text)
-                                if phone_match:
-                                    phone = phone_match.group(0).strip()
-                        
-                        # Strategy 2: Look in the detail panel text
+                        # Extract phone from detail panel
+                        # Strategy 1: Look for phone number button (specific data-item-id)
+                        try:
+                            phone_button = self.page.query_selector('button[data-item-id^="phone"]')
+                            if phone_button:
+                                phone_text = phone_button.get_attribute('aria-label')
+                                if phone_text:
+                                    phone_match = re.search(r'[\d\s\+\-\(\)]+$', phone_text)
+                                    if phone_match:
+                                        phone = phone_match.group(0).strip()
+                        except: pass
+
+                        # Strategy 2: Look for any button with a phone icon or "Call" text
+                        if not phone:
+                            try:
+                                buttons = self.page.query_selector_all('button')
+                                for btn in buttons:
+                                    txt = btn.inner_text()
+                                    if '0471' in txt or '+91' in txt or (len(re.findall(r'\d', txt)) > 6 and 'Call' not in txt): # Primitive phone check
+                                         phone_match = re.search(r'(\+91[\s\-]?)?[6-9]\d{9}|0471[\s\-]?\d+', txt)
+                                         if phone_match:
+                                             phone = phone_match.group(0).strip()
+                                             break
+                                    # Check aria-label of all buttons
+                                    lbl = btn.get_attribute('aria-label')
+                                    if lbl and ('Phone:' in lbl or 'Call' in lbl):
+                                         phone_match = re.search(r'[\d\s\+\-\(\)]+$', lbl)
+                                         if phone_match:
+                                             phone = phone_match.group(0).strip()
+                                             break
+                            except: pass
+
+                        # Strategy 3: Look in the detail panel text (broad regex)
                         if not phone:
                             detail_panel = self.page.query_selector('div[role="main"]')
                             if detail_panel:
                                 detail_text = detail_panel.inner_text()
-                                # Match Indian phone patterns
-                                phone_match = re.search(r'(\+91[\s\-]?)?[6-9]\d{9}', detail_text)
+                                # Match Indian phone patterns (Mobile & Landline)
+                                phone_match = re.search(r'(\+?91[\s\-]?)?([6-9]\d{9}|0471[\s\-]?\d{6,7})', detail_text)
                                 if phone_match:
                                     phone = phone_match.group(0).strip()
+                        
+                        print(f"   -> Extracted Phone: {phone}, URL: {canonical_url[:40]}...")
                         
                         # Extract website
                         website_link = self.page.query_selector('a[data-item-id="authority"]')
