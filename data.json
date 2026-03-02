@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x3b05bbd4e563b0bd:0",
+    "name": "Doctor's Wellness & Weight, Diabetes & Lifestyle Disease Management Centre",
+    "address": "Thaliyal Rd, opposite Indira Gandhi Statue",
+    "category": "Weight loss service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 06:07:05.920977"
+  },
+  {
+    "place_id": "0x3b05bf1d6af12037:0",
+    "name": "Sreekripa Crane Service",
+    "address": "+91 94477 18186",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 06:07:04.777339"
+  },
+  {
+    "place_id": "0x3b05bf77cbbdfbc5:0",
+    "name": "SHAAN NUTRITION CENTER,Trivandrum, Kazhakoottam (Weightloss center)",
+    "address": "Bus Stop, Sreekariyam - Kazhakuttam Rd",
+    "category": "Weight loss service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 06:07:03.620855"
+  },
+  {
+    "place_id": "0x3b05bfa0039e6c69:0",
+    "name": "Little Techys Day Care",
+    "address": "HVPC+RJF, Kazhakoottam - Kilimanoor Rd",
+    "category": "Day care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 06:07:02.485305"
+  },
+  {
+    "place_id": "0x3b05ac2683161489:0",
+    "name": "Kaliveetil Car Service Center",
+    "address": "Kalivettil Mall",
+    "category": "Car wash",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 06:07:01.337110"
+  },
+  {
+    "place_id": "0x3b05af155f6ffd21:0",
+    "name": "Nutrition Centre, Neyyattinkara, Trivandrum",
+    "address": "A.K.S Tower, 16/133, Shop No.2, 1st Floor, opp. Indian Oil Petrol Pump",
+    "category": "Nutritionist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 06:07:00.124760"
+  },
+  {
+    "place_id": "0x3b05afafdfb2184d:0",
+    "name": "HelpAge India Multi Service Day Centre, Neyyattinkara (മാതൃക സായംപ്രഭ ഹോം)",
+    "address": "C377+7H3",
+    "category": "Adult day care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 06:06:58.954390"
+  },
+  {
+    "place_id": "0x3b061302572d73a1:0",
+    "name": "Trust Road Side Assistance and recovery service",
+    "address": "Karikkakom",
+    "category": "Towing service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 06:06:57.789470"
+  },
+  {
+    "place_id": "0x3b05bb4cae09f8bf:0",
+    "name": "Meraki Ayurvedic & Wellness Clinic, Weight Loss, Nutrition Counseling, PCOS Treatment in Trivandrum",
+    "address": "EVRA 353, Easwaravilasam Rd",
+    "category": "Weight loss service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 06:06:56.643833"
+  },
+  {
+    "place_id": "0x3b05bbfaedf990ef:0",
+    "name": "De Paul Care Centre",
+    "address": "",
+    "category": "Adult day care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 06:06:55.492686"
+  },
+  {
     "place_id": "0x3b05bba0d9b466e7:0",
     "name": "SEnSOL (Solar On Grid Power Plants | RACOLD Solar Water Heaters | LUMINOUS Inverters)",
     "address": "Padmavilasam Rd",
@@ -8908,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-11 19:49:08.106538"
-  },
-  {
-    "place_id": "0x3b05bf7c822a70ed:0",
-    "name": "Tiger Gym Kazhakkoottam",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.097021"
-  },
-  {
-    "place_id": "0x3b05bb9b6ffa5d09:0",
-    "name": "Evolve Gym & Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.089712"
-  },
-  {
-    "place_id": "0x3b05bb9ab44acecb:0",
-    "name": "Lion Gym Vazhuthacaud",
-    "address": "3rd and 4th Floor, Lion Gym, Sree Valsam Building (Dianby World, near Kalabhavan Theatre",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.078216"
-  },
-  {
-    "place_id": "0x3b05bb0033518577:0",
-    "name": "B-Fitzone Gym",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.068562"
-  },
-  {
-    "place_id": "0x3b05bb248fbfb76d:0",
-    "name": "Endura Gym",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.057727"
-  },
-  {
-    "place_id": "0x3b05bbcccf7edb6d:0",
-    "name": "Jones Gym Trivandrum",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.048012"
-  },
-  {
-    "place_id": "0x3b080dc2c5630cdf:0",
-    "name": "Saanparam Fitness Centre",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.039813"
-  },
-  {
-    "place_id": "0x3b0872ceefb3117f:0",
-    "name": "Gladiator Health & Fitness Centre",
-    "address": "MELKA Tower, Cheruparambath Rd, near Titan eye",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.029058"
-  },
-  {
-    "place_id": "0x3b0872c962756961:0",
-    "name": "Stark Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.020352"
   }
 ]
