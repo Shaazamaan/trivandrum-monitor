@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05ea0744605f75:0",
+    "name": "Yamaha Blue Square - Shreya Motors",
+    "address": "Alba Tower, jn, near Korani",
+    "category": "Motorcycle dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 20:01:07.239336"
+  },
+  {
+    "place_id": "0x3b05c17af3c2bc27:0",
+    "name": "Dr Arya A Hari, MBBS ,MD Psychiatry",
+    "address": "KIMS AMC",
+    "category": "Psychiatrist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 20:01:05.761425"
+  },
+  {
+    "place_id": "0x3b05becaded62845:0",
+    "name": "Mass Motors - Bajaj Motorcycles Authorized Service Centre",
+    "address": "",
+    "category": "Motorcycle dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 20:01:04.616079"
+  },
+  {
+    "place_id": "0x3b05bf29bfffffff:0",
+    "name": "Genisys Engineers & Contractors",
+    "address": "",
+    "category": "Engineering consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 20:01:03.006300"
+  },
+  {
+    "place_id": "0x3b05b11476b73799:0",
+    "name": "ANCY AUTOMOBILES",
+    "address": "Thiruvananthapuram - Neyyar Dam Rd",
+    "category": "Motorcycle dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 20:01:01.800493"
+  },
+  {
+    "place_id": "0x3b05bb77d2ebdd65:0",
+    "name": "Star Bike Garage",
+    "address": "NH Bypass Vallakkadav, Junction",
+    "category": "Motorcycle repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 20:01:00.645433"
+  },
+  {
+    "place_id": "0x3b05b9e7a17c9551:0",
+    "name": "Hi-Q Mental Health & Counselling Centre",
+    "address": "CKRA 175, AMMA LANE",
+    "category": "Mental health service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 20:00:59.484228"
+  },
+  {
+    "place_id": "0x3b05bb4dea78cccb:0",
+    "name": "Power Planet",
+    "address": "NRA 92, Grace Villa, Observatory Ln",
+    "category": "Electrical engineer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-02 20:00:58.286532"
+  },
+  {
     "place_id": "0x3b05dca9f2e02937:0",
     "name": "Unity Builders & Surveyors",
     "address": "Opens 9:30 AM Tue",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-11 19:49:08.313338"
-  },
-  {
-    "place_id": "0x3b05bd5dcacf6a8d:0",
-    "name": "MY GYM FITNESS STUDIO - PULAYANARKOTTE",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.306320"
-  },
-  {
-    "place_id": "0x3b05bb05068e8fdf:0",
-    "name": "Joby 's Gym",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.296524"
-  },
-  {
-    "place_id": "0x3b05bbceff6ddb15:0",
-    "name": "Body Craft",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.288949"
-  },
-  {
-    "place_id": "0x3b05b10a5d314695:0",
-    "name": "Bison Fitness center",
-    "address": "Moongod road",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.279599"
-  },
-  {
-    "place_id": "0x3b05b9eee16a9b2f:0",
-    "name": "Fitness Nation",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.272440"
-  },
-  {
-    "place_id": "0x3b05b9310f725d57:0",
-    "name": "Tiger gym Sreekariyam",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.262887"
-  },
-  {
-    "place_id": "0x3b05bb90a5c89db7:0",
-    "name": "Vigor Gym",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.254889"
-  },
-  {
-    "place_id": "0x3b05bb181a23ef65:0",
-    "name": "Carbon Fitness Statue",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.243531"
   }
 ]
