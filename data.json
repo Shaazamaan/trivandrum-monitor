@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bba9fd049e89:0",
+    "name": "POWER ON NUTRITION",
+    "address": "Vazhuthacaud - Poojappura Rd",
+    "category": "Sports nutrition store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 05:07:47.457370"
+  },
+  {
+    "place_id": "0x3b05a9361e643135:0",
+    "name": "Restaurant - Poovar Island Resort",
+    "address": "835M+684",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 05:07:46.332785"
+  },
+  {
+    "place_id": "0x3b05a92f18334c23:0",
+    "name": "PALACE OPTICALS",
+    "address": "69",
+    "category": "Optician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 05:07:45.172642"
+  },
+  {
+    "place_id": "0x3b05bbe1e9445ae5:0",
+    "name": "Diners' Summit - Restaurant, North Indian, Naden food, buffet, vegetarian restaurant",
+    "address": "",
+    "category": "North Indian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 05:07:44.053555"
+  },
+  {
+    "place_id": "0x3b05bbb8a5e1900f:0",
+    "name": "Lenskart.com at Pattom, Trivandrum (First Lens Replacement Free)",
+    "address": "",
+    "category": "Sunglasses store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 05:07:42.905189"
+  },
+  {
+    "place_id": "0x3b05b9c8a662adcf:0",
+    "name": "Titan Eye+ at Kesavadasapuram",
+    "address": "T.C 3, 1802 (1, Kesavadasapuram Jct, near Pattom",
+    "category": "Optician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 05:07:41.765960"
+  },
+  {
+    "place_id": "0x3b05bbca81899dd7:0",
+    "name": "Bodybuildingindia Trivandrum",
+    "address": "Junction, Pattom - Kowdiar Rd, opp. L'ART DECORS PVT",
+    "category": "Vitamin & supplements store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 05:07:40.639548"
+  },
+  {
+    "place_id": "0x880e2ca541b2cdad:0",
+    "name": "Sunglass Hut",
+    "address": "",
+    "category": "Sunglasses store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 05:07:39.494517"
+  },
+  {
     "place_id": "0x3b05ea0744605f75:0",
     "name": "Yamaha Blue Square - Shreya Motors",
     "address": "Alba Tower, jn, near Korani",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-11 19:49:25.093568"
-  },
-  {
-    "place_id": "0x3b05bb8bd25bb37f:0",
-    "name": "SP Medifort Hospital Trivandrum | Multispeciality Hospital Kerala | Best Hospital in Trivandrum",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.086694"
-  },
-  {
-    "place_id": "0x3b05bbd06f33d01d:0",
-    "name": "Famedico 24 hours Doctor at Home",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.076468"
-  },
-  {
-    "place_id": "0x3b05b93a40b034a9:0",
-    "name": "K Health Clinic | Home Care Service 24x7 in Trivandrum",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.068506"
-  },
-  {
-    "place_id": "0x3b05bb15116352f9:0",
-    "name": "1 LIFE GYM AND FITNESS",
-    "address": "Vayalikkada road",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.346308"
-  },
-  {
-    "place_id": "0x3b05b903dddb9e1b:0",
-    "name": "Torque Fitness Studio",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.339190"
-  },
-  {
-    "place_id": "0x3b05bb292385dc61:0",
-    "name": "Phoenix B Fit",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.329851"
-  },
-  {
-    "place_id": "0x3b05bb8972b7628d:0",
-    "name": "Lion Gym Poojappura",
-    "address": "Ward 42, Corporation, \"A Square, Door No. 2677, 3 and 2677/5, Poojappura Main Rd",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.322741"
-  },
-  {
-    "place_id": "0x3b05bb00517cb823:0",
-    "name": "DOLOMITE FITNESS GYM EMS Nagar, Pattoor, Vanchiyoor, Trivandrum",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:08.313338"
   }
 ]
