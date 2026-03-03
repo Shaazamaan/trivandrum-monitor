@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bb2a5964bd2d:0",
+    "name": "Real Estate & Property Consultant Sudheer Mazood Trivandrum",
+    "address": "+91 98471 20777",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 21:49:16.320722"
+  },
+  {
+    "place_id": "0x880fd3523a06af19:0",
+    "name": "Tesla Chicago Gold Coast",
+    "address": "",
+    "category": "Tesla showroom",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 21:49:15.183919"
+  },
+  {
+    "place_id": "0x3b05bbd44fe25f35:0",
+    "name": "Kowdiar",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 21:49:14.040580"
+  },
+  {
+    "place_id": "0x3b05c7e60b7e7869:0",
+    "name": "Interface fab tech",
+    "address": "Opens 8 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 21:49:12.870846"
+  },
+  {
     "place_id": "0x3b05bfbc94fe5a25:0",
     "name": "Actacon - Accounting & Taxation Consultancy",
     "address": "Sreekaryam - Kulathoor Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-11 19:49:25.279334"
-  },
-  {
-    "place_id": "0x3b05b953e80aa155:0",
-    "name": "Credence Hospital - Multi-speciality Family Hospital and IVF Center",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.271119"
-  },
-  {
-    "place_id": "0x3b05bb54a02f24df:0",
-    "name": "Dr Sai Ganesh Medical Centre - Trivandrum",
-    "address": "",
-    "category": "Medical Center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.255889"
-  },
-  {
-    "place_id": "0x3b05b90ca1997bd7:0",
-    "name": "PULSE MEDICARE HOSPITAL PVT LTD",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.245499"
-  },
-  {
-    "place_id": "0x3b05b95e628c57ed:0",
-    "name": "Chaithanya Eye Hospital & Research Institute",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.238527"
   }
 ]
