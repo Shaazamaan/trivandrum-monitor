@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b05ab730f947a6d:0",
+    "name": "Parakkat Jewels",
+    "address": "Post Office, Junction, National Highway 47",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 12:10:08.240868"
+  },
+  {
+    "place_id": "0x3b05ab11e7c4968b:0",
+    "name": "Irani Restaurant Parassala",
+    "address": "₹200–400",
+    "category": "(1,497)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 12:10:06.996294"
+  },
+  {
+    "place_id": "0x3b05aba54a116ecb:0",
+    "name": "Dr. Silpa's Rainbow Multi-Speciality Dental Clinic",
+    "address": "Room No. 16, 81, Karali",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 12:10:05.843686"
+  },
+  {
+    "place_id": "0x3b05bff956185757:0",
+    "name": "Jos Jewellery",
+    "address": "Puliyarthala, Ulloor - Akkulam Rd, near Ediyadikodu Temple",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 12:10:04.660243"
+  },
+  {
+    "place_id": "0x3b05c1880e35ae71:0",
+    "name": "Al Amana Gold & Diamonds",
+    "address": "Bus Stand, Bishara Tower, near KSRTC",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 12:10:03.493275"
+  },
+  {
+    "place_id": "0x3b05c14f68df28e7:0",
+    "name": "ZAHAR AL MANDI",
+    "address": "₹200–400",
+    "category": "(808)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 12:10:02.318023"
+  },
+  {
+    "place_id": "0x3b05c1d02a48967b:0",
+    "name": "Janaviswas Diagnostics",
+    "address": "Athulaya Building, opp. Safari Hotel",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 12:10:01.179251"
+  },
+  {
+    "place_id": "0x3b05bba4b278abd3:0",
+    "name": "Tanishq Jewellery - Trivandrum - M G Road",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 12:09:59.999729"
+  },
+  {
+    "place_id": "0x864c1e2643a25e31:0",
+    "name": "Reliable Dental Lab",
+    "address": "",
+    "category": "Dental laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-03 12:09:58.769721"
+  },
+  {
     "place_id": "0x3b05bba9fd049e89:0",
     "name": "POWER ON NUTRITION",
     "address": "Vazhuthacaud - Poojappura Rd",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-11 19:49:25.178152"
-  },
-  {
-    "place_id": "0x3b05b9351ea07abd:0",
-    "name": "Chitra MultiSpeciality Dental Clinic",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.170180"
-  },
-  {
-    "place_id": "0x3b05bb7062389225:0",
-    "name": "Dr Kashi's Super Speciality Dental Centre",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.158508"
-  },
-  {
-    "place_id": "0x3b05bbdd9a575f8f:0",
-    "name": "Sree Uthradom Thirunal (SUT) Hospital",
-    "address": "",
-    "category": "Doctor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.147223"
-  },
-  {
-    "place_id": "0x3b05bb8e0bdbbf6d:0",
-    "name": "Vrindavan Clinic",
-    "address": "FWXH+QQH, Bhagat Singh Rd",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.138209"
-  },
-  {
-    "place_id": "0x3b05bc0578a58de1:0",
-    "name": "KIMSHEALTH Hospital Trivandrum",
-    "address": "",
-    "category": "Private hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.128418"
-  },
-  {
-    "place_id": "0x3b05bbe6745f64cf:0",
-    "name": "Cosmopolitan Hospital Pvt.Ltd",
-    "address": "",
-    "category": "Private hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.121208"
-  },
-  {
-    "place_id": "0x3b05bbd9ae819017:0",
-    "name": "KIMSHEALTH Medical Centre, Kuravankonam",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.111359"
-  },
-  {
-    "place_id": "0x3b05b93cd105828f:0",
-    "name": "UpHeal.Clinic",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.104328"
-  },
-  {
-    "place_id": "0x3b05bb094271ce4f:0",
-    "name": "Alpha Heal MG Road Trivandrum",
-    "address": "",
-    "category": "Hair transplantation clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:25.093568"
   }
 ]
