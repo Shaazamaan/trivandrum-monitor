@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "https://www.google.com/maps/place/Family+fun+2+BHK+spacious+house+-+Two-Bedroom+Villa/data=!4m9!3m8!5m2!4m1!1i2!8m2!3d8.5237503!4d76.9389038!16s%2Fg%2F11mkyr05xs!17BQ0FF?authuser=0&hl=en&rclk=1",
+    "name": "Family fun 2 BHK spacious house - Two-Bedroom Villa",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-04 22:47:46.725548"
+  },
+  {
+    "place_id": "https://www.google.com/maps/place/2+bhk+heritage+luxury+villa/data=!4m9!3m8!5m2!4m1!1i2!8m2!3d8.5179491!4d76.8997192!16s%2Fg%2F11yw2wmvrk!17BQ0FF?authuser=0&hl=en&rclk=1",
+    "name": "2 bhk heritage luxury villa",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-04 22:47:45.609593"
+  },
+  {
+    "place_id": "https://www.google.com/maps/place/Nellu+-+Tranquil+Pool+Villa+Organic+Farmstay+near+Varkala+-+Villa/data=!4m9!3m8!5m2!4m1!1i2!8m2!3d8.6882601!4d76.7879333!16s%2Fg%2F11xn3hpmpq!17BQ0FF?authuser=0&hl=en&rclk=1",
+    "name": "Nellu - Tranquil Pool Villa Organic Farmstay near Varkala - Villa",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-04 22:47:44.484682"
+  },
+  {
+    "place_id": "0x3b05b9000f10650f:0",
+    "name": "Tex&Mex by ChefJee",
+    "address": "₹200–400",
+    "category": "(508)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-04 22:47:43.336204"
+  },
+  {
+    "place_id": "0x3b08731e343fa2e1:0",
+    "name": "Porsche Centre Kochi",
+    "address": "$$$$",
+    "category": "(285)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-04 22:47:42.184028"
+  },
+  {
     "place_id": "0x3b05bb004017213b:0",
     "name": "Elayidam",
     "address": "₹1–200",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-11 19:49:59.586898"
-  },
-  {
-    "place_id": "0x3b05bb00444c96b5:0",
-    "name": "Kadalas Cafe",
-    "address": "₹400–600",
-    "category": "4.7(1,534)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:59.576341"
-  },
-  {
-    "place_id": "0x3b05bb33e8e28f31:0",
-    "name": "Waffee House | Trivandrum",
-    "address": "₹200–400",
-    "category": "4.4(623)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:59.569363"
-  },
-  {
-    "place_id": "0x3b05bb0498ac133d:0",
-    "name": "Baker's Arch Garden Cafe",
-    "address": "₹₹₹₹",
-    "category": "4.3(866)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:59.558769"
-  },
-  {
-    "place_id": "0x3b05b95fac93bb91:0",
-    "name": "Cofi Club",
-    "address": "₹200–400",
-    "category": "4.2(1,928)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:59.551941"
-  },
-  {
-    "place_id": "0x3b05b97a6aaaaaab:0",
-    "name": "La Forno Cafe",
-    "address": "₹200–600",
-    "category": "4.4(1,001)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:49:59.542422"
   }
 ]
