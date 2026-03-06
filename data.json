@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05a90b0a770655:0",
+    "name": "Karaikkattu Backwater",
+    "address": "Poovar - Uchakada Rd",
+    "category": "Resort hotel",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 07:09:19.633626"
+  },
+  {
+    "place_id": "0x3b05aecabea293e7:0",
+    "name": "CP COMMUNICATION",
+    "address": "Nill",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 07:09:18.048319"
+  },
+  {
+    "place_id": "0x3b05afb5f8c382db:0",
+    "name": "Meenu pure water solutions",
+    "address": "TB Junction-Hospital Jct Rd",
+    "category": "Water purification company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 07:09:16.725791"
+  },
+  {
+    "place_id": "0x3b05afe946d6c697:0",
+    "name": "Janani Naturopathy,Yoga &Wellness clinic",
+    "address": "93QR+R3R",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 07:09:15.549762"
+  },
+  {
+    "place_id": "0x3b05bbcf8143a991:0",
+    "name": "Vi - Vodafone Idea Store",
+    "address": "TC 25, Ground Floor Ward, B No 2883/2, Manorama Rd, opposite Hycinth Hotel",
+    "category": "Telecommunications service provider",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 07:09:14.327607"
+  },
+  {
+    "place_id": "0x3b05bb47d4995b03:0",
+    "name": "AQUAURA Aquaguard WATER PURIFIER SERVICE CENTRE TRIVANDRUM",
+    "address": "near NEW THEATRE",
+    "category": "Water purification company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 07:09:13.161526"
+  },
+  {
+    "place_id": "0x3b05bb749624aa75:0",
+    "name": "Tattva Wellness Spa",
+    "address": "",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 07:09:11.971575"
+  },
+  {
+    "place_id": "0x3b05bbd878638043:0",
+    "name": "Srishti Ayur Care | Ayurvedic Massage Centre In Trivandrum",
+    "address": "",
+    "category": "Wellness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 07:09:10.746345"
+  },
+  {
     "place_id": "0x3a4d4ba407976cf9:0",
     "name": "M G Chevrolet",
     "address": "11-46/A, Renigunta Road",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-11 19:50:17.952323"
-  },
-  {
-    "place_id": "0x3b05bb589b70ba11:0",
-    "name": "Revathy JayanBabu | Boutique",
-    "address": "Moolavilakkam junction, near pop corn kindergarten school",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.941928"
-  },
-  {
-    "place_id": "0x3b05bb54f0ca3127:0",
-    "name": "Vastraa Trivandrum",
-    "address": "Govt. Press road Jn, near Santha Paint House",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.933872"
-  },
-  {
-    "place_id": "0x3b05bb92b77dbd85:0",
-    "name": "Studio Mrinalini",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.924944"
-  },
-  {
-    "place_id": "0x3b05b9a102b10db9:0",
-    "name": "Minnaram designer Boutique",
-    "address": "",
-    "category": "Designer Clothing Store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.917381"
-  },
-  {
-    "place_id": "0x3b05bb065611b877:0",
-    "name": "Fluence, Designer Boutique",
-    "address": "Pullenvila towers, Plamoodu - Thekkamoodu Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.907989"
-  },
-  {
-    "place_id": "0x3b05bbf35cf7a831:0",
-    "name": "Unique Apparel Designer Boutique",
-    "address": "TC No 25, 3302 (2, near RBI Quarters Junction",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.899853"
-  },
-  {
-    "place_id": "0x3b05bbfb3244c007:0",
-    "name": "Timoraah Boutique",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.888365"
-  },
-  {
-    "place_id": "0x3b05ba314268d1e7:0",
-    "name": "Aham Designer Boutique and Retail Outlet",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.878051"
   }
 ]
