@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05baa49f88d2bf:0",
+    "name": "Mobile Zone",
+    "address": "Vellayani Junction, Nemom P.O",
+    "category": "Satellite communication service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 22:48:33.747027"
+  },
+  {
+    "place_id": "0x3b05bb9bc4f9da0f:0",
+    "name": "The Digital Eye",
+    "address": "456(2, VBL Building, TC 49, Vellayani Jn",
+    "category": "Internet marketing service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 22:48:32.647763"
+  },
+  {
+    "place_id": "0x3b05bbd5a26ecca7:0",
+    "name": "DORMA",
+    "address": "Ground Floor, Revathy Building",
+    "category": "Door supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 22:48:31.510170"
+  },
+  {
+    "place_id": "0x3b05b99c7b157519:0",
+    "name": "Asianet Fiber - Kowdiar",
+    "address": "Opens 9:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 22:48:30.208760"
+  },
+  {
+    "place_id": "0x3b05bba4ae99f4ab:0",
+    "name": "EasyNet Digital",
+    "address": "2nd Floor, Neelankantam, TC 9/1816 -3, Sankar Rd, opposite Indian Bank",
+    "category": "Internet marketing service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 22:48:29.095005"
+  },
+  {
+    "place_id": "0x3b05fce3a4ced837:0",
+    "name": "Insight Automations",
+    "address": "",
+    "category": "Home automation company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 22:48:27.971089"
+  },
+  {
+    "place_id": "0x3b05bedb2e88e0e7:0",
+    "name": "Asianet Satellite Communication Ltd.",
+    "address": "",
+    "category": "Satellite communication service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 22:48:26.852604"
+  },
+  {
+    "place_id": "0x3b05bbbb5d70bca1:0",
+    "name": "NTS Communication",
+    "address": "MBR Building",
+    "category": "Satellite communication service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 22:48:25.725761"
+  },
+  {
     "place_id": "0x3b05bb2cadf05715:0",
     "name": "Advis Financial Consultancy",
     "address": "",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-11 19:50:50.622167"
-  },
-  {
-    "place_id": "0x3b05bff61c9639a3:0",
-    "name": "My Looks Hair & Beauty Studio unisex Salon",
-    "address": "",
-    "category": "Beauty Parlour",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:34.009037"
-  },
-  {
-    "place_id": "0x3b05b9e11a3dcb89:0",
-    "name": "Stay In Style Family Salon|Bride&Groom Makeover Studio-Trivandrum",
-    "address": "",
-    "category": "Beauty Parlour",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:34.001248"
-  },
-  {
-    "place_id": "0x3b05b9c0e4309b3b:0",
-    "name": "ARWIE Unisex Salon &Spa",
-    "address": "Gokulam Junction, Near Bambino Pre School, Sreevilas, Line, Ambala Nagar Rd",
-    "category": "Beauty Parlour",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:33.991071"
-  },
-  {
-    "place_id": "0x3b05bb2e263640e5:0",
-    "name": "Luxe12 Salon Trivandrum",
-    "address": "",
-    "category": "Beauty Parlour",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:33.981979"
-  },
-  {
-    "place_id": "0x3b05bf24ceb521ab:0",
-    "name": "Glam Factory – Best Unisex Salon & Bridal Studio Near Technopark, Kazhakoottam",
-    "address": "Glam Factory Unisex Salon, Gog Tower, Attinkuzhi Rd, above Chaaya Vanji",
-    "category": "Beauty Parlour",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:33.971182"
-  },
-  {
-    "place_id": "0x3b05bf104773474d:0",
-    "name": "O MY BEAUTY UNISEX SALON AND SPA",
-    "address": "Janatha Business Centre, near Kazhakuttom",
-    "category": "Beauty Parlour",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:33.962508"
-  },
-  {
-    "place_id": "0x3b05bf4531cd7eb1:0",
-    "name": "Mayfair Ladies Salon Wellness & Spa/Bridal Makeup",
-    "address": "",
-    "category": "Beauty Parlour",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:33.951944"
-  },
-  {
-    "place_id": "0x3b05b95d855a4631:0",
-    "name": "Green Trends Unisex Salon, Kesavadasapuram",
-    "address": "",
-    "category": "Beauty Parlour",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:33.942091"
   }
 ]
