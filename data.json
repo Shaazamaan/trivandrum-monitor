@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3a4d4ba407976cf9:0",
+    "name": "M G Chevrolet",
+    "address": "11-46/A, Renigunta Road",
+    "category": "Auto broker",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 06:01:11.902800"
+  },
+  {
+    "place_id": "0x3b05ef4b1cd317e3:0",
+    "name": "Clafouti Restaurant",
+    "address": "₹200–400",
+    "category": "(1,148)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 06:01:10.743378"
+  },
+  {
+    "place_id": "0x3b05ef3b8d34f945:0",
+    "name": "Vijaya Plumbing & Electricals",
+    "address": "Varkala Railway Station Rd",
+    "category": "Plumbing supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 06:01:09.564641"
+  },
+  {
     "place_id": "0x3b05b95a0c222807:0",
     "name": "Abic and Mani Chartered Accountants",
     "address": "Pattathil Arcade, Salem - Kochi Hwy",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-11 19:50:17.878051"
-  },
-  {
-    "place_id": "0x3b05bbea2af64ac9:0",
-    "name": "Vintage Blossom | Bridal Boutique in Trivandrum",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.869816"
-  },
-  {
-    "place_id": "0x3b05bb661358951b:0",
-    "name": "Blue Sapphire Style House MG Road Trivandrum",
-    "address": "Mahatma Gandhi Rd",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.859400"
-  },
-  {
-    "place_id": "0x3b05b998f231b44d:0",
-    "name": "Trumine Bridal boutique | Bridal Boutique in Trivandrum, Kerala",
-    "address": "1st FLOOR, AVENUE CENTRE SHOPPE, SH 1, above kunnil SuperMarket",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.852213"
   }
 ]
