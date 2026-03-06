@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05a51aa280c71f:0",
+    "name": "ZENOYA GROUP PRIVATE LIMITED",
+    "address": "Police station, KSRTC Road, opposite Vizhinjam",
+    "category": "Security system supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 10:54:17.138992"
+  },
+  {
+    "place_id": "0xab026a24e9078de9:0",
+    "name": "Risesun Infratech",
+    "address": "Closes 5:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 10:54:15.991274"
+  },
+  {
+    "place_id": "0x3b05ea0865f8f437:0",
+    "name": "Renergy Systems India Pvt Ltd",
+    "address": "Regency Mall, Mamom Road",
+    "category": "Solar energy company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 10:54:14.874466"
+  },
+  {
+    "place_id": "0x3b05eb33faa3ce59:0",
+    "name": "Solves Systems MEP Engineers & Contractors",
+    "address": "5 PM",
+    "category": "Closes soon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 10:54:13.752657"
+  },
+  {
+    "place_id": "0x3b05e94510ef9f6f:0",
+    "name": "G R K Nair & Co. Chartered Accountants",
+    "address": "Market Rd",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 10:54:12.625115"
+  },
+  {
+    "place_id": "0x3b05bbd5e1727981:0",
+    "name": "PANIKAR & ASSOCIATES | Chartered Accountants in Trivandrum",
+    "address": "TJRA 164, Aravindam, TC 9, 1317-6, Bhagavathy Ln",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 10:54:11.497967"
+  },
+  {
     "place_id": "0x3b05a90b0a770655:0",
     "name": "Karaikkattu Backwater",
     "address": "Poovar - Uchakada Rd",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-11 19:50:18.001893"
-  },
-  {
-    "place_id": "0x3b05bb707df50bfb:0",
-    "name": "Honey's Boutique",
-    "address": "old bridge, near Maruthamkuzhi Bridge",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.992671"
-  },
-  {
-    "place_id": "0x3b05b9d3d38df117:0",
-    "name": "TAMARA",
-    "address": "TAMARA, near Hotel Chinnus",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.984574"
-  },
-  {
-    "place_id": "0x3b05bba387b18ebb:0",
-    "name": "Pothys Textiles",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.976442"
-  },
-  {
-    "place_id": "0x3b05bb6306d1aac1:0",
-    "name": "Hyra Boutique",
-    "address": "Opens 10 am Thu",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.968938"
-  },
-  {
-    "place_id": "0x3b05bbdd1ddc8405:0",
-    "name": "Paisley",
-    "address": "",
-    "category": "Designer Clothing Store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.959936"
-  },
-  {
-    "place_id": "0x3b05bb31dd4a0a07:0",
-    "name": "Zoya Boutique",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:17.952323"
   }
 ]
