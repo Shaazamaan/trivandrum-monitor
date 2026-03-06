@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb2cadf05715:0",
+    "name": "Advis Financial Consultancy",
+    "address": "",
+    "category": "Financial consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 20:09:53.346778"
+  },
+  {
+    "place_id": "0x3b05bbc179dbf367:0",
+    "name": "Financelab by FL-Consultants Pvt Ltd",
+    "address": "2nd floor, Suffis arcade, Tc 25/704",
+    "category": "Business management consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-06 20:09:52.171924"
+  },
+  {
     "place_id": "0x3b05b9ae84e561ff:0",
     "name": "HDFC Bank Home Loan Branch - Thiruvananthapuram (Kesavadasapuram)",
     "address": "4th Floor, Oban Square, No TC 14, 4192/5",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-11 19:50:33.942091"
-  },
-  {
-    "place_id": "0x3b05bb954fa140f1:0",
-    "name": "Koodu The Beauty Lounge",
-    "address": "",
-    "category": "Beauty Parlour",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:33.934078"
-  },
-  {
-    "place_id": "0x3b05bb80bf51217b:0",
-    "name": "Naturals Salon & Spa Vellayambalam",
-    "address": "",
-    "category": "Beauty Parlour",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:33.925364"
   }
 ]
