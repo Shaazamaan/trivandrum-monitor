@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bfdb0797fe2d:0",
+    "name": "Innoval Digital Solutions Pvt Ltd",
+    "address": "",
+    "category": "Software company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 17:06:24.941475"
+  },
+  {
+    "place_id": "0x3b05c93a5e0d52c7:0",
+    "name": "Santhikrishna Palace, Vithura",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 17:06:23.710521"
+  },
+  {
+    "place_id": "0x3b05e9f76e1f8aa1:0",
+    "name": "Mynute Innovations",
+    "address": "II Floor, RJ Complex, BTS Rd",
+    "category": "Software company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 17:06:22.527690"
+  },
+  {
+    "place_id": "0x3b05eb4525854191:0",
+    "name": "Mahindra Sleeba And Sons Automotive Pvt Ltd - SUV & Commercial Vehicle Showroom",
+    "address": "",
+    "category": "Car dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 17:06:21.363746"
+  },
+  {
+    "place_id": "0x3b05b1d78f6fa2f5:0",
+    "name": "AJU ED Solutions LLP",
+    "address": "ScrumSpace CoWorks",
+    "category": "Software company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 17:06:20.059848"
+  },
+  {
+    "place_id": "0x3b05bb6587305e43:0",
+    "name": "akri kada scrap store",
+    "address": "Thamalam Rd",
+    "category": "Salvage dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 17:06:18.820709"
+  },
+  {
+    "place_id": "0x3b05befb8ecdc035:0",
+    "name": "IBS Software",
+    "address": "",
+    "category": "Software company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 17:06:17.673600"
+  },
+  {
+    "place_id": "0x3b05bfab0098ccbd:0",
+    "name": "Trivandrum Corporation Plastic/waste collection Center",
+    "address": "HV99+CPW, Kazhakuttam Menamkulam Rd",
+    "category": "Garbage collection service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 17:06:16.510116"
+  },
+  {
     "place_id": "0x3b05e91358c9c26b:0",
     "name": "RK fabrics",
     "address": "Opens 9 AM Sun",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-11 19:51:05.850474"
-  },
-  {
-    "place_id": "0x3b05bb4c3c4f46d1:0",
-    "name": "Cake Galaxy trivandrum (Bake off homemade cakes )",
-    "address": "Karimankulam Rd, near police station vattiyoorkavu",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:51:05.841087"
-  },
-  {
-    "place_id": "0x3b05bba226ab8b6f:0",
-    "name": "Trivandrum Bakers",
-    "address": "₹1–200",
-    "category": "4.9(50)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:51:05.834391"
-  },
-  {
-    "place_id": "0x3b05b9a87d01e8c5:0",
-    "name": "Pastel The Home Baker, customized Birthday Cake, Chocolate, Muffins, Cup Cake.",
-    "address": "BNRA14,1st Floor",
-    "category": "Bakery and Cake Shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:51:05.824593"
-  },
-  {
-    "place_id": "0x3b05bb4ea4443dd9:0",
-    "name": "The Cake Point by Rizma",
-    "address": "Rizmas JNRA-18a",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:51:05.816951"
-  },
-  {
-    "place_id": "0x3b05bbc8ccedaa03:0",
-    "name": "The Cake Bro's",
-    "address": "The cake Bro's, opposite government sidha hospital",
-    "category": "Bakery and Cake Shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:51:05.807500"
-  },
-  {
-    "place_id": "0x3b05bbeb266aa4e5:0",
-    "name": "Kairali CAKE FACTORY",
-    "address": "cordova school, lane",
-    "category": "Bakery and Cake Shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:51:05.800260"
-  },
-  {
-    "place_id": "0x3b05bb310524c18d:0",
-    "name": "Piece O' Cake by sulekha",
-    "address": "Rameez Manzil, PRA 120-1, Payattukuppom road, Kamaleshwaram, Manacaud p.o",
-    "category": "Bakery and Cake Shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:51:05.790486"
-  },
-  {
-    "place_id": "0x3b05bb8044ae432d:0",
-    "name": "L'Amour Bakers",
-    "address": "₹1–200",
-    "category": "5.0(66)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:51:05.782717"
   }
 ]
