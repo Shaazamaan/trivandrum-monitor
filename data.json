@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x808e3357eb13c9e3:0",
+    "name": "DPA Law PC",
+    "address": "",
+    "category": "Law firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 11:35:39.313496"
+  },
+  {
+    "place_id": "0x3b05bfb13293de71:0",
+    "name": "Super Deal Motors",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 11:35:38.166646"
+  },
+  {
+    "place_id": "0x3b05bb930637152f:0",
+    "name": "Artis Law House",
+    "address": "TC 11, Kowdiar P O, Artis Law House, Ground Floor, GV 17, 789(1, Vayal Rd",
+    "category": "Legal services",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 11:35:36.997419"
+  },
+  {
+    "place_id": "0x3b05bb496d658511:0",
+    "name": "Boss lock repairing & Key Duplicating",
+    "address": "Killippalam - Kalady Bund Rd",
+    "category": "Locksmith",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 11:35:35.821879"
+  },
+  {
     "place_id": "0x3b05bbd5a47f83d5:0",
     "name": "Richu Traders",
     "address": "Closes 8 PM",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-11 19:51:05.626592"
-  },
-  {
-    "place_id": "0x3b05bb8d2844bf25:0",
-    "name": "Vinayaka Super Market",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:50.906311"
-  },
-  {
-    "place_id": "0x3b05bff29f8e64c3:0",
-    "name": "Sha Margin Free Supermarket Kazhakkoottam",
-    "address": "HV4G+C3M, Railway station Rd #2",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:50.898650"
-  },
-  {
-    "place_id": "0x3b05bff01b2dd37f:0",
-    "name": "Fiow Mart, Trivandrum",
-    "address": "",
-    "category": "Hypermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:50.888668"
-  },
-  {
-    "place_id": "0x3b05bb260e91bc4d:0",
-    "name": "SP SUPER MART Trivandrum",
-    "address": "TC: 1643, Karthika Apartments",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:50.881171"
   }
 ]
