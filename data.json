@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05c197ebbd5687:0",
+    "name": "Aqua Plus Agency",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 04:22:55.515342"
+  },
+  {
+    "place_id": "0x3b05b90028d3906b:0",
+    "name": "Cut 'N' Create",
+    "address": "31/158",
+    "category": "Corporate gift supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 04:22:54.331659"
+  },
+  {
+    "place_id": "0x3b05bf87046363b5:0",
+    "name": "Clean Master",
+    "address": "TC 2/394",
+    "category": "House cleaning service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 04:22:53.071705"
+  },
+  {
+    "place_id": "0x3b05bf009c502d79:0",
+    "name": "Helen Water Purifier",
+    "address": "Menamkulam jn kazhakuttom, po",
+    "category": "Water purification company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-07 04:22:51.847009"
+  },
+  {
     "place_id": "0x3b05baa49f88d2bf:0",
     "name": "Mobile Zone",
     "address": "Vellayani Junction, Nemom P.O",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-11 19:50:50.654916"
-  },
-  {
-    "place_id": "0x3b05bbd3769325d9:0",
-    "name": "Se7en10 Supermarket",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:50.647819"
-  },
-  {
-    "place_id": "0x3b05bbeff8f19aa7:0",
-    "name": "Maxx Supermarket",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:50.638116"
-  },
-  {
-    "place_id": "0x3b05bb441fd9d0c3:0",
-    "name": "Pothys Hypermarket",
-    "address": "",
-    "category": "Hypermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:50.631259"
-  },
-  {
-    "place_id": "0x3b05bd1374902d43:0",
-    "name": "LuLu Hypermarket Thiruvananthapuram",
-    "address": "",
-    "category": "Hypermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:50:50.622167"
   }
 ]
