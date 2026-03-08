@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05b94bced3a527:0",
+    "name": "SOORYA KITCHEN WORLD",
+    "address": "",
+    "category": "Kitchen supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-08 19:38:46.299032"
+  },
+  {
+    "place_id": "0x87ee9f1512e1d0d1:0",
+    "name": "MOJO'S GYM",
+    "address": "",
+    "category": "Personal trainer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-08 19:38:44.973455"
+  },
+  {
+    "place_id": "0x87ee991f1835cedb:0",
+    "name": "Iowa Appraisal",
+    "address": "1707 High St",
+    "category": "Real estate appraiser",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-08 19:38:43.763997"
+  },
+  {
+    "place_id": "0x87ee9756089fe415:0",
+    "name": "Bolton & Hay",
+    "address": "",
+    "category": "Restaurant supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-08 19:38:42.581777"
+  },
+  {
+    "place_id": "0x3b05c9c19a682e8d:0",
+    "name": "VB catering and events chettachal",
+    "address": "M3P6+XHM",
+    "category": "Restaurant supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-08 19:38:41.400718"
+  },
+  {
+    "place_id": "0x3b05b935220d9bd3:0",
+    "name": "Freelancer Personal Trainer For Special Care",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-08 19:38:40.221558"
+  },
+  {
+    "place_id": "0x3b05bbc630bdbd35:0",
+    "name": "NELLARA CATERS & EVENTS",
+    "address": "South Rd",
+    "category": "Restaurant supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-08 19:38:38.914977"
+  },
+  {
     "place_id": "0x3b05b900637689e7:0",
     "name": "Angel healthCare (Homecare@Trivandrum)",
     "address": "11, Santhi Nagar Rd",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-19 15:04:13.490349"
-  },
-  {
-    "place_id": "0x3b0872b380df86ab:0",
-    "name": "COCHIN EMERGENCY AMBULANCE SERVICE",
-    "address": "",
-    "category": "Ambulance service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-12 00:36:34.100472"
-  },
-  {
-    "place_id": "0x3b05bdd799dbcf27:0",
-    "name": "Itsy Hotels Platinum Inn",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:51:23.519654"
-  },
-  {
-    "place_id": "0x3b05bbddae50bf1d:0",
-    "name": "Pattom Royal Hotel",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:51:23.512869"
-  },
-  {
-    "place_id": "0x3b05bbfcb40f9cff:0",
-    "name": "The Ruby Arena",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:51:23.504299"
-  },
-  {
-    "place_id": "0x3b05bbe33eb820ef:0",
-    "name": "Ashish Tourist Home",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:51:23.495533"
-  },
-  {
-    "place_id": "0x3b05bb85e38d8249:0",
-    "name": "Indeevaram Residency",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:51:23.486068"
-  },
-  {
-    "place_id": "0x3b05bbe50b75ac01:0",
-    "name": "The New View Hotel",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-11 19:51:23.478875"
   }
 ]
