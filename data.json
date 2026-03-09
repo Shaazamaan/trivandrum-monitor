@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bb677e2d5ce7:0",
+    "name": "Sports Ayurveda speciality clinic(SASC)",
+    "address": "Aksharaveedhi, AVSRA 10",
+    "category": "Consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-09 08:14:56.855232"
+  },
+  {
+    "place_id": "0x3b05bf732b0639d9:0",
+    "name": "Kasperob Robotics Pvt.Ltd",
+    "address": "TrEST Research Park, near CET",
+    "category": "Manufacturer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-09 08:14:55.665688"
+  },
+  {
+    "place_id": "0x3b05b90ab4d906bd:0",
+    "name": "The Painfree Physio & Sports - Kallampally",
+    "address": "KRA 8",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-09 08:14:54.534402"
+  },
+  {
+    "place_id": "0x3b05bb63d5de1c3d:0",
+    "name": "Reva Wellness Spa - Trivandrum",
+    "address": "3rd Floor, JR Tower, Thiruvananthapuram Byp, opposite UST Global",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-09 08:14:53.434717"
+  },
+  {
+    "place_id": "0x3b05ba4b67fbc553:0",
+    "name": "Joint Solutions Orthopaedics and Sports Clinic",
+    "address": "",
+    "category": "Sports medicine clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-09 08:14:52.290250"
+  },
+  {
     "place_id": "0x3b05bb5ed4cd2e3b:0",
     "name": "Zednem Steels (P) Ltd.",
     "address": "2nd Floor, SCP Building, T.C. 25/1103 3, Manorama Rd",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-19 23:24:08.450140"
-  },
-  {
-    "place_id": "0x3b05bbd0c978f0cb:0",
-    "name": "VAGMI Holistic Intervention Centre | Centre for Speech, Behavioral & Occupational Therapy, Child Development | Trivandrum",
-    "address": "",
-    "category": "Speech pathologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-19 23:24:07.274534"
-  },
-  {
-    "place_id": "0x3b05b95939ee3deb:0",
-    "name": "Genuine Cars",
-    "address": "Ulloor Brg, near FCI",
-    "category": "Used car dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-19 23:24:06.039185"
-  },
-  {
-    "place_id": "0x3b05b975f5ffdf91:0",
-    "name": "Advocate CHITHRALAL M R. LLM, Nedumangad",
-    "address": "",
-    "category": "Attorney",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-19 22:01:50.999267"
-  },
-  {
-    "place_id": "0x3b05b956e50ff931:0",
-    "name": "Karnikaar Hearing Aid Clinic",
-    "address": "Opp. Town Masjid, near by District Hospital Nedumangad",
-    "category": "Hearing aid store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-19 22:01:49.799126"
-  },
-  {
-    "place_id": "0x3b05b93526e88a27:0",
-    "name": "TRICHUR FASHION JEWELLERS SREEKARYAM",
-    "address": "TRICHUR FASHION JEWELLERS ELAMKULAM EZZAR PLAZA",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-19 22:01:48.592626"
   }
 ]
