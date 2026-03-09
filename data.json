@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bb5ed4cd2e3b:0",
+    "name": "Zednem Steels (P) Ltd.",
+    "address": "2nd Floor, SCP Building, T.C. 25/1103 3, Manorama Rd",
+    "category": "Iron and steel store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-09 07:39:32.063293"
+  },
+  {
+    "place_id": "0x3b05bb130f1aaaab:0",
+    "name": "Basics Life. Trivandrum",
+    "address": "",
+    "category": "Men's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-09 07:39:30.890830"
+  },
+  {
+    "place_id": "0x3b05b978b68d2ccf:0",
+    "name": "iCloudHomes",
+    "address": "Pournamy, Ambalamukku, Peroorkada, Temple Ln Rd",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-09 07:39:29.727795"
+  },
+  {
+    "place_id": "0x3b05b90059911eb9:0",
+    "name": "Kappi Cafe",
+    "address": "₹1–200",
+    "category": "(30)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-09 07:39:28.545614"
+  },
+  {
+    "place_id": "0x3b05b9767b893d1d:0",
+    "name": "Kukkus fashion",
+    "address": "Civil Station Road",
+    "category": "Designer clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-09 07:39:27.308227"
+  },
+  {
+    "place_id": "0x3b05bb3ec898bce9:0",
+    "name": "Silver Castle Homes",
+    "address": "Tc 23/1626/1, Golf Links Road Kowdiar P.O",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-09 07:39:26.155547"
+  },
+  {
+    "place_id": "0x3b05bb0a508f3523:0",
+    "name": "Van Heusen Men Clothing Store, Kowdiar",
+    "address": "TC 25/3942-3&4, Keston Rd, opp. Style Plus",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-09 07:39:24.960433"
+  },
+  {
+    "place_id": "0x3b05beccc2bb352b:0",
+    "name": "Tata Structura - M S Steel And Pipes",
+    "address": "",
+    "category": "Steel construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-09 07:39:23.781496"
+  },
+  {
     "place_id": "0x3b05af0000c90d91:0",
     "name": "Dunixab",
     "address": "Madhava Nivas Building, 1st Floor NMC/26/260",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-19 22:01:48.592626"
-  },
-  {
-    "place_id": "0x3b05b90070303b67:0",
-    "name": "Hear Hub Hearing Solutions",
-    "address": "GWXC+6RR, Kallampally - Edavacode Rd",
-    "category": "Hearing aid store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-19 22:01:47.414058"
-  },
-  {
-    "place_id": "0x3b05bb007b1c5371:0",
-    "name": "Rohith Associates",
-    "address": "Rohith Associates, near Eastern Gate of District Court",
-    "category": "Tax attorney",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-19 22:01:46.203388"
-  },
-  {
-    "place_id": "0x876f3ac271c84e19:0",
-    "name": "Cheyenne Coins LLP",
-    "address": "",
-    "category": "Coin dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-19 22:01:45.028849"
-  },
-  {
-    "place_id": "0x3b05b982966661b5:0",
-    "name": "Travancore Hearing Solutions | Hearing Aid Centre | Hearing Clinic",
-    "address": "",
-    "category": "Hearing aid store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-19 22:01:43.819307"
-  },
-  {
-    "place_id": "0x3b05bb006f80450b:0",
-    "name": "Trivandrum Legal Solutions",
-    "address": "PERA -91, Anand gardens, 695035, Vanchiyoor Rd",
-    "category": "Tax attorney",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-19 22:01:42.582555"
-  },
-  {
-    "place_id": "0x3b05bb38f24ca349:0",
-    "name": "Gold mint collectibles",
-    "address": "Tc 85/868, TLRA no:7",
-    "category": "Hobby store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-19 22:01:41.390302"
-  },
-  {
-    "place_id": "0x3b05bbbbfed380b9:0",
-    "name": "Suma Hearing Aid",
-    "address": "Shop #7, Catholic Shopping Complex General Hospital, Jn, Statue Rd",
-    "category": "Hearing aid store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-19 22:01:40.167669"
-  },
-  {
-    "place_id": "0x3b05b774205895c5:0",
-    "name": "SN WOODS",
-    "address": "Puthukulangara, opp. SBI puthukulangara",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-19 21:24:22.764771"
   }
 ]
