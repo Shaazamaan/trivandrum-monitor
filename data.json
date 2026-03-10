@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05bec780ab70fd:0",
+    "name": "Indian Institute of Science Education and Research Thiruvananthapuram",
+    "address": "",
+    "category": "Research institute",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-10 05:44:18.622609"
+  },
+  {
+    "place_id": "0x3b05b805a0d32613:0",
+    "name": "Oxygen Digital Shop - Nedumangad",
+    "address": "Nedumangad Town Rd, near Govt. Girls high school",
+    "category": "Electronics store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-10 05:44:17.433798"
+  },
+  {
+    "place_id": "0x3b05bb5bb0f44bb1:0",
+    "name": "MK KEYS",
+    "address": "Irumbupalam, Thakaraparambu Rd",
+    "category": "Key duplication service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-10 05:44:16.250801"
+  },
+  {
+    "place_id": "0x3b05b9f3b22d9941:0",
+    "name": "ISRO Inertial Systems Unit",
+    "address": "",
+    "category": "Research and product development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-10 05:44:15.085372"
+  },
+  {
+    "place_id": "0x3b05a5bc5ab0ab8d:0",
+    "name": "Vizhinjam Regional Centre of ICAR Central Marine Fisheries Research Institute",
+    "address": "",
+    "category": "Federal government office",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-10 05:44:13.922265"
+  },
+  {
+    "place_id": "0x3b05b9b4db9c7663:0",
+    "name": "Track Fusion",
+    "address": "1st Floor, Lekha Tower",
+    "category": "Video game store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-10 05:44:12.750244"
+  },
+  {
     "place_id": "0x880e33f098ee8319:0",
     "name": "Strojny Ronald P",
     "address": "5839 W 35th St",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-20 09:04:20.070816"
-  },
-  {
-    "place_id": "0x8869120942278cbd:0",
-    "name": "Vietnam Kitchen",
-    "address": "",
-    "category": "Vietnamese restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 09:04:18.923498"
-  },
-  {
-    "place_id": "0x3b05a5213de00d09:0",
-    "name": "Nova Badminton Academy",
-    "address": "",
-    "category": "Badminton court",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 07:19:09.809633"
-  },
-  {
-    "place_id": "0x3b05a5d2e30855a1:0",
-    "name": "Reunion - The Gastro Pub & Wine Bar",
-    "address": "Uday Samudra Leisure Beach Hotel, Samudra Beach, GV Raja Rd",
-    "category": "Pub",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 07:19:08.663712"
-  },
-  {
-    "place_id": "0x3b05e9a299c73703:0",
-    "name": "Raquet House Badminton Academy",
-    "address": "Palachira, Varkala Kallambalam Rd",
-    "category": "Badminton club",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 07:19:07.493441"
-  },
-  {
-    "place_id": "0x3b05e8dbe058dc27:0",
-    "name": "Kaveri Audio Recording Studio",
-    "address": "Kaveri audio recording studio, PO",
-    "category": "Recording studio",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 07:19:06.316702"
-  },
-  {
-    "place_id": "0x3b05ef40f71a5db5:0",
-    "name": "BLG SURF BISTRO",
-    "address": "N Cliff Rd, near gods own county kitchen",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 07:19:05.154254"
   }
 ]
