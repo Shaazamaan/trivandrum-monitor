@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bf7450c6c301:0",
+    "name": "Medcare Health Centre",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-10 22:04:42.034307"
+  },
+  {
+    "place_id": "0x3b05bc05761f9021:0",
+    "name": "KIMSHEALTH Cancer Center",
+    "address": "",
+    "category": "Cancer treatment center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-10 22:04:40.907194"
+  },
+  {
     "place_id": "0x3b05ef88836d5a95:0",
     "name": "IMAGECAFE wedding&modeling",
     "address": "Closes 9 PM",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-20 10:01:20.372461"
-  },
-  {
-    "place_id": "0x3b05b96942fde497:0",
-    "name": "NATIONAL INSURANCE CO LTD , PORTAL OFFICE.",
-    "address": "Ulloor Brg",
-    "category": "Auto insurance agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 10:01:19.270734"
-  },
-  {
-    "place_id": "0x3b05bbc2c894bb55:0",
-    "name": "Insurance Office , INSURANCE PoinT",
-    "address": "SM Lock Rd",
-    "category": "Insurance agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 10:01:18.164326"
   }
 ]
