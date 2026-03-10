@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x880e33f098ee8319:0",
+    "name": "Strojny Ronald P",
+    "address": "5839 W 35th St",
+    "category": "General practice attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-10 04:31:41.299686"
+  },
+  {
+    "place_id": "0x3b05bfa35d45eebf:0",
+    "name": "Fun Plex, Go Karting",
+    "address": "",
+    "category": "Go-karting venue",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-10 04:31:40.188179"
+  },
+  {
+    "place_id": "0x3b05a9ef2896dee3:0",
+    "name": "Zishani Boutique",
+    "address": "Bus stand, road",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-10 04:31:39.041597"
+  },
+  {
+    "place_id": "0x3b05bb47d97353f1:0",
+    "name": "Advocate George Jacob Vengal & Associates",
+    "address": "2nd Floor, Oasis Building, Athani Ln",
+    "category": "Law firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-10 04:31:37.894441"
+  },
+  {
     "place_id": "0x3b05ab2b9c5da20f:0",
     "name": "Dr Abin’s Physiotherapy Home Care",
     "address": "Opens 9 AM",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-20 07:19:05.154254"
-  },
-  {
-    "place_id": "0x3b05b995a82821ed:0",
-    "name": "PlayZone Badminton Academy & Indoor Stadium",
-    "address": "Sports Complex, Mannanthala - Powdikonam Road, Mylapally devi temple lane",
-    "category": "Badminton court",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 07:19:04.010059"
-  },
-  {
-    "place_id": "0x3b05ba63a1fe7c39:0",
-    "name": "TKA Studios",
-    "address": "",
-    "category": "Recording studio",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 07:19:02.741489"
-  },
-  {
-    "place_id": "0x3b05bb0f2f77111b:0",
-    "name": "The Hangar Bar",
-    "address": "International Airport, inside International Airport",
-    "category": "Bar",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 07:19:01.557797"
-  },
-  {
-    "place_id": "0x3b05c1c41530031b:0",
-    "name": "Revathy Studio & Communications",
-    "address": "",
-    "category": "Wedding photographer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 06:08:01.771917"
   }
 ]
