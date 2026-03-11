@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b05babdbfec7165:0",
+    "name": "Geekboz",
+    "address": "",
+    "category": "Computer store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 14:22:59.303235"
+  },
+  {
+    "place_id": "0x872b6c18a4fccf23:0",
+    "name": "Maids of Honor",
+    "address": "15820 N 35th Ave # 20",
+    "category": "House cleaning service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 14:22:58.122648"
+  },
+  {
+    "place_id": "0x3b05bbb79c9da627:0",
+    "name": "Jobcaps HR Consultancy",
+    "address": "Valsala Nursing home Road, Paris Rd",
+    "category": "Human resource consulting",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 14:22:56.939210"
+  },
+  {
+    "place_id": "0x3b05bfc9ad2ce07b:0",
+    "name": "TidyGlow",
+    "address": "Vetturoad, near railway gate",
+    "category": "House cleaning service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 14:22:55.767847"
+  },
+  {
+    "place_id": "0x3b05c3f427cfa6d9:0",
+    "name": "Godha The Ultimate Fitness Studio",
+    "address": "GODHA THE ULTIMATE FITNESS STUDIO, THANNIMOOTIL SPORTS AND GAMES AVS PLAZA ARYAAS RESTAURANT",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 14:22:54.599657"
+  },
+  {
+    "place_id": "0x3b05c3dffd02f7d3:0",
+    "name": "Alpha Home Services ™",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 14:22:53.403869"
+  },
+  {
+    "place_id": "0x3b05bef6c2c3b2ab:0",
+    "name": "Connecting2Work HR Solutions",
+    "address": "",
+    "category": "Human resource consulting",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 14:22:52.152298"
+  },
+  {
+    "place_id": "0x646670961a5065d1:0",
+    "name": "NipsApp Game Studios",
+    "address": "Opens 9:30 AM Thu",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 14:22:50.974641"
+  },
+  {
+    "place_id": "0x3b05bf9a43700cf5:0",
+    "name": "DNi Best HR Consultancy in Trivandrum",
+    "address": "No.2 , Flyway Building, opp. Infosys campus",
+    "category": "Human resource consulting",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 14:22:49.751494"
+  },
+  {
     "place_id": "0x3b05b982d9fce3b7:0",
     "name": "Sajna Stores",
     "address": "",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-20 17:11:27.969387"
-  },
-  {
-    "place_id": "0x3b05bbe23100f0df:0",
-    "name": "Foto World",
-    "address": "",
-    "category": "Photography studio",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 17:11:26.878284"
-  },
-  {
-    "place_id": "0x3b05bbd18baef7f5:0",
-    "name": "Helios Watch Store - Kowdiar, Thiruvananthapuram",
-    "address": "",
-    "category": "Watch store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 17:11:25.781970"
-  },
-  {
-    "place_id": "0x3b05bbb6f34df5bd:0",
-    "name": "ARMSTECH ENGINEERS PRIVATE LIMITED",
-    "address": "",
-    "category": "Mechanical contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 17:11:24.620898"
-  },
-  {
-    "place_id": "0x3b05bb0689d5f6e5:0",
-    "name": "Wolfgang Interactive Studios - Trivandrum",
-    "address": "WG Int 48D, C St",
-    "category": "Marketing agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 17:11:23.505582"
-  },
-  {
-    "place_id": "0x3b05b801911cbfab:0",
-    "name": "Anu Power Tools",
-    "address": "",
-    "category": "Building equipment hire service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 14:33:13.490513"
-  },
-  {
-    "place_id": "0x3b05b94c826fc0bd:0",
-    "name": "Geojit financial services ltd",
-    "address": "Geojit financial services ltd, 1st floor, near QRS",
-    "category": "Stock broker",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 14:33:12.307214"
-  },
-  {
-    "place_id": "0x880e2d1174bcfca3:0",
-    "name": "Uic Pediatric Genetics",
-    "address": "",
-    "category": "Doctor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 14:33:11.121050"
-  },
-  {
-    "place_id": "0x3b05babde8673bd3:0",
-    "name": "S.A Rental Power Tools",
-    "address": "FX6V+HG4",
-    "category": "Equipment rental agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 14:33:09.894455"
-  },
-  {
-    "place_id": "0x3b05baa54a6e7e7f:0",
-    "name": "Srivel Finance",
-    "address": "Nemom Punnamoodu Rd",
-    "category": "Bank",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 14:33:08.731660"
   }
 ]
