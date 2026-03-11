@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bbefd1645b07:0",
+    "name": "Orange Life Fitness centre",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 20:02:28.634851"
+  },
+  {
+    "place_id": "0x3b05a9670ecc0b1d:0",
+    "name": "Poovar boat service",
+    "address": "839C+38J, Poovar Island Beach Rd",
+    "category": "Tourist attraction",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 20:02:27.475682"
+  },
+  {
+    "place_id": "0x3b05e86f53ace6b3:0",
+    "name": "Rolex Multi-Gym & Fitness Center ( fully air conditioned gym )",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 20:02:26.318270"
+  },
+  {
+    "place_id": "0x3b05c173ae15fdb5:0",
+    "name": "Luxury Fitness world",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 20:02:25.115063"
+  },
+  {
+    "place_id": "0x3b05bfd1981e5321:0",
+    "name": "Tropical Marina",
+    "address": "Marina at the beach",
+    "category": "Homestay",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 20:02:23.887734"
+  },
+  {
     "place_id": "0x3b05bb96334310f5:0",
     "name": "SS Roofings",
     "address": "Kaimanam Vivek Nagar Residential Association, Pappanamcode SS Roofings, Opposite Lekshmi Auditorium Karumom Road, PO",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-20 18:06:34.025271"
-  },
-  {
-    "place_id": "0x3b05e90029ddc48d:0",
-    "name": "Oyster Psychological Counselling and Child Development Center",
-    "address": "College junction road, opposite Government College",
-    "category": "Mental health service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 18:06:32.278204"
-  },
-  {
-    "place_id": "0x3b05ba2d0ad3aab9:0",
-    "name": "TechBound Digital Marketing Agency",
-    "address": "",
-    "category": "Internet marketing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 18:06:31.079735"
-  },
-  {
-    "place_id": "0x3b05bb93b143b245:0",
-    "name": "De-Paris Bath Fittings",
-    "address": "Extra Police Rd",
-    "category": "Bathroom supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 18:06:29.851351"
-  },
-  {
-    "place_id": "0x3b05bb9304a8a7e3:0",
-    "name": "Lt Col Suraiya Psychologist and Hypnotherapist Trivandrum",
-    "address": "VRA 126C, PO, near Vettamukku Park",
-    "category": "Hypnotherapy service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 18:06:28.678701"
-  },
-  {
-    "place_id": "0x3b05beffd3a1cbfd:0",
-    "name": "Pulimoottil Watches",
-    "address": "Bypass road",
-    "category": "Watch store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 17:11:35.780830"
   }
 ]
