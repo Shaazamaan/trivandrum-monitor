@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05c325707f7a29:0",
+    "name": "City Medicals and WC Pharmacy in Kilimanoor",
+    "address": "SH 1",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 23:05:21.219229"
+  },
+  {
+    "place_id": "0x3b05dd6bcdce2d4d:0",
+    "name": "RockLand Landscaping",
+    "address": "",
+    "category": "Lawn care service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 23:05:20.027201"
+  },
+  {
+    "place_id": "0x3b05bb006f95ff65:0",
+    "name": "Zen Mind Institute for Psychotherapy | Psychotherapy Services | Trivandrum",
+    "address": "Thanal, TN Puram Road, Manacaud PO",
+    "category": "Family counselor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 23:05:18.832903"
+  },
+  {
+    "place_id": "0x3b05bb0e71ebe301:0",
+    "name": "Manacaud Medicals",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 23:05:17.658689"
+  },
+  {
+    "place_id": "0x8923e3691559aaeb:0",
+    "name": "Double Take Lawn Services",
+    "address": "2319 E 23rd St",
+    "category": "Lawn care service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 23:05:16.434149"
+  },
+  {
+    "place_id": "0x87ee9995347fc4b5:0",
+    "name": "Seva Counseling",
+    "address": "",
+    "category": "Counselor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 23:05:15.238967"
+  },
+  {
+    "place_id": "0x87ee98640c742b2f:0",
+    "name": "Excel Lawns & Landscape",
+    "address": "",
+    "category": "Lawn care service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 23:05:13.973559"
+  },
+  {
+    "place_id": "0x3b05bbcda2721c37:0",
+    "name": "Re-Mind India - Family Counselling Trivandrum",
+    "address": "Plot No - G 17, \"Amritasara\", 2nd floor, Amritha Nagar Road",
+    "category": "Family counselor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-11 23:05:12.746929"
+  },
+  {
     "place_id": "0x3b05b956fc47a57f:0",
     "name": "Anugraha Home Nursing Ulloor",
     "address": "Opens 9 AM",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-20 20:49:40.999967"
-  },
-  {
-    "place_id": "0x3b05bbd9b55f3621:0",
-    "name": "Oriental Spice",
-    "address": "₹200–400",
-    "category": "(3,696)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 20:49:39.379453"
-  },
-  {
-    "place_id": "0x3b05bbda802de55b:0",
-    "name": "ImmiLaw Global",
-    "address": "",
-    "category": "Immigration & naturalization service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 20:49:38.204617"
-  },
-  {
-    "place_id": "0x3b05bb19d6ea3ea9:0",
-    "name": "Mahanaim Homeopathic Medical Centre",
-    "address": "Divya Building, New Theatre Rd",
-    "category": "Homeopath",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 19:09:57.629711"
-  },
-  {
-    "place_id": "0x3b05a926fa28544b:0",
-    "name": "Subaida Manzil",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 19:09:56.474791"
-  },
-  {
-    "place_id": "0x880fc149e77dd6db:0",
-    "name": "LaSalle Appraisal Group, Inc",
-    "address": "2 N LaSalle St #630",
-    "category": "Real estate appraiser",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 19:09:55.333647"
-  },
-  {
-    "place_id": "0x3b05ea4444fa3235:0",
-    "name": "S.M Homeo Medical Centre/HOMOEOPATHIC DOCTORS Valiyakada chirayinkeezhu",
-    "address": "HOMOEOPATHIC DOCTORS Dr Ajayan BHMS, Dr HarshaBindu BHMS,consulting time 9am-7pm",
-    "category": "Homeopath",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 19:09:54.154915"
-  },
-  {
-    "place_id": "0x3b05b932ccd6fe53:0",
-    "name": "Dr Jayasree Sarma Homoeo Clinic",
-    "address": "Ajay Bhavan, CKRA - 207, Puthencode lane, opposite Gaff Hill Road",
-    "category": "Homeopath",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 19:09:52.983197"
-  },
-  {
-    "place_id": "0x3b05bbc9ffbb1f83:0",
-    "name": "Mathew Adam Architects & Valuers",
-    "address": "MSR Lane, near New Theatre",
-    "category": "Real estate appraiser",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-20 19:09:51.717433"
   }
 ]
