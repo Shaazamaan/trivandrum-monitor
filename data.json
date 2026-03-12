@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05bb6cc690b07b:0",
+    "name": "Beef House",
+    "address": "Opens 8 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-12 20:59:20.288274"
+  },
+  {
+    "place_id": "0x3b05bb45acf7f29f:0",
+    "name": "Muthoot Finance Gold Loan",
+    "address": "Market Jn, No. 72, Ground Floor, SL Tower, Attukal Rd, near CDRC Building",
+    "category": "Mortgage lender",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-12 20:59:19.111211"
+  },
+  {
+    "place_id": "0x87ec209bf80e93bd:0",
+    "name": "Twisted Vine Brewery",
+    "address": "",
+    "category": "Brewery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-12 20:59:17.916190"
+  },
+  {
+    "place_id": "0x3b05a998bb1af7b9:0",
+    "name": "Estuary Sarovar Premiere Poovar Island",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-12 20:59:16.648855"
+  },
+  {
+    "place_id": "0x3b05a99033316b79:0",
+    "name": "Muthoot Finance Gold Loan",
+    "address": "Ground Floor, Rasi Tower, Vizhinjam - Uchakkada Rd, opposite KSRTC Bus Station",
+    "category": "Mortgage lender",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-12 20:59:15.484166"
+  },
+  {
+    "place_id": "0x3b05ef284aa03c3f:0",
+    "name": "Muthoot Finance Gold Loan",
+    "address": "Ground Floor, Eudy Mall, Temple Rd, near Eudy Auditorium",
+    "category": "Mortgage lender",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-12 20:59:14.282559"
+  },
+  {
+    "place_id": "0x3b05efaac63c51e3:0",
+    "name": "BEER & WINE PARLOUR",
+    "address": "",
+    "category": "Wine bar",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-12 20:59:13.102573"
+  },
+  {
     "place_id": "0x88569fd7d69f3dbf:0",
     "name": "Contents Restoration Services LLC",
     "address": "4935 Chastain Ave",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-21 11:06:50.233368"
-  },
-  {
-    "place_id": "0x3b05c365f3ba8b43:0",
-    "name": "jithin freelance digital marketer",
-    "address": "jithinbhavan chittilazikam",
-    "category": "Marketing agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 11:06:49.090879"
-  },
-  {
-    "place_id": "0x3b05bb1044bc293d:0",
-    "name": "STEM Robotics International",
-    "address": "",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 11:06:47.933008"
-  },
-  {
-    "place_id": "0x3b05b95e0c9c4dcd:0",
-    "name": "TRAVANCORE PEST CONTROL",
-    "address": "Lekshmi Tower Kurisadi jn",
-    "category": "Pest control service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 11:06:46.787188"
-  },
-  {
-    "place_id": "0x3b05bb3ae717bb4f:0",
-    "name": "Extreme Media",
-    "address": "",
-    "category": "Website designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 11:06:45.639050"
-  },
-  {
-    "place_id": "0x3b05befaeabb885f:0",
-    "name": "Genrobotic Innovations Pvt. Ltd.",
-    "address": "",
-    "category": "Corporate office",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 11:06:44.468032"
-  },
-  {
-    "place_id": "0x3b05bb9e543e696b:0",
-    "name": "Asian Pest Control Service in Trivandrum",
-    "address": "TC 52/501(3, Post, opp. BSNL Office",
-    "category": "Pest control service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 11:06:43.303752"
-  },
-  {
-    "place_id": "0x3b05bb0f01f04e65:0",
-    "name": "Breathe Digital Marketing | Best Digital Marketing Agency in Kerala",
-    "address": "Breathe Innovations, SS Kovil Road, Manjalikulam Rd",
-    "category": "Advertising agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 11:06:42.116620"
   }
 ]
