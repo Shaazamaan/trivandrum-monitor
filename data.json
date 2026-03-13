@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05b90700f3c903:0",
+    "name": "Royal Ortho Care",
+    "address": "",
+    "category": "Orthopedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 08:07:27.865667"
+  },
+  {
+    "place_id": "0x3b05ab45077473a9:0",
+    "name": "Mojo cafe",
+    "address": "$$",
+    "category": "(241)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 08:07:26.679506"
+  },
+  {
+    "place_id": "0x3b05af264b9d77bd:0",
+    "name": "Irani Restaurant Neyyattinkara",
+    "address": "₹200–400",
+    "category": "(3,701)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 08:07:25.457633"
+  },
+  {
+    "place_id": "0x3b05afe3dbb772a5:0",
+    "name": "Art Station Talent Research Academy",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 08:07:24.294125"
+  },
+  {
+    "place_id": "0x3b05ae6694d5a4cf:0",
+    "name": "Dr. Sanal Kumar's Ortho Clinic",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 08:07:22.985446"
+  },
+  {
     "place_id": "0x3b05bb001fe28ddb:0",
     "name": "The Ivory Club",
     "address": "TC24/1956",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-21 14:42:33.177984"
-  },
-  {
-    "place_id": "0x3b05b9a6a48a8d27:0",
-    "name": "chargeMOD Charging Station",
-    "address": "GWPR+3W4",
-    "category": "Electric vehicle charging station",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 14:42:32.061942"
-  },
-  {
-    "place_id": "0x3b05bb625acab527:0",
-    "name": "chargeMOD Charging Station",
-    "address": "F233+HJ2",
-    "category": "Electric vehicle charging station",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 14:42:30.943828"
-  },
-  {
-    "place_id": "0x3b05bbb6e8228dbf:0",
-    "name": "90's Cafe & Fresh juice",
-    "address": "₹1–200",
-    "category": "(38)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 14:42:29.800522"
-  },
-  {
-    "place_id": "0x880e2d3af4b8b223:0",
-    "name": "XH Masonry Contractors & Tuckpointing",
-    "address": "620 N La Salle Dr #3051",
-    "category": "Masonry contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 14:42:28.602487"
-  },
-  {
-    "place_id": "0x3b05bb002b5191a1:0",
-    "name": "Electric Vehicle Charging Station",
-    "address": "FXV2+VV3",
-    "category": "Electric vehicle charging station",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 14:42:27.446789"
   }
 ]
