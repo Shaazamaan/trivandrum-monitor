@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b05bf419711a6cd:0",
+    "name": "Aswa Plaza",
+    "address": "",
+    "category": "Bridal shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 11:46:08.748384"
+  },
+  {
+    "place_id": "0x3b05bf40397797c7:0",
+    "name": "National Scans & Diagnostic Services",
+    "address": "opposite Kinfra IT Park",
+    "category": "Medical diagnostic imaging center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 11:46:07.617873"
+  },
+  {
+    "place_id": "0x3b05b15bd9677adf:0",
+    "name": "Manappuram Finance Limited – Gold Loan",
+    "address": "",
+    "category": "Pawn shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 11:46:06.460000"
+  },
+  {
+    "place_id": "0x3b05b169c28c723f:0",
+    "name": "Neyyar Medicity",
+    "address": "",
+    "category": "Private hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 11:46:05.338438"
+  },
+  {
+    "place_id": "0x880fbb653ed48543:0",
+    "name": "All Flood & Fire Cleanup & Restoration",
+    "address": "(847) 202-0231",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 11:46:04.069354"
+  },
+  {
+    "place_id": "0x3b05e868abd14531:0",
+    "name": "DDRC Agilus Diagnostics | Kallambalam | Medical Laboratory, Blood Test & Health Checks",
+    "address": "",
+    "category": "Laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 11:46:02.949338"
+  },
+  {
+    "place_id": "0x880fd3d6454a8c19:0",
+    "name": "Green Water & Fire Inc.",
+    "address": "",
+    "category": "Water damage restoration service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 11:46:01.797504"
+  },
+  {
+    "place_id": "0x3b05bb00087c489f:0",
+    "name": "DR RENJITH'S DIAGNOSTIC CENTER",
+    "address": "W & C Hospital Rd, opposite govt",
+    "category": "X-ray lab",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 11:46:00.674081"
+  },
+  {
+    "place_id": "0x3b05b92dbbcef55d:0",
+    "name": "SNOWBOW FIRE ENGINEERING SERVICES",
+    "address": "",
+    "category": "Fire protection service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 11:45:59.550199"
+  },
+  {
     "place_id": "0x3b05b90700f3c903:0",
     "name": "Royal Ortho Care",
     "address": "",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-21 17:55:15.829946"
-  },
-  {
-    "place_id": "0x3b05bb83a6047bc7:0",
-    "name": "KSCSTE Souvenir Shop",
-    "address": "Sastra Bhavan, Kesavadasapuram Rd",
-    "category": "Souvenir store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 17:55:14.713529"
-  },
-  {
-    "place_id": "0x3b05dd4579629fa1:0",
-    "name": "Amit upholsery pappala kilimanoor",
-    "address": "Kilimanoor - Kottarakkara Rd",
-    "category": "Upholstery shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 17:55:13.524949"
-  },
-  {
-    "place_id": "0x3b05c325e10a2691:0",
-    "name": "PULARI GIFT AND VESSELS",
-    "address": "",
-    "category": "Gift shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 17:55:12.385180"
-  },
-  {
-    "place_id": "0x3b05c32f7fe8545d:0",
-    "name": "KSFE KILIMANOOR",
-    "address": "IST FLOOR, L.S. PLAZA",
-    "category": "Financial institution",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 17:55:11.238002"
-  },
-  {
-    "place_id": "0x3b05b9e393795ec9:0",
-    "name": "Genius Upholstery",
-    "address": "MRA 11 A",
-    "category": "Upholstery shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 17:55:10.104969"
-  },
-  {
-    "place_id": "0x3b05bbd6adc6a683:0",
-    "name": "Culture Shoppe",
-    "address": "Opens 10 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 17:55:08.917907"
-  },
-  {
-    "place_id": "0x3b05bb3b35ab8b9d:0",
-    "name": "Scs Corporate Services",
-    "address": "GX93+24C",
-    "category": "Corporate office",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 17:55:07.788653"
-  },
-  {
-    "place_id": "0x3b05bb6c9c968877:0",
-    "name": "Statiq Charging Station",
-    "address": "TC NO.68, Right side of the main entran, 1795/1",
-    "category": "Electric vehicle charging station",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 14:42:34.358409"
-  },
-  {
-    "place_id": "0x3b05bb0bf995b607:0",
-    "name": "KAFE FALAFEL",
-    "address": "near parotta hut, near vadakada",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 14:42:33.177984"
   }
 ]
