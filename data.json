@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bb001fe28ddb:0",
+    "name": "The Ivory Club",
+    "address": "TC24/1956",
+    "category": "Cocktail bar",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 06:04:03.523507"
+  },
+  {
+    "place_id": "0x3b05bbb6fd8aa573:0",
+    "name": "Vazhuthacaud",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 06:04:02.389947"
+  },
+  {
+    "place_id": "0x3b05eb712c153425:0",
+    "name": "TRISHIKA BEAUTY PARLOUR",
+    "address": "P R BUILDING, Sarkara Bypass Rd",
+    "category": "Health spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 06:04:01.256805"
+  },
+  {
+    "place_id": "0x3b05ea4596af0a1f:0",
+    "name": "Nazar Hotel",
+    "address": "₹1–200",
+    "category": "(309)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 06:04:00.135571"
+  },
+  {
+    "place_id": "0x3b05bb14912a8aaf:0",
+    "name": "Grand Builders",
+    "address": "First Floor, The Arcade",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-13 06:03:59.010096"
+  },
+  {
     "place_id": "0x3b05bb6cc690b07b:0",
     "name": "Beef House",
     "address": "Opens 8 AM",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-21 14:42:27.446789"
-  },
-  {
-    "place_id": "0x3b05bb422c720eed:0",
-    "name": "DR Tech Homes Pvt Ltd, Trivandrum, Kerala",
-    "address": "near Premier Park Hotel",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 14:42:26.308501"
-  },
-  {
-    "place_id": "0x808f8576b682daf9:0",
-    "name": "Production Robotics",
-    "address": "",
-    "category": "Machining manufacturer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 11:06:53.736401"
-  },
-  {
-    "place_id": "0x3b05ba49e26ec6a3:0",
-    "name": "Pest Control & Cleaning Services",
-    "address": "TC 7/1996, Temple View, Thiruvananthapuram - Neyyar Dam Rd, near Asianet Office",
-    "category": "Pest control service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 11:06:52.566039"
-  },
-  {
-    "place_id": "0x3b05bb8582e970b9:0",
-    "name": "Digital Edenz",
-    "address": "",
-    "category": "Internet marketing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 11:06:51.422054"
-  },
-  {
-    "place_id": "0x3b05bf549814f371:0",
-    "name": "Good care pest control",
-    "address": "kazhakootam Menamkulam",
-    "category": "Pest control service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 11:06:50.233368"
   }
 ]
