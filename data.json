@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x390cf19c6c3ec8fb:0",
+    "name": "Rentokil PCI Pest Control Service",
+    "address": "J - Street, Post",
+    "category": "Pest control service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-14 11:51:12.419433"
+  },
+  {
+    "place_id": "0x3b05bbffd8e899e3:0",
+    "name": "MindfulCDC | Centre For Child Development, Speech Therapy, Behavior Therapy & Counselling, Learning Disorder | Trivandrum",
+    "address": "TC 9/706/1, Prasanthi, Madancovil Lane, Vellayambalam - Sasthamangalam Rd, opposite SBI Home Loans",
+    "category": "Occupational therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-14 11:51:11.274650"
+  },
+  {
+    "place_id": "0x3b05ba13eb42e63b:0",
+    "name": "Integrated Pest Management Solutions",
+    "address": "Shan Building Puthenkada Junction, Thirumala P.O.,",
+    "category": "Pest control service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-14 11:51:10.121553"
+  },
+  {
+    "place_id": "0x3b05b903358769ff:0",
+    "name": "Deeksha Speech Therapy Solutions,Trivandrum Speech Therapy Centre,Behavioural Therapy,Occupational Therapy",
+    "address": "Pongumoodu, Pazhaya Rd, near Leeja Bakery",
+    "category": "Speech pathologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-14 11:51:08.967077"
+  },
+  {
+    "place_id": "0x3b05bbbea803559d:0",
+    "name": "Maurya Rajadhani",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-14 11:51:07.823207"
+  },
+  {
     "place_id": "0x3b05babcb8ddc665:0",
     "name": "Cool Land Car AC Works",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-22 00:03:43.635928"
-  },
-  {
-    "place_id": "0x3b05ef26d90220fb:0",
-    "name": "Varkala",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 00:03:42.489562"
-  },
-  {
-    "place_id": "0x3b05b985a7dca21b:0",
-    "name": "AARTHI SCANS & LABS | THIRUVANANTHAPURAM | DIAGNOSTIC CENTER",
-    "address": "",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 00:03:41.271880"
-  },
-  {
-    "place_id": "0x3b05b99f05dc55d3:0",
-    "name": "Inline Automation - Generator Shop Trivandrum, Kirloskar Generator Dealers in Trivandrum, Eicher Generator Dealers, Elmeasure",
-    "address": "inline automation Building, kp 23/232, MC Rd, near Ganapthi Temple",
-    "category": "Electric generator shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 00:03:40.101059"
-  },
-  {
-    "place_id": "0x3b05bbb4d95185af:0",
-    "name": "Scipy Technologies Pvt Ltd",
-    "address": "",
-    "category": "Software company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 00:03:38.936696"
-  },
-  {
-    "place_id": "0x3b05c1366dc7aedf:0",
-    "name": "Rex Plumbing & Sanitary Hardware",
-    "address": "",
-    "category": "Plumbing supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-21 21:05:00.082099"
   }
 ]
