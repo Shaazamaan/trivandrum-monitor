@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05b93518e89fbf:0",
+    "name": "DNM FURNITURE, SREEKARYAM",
+    "address": "TC-5, 3149, Elamkulam Ln",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-14 17:42:24.120940"
+  },
+  {
+    "place_id": "0x3b05becb0fbd1cc3:0",
+    "name": "Jacobs Engineering",
+    "address": "National Highway 47",
+    "category": "Engineering consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-14 17:42:22.942600"
+  },
+  {
+    "place_id": "0x3b05c9002d470e17:0",
+    "name": "Afrin furniture mart & home appliances",
+    "address": "SH45",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-14 17:42:21.667860"
+  },
+  {
+    "place_id": "0x3b05baf6f939a67f:0",
+    "name": "Venus Engineering Works",
+    "address": "Thamalam Rd",
+    "category": "Welding supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-14 17:42:20.420430"
+  },
+  {
+    "place_id": "0x3b05bfa9adfdc6bf:0",
+    "name": "Godrej Interio Kitchen Store Near me, Trivandrum",
+    "address": "",
+    "category": "Kitchen furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-14 17:42:19.236248"
+  },
+  {
+    "place_id": "0x3b05eb20adddb51d:0",
+    "name": "Camp Riva",
+    "address": "",
+    "category": "Campground",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-14 17:42:17.914980"
+  },
+  {
     "place_id": "0x3b05ea4fd522b79d:0",
     "name": "Chirayinkeezhu Medical Centre",
     "address": "",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-22 05:04:21.229711"
-  },
-  {
-    "place_id": "0x3b05bbfb3929ac8f:0",
-    "name": "Ear Solutions - Hearing Aid Centre in Trivandrum | Free Hearing Aid Trial Trivandrum",
-    "address": "First Floor, Raj Towers, Tc.no. 22/3030, opposite Raja Kesavadas NSS HSS",
-    "category": "Hearing aid store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 05:04:19.996755"
-  },
-  {
-    "place_id": "0x3b05ba1f782ee19f:0",
-    "name": "Vysakh Traders",
-    "address": "Corporation Building",
-    "category": "Hardware store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 05:04:18.758154"
-  },
-  {
-    "place_id": "0x3b05af006a4811db:0",
-    "name": "Bevco Outlet",
-    "address": "Surya Building",
-    "category": "Alcohol retail monopoly",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 05:04:17.602193"
-  },
-  {
-    "place_id": "0x3b05ae88c221d1b3:0",
-    "name": "Prasanth Enterprises - Asian Paints, Plywood, Hardware ,Glass & More",
-    "address": "",
-    "category": "Plywood supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 05:04:16.429768"
-  },
-  {
-    "place_id": "0x3b05bba32fda958f:0",
-    "name": "Hearzap | Hearing Aid Centre | Trivandrum",
-    "address": "Shop no 17/2778, 1st Floor, Orchid Plaza, 3 Storied medical college Road",
-    "category": "Hearing aid store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 05:04:15.281480"
-  },
-  {
-    "place_id": "0x3b05beca95c629d3:0",
-    "name": "Vibrance Spa and Ayurvedic Wellness Centre",
-    "address": "",
-    "category": "Day spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 05:04:14.117479"
   }
 ]
