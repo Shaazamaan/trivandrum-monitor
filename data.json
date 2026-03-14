@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x880e32505e01e891:0",
+    "name": "Windy City Auto Glass",
+    "address": "4148 W Ogden Ave",
+    "category": "Auto glass shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-14 20:03:04.948913"
+  },
+  {
+    "place_id": "0x880e2ca535bd956b:0",
+    "name": "Workplace Law Partners",
+    "address": "",
+    "category": "Employment attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-14 20:03:03.826238"
+  },
+  {
+    "place_id": "0x3b05bb33e6bc1147:0",
+    "name": "Travancore Glass House (Automobile Glass Shop)",
+    "address": "Opens 9:30 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-14 20:03:02.685019"
+  },
+  {
     "place_id": "0x3b05b93518e89fbf:0",
     "name": "DNM FURNITURE, SREEKARYAM",
     "address": "TC-5, 3149, Elamkulam Ln",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-22 09:47:17.408805"
-  },
-  {
-    "place_id": "0x3b05bc150e12f773:0",
-    "name": "Mercedes-Benz Coastal Star Service Experience Center - Trivandrum",
-    "address": "",
-    "category": "Car dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 09:47:16.276641"
-  },
-  {
-    "place_id": "0x3b05bffd5038463f:0",
-    "name": "Foot Cure Consultancy",
-    "address": "Nikunjam, near Block Office",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 09:47:15.174353"
-  },
-  {
-    "place_id": "0x808e3350cec9bbb9:0",
-    "name": "AudioNova",
-    "address": "",
-    "category": "Hearing aid store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 05:04:21.229711"
   }
 ]
