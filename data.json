@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05c2d86baf7221:0",
+    "name": "Chevalamadom Arts & Sports club",
+    "address": "chevalamadom Road",
+    "category": "Sports club",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-15 08:05:02.063225"
+  },
+  {
+    "place_id": "0x3b05bb15b9ec8955:0",
+    "name": "Dr. Paul Samuel",
+    "address": "",
+    "category": "Otolaryngologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-15 08:05:00.903106"
+  },
+  {
+    "place_id": "0x3b05bbdf8a55da37:0",
+    "name": "Starlex Arts and Sports Club",
+    "address": "",
+    "category": "Club",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-15 08:04:59.744916"
+  },
+  {
+    "place_id": "0x3b05e9f9ad55d9a5:0",
+    "name": "The Khalams Medical centre- Dental and ENT Clinic",
+    "address": "Khalams Medical Centre, Palace Link Road",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-15 08:04:58.580316"
+  },
+  {
+    "place_id": "0x3b05ba3cc5788fbb:0",
+    "name": "Love All Sports",
+    "address": "",
+    "category": "Sports club",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-15 08:04:57.410860"
+  },
+  {
     "place_id": "0x3b05ba3455555553:0",
     "name": "PALAZHY TOURS & TRAVELS PVT. LTD.",
     "address": "Omkaram Building, Pipinmoodu - Mannammola Rd",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-22 19:40:52.803327"
-  },
-  {
-    "place_id": "0x808fcad79f24c065:0",
-    "name": "Property Inspection Service",
-    "address": "Opens 7 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 19:40:51.644128"
-  },
-  {
-    "place_id": "0x3b05bfd90fb4df09:0",
-    "name": "NG SPORTS",
-    "address": "Chakkalamukku, Sreekariyam - Pothencode Rd",
-    "category": "Sportswear store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 15:44:00.343382"
-  },
-  {
-    "place_id": "0x3b05cdc25df3a175:0",
-    "name": "Ponmudi Hill Top",
-    "address": "Opens 8 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 15:43:59.086713"
-  },
-  {
-    "place_id": "0x3b05cdcf87cf3733:0",
-    "name": "KTDC Golden Peak Ponmudi",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 15:43:57.986678"
-  },
-  {
-    "place_id": "0x3b05e9855cbcaf17:0",
-    "name": "R10 Sports",
-    "address": "Rd, near GHSS",
-    "category": "Sporting goods store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-22 15:43:56.865194"
   }
 ]
