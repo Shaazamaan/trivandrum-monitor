@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x87ec20a005bdf6b5:0",
+    "name": "Ian's Lock and Key",
+    "address": "Opens 9 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 03:30:03.270503"
+  },
+  {
+    "place_id": "0x3b05bb7b9480e5db:0",
+    "name": "YOGI Healthcare Center",
+    "address": "SRA 103,KUTTICAUD JUNCTION,MANACAUD P.O",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 03:30:02.089378"
+  },
+  {
+    "place_id": "0x3b05c138b5c4d745:0",
+    "name": "Av Engineers",
+    "address": "15a, Thiruvonam Tower, Venjaramoodu, SH 1, opp. Sindhu Theatre",
+    "category": "Electronics store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 03:30:00.839494"
+  },
+  {
+    "place_id": "0x3b05e9f087d55889:0",
+    "name": "Vinayak Key Duplication & Rubber Stamps",
+    "address": "Kachery jn, near pooja hypershoppe",
+    "category": "Key duplication service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 03:29:59.582428"
+  },
+  {
+    "place_id": "0x3b05c1c8f39cf0d7:0",
+    "name": "Acu healing centre",
+    "address": "MWH6+QMW",
+    "category": "Acupuncture clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 03:29:58.404649"
+  },
+  {
+    "place_id": "0x3b05c77ae7261489:0",
+    "name": "TECHNICS EXPERT",
+    "address": "EEC Market Road",
+    "category": "Air conditioning repair service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 03:29:57.242083"
+  },
+  {
+    "place_id": "0x3b05b9a379acdbf3:0",
+    "name": "HOLISTIC ACUPUNCTURE Healing Centre",
+    "address": "J232+928, SH3",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 03:29:56.090676"
+  },
+  {
+    "place_id": "0x3b05b9563d9c4db1:0",
+    "name": "Key world",
+    "address": "Avittom Rd",
+    "category": "Key duplication service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 03:29:54.922407"
+  },
+  {
     "place_id": "0x3b05bf33ca2b3ca9:0",
     "name": "Affordable Designer Tiles & Interlocking, Terracon Paver block Exterior Tiles",
     "address": "Cheruvikkal Vyanashala Bus Stop, C R A, D1",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-23 07:50:21.982146"
-  },
-  {
-    "place_id": "0x87693601c26e889f:0",
-    "name": "Blue Mountain Environmental Consulting",
-    "address": "",
-    "category": "Environmental consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-23 07:50:20.827826"
-  },
-  {
-    "place_id": "0x3b05bba0b08844ed:0",
-    "name": "East Fort",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-23 07:50:19.681841"
-  },
-  {
-    "place_id": "0x3b05bb9b09f2ded1:0",
-    "name": "Mindful Mindcare || S.Suresh’s counselling center",
-    "address": "Closes 10 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-23 07:50:18.549430"
-  },
-  {
-    "place_id": "0x3b05bb059ccba877:0",
-    "name": "Folksmind Venture Pvt Ltd",
-    "address": "Dotspace Business Centre Ushasandya Building",
-    "category": "Holding company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-23 07:50:17.362423"
-  },
-  {
-    "place_id": "0x3b05b114b0d2fa6f:0",
-    "name": "Aswathy Pollution Testing Centre",
-    "address": "G33H+MHM, neyyatinkara road, near Charis Plaza",
-    "category": "Environmental consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-23 07:50:16.216512"
-  },
-  {
-    "place_id": "0x3b05b16a85c80c61:0",
-    "name": "Agro Agencies",
-    "address": "Kattakada - Ottasekharamangalam Road, near treasury",
-    "category": "Fertilizer supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-23 07:50:15.018193"
-  },
-  {
-    "place_id": "0xad30d3fa948cd92b:0",
-    "name": "Nazure global",
-    "address": "Closes 5 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-23 07:50:13.803201"
-  },
-  {
-    "place_id": "0x3b05cf0d401a2865:0",
-    "name": "RANCROSSROAD CYCLES",
-    "address": "1st Floor, A.R Building, Kushavoor Junction, near Maharani Hotel, above Oasis Paints",
-    "category": "Bicycle Shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-23 06:46:08.176622"
   }
 ]
