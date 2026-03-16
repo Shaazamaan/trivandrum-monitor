@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05b9f2b3e99f39:0",
+    "name": "Karni interior",
+    "address": "RC,RL 103, Radhakrishnan Ln",
+    "category": "Office furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 20:13:45.703911"
+  },
+  {
+    "place_id": "0x3b05b976d859757b:0",
+    "name": "Environmental Resources Research Centre",
+    "address": "STAR HOUSE, TC 14/37, UNRA-35 A, NCC Rd",
+    "category": "Environmental protection organization",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 20:13:44.361238"
+  },
+  {
+    "place_id": "0x3b05ea0812381f55:0",
+    "name": "Golden Furniture, Electronics and Appliances",
+    "address": "National Highway 66 Mammom, beside SBI ATM",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 20:13:43.220300"
+  },
+  {
+    "place_id": "0x3b05eb92d8be8f9f:0",
+    "name": "Good Shepherd Consultancy",
+    "address": "Opens 11 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 20:13:42.061204"
+  },
+  {
+    "place_id": "0x3b05bb0e0d86ac73:0",
+    "name": "Mayoori Furniture",
+    "address": "Trivandrum Vizhinjam Rd",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 20:13:40.912504"
+  },
+  {
+    "place_id": "0x3b05bbed7d4ad3b5:0",
+    "name": "R&B Dream Homes and Developers pvt Ltd.",
+    "address": "House no -150, Karthika Bhavan, 2, Attukal - Chiramukku Rd",
+    "category": "Building firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 20:13:39.782314"
+  },
+  {
+    "place_id": "0x3b05bf724f55a8ad:0",
+    "name": "BOSQ ergonomic living",
+    "address": "",
+    "category": "Office furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-16 20:13:38.482332"
+  },
+  {
     "place_id": "0x3b05bbb52b73df21:0",
     "name": "Serene Derma",
     "address": "",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-24 18:45:29.941874"
-  },
-  {
-    "place_id": "0x100411004312fe71:0",
-    "name": "Deedi Chevrolet",
-    "address": "Erumalathopu, PO, NH Bypass Road",
-    "category": "Auto repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-24 18:45:28.815573"
-  },
-  {
-    "place_id": "0x3b05bb02d0a28b09:0",
-    "name": "Sea Sand Cargo Services",
-    "address": "TCP 82/15-1 Hridhayam, Karali Rd, near Ananthapuri Hospital",
-    "category": "Freight forwarding service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-24 18:45:27.708558"
-  },
-  {
-    "place_id": "0x3b05b9be5bbf633d:0",
-    "name": "LIVE SPORTS",
-    "address": "FIRST FLOOR, Circle, near Kesavadasapuram, above Go colors",
-    "category": "Sporting goods store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-24 18:45:26.606148"
-  },
-  {
-    "place_id": "0x3b05bf2093bfcbc9:0",
-    "name": "Okinawan Academy Of Martial Arts",
-    "address": "near Kerala Gramin Bank",
-    "category": "Martial arts school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-24 13:54:50.232454"
-  },
-  {
-    "place_id": "0x3b05c1bfa91b6321:0",
-    "name": "International Martial Arts Academy",
-    "address": "",
-    "category": "Martial arts school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-24 13:54:49.085121"
-  },
-  {
-    "place_id": "0x3b05c1cad9a7cdab:0",
-    "name": "KIMSHEALTH Medical Centre Pothencode",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-24 13:54:47.947172"
-  },
-  {
-    "place_id": "0x3b05b91d032a830f:0",
-    "name": "DASAGRIVA MARMA KALARI SANGHAM",
-    "address": "TC 19/1964, HSS, CLRA 17, Concordia Ln",
-    "category": "Martial arts school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-24 13:54:46.798852"
   }
 ]
