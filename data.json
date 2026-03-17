@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bbe5c15946ad:0",
+    "name": "Cearsleg Technologies Pvt Ltd",
+    "address": "",
+    "category": "E-commerce service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 16:53:00.419035"
+  },
+  {
+    "place_id": "0x3b05b97f33ae7a47:0",
+    "name": "Bytelabz Software Solutions Pvt LTD",
+    "address": "AKG Road, Thengazhisseril Building",
+    "category": "E-commerce service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 16:52:59.238261"
+  },
+  {
+    "place_id": "0x3b05ae884924d4c5:0",
+    "name": "Connect Digital Press",
+    "address": "",
+    "category": "Graphic designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 16:52:58.025360"
+  },
+  {
+    "place_id": "0x3b05bbb1c7c98717:0",
+    "name": "D4D Investigators",
+    "address": "",
+    "category": "Private investigator",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 16:52:56.838787"
+  },
+  {
     "place_id": "0x3b05bba715555555:0",
     "name": "Green Bakery",
     "address": "₹1–200",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-25 19:48:55.358627"
-  },
-  {
-    "place_id": "0x3b05becb3ccd60ff:0",
-    "name": "Sreekaryam Market",
-    "address": "GWX8+RQV",
-    "category": "Market",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-25 19:48:54.223974"
-  },
-  {
-    "place_id": "0x3b05b93503717085:0",
-    "name": "Trident Scans",
-    "address": "GWXC+F7R, national highway",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-25 19:48:53.111000"
-  },
-  {
-    "place_id": "0x3b05bbe03c785eeb:0",
-    "name": "Dr.Nathanis Diagnostic Clinic",
-    "address": "TC 17/3530- 1, Chalakuzhy Rd",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-25 19:48:51.984978"
-  },
-  {
-    "place_id": "0x3b05ab6e26959901:0",
-    "name": "Puthankada Market",
-    "address": "85W6+M45",
-    "category": "Market",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-25 19:48:50.847570"
   }
 ]
