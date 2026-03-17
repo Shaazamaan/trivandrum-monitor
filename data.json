@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b086d7aa98fd715:0",
+    "name": "Viza International",
+    "address": "2nd Floor, Sumaj Complex",
+    "category": "Educational consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 20:15:44.051409"
+  },
+  {
+    "place_id": "0x3b05c14ef9c9eeeb:0",
+    "name": "Rajakumari Gold and Diamonds Pothencode",
+    "address": "RK Tower, Main Road, near Masjid",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 20:15:42.861759"
+  },
+  {
+    "place_id": "0x3b05b95fa440294b:0",
+    "name": "Palliyambalam Gold & Diamonds",
+    "address": "Near, St Marys Ln",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 20:15:41.675468"
+  },
+  {
+    "place_id": "0x3b05bba59fb6c4f9:0",
+    "name": "Universal Migration",
+    "address": "",
+    "category": "Educational consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 20:15:40.500280"
+  },
+  {
     "place_id": "0x3b05bbe068e46271:0",
     "name": "Indroyal Furniture Thiruvananthapuram",
     "address": "Royal Plaza, opp. to LIC Lane",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-25 22:50:11.528139"
-  },
-  {
-    "place_id": "0x3b05bf924adcfc9d:0",
-    "name": "AL Hiba Eye Hospital Kazhakoottam",
-    "address": "NH47, opposite mission hospital , Kazhakoottam",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-25 22:50:10.358821"
-  },
-  {
-    "place_id": "0x3b05bf5b791f74f7:0",
-    "name": "Istanbul Rolls & Grills - Royale",
-    "address": "₹200–400",
-    "category": "(159)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-25 22:50:09.191414"
-  },
-  {
-    "place_id": "0x3b05b99d2ce1238b:0",
-    "name": "Devas Eye Clinic & Opticals Pvt.Ltd - Peroorkada",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-25 22:50:07.973404"
-  },
-  {
-    "place_id": "0x3b05bbfa1ee1d0bd:0",
-    "name": "Turkish Delight - Grills & Rolls",
-    "address": "₹1–200",
-    "category": "(220)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-25 22:50:06.783593"
   }
 ]
