@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05a95b0378e689:0",
+    "name": "BUILDERA TRADERS",
+    "address": "Ishwa Tower, near Fire Station",
+    "category": "Hardware store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 08:37:36.885067"
+  },
+  {
+    "place_id": "0x3b05a9609b1a4b3f:0",
+    "name": "sabna medicals,poovar",
+    "address": "839C+76P, Poovar - Vizhinjam Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 08:37:35.722982"
+  },
+  {
+    "place_id": "0x3b05c3e4ef188def:0",
+    "name": "Rachana Granites",
+    "address": "",
+    "category": "Granite supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 08:37:34.543147"
+  },
+  {
+    "place_id": "0x3b05c149c9cee625:0",
+    "name": "Kerala Glass House",
+    "address": "opposite SBT Main Road",
+    "category": "Glass & mirror shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 08:37:33.357114"
+  },
+  {
+    "place_id": "0x3b05c149aded26c7:0",
+    "name": "Viswas Community Medical Services",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 08:37:32.186766"
+  },
+  {
+    "place_id": "0x3b05b96c64db97e9:0",
+    "name": "DOOR AND DECORS",
+    "address": "Closes 8 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 08:37:30.991018"
+  },
+  {
+    "place_id": "0x3b05b9576987f6a3:0",
+    "name": "Ulloor Aswas Community Pharmacy",
+    "address": "Attappally Building",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 08:37:29.813393"
+  },
+  {
+    "place_id": "0x3b05bc0dfaff0313:0",
+    "name": "Natural Stone World",
+    "address": "",
+    "category": "Natural stone supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-17 08:37:28.581267"
+  },
+  {
     "place_id": "0x3b05bbe7ab784641:0",
     "name": "RS Family Attorney",
     "address": "",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-25 12:13:34.897271"
-  },
-  {
-    "place_id": "0x3b05b96edbdf3427:0",
-    "name": "Taurus Investment Holdings, India",
-    "address": "The Atomic Technopark Main Gate",
-    "category": "Private equity firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-25 12:13:33.738908"
-  },
-  {
-    "place_id": "0x3b05bb83abad8771:0",
-    "name": "GITPAC Consultancy Services",
-    "address": "First Floor, Fair Dreams, Women's College Ln",
-    "category": "Bookkeeping service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-25 12:13:32.530480"
-  },
-  {
-    "place_id": "0x3b05a900d8e8e2bf:0",
-    "name": "Geethu",
-    "address": "839F+HWQ, Vizhinjam - Uchakkada Rd",
-    "category": "Bar",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-24 23:51:29.809100"
-  },
-  {
-    "place_id": "0x3b05a9543470d75d:0",
-    "name": "Mom's Cake shop",
-    "address": "Poovar - Vizhinjam Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-24 23:51:28.657881"
-  },
-  {
-    "place_id": "0x3b05af435ae09dff:0",
-    "name": "PrimeFitt Enterprises - Bath & Kitchen Fittings",
-    "address": "BP 9/35-36, Vazhimukku, Balaramapuram - Poovar Rd",
-    "category": "Bathroom supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-24 23:51:27.507313"
-  },
-  {
-    "place_id": "0x3b05eb001fb5b6e1:0",
-    "name": "Ice Cream Kada",
-    "address": "",
-    "category": "Ice Cream",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-24 23:51:26.352085"
-  },
-  {
-    "place_id": "0x3b05ebb900c51d19:0",
-    "name": "Prime Plus",
-    "address": "KATTUMURAKKAL,PALLIMUKKU CHIRAYINKEEZHU-KORANI Rd, ചിറയി൯കീഴ് - കോരാണി റോഡ്‌",
-    "category": "Bathroom supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-24 23:51:25.135357"
-  },
-  {
-    "place_id": "0x3b05bbd3eab933db:0",
-    "name": "Paul's Creamery",
-    "address": "$$",
-    "category": "(7,663)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-24 23:51:23.974309"
   }
 ]
