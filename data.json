@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bb612779193b:0",
+    "name": "S M Electronics Trading",
+    "address": "SS Kovil Rd",
+    "category": "Home audio store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 14:17:47.917066"
+  },
+  {
+    "place_id": "0x3b05bbeaf4eedcaf:0",
+    "name": "Scooter rental",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 14:17:46.733265"
+  },
+  {
+    "place_id": "0x3b05b9550b61c537:0",
+    "name": "Lumin Systems",
+    "address": "Ulloor - Akkulam Rd",
+    "category": "Audio visual equipment supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 14:17:45.562859"
+  },
+  {
+    "place_id": "0x3b05ef1ba001f55b:0",
+    "name": "InDa Cafe",
+    "address": "₹200–400",
+    "category": "(2,641)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 14:17:44.402395"
+  },
+  {
+    "place_id": "0x3b05eed58a5456ef:0",
+    "name": "ARISTO MARGIN FREE ELECTRICALS & LIGHTS",
+    "address": "AARAMAM ARCADE, Sivagiri Rd, near SR Theatre",
+    "category": "Electrical products wholesaler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 14:17:43.080621"
+  },
+  {
+    "place_id": "0x3b05eff96f018b1b:0",
+    "name": "Bike Rent Varkala Rides",
+    "address": "Odayam - Anchumukku Rd",
+    "category": "Scooter rental service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 14:17:41.905970"
+  },
+  {
+    "place_id": "0x3b05b9dcb955919b:0",
+    "name": "Home Theater Store Trivandrum Kerala Av Digetal",
+    "address": "",
+    "category": "Home theater store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 14:17:40.712886"
+  },
+  {
+    "place_id": "0x3b05bb776c1b5c77:0",
+    "name": "Trivandrum Motorcycles Rentals - Rent a Bike Thampanoor",
+    "address": "",
+    "category": "Scooter rental service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 14:17:39.387832"
+  },
+  {
     "place_id": "0x89acfa81aaaaaaab:0",
     "name": "O'Toole's Mobile Dustless Blasting",
     "address": "3505 Wake Forest Hwy",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-26 17:21:36.098722"
-  },
-  {
-    "place_id": "0x3b08730dc15002f3:0",
-    "name": "V-Good Glazing & Shower Doors",
-    "address": "Kampurath (H, Ayyankali Rd",
-    "category": "Bathroom supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 17:21:34.891687"
-  },
-  {
-    "place_id": "0x3b05c92cf8ea24b1:0",
-    "name": "5WHEEL",
-    "address": "Opens 8 AM Fri",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 17:21:33.707835"
-  },
-  {
-    "place_id": "0x3b05bb9825ab93d1:0",
-    "name": "Fortune Spaces - Virtual Office & Coworking Space In Thiruvananthapuram",
-    "address": "",
-    "category": "Virtual office rental",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 17:21:32.471896"
-  },
-  {
-    "place_id": "0x872b131dde6c674f:0",
-    "name": "Huss Brewing Downtown PHX Brewpub + TOGO",
-    "address": "",
-    "category": "Brewery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 16:08:27.897554"
-  },
-  {
-    "place_id": "0x872b1267c92e71cd:0",
-    "name": "Arizona Hearing Center",
-    "address": "",
-    "category": "Audiologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 16:08:26.688075"
-  },
-  {
-    "place_id": "0x872b6c4261cf2571:0",
-    "name": "Tombstone Tactical",
-    "address": "",
-    "category": "Gun shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 16:08:25.507380"
-  },
-  {
-    "place_id": "0x3b05b11d5647c507:0",
-    "name": "Kuttis Vadakada",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 16:08:24.329644"
-  },
-  {
-    "place_id": "0x3b05b1f8737c7597:0",
-    "name": "ZERAHS CENTER FOR SPEECH AND HEARING",
-    "address": "ZERAHS CENTER FOR SPEECH AND HEARING, near Neyyar medicity",
-    "category": "Speech pathologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 16:08:23.151001"
   }
 ]
