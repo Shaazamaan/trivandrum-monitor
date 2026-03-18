@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05c39074199345:0",
+    "name": "DaniMart Furniture Shop, Home Appliances",
+    "address": "",
+    "category": "Countertop store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 20:14:11.495863"
+  },
+  {
+    "place_id": "0x3b05ebad3eb6313f:0",
+    "name": "Chirayinkeezhu Boat Club",
+    "address": "MQ5H+8R3, Pulimoottil, Puthukkari Rd, Pandakasala, Chirayinkeezhu, Kerala 695304, India Pulimoottil, Puthukkari Rd",
+    "category": "Boat club",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 20:14:10.391528"
+  },
+  {
+    "place_id": "0x3b05c1e3a25a78c7:0",
+    "name": "Lenskart.com at Venjaramoodu (First Lens Replacement Free)",
+    "address": "",
+    "category": "Sunglasses store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 20:14:09.294291"
+  },
+  {
+    "place_id": "0x3b05e958126e3591:0",
+    "name": "CITYMAX OPTICIANS",
+    "address": "YMS Building, Main Road, NH 66",
+    "category": "Optician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 20:14:08.192007"
+  },
+  {
+    "place_id": "0x3b05bbed46b976fd:0",
+    "name": "Lenskart.com at Vazhuthacaud, Trivandrum (First Lens Replacement Free)",
+    "address": "Springs TC NO 44/913, Ground Floor, Vazhthacaud, PO, near Reliance Fresh",
+    "category": "Sunglasses store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 20:14:07.018445"
+  },
+  {
+    "place_id": "0x3b05bb2c4b3b6479:0",
+    "name": "PRIYA MARKETING",
+    "address": "G G TOWER, near SHIVA TEMPLE ROAD",
+    "category": "Countertop store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 20:14:05.821986"
+  },
+  {
+    "place_id": "0x3b05bb8dfa13e29b:0",
+    "name": "Lenskart.com Flagship Store at MG Road, Trivandrum (First Lens Replacement Free)",
+    "address": "TC 38/1626, Mahatma Gandhi Rd, near Baba Studio",
+    "category": "Sunglasses store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 20:14:04.644653"
+  },
+  {
     "place_id": "0x3b05bb25595e080b:0",
     "name": "VIBGYOR GLOBAL WEB SOLUTIONS PVT LTD",
     "address": "TC 18, GWCX+F2 Thiruvananthapuram, Kerala VH220, 1258, East Pattom",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-26 18:16:10.957170"
-  },
-  {
-    "place_id": "0x48cb50ad6587084f:0",
-    "name": "Ayurcurehome",
-    "address": "near Chinmaya Vidyalaya",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 18:16:09.845480"
-  },
-  {
-    "place_id": "0x3b05bbc6e9795095:0",
-    "name": "Mr. Handyman",
-    "address": "TC 14/1561, near Valsala Nursing Home Hospital",
-    "category": "Cleaners",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 18:16:08.726075"
-  },
-  {
-    "place_id": "0x3b05bbe63c7b715f:0",
-    "name": "Trenditionz Wellness Spa",
-    "address": "3rd Floor, Vivin Luxury Suites, Palayam Airport Rd",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 18:16:07.559333"
-  },
-  {
-    "place_id": "0x3b05b9506aeb0c63:0",
-    "name": "Ayurchakra Ayurveda Wellness Center",
-    "address": "Kesavadasapuram Jct, opp. Chinnus Hotel (Besides Bank of Baroda Building",
-    "category": "Alternative medicine practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 18:16:06.433087"
-  },
-  {
-    "place_id": "0x3b05bb0ba8ce90a5:0",
-    "name": "HEAVEN TREE PHILANTHROPY SERVICES FORUM",
-    "address": "TC No 3/1965-2 Sulthanam",
-    "category": "Social services organization",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 18:16:05.321723"
-  },
-  {
-    "place_id": "0x3b05bbdeb0038f2d:0",
-    "name": "Vibrance Spa and Ayurvedic Wellness Centre Pattom",
-    "address": "Second floor of, Chitra Multispeciality Dental Centre, Adam's Tower, Pattom - Kowdiar Rd, near Sunny Diamonds",
-    "category": "Wellness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 18:16:04.158887"
-  },
-  {
-    "place_id": "0x3b05bbbb42d7c8e5:0",
-    "name": "Perumal Pillai Indian Drug Merchants, Pulimood",
-    "address": "Mahatma Gandhi Rd",
-    "category": "Herbal medicine store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 18:16:03.018376"
   }
 ]
