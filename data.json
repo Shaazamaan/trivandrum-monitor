@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x89acfa81aaaaaaab:0",
+    "name": "O'Toole's Mobile Dustless Blasting",
+    "address": "3505 Wake Forest Hwy",
+    "category": "Sandblasting service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 12:42:36.970165"
+  },
+  {
+    "place_id": "0x3b05bb260e7bfb91:0",
+    "name": "Metal Magic",
+    "address": "Bund Rd",
+    "category": "Welder",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 12:42:35.856498"
+  },
+  {
+    "place_id": "0x3b05b1c3c4a68663:0",
+    "name": "Liya convention centre kattakada",
+    "address": "",
+    "category": "Convention center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 12:42:34.734687"
+  },
+  {
+    "place_id": "0x3b05bbe24dd46465:0",
+    "name": "IPCS Automation company in trivandrum",
+    "address": "Rema Plaza, SS Kovil Rd, near KSRTC Bus Stand",
+    "category": "Automation company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 12:42:33.579328"
+  },
+  {
+    "place_id": "0x3b05bd8431bcd531:0",
+    "name": "Ajax Industries",
+    "address": "Plot No. 23, B IDA",
+    "category": "Sandblasting service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 12:42:32.449913"
+  },
+  {
     "place_id": "0x3b05ab0052d3d8df:0",
     "name": "Jesha Constructions & Trading Company",
     "address": "670, Trivandrum - Nagercoil Hwy",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-26 16:08:23.151001"
-  },
-  {
-    "place_id": "0x3b05bba575813c89:0",
-    "name": "Twins Armoury",
-    "address": "",
-    "category": "Gun shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 16:08:21.964048"
-  },
-  {
-    "place_id": "0x3b05bb1790281b73:0",
-    "name": "Manacaud",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 15:03:25.798676"
-  },
-  {
-    "place_id": "0x3b05bb11b2ac34f7:0",
-    "name": "Manacaud Valiyapalli Community Hall",
-    "address": "FW9X+XWJ",
-    "category": "Banquet hall",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 15:03:24.606691"
-  },
-  {
-    "place_id": "0x3b05bbba245a41bf:0",
-    "name": "Serve - Badminton and Fitness Academy",
-    "address": "ARA- 187",
-    "category": "Badminton court",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 15:03:23.449063"
-  },
-  {
-    "place_id": "0x3b05bbb48cafffff:0",
-    "name": "Mount Carmel Convention Centre Thiruvananthapuram",
-    "address": "",
-    "category": "Convention center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 15:03:22.297321"
   }
 ]
