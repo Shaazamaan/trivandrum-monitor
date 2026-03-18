@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x89b5c2810ededc8f:0",
+    "name": "SERVPRO of Winchester",
+    "address": "",
+    "category": "Water damage restoration service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 06:43:57.978278"
+  },
+  {
+    "place_id": "0x3b05efdcfea55527:0",
+    "name": "NK Associates",
+    "address": "Closes 5:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 06:43:56.889062"
+  },
+  {
+    "place_id": "0x3b05ef1265c15733:0",
+    "name": "Maruti Suzuki ARENA (Sarathy Autodrives, Varkala Central)",
+    "address": "",
+    "category": "Car dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 06:43:55.794672"
+  },
+  {
+    "place_id": "0x886b50be0804a6b3:0",
+    "name": "Lewis Disability Law",
+    "address": "",
+    "category": "Social security attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 06:43:54.686046"
+  },
+  {
+    "place_id": "0x3b05bfea718766e7:0",
+    "name": "Yazeen Auto Links",
+    "address": "Pothencode - Pallippuram Rd",
+    "category": "Used car dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-18 06:43:53.586985"
+  },
+  {
     "place_id": "0x3b05b7a214ec8bf7:0",
     "name": "Metropolis Labs | Blood Test & Diagnostic Centre in Nedumangad",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-26 13:54:18.658296"
-  },
-  {
-    "place_id": "0x3b05b95a0523bf13:0",
-    "name": "Aleena Interior (Carpenter)",
-    "address": "Ulloor - Akkulam Rd",
-    "category": "Carpenter",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 13:54:17.482529"
-  },
-  {
-    "place_id": "0x3b05bb00ffffffff:0",
-    "name": "Maruti Suzuki ARENA (Popular Vehicles, Trivandrum, Killipalam)",
-    "address": "",
-    "category": "Car dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 13:54:16.289734"
-  },
-  {
-    "place_id": "0x3b05bbddff1c089f:0",
-    "name": "Pattom",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 08:34:53.581570"
-  },
-  {
-    "place_id": "0x3b05bba2f218e3d1:0",
-    "name": "ABC Firms",
-    "address": "Pattom, TC 437",
-    "category": "Law firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 08:34:52.431692"
-  },
-  {
-    "place_id": "0x87ee8ff2464d0aff:0",
-    "name": "Milan Laser Hair Removal",
-    "address": "",
-    "category": "Laser hair removal service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-26 08:34:51.150703"
   }
 ]
