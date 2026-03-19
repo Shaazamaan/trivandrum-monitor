@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x89b64a8a6396571b:0",
+    "name": "Tesla Tysons Corner",
+    "address": "",
+    "category": "Tesla showroom",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-19 21:55:25.988523"
+  },
+  {
+    "place_id": "0x3b05bbd446c321e3:0",
+    "name": "Yamaha - Denz Motors",
+    "address": "",
+    "category": "Yamaha motorcycle dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-19 21:55:24.869741"
+  },
+  {
+    "place_id": "0x3b05c0bccdd28afb:0",
+    "name": "City Bar",
+    "address": "₹400–600",
+    "category": "(280)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-19 21:55:23.751058"
+  },
+  {
+    "place_id": "0x3b05c195d05b5471:0",
+    "name": "Navsri motors",
+    "address": "Pks building , old bevco , pothencode, road",
+    "category": "Motorcycle repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-19 21:55:22.603510"
+  },
+  {
+    "place_id": "0x3b05bb6c518e2c47:0",
+    "name": "The Lounge",
+    "address": "",
+    "category": "Travel lounge",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-19 21:55:21.501299"
+  },
+  {
+    "place_id": "0x3b05bbdde4e991c1:0",
+    "name": "Yamaha Motor Showroom - Muthoot Yamaha",
+    "address": "",
+    "category": "Motorcycle dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-19 21:55:20.293349"
+  },
+  {
     "place_id": "0x3b05eb000f689ae5:0",
     "name": "Makhania family restaurant",
     "address": "JR73+7R",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-27 19:47:23.351437"
-  },
-  {
-    "place_id": "0x3b05e9f9aa270d1b:0",
-    "name": "Swayamvara Silks Attingal",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-27 19:47:22.213586"
-  },
-  {
-    "place_id": "0x3b05e9f8e26db79f:0",
-    "name": "Kerala Chips",
-    "address": "",
-    "category": "Snack bar",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-27 19:47:20.977970"
-  },
-  {
-    "place_id": "0x3b05bd83674a5ec9:0",
-    "name": "Blackberrys",
-    "address": "Shop No H06, 1st Floor, LuLu Mall, Akkulam Bridge",
-    "category": "Tuxedo shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-27 19:47:19.801402"
-  },
-  {
-    "place_id": "0x3b05bef4ac63f837:0",
-    "name": "Valiyamadom Snack Bar",
-    "address": "GVVG+VXM",
-    "category": "Snack bar",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-27 19:47:18.610246"
-  },
-  {
-    "place_id": "0x3b05b100398456c3:0",
-    "name": "SECOND LIFE USED CARS",
-    "address": "G328+3RH",
-    "category": "Used car dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-27 16:13:50.165928"
-  },
-  {
-    "place_id": "0x3b05b16ac712f3f3:0",
-    "name": "Kattakkada",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-27 16:13:49.064615"
   }
 ]
