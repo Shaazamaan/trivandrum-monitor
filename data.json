@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05eb000f689ae5:0",
+    "name": "Makhania family restaurant",
+    "address": "JR73+7R",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-19 21:13:04.970265"
+  },
+  {
+    "place_id": "0x3b05bb3f6fc66f01:0",
+    "name": "Incuspaze Coworking Space in Trivandrum Kowdiar",
+    "address": "Aspinwall House, Road",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-19 21:13:03.692710"
+  },
+  {
+    "place_id": "0x3b05b98321c1a359:0",
+    "name": "DDRC Agilus Diagnostics | Peroorkada, Trivandrum",
+    "address": "",
+    "category": "Laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-19 21:13:02.401555"
+  },
+  {
     "place_id": "0x3b05c12e21d95555:0",
     "name": "Outfit Fitness Centre",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-27 16:13:49.064615"
-  },
-  {
-    "place_id": "0x3b05b13946be0535:0",
-    "name": "Grace Orchids & Nursery",
-    "address": "Kattakkada, Kattakkode, Kattakkada Kottoor Rd",
-    "category": "Landscaper",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-27 16:13:47.915623"
-  },
-  {
-    "place_id": "0x3b05b9dd6ae799ad:0",
-    "name": "Panchakshari Landscaping and Interlocks",
-    "address": "GXF3+PP",
-    "category": "Landscaping supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-27 16:13:46.799906"
-  },
-  {
-    "place_id": "0x3b05bb2f01ac8b11:0",
-    "name": "RJM CARS",
-    "address": "Enjakkal",
-    "category": "Used car dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-27 16:13:45.679112"
   }
 ]
