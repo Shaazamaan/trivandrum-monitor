@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x549a4ad4aa1897df:0",
+    "name": "Valuplus Medical Supply",
+    "address": "",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 12:09:05.402076"
+  },
+  {
+    "place_id": "0x54995f1992a1772d:0",
+    "name": "Red Silo Coffee Roasters",
+    "address": "$1–10",
+    "category": "(51)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 12:09:04.195120"
+  },
+  {
+    "place_id": "0x549bcd49729db8b3:0",
+    "name": "Pacific Engineering Environmental Department, PLLC",
+    "address": "200 S Columbia St Ste 300",
+    "category": "Environmental consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 12:09:03.009465"
+  },
+  {
+    "place_id": "0x3b05e9f767ee12d9:0",
+    "name": "Medix Helth Care, Dental & Surgicals",
+    "address": "opposite Taluke hospital",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 12:09:01.831827"
+  },
+  {
+    "place_id": "0x3b066df31af1d3cf:0",
+    "name": "Lamps Shamlu's Cafe",
+    "address": "₹1–200",
+    "category": "(129)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 12:09:00.612669"
+  },
+  {
+    "place_id": "0x3b05af19c35cf4a1:0",
+    "name": "S & S Surgicals",
+    "address": "panickers tower, hospital junction",
+    "category": "Surgical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 12:08:59.417459"
+  },
+  {
+    "place_id": "0x3b05afb44168792f:0",
+    "name": "Indian Coffee House - ഇന്ത്യൻ കോഫീ ഹൗസ്",
+    "address": "₹1–200",
+    "category": "(855)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 12:08:58.226905"
+  },
+  {
     "place_id": "0x3b05e9301707fd87:0",
     "name": "FRC Foods",
     "address": "₹200–400",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-28 07:42:32.603308"
-  },
-  {
-    "place_id": "0x3b05b80464407547:0",
-    "name": "D-Sign Print & Sign",
-    "address": "Surya Rd",
-    "category": "Print shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 07:42:31.454971"
-  },
-  {
-    "place_id": "0x3b05bbd5a4621b8f:0",
-    "name": "Kowddyar Medicals",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 07:42:30.310231"
-  },
-  {
-    "place_id": "0x3b05afd8a7b65d4b:0",
-    "name": "Apollo Pharmacy Neyyattinkara",
-    "address": "75, Hospital Junction, Neyyattinkara Kattakkada Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 07:42:29.163260"
-  },
-  {
-    "place_id": "0x3b05af1f271135e5:0",
-    "name": "Homoeo Clinic - Dr Suveena V",
-    "address": "Kannippuram Veedu, Kannippuram Road",
-    "category": "Homeopath",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 07:42:28.022485"
-  },
-  {
-    "place_id": "0x3b05afdfab52b37b:0",
-    "name": "DIVINE DIGITALS",
-    "address": "DR, GR Rd",
-    "category": "Print shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 07:42:26.822601"
-  },
-  {
-    "place_id": "0x3b05bb78f7b62e8f:0",
-    "name": "Aster Pharmacy - Vazhuthacaud",
-    "address": "Nikunjam Royale, Air Road, Junction",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 07:42:25.680090"
-  },
-  {
-    "place_id": "0x3b05bb45d8d887d1:0",
-    "name": "Swasthyam Wellness",
-    "address": "",
-    "category": "Osteopath",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 07:42:24.539291"
   }
 ]
