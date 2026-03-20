@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05e9301707fd87:0",
+    "name": "FRC Foods",
+    "address": "₹200–400",
+    "category": "(299)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 10:57:29.318188"
+  },
+  {
+    "place_id": "0x3b05bb777206b4a1:0",
+    "name": "Organic India Store - Kowdiar, Thiruvananthapuram",
+    "address": "Vasantham, Pattom - Kowdiar Rd, opposite Azad Bread Factory",
+    "category": "Organic food store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 10:57:28.134430"
+  },
+  {
+    "place_id": "0x3b05bbd9b29ca807:0",
+    "name": "Welgate Lifestyle",
+    "address": "",
+    "category": "Organic shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 10:57:26.957951"
+  },
+  {
     "place_id": "0x3b05ba31a76b5b47:0",
     "name": "K. K. PILLAI & SONS",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-28 07:42:24.539291"
-  },
-  {
-    "place_id": "0x3b05bbbbfaf4aad5:0",
-    "name": "ROMANSONS BUSINESS CENTRE",
-    "address": "",
-    "category": "Print shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 07:42:23.388416"
-  },
-  {
-    "place_id": "0x3b05bf575cf7d68b:0",
-    "name": "Haritha Karma Sena Sreekariyam",
-    "address": "GWM6+5VF, Sreekariyam - Aakkulam Rd",
-    "category": "Garbage collection service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-27 23:42:37.632102"
-  },
-  {
-    "place_id": "0x3b05bec9357b4413:0",
-    "name": "Priyanka Tower Guest House",
-    "address": "HW26+985",
-    "category": "Guest house",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-27 23:42:36.513176"
   }
 ]
