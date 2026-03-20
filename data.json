@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x87ec2119bfa105ed:0",
+    "name": "Willis Lexus",
+    "address": "",
+    "category": "Lexus dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 22:49:43.031637"
+  },
+  {
+    "place_id": "0x3b05c16bb350a40d:0",
+    "name": "German Motors Premium Car Service Center",
+    "address": "",
+    "category": "Auto body shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 22:49:41.868851"
+  },
+  {
+    "place_id": "0x3b05c0a2fc325119:0",
+    "name": "Muthoot FinCorp Gold Loan",
+    "address": "",
+    "category": "Investment service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 22:49:40.679639"
+  },
+  {
+    "place_id": "0x3b05b9634b616b3f:0",
+    "name": "Colour Code Automotive Body Shop",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 22:49:39.482634"
+  },
+  {
+    "place_id": "0x3b05b97878bf2d23:0",
+    "name": "Muthoot FinCorp Gold Loan",
+    "address": "",
+    "category": "Investment service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 22:49:38.291216"
+  },
+  {
+    "place_id": "0x3b05bfdf80b1a711:0",
+    "name": "SAJI LX",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-20 22:49:37.122816"
+  },
+  {
     "place_id": "0x3b05b168f7217c03:0",
     "name": "PRAANA AYURVEDA HEALTHCARE VAIDYARATNAM OUSHADI",
     "address": "",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-28 10:40:40.789300"
-  },
-  {
-    "place_id": "0x3b05bba3cc9d833d:0",
-    "name": "Sruthi Musicals",
-    "address": "",
-    "category": "Musical instrument store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 08:46:41.580420"
-  },
-  {
-    "place_id": "0x3b05b142bfb19347:0",
-    "name": "Mizmor School of Music",
-    "address": "",
-    "category": "Music school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 08:46:40.456234"
-  },
-  {
-    "place_id": "0x3b05b100733c6b3f:0",
-    "name": "KIDDIES KASTLE Fun & Game studio",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 08:46:39.298498"
-  },
-  {
-    "place_id": "0x3b05a9e9a0525b7b:0",
-    "name": "Music Home",
-    "address": "Kanjiramkulam Pulluvila Road",
-    "category": "Music store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 08:46:38.175934"
-  },
-  {
-    "place_id": "0x3b05afa85faa6c6f:0",
-    "name": "Lavanya Car Studio",
-    "address": "TB Junction-Hospital Jct Rd",
-    "category": "Car wash",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 08:46:36.860951"
-  },
-  {
-    "place_id": "0x3b05bbb1bfffffff:0",
-    "name": "Pranavam Musical Foundation",
-    "address": "",
-    "category": "Musical instrument store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 08:46:35.707951"
   }
 ]
