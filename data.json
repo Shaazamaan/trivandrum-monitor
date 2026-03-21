@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x880fd2ff54e6ad27:0",
+    "name": "Underwater Safaris",
+    "address": "",
+    "category": "Dive shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 08:07:33.330148"
+  },
+  {
+    "place_id": "0x3b05c0976eacb387:0",
+    "name": "Remya Industries | Best Fabrication Company in Trivandrum | Metal & Steel Fabrication | Rolling Shutter | Roofing",
+    "address": "Remya",
+    "category": "Metal fabricator",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 08:07:32.194432"
+  },
+  {
     "place_id": "0x880fd383926aaf09:0",
     "name": "Top Roof Deck & Pergola",
     "address": "2049 W Roscoe St",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-28 15:39:06.403590"
-  },
-  {
-    "place_id": "0x3b05e9f654143cbf:0",
-    "name": "Attingal",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 15:39:05.269523"
-  },
-  {
-    "place_id": "0x3b05e9a12609f8fd:0",
-    "name": "BOHO BABY",
-    "address": "",
-    "category": "Baby store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 15:39:04.001113"
   }
 ]
