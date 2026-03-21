@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b05bf6a05708b05:0",
+    "name": "Dream ride",
+    "address": "Kazhakoottam - Thaikod Rd",
+    "category": "Motor vehicle dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 18:04:56.154625"
+  },
+  {
+    "place_id": "0x3b05b9c1584f41b9:0",
+    "name": "Vet on wheels | Doorstep Expert Veterinary Care in Trivandrum",
+    "address": "Thripadappuram Rd, near anju tourist home",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 18:04:54.945585"
+  },
+  {
+    "place_id": "0x3b05bbde80f95c79:0",
+    "name": "Atlas Kitchen & Interiors",
+    "address": "",
+    "category": "Kitchen remodeler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 18:04:53.762869"
+  },
+  {
+    "place_id": "0x3b05a58d8ac9b5a5:0",
+    "name": "Maharaj Automobiles",
+    "address": "9XJX+8JR",
+    "category": "Motorcycle dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 18:04:52.593656"
+  },
+  {
+    "place_id": "0x3b05af5d03e68209:0",
+    "name": "UM Home Interiors Factory",
+    "address": "UMAMAHESHWER HOME INTERIORS, PGLA/100, EDUVA ROAD",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 18:04:51.388473"
+  },
+  {
+    "place_id": "0x3b05bbc47a1a7a63:0",
+    "name": "TVS - Logtech Motors",
+    "address": "Tc 12/67, PMG Rd, opposite Lourdes Church",
+    "category": "Motorcycle dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 18:04:50.164880"
+  },
+  {
+    "place_id": "0x3ba8f78c932c94e1:0",
+    "name": "ARM PET CLINIC",
+    "address": "opp. Oushadi pharmacy",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 18:04:48.973462"
+  },
+  {
+    "place_id": "0x3b05bddba74bb44f:0",
+    "name": "Super Vetz Multispeciality Veterinary Hospital & Doorstep Expert Veterinary Care",
+    "address": "SK das tower",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 18:04:47.804256"
+  },
+  {
+    "place_id": "0x3b05b9594771d193:0",
+    "name": "Kitchen Gallery - Sleek Studio - Modular Kitchen, Cabinets, Wardrobe and Fitted Furniture",
+    "address": "",
+    "category": "Kitchen remodeler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 18:04:46.569936"
+  },
+  {
     "place_id": "0x3b05bb766767b8cd:0",
     "name": "MOOTHEDAN POOLS",
     "address": "Charummoottil, 36/1090(4), GB Building, NH Bypass, Enchakkal",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-01 07:57:52.885124"
-  },
-  {
-    "place_id": "0x3b05b37f059704f7:0",
-    "name": "M S SPORTS HUB",
-    "address": "Ayyappa Shekthram Road",
-    "category": "Sports club",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 07:57:51.778697"
-  },
-  {
-    "place_id": "0x3b05ba336dac72e7:0",
-    "name": "Dr. Susanth Mj",
-    "address": "Neurocare,opposite ioc pump, malayinkeezhu, road",
-    "category": "Neurologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 07:57:50.692404"
-  },
-  {
-    "place_id": "0x3b05bbd3eae5da89:0",
-    "name": "Dotspace",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 07:57:49.517953"
-  },
-  {
-    "place_id": "0x3b05bbe5e375d809:0",
-    "name": "Anugraham Neurocare",
-    "address": "",
-    "category": "Neurologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 07:57:48.422908"
-  },
-  {
-    "place_id": "0x3b05bef97a3aaaab:0",
-    "name": "Mysearch Global Rewards - Digital Marketing Company in Trivandrum",
-    "address": "Module #4, Technopark Trivandrum, Roof Top, Gayathri Building",
-    "category": "Internet marketing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 20:42:28.851269"
-  },
-  {
-    "place_id": "0x3b05bec79541c519:0",
-    "name": "College of Engineering Trivandrum (CET)",
-    "address": "",
-    "category": "College",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 20:42:27.765434"
-  },
-  {
-    "place_id": "0x3b05b967044f75f5:0",
-    "name": "Energyfox Consultants Pvt Ltd",
-    "address": "4th Floor TC Number, Malankara Avenue, 15/4257/2",
-    "category": "Solar energy company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 20:42:26.649741"
-  },
-  {
-    "place_id": "0x3b05bbc346fc631f:0",
-    "name": "BRAND PROFILE",
-    "address": "Mahaneeyam Building, CRA 57, Plamood",
-    "category": "Marketing agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 20:42:25.544318"
-  },
-  {
-    "place_id": "0x3b05bdb688404569:0",
-    "name": "Indeevaram Renewable Energy",
-    "address": "TC 91/78(9),INDEEVARAM, VRA A 15, PO",
-    "category": "Solar energy company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 20:42:24.437514"
   }
 ]
