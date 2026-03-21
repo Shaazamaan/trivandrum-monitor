@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05e96f1ff81959:0",
+    "name": "Emiya Motors - Hero MotoCorp",
+    "address": "",
+    "category": "Motorcycle dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 09:48:08.889790"
+  },
+  {
+    "place_id": "0x3b05bb52cc74c267:0",
+    "name": "Prestige Xclusive - Thampanoor, Thiruvananthapuram",
+    "address": "",
+    "category": "Kitchen supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 09:48:07.801089"
+  },
+  {
+    "place_id": "0x3b05bf6e3ddcd9fd:0",
+    "name": "Godrej Interio - Furniture Store in Kazhakoottam, Thiruvananthapuram",
+    "address": "Nazar Tower, opposite Al Uthuman School",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 09:48:06.712705"
+  },
+  {
+    "place_id": "0x3b05bfbf1f24ee7b:0",
+    "name": "Triumph Kazhakkoottam",
+    "address": "HV5G+9CJ, near Technopark",
+    "category": "Motorcycle dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 09:48:05.617680"
+  },
+  {
+    "place_id": "0x3b08731d67018349:0",
+    "name": "Ducati Kochi",
+    "address": "",
+    "category": "Motorcycle shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 09:48:04.409865"
+  },
+  {
+    "place_id": "0x3b05bc749132d455:0",
+    "name": "EVM AUTOKRAFT INDIA EVM TRIVANDRUM SHOWROOM BMW",
+    "address": "",
+    "category": "BMW dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 09:48:03.293542"
+  },
+  {
     "place_id": "0x880fd2ff54e6ad27:0",
     "name": "Underwater Safaris",
     "address": "",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-28 18:01:08.027635"
-  },
-  {
-    "place_id": "0x3b05b9d6d485cfa9:0",
-    "name": "Steel.com",
-    "address": "",
-    "category": "Door supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 18:01:06.893622"
-  },
-  {
-    "place_id": "0x3b048aca05d7e97b:0",
-    "name": "Muppandal Wind Farm",
-    "address": "7H78+XP6",
-    "category": "Power station",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 18:01:05.720935"
-  },
-  {
-    "place_id": "0x880e338e8a55ac9b:0",
-    "name": "Eco Landscaping Services, Snow Removal Services, Demolition",
-    "address": "2212 S Laramie Ave",
-    "category": "Landscaper",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 18:01:04.585423"
-  },
-  {
-    "place_id": "0x3b070798608a430f:0",
-    "name": "Ramakkalmedu Windmill Farm",
-    "address": "R628+5FF",
-    "category": "Wind farm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 18:01:03.420755"
-  },
-  {
-    "place_id": "0x3b05c35b656a6155:0",
-    "name": "Abaan Baby Palace, Toy Shop, Kids Wear & Maternity Wear",
-    "address": "Rohith Building, Hospital Junction, Vamanapuram, SH 1",
-    "category": "Baby store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 15:39:07.537568"
-  },
-  {
-    "place_id": "0x3b05bb0e0d4a1e3f:0",
-    "name": "Little Shop",
-    "address": "",
-    "category": "Baby store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 15:39:06.403590"
   }
 ]
