@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x87ee993bc1b1ac9f:0",
+    "name": "Midwest Furniture Mart",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 15:06:45.651252"
+  },
+  {
+    "place_id": "0x87ee99bc61e32b23:0",
+    "name": "Wooly's",
+    "address": "",
+    "category": "Live Music",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 15:06:44.477255"
+  },
+  {
+    "place_id": "0x87ee990a219cc381:0",
+    "name": "MercyOne Ruan Neurology Care",
+    "address": "",
+    "category": "Neurologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 15:06:43.313474"
+  },
+  {
+    "place_id": "0x3b05c96d004969ab:0",
+    "name": "Avittom Furnitures, Vithura",
+    "address": "M39M+246",
+    "category": "Home goods store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 15:06:42.172162"
+  },
+  {
+    "place_id": "0x3b05c9eb9d885e25:0",
+    "name": "Vithura Community Hall",
+    "address": "M3CM+R5W",
+    "category": "Auditorium",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 15:06:40.956879"
+  },
+  {
+    "place_id": "0x3b05af22e5523055:0",
+    "name": "Ajisha Furniture Mart",
+    "address": "92HV+24C, Vengapotta Rd",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 15:06:39.771556"
+  },
+  {
+    "place_id": "0x3b05a59bd4426937:0",
+    "name": "Archana Auditorium",
+    "address": "Vizhinjam St",
+    "category": "Auditorium",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-21 15:06:38.599209"
+  },
+  {
     "place_id": "0x3b05bb117f10a65d:0",
     "name": "SPOTLESS SKIN & HAIR CLINIC",
     "address": "",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-02-28 18:51:29.097786"
-  },
-  {
-    "place_id": "0x3b05ab47719eeda3:0",
-    "name": "Nirangal boutique",
-    "address": "85R4+XRP",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 18:51:27.978989"
-  },
-  {
-    "place_id": "0x3b05b90010fa540d:0",
-    "name": "TRIPHASE SOLUTIONS",
-    "address": "Ambalamukku Rd",
-    "category": "Electrical installation service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 18:51:26.851270"
-  },
-  {
-    "place_id": "0x3b05b9edc38c5e73:0",
-    "name": "Aluminium fabrication works",
-    "address": "Opens 8 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 18:51:25.717273"
-  },
-  {
-    "place_id": "0x3b05b98674b76667:0",
-    "name": "Geethika Collections",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 18:51:24.590567"
-  },
-  {
-    "place_id": "0x3b05b132b8bf77dd:0",
-    "name": "Integrated Energy Solutions",
-    "address": "near Neyyarmedicity",
-    "category": "Solar energy company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 18:51:23.431902"
-  },
-  {
-    "place_id": "0x3b05bbab37b8e9cb:0",
-    "name": "𝗦. 𝗩 𝗔𝗟𝗨𝗠𝗜𝗡𝗜𝗨𝗠 𝗙𝗔𝗕𝗥𝗜𝗖𝗔𝗧𝗜𝗢𝗡",
-    "address": "T C 53/1201(4, Malamelkunnu Rd",
-    "category": "Metal fabricator",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 18:51:22.305929"
-  },
-  {
-    "place_id": "0x3b05bbbf7c6c014b:0",
-    "name": "Jiniees Women Store",
-    "address": "opp. Petrol Pump",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-02-28 18:51:21.144486"
   }
 ]
