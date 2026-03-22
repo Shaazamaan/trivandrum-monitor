@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b0798e01ecacd59:0",
+    "name": "The Tall Trees Resorts",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 16:51:27.018111"
+  },
+  {
+    "place_id": "0x3b05bbcff83c4d59:0",
+    "name": "Spring Fruits and Vegetables",
+    "address": "",
+    "category": "Produce market",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 16:51:25.888871"
+  },
+  {
+    "place_id": "0x3b05b99d34834bed:0",
+    "name": "Valiyakadayil Resturant",
+    "address": "₹200–400",
+    "category": "(1,269)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 16:51:24.730302"
+  },
+  {
+    "place_id": "0x3b05b99d3102a443:0",
+    "name": "Peroorkada",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 16:51:23.591655"
+  },
+  {
+    "place_id": "0x3b06551bd264e5cd:0",
+    "name": "WGH Poetree Thekkady",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 16:51:22.427017"
+  },
+  {
     "place_id": "0x3b05bf075ce00c9d:0",
     "name": "Primary Health Centre",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-01 21:05:03.792090"
-  },
-  {
-    "place_id": "0x3b05c96df72265b1:0",
-    "name": "SUJA FLOWER MART",
-    "address": "M3CM+3PQ, Kalungu Jn., Vithura, SH45",
-    "category": "Florist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 21:05:02.647287"
-  },
-  {
-    "place_id": "0x3b05c9006333e719:0",
-    "name": "Theviyode",
-    "address": "M35F+53X",
-    "category": "Bus tour agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 21:05:01.503383"
-  },
-  {
-    "place_id": "0x3b05baffd031a6c9:0",
-    "name": "Gk Flowers",
-    "address": "NH, next to Idea showroom",
-    "category": "Florist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 21:05:00.364166"
-  },
-  {
-    "place_id": "0x3b05bbb986fe22ab:0",
-    "name": "RouteMap Tours And Travels",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 21:04:59.170686"
-  },
-  {
-    "place_id": "0x3b05bf1debfd21c5:0",
-    "name": "Home Tech Group Trivandrum",
-    "address": "Nilavu, Thrippadapuram Mahadeva Temple",
-    "category": "Home automation company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 19:37:30.691188"
   }
 ]
