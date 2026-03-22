@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bf075ce00c9d:0",
+    "name": "Primary Health Centre",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 16:06:31.728549"
+  },
+  {
+    "place_id": "0x3b05bc01e7f0c769:0",
+    "name": "Cokonet Academy",
+    "address": "",
+    "category": "Software company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 16:06:30.589306"
+  },
+  {
+    "place_id": "0x3b05b90dd3f3522f:0",
+    "name": "DR AKHIL'S SMILE CONCEPTS DENTAL CARE & IMPLANT CENTRE",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 16:06:29.488312"
+  },
+  {
+    "place_id": "0x3b05c2c20b833593:0",
+    "name": "Community Health Centre, Kesavapuram",
+    "address": "",
+    "category": "Government hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 16:06:28.365608"
+  },
+  {
+    "place_id": "0x3b05c33167101da1:0",
+    "name": "Royal Technologies",
+    "address": "Chenikkuzhy, Police Station",
+    "category": "Computer accessories store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 16:06:27.242746"
+  },
+  {
+    "place_id": "0x3b05c326ec6ce499:0",
+    "name": "Devi Dental Clinic",
+    "address": "Devi Dental Clinic, Market Road, opp. Suchitra Medical Center",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 16:06:26.122284"
+  },
+  {
+    "place_id": "0x3b05b982796ae525:0",
+    "name": "CGHS Keshavadasapuram",
+    "address": "3/120, Kesavadasapuram - Venjaramoodu Rd",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 16:06:24.999972"
+  },
+  {
+    "place_id": "0x3b05bb61be6a58ef:0",
+    "name": "Government Primary Health Centre",
+    "address": "FXW3+966, Oottukuzhy - Panavila Rd",
+    "category": "Community health center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 16:06:23.801896"
+  },
+  {
     "place_id": "0x3b05b14e6ce8d10d:0",
     "name": "Ushar Friendly Syndicate",
     "address": "Trivandrum",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-01 19:37:30.691188"
-  },
-  {
-    "place_id": "0x3b05e7d5c6baaa93:0",
-    "name": "J.R Diesels",
-    "address": "NH 66",
-    "category": "Diesel engine repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 19:37:29.556604"
-  },
-  {
-    "place_id": "0x3b05ebe0df922d4f:0",
-    "name": "PLUS MAN TECHNOLOGIES",
-    "address": "VRA 3B, Vattavila lane",
-    "category": "Electronics company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 19:37:28.431038"
-  },
-  {
-    "place_id": "0x3b05e948b71526af:0",
-    "name": "ARCOTECH ARCHITECTS AND DESIGNERS",
-    "address": "NEAR, Amar Hospital Rd",
-    "category": "Architectural designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 19:37:27.286690"
-  },
-  {
-    "place_id": "0x3b05ea073ec126db:0",
-    "name": "Jyothi Diesel Service",
-    "address": "MRPF+FPR, National Highway 47",
-    "category": "Diesel engine repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 19:37:26.117830"
-  },
-  {
-    "place_id": "0x3b05b80528cd61cb:0",
-    "name": "Logic Systems",
-    "address": "P.O, NEAR QRS",
-    "category": "Home automation company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 19:37:24.969269"
-  },
-  {
-    "place_id": "0x3b05c743f9a48d7d:0",
-    "name": "Orion Arch Development",
-    "address": "Block Office - Irinchayam Road",
-    "category": "Architectural designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 19:37:23.830587"
-  },
-  {
-    "place_id": "0x3b05bbc289bab07f:0",
-    "name": "Adhvait Architectural & Vastu Building Designs",
-    "address": "",
-    "category": "Architect",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 19:37:22.668952"
-  },
-  {
-    "place_id": "0x3b05baebb0645601:0",
-    "name": "Mahalaxmi Diesel Service",
-    "address": "T C 51/1100 GENERAL ENGINEERS BUILDING INDUSTRIAL ESTATE POST",
-    "category": "Auto tune up service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 19:37:21.536431"
   }
 ]
