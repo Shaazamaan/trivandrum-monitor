@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05b81a8bcfb02f:0",
+    "name": "Nedumangad",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 19:42:03.392903"
+  },
+  {
+    "place_id": "0x3b05b9855366b03b:0",
+    "name": "KTDC Beer Parlour",
+    "address": "$$",
+    "category": "(132)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 19:42:02.257716"
+  },
+  {
+    "place_id": "0x3b05b80f8ff055a9:0",
+    "name": "Coffee Cakes",
+    "address": "₹1–200",
+    "category": "(1,904)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 19:42:01.129457"
+  },
+  {
+    "place_id": "0x880fd03f70237e75:0",
+    "name": "HMBirth",
+    "address": "1717 Ridge Avenue",
+    "category": "Midwife",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 19:41:59.955584"
+  },
+  {
+    "place_id": "0x880e2b4d91f12edb:0",
+    "name": "Miller Lite Beer Garden Grove",
+    "address": "$10–20",
+    "category": "(2,117)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 19:41:58.798293"
+  },
+  {
+    "place_id": "0x3b05bb0004758473:0",
+    "name": "East Fort",
+    "address": "FWMX+C4W",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 19:41:57.625904"
+  },
+  {
     "place_id": "0x3b05b95fa48d2333:0",
     "name": "Bata Shoe Store",
     "address": "",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-02 11:13:24.922923"
-  },
-  {
-    "place_id": "0x3b05bbd4e563b0bd:0",
-    "name": "Doctor's Wellness & Weight, Diabetes & Lifestyle Disease Management Centre",
-    "address": "Thaliyal Rd, opposite Indira Gandhi Statue",
-    "category": "Weight loss service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-02 06:07:05.920977"
-  },
-  {
-    "place_id": "0x3b05bf1d6af12037:0",
-    "name": "Sreekripa Crane Service",
-    "address": "+91 94477 18186",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-02 06:07:04.777339"
-  },
-  {
-    "place_id": "0x3b05bf77cbbdfbc5:0",
-    "name": "SHAAN NUTRITION CENTER,Trivandrum, Kazhakoottam (Weightloss center)",
-    "address": "Bus Stop, Sreekariyam - Kazhakuttam Rd",
-    "category": "Weight loss service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-02 06:07:03.620855"
-  },
-  {
-    "place_id": "0x3b05bfa0039e6c69:0",
-    "name": "Little Techys Day Care",
-    "address": "HVPC+RJF, Kazhakoottam - Kilimanoor Rd",
-    "category": "Day care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-02 06:07:02.485305"
-  },
-  {
-    "place_id": "0x3b05ac2683161489:0",
-    "name": "Kaliveetil Car Service Center",
-    "address": "Kalivettil Mall",
-    "category": "Car wash",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-02 06:07:01.337110"
-  },
-  {
-    "place_id": "0x3b05af155f6ffd21:0",
-    "name": "Nutrition Centre, Neyyattinkara, Trivandrum",
-    "address": "A.K.S Tower, 16/133, Shop No.2, 1st Floor, opp. Indian Oil Petrol Pump",
-    "category": "Nutritionist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-02 06:07:00.124760"
   }
 ]
