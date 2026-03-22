@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05eb2ce8811349:0",
+    "name": "Muthassi's Family Restaurant",
+    "address": "₹200–400",
+    "category": "(70)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 20:45:23.215642"
+  },
+  {
+    "place_id": "0xa8861cce2c8c43d3:0",
+    "name": "Ruby Sofa Cleaning",
+    "address": "+91 88917 37797",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 20:45:22.017626"
+  },
+  {
+    "place_id": "0x876f3b240cee2b41:0",
+    "name": "Pioneer Property Maintenance",
+    "address": "2116 E 9th St",
+    "category": "Property maintenance",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 20:45:20.784396"
+  },
+  {
     "place_id": "0x3b05b81a8bcfb02f:0",
     "name": "Nedumangad",
     "address": "Trivandrum",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-02 11:13:28.281591"
-  },
-  {
-    "place_id": "0x3b05b805bbf788a9:0",
-    "name": "iTech Computer IT Solutions",
-    "address": "Govt Treasury, Road",
-    "category": "Computer repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-02 11:13:27.182142"
-  },
-  {
-    "place_id": "0x3b05bb4250d04901:0",
-    "name": "\"Stainless Home \"stainless steel fabrication",
-    "address": "Karamana, third street",
-    "category": "Steel fabricator",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-02 11:13:26.047982"
-  },
-  {
-    "place_id": "0x3b05bbab5616e5f5:0",
-    "name": "PC PROTECT AND CARE (Computer & Laptop Service & Spares)",
-    "address": "",
-    "category": "Computer repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-02 11:13:24.922923"
   }
 ]
