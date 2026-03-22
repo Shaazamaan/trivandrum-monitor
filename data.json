@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05b97894846f5b:0",
+    "name": "Ideal Home Appliances",
+    "address": "",
+    "category": "Appliance store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 05:12:00.607605"
+  },
+  {
+    "place_id": "0x3b05b9aaed0fef79:0",
+    "name": "Herbalife Nutrition Centre",
+    "address": "sithara Near Canara Bank, Peroorkada First Floor ,sithara building",
+    "category": "Nutritionist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 05:11:59.458827"
+  },
+  {
+    "place_id": "0x3b05bba4350ef00b:0",
+    "name": "Trivandrum Drug Allergy Testing Centre",
+    "address": "",
+    "category": "Diagnostic center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 05:11:58.265345"
+  },
+  {
+    "place_id": "0x3b05bbcc99a953c5:0",
+    "name": "Oxygen Digital Shop - Pattom",
+    "address": "",
+    "category": "Electronics store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 05:11:57.051298"
+  },
+  {
+    "place_id": "0x3b05b9004a6ebd0b:0",
+    "name": "IRIS Allergy Hospital",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 05:11:55.863615"
+  },
+  {
     "place_id": "0x85bc6803588891d5:0",
     "name": "Xtreme Home Services",
     "address": "2081 S Main St",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-01 15:04:21.591176"
-  },
-  {
-    "place_id": "0x3b05bd8b68f82b0b:0",
-    "name": "Autonation Used Cars Trivandrum",
-    "address": "near Indus Motors",
-    "category": "Used car dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 15:04:20.472570"
-  },
-  {
-    "place_id": "0x3b05e925cb125aed:0",
-    "name": "Fisaco Furniture Shop",
-    "address": "Varkala Kallambalam Rd",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 14:40:08.174686"
-  },
-  {
-    "place_id": "0x3b05e93712d6ea97:0",
-    "name": "Total Dental Care",
-    "address": "Bynuna Tower, Near SBI & KSFE, Near Kallambalam Jn QQ7R+FGX National Highway, 66",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 14:40:06.909562"
-  },
-  {
-    "place_id": "0x3b05bbd5a3bedb09:0",
-    "name": "A - ONE FURNITURE Kowdiar",
-    "address": "",
-    "category": "Mattress store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 14:40:05.708330"
-  },
-  {
-    "place_id": "0x3b05bbbfc430fbe5:0",
-    "name": "Global Dental Solutions",
-    "address": "Multi Speciality Dental Clinic, 2nd Floor, Ali Building, near ICICI Bank ATM",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 14:40:04.563583"
   }
 ]
