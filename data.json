@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b05b95fa48d2333:0",
+    "name": "Bata Shoe Store",
+    "address": "",
+    "category": "Shoe store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 18:06:05.630659"
+  },
+  {
+    "place_id": "0x3b05c1e29e35870d:0",
+    "name": "POSH home maintenance and cleaning service",
+    "address": "Plamoodu - Chittikkara Rd",
+    "category": "House cleaning service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 18:06:04.494417"
+  },
+  {
+    "place_id": "0x3b05c0a31bd40079:0",
+    "name": "Sofiya Shoe Mart",
+    "address": "",
+    "category": "Shoe store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 18:06:03.363315"
+  },
+  {
+    "place_id": "0x3b05c0a2dd66f793:0",
+    "name": "National Scans & Diagnostic Services",
+    "address": "",
+    "category": "Medical diagnostic imaging center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 18:06:02.228666"
+  },
+  {
+    "place_id": "0x3b05a59b45721d65:0",
+    "name": "Vizhinjam Dry Cleaning & Ironing Centre",
+    "address": "9XRX+V64, Pallichal - Vizhinjam Rd",
+    "category": "Dry cleaner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 18:06:01.086806"
+  },
+  {
+    "place_id": "0x3b05a57d0fc6ac73:0",
+    "name": "Shoe planet",
+    "address": "Opens 10 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 18:05:59.957678"
+  },
+  {
+    "place_id": "0x3b05a508d332a90d:0",
+    "name": "Care and Cure Laboratory /Diagnostic services Vizhinjam",
+    "address": "Theatre Junction",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 18:05:58.815644"
+  },
+  {
+    "place_id": "0x3b05bdd9bf03990f:0",
+    "name": "BIRKENSTOCK Brand Store, Lulu Mall, Thiruvananthapuram",
+    "address": "TC 91, Unit No A 16, Ground Floor, Lulu Mall, 270, Akkulam Bridge",
+    "category": "Orthopedic shoe store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 18:05:57.649372"
+  },
+  {
+    "place_id": "0x3b05bffaf8807b15:0",
+    "name": "GEONYMS INDIA PRIVATE LIMITED",
+    "address": "",
+    "category": "Soil testing service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-22 18:05:56.524328"
+  },
+  {
     "place_id": "0x3b05bb9d50154bb9:0",
     "name": "Ellis Infra LLp Structural & Building Consultancy",
     "address": "CSS HALL LINE",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-02 06:07:00.124760"
-  },
-  {
-    "place_id": "0x3b05afafdfb2184d:0",
-    "name": "HelpAge India Multi Service Day Centre, Neyyattinkara (മാതൃക സായംപ്രഭ ഹോം)",
-    "address": "C377+7H3",
-    "category": "Adult day care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-02 06:06:58.954390"
-  },
-  {
-    "place_id": "0x3b061302572d73a1:0",
-    "name": "Trust Road Side Assistance and recovery service",
-    "address": "Karikkakom",
-    "category": "Towing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-02 06:06:57.789470"
-  },
-  {
-    "place_id": "0x3b05bb4cae09f8bf:0",
-    "name": "Meraki Ayurvedic & Wellness Clinic, Weight Loss, Nutrition Counseling, PCOS Treatment in Trivandrum",
-    "address": "EVRA 353, Easwaravilasam Rd",
-    "category": "Weight loss service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-02 06:06:56.643833"
-  },
-  {
-    "place_id": "0x3b05bbfaedf990ef:0",
-    "name": "De Paul Care Centre",
-    "address": "",
-    "category": "Adult day care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-02 06:06:55.492686"
-  },
-  {
-    "place_id": "0x3b05bba0d9b466e7:0",
-    "name": "SEnSOL (Solar On Grid Power Plants | RACOLD Solar Water Heaters | LUMINOUS Inverters)",
-    "address": "Padmavilasam Rd",
-    "category": "Solar energy equipment supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 22:58:24.834010"
-  },
-  {
-    "place_id": "0x872b129e49253e39:0",
-    "name": "Camelback VW",
-    "address": "",
-    "category": "Volkswagen dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 22:58:23.631375"
-  },
-  {
-    "place_id": "0x3b05c100538ad4ed:0",
-    "name": "Media Sight Wedding Studio & Momento World",
-    "address": "Govt. UPS, JV9W+R83Dwaraka Towersnear",
-    "category": "Photography studio",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 22:58:22.452744"
-  },
-  {
-    "place_id": "0x3b05bc1191139741:0",
-    "name": "Volkswagen Thiruvananthapuram Venpalavattam - Showroom",
-    "address": "$$",
-    "category": "(3,190)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 22:58:21.221460"
-  },
-  {
-    "place_id": "0x3b05bbb52a156c33:0",
-    "name": "Hive Solar Power Solutions Pvt Ltd",
-    "address": "GNA 8, Opposite Cotton Hill LP School",
-    "category": "Solar energy equipment supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-01 22:58:20.030996"
   }
 ]
