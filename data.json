@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x89b5c5c3f1959573:0",
+    "name": "Truist",
+    "address": "487 South Street",
+    "category": "Bank",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-24 16:50:23.219653"
+  },
+  {
+    "place_id": "0x3b05bb48e9867faf:0",
+    "name": "Trivandrum Party Decorations",
+    "address": "Central Theatre Rd",
+    "category": "Event management company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-24 16:50:22.059344"
+  },
+  {
+    "place_id": "0x4cbc52136d92fe09:0",
+    "name": "Pelletier Chrysler Dodge Jeep Ram",
+    "address": "",
+    "category": "Car dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-24 16:50:20.784131"
+  },
+  {
+    "place_id": "0x3b05bb237007121d:0",
+    "name": "Revo Realtors",
+    "address": "No.17, Narasimhavilas Complex, opp. YWCA Buildings",
+    "category": "Real estate consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-24 16:50:19.667511"
+  },
+  {
     "place_id": "0x3b05bf7e0d3c80f1:0",
     "name": "SAPTHAGIRI LEGAL",
     "address": "Sapthagiri Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-04 07:56:10.874765"
-  },
-  {
-    "place_id": "0x3b05affb66857f97:0",
-    "name": "Xpert Energy Solutions",
-    "address": "SB Square, Palakkadavu Rd",
-    "category": "Solar energy company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 07:56:09.725592"
-  },
-  {
-    "place_id": "0x3b05b98695f9c4d1:0",
-    "name": "TXns & Co.",
-    "address": "First Floor, Cheruvally Building, Nedumangad Town Rd, near Govt Girls High School",
-    "category": "Accounting firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 07:56:08.409270"
-  },
-  {
-    "place_id": "0x3b05b9d2f80d8927:0",
-    "name": "Airtel Office (C CARE ENTERPRISES)",
-    "address": "",
-    "category": "Telecommunications service provider",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 07:56:07.237140"
-  },
-  {
-    "place_id": "0x3b05b72892b19319:0",
-    "name": "E - CARE SYSTEMS",
-    "address": "1st Floor, NSS Taluk Union Building",
-    "category": "Solar energy company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 07:56:06.082314"
   }
 ]
