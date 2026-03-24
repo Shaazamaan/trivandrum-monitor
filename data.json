@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05ae614b0884ed:0",
+    "name": "𝗔𝗷𝗮𝘆 𝗣𝗼𝗹𝗶𝗰𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗦𝘁𝗼𝗿𝗲 𝗙𝗼𝗼𝘁𝘄𝗲𝗮𝗿 & 𝗦𝗽𝗼𝗿𝘁𝘀",
+    "address": "",
+    "category": "General store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-24 03:24:54.640850"
+  },
+  {
+    "place_id": "0x3b05af007f5243d3:0",
+    "name": "Dr Lawrence Healthcare & Diagnostic centre",
+    "address": "",
+    "category": "Medical diagnostic imaging center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-24 03:24:53.478827"
+  },
+  {
+    "place_id": "0x3b05ae62192be6d1:0",
+    "name": "TBC - The Body Club",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-24 03:24:52.324338"
+  },
+  {
+    "place_id": "0x3b05ab953cd639fb:0",
+    "name": "BISMILLAH FASHION",
+    "address": "",
+    "category": "Youth clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-24 03:24:51.107888"
+  },
+  {
+    "place_id": "0x3b05ab0057f85b45:0",
+    "name": "Sivamrutham Traditional Health Care Centre",
+    "address": "85P7+RQC",
+    "category": "Health consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-24 03:24:49.925397"
+  },
+  {
+    "place_id": "0x3b05c325e11f7c29:0",
+    "name": "Santhigiri Ayurveda & Siddha Vaidyasala",
+    "address": "opposit Suchitra Hospital, Market Road",
+    "category": "Health consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-24 03:24:48.750578"
+  },
+  {
+    "place_id": "0x3b05bb6b299885dd:0",
+    "name": "ANANDAKRISHNAN'S UNIFORM",
+    "address": "Anandakrishnan's Uniforms, opp. General Hospital Jn, next to DDRC",
+    "category": "Uniform store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-24 03:24:47.564894"
+  },
+  {
+    "place_id": "0x3b05bbfc5555555b:0",
+    "name": "Medisol Healthcare : Trusted Consultants for Dataflow Verification, Prometric Exam Booking, CORU, and HCPC Registrations",
+    "address": "TC 28, 2340, Pound Rd",
+    "category": "Educational consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-24 03:24:46.393388"
+  },
+  {
     "place_id": "0x3b05a5d73710c833:0",
     "name": "Khaira designer boutique",
     "address": "Ambalkulam Rd",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-03 14:35:54.219149"
-  },
-  {
-    "place_id": "0x3b05e92e89175795:0",
-    "name": "Amora Live Cake Cafe & Surprise Gift Shopee",
-    "address": "PR27+79G, National highway 47",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-03 14:35:53.032792"
-  },
-  {
-    "place_id": "0x3b05b8d5cb41e895:0",
-    "name": "Accovet Ltd",
-    "address": "",
-    "category": "Tax consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-03 14:35:51.860761"
-  },
-  {
-    "place_id": "0x3b05bb0a18f5b5f5:0",
-    "name": "Intimate Matrimony",
-    "address": "2nd Floor",
-    "category": "Marriage license bureau",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-03 14:35:50.695454"
-  },
-  {
-    "place_id": "0x3b05ab730f947a6d:0",
-    "name": "Parakkat Jewels",
-    "address": "Post Office, Junction, National Highway 47",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-03 12:10:08.240868"
-  },
-  {
-    "place_id": "0x3b05ab11e7c4968b:0",
-    "name": "Irani Restaurant Parassala",
-    "address": "₹200–400",
-    "category": "(1,497)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-03 12:10:06.996294"
-  },
-  {
-    "place_id": "0x3b05aba54a116ecb:0",
-    "name": "Dr. Silpa's Rainbow Multi-Speciality Dental Clinic",
-    "address": "Room No. 16, 81, Karali",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-03 12:10:05.843686"
-  },
-  {
-    "place_id": "0x3b05bff956185757:0",
-    "name": "Jos Jewellery",
-    "address": "Puliyarthala, Ulloor - Akkulam Rd, near Ediyadikodu Temple",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-03 12:10:04.660243"
-  },
-  {
-    "place_id": "0x3b05c1880e35ae71:0",
-    "name": "Al Amana Gold & Diamonds",
-    "address": "Bus Stand, Bishara Tower, near KSRTC",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-03 12:10:03.493275"
   }
 ]
