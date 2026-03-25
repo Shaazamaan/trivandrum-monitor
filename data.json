@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05a908541b74e9:0",
+    "name": "CINE CAFE RESTAURANT & CINEPLEX",
+    "address": "₹200–400",
+    "category": "(1,536)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-25 09:44:17.638202"
+  },
+  {
+    "place_id": "0x3b05e8659df9006d:0",
+    "name": "Rajakumari Arabian Cafe Restaurant Kallambalam",
+    "address": "₹200–400",
+    "category": "(1,819)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-25 09:44:16.471825"
+  },
+  {
+    "place_id": "0x3b080d1501463ad7:0",
+    "name": "Institute Of Flair & Mixology",
+    "address": "",
+    "category": "Bartending school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-25 09:44:15.291760"
+  },
+  {
+    "place_id": "0x3b05bba10ef0d7f3:0",
+    "name": "FOUR STAR COOLING SYSTEMS",
+    "address": "Four Star Cooling Systems, J S, N IYER STREET, opp. Padmavilasam Road",
+    "category": "HVAC contractor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-25 09:44:14.120178"
+  },
+  {
     "place_id": "0x3b05eed6aaaaaab5:0",
     "name": "VARKALA SPORTS",
     "address": "Sneha Complex",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-04 18:02:12.542946"
-  },
-  {
-    "place_id": "0x3b05e864288fb38f:0",
-    "name": "Ameen Metal Scraps",
-    "address": "varkala thottakadu",
-    "category": "Scrap metal dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 18:02:11.405252"
-  },
-  {
-    "place_id": "0x89b7c2c9e6158ddf:0",
-    "name": "Prestige Tree Experts",
-    "address": "(240) 673-2453",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 18:02:10.279034"
-  },
-  {
-    "place_id": "0x3b05c1a530ea726b:0",
-    "name": "HARI SCRAP METAL SHOP",
-    "address": "Panniyade kizhakkum kara",
-    "category": "Scrap metal dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 18:02:09.119157"
-  },
-  {
-    "place_id": "0x3b05bb5a879ae39d:0",
-    "name": "Venpakal crane service",
-    "address": "",
-    "category": "Crane service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 18:02:07.998102"
   }
 ]
