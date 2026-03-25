@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x880e330f896f9fe9:0",
+    "name": "Office Furniture Center",
+    "address": "",
+    "category": "Office furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-25 20:05:59.986020"
+  },
+  {
+    "place_id": "0x3b05ebe5d4e9a82f:0",
+    "name": "The Big Bite",
+    "address": "₹200–400",
+    "category": "(548)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-25 20:05:58.815900"
+  },
+  {
+    "place_id": "0x3b05bf5fdcb872cb:0",
+    "name": "LE LUMIERE RESTAURANT",
+    "address": "",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-25 20:05:57.677454"
+  },
+  {
+    "place_id": "0x3b05bf48a17ccc1f:0",
+    "name": "M2i (M-Squared Automation & IT Infra)",
+    "address": "",
+    "category": "Automation company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-25 20:05:56.521440"
+  },
+  {
+    "place_id": "0x3b05bf10642a020b:0",
+    "name": "Luv Cut Let, Sreekaryam",
+    "address": "₹1–200",
+    "category": "(115)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-25 20:05:55.304148"
+  },
+  {
     "place_id": "0x3b05a908541b74e9:0",
     "name": "CINE CAFE RESTAURANT & CINEPLEX",
     "address": "₹200–400",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-04 19:09:33.332498"
-  },
-  {
-    "place_id": "0x3b05bef6c5743823:0",
-    "name": "Asiatic Business Center",
-    "address": "",
-    "category": "Corporate office",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 19:09:32.173796"
-  },
-  {
-    "place_id": "https://www.google.com/maps/place/GB+25+cottage%27s+-+Standard+Double+Room+with+Fan/data=!4m9!3m8!5m2!4m1!1i2!8m2!3d8.6728096!4d76.9438705!16s%2Fg%2F11yz6qhtcx!17BQ0FF?authuser=0&hl=en&rclk=1",
-    "name": "GB 25 cottage's - Standard Double Room with Fan",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 18:02:15.908083"
-  },
-  {
-    "place_id": "0x3b05c19d27036789:0",
-    "name": "Medayil Incinerators – Venjaramoodu, Trivandrum",
-    "address": "Sree Visak (Anitha Tower",
-    "category": "Equipment supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 18:02:14.783552"
-  },
-  {
-    "place_id": "0x89c693b9f3db79eb:0",
-    "name": "Pennsylvania Tree Service, Inc.",
-    "address": "(610) 265-8733",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 18:02:13.650617"
-  },
-  {
-    "place_id": "https://www.google.com/maps/place/The+Meadows+Varkala/data=!4m9!3m8!5m2!4m1!1i2!8m2!3d8.7276621!4d76.7430878!16s%2Fg%2F11yr1k2hr3!17BQ0FF?authuser=0&hl=en&rclk=1",
-    "name": "The Meadows Varkala",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 18:02:12.542946"
   }
 ]
