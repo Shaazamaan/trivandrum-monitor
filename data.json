@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b05bbb6fea3643f:0",
+    "name": "Tupperware Smart Seller Letha",
+    "address": "TC 29/4870, Lekshmi Vilasom, Near Fatiz, opposite Tagore Theatre",
+    "category": "Kitchen supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 09:15:32.207641"
+  },
+  {
+    "place_id": "0x3b05bb3469a5f487:0",
+    "name": "MAS Lathe Works",
+    "address": "FXX3+R38",
+    "category": "Machine shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 09:15:31.030567"
+  },
+  {
+    "place_id": "0x3b05c131a3ea8935:0",
+    "name": "SFC VENJARAMOODU",
+    "address": "Closes 11 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 09:15:29.875849"
+  },
+  {
+    "place_id": "0x3b05c17b544a3ec1:0",
+    "name": "VK ROOFING MATERIALS AND HARDWARES",
+    "address": "SH 1",
+    "category": "Roofing supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 09:15:28.688885"
+  },
+  {
+    "place_id": "0x3b05c1582de5f8b3:0",
+    "name": "Trivandrum Techs Workshop",
+    "address": "Closes 8:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 09:15:27.520765"
+  },
+  {
+    "place_id": "0x3b05b804c5569605:0",
+    "name": "Kumar Metal Store",
+    "address": "Surya Rd, near Indian Bank",
+    "category": "Kitchen supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 09:15:26.355175"
+  },
+  {
+    "place_id": "0x3b05c5e6f094195f:0",
+    "name": "SUN POWER SOLAR FENCING",
+    "address": "+91 97453 41103",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 09:15:25.184808"
+  },
+  {
+    "place_id": "0x3b05b80f9189b8cd:0",
+    "name": "V M Auto Agencies",
+    "address": "JX3X+M54 11th stone",
+    "category": "Auto machine shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 09:15:24.028423"
+  },
+  {
+    "place_id": "0x3b05bb07d323f32d:0",
+    "name": "vinayaka kitchen equipments & stainless steel engineering works",
+    "address": "TC. 71,5565 Kuriyathi Road, Chalai market, Trivandrum Kerala.36 Attakulankara to, Road SkpTimbers, opposite Chalai",
+    "category": "Store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 09:15:22.831547"
+  },
+  {
     "place_id": "0x3b05ae88faab117f:0",
     "name": "Ashpa Flowers & Bouquet Shop",
     "address": "akshaya complex",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-05 09:04:47.884737"
-  },
-  {
-    "place_id": "0x38e1afcf579588d7:0",
-    "name": "Gulmarg Ski Resort",
-    "address": "",
-    "category": "Ski resort",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-05 09:04:46.714744"
-  },
-  {
-    "place_id": "0x3b05bb4976e0c175:0",
-    "name": "iGads Trivandrum",
-    "address": "Ground floor, Mahima Tower Nanthencode",
-    "category": "Cell phone store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-05 09:04:45.536930"
-  },
-  {
-    "place_id": "0x3b05ea5a0aa46f4f:0",
-    "name": "Chirayinkeezhu",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-05 09:04:44.374158"
-  },
-  {
-    "place_id": "0x3b05ebe58b1e4f0b:0",
-    "name": "Mobi Hub Chirayinkeezhu",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-05 09:04:43.147827"
-  },
-  {
-    "place_id": "0x3b05bb18dbc44473:0",
-    "name": "Ranichandra Enterprises",
-    "address": "Attakkulangara - Killippalam Bypass Rd, near ramachandran textile",
-    "category": "Sewing machine store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-05 09:04:41.955614"
-  },
-  {
-    "place_id": "0x3b05a52645555555:0",
-    "name": "Beach & Lake Ayurvedic Resort, Kovalam",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-05 09:04:40.754503"
-  },
-  {
-    "place_id": "0xaf68773ef23d0879:0",
-    "name": "Cellular World",
-    "address": "1ST FLOOR, CELLULAR WORLD, ROHINI SHOPPING COMPLEX, Thakaraparambu Rd, near VAYALIL RESTAURANT, inside ROHINI SHOPPING COMPLEX BUILDING",
-    "category": "Cell phone store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-05 09:04:39.505356"
-  },
-  {
-    "place_id": "https://www.google.com/maps/place/Family+fun+2+BHK+spacious+house+-+Two-Bedroom+Villa/data=!4m9!3m8!5m2!4m1!1i2!8m2!3d8.5237503!4d76.9389038!16s%2Fg%2F11mkyr05xs!17BQ0FF?authuser=0&hl=en&rclk=1",
-    "name": "Family fun 2 BHK spacious house - Two-Bedroom Villa",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 22:47:46.725548"
-  },
-  {
-    "place_id": "https://www.google.com/maps/place/2+bhk+heritage+luxury+villa/data=!4m9!3m8!5m2!4m1!1i2!8m2!3d8.5179491!4d76.8997192!16s%2Fg%2F11yw2wmvrk!17BQ0FF?authuser=0&hl=en&rclk=1",
-    "name": "2 bhk heritage luxury villa",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 22:47:45.609593"
   }
 ]
