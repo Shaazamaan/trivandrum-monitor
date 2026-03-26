@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x880fb2d23081ad95:0",
+    "name": "Chicago Harley-Davidson",
+    "address": "",
+    "category": "Harley-Davidson dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 17:23:25.910094"
+  },
+  {
+    "place_id": "0x3b05c70056c6bd75:0",
+    "name": "Zmart Seal Waterproofing Nedumangad Trivandrum Banwet",
+    "address": "Opens 9 AM Fri",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 17:23:24.772243"
+  },
+  {
+    "place_id": "0x3b05b9c8c6deec9d:0",
+    "name": "Nilambur Interiors & Furniture",
+    "address": "near Reliance Petrol Pump",
+    "category": "Furniture accessories",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 17:23:23.647831"
+  },
+  {
+    "place_id": "0x3b05bb8917674067:0",
+    "name": "Waterproofing Works Trivandrum Omega",
+    "address": "Aristo Rd",
+    "category": "Waterproofing service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 17:23:22.502844"
+  },
+  {
     "place_id": "0x3b05b9c1fe6e6a53:0",
     "name": "thousandyears weddings",
     "address": "Akhilam commercial building",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-05 10:04:08.845973"
-  },
-  {
-    "place_id": "0x3b05b93524fc9c49:0",
-    "name": "Riya Electricals Sales & Solutions",
-    "address": "",
-    "category": "Electrical supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-05 10:04:07.692968"
-  },
-  {
-    "place_id": "0x3b05bff495882803:0",
-    "name": "Ongrid Solar Power Solutions- Subsidy - Solar panel Installation company in Trivandrum",
-    "address": "TC 37/2604(6, SHINI TOWER, KODUNGANOOR PO",
-    "category": "Solar energy company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-05 10:04:06.539032"
-  },
-  {
-    "place_id": "0x3b05bb33e49ee023:0",
-    "name": "WE CARE TECHNOLOGIES",
-    "address": "RL SIVAM ARYANKUZHY,KAMALESHWARAM",
-    "category": "Washer & dryer repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-05 10:04:05.351355"
-  },
-  {
-    "place_id": "0x3b05ea0178babb95:0",
-    "name": "RAMLA AGENCIES",
-    "address": "Opposite Civil Station, Main, Main Road,Attingal",
-    "category": "Sewing machine store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-05 09:04:51.513595"
   }
 ]
