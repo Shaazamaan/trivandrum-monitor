@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb58ccba6473:0",
+    "name": "Dr.Anusree MBBS.,MD.,DNB; EDARM ( Respiratory Medicine)",
+    "address": "",
+    "category": "Pulmonologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 05:22:28.739252"
+  },
+  {
+    "place_id": "0x3b05b1e3841e9ff7:0",
+    "name": "Dr. Riji's health care",
+    "address": "Market Rd",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-26 05:22:27.585715"
+  },
+  {
     "place_id": "0x3b05e944a653b649:0",
     "name": "MIND REVIVAL",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-04 19:09:41.454490"
-  },
-  {
-    "place_id": "0x880fd339400d9c27:0",
-    "name": "Chicago Winery",
-    "address": "",
-    "category": "Winery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 19:09:40.287763"
-  },
-  {
-    "place_id": "0x3b05b9006095e95f:0",
-    "name": "Aqua Bites Seafood Restaurant",
-    "address": "₹200–400",
-    "category": "(6)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-04 19:09:39.027025"
   }
 ]
