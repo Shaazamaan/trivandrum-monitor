@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bb2434c18611:0",
+    "name": "Romanson Print House",
+    "address": "PTC Tower, SS Kovil Rd",
+    "category": "Print shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 09:18:34.340132"
+  },
+  {
+    "place_id": "0x3b05bb2c211b266f:0",
+    "name": "Sahakarana Super Bazaar",
+    "address": "GX43+CC5",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 09:18:33.217258"
+  },
+  {
+    "place_id": "0x3b05e9f090de1a23:0",
+    "name": "Dhanya Supermarket, Attingal",
+    "address": "MRX7+X8H",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 09:18:32.103058"
+  },
+  {
+    "place_id": "0x3b05e976719e20b9:0",
+    "name": "New Royal Flex Printing Attingal",
+    "address": "Market Rd",
+    "category": "Digital printing service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 09:18:30.956785"
+  },
+  {
     "place_id": "0x3b05b806906afd3b:0",
     "name": "Dr.Narendranathan Nair N",
     "address": "SORNOT, Playground, Junction, Nedumangad Town Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-06 07:09:15.549762"
-  },
-  {
-    "place_id": "0x3b05bbcf8143a991:0",
-    "name": "Vi - Vodafone Idea Store",
-    "address": "TC 25, Ground Floor Ward, B No 2883/2, Manorama Rd, opposite Hycinth Hotel",
-    "category": "Telecommunications service provider",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 07:09:14.327607"
-  },
-  {
-    "place_id": "0x3b05bb47d4995b03:0",
-    "name": "AQUAURA Aquaguard WATER PURIFIER SERVICE CENTRE TRIVANDRUM",
-    "address": "near NEW THEATRE",
-    "category": "Water purification company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 07:09:13.161526"
-  },
-  {
-    "place_id": "0x3b05bb749624aa75:0",
-    "name": "Tattva Wellness Spa",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 07:09:11.971575"
-  },
-  {
-    "place_id": "0x3b05bbd878638043:0",
-    "name": "Srishti Ayur Care | Ayurvedic Massage Centre In Trivandrum",
-    "address": "",
-    "category": "Wellness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 07:09:10.746345"
   }
 ]
