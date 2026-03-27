@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05b806906afd3b:0",
+    "name": "Dr.Narendranathan Nair N",
+    "address": "SORNOT, Playground, Junction, Nedumangad Town Rd",
+    "category": "Pediatrician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 08:10:54.710118"
+  },
+  {
+    "place_id": "0x3b05c7cde6e7325b:0",
+    "name": "The Archers Club",
+    "address": "Thanimoodu, Dist",
+    "category": "Archery club",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 08:10:53.594255"
+  },
+  {
+    "place_id": "0x3b05b80483f47573:0",
+    "name": "DSC-Digital Signature-E Mudra Partner",
+    "address": "",
+    "category": "Tax collector's office",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 08:10:52.455778"
+  },
+  {
+    "place_id": "0x3b05bb91fa485a8b:0",
+    "name": "Dr Prema J Kumar",
+    "address": "",
+    "category": "Pediatrician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 08:10:51.331739"
+  },
+  {
+    "place_id": "0x3a5253426977f0bf:0",
+    "name": "Kaldan Samudhra Palace (Luxury Property)",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 08:10:50.238310"
+  },
+  {
+    "place_id": "0x3b05bba5b0820277:0",
+    "name": "SUDEESH ASSOCIATES TIN FACILITAION CENTRE",
+    "address": "FXR2+F59, SS Kovil Rd, opposite Our College",
+    "category": "Tax assessor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 08:10:49.137187"
+  },
+  {
+    "place_id": "0x3b05bbdcc579ef5f:0",
+    "name": "Dr. Jacob Mathew",
+    "address": "",
+    "category": "Pediatrician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 08:10:47.988370"
+  },
+  {
+    "place_id": "0x3b0798507411fbc9:0",
+    "name": "Chandys Windy Woods 5 Star Resort Munnar",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 08:10:46.870933"
+  },
+  {
     "place_id": "0x3b05b9819ea24e61:0",
     "name": "B.R. ENGINEERING WORKS",
     "address": "TC 5/1531",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-06 07:09:10.746345"
-  },
-  {
-    "place_id": "0x3a4d4ba407976cf9:0",
-    "name": "M G Chevrolet",
-    "address": "11-46/A, Renigunta Road",
-    "category": "Auto broker",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 06:01:11.902800"
-  },
-  {
-    "place_id": "0x3b05ef4b1cd317e3:0",
-    "name": "Clafouti Restaurant",
-    "address": "₹200–400",
-    "category": "(1,148)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 06:01:10.743378"
-  },
-  {
-    "place_id": "0x3b05ef3b8d34f945:0",
-    "name": "Vijaya Plumbing & Electricals",
-    "address": "Varkala Railway Station Rd",
-    "category": "Plumbing supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 06:01:09.564641"
-  },
-  {
-    "place_id": "0x3b05b95a0c222807:0",
-    "name": "Abic and Mani Chartered Accountants",
-    "address": "Pattathil Arcade, Salem - Kochi Hwy",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 00:10:00.252677"
-  },
-  {
-    "place_id": "0x3b05b957d78396fb:0",
-    "name": "OAM YOGA STUDIO & OKINAWAN ACADEMY OF MARTIAL ARTS INTERNATIONAL",
-    "address": "JK BUILDING NEAR SREEKARIYAM POST OFFICE SREEKARYAM-CHEKKALAMUKK, ROAD",
-    "category": "Yoga studio",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 00:09:59.114849"
-  },
-  {
-    "place_id": "0x3b05c321f59af9c1:0",
-    "name": "EKALAVYA MARTIAL ARTS ACADEMY",
-    "address": "Fathima Plaza",
-    "category": "Martial arts school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 00:09:57.979689"
-  },
-  {
-    "place_id": "0x3b05c32f725d7c35:0",
-    "name": "ACE DISTRIBUTORS",
-    "address": "CHITTILAZHIKOM, Chayam-Charupara Rd",
-    "category": "Bathroom supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 00:09:56.851659"
-  },
-  {
-    "place_id": "0x3b05e97a4ffa29b3:0",
-    "name": "Acharya Kalaripayattu Padana kendram",
-    "address": "QQ59+VCG",
-    "category": "Martial arts school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 00:09:55.720604"
   }
 ]
