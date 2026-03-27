@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bb16c91a328d:0",
+    "name": "AR ENT CLINIC",
+    "address": "TC 25/2568 - 1, Watts Lane, Nanthancode",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 10:17:14.976955"
+  },
+  {
+    "place_id": "0x3b05bbd10a861909:0",
+    "name": "TouchCraft Digital - Marketing Agency",
+    "address": "Dot Space Business Center, TC 24/3088 Ushasandya Building, Devaswom Board Jct",
+    "category": "Marketing agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 10:17:13.825850"
+  },
+  {
+    "place_id": "0x3b05bb8c433a4507:0",
+    "name": "Dr P V Vipin",
+    "address": "Pipeline Road, Ambalamukku Rd, opposite Income Tax Building",
+    "category": "Pulmonologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 10:17:12.664471"
+  },
+  {
+    "place_id": "0x3b05bbb68f7d4657:0",
+    "name": "Gitanjali Eye and ENT Hospital",
+    "address": "",
+    "category": "Otolaryngologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 10:17:11.498707"
+  },
+  {
+    "place_id": "0x3b05bf0f713517ab:0",
+    "name": "Sixt4 Ads Digital Marketing Agency",
+    "address": "TC/1, Dotspace Business Park, 3215/1, Asset Orchestra Rd",
+    "category": "Internet marketing service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-27 10:17:10.339922"
+  },
+  {
     "place_id": "0x3b05bb2434c18611:0",
     "name": "Romanson Print House",
     "address": "PTC Tower, SS Kovil Rd",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-06 10:54:12.625115"
-  },
-  {
-    "place_id": "0x3b05bbd5e1727981:0",
-    "name": "PANIKAR & ASSOCIATES | Chartered Accountants in Trivandrum",
-    "address": "TJRA 164, Aravindam, TC 9, 1317-6, Bhagavathy Ln",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 10:54:11.497967"
-  },
-  {
-    "place_id": "0x3b05a90b0a770655:0",
-    "name": "Karaikkattu Backwater",
-    "address": "Poovar - Uchakada Rd",
-    "category": "Resort hotel",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 07:09:19.633626"
-  },
-  {
-    "place_id": "0x3b05aecabea293e7:0",
-    "name": "CP COMMUNICATION",
-    "address": "Nill",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 07:09:18.048319"
-  },
-  {
-    "place_id": "0x3b05afb5f8c382db:0",
-    "name": "Meenu pure water solutions",
-    "address": "TB Junction-Hospital Jct Rd",
-    "category": "Water purification company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 07:09:16.725791"
-  },
-  {
-    "place_id": "0x3b05afe946d6c697:0",
-    "name": "Janani Naturopathy,Yoga &Wellness clinic",
-    "address": "93QR+R3R",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 07:09:15.549762"
   }
 ]
