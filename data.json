@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05e94d60c65651:0",
+    "name": "Attingal paints",
+    "address": "Chirayinkeezhu Rd",
+    "category": "Paint store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-28 09:08:26.569633"
+  },
+  {
+    "place_id": "0x3b05e92525edfbb3:0",
+    "name": "berrys travels attingal",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-28 09:08:25.403044"
+  },
+  {
+    "place_id": "0x3b05bbe7832af7a3:0",
+    "name": "Bright house paiting services Trivandrum",
+    "address": "paiting and waterproofing, Bright house, Kukkiliya Ln",
+    "category": "Painting",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-28 09:08:24.210391"
+  },
+  {
+    "place_id": "0x87ee9f4d4d85a005:0",
+    "name": "CruiseCompete",
+    "address": "",
+    "category": "Cruise agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-28 09:08:22.978598"
+  },
+  {
+    "place_id": "0x3b05ba335a3affdf:0",
+    "name": "Orizon Holidays",
+    "address": "",
+    "category": "Tour agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-28 09:08:21.770249"
+  },
+  {
+    "place_id": "0x3b05b97e74e20541:0",
+    "name": "AJ Roofings Trivandrum",
+    "address": "AJ Roofing, Vayilikkada, near Ambalamukku",
+    "category": "Roofing contractor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-28 09:08:20.496306"
+  },
+  {
+    "place_id": "0x3b05bbd118c4876b:0",
+    "name": "Zmart Coatz Painting and Waterproofing Trivandrum",
+    "address": "Chadiyara Rd",
+    "category": "Painter",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-28 09:08:19.221556"
+  },
+  {
     "place_id": "0x3b05e9f5f9b04c13:0",
     "name": "Rajis Sign Arts and Sun Control Film Works",
     "address": "Mananakku-Kollampuzha-Attingal Rd",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-06 17:01:28.439281"
-  },
-  {
-    "place_id": "0x3b05bb853dd8c5a1:0",
-    "name": "Cars24 - Sell Used Cars in Trivandrum",
-    "address": "",
-    "category": "Used car dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 14:13:02.668505"
-  },
-  {
-    "place_id": "0x3b05ba4b32eeaaab:0",
-    "name": "Dr. Neelakanta Dhas",
-    "address": "GX27+CQM, Krishna Vilasam Rd",
-    "category": "Doctor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 14:13:01.491863"
-  },
-  {
-    "place_id": "0x3b05bb2687a465c1:0",
-    "name": "Anitha studio",
-    "address": "GX25+55H",
-    "category": "Photography studio",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 14:13:00.265576"
-  },
-  {
-    "place_id": "0x3b05ba4a132e5e33:0",
-    "name": "Second Choice Used Car Dealer",
-    "address": "",
-    "category": "Used car dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 14:12:59.091179"
-  },
-  {
-    "place_id": "0x3b05b95725ff2af5:0",
-    "name": "Dr. (Prof.) Ajithkumar P.V.",
-    "address": "Indeevaram, BE-12, Breeze Enclave Rd",
-    "category": "Diabetologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 14:12:57.948436"
-  },
-  {
-    "place_id": "0x3b05b9576fffffff:0",
-    "name": "Nice Digital Photo Studio",
-    "address": "73, Ulloor - Akkulam Rd",
-    "category": "Photographer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 14:12:56.794117"
-  },
-  {
-    "place_id": "0x3b05b913b8c4571d:0",
-    "name": "One More Creation",
-    "address": "Therikkal lane Madathunada Mukkolackal. P. O",
-    "category": "Photography service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 14:12:55.635770"
   }
 ]
