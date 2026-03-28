@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05adfda1058bb3:0",
+    "name": "Reshma's Speech Therapy Centre Parasuvaikal",
+    "address": "Karaikadu JN, PO",
+    "category": "Speech pathologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-28 19:46:03.393937"
+  },
+  {
+    "place_id": "0x3b05b957ea03ce63:0",
+    "name": "Silent Knight Audiology and Hearing Aid Centre",
+    "address": "City Plaza, Medical College Ulloor Rd",
+    "category": "Speech pathologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-28 19:46:02.188024"
+  },
+  {
+    "place_id": "0x3b05e959d70fdbef:0",
+    "name": "Elite Sense Construction",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-28 19:46:01.053166"
+  },
+  {
+    "place_id": "0x3b05e927d5559005:0",
+    "name": "Travancore Hearing Solutions | Audiology and Hearing Aid Clinic Kallambalam",
+    "address": "Cresent poly clinic, Arafa complex",
+    "category": "Hearing aid store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-28 19:45:59.900974"
+  },
+  {
+    "place_id": "0x3b05bef3a16aaaab:0",
+    "name": "QBurst",
+    "address": "",
+    "category": "Software company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-28 19:45:58.753990"
+  },
+  {
     "place_id": "0x3b05a9084e5450ef:0",
     "name": "Choice Number Plates Poovar",
     "address": "P.O, Poovar Island Beach Rd",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-06 22:48:32.647763"
-  },
-  {
-    "place_id": "0x3b05bbd5a26ecca7:0",
-    "name": "DORMA",
-    "address": "Ground Floor, Revathy Building",
-    "category": "Door supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 22:48:31.510170"
-  },
-  {
-    "place_id": "0x3b05b99c7b157519:0",
-    "name": "Asianet Fiber - Kowdiar",
-    "address": "Opens 9:30 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 22:48:30.208760"
-  },
-  {
-    "place_id": "0x3b05bba4ae99f4ab:0",
-    "name": "EasyNet Digital",
-    "address": "2nd Floor, Neelankantam, TC 9/1816 -3, Sankar Rd, opposite Indian Bank",
-    "category": "Internet marketing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 22:48:29.095005"
-  },
-  {
-    "place_id": "0x3b05fce3a4ced837:0",
-    "name": "Insight Automations",
-    "address": "",
-    "category": "Home automation company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 22:48:27.971089"
-  },
-  {
-    "place_id": "0x3b05bedb2e88e0e7:0",
-    "name": "Asianet Satellite Communication Ltd.",
-    "address": "",
-    "category": "Satellite communication service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 22:48:26.852604"
   }
 ]
