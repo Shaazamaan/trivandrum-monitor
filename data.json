@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05b950d0000001:0",
+    "name": "Dr Boben Thomas",
+    "address": "",
+    "category": "Oncologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-29 05:54:45.830358"
+  },
+  {
+    "place_id": "0x3b05bb944db5daa7:0",
+    "name": "Lawx Innovations Private Limited",
+    "address": "",
+    "category": "Legal services",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-29 05:54:44.714422"
+  },
+  {
+    "place_id": "0x3b05ba3195555555:0",
+    "name": "Vattiyoorkavu Service Co-operative Bank, M&E Branch",
+    "address": "",
+    "category": "Bank",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-29 05:54:43.600550"
+  },
+  {
+    "place_id": "0x3b05b9600dc956e9:0",
+    "name": "SB electrical works and maintenance",
+    "address": "Vazhayila palam",
+    "category": "Electrician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-29 05:54:42.465000"
+  },
+  {
+    "place_id": "0x3b05bb0b7f5ee871:0",
+    "name": "Dr. Chandramohan – Cancer Surgeon & Keyhole Cancer Specialist",
+    "address": "Chandramohan K, Dwarakamayi, Medical College, PRA 190, Poonthi Rd",
+    "category": "Surgical oncologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-29 05:54:41.348454"
+  },
+  {
+    "place_id": "0x3b05b982d0cea647:0",
+    "name": "Peroorkada Service Cooperative Bank",
+    "address": "",
+    "category": "Credit union",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-29 05:54:40.158130"
+  },
+  {
     "place_id": "0x3b05adfda1058bb3:0",
     "name": "Reshma's Speech Therapy Centre Parasuvaikal",
     "address": "Karaikadu JN, PO",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-07 05:20:38.951765"
-  },
-  {
-    "place_id": "0x3b05c197ebbd5687:0",
-    "name": "Aqua Plus Agency",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 04:22:55.515342"
-  },
-  {
-    "place_id": "0x3b05b90028d3906b:0",
-    "name": "Cut 'N' Create",
-    "address": "31/158",
-    "category": "Corporate gift supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 04:22:54.331659"
-  },
-  {
-    "place_id": "0x3b05bf87046363b5:0",
-    "name": "Clean Master",
-    "address": "TC 2/394",
-    "category": "House cleaning service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 04:22:53.071705"
-  },
-  {
-    "place_id": "0x3b05bf009c502d79:0",
-    "name": "Helen Water Purifier",
-    "address": "Menamkulam jn kazhakuttom, po",
-    "category": "Water purification company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 04:22:51.847009"
-  },
-  {
-    "place_id": "0x3b05baa49f88d2bf:0",
-    "name": "Mobile Zone",
-    "address": "Vellayani Junction, Nemom P.O",
-    "category": "Satellite communication service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 22:48:33.747027"
-  },
-  {
-    "place_id": "0x3b05bb9bc4f9da0f:0",
-    "name": "The Digital Eye",
-    "address": "456(2, VBL Building, TC 49, Vellayani Jn",
-    "category": "Internet marketing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-06 22:48:32.647763"
   }
 ]
