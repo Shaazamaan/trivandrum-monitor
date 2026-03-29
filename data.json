@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bbbb9dbb695d:0",
+    "name": "Consumerfed Liquor & Beer Shop",
+    "address": "",
+    "category": "Beer store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-29 09:03:51.048183"
+  },
+  {
+    "place_id": "0x3b05bbb8863ecfc9:0",
+    "name": "Godrej Interio - Furniture Store in Palayam, Thiruvananthapuram",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-29 09:03:49.886963"
+  },
+  {
+    "place_id": "0x3b05bba6e4f4637b:0",
+    "name": "Beverages Corporation Liquor Shop Powerhouse Road",
+    "address": "",
+    "category": "Liquor store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-29 09:03:48.664567"
+  },
+  {
     "place_id": "0x3b05bbb654302da1:0",
     "name": "OXYMUS TECHNOLOGIES HOME THEATER AND HOME AUTOMATION IN TRIVANDRUM",
     "address": "TC27/2829, 14, Ganapathy Temple Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-07 07:01:31.363570"
-  },
-  {
-    "place_id": "0x3b05baa7b8892a65:0",
-    "name": "EVENTZSOUL Event Management and Catering - Trivandrum - No.1 Trusted Brand",
-    "address": "opposite to Jevan tv",
-    "category": "Event management company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 07:01:30.245995"
-  },
-  {
-    "place_id": "0x3b05bec93602b141:0",
-    "name": "Aswas Community Pharmacy",
-    "address": "Sreekariyam - Kazhakuttam Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 07:01:29.112642"
-  },
-  {
-    "place_id": "0x3b05bf4787d44c41:0",
-    "name": "Friends Events Sreekariyam",
-    "address": "near CET",
-    "category": "Event management company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 07:01:27.983300"
   }
 ]
