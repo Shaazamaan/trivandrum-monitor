@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05afaaa471ad3d:0",
+    "name": "Resto cafe",
+    "address": "Kunnuvila junction",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-30 03:34:39.380453"
+  },
+  {
+    "place_id": "0x89b6c04ecba74b4b:0",
+    "name": "Honey Pig Korean BBQ",
+    "address": "$20–30",
+    "category": "(661)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-30 03:34:38.214500"
+  },
+  {
+    "place_id": "0x3b05b90886d628b5:0",
+    "name": "Devika Skin and Hair Clinic",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-30 03:34:37.089662"
+  },
+  {
+    "place_id": "0x3b05ab53fbca6bbb:0",
+    "name": "SKINFINITY -SKIN CLINIC PARASSALA",
+    "address": "urambu road",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-30 03:34:35.965380"
+  },
+  {
+    "place_id": "0x3b05bdd689e26789:0",
+    "name": "Barbeque Nation - Lulu Mall, Thiruvananthapuram",
+    "address": "₹800–1,000",
+    "category": "(689)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-30 03:34:34.827910"
+  },
+  {
     "place_id": "0x88dee784b5859ec7:0",
     "name": "DRYmedic Restoration Services of Port St. Lucie",
     "address": "6945 LTC Pkwy",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-07 11:35:38.166646"
-  },
-  {
-    "place_id": "0x3b05bb930637152f:0",
-    "name": "Artis Law House",
-    "address": "TC 11, Kowdiar P O, Artis Law House, Ground Floor, GV 17, 789(1, Vayal Rd",
-    "category": "Legal services",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 11:35:36.997419"
-  },
-  {
-    "place_id": "0x3b05bb496d658511:0",
-    "name": "Boss lock repairing & Key Duplicating",
-    "address": "Killippalam - Kalady Bund Rd",
-    "category": "Locksmith",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 11:35:35.821879"
-  },
-  {
-    "place_id": "0x3b05bbd5a47f83d5:0",
-    "name": "Richu Traders",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 09:55:02.306418"
-  },
-  {
-    "place_id": "0x3b05bbce05d3adc9:0",
-    "name": "Prodent Dental Center Trivandrum",
-    "address": "Kowdiar.p.o, ARA 32, Kuravankonam - Maruthoor Rd, next to Alpha Car Wash, next to Tostem",
-    "category": "Dental implants periodontist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 09:55:01.149988"
-  },
-  {
-    "place_id": "0x3b05ba21141dc981:0",
-    "name": "Dr Feminath's Ananthapuri Dental Clinic ( 100% Pain Free )",
-    "address": "Karthika, T.C 10/1907/08 Manjadimoodu, near Car Dreams Car Accessories",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 09:54:59.970222"
   }
 ]
