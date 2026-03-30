@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05b9f65c65ae87:0",
+    "name": "Dakshina Fabrics",
+    "address": "TC 21/1400-1, Kudappanakunnu Rd, near Margin Free supr market",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-30 08:03:03.219718"
+  },
+  {
+    "place_id": "0x872a55ffdeaf2edd:0",
+    "name": "Gila River Resorts and Casino - Santan Mountain",
+    "address": "",
+    "category": "Casino",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-30 08:03:02.041984"
+  },
+  {
+    "place_id": "0x3b05bbcd0b1ae54d:0",
+    "name": "Kalyan Silks",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-30 08:03:00.833414"
+  },
+  {
+    "place_id": "0x3b05bba71ff490e9:0",
+    "name": "Sakthi Fabrics",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-30 08:02:59.595082"
+  },
+  {
+    "place_id": "0x3b05c7ea7712f8af:0",
+    "name": "Borewell Indus Geotech",
+    "address": "TC 13, P O, 705",
+    "category": "Well drilling contractor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-30 08:02:58.389526"
+  },
+  {
+    "place_id": "0x3b086d5820e2886f:0",
+    "name": "Casino Hotel, CGH Earth",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-03-30 08:02:57.140948"
+  },
+  {
     "place_id": "0x3b05bbaf449ac17f:0",
     "name": "Thampanoor Tours & Travels (JEZGO)",
     "address": "Closes 10:30 PM",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-07 15:04:20.621363"
-  },
-  {
-    "place_id": "0x3b05b9d690ec2fcb:0",
-    "name": "MySyara Autocare Car Service",
-    "address": "",
-    "category": "Auto repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 14:00:03.066041"
-  },
-  {
-    "place_id": "0x3b05bb7d48cc9c91:0",
-    "name": "Makhbool's Car Clinic and 13 Check Service point , Manacaud. TVM",
-    "address": "p.o, Near manacaud valiya palli Valiya palli muslim community hall, nearby Manacaud",
-    "category": "Auto restoration service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 14:00:01.869861"
-  },
-  {
-    "place_id": "0x3b05e91206891c67:0",
-    "name": "Clean and Care service centre",
-    "address": "President junction,kallambalam",
-    "category": "Auto repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 14:00:00.674774"
-  },
-  {
-    "place_id": "0x3b05bbd5fcf02457:0",
-    "name": "Thiruvananthapuram Zoo",
-    "address": "",
-    "category": "Zoo",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 13:59:59.493406"
-  },
-  {
-    "place_id": "0x3b05bbfac744dd31:0",
-    "name": "myTVS Car Garage | Trivandrum",
-    "address": "myTVS (All Car Services Ki Mobility Solutions Pvt Ltd,NH 47,TVS Campus Neeramankara",
-    "category": "Auto repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 13:59:58.316820"
-  },
-  {
-    "place_id": "0x3b05bd95fc1b4005:0",
-    "name": "HANAMI PAN ASIAN RESTAURANT",
-    "address": "757/3, T.C. 34, Watts Ln",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-07 13:59:57.104209"
   }
 ]
