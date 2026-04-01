@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbd1f8e359ab:0",
+    "name": "Dr Ayswarya Sreejith Kallaattu",
+    "address": "House no: 90A, Vrindavan gardens",
+    "category": "Nutritionist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-01 23:11:06.778007"
+  },
+  {
+    "place_id": "0x3b05e86f58db6529:0",
+    "name": "Kaveli Boots & Fancy",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-01 23:11:05.668995"
+  },
+  {
     "place_id": "0x3b05a54512afd161:0",
     "name": "United India Insurance - Direct Agent Portal office",
     "address": "9XQV+656, Vizhinjam St",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-08 19:38:40.221558"
-  },
-  {
-    "place_id": "0x3b05bbc630bdbd35:0",
-    "name": "NELLARA CATERS & EVENTS",
-    "address": "South Rd",
-    "category": "Restaurant supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-08 19:38:38.914977"
-  },
-  {
-    "place_id": "0x3b05b900637689e7:0",
-    "name": "Angel healthCare (Homecare@Trivandrum)",
-    "address": "11, Santhi Nagar Rd",
-    "category": "Doctor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-08 18:54:11.633473"
   }
 ]
