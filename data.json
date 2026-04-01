@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05a50ff2fe3de5:0",
+    "name": "SMARTCURE CCTV WATER PURIFIER SALES AND SERVICE VIZHINJAM",
+    "address": "Kalluvettankuzhi, Venganoor Rd",
+    "category": "Water purification company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-01 18:15:49.294845"
+  },
+  {
+    "place_id": "0x3b05a5ea80abfc89:0",
+    "name": "RELIFE PHYSIOTHERAPY STROKE REHABILITATION CENTRE VIZHINJAM",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-01 18:15:48.163331"
+  },
+  {
     "place_id": "0x880e2c7168abd715:0",
     "name": "Atash Fire & Safety",
     "address": "3583 2925 S Wabash Ave # 1A",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-08 16:46:56.175579"
-  },
-  {
-    "place_id": "0x3b05abb5c0cc8b03:0",
-    "name": "GS Convention center",
-    "address": "",
-    "category": "Community center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-08 16:46:55.041263"
-  },
-  {
-    "place_id": "0x3b05abc18cf13e53:0",
-    "name": "Angels Self Drive Rental Car",
-    "address": "Kaliyakkavilai",
-    "category": "Car leasing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-08 16:46:53.868510"
   }
 ]
