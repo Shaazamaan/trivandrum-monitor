@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x872b123d21da5e27:0",
+    "name": "Dwntwn",
+    "address": "$$",
+    "category": "(511)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-02 15:39:30.378773"
+  },
+  {
+    "place_id": "0x3b05bb888adbebfb:0",
+    "name": "Samudhra Water Solutions",
+    "address": "Soorya nidhi', TC 42/1231, main road, near canara bank",
+    "category": "Corporate office",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-02 15:39:29.147204"
+  },
+  {
     "place_id": "0x3b05bf9659b12a15:0",
     "name": "Unique Pre Owned Luxury Cars",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-08 22:40:50.087886"
-  },
-  {
-    "place_id": "0x3b05bbb5bbfa2005:0",
-    "name": "Sri Mulam Club",
-    "address": "",
-    "category": "Club",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-08 22:40:48.944233"
-  },
-  {
-    "place_id": "0x3b05bb3aff5f5071:0",
-    "name": "A SQUARE DISTRIBUTOR",
-    "address": "Vazhuthacaud Bakery Jct Rd",
-    "category": "Security system supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-08 22:40:47.757226"
   }
 ]
