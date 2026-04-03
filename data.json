@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05ae88fa9e2d5f:0",
+    "name": "Smart Rexine House",
+    "address": "Akshaya Shopping Complex",
+    "category": "Upholstery shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-03 19:56:42.990777"
+  },
+  {
+    "place_id": "0x3b05a92556e4afb3:0",
+    "name": "Wallenford Construction & Interiors",
+    "address": "main road, near sree krishna temple",
+    "category": "Contractor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-03 19:56:41.859520"
+  },
+  {
+    "place_id": "0x3b05afe8069c3bfd:0",
+    "name": "PIXEL ART 3D STUDIO",
+    "address": "1 st Floor, Jayachandran Building, Poovar Rd, near Margin Free Market",
+    "category": "3D printing service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-03 19:56:40.670727"
+  },
+  {
+    "place_id": "0x3b05b9e246c2177d:0",
+    "name": "Wet Shield Home Care Solutions",
+    "address": "1099,Second Floor, Falcon Tower",
+    "category": "Waterproofing service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-03 19:56:39.531514"
+  },
+  {
+    "place_id": "0x3b05bba859c49c71:0",
+    "name": "Cochin Carpets",
+    "address": "",
+    "category": "Carpet store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-03 19:56:38.434271"
+  },
+  {
     "place_id": "0x3b05de7c4d472505:0",
     "name": "Harisree Hospital & Deaddiction Centre",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-09 21:48:34.942719"
-  },
-  {
-    "place_id": "0x3b05ef1161f7d7e5:0",
-    "name": "Azad Varkala ( Arts & Sports Club)",
-    "address": "Anchumukk - Vilakkulam Azad Stadium Rd",
-    "category": "Club",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 20:50:38.109683"
-  },
-  {
-    "place_id": "0x3b05ef1b43c8be05:0",
-    "name": "Little Tibet",
-    "address": "₹200–400",
-    "category": "(1,445)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 20:50:36.903674"
-  },
-  {
-    "place_id": "0x3b05e9ec31373bcf:0",
-    "name": "The Attingal Club",
-    "address": "PR45+H3V, Attingal Club Road",
-    "category": "Badminton court",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 20:50:35.720801"
-  },
-  {
-    "place_id": "0x3b05ebcec9f8cced:0",
-    "name": "Al wasal",
-    "address": "₹200–400",
-    "category": "(15)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 20:50:34.574983"
-  },
-  {
-    "place_id": "0x3b05b9c63464db91:0",
-    "name": "GLOBAL SPORTS CITY",
-    "address": "Peroor Nagar Rd",
-    "category": "Football club",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 20:50:33.221316"
   }
 ]
