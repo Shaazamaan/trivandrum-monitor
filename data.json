@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x880fcdcd04ff1579:0",
+    "name": "Plant Shop Chicago",
+    "address": "",
+    "category": "Plant nursery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-03 05:20:38.575805"
+  },
+  {
+    "place_id": "0x880e53be76e057e9:0",
+    "name": "Integrative Family Counseling and Psychology",
+    "address": "",
+    "category": "Family counselor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-03 05:20:37.453404"
+  },
+  {
+    "place_id": "0x880fc0ce8168f761:0",
+    "name": "Chimney Monkey",
+    "address": "",
+    "category": "Chimney sweep",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-03 05:20:36.324268"
+  },
+  {
+    "place_id": "0x3b05c3e32ecf43c9:0",
+    "name": "Sun Garden",
+    "address": "MWX4+R7H, Kazhakoottam - Kilimanoor Rd",
+    "category": "Plant nursery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-03 05:20:35.199632"
+  },
+  {
+    "place_id": "0x3b05bf22f042dbe3:0",
+    "name": "PRAANAA Family Counselling & Psychotherapy Center",
+    "address": "Closes 7:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-03 05:20:34.080505"
+  },
+  {
+    "place_id": "0x3b05c14f59ce5539:0",
+    "name": "Mr Clean Service Station",
+    "address": "371B/12 Sopanam Building, Attingal Road, Kavara Temple Rd, near Veeto Coching Center",
+    "category": "Car wash",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-03 05:20:32.941323"
+  },
+  {
+    "place_id": "0x8815e5e5e5f6130b:0",
+    "name": "Fuller Plants LLC",
+    "address": "",
+    "category": "Plant nursery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-03 05:20:31.808802"
+  },
+  {
+    "place_id": "0x880e2ca502cc914d:0",
+    "name": "JL Family Services Ltd",
+    "address": "25 E Washington St # 1051",
+    "category": "Mental health service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-03 05:20:30.630544"
+  },
+  {
+    "place_id": "0x87bf697e1e4014db:0",
+    "name": "Chimeny Tech",
+    "address": "2550 S Wabash Ave",
+    "category": "Chimney sweep",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-03 05:20:29.494931"
+  },
+  {
     "place_id": "0x808e3280446feb81:0",
     "name": "Pho Papa",
     "address": "$10–20",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-09 18:00:55.001267"
-  },
-  {
-    "place_id": "0x3b05bf036aa6b8af:0",
-    "name": "VILAYIL ALUMINIUM AGENCIES",
-    "address": "Vilayil Building",
-    "category": "Hardware store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 18:00:53.842074"
-  },
-  {
-    "place_id": "0x3b05bfa8c8316d7f:0",
-    "name": "Dr. Ganesh Navaneedhan | Best Orthopedic doctor in Trivandrum | Ortho Surgeon in Trivandrum",
-    "address": "",
-    "category": "Orthopedic surgeon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 18:00:52.674891"
-  },
-  {
-    "place_id": "0x3b05bb00ec7fb185:0",
-    "name": "Aluminium Allied Centre",
-    "address": "",
-    "category": "Aluminum supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 18:00:51.474307"
-  },
-  {
-    "place_id": "0x3b05bb999666aaa9:0",
-    "name": "Vijay & Associates",
-    "address": "",
-    "category": "Business management consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 18:00:50.326977"
-  },
-  {
-    "place_id": "0x3b05e9ec58317f51:0",
-    "name": "A4 Event Management Company",
-    "address": "+91 81390 88093",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 12:00:27.377811"
-  },
-  {
-    "place_id": "0x3b05e9b42e70eae1:0",
-    "name": "Rajakumari Gold & Diamonds Kallambalam",
-    "address": "Nagaroor Road, Jn",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 12:00:26.199159"
-  },
-  {
-    "place_id": "0x3b05b994a85328a5:0",
-    "name": "4 Ever Events & Entertainments",
-    "address": "Tc 96/2371-5, Puliyarthala, po",
-    "category": "Wedding planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 12:00:25.014387"
-  },
-  {
-    "place_id": "0x872b6b5a5ea2ce71:0",
-    "name": "The Pawn Shop",
-    "address": "",
-    "category": "Pawn shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 12:00:23.769209"
-  },
-  {
-    "place_id": "0x3b05bf006f23d109:0",
-    "name": "Ireri events",
-    "address": "Opens 9 AM Tue",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 12:00:22.542033"
   }
 ]
