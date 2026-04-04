@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x89ac586bfbe48abd:0",
+    "name": "Raleigh's Bartending School",
+    "address": "6512 Six Forks Rd",
+    "category": "Bartending school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 10:04:54.310736"
+  },
+  {
+    "place_id": "0x89b2d0363ca1a191:0",
+    "name": "Pho Saigon Kitchen",
+    "address": "$10–20",
+    "category": "(571)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 10:04:53.207489"
+  },
+  {
+    "place_id": "0x3b05bbd24268580f:0",
+    "name": "Blue Hammer Developers",
+    "address": "",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 10:04:52.103477"
+  },
+  {
+    "place_id": "0x3b05bbfda70bbc55:0",
+    "name": "Wrap A Loop",
+    "address": "₹1–200",
+    "category": "(623)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 10:04:50.977064"
+  },
+  {
+    "place_id": "0x3b05bbd0d95c56cb:0",
+    "name": "Kalyan Developers",
+    "address": "GX94+P4X",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 10:04:49.861983"
+  },
+  {
     "place_id": "0x3b05ea51c143d4bf:0",
     "name": "Dr. D. Vijay",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-10 22:04:40.907194"
-  },
-  {
-    "place_id": "0x3b05ef88836d5a95:0",
-    "name": "IMAGECAFE wedding&modeling",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-10 06:37:28.252276"
-  },
-  {
-    "place_id": "0x3b05e94714e3d7ed:0",
-    "name": "Varkala Light House & Electricals",
-    "address": "PPMV+QRG",
-    "category": "Electrical supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-10 06:37:27.047756"
-  },
-  {
-    "place_id": "0x3b05ef154f92c22b:0",
-    "name": "Stove Repair Shop",
-    "address": "Closes 7 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-10 06:37:25.881617"
-  },
-  {
-    "place_id": "0x3b05ab925a1c2039:0",
-    "name": "Candid Wedding Photography",
-    "address": "",
-    "category": "Photography studio",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-10 06:37:24.666475"
-  },
-  {
-    "place_id": "0x3b05ab47840c048b:0",
-    "name": "KSFE PARASSALA",
-    "address": "FIRST FLOOR NIRANJAN PLAZA BLOCK OFFICE ROAD, PO",
-    "category": "Financial institution",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-10 06:37:23.502279"
   }
 ]
