@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05a9e682035509:0",
+    "name": "Olive Dental Care",
+    "address": "Post Office, Mount Olive, near Poovar",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 08:15:09.903273"
+  },
+  {
+    "place_id": "0x3b05e942a4efc1d7:0",
+    "name": "Noufal",
+    "address": "Mathanadu Road, NH 47",
+    "category": "Aluminum welder",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 08:15:08.752430"
+  },
+  {
+    "place_id": "0x3b05bbb6c0c21d09:0",
+    "name": "Smile Stylers Dental Clinic & Implant Centre, Trivandrum",
+    "address": "Women's College Rd",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 08:15:07.598496"
+  },
+  {
     "place_id": "0x880e3ff66d3970eb:0",
     "name": "Signature Barn Banquet Hall",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-10 05:44:18.622609"
-  },
-  {
-    "place_id": "0x3b05b805a0d32613:0",
-    "name": "Oxygen Digital Shop - Nedumangad",
-    "address": "Nedumangad Town Rd, near Govt. Girls high school",
-    "category": "Electronics store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-10 05:44:17.433798"
-  },
-  {
-    "place_id": "0x3b05bb5bb0f44bb1:0",
-    "name": "MK KEYS",
-    "address": "Irumbupalam, Thakaraparambu Rd",
-    "category": "Key duplication service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-10 05:44:16.250801"
-  },
-  {
-    "place_id": "0x3b05b9f3b22d9941:0",
-    "name": "ISRO Inertial Systems Unit",
-    "address": "",
-    "category": "Research and product development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-10 05:44:15.085372"
   }
 ]
