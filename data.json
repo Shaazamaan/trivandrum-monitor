@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x880e3ff66d3970eb:0",
+    "name": "Signature Barn Banquet Hall",
+    "address": "",
+    "category": "Banquet hall",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 07:39:16.845684"
+  },
+  {
+    "place_id": "0x880e248b86c22485:0",
+    "name": "Fix A Flat On Wheels",
+    "address": "12048 S Marshfield Ave",
+    "category": "Tire shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 07:39:15.716419"
+  },
+  {
+    "place_id": "0x880e2ca450dba9d7:0",
+    "name": "Diamonds Inc.",
+    "address": "",
+    "category": "Diamond dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 07:39:14.609528"
+  },
+  {
+    "place_id": "0x3b05bb67ef0e11b3:0",
+    "name": "RJ Party Hall",
+    "address": "",
+    "category": "Banquet hall",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 07:39:13.482648"
+  },
+  {
+    "place_id": "0x3b05bb901856aa9f:0",
+    "name": "Goodyear Autocare - Nayana",
+    "address": "Kanjirampara Rd",
+    "category": "Tire shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 07:39:12.334483"
+  },
+  {
+    "place_id": "0x8811df511aa9b96b:0",
+    "name": "Abundance Hall",
+    "address": "",
+    "category": "Event venue",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 07:39:11.213924"
+  },
+  {
+    "place_id": "0x3b05bb0687a2c801:0",
+    "name": "Vredestein Tyres - Popular Tyres",
+    "address": "Ground Floor, Thakaraparambu Rd, near Overbridge",
+    "category": "Tire shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 07:39:10.097887"
+  },
+  {
+    "place_id": "0x880fd3517fb59d19:0",
+    "name": "The Chicago Diamond and Jewelry Exchange",
+    "address": "66 E Walton St",
+    "category": "Diamond dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 07:39:08.970265"
+  },
+  {
+    "place_id": "0x3b05bbd2ac744bc9:0",
+    "name": "Confluence by Hycinth",
+    "address": "",
+    "category": "Banquet hall",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-04 07:39:07.824679"
+  },
+  {
     "place_id": "0x3b05c148db32b2e1:0",
     "name": "The ROYAL DENTAL CARE Multispeciality Dental Clinic",
     "address": "Closes 5 PM",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-10 05:44:15.085372"
-  },
-  {
-    "place_id": "0x3b05a5bc5ab0ab8d:0",
-    "name": "Vizhinjam Regional Centre of ICAR Central Marine Fisheries Research Institute",
-    "address": "",
-    "category": "Federal government office",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-10 05:44:13.922265"
-  },
-  {
-    "place_id": "0x3b05b9b4db9c7663:0",
-    "name": "Track Fusion",
-    "address": "1st Floor, Lekha Tower",
-    "category": "Video game store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-10 05:44:12.750244"
-  },
-  {
-    "place_id": "0x880e33f098ee8319:0",
-    "name": "Strojny Ronald P",
-    "address": "5839 W 35th St",
-    "category": "General practice attorney",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-10 04:31:41.299686"
-  },
-  {
-    "place_id": "0x3b05bfa35d45eebf:0",
-    "name": "Fun Plex, Go Karting",
-    "address": "",
-    "category": "Go-karting venue",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-10 04:31:40.188179"
-  },
-  {
-    "place_id": "0x3b05a9ef2896dee3:0",
-    "name": "Zishani Boutique",
-    "address": "Bus stand, road",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-10 04:31:39.041597"
-  },
-  {
-    "place_id": "0x3b05bb47d97353f1:0",
-    "name": "Advocate George Jacob Vengal & Associates",
-    "address": "2nd Floor, Oasis Building, Athani Ln",
-    "category": "Law firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-10 04:31:37.894441"
-  },
-  {
-    "place_id": "0x3b05ab2b9c5da20f:0",
-    "name": "Dr Abin’s Physiotherapy Home Care",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 23:09:35.366557"
-  },
-  {
-    "place_id": "0x3b05ab77dbc0a393:0",
-    "name": "Saraswathy Hospital",
-    "address": "",
-    "category": "Private hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 23:09:34.228074"
-  },
-  {
-    "place_id": "0x3b05c300336f727b:0",
-    "name": "Believe Physiotherapy Clinic",
-    "address": "10/177, Attingal Road",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-09 23:09:33.115738"
   }
 ]
