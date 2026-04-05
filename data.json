@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05ab0bdf14923f:0",
+    "name": "Sree Saraswathy Sree Kaleeswari Theatre Complex",
+    "address": "",
+    "category": "Movie theater",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 20:00:01.648296"
+  },
+  {
+    "place_id": "0x88d9026d8265c9b9:0",
+    "name": "Ferrari of Fort Lauderdale",
+    "address": "",
+    "category": "Ferrari dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 20:00:00.523128"
+  },
+  {
+    "place_id": "0x864e7232c44c0223:0",
+    "name": "Encore Drive-In Nights",
+    "address": "",
+    "category": "Movie theater",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 19:59:59.411935"
+  },
+  {
+    "place_id": "0x8850ab85daa27035:0",
+    "name": "Indigo Nature Retreat",
+    "address": "1037 Newberry Creek Rd",
+    "category": "Retreat center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 19:59:56.745335"
+  },
+  {
+    "place_id": "0x3b05beb878cbcb29:0",
+    "name": "Dhwani Open Air Theatre",
+    "address": "",
+    "category": "Performing arts theater",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 19:59:55.595643"
+  },
+  {
+    "place_id": "0x3b07aac6ab433ffd:0",
+    "name": "Marian Retreat Center Anakkara",
+    "address": "",
+    "category": "Retreat center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 19:59:54.479167"
+  },
+  {
+    "place_id": "0x3b05bba3fae2bfbd:0",
+    "name": "Aries Plex SL Cinemas",
+    "address": "",
+    "category": "Movie theater",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 19:59:53.350319"
+  },
+  {
+    "place_id": "0x3b05c76160cfda27:0",
+    "name": "MOUNT CARMEL RETREAT CENTRE",
+    "address": "",
+    "category": "Religious institution",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 19:59:52.223873"
+  },
+  {
     "place_id": "0x3b05b99d302e25fb:0",
     "name": "BROTHERS Plumbing And Sanitaryware",
     "address": "Opens 8:30 AM Mon",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-12 12:06:59.851882"
-  },
-  {
-    "place_id": "0x3b05abf38e2bf92f:0",
-    "name": "PHLOX",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 12:06:58.698453"
-  },
-  {
-    "place_id": "0x3b05ab37f5c2aa2d:0",
-    "name": "Snehatheeram Tours and Travels",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 12:06:57.551192"
-  },
-  {
-    "place_id": "0x3b05ab742fb90fbf:0",
-    "name": "SP Multi Speciality Hospitals Private Limited",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 12:06:56.381945"
-  },
-  {
-    "place_id": "0x3b05bbdb2582a1f1:0",
-    "name": "Santa Monica Tours & Travels Pvt Ltd. - Trivandrum",
-    "address": "2nd Floor, Nikunjam Saras Building",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 12:06:55.259298"
-  },
-  {
-    "place_id": "0x3b05bb9f3d15be5b:0",
-    "name": "Dr. Sindhu S. Nair",
-    "address": "",
-    "category": "Oncologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 12:06:54.097116"
-  },
-  {
-    "place_id": "0x3b05bf994a45e445:0",
-    "name": "RAINBOW EVENTS & WEDDING PLANNER",
-    "address": "",
-    "category": "Event management company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 09:05:53.417342"
-  },
-  {
-    "place_id": "0x3b05bf4c74cdde57:0",
-    "name": "7th heaven kazhakuttam",
-    "address": "$$",
-    "category": "(534)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 09:05:52.259411"
-  },
-  {
-    "place_id": "0x3b05aba7c4b4ecad:0",
-    "name": "MR & MRS EVENT MANAGEMENT , PARASSALA",
-    "address": "Trivandrum - Nagercoil Hwy, near Gandhi park",
-    "category": "Event management company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 09:05:51.115374"
   }
 ]
