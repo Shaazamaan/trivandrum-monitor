@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05b99d302e25fb:0",
+    "name": "BROTHERS Plumbing And Sanitaryware",
+    "address": "Opens 8:30 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 18:11:36.650766"
+  },
+  {
+    "place_id": "0x3b05bbd21fb70093:0",
+    "name": "Fashion Factory",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 18:11:35.490321"
+  },
+  {
+    "place_id": "0x3b05bbcd96772f53:0",
+    "name": "Uday Palace Convention Centre",
+    "address": "",
+    "category": "Convention center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 18:11:34.253189"
+  },
+  {
+    "place_id": "0x3b05ba1fbf104547:0",
+    "name": "Vijaya Textiles",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 18:11:33.091458"
+  },
+  {
     "place_id": "0x3b05bbe1a220dd15:0",
     "name": "KARTHIKA ALUMINIUM & DOOR CENTRE",
     "address": "Police Station, junction, opp. Nemom",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-12 09:05:51.115374"
-  },
-  {
-    "place_id": "0x3b05ab73a1a5991f:0",
-    "name": "Johnson Bakery",
-    "address": "₹1–200",
-    "category": "(645)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 09:05:49.953482"
-  },
-  {
-    "place_id": "0x3b05abcd2126b8cf:0",
-    "name": "Rajakumari Gold & Diamonds Kaliyakkavilai",
-    "address": "Trivandrum - Nagercoil Hwy",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 09:05:48.789830"
-  },
-  {
-    "place_id": "0x3b05bb003ef0fdf3:0",
-    "name": "MARVELLOUS DONUTS",
-    "address": "mini manzil, devaswam board junction,mazjid lane, 104 A",
-    "category": "Food manufacturer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 09:05:47.584379"
-  },
-  {
-    "place_id": "0x3b05ab3dfb7af761:0",
-    "name": "SJ Musicals",
-    "address": "near bus stand Kaliakkavilai,, 7/120, Market Rd, opp. VEG, near POORVIKA MOBILES",
-    "category": "Music store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 05:01:46.719174"
   }
 ]
