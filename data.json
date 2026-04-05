@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x87938c7065ebb9ff:0",
+    "name": "Maserati of Omaha",
+    "address": "",
+    "category": "Maserati dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 07:26:02.928369"
+  },
+  {
+    "place_id": "0x3b05c1d830e04de9:0",
+    "name": "PURE TRUST SOLUTIONS LLP",
+    "address": "No.55/B1, BABY APARTMENT, near FEDERAL BANK",
+    "category": "Pest control service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 07:26:01.659599"
+  },
+  {
+    "place_id": "0x3b05c148d8a15e15:0",
+    "name": "Venjarammoodu",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 07:26:00.482570"
+  },
+  {
+    "place_id": "0x3b05bbcbb88fa5bb:0",
+    "name": "Rajiv Gandhi Sports Medicine Centre",
+    "address": "",
+    "category": "Sports medicine physician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 07:25:59.316251"
+  },
+  {
     "place_id": "0x3b05b14531734bdf:0",
     "name": "PHYSIO CARE, Physiotherapy & Rehabilitation Centre, Kattakada, Trivandrum",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-11 21:49:07.823765"
-  },
-  {
-    "place_id": "0x876f3b89580bc4db:0",
-    "name": "Village Caregiving",
-    "address": "",
-    "category": "Home help service agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-11 21:49:06.394897"
-  },
-  {
-    "place_id": "0x876f3ad5eb9d3a5f:0",
-    "name": "Mister B's Heating and Cooling",
-    "address": "610 W 15th St Suite B",
-    "category": "HVAC contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-11 21:49:05.062005"
-  },
-  {
-    "place_id": "0x3b05bbf187bc6c37:0",
-    "name": "Excellent Home Nursing Trivandrum",
-    "address": "Pulimoodu Junction T. C. 82/5041, PRA, T-60 Tank Road, GPO Ln, near Bank employees union hall",
-    "category": "Nursing agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-11 21:49:02.014804"
-  },
-  {
-    "place_id": "0x3b05bbefd1645b07:0",
-    "name": "Orange Life Fitness centre",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-11 20:02:28.634851"
   }
 ]
