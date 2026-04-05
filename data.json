@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bb5678a61445:0",
+    "name": "Elements The Jewel Studio",
+    "address": "Trivandrum Vizhinjam Rd",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 09:10:46.316884"
+  },
+  {
+    "place_id": "0x87694b7575446f69:0",
+    "name": "Dellenbach Motors",
+    "address": "",
+    "category": "Cadillac dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 09:10:45.126691"
+  },
+  {
+    "place_id": "0x3b05beb9e9fb0c31:0",
+    "name": "CET School of Management, College of Engineering Trivandrum",
+    "address": "MBA Block Rd",
+    "category": "Business school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 09:10:43.961883"
+  },
+  {
+    "place_id": "0x3b05bb127ef328ed:0",
+    "name": "UEI Global Hotel Management Institute in Trivandrum | HM Courses",
+    "address": "",
+    "category": "Hotel management school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-05 09:10:41.947580"
+  },
+  {
     "place_id": "0x87938c7065ebb9ff:0",
     "name": "Maserati of Omaha",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-11 23:05:12.746929"
-  },
-  {
-    "place_id": "0x3b05b956fc47a57f:0",
-    "name": "Anugraha Home Nursing Ulloor",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-11 21:49:12.373551"
-  },
-  {
-    "place_id": "0x3b05ae6227d1634d:0",
-    "name": "LIFE CARE HEALTH SERVICE 24×7 Nursing care in home",
-    "address": "",
-    "category": "Nursing agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-11 21:49:10.957308"
-  },
-  {
-    "place_id": "0x3b05af02d88183e1:0",
-    "name": "STAR VELOCITY",
-    "address": "+91 88936 24746",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-11 21:49:09.431126"
-  },
-  {
-    "place_id": "0x876c7dfeaaaaaaab:0",
-    "name": "Mile-Hi Skydiving Center, Inc.",
-    "address": "",
-    "category": "Skydiving center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-11 21:49:07.823765"
   }
 ]
