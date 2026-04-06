@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05b928057a647d:0",
+    "name": "TAP Tours & Travels",
+    "address": "TAP Tours & Travels, near SBI Bank",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-06 10:43:17.880624"
+  },
+  {
+    "place_id": "0x3b05ef72b5848df1:0",
+    "name": "White Gold Varkala - Turn Your Gold Into Money",
+    "address": "First Floor, Center Point Building, Temple Rd, nearby Swayamvara Textiles",
+    "category": "Jewelry buyer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-06 10:43:16.692228"
+  },
+  {
+    "place_id": "0x3b05e929369d1b53:0",
+    "name": "Travel Anytime Tours & Travels Varkala",
+    "address": "Bus Stand Rd, opposite RAILWAY STATION",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-06 10:43:15.547486"
+  },
+  {
+    "place_id": "0x3b05effc1eedf21b:0",
+    "name": "Fly Varkala: Adventure Club in Varkala",
+    "address": "Closes 6:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-06 10:43:14.364455"
+  },
+  {
     "place_id": "0x3b05ba5ec493ff6d:0",
     "name": "Pranavam Naturopathy Ayurveda Diet and Yoga Clinic",
     "address": "TC 19, Mudra 139, 773, Mudavanmugal Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-12 18:02:12.842626"
-  },
-  {
-    "place_id": "0x3b05bba1d8e420ff:0",
-    "name": "Rescigo Health",
-    "address": "TC 52/1553 6), Kunnukadu, Studio Rd Nemom",
-    "category": "Home health care service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 18:02:11.723546"
-  },
-  {
-    "place_id": "0x3b05bb1674879d07:0",
-    "name": "Planet Fitness Studio",
-    "address": "TC.49, F233+V7Q, 2577 (8) & (9, near QRS",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 18:02:10.436198"
-  },
-  {
-    "place_id": "0x3b05bba56b00728b:0",
-    "name": "Home Care Plus",
-    "address": "+91 74229 98800",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 18:02:09.297473"
-  },
-  {
-    "place_id": "0x3b05c1004cbdf46b:0",
-    "name": "Aswathy maruthi service",
-    "address": "MW96+WG8",
-    "category": "Auto restoration service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 13:31:36.785746"
   }
 ]
