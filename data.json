@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x872b75a65ec653c5:0",
+    "name": "Arizona Infectious Disease Scottsdale",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-06 17:17:53.769627"
+  },
+  {
+    "place_id": "0x3b05ba31a693483d:0",
+    "name": "TURRET ENGINEERS AND BUILDERS PVT LTD",
+    "address": "3rd Floor,Sharmees Tower",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-06 17:17:52.576967"
+  },
+  {
+    "place_id": "0x3b05bbe2d2d1afdd:0",
+    "name": "HLL Hindlabs Kowdiar",
+    "address": "GXF6+9C6, near Palace dispensary",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-06 17:17:51.310160"
+  },
+  {
+    "place_id": "0x3b05bbb688b73105:0",
+    "name": "DDRC Agilus Diagnostics - Vazhuthacaud, Trivandrum",
+    "address": "",
+    "category": "Laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-06 17:17:50.072724"
+  },
+  {
     "place_id": "0x3b05bb2337aedb2b:0",
     "name": "Liger Gym",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-12 20:59:20.288274"
-  },
-  {
-    "place_id": "0x3b05bb45acf7f29f:0",
-    "name": "Muthoot Finance Gold Loan",
-    "address": "Market Jn, No. 72, Ground Floor, SL Tower, Attukal Rd, near CDRC Building",
-    "category": "Mortgage lender",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 20:59:19.111211"
-  },
-  {
-    "place_id": "0x87ec209bf80e93bd:0",
-    "name": "Twisted Vine Brewery",
-    "address": "",
-    "category": "Brewery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 20:59:17.916190"
-  },
-  {
-    "place_id": "0x3b05a998bb1af7b9:0",
-    "name": "Estuary Sarovar Premiere Poovar Island",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 20:59:16.648855"
-  },
-  {
-    "place_id": "0x3b05a99033316b79:0",
-    "name": "Muthoot Finance Gold Loan",
-    "address": "Ground Floor, Rasi Tower, Vizhinjam - Uchakkada Rd, opposite KSRTC Bus Station",
-    "category": "Mortgage lender",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-12 20:59:15.484166"
   }
 ]
