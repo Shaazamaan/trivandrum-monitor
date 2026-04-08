@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b956cda4c4af:0",
+    "name": "Wellness Nutrition Center Ulloor Trivandrum",
+    "address": "Bunglavil Veedu 1st floor(, above Glamour Footwear",
+    "category": "Wellness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 19:03:27.842806"
+  },
+  {
+    "place_id": "0x6f189f89af4d54d1:0",
+    "name": "Jose and Son Exports Pvt Ltd",
+    "address": "Olive Road",
+    "category": "Import export company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 19:03:26.731737"
+  },
+  {
     "place_id": "0x3b05e9f75e7e1d4f:0",
     "name": "Light House Electricals",
     "address": "MRW9+94J",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-14 20:45:35.892435"
-  },
-  {
-    "place_id": "0x3b05baa35a6821a9:0",
-    "name": "Muthoot FinCorp Gold Loan",
-    "address": "",
-    "category": "Loan agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 20:45:34.709534"
-  },
-  {
-    "place_id": "0x3b05b1d0553c0c95:0",
-    "name": "KTDC BEER",
-    "address": "",
-    "category": "Bar",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 20:45:33.389183"
   }
 ]
