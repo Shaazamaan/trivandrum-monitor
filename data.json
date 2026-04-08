@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05e9f75e7e1d4f:0",
+    "name": "Light House Electricals",
+    "address": "MRW9+94J",
+    "category": "Market",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 17:22:48.079722"
+  },
+  {
+    "place_id": "0x3b05eb038cdd8be3:0",
+    "name": "Dr.Anups Insight Eye Hospital Attingal",
+    "address": "Ramu Arcade, Moonnumukku Jn.,Attingal",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 17:22:46.895023"
+  },
+  {
+    "place_id": "0x3b05c325789a41e7:0",
+    "name": "DEVI EYE HOSPITALS & OPTICIANS - KILIMANOOR",
+    "address": "LS plaza, Attingal road",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 17:22:45.796381"
+  },
+  {
+    "place_id": "0x3b05c18e11f20e53:0",
+    "name": "Al Hiba Eye Hospital",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 17:22:44.701971"
+  },
+  {
+    "place_id": "0x3b05c12dbba30989:0",
+    "name": "St Johns Dialysis Centre",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 17:22:43.574906"
+  },
+  {
+    "place_id": "0x3b05b93a41ee5135:0",
+    "name": "LET Design Lighting Consultants",
+    "address": "",
+    "category": "Lighting consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 17:22:42.472380"
+  },
+  {
+    "place_id": "0x3b05bbcce9ff2c7b:0",
+    "name": "Dr Agarwals Eye Hospital",
+    "address": "",
+    "category": "Lasik surgeon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 17:22:41.352449"
+  },
+  {
+    "place_id": "0x3b05b9276063ff29:0",
+    "name": "Dialysis Unit, Trivandrum medical College",
+    "address": "",
+    "category": "Dialysis center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 17:22:40.238364"
+  },
+  {
     "place_id": "0x3b05ef72b986784d:0",
     "name": "Nexgen AutoSpa Varkala",
     "address": "",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-14 20:45:33.389183"
-  },
-  {
-    "place_id": "0x3b05bbb4bfffffff:0",
-    "name": "HDFC Bank Home Loan Branch - Thiruvananthapuram (Vazhuthacaud)",
-    "address": "",
-    "category": "Loan agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 20:45:32.137246"
-  },
-  {
-    "place_id": "0x880e32505e01e891:0",
-    "name": "Windy City Auto Glass",
-    "address": "4148 W Ogden Ave",
-    "category": "Auto glass shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 20:03:04.948913"
-  },
-  {
-    "place_id": "0x880e2ca535bd956b:0",
-    "name": "Workplace Law Partners",
-    "address": "",
-    "category": "Employment attorney",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 20:03:03.826238"
-  },
-  {
-    "place_id": "0x3b05bb33e6bc1147:0",
-    "name": "Travancore Glass House (Automobile Glass Shop)",
-    "address": "Opens 9:30 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 20:03:02.685019"
-  },
-  {
-    "place_id": "0x3b05b93518e89fbf:0",
-    "name": "DNM FURNITURE, SREEKARYAM",
-    "address": "TC-5, 3149, Elamkulam Ln",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 17:42:24.120940"
-  },
-  {
-    "place_id": "0x3b05becb0fbd1cc3:0",
-    "name": "Jacobs Engineering",
-    "address": "National Highway 47",
-    "category": "Engineering consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 17:42:22.942600"
-  },
-  {
-    "place_id": "0x3b05c9002d470e17:0",
-    "name": "Afrin furniture mart & home appliances",
-    "address": "SH45",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 17:42:21.667860"
-  },
-  {
-    "place_id": "0x3b05baf6f939a67f:0",
-    "name": "Venus Engineering Works",
-    "address": "Thamalam Rd",
-    "category": "Welding supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 17:42:20.420430"
   }
 ]
