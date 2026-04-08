@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05ae627a4bc5f7:0",
+    "name": "Pereppadans Gold Park",
+    "address": "Closes 7:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 11:15:08.863363"
+  },
+  {
+    "place_id": "0x3b05af8e9371f7b9:0",
+    "name": "Dhiljith Freelance Digital Marketer",
+    "address": "5 PM",
+    "category": "Closes soon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 11:15:07.647756"
+  },
+  {
     "place_id": "0x3b05c30b3ed15915:0",
     "name": "Nutriworld",
     "address": "Trivandrum",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-14 14:46:32.541277"
-  },
-  {
-    "place_id": "0x390cf19c6c3ec8fb:0",
-    "name": "Rentokil PCI Pest Control Service",
-    "address": "J - Street, Post",
-    "category": "Pest control service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 11:51:12.419433"
-  },
-  {
-    "place_id": "0x3b05bbffd8e899e3:0",
-    "name": "MindfulCDC | Centre For Child Development, Speech Therapy, Behavior Therapy & Counselling, Learning Disorder | Trivandrum",
-    "address": "TC 9/706/1, Prasanthi, Madancovil Lane, Vellayambalam - Sasthamangalam Rd, opposite SBI Home Loans",
-    "category": "Occupational therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 11:51:11.274650"
   }
 ]
