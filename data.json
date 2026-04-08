@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bbef6bea935b:0",
+    "name": "City Hardware",
+    "address": "Opens 8 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 23:56:19.002760"
+  },
+  {
+    "place_id": "0x3b05abbffc10c981:0",
+    "name": "Sreediya events & Rentals",
+    "address": "",
+    "category": "Event management company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 23:56:17.807443"
+  },
+  {
+    "place_id": "0x3b05abfd59207fb7:0",
+    "name": "SIVASAKTHI CNC WOOD CARVING",
+    "address": "Manaluvila, thalachanvila, cheruvarakonam",
+    "category": "Woodworking supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 23:56:16.627920"
+  },
+  {
+    "place_id": "0x3b0455114089f0d1:0",
+    "name": "JAYA BHARATHI LODGE",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 23:56:15.454782"
+  },
+  {
+    "place_id": "0x549bc98d1a1e3835:0",
+    "name": "N C Machinery",
+    "address": "",
+    "category": "Construction equipment supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 23:56:14.265380"
+  },
+  {
     "place_id": "0x3b05bb7b2eb39efb:0",
     "name": "ADITYA VISION CARE",
     "address": "Vattiyoorkkav-Arappura Rd",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-14 23:08:45.004162"
-  },
-  {
-    "place_id": "0x3b05c1c5f81cf213:0",
-    "name": "Royal Drive Car Accessories",
-    "address": "Vembayam - Pothencode Rd",
-    "category": "Car accessories store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 22:46:02.437431"
-  },
-  {
-    "place_id": "0x3b05c0a338b05491:0",
-    "name": "Best Bakery",
-    "address": "₹1–200",
-    "category": "(453)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 22:46:01.286901"
-  },
-  {
-    "place_id": "0x3b05c96cfed2c3e3:0",
-    "name": "Dinu Bakery, Vithura",
-    "address": "₹1–200",
-    "category": "(139)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 22:46:00.123650"
-  },
-  {
-    "place_id": "0x3b05cc0c3dbef2bb:0",
-    "name": "River County Resort",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 22:45:58.961060"
-  },
-  {
-    "place_id": "0x876f3bac8b2cced5:0",
-    "name": "DriveWise Cheyenne",
-    "address": "",
-    "category": "Used car dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 22:45:57.783971"
   }
 ]
