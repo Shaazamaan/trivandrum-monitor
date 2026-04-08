@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bb7b2eb39efb:0",
+    "name": "ADITYA VISION CARE",
+    "address": "Vattiyoorkkav-Arappura Rd",
+    "category": "Optician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 22:03:30.677656"
+  },
+  {
+    "place_id": "0x3b05bb6b90470265:0",
+    "name": "LongTime Art gallery and Decor Store",
+    "address": "",
+    "category": "Art gallery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 22:03:29.464399"
+  },
+  {
+    "place_id": "0x872b11fa683cb6cb:0",
+    "name": "Complete HTR",
+    "address": "",
+    "category": "Truck repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 22:03:28.282480"
+  },
+  {
+    "place_id": "0x872b122192eb8747:0",
+    "name": "Urban Eyecare",
+    "address": "",
+    "category": "Optician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 22:03:27.115691"
+  },
+  {
+    "place_id": "0x872b1713514d5c73:0",
+    "name": "Baaz Truck & Trailer Repair Shop",
+    "address": "3835 South 67th Ave",
+    "category": "Truck repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 22:03:25.919266"
+  },
+  {
+    "place_id": "0x872b123449f11305:0",
+    "name": "Onyx Art Gallery",
+    "address": "",
+    "category": "Art gallery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 22:03:24.725138"
+  },
+  {
+    "place_id": "0x3b05bc0e8b91e2ab:0",
+    "name": "HOOK \"N\" SPEED road side assistant Recovery service",
+    "address": "Ss bavan sa139, Sivanandan Rd",
+    "category": "Towing service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 22:03:23.529874"
+  },
+  {
+    "place_id": "0x3b05bbc8d10879c5:0",
+    "name": "Napier Museum",
+    "address": "",
+    "category": "Archaeological museum",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 22:03:22.350681"
+  },
+  {
     "place_id": "0x3b05b956cda4c4af:0",
     "name": "Wellness Nutrition Center Ulloor Trivandrum",
     "address": "Bunglavil Veedu 1st floor(, above Glamour Footwear",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-14 22:45:57.783971"
-  },
-  {
-    "place_id": "0x876f3b59bb9a8e79:0",
-    "name": "Cheba Hut \"Toasted\" Subs",
-    "address": "$10–20",
-    "category": "(565)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 22:45:56.534831"
-  },
-  {
-    "place_id": "0x3b05bf4f340b3bb5:0",
-    "name": "Tata Communications Limited",
-    "address": "Park Centre",
-    "category": "Telecommunications service provider",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 20:45:42.971282"
-  },
-  {
-    "place_id": "0x3b05bf3af7335751:0",
-    "name": "HDFC Bank Home Loans - THIRUVANANTHAPURAM (KAZHAKUTTOM)",
-    "address": "Second Floor, Janatha Business Centre, HDFC Bank Ltd, TC 1, 2527-7",
-    "category": "Loan agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 20:45:41.772959"
-  },
-  {
-    "place_id": "0x3b05bf9f9eaedfb1:0",
-    "name": "Refill Lounge",
-    "address": "22/4",
-    "category": "Cocktail bar",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 20:45:40.628106"
-  },
-  {
-    "place_id": "0x3b05a58c3be122f3:0",
-    "name": "Common services centre PORT JUNCTION MULLOOR",
-    "address": "92C5+H7H, Poovar - Vizhinjam Rd",
-    "category": "Internet service provider",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 20:45:39.460271"
-  },
-  {
-    "place_id": "0x3b05a5946b381581:0",
-    "name": "Muthoot FinCorp Gold Loan",
-    "address": "",
-    "category": "Loan agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 20:45:38.278578"
-  },
-  {
-    "place_id": "0x3b05a5a902df2f69:0",
-    "name": "The Sky Bar",
-    "address": "₹2,000+",
-    "category": "(584)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 20:45:37.099551"
-  },
-  {
-    "place_id": "0x3b05bb2309e9a61b:0",
-    "name": "BSNL Store",
-    "address": "Friends Mobiles",
-    "category": "Telecommunications service provider",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 20:45:35.892435"
   }
 ]
