@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05c30b3ed15915:0",
+    "name": "Nutriworld",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 07:09:07.564890"
+  },
+  {
+    "place_id": "0x3b05e86f5fa7fa15:0",
+    "name": "Aswas Community Medical Services",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 07:09:06.433481"
+  },
+  {
+    "place_id": "0x3b05bbe6c2448661:0",
+    "name": "HealthKart - MG Road, Trivandrum",
+    "address": "TC 81/76, United Buildings, Mahatma Gandhi Rd",
+    "category": "Vitamin & supplements store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 07:09:05.288194"
+  },
+  {
+    "place_id": "0x3b05bb3555327ee1:0",
+    "name": "Regus KJ Square",
+    "address": "Kuttikkadu Lane",
+    "category": "Office space rental agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-08 07:09:04.137645"
+  },
+  {
     "place_id": "0x3b05b111a8e936e9:0",
     "name": "Aramiya Homes",
     "address": "Gift of God ,Manali,kollodu, po",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-14 11:51:11.274650"
-  },
-  {
-    "place_id": "0x3b05ba13eb42e63b:0",
-    "name": "Integrated Pest Management Solutions",
-    "address": "Shan Building Puthenkada Junction, Thirumala P.O.,",
-    "category": "Pest control service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 11:51:10.121553"
-  },
-  {
-    "place_id": "0x3b05b903358769ff:0",
-    "name": "Deeksha Speech Therapy Solutions,Trivandrum Speech Therapy Centre,Behavioural Therapy,Occupational Therapy",
-    "address": "Pongumoodu, Pazhaya Rd, near Leeja Bakery",
-    "category": "Speech pathologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 11:51:08.967077"
-  },
-  {
-    "place_id": "0x3b05bbbea803559d:0",
-    "name": "Maurya Rajadhani",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 11:51:07.823207"
-  },
-  {
-    "place_id": "0x3b05babcb8ddc665:0",
-    "name": "Cool Land Car AC Works",
-    "address": "",
-    "category": "Auto air conditioning service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-13 23:47:08.067466"
   }
 ]
