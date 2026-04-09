@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x880e3ff6dd4bc60b:0",
+    "name": "Rizza Cadillac",
+    "address": "",
+    "category": "Cadillac dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-09 03:04:14.192214"
+  },
+  {
+    "place_id": "0x880e2cbc6dc28c1f:0",
+    "name": "International Trade Club",
+    "address": "303 E Wacker Dr",
+    "category": "International trade consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-09 03:04:13.054100"
+  },
+  {
+    "place_id": "0x880fcc46c1c7a5a7:0",
+    "name": "Singer Factory Distributor",
+    "address": "",
+    "category": "Sewing machine repair service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-09 03:04:11.930647"
+  },
+  {
+    "place_id": "0x3b05bbaeb41dbcf9:0",
+    "name": "Galaxy Sewing Machine Agency",
+    "address": "",
+    "category": "Sewing machine store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-09 03:04:10.790401"
+  },
+  {
     "place_id": "0x3b05bbef6bea935b:0",
     "name": "City Hardware",
     "address": "Opens 8 AM",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-14 23:08:49.599466"
-  },
-  {
-    "place_id": "0x3b05b93c0740a261:0",
-    "name": "Decathlon Sports - Trivandrum",
-    "address": "",
-    "category": "Sportswear store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 23:08:48.491221"
-  },
-  {
-    "place_id": "0x3b05b94c3333eac5:0",
-    "name": "Soorya Catering (Pure Vegetarian)",
-    "address": "$$",
-    "category": "(238)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 23:08:47.367813"
-  },
-  {
-    "place_id": "0x3b05a507ea0d9e0d:0",
-    "name": "Country Club Kovalam Beach",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 23:08:46.167422"
-  },
-  {
-    "place_id": "0x3b05b9b6edabb369:0",
-    "name": "Harvest Caterers Pvt Ltd | Best Caterers in Trivandrum, Kollam and Varkala.",
-    "address": "KKV Nagar",
-    "category": "Caterer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-14 23:08:45.004162"
   }
 ]
