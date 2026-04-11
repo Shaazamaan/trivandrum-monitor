@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x808e337ebcb4da83:0",
+    "name": "Titans Chimney Sweeps",
+    "address": "1405 Foxworthy Ave STE 299",
+    "category": "Chimney sweep",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 11:06:03.379570"
+  },
+  {
+    "place_id": "0x808fcb1f954cec81:0",
+    "name": "LensCrafters",
+    "address": "",
+    "category": "Optometrist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 11:06:02.183104"
+  },
+  {
+    "place_id": "0x808fcc0341dde879:0",
+    "name": "With Grace Hospice and Palliative Care",
+    "address": "",
+    "category": "Hospice",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 11:06:01.035346"
+  },
+  {
+    "place_id": "0x808e35eab4038b95:0",
+    "name": "Superior San Jose Chimney Cleaners",
+    "address": "1952 Camden Ave #324",
+    "category": "Chimney sweep",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 11:05:59.873361"
+  },
+  {
+    "place_id": "0x3b05bbbbffa7b6f1:0",
+    "name": "Rose Opticals statue",
+    "address": "Statue Rd, opposite Variety Fancy",
+    "category": "Optician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 11:05:58.699389"
+  },
+  {
+    "place_id": "0x808e2d0c60cddc83:0",
+    "name": "Choice San Jose Chimney Sweeps",
+    "address": "3277 S White Rd #58",
+    "category": "Chimney sweep",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 11:05:57.539104"
+  },
+  {
+    "place_id": "0x1051a9ff0a3a97c5:0",
+    "name": "Pallium India",
+    "address": "",
+    "category": "Non-profit organization",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 11:05:56.372200"
+  },
+  {
     "place_id": "0x3b05e865864c185d:0",
     "name": "COMPUTER HUB",
     "address": "",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-16 07:07:44.129727"
-  },
-  {
-    "place_id": "0x3b05ef34d67406a1:0",
-    "name": "Family Constellation Holistic Therapy by Anvita Raj",
-    "address": "Ground Floor Vacharmukku, north cliff, Jambavan Arts Collective, Kakodmukke Road",
-    "category": "Holistic medicine practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 07:07:42.968866"
-  },
-  {
-    "place_id": "0x3b05ef2ff40465c9:0",
-    "name": "Global Survey Varkala",
-    "address": "",
-    "category": "Surveyor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 07:07:41.834528"
-  },
-  {
-    "place_id": "0x3b05bb8ed3c3e9dd:0",
-    "name": "PRITHIV RESEARCH ACADEMY ( BIOVARMATHERAPY)",
-    "address": "",
-    "category": "Holistic medicine practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 07:07:40.629017"
-  },
-  {
-    "place_id": "0x87ec20a005bdf6b5:0",
-    "name": "Ian's Lock and Key",
-    "address": "Opens 9 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 03:30:03.270503"
-  },
-  {
-    "place_id": "0x3b05bb7b9480e5db:0",
-    "name": "YOGI Healthcare Center",
-    "address": "SRA 103,KUTTICAUD JUNCTION,MANACAUD P.O",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 03:30:02.089378"
-  },
-  {
-    "place_id": "0x3b05c138b5c4d745:0",
-    "name": "Av Engineers",
-    "address": "15a, Thiruvonam Tower, Venjaramoodu, SH 1, opp. Sindhu Theatre",
-    "category": "Electronics store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 03:30:00.839494"
-  },
-  {
-    "place_id": "0x3b05e9f087d55889:0",
-    "name": "Vinayak Key Duplication & Rubber Stamps",
-    "address": "Kachery jn, near pooja hypershoppe",
-    "category": "Key duplication service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 03:29:59.582428"
   }
 ]
