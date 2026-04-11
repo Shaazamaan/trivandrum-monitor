@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05ef2824f748b5:0",
+    "name": "Kerala State Beverage Corporation Liquor Store (BEVCO)",
+    "address": "",
+    "category": "Liquor store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 06:24:44.034961"
+  },
+  {
+    "place_id": "0x3b05e9da94d4b14b:0",
+    "name": "Ampere International Trading & Contracting Private Limited",
+    "address": "CP 15 303A, PO",
+    "category": "Hardware store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 06:24:42.916879"
+  },
+  {
+    "place_id": "0x3b05ba154f5a0405:0",
+    "name": "GOPALAKRISHNAN PAN SHOP",
+    "address": "GX4Q+C93",
+    "category": "Cigar shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 06:24:41.725439"
+  },
+  {
+    "place_id": "0x3b05bf37a6e3d567:0",
+    "name": "Drytech Construction Services",
+    "address": "GROUND FLOOR, 1-733 -2, Kariyil Rd",
+    "category": "Waterproofing service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 06:24:40.608599"
+  },
+  {
     "place_id": "0x3b05c1c62edb9f75:0",
     "name": "National Scans & Diagnostic Services",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-15 21:55:06.168056"
-  },
-  {
-    "place_id": "0x3b05b11e5271cd09:0",
-    "name": "Dhwani builders & Constructions",
-    "address": "edacode nemom, po",
-    "category": "Home builder",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-15 21:55:05.023071"
-  },
-  {
-    "place_id": "0x3b05bbe2f2952c85:0",
-    "name": "AL SAJ CONVENTION CENTER",
-    "address": "",
-    "category": "Convention center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-15 21:55:03.906201"
-  },
-  {
-    "place_id": "0x3b05bba4a0752aa7:0",
-    "name": "Heeralal tiles and interlock since 1929",
-    "address": "Heeralal tiles",
-    "category": "Tile store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-15 21:55:02.750991"
-  },
-  {
-    "place_id": "0x3b05c90116367991:0",
-    "name": "Kalupadikkal Industries Manufacturers of CHAINLINK NET, WIREMESH AND CHAINLINK FENCING",
-    "address": "SIDCO industrial estate",
-    "category": "Manufacturer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-15 21:55:01.605530"
   }
 ]
