@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05af5a788c1ff3:0",
+    "name": "Abhi Lens Mart",
+    "address": "Jn",
+    "category": "Optician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 14:29:26.980816"
+  },
+  {
+    "place_id": "0x3b05affab31a453f:0",
+    "name": "MS Glass Work",
+    "address": "Closes 5 AM Sun",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 14:29:25.810435"
+  },
+  {
+    "place_id": "0x872b1378a27591a9:0",
+    "name": "STATE OF THE ART AUTO GLASS",
+    "address": "",
+    "category": "Auto glass repair service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 14:29:24.615396"
+  },
+  {
+    "place_id": "0x872b09295f111777:0",
+    "name": "Arizona Distilling Co.",
+    "address": "",
+    "category": "Distillery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 14:29:23.364364"
+  },
+  {
+    "place_id": "0x872b05a61b02fd71:0",
+    "name": "Foothills Autoglass",
+    "address": "",
+    "category": "Auto glass shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 14:29:22.206597"
+  },
+  {
+    "place_id": "0x872b07c4925b7039:0",
+    "name": "Wild Hare Distillery, (Reservations Rqrd)",
+    "address": "",
+    "category": "Distillery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 14:29:21.022219"
+  },
+  {
+    "place_id": "0x3b05bb07903f868b:0",
+    "name": "VARSHA GLASS HOUSE",
+    "address": "",
+    "category": "Glass & mirror shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 14:29:19.814524"
+  },
+  {
     "place_id": "0x3b05c9d8a746c45b:0",
     "name": "MARIS MARINE",
     "address": "P .O, MARIS MARINE PRABHA MANDIR Bldg no: NP 13 / 247 Elavattom",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-16 15:43:27.808974"
-  },
-  {
-    "place_id": "0x3b05b91f0aedc121:0",
-    "name": "Jannath Homemade Cakes & Sweets",
-    "address": "Bismi House, House No 126, Radhakrishna Lane, PO",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 15:43:26.587192"
-  },
-  {
-    "place_id": "0x3b05b98178133067:0",
-    "name": "Teeprints - DTF / SUBLIMATION Prints",
-    "address": "15/44, R/a, Jn, near kesavadasapuram",
-    "category": "Custom t-shirt store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 15:43:25.429797"
-  },
-  {
-    "place_id": "0x3b05bb0bbec1cf6f:0",
-    "name": "TSHIRT IN TRIVANDRUM, JERSEY IN TRIVANDRUM,HOTEL RESTUARANT UNIFORM,SCHOOL TSHIRT,SPORTS WEARS VEL SPORTS",
-    "address": "",
-    "category": "Custom t-shirt store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 15:43:24.251487"
-  },
-  {
-    "place_id": "0x880e2d9b5b277ab7:0",
-    "name": "Health Loft Nutrition",
-    "address": "160 N Wacker Dr Unit 201",
-    "category": "Nutritionist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 09:25:16.832893"
-  },
-  {
-    "place_id": "0x880e2cbcdf1e6cb5:0",
-    "name": "American Graphics & Signs, Inc.",
-    "address": "365 Country Club Drive",
-    "category": "Commercial printer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 09:25:15.714531"
-  },
-  {
-    "place_id": "0x880e2dd068d648e3:0",
-    "name": "The Village",
-    "address": "$20–30",
-    "category": "(4,809)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 09:25:14.597742"
-  },
-  {
-    "place_id": "0x3b05c3f235095a3d:0",
-    "name": "Greeshma's Nutrition Centre",
-    "address": "Opens 7 AM Tue",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 09:25:13.374456"
   }
 ]
