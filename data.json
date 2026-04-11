@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05a59695df0dcf:0",
+    "name": "Weston Watch Company",
+    "address": "Opens 10 AM Sun",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 18:12:07.097145"
+  },
+  {
+    "place_id": "0x3b05ba1fc75df0e3:0",
+    "name": "Time Point",
+    "address": "GXGQ+8M7, Maruthankuzhi - Kachani Rd",
+    "category": "Watch store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 18:12:05.973406"
+  },
+  {
+    "place_id": "0x3b05bd9a25799f05:0",
+    "name": "Helios Watch Store - Lulu Mall, Trivandrum",
+    "address": "",
+    "category": "Watch store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 18:12:04.830959"
+  },
+  {
     "place_id": "0x3b05b805cb85e8b9:0",
     "name": "Advocate O V Sharmila",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-16 16:50:22.191306"
-  },
-  {
-    "place_id": "0x3b05b16aeb8f360d:0",
-    "name": "KSRTC Shopping Complex Kattakkada",
-    "address": "",
-    "category": "Shopping mall",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 16:50:21.067836"
-  },
-  {
-    "place_id": "0x3b05eaad84312947:0",
-    "name": "MABROOK TOURS & TRAVELS",
-    "address": "Kadinamkulam Rd",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 16:50:19.453987"
-  },
-  {
-    "place_id": "0x3b05c14a937f3ebd:0",
-    "name": "Rexon Interiors & Landscaping",
-    "address": "16th mile, opposite to bharath benz showroom",
-    "category": "Landscape designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 16:50:18.329536"
   }
 ]
