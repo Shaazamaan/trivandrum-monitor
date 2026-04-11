@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c1c62edb9f75:0",
+    "name": "National Scans & Diagnostic Services",
+    "address": "",
+    "category": "Medical diagnostic imaging center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-11 05:09:45.782049"
+  },
+  {
     "place_id": "0x3b05ab9b1186ff79:0",
     "name": "Zybo - Mobile App & Web App Development",
     "address": "3rd Floor, Technopark Trivandrum",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-15 21:55:01.605530"
-  },
-  {
-    "place_id": "0x3b05b1efe4e83653:0",
-    "name": "WED MAC Event Planners",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-15 19:04:23.054419"
   }
 ]
