@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x87ec2708d216904f:0",
+    "name": "Ahern Fire Protection",
+    "address": "",
+    "category": "Fire protection service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-12 10:12:16.242386"
+  },
+  {
+    "place_id": "0x87ee93c88b55e747:0",
+    "name": "Restaurant Fire Pros",
+    "address": "",
+    "category": "Fire protection service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-12 10:12:15.105156"
+  },
+  {
+    "place_id": "0x87ee8e93b9d16ab7:0",
+    "name": "Dragoon Trail Chapter of the Izaak Walton League of America (Ankeny Ikes)",
+    "address": "",
+    "category": "Shooting range",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-12 10:12:13.898181"
+  },
+  {
+    "place_id": "0x3b05bbab98079013:0",
+    "name": "Essence Physio; Ortho and Sports Rehab",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-12 10:12:12.737667"
+  },
+  {
     "place_id": "0x3b05eb7adc42ab05:0",
     "name": "Prem Nazir Smarakam",
     "address": "MQ4M+9MR, Pandakasala Sarkara Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-16 22:05:11.851564"
-  },
-  {
-    "place_id": "0x872b12219559a83f:0",
-    "name": "Kelly Law Team Phoenix",
-    "address": "",
-    "category": "Personal injury attorney",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 22:05:10.694970"
-  },
-  {
-    "place_id": "0x872b137a8f2f3f3d:0",
-    "name": "DM Cantor",
-    "address": "",
-    "category": "Family law attorney",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 22:05:09.481291"
-  },
-  {
-    "place_id": "0x3b05b9e3217dde51:0",
-    "name": "Lisieux Flowers",
-    "address": "Thazhathil Building, jn, near Samsung Shop",
-    "category": "Flower designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 22:05:08.221899"
-  },
-  {
-    "place_id": "0x3b05b9f2b3e99f39:0",
-    "name": "Karni interior",
-    "address": "RC,RL 103, Radhakrishnan Ln",
-    "category": "Office furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 20:13:45.703911"
   }
 ]
