@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bbb85d2cd123:0",
+    "name": "Good Morning Stores",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-12 05:45:10.837133"
+  },
+  {
+    "place_id": "0x3b05ebb42fa18cc7:0",
+    "name": "Shifa Baby Shop",
+    "address": "MQ7W+C73",
+    "category": "Baby store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-12 05:45:09.728703"
+  },
+  {
+    "place_id": "0x3b05eb95bc59a333:0",
+    "name": "Murali medicals",
+    "address": "Railway",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-12 05:45:08.618736"
+  },
+  {
+    "place_id": "0x3b05bbeb222813ad:0",
+    "name": "TRIDENT GAMING LOUNGE",
+    "address": "",
+    "category": "Game store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-12 05:45:07.513207"
+  },
+  {
+    "place_id": "0x3b05bb0c2821eec1:0",
+    "name": "Bomi Mom & Baby Care",
+    "address": "Srishti Building, near Indian Oil Petrol Pump",
+    "category": "Baby clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-12 05:45:06.379958"
+  },
+  {
     "place_id": "0x3b0452619bf9622f:0",
     "name": "Anantya By The Lake",
     "address": "Trivandrum",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-16 20:13:42.061204"
-  },
-  {
-    "place_id": "0x3b05bb0e0d86ac73:0",
-    "name": "Mayoori Furniture",
-    "address": "Trivandrum Vizhinjam Rd",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 20:13:40.912504"
-  },
-  {
-    "place_id": "0x3b05bbed7d4ad3b5:0",
-    "name": "R&B Dream Homes and Developers pvt Ltd.",
-    "address": "House no -150, Karthika Bhavan, 2, Attukal - Chiramukku Rd",
-    "category": "Building firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 20:13:39.782314"
-  },
-  {
-    "place_id": "0x3b05bf724f55a8ad:0",
-    "name": "BOSQ ergonomic living",
-    "address": "",
-    "category": "Office furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 20:13:38.482332"
-  },
-  {
-    "place_id": "0x3b05bbb52b73df21:0",
-    "name": "Serene Derma",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 19:39:55.217899"
-  },
-  {
-    "place_id": "0x3b05baf91eb45557:0",
-    "name": "DEVAROSE DIGITAL LAND SURVEY",
-    "address": "Sowparnika, T.C. 20, 2079(3, Sasthri Nagar S Rd",
-    "category": "Land surveyor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-16 19:39:54.077763"
   }
 ]
