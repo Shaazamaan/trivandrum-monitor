@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05e9005fa503b3:0",
+    "name": "Hotel Dain Castle",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-13 23:14:01.371958"
+  },
+  {
+    "place_id": "0x3b05bb7817743f33:0",
+    "name": "Istanbul Rolls & Grills",
+    "address": "₹1–200",
+    "category": "(537)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-13 23:14:00.270358"
+  },
+  {
+    "place_id": "0x3b05befe583ad9f1:0",
+    "name": "Le Arabia Restaurant",
+    "address": "₹200–400",
+    "category": "(13,957)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-13 23:13:59.069301"
+  },
+  {
+    "place_id": "0x3b05befe2d0fb52f:0",
+    "name": "Hotel Karthika Park",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-13 23:13:57.952952"
+  },
+  {
+    "place_id": "0x3b05bbe69e2e5233:0",
+    "name": "Hyatt Regency Trivandrum",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-13 23:13:56.811818"
+  },
+  {
     "place_id": "0x3b05ef304e6873ff:0",
     "name": "Nakshatra Lawns Convention Center",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-17 22:54:17.544690"
-  },
-  {
-    "place_id": "0x3b05b7cb55d09b35:0",
-    "name": "ARUVI UPHOLSTERY WORKS",
-    "address": "Mukkolakkal Rd",
-    "category": "Upholstery shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-17 22:54:16.384704"
-  },
-  {
-    "place_id": "0x3b05c3259ce19b9f:0",
-    "name": "DDRC Agilus Diagnostics | Kilimanoor | Medical Laboratory, Blood Test & Health Checks",
-    "address": "",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-17 22:54:15.205653"
-  },
-  {
-    "place_id": "0x3b05bb467a5a5665:0",
-    "name": "Mythri Scans & Laboratory",
-    "address": "Catholic Centre General Hospital, Junction",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-17 22:54:14.038732"
-  },
-  {
-    "place_id": "0x3b05bb43ed9f0bf3:0",
-    "name": "Gift Shoppy",
-    "address": "Connemara Market, Palayam",
-    "category": "Gift shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-17 22:54:12.890508"
-  },
-  {
-    "place_id": "0x3b05bbcba2547ded:0",
-    "name": "Raeez - Sofa Customization and Upholstery | Curtains & Blinds | Interiors | Customized Furniture Maker",
-    "address": "Plamoodu - Thekkamoodu Rd",
-    "category": "Upholstery shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-17 22:54:11.696531"
   }
 ]
