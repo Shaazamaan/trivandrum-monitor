@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb755e968a5f:0",
+    "name": "Pulivilakath Engineering Services",
+    "address": "Pulivilakath Engineering Services, near ayyappan temple",
+    "category": "Engineering consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-13 18:17:21.958232"
+  },
+  {
+    "place_id": "0x872b15a68b805585:0",
+    "name": "Desert Diesel Repair 3",
+    "address": "",
+    "category": "Diesel engine repair service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-13 18:17:20.762751"
+  },
+  {
     "place_id": "0x3b05af8d99c1ffbf:0",
     "name": "MILESTONE BUILDERS AND CONTRACTORS",
     "address": "Pallichal - Vizhinjam Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-17 21:07:54.777879"
-  },
-  {
-    "place_id": "0x3b05b9171d097827:0",
-    "name": "Dr. Tech Computer Solution",
-    "address": "",
-    "category": "Computer support and services",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-17 21:07:53.642145"
-  },
-  {
-    "place_id": "0x3b05bef961bffffd:0",
-    "name": "Medisweans Solutions",
-    "address": "C9 Third Floor, Technopark Trivandrum",
-    "category": "Medical billing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-17 21:07:52.468552"
   }
 ]
