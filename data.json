@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b173bee4d981:0",
+    "name": "IVANI ASSOCIATES",
+    "address": "G33R+FXG",
+    "category": "Building materials store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-14 06:13:18.903254"
+  },
+  {
+    "place_id": "0x3b05b1efec928103:0",
+    "name": "Bodhi Diabetes Clinic",
+    "address": "Bodhi Diabetes Clinic, Neyyar Dam Road, near Variety Marbles",
+    "category": "Doctor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-14 06:13:17.714701"
+  },
+  {
+    "place_id": "0x3b05ab15e0b89bb1:0",
+    "name": "Arya Diabetic Clinic",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-14 06:13:16.500628"
+  },
+  {
     "place_id": "0x3b05e9005fa503b3:0",
     "name": "Hotel Dain Castle",
     "address": "Trivandrum",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-18 06:43:54.686046"
-  },
-  {
-    "place_id": "0x3b05bfea718766e7:0",
-    "name": "Yazeen Auto Links",
-    "address": "Pothencode - Pallippuram Rd",
-    "category": "Used car dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 06:43:53.586985"
-  },
-  {
-    "place_id": "0x3b05b7a214ec8bf7:0",
-    "name": "Metropolis Labs | Blood Test & Diagnostic Centre in Nedumangad",
-    "address": "",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-17 22:54:18.710608"
-  },
-  {
-    "place_id": "0x3b05b9a68b8e857b:0",
-    "name": "MOHAMMED RASIK",
-    "address": "A K STORES, Market Junction",
-    "category": "Gift shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-17 22:54:17.544690"
   }
 ]
