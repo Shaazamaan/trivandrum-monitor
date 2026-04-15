@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b95fae5d2f6b:0",
+    "name": "Car Palace",
+    "address": "",
+    "category": "Car accessories store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-15 08:17:41.920595"
+  },
+  {
+    "place_id": "0x3b05b951aaaaaaab:0",
+    "name": "Park Rajadhani",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-15 08:17:40.711162"
+  },
+  {
+    "place_id": "0x89b7c3ef7b16c337:0",
+    "name": "Perfect Tints & Detailing",
+    "address": "",
+    "category": "Auto window tinting service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-15 08:17:39.605149"
+  },
+  {
     "place_id": "0x3b05af99cac9dbcb:0",
     "name": "HAPPY LIFE WEDDING EVENTS &CATARING",
     "address": "Happy Life Wedding events",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-18 12:42:35.856498"
-  },
-  {
-    "place_id": "0x3b05b1c3c4a68663:0",
-    "name": "Liya convention centre kattakada",
-    "address": "",
-    "category": "Convention center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 12:42:34.734687"
-  },
-  {
-    "place_id": "0x3b05bbe24dd46465:0",
-    "name": "IPCS Automation company in trivandrum",
-    "address": "Rema Plaza, SS Kovil Rd, near KSRTC Bus Stand",
-    "category": "Automation company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 12:42:33.579328"
-  },
-  {
-    "place_id": "0x3b05bd8431bcd531:0",
-    "name": "Ajax Industries",
-    "address": "Plot No. 23, B IDA",
-    "category": "Sandblasting service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 12:42:32.449913"
   }
 ]
