@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x809465b32155da2d:0",
+    "name": "Quick Truck and Trailer Repair Inc",
+    "address": "2989 Springbrook Ct",
+    "category": "Truck repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-15 10:01:35.604363"
+  },
+  {
+    "place_id": "0x808fcbb7c5edc203:0",
+    "name": "Dr. Geeta Kutty, MD",
+    "address": "",
+    "category": "Gastroenterologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-15 10:01:34.459352"
+  },
+  {
+    "place_id": "0x3b05b8053aff6d45:0",
+    "name": "Aiswarya Physiotherapy Clinic,Nedumangadu,hospital Junction",
+    "address": "Dr. Goponath Diagnostic centre, Parayil building, opposite Hospital Road",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-15 10:01:33.222178"
+  },
+  {
+    "place_id": "0x3b05b811ad86090b:0",
+    "name": "TOP GEAR GARRAGE",
+    "address": "Closes 6 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-15 10:01:32.050097"
+  },
+  {
+    "place_id": "0x3b05b71f903499cd:0",
+    "name": "Dr. Neeraj V Gastroenterology in Puliyarakonam, Trivandrum",
+    "address": "Opens 10 AM Thu",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-15 10:01:30.880960"
+  },
+  {
+    "place_id": "0x808fb50019030b55:0",
+    "name": "Cupertino Mobile Truck & Trailer Repair",
+    "address": "10110 Bubb Rd",
+    "category": "Truck repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-15 10:01:29.655336"
+  },
+  {
+    "place_id": "0x3b05bb0aa544b011:0",
+    "name": "Mohan Skin & Gastro Care",
+    "address": "Tc 53, 2558/1",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-15 10:01:28.485891"
+  },
+  {
+    "place_id": "0x3b05bb4762738dd5:0",
+    "name": "The Gastro Centre",
+    "address": "",
+    "category": "Gastroenterologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-15 10:01:27.299923"
+  },
+  {
     "place_id": "0x3b05b95fae5d2f6b:0",
     "name": "Car Palace",
     "address": "",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-18 14:17:46.733265"
-  },
-  {
-    "place_id": "0x3b05b9550b61c537:0",
-    "name": "Lumin Systems",
-    "address": "Ulloor - Akkulam Rd",
-    "category": "Audio visual equipment supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 14:17:45.562859"
-  },
-  {
-    "place_id": "0x3b05ef1ba001f55b:0",
-    "name": "InDa Cafe",
-    "address": "₹200–400",
-    "category": "(2,641)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 14:17:44.402395"
-  },
-  {
-    "place_id": "0x3b05eed58a5456ef:0",
-    "name": "ARISTO MARGIN FREE ELECTRICALS & LIGHTS",
-    "address": "AARAMAM ARCADE, Sivagiri Rd, near SR Theatre",
-    "category": "Electrical products wholesaler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 14:17:43.080621"
-  },
-  {
-    "place_id": "0x3b05eff96f018b1b:0",
-    "name": "Bike Rent Varkala Rides",
-    "address": "Odayam - Anchumukku Rd",
-    "category": "Scooter rental service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 14:17:41.905970"
-  },
-  {
-    "place_id": "0x3b05b9dcb955919b:0",
-    "name": "Home Theater Store Trivandrum Kerala Av Digetal",
-    "address": "",
-    "category": "Home theater store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 14:17:40.712886"
-  },
-  {
-    "place_id": "0x3b05bb776c1b5c77:0",
-    "name": "Trivandrum Motorcycles Rentals - Rent a Bike Thampanoor",
-    "address": "",
-    "category": "Scooter rental service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 14:17:39.387832"
-  },
-  {
-    "place_id": "0x89acfa81aaaaaaab:0",
-    "name": "O'Toole's Mobile Dustless Blasting",
-    "address": "3505 Wake Forest Hwy",
-    "category": "Sandblasting service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 12:42:36.970165"
-  },
-  {
-    "place_id": "0x3b05bb260e7bfb91:0",
-    "name": "Metal Magic",
-    "address": "Bund Rd",
-    "category": "Welder",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 12:42:35.856498"
   }
 ]
