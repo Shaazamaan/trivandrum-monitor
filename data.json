@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05bb271d22ab65:0",
+    "name": "Hirosh Roadways",
+    "address": "Railway Station Road Kazhakkoottam",
+    "category": "Logistics service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-16 12:20:49.612074"
+  },
+  {
+    "place_id": "0x3b05e9399a16afcb:0",
+    "name": "Trackon Courier pvt ltd Kallambalam (Wayon Travels and Logistics)",
+    "address": "Decentmukku - Pulloormukku Rd",
+    "category": "Courier service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-16 12:20:48.427366"
+  },
+  {
+    "place_id": "0x3b05e865e5b6f571:0",
+    "name": "Al-Nas Bakers & Supermarket",
+    "address": "Varkala Kallambalam Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-16 12:20:47.264064"
+  },
+  {
+    "place_id": "0x3b05ef01fef6a33d:0",
+    "name": "SUN REXINE HOUSE",
+    "address": "Closes 8:30 AM Fri",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-16 12:20:46.067427"
+  },
+  {
+    "place_id": "0x3b05e969c53459bd:0",
+    "name": "True Logistics Network",
+    "address": "AR PLAZA BUILDING",
+    "category": "Freight forwarding service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-16 12:20:44.869875"
+  },
+  {
+    "place_id": "0x3b05ef6601425ef1:0",
+    "name": "Eis by Sarwaa",
+    "address": "PPP3+V3Q",
+    "category": "Ice Cream",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-16 12:20:43.650698"
+  },
+  {
+    "place_id": "0x3b05bbbc74fdbbcf:0",
+    "name": "The Sleep Company Experience Store -Travancore",
+    "address": "near International Airport",
+    "category": "Mattress store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-16 12:20:42.468927"
+  },
+  {
     "place_id": "0x88d9bbce1806ab71:0",
     "name": "Majestic Locksmith",
     "address": "1980 W 60th St",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-18 21:07:21.983862"
-  },
-  {
-    "place_id": "0x3b05c39074199345:0",
-    "name": "DaniMart Furniture Shop, Home Appliances",
-    "address": "",
-    "category": "Countertop store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 20:14:11.495863"
-  },
-  {
-    "place_id": "0x3b05ebad3eb6313f:0",
-    "name": "Chirayinkeezhu Boat Club",
-    "address": "MQ5H+8R3, Pulimoottil, Puthukkari Rd, Pandakasala, Chirayinkeezhu, Kerala 695304, India Pulimoottil, Puthukkari Rd",
-    "category": "Boat club",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 20:14:10.391528"
-  },
-  {
-    "place_id": "0x3b05c1e3a25a78c7:0",
-    "name": "Lenskart.com at Venjaramoodu (First Lens Replacement Free)",
-    "address": "",
-    "category": "Sunglasses store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 20:14:09.294291"
-  },
-  {
-    "place_id": "0x3b05e958126e3591:0",
-    "name": "CITYMAX OPTICIANS",
-    "address": "YMS Building, Main Road, NH 66",
-    "category": "Optician",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 20:14:08.192007"
-  },
-  {
-    "place_id": "0x3b05bbed46b976fd:0",
-    "name": "Lenskart.com at Vazhuthacaud, Trivandrum (First Lens Replacement Free)",
-    "address": "Springs TC NO 44/913, Ground Floor, Vazhthacaud, PO, near Reliance Fresh",
-    "category": "Sunglasses store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 20:14:07.018445"
-  },
-  {
-    "place_id": "0x3b05bb2c4b3b6479:0",
-    "name": "PRIYA MARKETING",
-    "address": "G G TOWER, near SHIVA TEMPLE ROAD",
-    "category": "Countertop store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 20:14:05.821986"
-  },
-  {
-    "place_id": "0x3b05bb8dfa13e29b:0",
-    "name": "Lenskart.com Flagship Store at MG Road, Trivandrum (First Lens Replacement Free)",
-    "address": "TC 38/1626, Mahatma Gandhi Rd, near Baba Studio",
-    "category": "Sunglasses store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 20:14:04.644653"
   }
 ]
