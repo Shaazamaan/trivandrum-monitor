@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x88d9bbce1806ab71:0",
+    "name": "Majestic Locksmith",
+    "address": "1980 W 60th St",
+    "category": "Locksmith",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-16 06:15:54.576133"
+  },
+  {
+    "place_id": "0x3b05bf80e906bd5f:0",
+    "name": "Mocs Family Salon Sreekariyam",
+    "address": "Junction",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-16 06:15:53.449365"
+  },
+  {
+    "place_id": "0x89b115ce2d4db4f5:0",
+    "name": "WeUnlock Locksmith",
+    "address": "(804) 997-9640",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-16 06:15:52.316178"
+  },
+  {
     "place_id": "0x3b05bbe67a705379:0",
     "name": "Cosmopolitan Blood Bank",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-18 20:14:04.644653"
-  },
-  {
-    "place_id": "0x3b05bb25595e080b:0",
-    "name": "VIBGYOR GLOBAL WEB SOLUTIONS PVT LTD",
-    "address": "TC 18, GWCX+F2 Thiruvananthapuram, Kerala VH220, 1258, East Pattom",
-    "category": "Software company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 18:21:25.028601"
-  },
-  {
-    "place_id": "0x3b05bb85b7081b49:0",
-    "name": "Dr Amrithasree S Kumar.(Homoeo- General Medicine, Psychiatry & Counselling)",
-    "address": "E Square Academy, Quaters Road, opposite to Kendriya Vidyalaya",
-    "category": "General practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 18:21:23.930322"
-  },
-  {
-    "place_id": "0x3b05b90d15534c85:0",
-    "name": "Firstcry.com Store Trivandrum Vattiyoorkavu",
-    "address": "",
-    "category": "Baby store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-18 18:21:22.788083"
   }
 ]
