@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb0038cb3da5:0",
+    "name": "Backstreet Bistro",
+    "address": "₹1–200",
+    "category": "(160)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-17 22:00:50.825332"
+  },
+  {
+    "place_id": "0x3b05a59852e16d63:0",
+    "name": "Raahath Fine Dine Restaurant",
+    "address": "₹200–400",
+    "category": "(3,323)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-17 22:00:49.651607"
+  },
+  {
     "place_id": "0x3b05bb5562d61c63:0",
     "name": "Cswip 3.1 - Trivandrum Welding Institute",
     "address": "L182, LIC Ln",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-19 03:01:08.413581"
-  },
-  {
-    "place_id": "0x3b05ba44e513f70b:0",
-    "name": "Antique Home Decor",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 03:01:07.236689"
-  },
-  {
-    "place_id": "0x3b05bbb8681bb71b:0",
-    "name": "Eco phones mobile service centre",
-    "address": "",
-    "category": "Mobile phone repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 03:01:06.080167"
   }
 ]
