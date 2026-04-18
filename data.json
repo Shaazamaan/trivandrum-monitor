@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x89b649cd501d38f3:0",
+    "name": "Virginia Center for Reproductive Medicine",
+    "address": "",
+    "category": "Fertility clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-18 15:09:40.797557"
+  },
+  {
+    "place_id": "0x89b64c90b53d9437:0",
+    "name": "Infectious Diseases Physicians",
+    "address": "",
+    "category": "Infectious disease physician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-18 15:09:39.709544"
+  },
+  {
+    "place_id": "0x89b7b2530b019105:0",
+    "name": "Alexandria Infectious Diseases",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-18 15:09:38.612707"
+  },
+  {
+    "place_id": "0x3b05b9989fc77a2f:0",
+    "name": "Ayur Seva Ayurvedic Center",
+    "address": "Tc. 21/1624 Second floor, Akshai Towers, Kudappanakunnu Rd",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-18 15:09:37.509130"
+  },
+  {
+    "place_id": "0x3b05bba0e181297d:0",
+    "name": "Trivandrum Fertility & IVF Centre",
+    "address": "PRIMS Hospital, Sasthamangalam -Vattiyoorkavu Road, near Indianoil petrol Pump, opposite JJ Vista",
+    "category": "Fertility clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-18 15:09:36.400836"
+  },
+  {
     "place_id": "0x864c2169b465bea1:0",
     "name": "Content Creation Studios",
     "address": "4400 State Hwy 121 Ste 300-A",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-19 15:04:30.774481"
-  },
-  {
-    "place_id": "0x3b05bbbbe8f44737:0",
-    "name": "DATA RECOVERY SERVICES",
-    "address": "CAPITAL TOWERS, 3rd FLOOR (3F1",
-    "category": "Data recovery service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 15:04:29.566423"
-  },
-  {
-    "place_id": "0x3b05bfa5dd3d5875:0",
-    "name": "RAZE FIRE",
-    "address": "al saj convention Centre, Near",
-    "category": "Fire protection service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 15:04:28.371277"
-  },
-  {
-    "place_id": "0x3b05af87bdd2b70d:0",
-    "name": "Waterline Shipping and Logistics Pvt Ltd. Vizhinjam International Seaport , Trivandrum",
-    "address": "Vizhinjam Harbour Rd",
-    "category": "Shipping service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 12:10:50.422643"
-  },
-  {
-    "place_id": "0x3b05a596f8d61a09:0",
-    "name": "Vizhinjam veterinary Hospital",
-    "address": "9XMR+P5R",
-    "category": "Animal hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 12:10:49.297096"
-  },
-  {
-    "place_id": "0x3b05bfba00332c7b:0",
-    "name": "bark'ode Pet Hypermarket & Grooming Studio",
-    "address": "Sreekaryam",
-    "category": "Pet store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 12:10:48.145639"
   }
 ]
