@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05ef287a3bcb5d:0",
+    "name": "Air conditioner service centre",
+    "address": "PPP9+MWC, Mundayil Beach Rd",
+    "category": "Air conditioning store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-19 10:12:06.929710"
+  },
+  {
+    "place_id": "0x3b05e9d1a9b868c9:0",
+    "name": "Delicate Laundry Varkala",
+    "address": "PALACHIRA P.O",
+    "category": "Laundry",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-19 10:12:05.775540"
+  },
+  {
+    "place_id": "0x3b05bbde1fcbf23d:0",
+    "name": "Qcentro Pvt Ltd",
+    "address": "",
+    "category": "Software company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-19 10:12:04.610210"
+  },
+  {
     "place_id": "0x3b05bb3782d36d17:0",
     "name": "FLY EASY TOURS",
     "address": "Ganapathy Temple Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-19 20:14:22.606101"
-  },
-  {
-    "place_id": "0x3b05bba5d8ef0f8d:0",
-    "name": "Rethna Medicals",
-    "address": "",
-    "category": "Medical supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 17:36:54.026374"
-  },
-  {
-    "place_id": "0x808e351dc4ac51af:0",
-    "name": "Economy Lumber Company",
-    "address": "",
-    "category": "Lumber store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 17:36:52.873170"
-  },
-  {
-    "place_id": "0x3b05bb9dd5075cf9:0",
-    "name": "JR MULTI-SPECIALITY DENTAL CLINIC",
-    "address": "JR MULTI-SPECIALITY DENTAL CLINIC, SS Kovil Rd, near AYYAPPAN COVIL",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 17:36:51.712050"
   }
 ]
