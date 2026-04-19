@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05c96c4e63d969:0",
+    "name": "Vithura Taluk Hospital",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-19 20:57:45.091295"
+  },
+  {
+    "place_id": "0x872b11f18be00baf:0",
+    "name": "E-Z Money Recycling LLC",
+    "address": "",
+    "category": "Recycling center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-19 20:57:43.891503"
+  },
+  {
+    "place_id": "0x3b05bb00212b6e0f:0",
+    "name": "Dr. Riyaz Clinic",
+    "address": "FX5X+9G9",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-19 20:57:42.714487"
+  },
+  {
+    "place_id": "0x3b05baa5ca1b4e0f:0",
+    "name": "SN Ayurveda Dispensary",
+    "address": "SHOP ON 1, SREE NARAYANA AYURVEDA DISPENSARY, Police Quarters Rd, near QRS",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-19 20:57:41.539058"
+  },
+  {
+    "place_id": "0x3b05ef27c5cb0f63:0",
+    "name": "Dr BALAGOPAL THODIYIL SURESH , Orthopaedic Surgeon @ Varkala",
+    "address": "near ashwas medicals",
+    "category": "Doctor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-19 20:57:40.344655"
+  },
+  {
     "place_id": "0x3b05b91a78d1235d:0",
     "name": "CEAT Shoppe - Tyre Xpert, Sreekaryam, Thiruvananthapuram",
     "address": "No TC6/1428, near KWA Pump House",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-19 21:55:21.501299"
-  },
-  {
-    "place_id": "0x3b05bbdde4e991c1:0",
-    "name": "Yamaha Motor Showroom - Muthoot Yamaha",
-    "address": "",
-    "category": "Motorcycle dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 21:55:20.293349"
-  },
-  {
-    "place_id": "0x3b05eb000f689ae5:0",
-    "name": "Makhania family restaurant",
-    "address": "JR73+7R",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 21:13:04.970265"
-  },
-  {
-    "place_id": "0x3b05bb3f6fc66f01:0",
-    "name": "Incuspaze Coworking Space in Trivandrum Kowdiar",
-    "address": "Aspinwall House, Road",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 21:13:03.692710"
-  },
-  {
-    "place_id": "0x3b05b98321c1a359:0",
-    "name": "DDRC Agilus Diagnostics | Peroorkada, Trivandrum",
-    "address": "",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 21:13:02.401555"
-  },
-  {
-    "place_id": "0x3b05c12e21d95555:0",
-    "name": "Outfit Fitness Centre",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-19 20:14:27.341734"
   }
 ]
