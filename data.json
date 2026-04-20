@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bbcd58df8257:0",
+    "name": "Rameez Family Restaurant",
+    "address": "₹1–200",
+    "category": "(120)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-20 12:04:19.476643"
+  },
+  {
+    "place_id": "0x3b05b9b03d216a25:0",
+    "name": "DOWN TOWN PROPERTIES Instakart PVT LTD",
+    "address": "H2X2+W28",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-20 12:04:18.170387"
+  },
+  {
+    "place_id": "0x3b05b811b3f52eef:0",
+    "name": "Zam Zam Iyya Restaurant",
+    "address": "₹1–200",
+    "category": "(1,413)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-20 12:04:16.891113"
+  },
+  {
     "place_id": "0x3b05e9f09a0580bd:0",
     "name": "New Glass Mart",
     "address": "MRX7+XGV, Vaisakha-Sr Road",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-20 10:57:26.957951"
-  },
-  {
-    "place_id": "0x3b05ba31a76b5b47:0",
-    "name": "K. K. PILLAI & SONS",
-    "address": "",
-    "category": "Watch store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 10:02:20.274938"
-  },
-  {
-    "place_id": "0x3b05ba1fc6a1464b:0",
-    "name": "Vattiyoorkavu Medicals",
-    "address": "GXGQ+9P2",
-    "category": "Medical supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 10:02:19.131960"
-  },
-  {
-    "place_id": "0x3b05bbf5cd67498d:0",
-    "name": "Homeclenx",
-    "address": "opposite Indian Oil Pump",
-    "category": "House cleaning service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 10:02:17.968929"
   }
 ]
