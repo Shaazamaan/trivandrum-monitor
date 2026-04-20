@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b9599e5ed0cb:0",
+    "name": "Dell Exclusive Store - Kesavadasapuram",
+    "address": "",
+    "category": "Computer store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-20 18:20:33.504639"
+  },
+  {
+    "place_id": "0x3b05bbaea1727455:0",
+    "name": "Club 19",
+    "address": "NH Bypass Road, opposite Infosys Campus",
+    "category": "Pub",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-20 18:20:32.376526"
+  },
+  {
+    "place_id": "0x3b05bbb1821f1eed:0",
+    "name": "Futuretech",
+    "address": "",
+    "category": "Computer store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-20 18:20:31.141389"
+  },
+  {
     "place_id": "0x3b05bba83bb79707:0",
     "name": "Vizhinjam Power Tools",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-20 12:09:03.009465"
-  },
-  {
-    "place_id": "0x3b05e9f767ee12d9:0",
-    "name": "Medix Helth Care, Dental & Surgicals",
-    "address": "opposite Taluke hospital",
-    "category": "Medical supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 12:09:01.831827"
-  },
-  {
-    "place_id": "0x3b066df31af1d3cf:0",
-    "name": "Lamps Shamlu's Cafe",
-    "address": "₹1–200",
-    "category": "(129)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 12:09:00.612669"
-  },
-  {
-    "place_id": "0x3b05af19c35cf4a1:0",
-    "name": "S & S Surgicals",
-    "address": "panickers tower, hospital junction",
-    "category": "Surgical supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 12:08:59.417459"
   }
 ]
