@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bba83bb79707:0",
+    "name": "Vizhinjam Power Tools",
+    "address": "",
+    "category": "Tool store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-20 14:13:47.859481"
+  },
+  {
+    "place_id": "0x3b05a5896a8b364f:0",
+    "name": "Kerala State Beverages Corporation Ltd.",
+    "address": "",
+    "category": "Beverage distributor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-20 14:13:46.625547"
+  },
+  {
+    "place_id": "0x3b05c13169d9351f:0",
+    "name": "Royal furniture and appliances",
+    "address": "Vayyette, SH 1",
+    "category": "Office furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-20 14:13:45.474094"
+  },
+  {
+    "place_id": "0x3b05c12e0fafe929:0",
+    "name": "Karnikaar Audiology & Speech Therapy Centre | Best Hearing aid clinic hearing test Trivandrum",
+    "address": "Near St.John’s Hospital",
+    "category": "Hearing aid store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-20 14:13:44.352962"
+  },
+  {
     "place_id": "0x3b05bbcd58df8257:0",
     "name": "Rameez Family Restaurant",
     "address": "₹1–200",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-20 12:08:59.417459"
-  },
-  {
-    "place_id": "0x3b05afb44168792f:0",
-    "name": "Indian Coffee House - ഇന്ത്യൻ കോഫീ ഹൗസ്",
-    "address": "₹1–200",
-    "category": "(855)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 12:08:58.226905"
-  },
-  {
-    "place_id": "0x3b05e9301707fd87:0",
-    "name": "FRC Foods",
-    "address": "₹200–400",
-    "category": "(299)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 10:57:29.318188"
-  },
-  {
-    "place_id": "0x3b05bb777206b4a1:0",
-    "name": "Organic India Store - Kowdiar, Thiruvananthapuram",
-    "address": "Vasantham, Pattom - Kowdiar Rd, opposite Azad Bread Factory",
-    "category": "Organic food store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 10:57:28.134430"
-  },
-  {
-    "place_id": "0x3b05bbd9b29ca807:0",
-    "name": "Welgate Lifestyle",
-    "address": "",
-    "category": "Organic shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 10:57:26.957951"
   }
 ]
