@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x876b83fbe4142251:0",
+    "name": "Underwater Phantaseas",
+    "address": "",
+    "category": "Dive shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-21 08:29:53.470910"
+  },
+  {
+    "place_id": "0x864c23f4b4e4ae81:0",
+    "name": "Tokyo Shokudo",
+    "address": "$10–20",
+    "category": "(423)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-21 08:29:52.281376"
+  },
+  {
+    "place_id": "0x3b05afdfc904a07d:0",
+    "name": "DTH Service Sales & Repair.",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-21 08:29:51.108078"
+  },
+  {
     "place_id": "0x3b05b804c84f7ce5:0",
     "name": "Nedumangadu Hardware",
     "address": "J233+66C, Market Jn",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-20 22:49:40.679639"
-  },
-  {
-    "place_id": "0x3b05b9634b616b3f:0",
-    "name": "Colour Code Automotive Body Shop",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 22:49:39.482634"
-  },
-  {
-    "place_id": "0x3b05b97878bf2d23:0",
-    "name": "Muthoot FinCorp Gold Loan",
-    "address": "",
-    "category": "Investment service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 22:49:38.291216"
-  },
-  {
-    "place_id": "0x3b05bfdf80b1a711:0",
-    "name": "SAJI LX",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 22:49:37.122816"
   }
 ]
