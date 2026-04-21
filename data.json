@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bbcf240a4459:0",
+    "name": "Lizara",
+    "address": "Lizara , TC 49/315, PRA 101, Kamaleshwaram, PO",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-21 12:53:48.179121"
+  },
+  {
+    "place_id": "0x9fc953e617cd41:0",
+    "name": "Illinois Speech Therapy",
+    "address": "155 N Michigan Ave Suite 208",
+    "category": "Speech pathologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-21 12:53:47.014741"
+  },
+  {
+    "place_id": "0x3b05bb047fc14461:0",
+    "name": "EVENTORS The Event Factory",
+    "address": "+91 99959 33351",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-21 12:53:45.828156"
+  },
+  {
     "place_id": "0x876b83fbe4142251:0",
     "name": "Underwater Phantaseas",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-21 04:51:29.275191"
-  },
-  {
-    "place_id": "0x87ec2119bfa105ed:0",
-    "name": "Willis Lexus",
-    "address": "",
-    "category": "Lexus dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 22:49:43.031637"
-  },
-  {
-    "place_id": "0x3b05c16bb350a40d:0",
-    "name": "German Motors Premium Car Service Center",
-    "address": "",
-    "category": "Auto body shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 22:49:41.868851"
-  },
-  {
-    "place_id": "0x3b05c0a2fc325119:0",
-    "name": "Muthoot FinCorp Gold Loan",
-    "address": "",
-    "category": "Investment service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-20 22:49:40.679639"
   }
 ]
