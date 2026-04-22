@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bbb2ffffffff:0",
+    "name": "Newline Builders",
+    "address": "Newline Builders, Engineers & Contractors",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-22 22:15:45.758509"
+  },
+  {
+    "place_id": "0x3b05c1d5363cbee7:0",
+    "name": "NS INTERLOCKS AND TILES",
+    "address": "NS INTERLOCKS, VATTAVILA, NANNATTUKAVU, Muramel - Mailadummukal Road",
+    "category": "Paving materials supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-22 22:15:44.578903"
+  },
+  {
+    "place_id": "0x3b05befeb7a08c91:0",
+    "name": "Ginger Trivandrum",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-22 22:15:43.384270"
+  },
+  {
+    "place_id": "0x3b05bbb166165f9f:0",
+    "name": "Hyatt Regency Trivandrum",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-22 22:15:42.179058"
+  },
+  {
     "place_id": "0x880e345a9a41db97:0",
     "name": "Andrew A. Barone,LLC",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-21 05:56:48.668552"
-  },
-  {
-    "place_id": "0x3b05fc5079cf5a55:0",
-    "name": "The Escape Room",
-    "address": "opposite Arabi Kada, above ButterCup Shop",
-    "category": "Amusement center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 05:56:47.515531"
-  },
-  {
-    "place_id": "0x3b05bf332a5be1ff:0",
-    "name": "New York Chicken",
-    "address": "NYC Tower, opp. Nippon Toyota",
-    "category": "American restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 05:56:46.394366"
-  },
-  {
-    "place_id": "0x3b05a538ca96207d:0",
-    "name": "John's Massage Center",
-    "address": "White House",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 04:51:35.167391"
-  },
-  {
-    "place_id": "0x3b05bbe2f1c57151:0",
-    "name": "HEALING SWAN",
-    "address": "R K Edifice, SRKH road",
-    "category": "Wellness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 04:51:34.012964"
   }
 ]
