@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05baeb444fd9f9:0",
+    "name": "Parinay Weddings & Events IQ",
+    "address": "Events IQ TC.11/1556(3), Devaswom Board Junction, Nanthancode, Trivandrum",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-23 10:07:36.173824"
+  },
+  {
+    "place_id": "0x3b05a5090d56cbb9:0",
+    "name": "SJ HOSPITAL Kovalam",
+    "address": "near Central Bank",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-23 10:07:35.050623"
+  },
+  {
+    "place_id": "0x3b05bbe37c5dd5cb:0",
+    "name": "Dr.Zulfikar Ahamed",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-23 10:07:33.913273"
+  },
+  {
     "place_id": "0x3b05af18d67c8c29:0",
     "name": "Bharath homoeo clinic",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-21 09:48:05.617680"
-  },
-  {
-    "place_id": "0x3b08731d67018349:0",
-    "name": "Ducati Kochi",
-    "address": "",
-    "category": "Motorcycle shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 09:48:04.409865"
-  },
-  {
-    "place_id": "0x3b05bc749132d455:0",
-    "name": "EVM AUTOKRAFT INDIA EVM TRIVANDRUM SHOWROOM BMW",
-    "address": "",
-    "category": "BMW dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 09:48:03.293542"
-  },
-  {
-    "place_id": "0x880fd2ff54e6ad27:0",
-    "name": "Underwater Safaris",
-    "address": "",
-    "category": "Dive shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 08:07:33.330148"
   }
 ]
