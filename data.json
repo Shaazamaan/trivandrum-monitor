@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05af18d67c8c29:0",
+    "name": "Bharath homoeo clinic",
+    "address": "",
+    "category": "Homeopath",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-23 03:58:15.665457"
+  },
+  {
+    "place_id": "0x3b05ebaaa99c89d3:0",
+    "name": "Doctors Scans & Labs, Chirayinkeezhu",
+    "address": "1st Floor, Swamiji Tower, Taluk Hospital, near Chirayinkeezhu",
+    "category": "Medical diagnostic imaging center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-23 03:58:14.420249"
+  },
+  {
     "place_id": "0x3b05befb907355af:0",
     "name": "Popular Hyundai Service & Sales - Kazhakkoottam",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-21 08:07:33.330148"
-  },
-  {
-    "place_id": "0x3b05c0976eacb387:0",
-    "name": "Remya Industries | Best Fabrication Company in Trivandrum | Metal & Steel Fabrication | Rolling Shutter | Roofing",
-    "address": "Remya",
-    "category": "Metal fabricator",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 08:07:32.194432"
-  },
-  {
-    "place_id": "0x880fd383926aaf09:0",
-    "name": "Top Roof Deck & Pergola",
-    "address": "2049 W Roscoe St",
-    "category": "Carport and pergola builder",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 05:56:50.933516"
   }
 ]
