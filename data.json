@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x4c15b074cf556055:0",
+    "name": "Aspire Holistic Health",
+    "address": "Opens 10 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-23 14:24:36.017396"
+  },
+  {
+    "place_id": "0x3b05af398f741f8f:0",
+    "name": "Kotak Mahindra Bank",
+    "address": "Sivams Building, Ground Floor, Poovar - Neyyatinkara Rd, near Post office",
+    "category": "Bank",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-23 14:24:34.572368"
+  },
+  {
+    "place_id": "0x3b05bbbbea9dffbf:0",
+    "name": "Max Life Insurance Co. Ltd.",
+    "address": "New Contact Number, 4th floor, Malankara Avenue,Near Axis Bank, Pattom",
+    "category": "Insurance company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-23 14:24:33.360058"
+  },
+  {
     "place_id": "0x3b05baeb444fd9f9:0",
     "name": "Parinay Weddings & Events IQ",
     "address": "Events IQ TC.11/1556(3), Devaswom Board Junction, Nanthancode, Trivandrum",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-21 09:48:08.889790"
-  },
-  {
-    "place_id": "0x3b05bb52cc74c267:0",
-    "name": "Prestige Xclusive - Thampanoor, Thiruvananthapuram",
-    "address": "",
-    "category": "Kitchen supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 09:48:07.801089"
-  },
-  {
-    "place_id": "0x3b05bf6e3ddcd9fd:0",
-    "name": "Godrej Interio - Furniture Store in Kazhakoottam, Thiruvananthapuram",
-    "address": "Nazar Tower, opposite Al Uthuman School",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 09:48:06.712705"
-  },
-  {
-    "place_id": "0x3b05bfbf1f24ee7b:0",
-    "name": "Triumph Kazhakkoottam",
-    "address": "HV5G+9CJ, near Technopark",
-    "category": "Motorcycle dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 09:48:05.617680"
   }
 ]
