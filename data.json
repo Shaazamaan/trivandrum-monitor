@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05abbd28d0f9bf:0",
+    "name": "Angel One Ltd. - Sherin Dass",
+    "address": "8/45, Block Office Road, Sherin Das, near South Indian Bank",
+    "category": "Stock broker",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-24 12:51:27.079117"
+  },
+  {
+    "place_id": "0xa8a04d043530bd47:0",
+    "name": "307 Maid",
+    "address": "Opens 8 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-24 12:51:25.876502"
+  },
+  {
+    "place_id": "0x3b05a5f05de4dd29:0",
+    "name": "Angel One Ltd. - Sisupalan S",
+    "address": "Ground Floor, Rudraveena, Chani",
+    "category": "Stock broker",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-24 12:51:24.694900"
+  },
+  {
+    "place_id": "0x3b05bb5b95f1b57b:0",
+    "name": "WATER TECH - Water Tank & Deep Cleaning Services",
+    "address": "RS Complex, 1st Floor, opposite Lic city branch 3",
+    "category": "Water tank cleaning service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-24 12:51:23.477964"
+  },
+  {
     "place_id": "0x4c15b074cf556055:0",
     "name": "Aspire Holistic Health",
     "address": "Opens 10 AM",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-21 14:42:53.907283"
-  },
-  {
-    "place_id": "0x3b05e65cf5080beb:0",
-    "name": "Saramathy Musicals",
-    "address": "",
-    "category": "Musical instrument store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 14:42:52.714311"
-  },
-  {
-    "place_id": "0x3b05bb98ee62fb23:0",
-    "name": "Aanjaneyaa Musicals",
-    "address": "",
-    "category": "Musical instrument store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 14:42:51.522266"
-  },
-  {
-    "place_id": "0x3b05bba698de1b27:0",
-    "name": "Refill centre and printer service centre",
-    "address": "Harisree, Govt.fort hospital, junction, Punnapuram Rd",
-    "category": "Printer repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 14:42:50.259572"
-  },
-  {
-    "place_id": "0x3b05e96f1ff81959:0",
-    "name": "Emiya Motors - Hero MotoCorp",
-    "address": "",
-    "category": "Motorcycle dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 09:48:08.889790"
   }
 ]
