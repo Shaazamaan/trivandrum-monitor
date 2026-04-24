@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05cf6e7ad35cad:0",
+    "name": "Vrindavanam Convention Centre",
+    "address": "",
+    "category": "Convention center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-24 17:24:31.580051"
+  },
+  {
+    "place_id": "0x3b05c971f3ff24d3:0",
+    "name": "BSNL Subdivision vithura",
+    "address": "M39M+GG3",
+    "category": "Corporate office",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-24 17:24:30.385129"
+  },
+  {
+    "place_id": "0x808e3358274bf2e1:0",
+    "name": "Mike's Bikes of San Jose",
+    "address": "",
+    "category": "Bicycle Shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-24 17:24:29.235160"
+  },
+  {
     "place_id": "0x3b05abbd28d0f9bf:0",
     "name": "Angel One Ltd. - Sherin Dass",
     "address": "8/45, Block Office Road, Sherin Das, near South Indian Bank",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-21 15:06:38.599209"
-  },
-  {
-    "place_id": "0x3b05bb117f10a65d:0",
-    "name": "SPOTLESS SKIN & HAIR CLINIC",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 14:42:56.324428"
-  },
-  {
-    "place_id": "0x3b05ba50de32a9dd:0",
-    "name": "Laptop Clinic",
-    "address": "Ground Floor, All India Radio Rd, next to Aswas Diagnostic Center, opp. Thayillam Paints",
-    "category": "Computer service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 14:42:55.117192"
-  },
-  {
-    "place_id": "0x3b05a908e1970695:0",
-    "name": "Qwerty Technologies",
-    "address": "S 67, QWERTY TECHNOLOGIES, JUNCTION, near TOWN MASJID",
-    "category": "Computer service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 14:42:53.907283"
   }
 ]
