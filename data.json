@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3bae1ecd0b7525e7:0",
+    "name": "Lamborghini Bengaluru",
+    "address": "",
+    "category": "Car dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 23:56:29.145968"
+  },
+  {
+    "place_id": "0x43d77e8f2e2ad425:0",
+    "name": "DR. FIXIT | JK WEATHERTIGHT PVT LTD",
+    "address": "",
+    "category": "Waterproofing service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 23:56:27.966000"
+  },
+  {
+    "place_id": "0x3b05ab0d5732efb3:0",
+    "name": "KTDC Motel Aahar Restaurant",
+    "address": "₹1–200",
+    "category": "(795)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 23:56:26.786732"
+  },
+  {
+    "place_id": "0x3b05bfa4dc00b999:0",
+    "name": "Kairali Gypsum Plastering( SAINT-GOBAIN GYPROC ELITE MR GYPSUM PLASTERING)",
+    "address": "Vettu Road",
+    "category": "Plasterer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 23:56:25.592693"
+  },
+  {
     "place_id": "0x3b05c0a2a387cd03:0",
     "name": "Akku Auto Parts",
     "address": "JV9W+Q72",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-22 10:44:26.140186"
-  },
-  {
-    "place_id": "0x3b05a5422a024e03:0",
-    "name": "E C Solutions AC Service Installation Trivandrum",
-    "address": "",
-    "category": "Air conditioning contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 10:44:25.020606"
-  },
-  {
-    "place_id": "0x3b05bd007fc3bc7d:0",
-    "name": "Ss plumbing & sanitary engineering works",
-    "address": "TC 92/2034, ANJU NIVAS, Anayara Rd",
-    "category": "Plumber",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 10:44:23.909305"
-  },
-  {
-    "place_id": "0x89b638e2710b1339:0",
-    "name": "MINI of Sterling",
-    "address": "",
-    "category": "MINI dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 08:01:12.385407"
-  },
-  {
-    "place_id": "0x3b05bb09d95ffd1d:0",
-    "name": "Bismi Books & Stationery",
-    "address": "T.C 39, 61(14, Vrindavan Ln",
-    "category": "Office supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 08:01:11.280032"
   }
 ]
