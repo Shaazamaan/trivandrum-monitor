@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x872b73ad7d0d57df:0",
+    "name": "Roman Tile & Remodeling",
+    "address": "19414 N 87th Dr",
+    "category": "Tile contractor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 19:40:32.657048"
+  },
+  {
+    "place_id": "0x3b05bb389f4c8de3:0",
+    "name": "Magma Cosmetics & Beauty World",
+    "address": "",
+    "category": "Cosmetics store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 19:40:31.403503"
+  },
+  {
+    "place_id": "0x872b0dc35cec3685:0",
+    "name": "Standard Restaurant Supply",
+    "address": "",
+    "category": "Restaurant supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 19:40:30.221110"
+  },
+  {
+    "place_id": "0x3b05c1d6a12018f7:0",
+    "name": "DYYNIT",
+    "address": "MC Road, Kesavadasapuram - Venjaramoodu Rd, near Modern Studio, opposite AK Wedding Centre",
+    "category": "Cosmetics store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 19:40:29.009595"
+  },
+  {
+    "place_id": "0x3b05ef284aaa5a5f:0",
+    "name": "Beauty Collections",
+    "address": "Closes 7:30 AM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 19:40:27.813233"
+  },
+  {
+    "place_id": "0x3b05bb07fea037e9:0",
+    "name": "MAKMID BEAUTY STORE X Ganesh Beauty",
+    "address": "Angalamman Kovil St",
+    "category": "Cosmetics store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 19:40:26.559344"
+  },
+  {
     "place_id": "0x3b05c0a305d9fd11:0",
     "name": "Meluha unisex Salon(Rose Beauty Clinic)",
     "address": "",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-22 08:01:06.814104"
-  },
-  {
-    "place_id": "0x3b05b1b6992e76a7:0",
-    "name": "Muthu Stores - Wholesale Division (Bakery, snacks, Sweets, stationery)",
-    "address": "Muthu sweets & stores opposite to treasury , near Market road , kattakada",
-    "category": "Wholesaler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 08:01:05.710315"
-  },
-  {
-    "place_id": "0x3b05b97894846f5b:0",
-    "name": "Ideal Home Appliances",
-    "address": "",
-    "category": "Appliance store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 05:12:00.607605"
-  },
-  {
-    "place_id": "0x3b05b9aaed0fef79:0",
-    "name": "Herbalife Nutrition Centre",
-    "address": "sithara Near Canara Bank, Peroorkada First Floor ,sithara building",
-    "category": "Nutritionist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 05:11:59.458827"
-  },
-  {
-    "place_id": "0x3b05bba4350ef00b:0",
-    "name": "Trivandrum Drug Allergy Testing Centre",
-    "address": "",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 05:11:58.265345"
-  },
-  {
-    "place_id": "0x3b05bbcc99a953c5:0",
-    "name": "Oxygen Digital Shop - Pattom",
-    "address": "",
-    "category": "Electronics store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 05:11:57.051298"
-  },
-  {
-    "place_id": "0x3b05b9004a6ebd0b:0",
-    "name": "IRIS Allergy Hospital",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 05:11:55.863615"
   }
 ]
