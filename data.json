@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x808e35e498c104c7:0",
+    "name": "Aston Martin Los Gatos",
+    "address": "",
+    "category": "Aston Martin dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 00:06:32.149874"
+  },
+  {
+    "place_id": "0x808e3315164270bb:0",
+    "name": "AT Dental Care San Jose",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 00:06:30.993996"
+  },
+  {
+    "place_id": "0x808fccb1c90e578b:0",
+    "name": "PwC San José",
+    "address": "488 South Almaden Boulevard",
+    "category": "Accounting firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 00:06:29.845751"
+  },
+  {
+    "place_id": "0x3b05baa829341fbb:0",
+    "name": "Asian Accounting Company (AAC)",
+    "address": "F225+3XP",
+    "category": "Auditor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 00:06:28.668174"
+  },
+  {
+    "place_id": "0x3b05c0a2df873127:0",
+    "name": "Modern Smile Care Clinic& Medical Centre",
+    "address": "Brothers Plaza Building, opposite to KSEB Office",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 00:06:27.517258"
+  },
+  {
+    "place_id": "0x3b05c1f1543d8811:0",
+    "name": "Kannattu Fingold Finance Pvt Ltd",
+    "address": "Abitha Building, near Rajakumari Jewellery",
+    "category": "Financial institution",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 00:06:26.360597"
+  },
+  {
     "place_id": "0x3b05bb6c59d3c191:0",
     "name": "Concrete Cutting Service by IBG",
     "address": "P.O, TC 67/602(3), Opp.Q-Mart Super Market",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-21 16:48:36.031698"
-  },
-  {
-    "place_id": "0x3b05bb73a75ec2ab:0",
-    "name": "ARYA NAVEEN / Physiotherapist /Thiruvananthapuram/ Remambika Pain Clinic and Physiotherapy Centre",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 16:48:34.869145"
-  },
-  {
-    "place_id": "0x3b05bb859ef4833f:0",
-    "name": "Pothys Lifestyle Trivandrum",
-    "address": "5th Floor, Nikunjam City Square, No. 28/2477/3, Mahatma Gandhi Rd, near ayurveda college",
-    "category": "Department store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 16:48:33.703491"
-  },
-  {
-    "place_id": "0x87ee993bc1b1ac9f:0",
-    "name": "Midwest Furniture Mart",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 15:06:45.651252"
-  },
-  {
-    "place_id": "0x87ee99bc61e32b23:0",
-    "name": "Wooly's",
-    "address": "",
-    "category": "Live Music",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 15:06:44.477255"
-  },
-  {
-    "place_id": "0x87ee990a219cc381:0",
-    "name": "MercyOne Ruan Neurology Care",
-    "address": "",
-    "category": "Neurologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 15:06:43.313474"
-  },
-  {
-    "place_id": "0x3b05c96d004969ab:0",
-    "name": "Avittom Furnitures, Vithura",
-    "address": "M39M+246",
-    "category": "Home goods store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 15:06:42.172162"
   }
 ]
