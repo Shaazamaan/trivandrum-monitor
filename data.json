@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05c0a2a387cd03:0",
+    "name": "Akku Auto Parts",
+    "address": "JV9W+Q72",
+    "category": "Auto parts store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 21:28:28.653346"
+  },
+  {
+    "place_id": "0x3b05950030f9146b:0",
+    "name": "Multispares",
+    "address": "J S Nivas",
+    "category": "Auto parts store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 21:28:27.525265"
+  },
+  {
+    "place_id": "0x3b05bf00650f22cb:0",
+    "name": "Vedhavillage Spa - Trivandrum",
+    "address": "opposite Infosys",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 21:28:26.369612"
+  },
+  {
+    "place_id": "0x3b05bbddef06fa07:0",
+    "name": "Govind Auto Spares",
+    "address": "",
+    "category": "Auto parts store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 21:28:25.205702"
+  },
+  {
     "place_id": "0x872b73ad7d0d57df:0",
     "name": "Roman Tile & Remodeling",
     "address": "19414 N 87th Dr",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-22 08:01:11.280032"
-  },
-  {
-    "place_id": "0x89b7b986bf6fcddd:0",
-    "name": "Empower Infrastructure LLC",
-    "address": "",
-    "category": "Engineering consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 08:01:10.168688"
-  },
-  {
-    "place_id": "0x3b05c37ff0cd3619:0",
-    "name": "Mahindra Sleeba And Sons Automotive Pvt. Ltd. - SUV & Commercial Vehicle Showroom",
-    "address": "Azeeziya Building",
-    "category": "Car dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 08:01:09.054229"
-  },
-  {
-    "place_id": "0x3b05c3258588e89f:0",
-    "name": "Anjali Books",
-    "address": "QVCJ+338, SH 46",
-    "category": "Book store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 08:01:07.924973"
-  },
-  {
-    "place_id": "0x3b05b3d5a743ea33:0",
-    "name": "TRIOOMART - ട്രയോമാർട്ട്",
-    "address": "Krishi Bhavan, Near, Vazhichal Road",
-    "category": "Indian grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 08:01:06.814104"
   }
 ]
