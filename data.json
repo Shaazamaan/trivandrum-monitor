@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05e901e3f47d59:0",
+    "name": "Legal services",
+    "address": "police station, near Attingal",
+    "category": "Law firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 08:18:11.053807"
+  },
+  {
+    "place_id": "0x3b05bb2121fe994b:0",
+    "name": "Alhind MEA Attestation/Apostille Services Trivandrum",
+    "address": "1st Floor, Sitara Tower, opp. Deshabimani Daily",
+    "category": "Certification agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-25 08:18:09.878531"
+  },
+  {
     "place_id": "0x880fcb926422d3df:0",
     "name": "Express Apostille & Notary Services",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-21 18:04:51.388473"
-  },
-  {
-    "place_id": "0x3b05bbc47a1a7a63:0",
-    "name": "TVS - Logtech Motors",
-    "address": "Tc 12/67, PMG Rd, opposite Lourdes Church",
-    "category": "Motorcycle dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 18:04:50.164880"
-  },
-  {
-    "place_id": "0x3ba8f78c932c94e1:0",
-    "name": "ARM PET CLINIC",
-    "address": "opp. Oushadi pharmacy",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-21 18:04:48.973462"
   }
 ]
