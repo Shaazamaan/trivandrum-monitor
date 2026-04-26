@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05a99f522e596b:0",
+    "name": "Isola Di Cocco",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-26 17:31:56.562956"
+  },
+  {
+    "place_id": "0x880e6152531e6867:0",
+    "name": "Joliet Boat Store",
+    "address": "",
+    "category": "Marine supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-26 17:31:55.437407"
+  },
+  {
+    "place_id": "0x3b05affd9e17cae1:0",
+    "name": "Log-on Energy Systems",
+    "address": "TC 49/2727, near Nemom Police Station",
+    "category": "Solar energy equipment supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-26 17:31:54.266397"
+  },
+  {
+    "place_id": "0x3b05a9757abcc695:0",
+    "name": "Over The Hill",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-26 17:31:53.117707"
+  },
+  {
+    "place_id": "0x3b05bb64559b9fdb:0",
+    "name": "ANAND SOLAR - TATA POWER SOLAR",
+    "address": "+91 99950 80514",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-26 17:31:51.957660"
+  },
+  {
+    "place_id": "0x3b05a5bb1100f2b7:0",
+    "name": "The Leela Kovalam, a Raviz Hotel",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-26 17:31:50.811201"
+  },
+  {
     "place_id": "0x87ec21df1232f4e5:0",
     "name": "Watch ProShop",
     "address": "",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-22 16:06:28.365608"
-  },
-  {
-    "place_id": "0x3b05c33167101da1:0",
-    "name": "Royal Technologies",
-    "address": "Chenikkuzhy, Police Station",
-    "category": "Computer accessories store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 16:06:27.242746"
-  },
-  {
-    "place_id": "0x3b05c326ec6ce499:0",
-    "name": "Devi Dental Clinic",
-    "address": "Devi Dental Clinic, Market Road, opp. Suchitra Medical Center",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 16:06:26.122284"
-  },
-  {
-    "place_id": "0x3b05b982796ae525:0",
-    "name": "CGHS Keshavadasapuram",
-    "address": "3/120, Kesavadasapuram - Venjaramoodu Rd",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 16:06:24.999972"
-  },
-  {
-    "place_id": "0x3b05bb61be6a58ef:0",
-    "name": "Government Primary Health Centre",
-    "address": "FXW3+966, Oottukuzhy - Panavila Rd",
-    "category": "Community health center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 16:06:23.801896"
-  },
-  {
-    "place_id": "0x3b05b14e6ce8d10d:0",
-    "name": "Ushar Friendly Syndicate",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 15:45:29.774983"
-  },
-  {
-    "place_id": "0x3b05b13544f17deb:0",
-    "name": "A K Electricals kattakada",
-    "address": "G35M+3QF, Kattakada, opposite cristian college",
-    "category": "Electric motor store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 15:45:28.604132"
   }
 ]
