@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05e865de8a34f5:0",
+    "name": "Supplyco Super Market | Kallambalam",
+    "address": "Varkala Kallambalam Rd, near Fishmarket",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-26 09:18:47.370095"
+  },
+  {
+    "place_id": "0x3b05e98a34523bf7:0",
+    "name": "Dreamland Fancy & Footwear",
+    "address": "Opp SBI, Arafa Complex, Main Road, NH 66 Jn",
+    "category": "Shoe store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-26 09:18:46.219116"
+  },
+  {
+    "place_id": "0x3b05e8614d97ab9b:0",
+    "name": "AMADEUS TRADERS",
+    "address": "Varkala Kallambalam Rd",
+    "category": "Hardware store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-26 09:18:44.987033"
+  },
+  {
+    "place_id": "0x3b05ae89aa5c9095:0",
+    "name": "Shoe Bazar",
+    "address": "93XQ+G52",
+    "category": "Shoe store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-26 09:18:43.819813"
+  },
+  {
+    "place_id": "0x3b05affbedbdf92d:0",
+    "name": "Maa bhavani hardware",
+    "address": "93XQ+X5J, Trivandrum - Nagercoil Hwy",
+    "category": "Hardware store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-26 09:18:42.515702"
+  },
+  {
+    "place_id": "0x3b05c148e228d63d:0",
+    "name": "Sopanam Footwear",
+    "address": "",
+    "category": "Shoe store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-26 09:18:41.332714"
+  },
+  {
+    "place_id": "0x3b05cff07f25bbf3:0",
+    "name": "Jizan Hardware",
+    "address": "Building, 2998/2-4-4 Jizan, Vithura - Peringammala Road",
+    "category": "Hardware store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-26 09:18:40.169196"
+  },
+  {
+    "place_id": "0x3b05bb07fe20c413:0",
+    "name": "Senthil Kumaran Hardware",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-26 09:18:38.866154"
+  },
+  {
     "place_id": "0x3bae1ecd0b7525e7:0",
     "name": "Lamborghini Bengaluru",
     "address": "",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-22 15:08:17.484233"
-  },
-  {
-    "place_id": "0x880fb5d360164141:0",
-    "name": "MEN'S ELEGANT SUITS",
-    "address": "",
-    "category": "Tuxedo shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 15:08:16.360180"
-  },
-  {
-    "place_id": "0x880e2cc0978a6995:0",
-    "name": "Trading Technologies International, Inc",
-    "address": "",
-    "category": "Software company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 15:08:15.237342"
-  },
-  {
-    "place_id": "0x880e2b57ffedefdd:0",
-    "name": "MingHin Cuisine - Lakeshore East",
-    "address": "$20–30",
-    "category": "(1,479)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 15:08:14.107699"
-  },
-  {
-    "place_id": "0x3a27af07166a393d:0",
-    "name": "Mirae Asset Sharekhan",
-    "address": "2nd Floor, Koshys Building, TC 29, 4013/3, Oottukuzhy - Panavila Rd, near Bakery Flyover",
-    "category": "Stock broker",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 15:08:12.879936"
-  },
-  {
-    "place_id": "0x3b05b99da0303a93:0",
-    "name": "Kerala Law Academy",
-    "address": "",
-    "category": "Law school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 13:15:47.568032"
-  },
-  {
-    "place_id": "0x3b05b983190a31ef:0",
-    "name": "Dr Gopinath's Diagnostic Services",
-    "address": "",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 13:15:46.417447"
-  },
-  {
-    "place_id": "0x3b05effd780d10d7:0",
-    "name": "cool and care refrigerators and air-condition( A/C )work",
-    "address": "P.O, Punnamoodu - near market punnamoodu to beach road Varkala",
-    "category": "Air conditioning repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 10:44:27.272617"
-  },
-  {
-    "place_id": "0x3b05ebcf95754b91:0",
-    "name": "THERMO TECH COOLING SOLUTIONS",
-    "address": "MQH9+JRF, Alamcode Kadakkavoor Anchuthengu Road",
-    "category": "Air conditioning repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 10:44:26.140186"
   }
 ]
