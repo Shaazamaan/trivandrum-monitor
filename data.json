@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bb068167f3fd:0",
+    "name": "CRG WEALTH",
+    "address": "TC 82/6104, Nirmalyam, Chettikulangara Rd, behind Krishi Mithra Shop",
+    "category": "Financial planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-27 04:03:12.019978"
+  },
+  {
+    "place_id": "0x808fb54449bf383d:0",
+    "name": "BH Construction & Development",
+    "address": "1392 Bremerton Drive",
+    "category": "General contractor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-27 04:03:10.878419"
+  },
+  {
+    "place_id": "0x864e715d4a29b70d:0",
+    "name": "Strittmatter Wealth Management Group, LLC",
+    "address": "",
+    "category": "Financial advisor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-27 04:03:09.729659"
+  },
+  {
+    "place_id": "0x808f8f6984e0588f:0",
+    "name": "Landers Drywall",
+    "address": "6050 Lowell St Suite 122",
+    "category": "Dry wall contractor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-27 04:03:08.565114"
+  },
+  {
     "place_id": "0x3b05a99f522e596b:0",
     "name": "Isola Di Cocco",
     "address": "Trivandrum",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-22 16:51:22.427017"
-  },
-  {
-    "place_id": "0x3b05bf075ce00c9d:0",
-    "name": "Primary Health Centre",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 16:06:31.728549"
-  },
-  {
-    "place_id": "0x3b05bc01e7f0c769:0",
-    "name": "Cokonet Academy",
-    "address": "",
-    "category": "Software company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 16:06:30.589306"
-  },
-  {
-    "place_id": "0x3b05b90dd3f3522f:0",
-    "name": "DR AKHIL'S SMILE CONCEPTS DENTAL CARE & IMPLANT CENTRE",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 16:06:29.488312"
-  },
-  {
-    "place_id": "0x3b05c2c20b833593:0",
-    "name": "Community Health Centre, Kesavapuram",
-    "address": "",
-    "category": "Government hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 16:06:28.365608"
   }
 ]
