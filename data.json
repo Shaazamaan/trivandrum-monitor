@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05c96df597b249:0",
+    "name": "Anju Medicals, Vithura",
+    "address": "M3CM+2J9, SH45",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-27 09:15:50.576187"
+  },
+  {
+    "place_id": "0x3b05bec901a90d4d:0",
+    "name": "Energy Management Centre",
+    "address": "",
+    "category": "Government office",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-27 09:15:49.377379"
+  },
+  {
+    "place_id": "0x3b05b93a7f8ebb63:0",
+    "name": "OAM YOGA STUDIO AND OKINAWAN ACADEMY OF MARTIAL ARTS INTERNATIONAL",
+    "address": "GuruKripa, Near Sabari Bankers, Edavacode, P.O, Jn",
+    "category": "Martial arts club",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-27 09:15:48.233003"
+  },
+  {
+    "place_id": "0x3b05b18afc215efd:0",
+    "name": "Tiger Kan Karate Centre",
+    "address": "G35J+WCP Tiger Kan Karate Centre, Kattakode Road, near Rijas Galleria",
+    "category": "Karate school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-27 09:15:47.048506"
+  },
+  {
+    "place_id": "0x3b05b1ab9734058b:0",
+    "name": "Apollo Pharmacy Kattakkada",
+    "address": "Ground Floor, 17/326, Thiruvananthapuram - Neyyar Dam Rd, opp. KSRTC Shopping Complex",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-27 09:15:45.879626"
+  },
+  {
     "place_id": "0x3b05bb068167f3fd:0",
     "name": "CRG WEALTH",
     "address": "TC 82/6104, Nirmalyam, Chettikulangara Rd, behind Krishi Mithra Shop",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-22 17:41:16.435770"
-  },
-  {
-    "place_id": "0x3b0798e01ecacd59:0",
-    "name": "The Tall Trees Resorts",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 16:51:27.018111"
-  },
-  {
-    "place_id": "0x3b05bbcff83c4d59:0",
-    "name": "Spring Fruits and Vegetables",
-    "address": "",
-    "category": "Produce market",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 16:51:25.888871"
-  },
-  {
-    "place_id": "0x3b05b99d34834bed:0",
-    "name": "Valiyakadayil Resturant",
-    "address": "₹200–400",
-    "category": "(1,269)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 16:51:24.730302"
-  },
-  {
-    "place_id": "0x3b05b99d3102a443:0",
-    "name": "Peroorkada",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 16:51:23.591655"
-  },
-  {
-    "place_id": "0x3b06551bd264e5cd:0",
-    "name": "WGH Poetree Thekkady",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 16:51:22.427017"
   }
 ]
