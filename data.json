@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05c570ef94beff:0",
+    "name": "Khan Gift Park",
+    "address": "QX87+H9W, Pangode - Pazhavila Rd",
+    "category": "Gift shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-27 17:07:33.598958"
+  },
+  {
+    "place_id": "0x3b05c1d421e526d3:0",
+    "name": "Strawberry Fancy Store",
+    "address": "No.PP/9/110, 2), Pothecode",
+    "category": "Gift shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-27 17:07:32.417406"
+  },
+  {
+    "place_id": "0x3b05e9f794ce26a3:0",
+    "name": "Bombay Fancy",
+    "address": "",
+    "category": "Gift shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-27 17:07:31.241757"
+  },
+  {
     "place_id": "0x3b05c96df597b249:0",
     "name": "Anju Medicals, Vithura",
     "address": "M3CM+2J9, SH45",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-22 17:41:19.895777"
-  },
-  {
-    "place_id": "0x3b05b9663fa8ca7f:0",
-    "name": "Signature Engineering Solutions",
-    "address": "CPN 29, CP Nagar Rd",
-    "category": "Structural engineer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 17:41:18.737825"
-  },
-  {
-    "place_id": "0x3b080d29c5f99a15:0",
-    "name": "Land Rover Muthoot Motors",
-    "address": "",
-    "category": "Land Rover dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 17:41:17.590855"
-  },
-  {
-    "place_id": "0x3b05b91fd2ceeee5:0",
-    "name": "A M Autoglass House",
-    "address": "on, Periyamcode, SH 1",
-    "category": "Glass & mirror shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 17:41:16.435770"
   }
 ]
