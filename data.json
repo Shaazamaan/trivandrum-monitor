@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x83a9db61dff13d21:0",
+    "name": "Straightline Building Design & Constructions",
+    "address": "Opens 9:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-28 23:22:19.534237"
+  },
+  {
+    "place_id": "0x3b05e97fb9987c43:0",
+    "name": "Hangover Signature Salon",
+    "address": "Varkala Kallambalam Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-28 23:22:18.383999"
+  },
+  {
+    "place_id": "0x3b05bff97921356d:0",
+    "name": "Dasco Builders",
+    "address": "First floor, Dasco Royal square, Kottaram Rd",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-28 23:22:17.199061"
+  },
+  {
     "place_id": "0x3b05a95e78284ea9:0",
     "name": "Boys mens wear",
     "address": "839C+G7C",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-22 20:45:23.215642"
-  },
-  {
-    "place_id": "0xa8861cce2c8c43d3:0",
-    "name": "Ruby Sofa Cleaning",
-    "address": "+91 88917 37797",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 20:45:22.017626"
-  },
-  {
-    "place_id": "0x876f3b240cee2b41:0",
-    "name": "Pioneer Property Maintenance",
-    "address": "2116 E 9th St",
-    "category": "Property maintenance",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 20:45:20.784396"
-  },
-  {
-    "place_id": "0x3b05b81a8bcfb02f:0",
-    "name": "Nedumangad",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 19:42:03.392903"
   }
 ]
