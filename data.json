@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05be467230f3bb:0",
+    "name": "Fathima Hospital and Palliative Care Center",
+    "address": "",
+    "category": "General hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-28 04:17:39.283034"
+  },
+  {
+    "place_id": "0x3b05bb16f7e0293f:0",
+    "name": "Garden Centre",
+    "address": "",
+    "category": "Garden",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-28 04:17:38.114395"
+  },
+  {
+    "place_id": "0x880e21dc10a170e3:0",
+    "name": "Shiloh Hospice and Palliative Care, LLC",
+    "address": "",
+    "category": "Hospice",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-28 04:17:36.984701"
+  },
+  {
     "place_id": "0x3b05c570ef94beff:0",
     "name": "Khan Gift Park",
     "address": "QX87+H9W, Pangode - Pazhavila Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-22 18:05:57.649372"
-  },
-  {
-    "place_id": "0x3b05bffaf8807b15:0",
-    "name": "GEONYMS INDIA PRIVATE LIMITED",
-    "address": "",
-    "category": "Soil testing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 18:05:56.524328"
-  },
-  {
-    "place_id": "0x3b05bb9d50154bb9:0",
-    "name": "Ellis Infra LLp Structural & Building Consultancy",
-    "address": "CSS HALL LINE",
-    "category": "Structural engineer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 17:41:21.037550"
-  },
-  {
-    "place_id": "0x808fca821ed91ccd:0",
-    "name": "Land Rover San Jose",
-    "address": "",
-    "category": "Land Rover dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-22 17:41:19.895777"
   }
 ]
