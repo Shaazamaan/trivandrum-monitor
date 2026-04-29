@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b0595536b6c180d:0",
+    "name": "Lake Palace Hotel",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-29 17:17:54.313127"
+  },
+  {
     "place_id": "0xa0e356667e32f947:0",
     "name": "Propertycan",
     "address": "PP 12/216(2",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-23 15:39:28.352184"
-  },
-  {
-    "place_id": "0x3b05e9f831b42a51:0",
-    "name": "Drona®",
-    "address": "",
-    "category": "Advertising agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-23 15:39:27.186768"
   }
 ]
