@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05a5a58fcf5573:0",
+    "name": "Charge+ Charging Station",
+    "address": "Jama, Masjid Rd",
+    "category": "Electric vehicle charging station",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-30 16:05:21.519715"
+  },
+  {
+    "place_id": "0x3b05a596de6b5ec7:0",
+    "name": "B.R Auditorium",
+    "address": "TC 62/1455 Vizhinjam Rd, Junction",
+    "category": "Auditorium",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-30 16:05:20.310599"
+  },
+  {
+    "place_id": "0x3b05c10068da6b53:0",
+    "name": "Ather Grid Charging Station",
+    "address": "JVCR+GFP, Remya",
+    "category": "Electric vehicle charging station",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-30 16:05:19.106612"
+  },
+  {
+    "place_id": "0x3b05b80f96d03d91:0",
+    "name": "Goec Charging Station",
+    "address": "JX3X+H5H 11th Stone, near ASN Granite",
+    "category": "Electric vehicle charging station",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-30 16:05:17.968387"
+  },
+  {
+    "place_id": "0x3b05c7f7a26f0121:0",
+    "name": "Sree Vidya Auditorium",
+    "address": "",
+    "category": "Auditorium",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-04-30 16:05:16.826675"
+  },
+  {
     "place_id": "0x88f8a5b56fc48a6d:0",
     "name": "Law Office of Nicholas G. Callas, P.A.",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-23 19:43:20.693392"
-  },
-  {
-    "place_id": "0x3b05bbd5c000001b:0",
-    "name": "Windsor Rajadhani",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-23 18:39:27.982383"
-  },
-  {
-    "place_id": "0x3b05bb8fd7815f0f:0",
-    "name": "Concrete cutting & Core Cutting Works",
-    "address": "Opens 6 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-23 18:39:26.823760"
-  },
-  {
-    "place_id": "0x3b05bc7dc95f2671:0",
-    "name": "UDAY SUITES - THE AIRPORT HOTEL",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-23 18:39:25.652480"
-  },
-  {
-    "place_id": "0x808fe0bd811c69d5:0",
-    "name": "American Paintball Park",
-    "address": "",
-    "category": "Paintball center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-23 18:39:24.506704"
-  },
-  {
-    "place_id": "0x3b05ae89a99767d5:0",
-    "name": "VOLTAZ Electronics and LED Planet",
-    "address": "TB Junction-Hospital Jct Rd, behind EVM Honda",
-    "category": "Electronics store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-23 18:39:23.363582"
   }
 ]
