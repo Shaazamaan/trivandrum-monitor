@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x808fc9809a793b9f:0",
+    "name": "The Hot Tub WhereHouse",
+    "address": "",
+    "category": "Hot tub store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-01 14:05:30.283187"
+  },
+  {
+    "place_id": "0x3b05bb0c278295a3:0",
+    "name": "Sun Aquarium",
+    "address": "",
+    "category": "Aquarium shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-01 14:05:29.123598"
+  },
+  {
+    "place_id": "0x3b05bb58a76b7d1b:0",
+    "name": "RheumaCARE Thiruvananthapuram",
+    "address": "",
+    "category": "Rheumatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-01 14:05:27.953342"
+  },
+  {
+    "place_id": "0x808e350c94199efb:0",
+    "name": "Sangeetha Balasubramanian, MD",
+    "address": "",
+    "category": "Rheumatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-01 14:05:26.791741"
+  },
+  {
+    "place_id": "0x3b05a5984a537c39:0",
+    "name": "Sagarika Marine Research Aquarium",
+    "address": "",
+    "category": "Aquarium",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-01 14:05:25.635896"
+  },
+  {
     "place_id": "0x3b05b9b35c058e57:0",
     "name": "Brothers Agencies",
     "address": "near moonamoodu",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-23 20:31:09.447661"
-  },
-  {
-    "place_id": "0x3b05bb22cb8d8385:0",
-    "name": "Times Kerala",
-    "address": "Kesavadasapuram-Ulloor Rd",
-    "category": "Media company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-23 20:31:08.301231"
-  },
-  {
-    "place_id": "0x3b05b95e5b815c83:0",
-    "name": "Muthoot FinCorp Gold Loan",
-    "address": "",
-    "category": "Loan agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-23 20:31:07.136252"
-  },
-  {
-    "place_id": "0x3b05a908e9dcbacb:0",
-    "name": "Gayathri Hospital",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-23 20:31:05.958116"
-  },
-  {
-    "place_id": "0x3b05a90f56f5409b:0",
-    "name": "Media Cable Vision",
-    "address": "83C9+77C, Kanjiramkulam - Poovar Rd",
-    "category": "Cable company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-23 20:31:04.752591"
-  },
-  {
-    "place_id": "0x3b05a9871ef7a71b:0",
-    "name": "Manappuram Finance Limited – Gold Loan",
-    "address": "",
-    "category": "Mortgage broker",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-23 20:31:03.558116"
   }
 ]
