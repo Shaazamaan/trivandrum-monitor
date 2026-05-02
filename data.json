@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x89b7b7b76c78244f:0",
+    "name": "Robert Half Executive Search",
+    "address": "",
+    "category": "Executive search firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-02 09:44:23.735329"
+  },
+  {
+    "place_id": "0x89b7b7846bfd7bc1:0",
+    "name": "Sungold Kitchen (previously Victoria Cortes Personal Chef Service)",
+    "address": "918 S Lincoln St #2",
+    "category": "Delivery Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-02 09:44:22.650468"
+  },
+  {
+    "place_id": "0x3b05afa680968185:0",
+    "name": "Dizpos",
+    "address": "Closes 8 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-02 09:44:21.515453"
+  },
+  {
+    "place_id": "0x3b05a95aabe2b9f9:0",
+    "name": "Angel Mariya Jobs",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-02 09:44:20.414967"
+  },
+  {
+    "place_id": "0x3b05ad34d71ea647:0",
+    "name": "Patharamattu Event Management & Catering",
+    "address": "VATTAVILA CHENKAL, near PATHARAMATTU EVENT MANAGEMENT CATERING",
+    "category": "Event management company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-02 09:44:19.320910"
+  },
+  {
     "place_id": "0x3b05a5d50a95043f:0",
     "name": "APNA PUNJABI DHABA 100% PURE VEGETARIAN JAIN FOOD FAMILY RESTAURANT KOVALAM",
     "address": "₹200–400",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-24 06:25:17.315712"
-  },
-  {
-    "place_id": "0x3b05b1f5897379af:0",
-    "name": "Maxvalue Credits and Investment",
-    "address": "1st Floor, Sreerama Complex, Indian Bank",
-    "category": "Financial institution",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-24 06:25:16.171365"
-  },
-  {
-    "place_id": "0x3b05b17b500160df:0",
-    "name": "New Tyre World | Tyre Sale | Tyre Changing | 3D wheel alignment | Expert Tyre Solutions in Trivandrum",
-    "address": "",
-    "category": "Tire shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-24 06:25:15.028972"
-  },
-  {
-    "place_id": "0x3b05bf52c95a1b65:0",
-    "name": "All Wheel Drive - Tyres & Garage Experts.Dealer for Continental Michelin Yokohama Goodyear Tyres.3D Wheel Alignment",
-    "address": "",
-    "category": "Wheel store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-24 06:25:13.874949"
-  },
-  {
-    "place_id": "0x3b05ae614b0884ed:0",
-    "name": "𝗔𝗷𝗮𝘆 𝗣𝗼𝗹𝗶𝗰𝗲 𝗚𝗲𝗻𝗲𝗿𝗮𝗹 𝗦𝘁𝗼𝗿𝗲 𝗙𝗼𝗼𝘁𝘄𝗲𝗮𝗿 & 𝗦𝗽𝗼𝗿𝘁𝘀",
-    "address": "",
-    "category": "General store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-24 03:24:54.640850"
-  },
-  {
-    "place_id": "0x3b05af007f5243d3:0",
-    "name": "Dr Lawrence Healthcare & Diagnostic centre",
-    "address": "",
-    "category": "Medical diagnostic imaging center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-24 03:24:53.478827"
   }
 ]
