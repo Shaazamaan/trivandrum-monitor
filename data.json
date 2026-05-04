@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x880e2d406985dba7:0",
+    "name": "XL.net - Chicago Managed IT Services Company",
+    "address": "",
+    "category": "Computer security service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-04 05:03:13.494879"
+  },
+  {
+    "place_id": "0x880fd3535e25ef59:0",
+    "name": "Gold Coast Orthodontics",
+    "address": "",
+    "category": "Orthodontist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-04 05:03:12.360725"
+  },
+  {
+    "place_id": "0x880fb4790c0a1dad:0",
+    "name": "Factory Plaza, Inc",
+    "address": "429 South Evergreen Avenue",
+    "category": "Kitchen remodeler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-04 05:03:10.618450"
+  },
+  {
+    "place_id": "0x3b05b980dd277167:0",
+    "name": "SANS TECH",
+    "address": "P.O, Lekshmi Nivas KKS-160,Geethanjali lane",
+    "category": "Security system supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-04 05:03:09.508213"
+  },
+  {
+    "place_id": "0x3b05bb1db3be154d:0",
+    "name": "Smart Security Systems And Networking",
+    "address": "TC/28, 730-2",
+    "category": "Computer support and services",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-04 05:03:08.355637"
+  },
+  {
+    "place_id": "0x3b05bbca54175037:0",
+    "name": "Dr Roshna's Smile & Glow Multispeciality Dental Clinic",
+    "address": "Central Press Junction, Press Rd, behind Secretariate",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-04 05:03:07.122781"
+  },
+  {
+    "place_id": "0x3b05e99ff66610cf:0",
+    "name": "Cyber Tec IT Solutions",
+    "address": "near Jubilee missions hospital",
+    "category": "Computer security service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-04 05:03:06.004038"
+  },
+  {
+    "place_id": "0x3b05bbbd75dc3271:0",
+    "name": "iSmile Dental Care",
+    "address": "",
+    "category": "Orthodontist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-04 05:03:04.868501"
+  },
+  {
     "place_id": "0x3b05afd0d20389c9:0",
     "name": "Sri Sabaries Super Market",
     "address": "Alumoodu junction, Salem-Kanyakumari Highway",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-25 07:41:46.689538"
-  },
-  {
-    "place_id": "0x3b05c97ee1f88849:0",
-    "name": "GameX Aquatic Centre(Nedumangad Municipality International swimmingpool),Pulippara,Nedumangad",
-    "address": "",
-    "category": "Swimming pool",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-25 07:41:45.522758"
-  },
-  {
-    "place_id": "0x3b05b96b6946c8e9:0",
-    "name": "Eza Tattoo Studio",
-    "address": "Eza tattoo studio pazhakutty nedumangad",
-    "category": "Tattoo shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-25 07:41:44.337213"
-  },
-  {
-    "place_id": "0x3b05c397f0c19dd7:0",
-    "name": "Laliga Sports, Kilimanoor",
-    "address": "SH 46",
-    "category": "Sporting goods store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-25 07:41:43.157133"
-  },
-  {
-    "place_id": "0x3b05c33ac35aaaab:0",
-    "name": "The Hillway Heritage",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-25 07:41:41.942588"
-  },
-  {
-    "place_id": "0x3b05c31d862e310b:0",
-    "name": "DMH Unisex Beauty Salon and Makeup Studio",
-    "address": "",
-    "category": "Tattoo shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-25 07:41:40.714922"
-  },
-  {
-    "place_id": "0x3b05bbbb136b1871:0",
-    "name": "Sports Land",
-    "address": "",
-    "category": "Sporting goods store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-25 07:41:39.515349"
-  },
-  {
-    "place_id": "0x3b05a505c5c58815:0",
-    "name": "Taj Green Cove Resort & Spa, Kovalam",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-25 07:41:38.325676"
-  },
-  {
-    "place_id": "0x872b13ddb129f073:0",
-    "name": "ONYX Ice Cream",
-    "address": "",
-    "category": "Ice Cream",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-24 21:57:55.216290"
   }
 ]
