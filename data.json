@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x89b65c7ca427a25f:0",
+    "name": "Standard Paving Inc.",
+    "address": "8803 Sudley Rd STE 206",
+    "category": "Asphalt contractor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-05 18:04:59.665296"
+  },
+  {
+    "place_id": "0x3b05e99e2be5a6c7:0",
+    "name": "Kia Car Showroom - Automotive Kia, Alamcode",
+    "address": "",
+    "category": "Kia dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-05 18:04:58.515745"
+  },
+  {
+    "place_id": "0x3b05bb50a452d171:0",
+    "name": "The Write People",
+    "address": "The Write People, 77",
+    "category": "Consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-05 18:04:57.394298"
+  },
+  {
     "place_id": "0x3b05af2a73dc507b:0",
     "name": "TOOL ZONE Power Tools SALES & SERVICE",
     "address": "Closes 8 PM",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-26 09:15:32.207641"
-  },
-  {
-    "place_id": "0x3b05bb3469a5f487:0",
-    "name": "MAS Lathe Works",
-    "address": "FXX3+R38",
-    "category": "Machine shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-26 09:15:31.030567"
-  },
-  {
-    "place_id": "0x3b05c131a3ea8935:0",
-    "name": "SFC VENJARAMOODU",
-    "address": "Closes 11 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-26 09:15:29.875849"
-  },
-  {
-    "place_id": "0x3b05c17b544a3ec1:0",
-    "name": "VK ROOFING MATERIALS AND HARDWARES",
-    "address": "SH 1",
-    "category": "Roofing supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-26 09:15:28.688885"
   }
 ]
