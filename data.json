@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05c1456ed0a573:0",
+    "name": "Manna Home Nursing",
+    "address": "JW82+JPH, Pothencode - Powdikonam Rd",
+    "category": "Employment agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-08 19:57:33.458758"
+  },
+  {
+    "place_id": "0x3b05c90013112a67:0",
+    "name": "Salkara Restaurant",
+    "address": "",
+    "category": "Indian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-08 19:57:32.361216"
+  },
+  {
+    "place_id": "0x3b05b974335e3b65:0",
+    "name": "CoCo Tech",
+    "address": "Opens 7 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-08 19:57:31.289281"
+  },
+  {
     "place_id": "0x3b05b90043153703:0",
     "name": "Robi associates",
     "address": "GWJQ+G3V, Devaswom Ln",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-28 15:46:42.549703"
-  },
-  {
-    "place_id": "0x3b05e94d60c65651:0",
-    "name": "Attingal paints",
-    "address": "Chirayinkeezhu Rd",
-    "category": "Paint store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-28 09:08:26.569633"
-  },
-  {
-    "place_id": "0x3b05e92525edfbb3:0",
-    "name": "berrys travels attingal",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-28 09:08:25.403044"
-  },
-  {
-    "place_id": "0x3b05bbe7832af7a3:0",
-    "name": "Bright house paiting services Trivandrum",
-    "address": "paiting and waterproofing, Bright house, Kukkiliya Ln",
-    "category": "Painting",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-28 09:08:24.210391"
   }
 ]
