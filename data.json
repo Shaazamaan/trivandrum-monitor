@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05afeebc33ebd9:0",
+    "name": "LOGIN IT TECH",
+    "address": "Market Complex, near SBI",
+    "category": "Security service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-09 06:38:30.540178"
+  },
+  {
     "place_id": "0x3b05c1456ed0a573:0",
     "name": "Manna Home Nursing",
     "address": "JW82+JPH, Pothencode - Powdikonam Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-28 15:46:43.679985"
-  },
-  {
-    "place_id": "0x3b05bbb74a7a34fd:0",
-    "name": "NewU",
-    "address": "GF24, Ground, Mall of Travancore, near Thiruvananthapuram Bypass",
-    "category": "Cosmetics store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-28 15:46:42.549703"
   }
 ]
