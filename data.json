@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb4f7ce65be3:0",
+    "name": "Lion Gym Manacaud",
+    "address": "Toll junction, Manacaud",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-09 20:34:10.657599"
+  },
+  {
     "place_id": "0x3b05c10061528a13:0",
     "name": "Santhigiri Ayurveda And Siddha Vaidyasala Manufacturing Unit",
     "address": "JWG3+PCV",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-28 19:46:02.188024"
-  },
-  {
-    "place_id": "0x3b05e959d70fdbef:0",
-    "name": "Elite Sense Construction",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-28 19:46:01.053166"
   }
 ]
