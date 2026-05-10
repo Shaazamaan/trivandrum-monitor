@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05a9091efb2ca7:0",
+    "name": "Tiptop Metals",
+    "address": "839C+GCG",
+    "category": "Metal fabricator",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 12:15:28.689757"
+  },
+  {
+    "place_id": "0x3b05af69723c1fc5:0",
+    "name": "Dr. Aroop.S.U MBBS, MD, FCCP (USA), DAA - Pulmonologist",
+    "address": "",
+    "category": "Pulmonologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 12:15:27.556581"
+  },
+  {
+    "place_id": "0x3b05ae88fdd51b25:0",
+    "name": "Mukundan Photography",
+    "address": "",
+    "category": "Photographer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 12:15:26.403728"
+  },
+  {
     "place_id": "0x3b05bb29ff317f67:0",
     "name": "IGNITE TOURS AND TRAVELS",
     "address": "Vipanchika Towers",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-29 07:23:01.151307"
-  },
-  {
-    "place_id": "0x3b05bfceacb77d97:0",
-    "name": "360 Degrees - A RestoBar By Gokulam Grand",
-    "address": "Gokulam Grand, Kuzhivila",
-    "category": "Cocktail bar",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 07:22:59.972826"
-  },
-  {
-    "place_id": "0x3b05b950d0000001:0",
-    "name": "Dr Boben Thomas",
-    "address": "",
-    "category": "Oncologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 05:54:45.830358"
-  },
-  {
-    "place_id": "0x3b05bb944db5daa7:0",
-    "name": "Lawx Innovations Private Limited",
-    "address": "",
-    "category": "Legal services",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 05:54:44.714422"
   }
 ]
