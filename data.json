@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x3b05bb7013d9331d:0",
+    "name": "La Estrella",
+    "address": "Near IOC Petrol Pump, Vellayani Junction, Nemom, PO",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 17:25:10.480842"
+  },
+  {
+    "place_id": "0x3b05baa33dc1471f:0",
+    "name": "Sri Guruvayurappan Tea & Provision Stores",
+    "address": "F252+M3J, Studio Rd Nemom",
+    "category": "Tea store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 17:25:09.295166"
+  },
+  {
+    "place_id": "0x3b05becc3ff21c97:0",
+    "name": "Sreekaryam",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 17:25:08.134004"
+  },
+  {
+    "place_id": "0x3b05b95c9125c51f:0",
+    "name": "Naturals Salon",
+    "address": "",
+    "category": "Tanning salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 17:25:06.995350"
+  },
+  {
+    "place_id": "0x3b05becb21ac2735:0",
+    "name": "Kumar Tea Stall",
+    "address": "₹1–200",
+    "category": "(277)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 17:25:05.829298"
+  },
+  {
+    "place_id": "0x3b05be5700000021:0",
+    "name": "TILTLABS",
+    "address": "Ground Floor, Carnival Technopark",
+    "category": "Software company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 17:25:04.657176"
+  },
+  {
+    "place_id": "0x3b05c742521b7055:0",
+    "name": "FemStyle Beauty Lounge",
+    "address": "VIP Jn",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 17:25:03.495521"
+  },
+  {
+    "place_id": "0x3b05b9a415c18db9:0",
+    "name": "Balu`S. TEA/COFFEE MACHINE RENT",
+    "address": "+91 82812 34678",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 17:25:02.353838"
+  },
+  {
+    "place_id": "0x3b05bbd9b1f43195:0",
+    "name": "Preigo Fover Technologies",
+    "address": "1st Floor, Stella Maris, Thoppil Nagar Rd",
+    "category": "Website designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 17:25:01.208406"
+  },
+  {
+    "place_id": "0x3b05bba5b1d1adab:0",
+    "name": "Chai Bogie - Golf links Road",
+    "address": "GXC6+GF7, Kawdiar - Towards Vellayambalam, Kowdiar Ave",
+    "category": "Tea store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 17:25:00.052837"
+  },
+  {
     "place_id": "0x3b05a5a71dda4917:0",
     "name": "Travancore Laundry And Dry Cleaners",
     "address": "Beach Rd",
@@ -8908,95 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-29 13:24:54.250989"
-  },
-  {
-    "place_id": "0x3b05bbbb9dbb695d:0",
-    "name": "Consumerfed Liquor & Beer Shop",
-    "address": "",
-    "category": "Beer store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 09:03:51.048183"
-  },
-  {
-    "place_id": "0x3b05bbb8863ecfc9:0",
-    "name": "Godrej Interio - Furniture Store in Palayam, Thiruvananthapuram",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 09:03:49.886963"
-  },
-  {
-    "place_id": "0x3b05bba6e4f4637b:0",
-    "name": "Beverages Corporation Liquor Shop Powerhouse Road",
-    "address": "",
-    "category": "Liquor store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 09:03:48.664567"
-  },
-  {
-    "place_id": "0x3b05bbb654302da1:0",
-    "name": "OXYMUS TECHNOLOGIES HOME THEATER AND HOME AUTOMATION IN TRIVANDRUM",
-    "address": "TC27/2829, 14, Ganapathy Temple Rd",
-    "category": "Home automation company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 08:08:20.353888"
-  },
-  {
-    "place_id": "0x89b16df47383d6ed:0",
-    "name": "Jaguar Richmond Certified Pre-Owned & Service",
-    "address": "",
-    "category": "Jaguar dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 08:08:19.211386"
-  },
-  {
-    "place_id": "0x3b05ef0004573379:0",
-    "name": "Bluewater Beach Resort Restaurant",
-    "address": "QM2V+5P6, Odayam Beach Road",
-    "category": "Indian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 08:08:18.090133"
-  },
-  {
-    "place_id": "0x3b05bb8ad3af3b6b:0",
-    "name": "Jaquar Authorized Dealer - Pattom, Thiruvananthapuram",
-    "address": "Tara Sanitary Wares and Tiles, Goodwill Tower, Palamooddu Road, opposite HDFC Bank",
-    "category": "Bathroom supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 08:08:16.975161"
-  },
-  {
-    "place_id": "0x40cf52d0ade4f6f5:0",
-    "name": "Muhammad Ashik N S Freelance Digital Marketer",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 07:23:06.111974"
-  },
-  {
-    "place_id": "0x3b05b99d30216fb1:0",
-    "name": "Pappaya Restaurant &Cool Bar",
-    "address": "GXP8+XHC",
-    "category": "Bar",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 07:23:04.908453"
-  },
-  {
-    "place_id": "0x3b05c1c93d1cc1ef:0",
-    "name": "Talrop's Techies Park at LVHS Pothencode",
-    "address": "",
-    "category": "Corporate campus",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 07:23:03.730252"
   }
 ]
