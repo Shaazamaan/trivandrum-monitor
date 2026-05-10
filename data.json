@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05a5a71dda4917:0",
+    "name": "Travancore Laundry And Dry Cleaners",
+    "address": "Beach Rd",
+    "category": "Dry cleaner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 16:22:25.612044"
+  },
+  {
+    "place_id": "0x3b05c3005adfd3a5:0",
+    "name": "Tax Manthra Tax and Accounting",
+    "address": "Ground floor, Sharjah Tower",
+    "category": "Tax preparation",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 16:22:24.450245"
+  },
+  {
     "place_id": "0x3b05a9091efb2ca7:0",
     "name": "Tiptop Metals",
     "address": "839C+GCG",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-29 07:23:03.730252"
-  },
-  {
-    "place_id": "0x3b05c1c932299edb:0",
-    "name": "Bar counter",
-    "address": "₹1–200",
-    "category": "(11)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 07:23:02.539627"
-  },
-  {
-    "place_id": "0x3b05c190976bd3e9:0",
-    "name": "Gurudharman Digital Marketer | Freelance Digital marketer in Trivandrum, Kerala",
-    "address": "Gurudharmam mullarikonm kavuvila",
-    "category": "Internet marketing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 07:23:01.151307"
   }
 ]
