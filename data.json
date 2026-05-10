@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05ae63f83daff3:0",
+    "name": "Karunya Community Pharmacy",
+    "address": "C34P+R52, Government General Hospital, Neyyattinkara, Neyyattinkara Kattakkada Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 19:45:05.964301"
+  },
+  {
+    "place_id": "0x3b05a9ddffc0b035:0",
+    "name": "DDRC Agilus Diagnostics - Poovar, Trivandrum",
+    "address": "",
+    "category": "Diagnostic center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 19:45:04.786277"
+  },
+  {
+    "place_id": "0x3b05c90042710979:0",
+    "name": "koppaM VITHURA",
+    "address": "M3CJ+WR4, Vithura - Palode Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 19:45:03.574770"
+  },
+  {
+    "place_id": "0x3b05c92390328839:0",
+    "name": "Ananya diagnosis center",
+    "address": "M3FM+33M, Vithura High School Rd",
+    "category": "Diagnostic center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 19:45:02.393759"
+  },
+  {
+    "place_id": "0x876c7fd03924266d:0",
+    "name": "Raven Solar Services LLC.",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-10 19:45:01.075068"
+  },
+  {
     "place_id": "0x3b05bb7013d9331d:0",
     "name": "La Estrella",
     "address": "Near IOC Petrol Pump, Vellayani Junction, Nemom, PO",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-29 13:25:00.072231"
-  },
-  {
-    "place_id": "0x3b05b80694f22f17:0",
-    "name": "Koyikkal Palace",
-    "address": "",
-    "category": "Tourist attraction",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 13:24:58.913090"
-  },
-  {
-    "place_id": "0x3b05a900706f89b5:0",
-    "name": "Poovar island",
-    "address": "839G+VQG, Poovar Island Beach Rd",
-    "category": "Tourist attraction",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 13:24:57.763735"
-  },
-  {
-    "place_id": "0x3b05b9005a0b7201:0",
-    "name": "ELECTRO CONTROLS - Trivandrum",
-    "address": "328/B, 328/C, Thomas Orthodox Syrian Church, Keezha, MC Rd",
-    "category": "Diesel engine dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 13:24:56.587766"
-  },
-  {
-    "place_id": "0x3b05bb09b7e81d35:0",
-    "name": "Sree Padmanabhaswamy Temple",
-    "address": "West Nada",
-    "category": "Tourist attraction",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 13:24:55.423484"
-  },
-  {
-    "place_id": "0x3b05b964de64371d:0",
-    "name": "Urban Primary Health Center - Muttada",
-    "address": "",
-    "category": "Community health center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-29 13:24:54.250989"
   }
 ]
