@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05e909d50b91e1:0",
+    "name": "STUN SIGN LOGISTICS PVT LTD",
+    "address": "MRW7+J43, Chirayinkeezhu Rd",
+    "category": "Transportation service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-12 23:50:23.621133"
+  },
+  {
+    "place_id": "0x3b05bb7faaaaaabb:0",
+    "name": "SRD Logistics Pvt Ltd",
+    "address": "TC 88-540/1, Falcon Warehouse, Puthen road",
+    "category": "Transportation service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-12 23:50:22.512030"
+  },
+  {
+    "place_id": "0x3b05bbf07b7d812b:0",
+    "name": "Apple Cars - Self Drive Rent a Car Trivandrum",
+    "address": "",
+    "category": "Car rental agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-12 23:50:21.407958"
+  },
+  {
     "place_id": "0x3b05c70033074277:0",
     "name": "Perform Fitness Studio",
     "address": "MWJR+69X",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-30 05:58:48.692062"
-  },
-  {
-    "place_id": "0x26f380c911131155:0",
-    "name": "Dr. Muhammed Niyas V K",
-    "address": "Closes 4 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 05:58:47.555085"
-  },
-  {
-    "place_id": "0x3b05afaaa471ad3d:0",
-    "name": "Resto cafe",
-    "address": "Kunnuvila junction",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 03:34:39.380453"
-  },
-  {
-    "place_id": "0x89b6c04ecba74b4b:0",
-    "name": "Honey Pig Korean BBQ",
-    "address": "$20–30",
-    "category": "(661)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 03:34:38.214500"
   }
 ]
