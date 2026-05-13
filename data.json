@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05b990fd1c048b:0",
+    "name": "Pulari Tiles",
+    "address": "JX6X+GRV, Nedumangad Town Rd",
+    "category": "Tile store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-13 20:14:41.863874"
+  },
+  {
+    "place_id": "0x3b05b99eafe825e9:0",
+    "name": "Dr. Swapna U. P., E N T Specialist",
+    "address": "ANRA-E-5/2 Chattambi Swami Nagar Road Avukulam, PO",
+    "category": "Otolaryngologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-13 20:14:40.772989"
+  },
+  {
+    "place_id": "0x3b05b1114b03a12f:0",
+    "name": "Variety Marbles",
+    "address": "Thiruvananthapuram - Neyyar Dam Road",
+    "category": "Tile store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-13 20:14:39.646303"
+  },
+  {
+    "place_id": "0x3b05b13946716f61:0",
+    "name": "Wils Sounds",
+    "address": "Kattakode, P. O",
+    "category": "Hearing aid store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-13 20:14:38.535319"
+  },
+  {
+    "place_id": "0x3b05b1bac1e372fd:0",
+    "name": "Divya ENT Hospital",
+    "address": "opposite St Xavier’s Higher Secondary School, near Peyad",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-13 20:14:37.440392"
+  },
+  {
+    "place_id": "0x3b05e9cca6046ea7:0",
+    "name": "KTCT Hospital",
+    "address": "",
+    "category": "Private hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-13 20:14:36.297411"
+  },
+  {
     "place_id": "0x3b05e909d50b91e1:0",
     "name": "STUN SIGN LOGISTICS PVT LTD",
     "address": "MRW7+J43, Chirayinkeezhu Rd",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-30 08:02:59.595082"
-  },
-  {
-    "place_id": "0x3b05c7ea7712f8af:0",
-    "name": "Borewell Indus Geotech",
-    "address": "TC 13, P O, 705",
-    "category": "Well drilling contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 08:02:58.389526"
-  },
-  {
-    "place_id": "0x3b086d5820e2886f:0",
-    "name": "Casino Hotel, CGH Earth",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 08:02:57.140948"
-  },
-  {
-    "place_id": "0x3b05bbaf449ac17f:0",
-    "name": "Thampanoor Tours & Travels (JEZGO)",
-    "address": "Closes 10:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 05:58:52.104359"
-  },
-  {
-    "place_id": "0x3b05bb0904289587:0",
-    "name": "Puram Medical Center",
-    "address": "FXH2+R28, Attakkulangara - Killippalam Bypass Rd",
-    "category": "Medical Center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 05:58:50.969751"
-  },
-  {
-    "place_id": "0x3b05bbbc454dc705:0",
-    "name": "Dr Rajalakshmi",
-    "address": "34 Madhavam, Subash Nagar Road",
-    "category": "Doctor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 05:58:49.829016"
-  },
-  {
-    "place_id": "0x873e9b00fe757227:0",
-    "name": "The Snow Solutions LLC",
-    "address": "905 Tucker Ln",
-    "category": "Snow removal service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 05:58:48.692062"
   }
 ]
