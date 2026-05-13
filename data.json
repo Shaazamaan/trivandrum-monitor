@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05e92be915a507:0",
+    "name": "Kollam Store",
+    "address": "PPHQ+J94, Varkala Kallambalam Rd, opp. Kollam Store",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-13 23:20:25.583672"
+  },
+  {
+    "place_id": "0x3b05bbb88998f267:0",
+    "name": "Anna Kitex Company Showroom",
+    "address": "",
+    "category": "Countertop store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-13 23:20:24.442759"
+  },
+  {
+    "place_id": "0x3b05bf33ab7a4e3b:0",
+    "name": "Handy sQuad",
+    "address": "TC 98/3213,Sreevalsam, Near, Technopark Phase III Main Rd",
+    "category": "Property management company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-13 23:20:23.314286"
+  },
+  {
+    "place_id": "0x3b05bf7dc9fd42d7:0",
+    "name": "Noodle House",
+    "address": "Service Rd, near NH",
+    "category": "Asian fusion restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-13 23:20:22.177308"
+  },
+  {
     "place_id": "0x3b05b990fd1c048b:0",
     "name": "Pulari Tiles",
     "address": "JX6X+GRV, Nedumangad Town Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-30 16:24:26.265239"
-  },
-  {
-    "place_id": "0x3b05b9f65c65ae87:0",
-    "name": "Dakshina Fabrics",
-    "address": "TC 21/1400-1, Kudappanakunnu Rd, near Margin Free supr market",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 08:03:03.219718"
-  },
-  {
-    "place_id": "0x872a55ffdeaf2edd:0",
-    "name": "Gila River Resorts and Casino - Santan Mountain",
-    "address": "",
-    "category": "Casino",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 08:03:02.041984"
-  },
-  {
-    "place_id": "0x3b05bbcd0b1ae54d:0",
-    "name": "Kalyan Silks",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 08:03:00.833414"
-  },
-  {
-    "place_id": "0x3b05bba71ff490e9:0",
-    "name": "Sakthi Fabrics",
-    "address": "Closes 10 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 08:02:59.595082"
   }
 ]
