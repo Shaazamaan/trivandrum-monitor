@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x872b11904d72dfa7:0",
+    "name": "Rose Paving",
+    "address": "245 E Watkins St",
+    "category": "Paving contractor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-14 19:21:19.032829"
+  },
+  {
+    "place_id": "0x872b13949ffffae3:0",
+    "name": "Bad Jimmy's",
+    "address": "$10–20",
+    "category": "(537)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-14 19:21:17.795218"
+  },
+  {
+    "place_id": "0x3b05bbb7426da129:0",
+    "name": "Burger Lounge",
+    "address": "₹200–400",
+    "category": "(2,654)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-14 19:21:16.600512"
+  },
+  {
+    "place_id": "0x3b05bba8e123a6e3:0",
+    "name": "Supreme Bakery",
+    "address": "₹1–200",
+    "category": "(73)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-14 19:21:15.414751"
+  },
+  {
+    "place_id": "0x3b05bbe70ec00191:0",
+    "name": "SMOKIES HAMBURGER",
+    "address": "₹200–400",
+    "category": "(556)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-14 19:21:14.208228"
+  },
+  {
     "place_id": "0x3b05e92be915a507:0",
     "name": "Kollam Store",
     "address": "PPHQ+J94, Varkala Kallambalam Rd, opp. Kollam Store",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-30 18:18:41.395777"
-  },
-  {
-    "place_id": "0x3b05e9625a30b281:0",
-    "name": "Kaduvayil Wedding Company (Kaduvayil Catering)",
-    "address": "$$",
-    "category": "(381)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 16:24:31.075298"
-  },
-  {
-    "place_id": "0x3b05bb07e415fb47:0",
-    "name": "SUBRAMANIA INDUSTRIES",
-    "address": "TC 39/1451, Subramania Building",
-    "category": "Electric generator shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 16:24:29.886182"
-  },
-  {
-    "place_id": "0x3b05b95e9bbac8c1:0",
-    "name": "Al Haja Caterers & Event Management",
-    "address": "+91 94470 96783",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 16:24:28.676714"
-  },
-  {
-    "place_id": "0x3b05e95e927a03cf:0",
-    "name": "Istanbul Rolls & Grills",
-    "address": "₹1–200",
-    "category": "(270)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 16:24:27.493872"
-  },
-  {
-    "place_id": "0x3b05bba4faeec7cb:0",
-    "name": "Cochin Rahumania Caterers",
-    "address": "Cochin Rahumania Caterers, india garden",
-    "category": "Caterer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-30 16:24:26.265239"
   }
 ]
