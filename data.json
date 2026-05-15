@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b95dd0152c9f:0",
+    "name": "Sevana Medicines",
+    "address": "GWJQ+CQV",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-15 12:31:05.715735"
+  },
+  {
+    "place_id": "0x3b05bbde05555555:0",
+    "name": "D & P Medicals",
+    "address": "Closes 10:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-15 12:31:04.596781"
+  },
+  {
+    "place_id": "0x3b05bb1c9ad90563:0",
+    "name": "Pillbox Pharmacy",
+    "address": "TC 22/3023, Sankar Rd, opposite RKD School",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-15 12:31:03.448602"
+  },
+  {
     "place_id": "0x3b05bf6abf6adb61:0",
     "name": "Style Union - Kazhakkoottam",
     "address": "SJ Arcade, NH 66, nearby Asset Orchestra",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-31 05:30:21.024564"
-  },
-  {
-    "place_id": "0x3b05afaeac61a8f9:0",
-    "name": "Prime Craft Construction",
-    "address": "Hospital Junction-Railway Station Rd",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-31 05:30:19.839416"
-  },
-  {
-    "place_id": "0x3b05afa226ad7b31:0",
-    "name": "Advocate Arathy cs",
-    "address": "Closes 8:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-31 05:30:18.662563"
-  },
-  {
-    "place_id": "0x3b05afbd3eae6eb7:0",
-    "name": "Car Bazaar Neyyattinkara",
-    "address": "Trivandrum - Nagercoil Hwy",
-    "category": "Car dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-31 05:30:17.385927"
   }
 ]
