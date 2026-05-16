@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05b1729c9b0e59:0",
+    "name": "Akshaya Fitness Center",
+    "address": "P O, Kanchiyoorkonam Rd",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-16 04:14:49.690565"
+  },
+  {
+    "place_id": "0x3b05b18335518271:0",
+    "name": "Bhai sewing machine, mechanical works",
+    "address": "Market Rd",
+    "category": "Sewing machine repair service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-16 04:14:48.484217"
+  },
+  {
+    "place_id": "0x3b05b18c0ad329ab:0",
+    "name": "Net Engineering Technology",
+    "address": "Kattakkada Kottoor Rd",
+    "category": "Educational institution",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-16 04:14:47.348034"
+  },
+  {
+    "place_id": "0x3b05bbde928666f1:0",
+    "name": "AYOOB AUTOMOTIVE (Bharath Motors)",
+    "address": "",
+    "category": "Car repair and maintenance service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-16 04:14:46.158022"
+  },
+  {
+    "place_id": "0x3b05bbdd675b6c45:0",
+    "name": "Amaze Academy For Civil Engineering Trivandrum",
+    "address": "Fourth floor, GW9V+782 Kailas Plaza, National Highway 47",
+    "category": "Educational institution",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-16 04:14:44.995895"
+  },
+  {
+    "place_id": "0x3b05ab387afed2ff:0",
+    "name": "Fitness League",
+    "address": "AJAAS COMPLEX, PP.21/695 E, PAVATHIYANVILA",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-16 04:14:43.782870"
+  },
+  {
+    "place_id": "0x3b05ab6e91e30d73:0",
+    "name": "GT Engineering Works",
+    "address": "Trivandrum - Nagercoil Hwy",
+    "category": "Metal fabricator",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-16 04:14:42.627470"
+  },
+  {
+    "place_id": "0x3b05bb3b82661feb:0",
+    "name": "Eskay Engineering Solutions , Trivandrum",
+    "address": "TC 68/1098/11, NH Byepass, near New Rajasthan Marbles",
+    "category": "Machine shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-16 04:14:41.359023"
+  },
+  {
     "place_id": "0x3b05b95dd0152c9f:0",
     "name": "Sevana Medicines",
     "address": "GWJQ+CQV",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-03-31 17:15:55.985127"
-  },
-  {
-    "place_id": "0x3b05bb84eae16ed5:0",
-    "name": "RAHUL KRISHNA | NOKAMI FPV Drone pilot",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-31 17:15:54.831024"
-  },
-  {
-    "place_id": "0x3b05b10027d1d15b:0",
-    "name": "Orion tailoring studio",
-    "address": "G35J+PJQ, Malappanamcode Kattakkada Rd",
-    "category": "Tailor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-31 17:15:53.688859"
-  },
-  {
-    "place_id": "0x3b05eb0c6a0c92e9:0",
-    "name": "Trichur Tailors",
-    "address": "Bus Stop",
-    "category": "Tailor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-31 17:15:52.502143"
-  },
-  {
-    "place_id": "0x25cb55989f5eca79:0",
-    "name": "Palley Law Office",
-    "address": "200 East Randolph Street",
-    "category": "Estate planning attorney",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-31 17:15:51.344266"
-  },
-  {
-    "place_id": "0x3b05bba7b557d795:0",
-    "name": "DURON TAILORS & TEXTILES , LINEN WORLD",
-    "address": "Power House Junction",
-    "category": "Custom tailor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-31 17:15:50.164542"
-  },
-  {
-    "place_id": "0x3b05bbe395585875:0",
-    "name": "Trivandrum Drone Solution (TDS)",
-    "address": "HOUSE NO -94",
-    "category": "Camera repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-31 17:15:48.967552"
-  },
-  {
-    "place_id": "0x3b05a9edcf5cea39:0",
-    "name": "fastdeals_Trivandrum",
-    "address": "National building",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-31 05:30:22.179145"
-  },
-  {
-    "place_id": "0x3b05a9094b6e0141:0",
-    "name": "Poovar Auto Rickshaw Stand",
-    "address": "Post office junction",
-    "category": "Auto rickshaw stand",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-31 05:30:21.024564"
   }
 ]
