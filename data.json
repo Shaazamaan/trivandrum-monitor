@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb007bde645d:0",
+    "name": "Grill and more",
+    "address": "GX26+PW3",
+    "category": "Mobile caterer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-16 16:46:58.732637"
+  },
+  {
+    "place_id": "0x3b05a5bb6d18941b:0",
+    "name": "Sky Palace Beach hotel",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-16 16:46:57.543068"
+  },
+  {
     "place_id": "0x3b05b1729c9b0e59:0",
     "name": "Akshaya Fitness Center",
     "address": "P O, Kanchiyoorkonam Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-01 05:54:22.698235"
-  },
-  {
-    "place_id": "0x3b05bbe0205dd46d:0",
-    "name": "Prestige Xclusive - Pattom, Thiruvananthapuram",
-    "address": "",
-    "category": "Kitchen supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-01 05:54:21.477558"
-  },
-  {
-    "place_id": "0x3b05a9b56227ebb5:0",
-    "name": "Style fit",
-    "address": "TB Junction",
-    "category": "Tailor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-03-31 17:15:55.985127"
   }
 ]
