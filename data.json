@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c1028c4c8db7:0",
+    "name": "Hi Tech Dental Clinic , Venjaramoodu",
+    "address": "Market Rd, near Suhas Auditorium",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-17 12:10:04.349776"
+  },
+  {
+    "place_id": "0x3b05bf20749703e9:0",
+    "name": "Peninsular Honda",
+    "address": "",
+    "category": "Honda dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-17 12:10:03.243956"
+  },
+  {
     "place_id": "0x3b05bb007bde645d:0",
     "name": "Grill and more",
     "address": "GX26+PW3",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-01 05:54:24.912817"
-  },
-  {
-    "place_id": "0x3b05b80546a3de83:0",
-    "name": "Reemas Stove Centre",
-    "address": "JX3X+9XH",
-    "category": "Appliance store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-01 05:54:23.824693"
-  },
-  {
-    "place_id": "0x3b05bbc3462e1143:0",
-    "name": "S Squared Architects Pvt Ltd.",
-    "address": "",
-    "category": "Architect",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-01 05:54:22.698235"
   }
 ]
