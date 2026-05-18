@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb75d7d3ab7f:0",
+    "name": "Electrolux Exclusive Brand Store - Cheryl Enterprises",
+    "address": "Ground Floor, No TC 25, 3557/35, Devaswom Board Jct, nearby The Muffin House",
+    "category": "Appliance store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-18 04:55:17.590595"
+  },
+  {
+    "place_id": "0x3b05bb9890368b0b:0",
+    "name": "Ideal Home Appliances",
+    "address": "",
+    "category": "Appliance store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-18 04:55:16.406717"
+  },
+  {
     "place_id": "0x3b05bbc2070da13b:0",
     "name": "Tennyson's MELODY - Sound System For Music People",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-01 14:51:06.203162"
-  },
-  {
-    "place_id": "0x3b05b92c259d4a7f:0",
-    "name": "ANOOP HIRE SERVICE",
-    "address": "",
-    "category": "Party equipment rental service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-01 07:53:12.128865"
-  },
-  {
-    "place_id": "0x3b05bd0dbc5205a7:0",
-    "name": "Royal Brothers - Bike Rentals - NH66 Bypass - Trivandrum",
-    "address": "opp: JEEP Showroom, 91/1042(2):Ground Floor: Tritvam Building NH Bypass near Karikkakom Temple, Anayara-1, near Karikkakom Devi Temple",
-    "category": "Scooter rental service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-01 07:53:11.023557"
   }
 ]
