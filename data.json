@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bbe1d654b24b:0",
+    "name": "AR & ASSOCIATES",
+    "address": "Opens 9:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-18 21:49:45.688349"
+  },
+  {
+    "place_id": "0x872b7538888d4f83:0",
+    "name": "Allergy, Asthma & Immunology Associates, LTD",
+    "address": "",
+    "category": "Allergist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-18 21:49:44.359906"
+  },
+  {
+    "place_id": "0x3b05e92b90c59875:0",
+    "name": "Diwaniya Furnishings",
+    "address": "PPHP+GXC",
+    "category": "Home goods store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-18 21:49:43.193487"
+  },
+  {
+    "place_id": "0x3b05a575c6b43753:0",
+    "name": "Royal Foam",
+    "address": "Pallichal - Vizhinjam Rd, near SBI",
+    "category": "Mattress store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-18 21:49:42.011587"
+  },
+  {
+    "place_id": "0x3b05bbba3022e00b:0",
+    "name": "Mattress Shop - Kurlon and Sleepwell",
+    "address": "Nandavanam Road, Bakery Jct Rd",
+    "category": "Mattress store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-18 21:49:40.826247"
+  },
+  {
     "place_id": "0x3b05bb75d7d3ab7f:0",
     "name": "Electrolux Exclusive Brand Store - Cheryl Enterprises",
     "address": "Ground Floor, No TC 25, 3557/35, Devaswom Board Jct, nearby The Muffin House",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-01 14:51:12.058628"
-  },
-  {
-    "place_id": "0x3b05bb9f38e35433:0",
-    "name": "MAK TOURS TRAVELS &EXPORTS",
-    "address": "T.C 28/1572, 1st Floor, Kamal Building, Thakaraparambu Rd",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-01 14:51:10.846509"
-  },
-  {
-    "place_id": "0x880e2cbdca6c5f95:0",
-    "name": "Chicago Crypto Capital",
-    "address": "",
-    "category": "Investment company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-01 14:51:09.675185"
-  },
-  {
-    "place_id": "0x3b05e90075e48823:0",
-    "name": "Travelbee Tours & Travels",
-    "address": "Varkala Kallambalam Rd",
-    "category": "Tour operator",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-01 14:51:08.507823"
-  },
-  {
-    "place_id": "0x3b05eb8b01b6ff57:0",
-    "name": "Be Safe Security Systems",
-    "address": "opp. Govt. ITI",
-    "category": "Safety equipment supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-01 14:51:07.346150"
-  },
-  {
-    "place_id": "0x3b05e9f8fa3d613f:0",
-    "name": "Unimoni Financial Services Ltd, Attingal",
-    "address": "Ground Floor, Shine Complex, Main Rd, near KSRTC Bus Stand",
-    "category": "Currency exchange service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-01 14:51:06.203162"
   }
 ]
