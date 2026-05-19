@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05e9ef821daf31:0",
+    "name": "Viswas Community Pharmacy - Varkala",
+    "address": "Kadakkavoor Road, near Niranjana Bakery",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-19 10:07:00.871892"
+  },
+  {
+    "place_id": "0x880e2ca97c123f17:0",
+    "name": "Quantum Crossings LLC",
+    "address": "",
+    "category": "Telecommunications contractor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-19 10:06:59.768462"
+  },
+  {
+    "place_id": "0x3b05bf0028952851:0",
+    "name": "Care Pharmacy",
+    "address": "Main Gate, near Technopark Trivandrum",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-19 10:06:58.602412"
+  },
+  {
     "place_id": "0x3b05bbba2ded252b:0",
     "name": "ARTPLUS ALUMINIUM FABRICATION",
     "address": "Closes 9 PM",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-01 20:32:38.822765"
-  },
-  {
-    "place_id": "0x3b05c7fbffe745df:0",
-    "name": "Bajaj Life Insurance",
-    "address": "1st Floor, Nandananm Tower",
-    "category": "Life insurance agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-01 20:32:37.701497"
-  },
-  {
-    "place_id": "0x3b05b90037b737b3:0",
-    "name": "Uthara Enterprises",
-    "address": "JX6W+VXM",
-    "category": "Construction material wholesaler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-01 20:32:36.585163"
-  },
-  {
-    "place_id": "0x3b05b9d3d62faf4f:0",
-    "name": "Hexa Dental clinic & Implant Centre Nedumangad, Thiruvananthapuram",
-    "address": "",
-    "category": "Dental implants periodontist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-01 20:32:35.480393"
   }
 ]
