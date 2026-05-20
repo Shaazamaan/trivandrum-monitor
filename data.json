@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05e944e72b2e61:0",
+    "name": "Advocate Sreeja.D",
+    "address": "Al Noor plaza, Amar Hospital Rd, near Vaisakh’s",
+    "category": "Legal services",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-20 18:44:29.339696"
+  },
+  {
+    "place_id": "0xab91bac0c506a4af:0",
+    "name": "Rawshack Architects",
+    "address": "Opens 10 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-20 18:44:28.144931"
+  },
+  {
+    "place_id": "0x87694ba0c55be4c1:0",
+    "name": "Fort Collins Family Law",
+    "address": "",
+    "category": "Family law attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-20 18:44:26.935387"
+  },
+  {
+    "place_id": "0x87694b7d094c87af:0",
+    "name": "Lindgren Landscape",
+    "address": "",
+    "category": "Landscape architect",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-20 18:44:25.754059"
+  },
+  {
     "place_id": "0x3b05a56d221789b1:0",
     "name": "LOPZ wedding factory",
     "address": "Kottappuram Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-02 19:43:29.849918"
-  },
-  {
-    "place_id": "0x3b05b95e637d7f1f:0",
-    "name": "Gurukripa Hardware's Plumbing & Sanitary",
-    "address": "No 45, Gurukripa, Gurukripa Building, Kesavadasapuram-pattom, Road",
-    "category": "Hardware store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-02 17:42:07.487746"
-  },
-  {
-    "place_id": "0x3b05bbe06dc8332f:0",
-    "name": "EEka Yoga - Online & Offline Yoga Classes",
-    "address": "",
-    "category": "Yoga studio",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-02 17:42:06.337240"
-  },
-  {
-    "place_id": "0x3b05bbe01809532b:0",
-    "name": "Trivandrum Dental Specialists Group",
-    "address": "Opens 9:30 AM Fri",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-02 17:42:05.190200"
-  },
-  {
-    "place_id": "0x3b05bb0e27cde49f:0",
-    "name": "Samskriti Yoga Gurukulam",
-    "address": "",
-    "category": "Yoga studio",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-02 17:42:04.054584"
   }
 ]
