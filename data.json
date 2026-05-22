@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bbb765b43e87:0",
+    "name": "Rek Sun",
+    "address": "Bakery Jct Rd, opposite S.N.V. Sadanam",
+    "category": "Auto air conditioning service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-22 09:49:22.516035"
+  },
+  {
+    "place_id": "0x872ba1afcb0c1b39:0",
+    "name": "Gallaher Seamless Paving",
+    "address": "Opens 8 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-22 09:49:21.406345"
+  },
+  {
+    "place_id": "0x3b05b9742a4120b9:0",
+    "name": "SNOW COOL",
+    "address": "GXR6+JQ6",
+    "category": "Air conditioning repair service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-22 09:49:20.304417"
+  },
+  {
+    "place_id": "0x2e98fcd4acae9f7:0",
+    "name": "Asphalt Contractors",
+    "address": "6 AM",
+    "category": "Opens soon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-22 09:49:19.196614"
+  },
+  {
+    "place_id": "0x3b05b9b2b4741531:0",
+    "name": "Dr. Vishnu Gireesh. Pulmonologist",
+    "address": "Panchayathu Ln, near Corporation Zonal Office",
+    "category": "Pulmonologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-22 09:49:18.082736"
+  },
+  {
     "place_id": "0x3b05c3bb80feaedf:0",
     "name": "Purplle - Kilimanoor",
     "address": "SK Arcade",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-02 21:06:56.819957"
-  },
-  {
-    "place_id": "0x3b05b9425171223f:0",
-    "name": "Hapinus Care - Psychologists in Trivandrum | Counseling Center",
-    "address": "Hapinus Care, Ambalamukku, Muttada - Paruthippara Rd, near Vayalikkada",
-    "category": "Psychologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-02 21:06:55.641658"
-  },
-  {
-    "place_id": "0x3b05bf0019b05f47:0",
-    "name": "THANUSUKHAM Ayurveda clinic kazhakkuttam",
-    "address": "Market Junction Junction, Kazhakuttom, Post Office Road",
-    "category": "Alternative medicine practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-02 20:26:34.747803"
-  },
-  {
-    "place_id": "0x3b05bf0022fce47f:0",
-    "name": "Al Athaar perfumers",
-    "address": "100/3808, Attinkuzhy Rd",
-    "category": "Perfume store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-02 20:26:33.604649"
-  },
-  {
-    "place_id": "0x3b05bfa8f5acc5af:0",
-    "name": "Al-Saj International Convention Center",
-    "address": "",
-    "category": "Convention center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-02 20:26:32.428857"
-  },
-  {
-    "place_id": "0x3b05bbf9958044bb:0",
-    "name": "Scents And Secrets",
-    "address": "Women & Childrens, Thycadu, Hospital Rd, near HDFC Bank",
-    "category": "Perfume store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-02 20:26:31.277825"
   }
 ]
