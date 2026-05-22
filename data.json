@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x87ee991b4fe943c3:0",
+    "name": "UnityPoint Health - John Stoddard Cancer Center - Lymphedema Center",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-22 19:24:42.960099"
+  },
+  {
+    "place_id": "0x3b05c9004bc9aa49:0",
+    "name": "BETHEL ELECTRONICS AND ELECTRICALS",
+    "address": "M3FR+HJ8",
+    "category": "Electrical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-22 19:24:41.779130"
+  },
+  {
+    "place_id": "0x3b05bb59b0a917b9:0",
+    "name": "Electrician - service4u",
+    "address": "",
+    "category": "Electrician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-22 19:24:40.549631"
+  },
+  {
+    "place_id": "0x3b05ba7cec5ede89:0",
+    "name": "Siglos Electro Engineering, Electrical contractors Trivandrum",
+    "address": "",
+    "category": "Electrical engineer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-22 19:24:39.366093"
+  },
+  {
     "place_id": "0x3b05bbb765b43e87:0",
     "name": "Rek Sun",
     "address": "Bakery Jct Rd, opposite S.N.V. Sadanam",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-02 21:07:01.455126"
-  },
-  {
-    "place_id": "0x48a27d1d724d7cfd:0",
-    "name": "Dr Haseena’s (PhD) Care",
-    "address": "+91 96454 48884",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-02 21:07:00.295661"
-  },
-  {
-    "place_id": "0x808fb7344057537b:0",
-    "name": "Phởtochau 999",
-    "address": "$10–20",
-    "category": "(1,327)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-02 21:06:59.146347"
-  },
-  {
-    "place_id": "0x3b05e9d0e4a7f17b:0",
-    "name": "CAMPUS SPORTS HUB",
-    "address": "QQ7R+MFC",
-    "category": "Sports accessories wholesaler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-02 21:06:57.967744"
-  },
-  {
-    "place_id": "0x3b05c757289b49e9:0",
-    "name": "Biz Gift PRO",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-02 21:06:56.819957"
   }
 ]
