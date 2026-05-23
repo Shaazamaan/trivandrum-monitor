@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb7430b406c3:0",
+    "name": "Feel - The lingerie store",
+    "address": "1st floor, near Surya Medicals, opp. Ali express",
+    "category": "Lingerie store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-23 23:23:29.603817"
+  },
+  {
+    "place_id": "0x3b05b99a8e2f49af:0",
+    "name": "Blossom Exclusive Store Pattom - Trivandrum",
+    "address": "School, 14/3655, near Saint Marys Lane",
+    "category": "Lingerie store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-23 23:23:28.495449"
+  },
+  {
     "place_id": "0x87ee9e1affd53347:0",
     "name": "FASTSIGNS of Clive, IA",
     "address": "$$",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-03 19:56:40.670727"
-  },
-  {
-    "place_id": "0x3b05b9e246c2177d:0",
-    "name": "Wet Shield Home Care Solutions",
-    "address": "1099,Second Floor, Falcon Tower",
-    "category": "Waterproofing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-03 19:56:39.531514"
-  },
-  {
-    "place_id": "0x3b05bba859c49c71:0",
-    "name": "Cochin Carpets",
-    "address": "",
-    "category": "Carpet store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-03 19:56:38.434271"
   }
 ]
