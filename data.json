@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bf201bcaaab5:0",
+    "name": "RB Group of steel fabricators",
+    "address": "near Attipra Shivanandha Temple, Station Kadavu Rd",
+    "category": "Steel fabricator",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-23 10:10:24.260242"
+  },
+  {
+    "place_id": "0x87ee8d5f7404d9c1:0",
+    "name": "Irishman Acres' Clover Barn",
+    "address": "",
+    "category": "Event venue",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-23 10:10:23.077252"
+  },
+  {
+    "place_id": "0x3b05bf0032bd343b:0",
+    "name": "Honda Showroom",
+    "address": "HV9F+C7C",
+    "category": "Car dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-23 10:10:21.868863"
+  },
+  {
+    "place_id": "0x3b05b9555b776e31:0",
+    "name": "SN Weddings and Event Planners",
+    "address": "SN Weddings and Event planners, Vattiyoorkavu - Kulasekharam Rd",
+    "category": "Event management company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-23 10:10:20.676462"
+  },
+  {
     "place_id": "0x3b05e9a8c3d318bf:0",
     "name": "ArtiCNC - Carve Your Dreams (CNC Laser & Router Cutting & Engraving)",
     "address": "Opens 9 AM",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-03 05:20:35.199632"
-  },
-  {
-    "place_id": "0x3b05bf22f042dbe3:0",
-    "name": "PRAANAA Family Counselling & Psychotherapy Center",
-    "address": "Closes 7:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-03 05:20:34.080505"
-  },
-  {
-    "place_id": "0x3b05c14f59ce5539:0",
-    "name": "Mr Clean Service Station",
-    "address": "371B/12 Sopanam Building, Attingal Road, Kavara Temple Rd, near Veeto Coching Center",
-    "category": "Car wash",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-03 05:20:32.941323"
-  },
-  {
-    "place_id": "0x8815e5e5e5f6130b:0",
-    "name": "Fuller Plants LLC",
-    "address": "",
-    "category": "Plant nursery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-03 05:20:31.808802"
-  },
-  {
-    "place_id": "0x880e2ca502cc914d:0",
-    "name": "JL Family Services Ltd",
-    "address": "25 E Washington St # 1051",
-    "category": "Mental health service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-03 05:20:30.630544"
   }
 ]
