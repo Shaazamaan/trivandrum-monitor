@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x808e331830d41347:0",
+    "name": "Dong Vinh Restaurant Equipment Supplies",
+    "address": "",
+    "category": "Restaurant supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-24 13:58:07.949505"
+  },
+  {
+    "place_id": "0x808fcbfae71f4177:0",
+    "name": "Law Offices of Travis H. Whitfield",
+    "address": "2055 Junction Avenue",
+    "category": "Divorce lawyer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-24 13:58:06.795477"
+  },
+  {
     "place_id": "0x3b05bbde9d55d309:0",
     "name": "Velankanni Aluminium Fabrication",
     "address": "GW9W+X45, Opposite VSSC GARAGE",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-04 05:06:03.808371"
-  },
-  {
-    "place_id": "0x3b05b1b155a773b9:0",
-    "name": "Gst Billing Software ai solution",
-    "address": "Kanyakumar NH, near Olimpa Studio",
-    "category": "Software company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-04 02:56:42.528385"
-  },
-  {
-    "place_id": "0x3b05ba95f179b3cb:0",
-    "name": "Swantham Tours & Travels",
-    "address": "Closes 10 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-04 02:56:41.360444"
   }
 ]
