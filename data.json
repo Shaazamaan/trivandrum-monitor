@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bb001f913353:0",
+    "name": "Crown Laban Dessert Shop",
+    "address": "Memorial Cooperative Supermarket, Gardens Residents Association Pattom Thanupillai, MGRA 249, Upper Meridian Rd",
+    "category": "Dessert shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-24 22:23:04.158615"
+  },
+  {
+    "place_id": "0x3b05bbdb7cfa8c27:0",
+    "name": "Popular Hyundai Service - Charachira",
+    "address": "Bldg No 11, Naveen Taj Building, 1726, Charachira Road",
+    "category": "Hyundai dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-24 22:23:03.029070"
+  },
+  {
+    "place_id": "0x3b05e93c05c28e83:0",
+    "name": "OREO CAFE",
+    "address": "₹1–200",
+    "category": "(39)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-24 22:23:01.884883"
+  },
+  {
+    "place_id": "0x3b05e95f91895d9b:0",
+    "name": "KEY POWER SOLUTIONS PVT LTD",
+    "address": "Kizhakkinkara Workspace Building Thattupalam",
+    "category": "Solar energy equipment supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-24 22:23:00.686318"
+  },
+  {
     "place_id": "0x3b05c96c49c55867:0",
     "name": "Neethi Cooperative Medical Store, Vithura",
     "address": "M3FM+5F9",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-04 07:39:13.482648"
-  },
-  {
-    "place_id": "0x3b05bb901856aa9f:0",
-    "name": "Goodyear Autocare - Nayana",
-    "address": "Kanjirampara Rd",
-    "category": "Tire shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-04 07:39:12.334483"
-  },
-  {
-    "place_id": "0x8811df511aa9b96b:0",
-    "name": "Abundance Hall",
-    "address": "",
-    "category": "Event venue",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-04 07:39:11.213924"
-  },
-  {
-    "place_id": "0x3b05bb0687a2c801:0",
-    "name": "Vredestein Tyres - Popular Tyres",
-    "address": "Ground Floor, Thakaraparambu Rd, near Overbridge",
-    "category": "Tire shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-04 07:39:10.097887"
-  },
-  {
-    "place_id": "0x880fd3517fb59d19:0",
-    "name": "The Chicago Diamond and Jewelry Exchange",
-    "address": "66 E Walton St",
-    "category": "Diamond dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-04 07:39:08.970265"
   }
 ]
