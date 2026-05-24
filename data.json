@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bba02be0f243:0",
+    "name": "SP Fort Hospital",
+    "address": "",
+    "category": "Doctor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-24 10:09:25.571121"
+  },
+  {
+    "place_id": "0x872b118c0f1daedd:0",
+    "name": "High Desert Trailer Sales",
+    "address": "",
+    "category": "Trailer dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-24 10:09:24.408566"
+  },
+  {
+    "place_id": "0x3b05bba84fa11e5d:0",
+    "name": "Jeetech Solutions",
+    "address": "MG Road, Near Babas Studio, printer repair service, Toner refill repair service, Thakaraparambu Rd",
+    "category": "Printer repair service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-24 10:09:23.254247"
+  },
+  {
+    "place_id": "0x872b74d1e0720295:0",
+    "name": "Phoenix Printer Repair",
+    "address": "",
+    "category": "Printer repair service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-24 10:09:22.070183"
+  },
+  {
+    "place_id": "0x3b05ea01a9ce439f:0",
+    "name": "cds Infoway",
+    "address": "Opens 9:30 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-24 10:09:20.881662"
+  },
+  {
     "place_id": "0x3b05bb7430b406c3:0",
     "name": "Feel - The lingerie store",
     "address": "1st floor, near Surya Medicals, opp. Ali express",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-04 02:56:38.866887"
-  },
-  {
-    "place_id": "0x3b05bf6af44a11d3:0",
-    "name": "Sector 7 Games",
-    "address": "First floor, Soorya Enclave, NH66, After, Service Rd",
-    "category": "Laser tag center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-04 02:56:37.695471"
-  },
-  {
-    "place_id": "0x3b05bbc5d6111745:0",
-    "name": "KTDC MASCOT HOTEL",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-04 02:56:36.500546"
-  },
-  {
-    "place_id": "0x3b05ae88fa9e2d5f:0",
-    "name": "Smart Rexine House",
-    "address": "Akshaya Shopping Complex",
-    "category": "Upholstery shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-03 19:56:42.990777"
-  },
-  {
-    "place_id": "0x3b05a92556e4afb3:0",
-    "name": "Wallenford Construction & Interiors",
-    "address": "main road, near sree krishna temple",
-    "category": "Contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-03 19:56:41.859520"
-  },
-  {
-    "place_id": "0x3b05afe8069c3bfd:0",
-    "name": "PIXEL ART 3D STUDIO",
-    "address": "1 st Floor, Jayachandran Building, Poovar Rd, near Margin Free Market",
-    "category": "3D printing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-03 19:56:40.670727"
   }
 ]
