@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb21f4b078b3:0",
+    "name": "Bindhuv&associates, Chartered Accountants",
+    "address": "1352, Sivapriya, Mangad Ln",
+    "category": "Chartered accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-27 22:30:00.567423"
+  },
+  {
+    "place_id": "0x3b05a5e634584b5d:0",
+    "name": "Thettivila Junction",
+    "address": "C2C6+62W, AGC Rd",
+    "category": "Private investigator",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-27 22:29:59.404266"
+  },
+  {
     "place_id": "0x87ee9d5f53bbb1e7:0",
     "name": "TinkerCrafts3D",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-04 15:03:16.504670"
-  },
-  {
-    "place_id": "0x3b05bfa9bc1dff39:0",
-    "name": "Hotel Karthika Park",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-04 15:03:15.345892"
-  },
-  {
-    "place_id": "0x3b05b94d04f6d265:0",
-    "name": "Golden Hub Snooker and Pool",
-    "address": "",
-    "category": "Pool hall",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-04 15:03:14.220807"
   }
 ]
