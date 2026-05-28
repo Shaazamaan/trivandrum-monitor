@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbe250ab5b93:0",
+    "name": "Trivandrum Cooling Solutions",
+    "address": "Convent Rd",
+    "category": "Air conditioning system supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-28 21:20:22.237497"
+  },
+  {
     "place_id": "0x808e32a712a8b35f:0",
     "name": "Mercedes-Benz of San Jose",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-04 19:45:24.223116"
-  },
-  {
-    "place_id": "0x3b05ab69bfb9f0c1:0",
-    "name": "Agape yoga center",
-    "address": "Opens 6 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-04 19:45:23.072016"
   }
 ]
