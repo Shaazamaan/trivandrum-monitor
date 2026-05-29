@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x872b113930009b0b:0",
+    "name": "1800 Emergency Dentist Phoenix 24 Hour",
+    "address": "",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-29 00:23:36.107822"
+  },
+  {
+    "place_id": "0x872b0dc76cc26bf3:0",
+    "name": "Hydrate IV Bar",
+    "address": "",
+    "category": "Wellness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-29 00:23:34.908603"
+  },
+  {
+    "place_id": "0x3b05bfe31fa2d381:0",
+    "name": "BRIGHT SMILE DENTAL CLINIC KAZHAKOOTTAM",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-29 00:23:33.731832"
+  },
+  {
+    "place_id": "0x3b05bbb56fc0dcad:0",
+    "name": "Kerala State Consumer Disputes Redressal Commission, Thiruvananthapuram",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-29 00:23:32.506001"
+  },
+  {
     "place_id": "0x3b05bbe250ab5b93:0",
     "name": "Trivandrum Cooling Solutions",
     "address": "Convent Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-05 03:49:03.349916"
-  },
-  {
-    "place_id": "0x3b05bb0769eca131:0",
-    "name": "SYMPHONY ALUMINIUM & MOSQUITO HARDWARES",
-    "address": "",
-    "category": "Aluminum supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 03:49:02.177745"
-  },
-  {
-    "place_id": "0x3b05e9f8f3f9181b:0",
-    "name": "Kerala School Of Yoga",
-    "address": "2nd floor, SBI Bank building, Mamom Road, opp. Ganga Theatre",
-    "category": "Yoga retreat center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-04 19:45:26.559373"
-  },
-  {
-    "place_id": "0x3b05e9360e2cddc7:0",
-    "name": "Naturals Salon & Spa TB Junction, Attingal",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-04 19:45:25.431522"
-  },
-  {
-    "place_id": "0x3b05b9482d88ab3f:0",
-    "name": "Bloom Fitness Studio-Aerobics, PowerYoga, Pilates, Cardio, Strength Training(Ladies Only)",
-    "address": "Kottakkal AryavaidyaSala building, Near KSRTC Nedumnagad, Bus Stand Rd",
-    "category": "Yoga studio",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-04 19:45:24.223116"
   }
 ]
