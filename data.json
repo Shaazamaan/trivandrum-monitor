@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b9ed0229a331:0",
+    "name": "Srees Constructions Consultancy & Management",
+    "address": "Jn",
+    "category": "Civil engineer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-30 12:50:23.674528"
+  },
+  {
+    "place_id": "0x3b05b9e2fd903d41:0",
+    "name": "G S P U & Associates, Chartered Accountants",
+    "address": "SECOND FLOOR, TRINITY CENTRE, T.C. 14/4354/5, Kesavadasapuram Jct",
+    "category": "Chartered accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-30 12:50:22.526192"
+  },
+  {
     "place_id": "0x3b05bfdb45426ab3:0",
     "name": "NITARA MEDICALS (UNDER VISWAS COMMUNITY FAIR PRICE MEDICAL SERVICES)",
     "address": "Sreekariyam - Aakkulam Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-05 07:26:01.659599"
-  },
-  {
-    "place_id": "0x3b05c148d8a15e15:0",
-    "name": "Venjarammoodu",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 07:26:00.482570"
-  },
-  {
-    "place_id": "0x3b05bbcbb88fa5bb:0",
-    "name": "Rajiv Gandhi Sports Medicine Centre",
-    "address": "",
-    "category": "Sports medicine physician",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 07:25:59.316251"
   }
 ]
