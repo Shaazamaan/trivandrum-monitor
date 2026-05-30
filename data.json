@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x89b327572722a467:0",
+    "name": "Autova",
+    "address": "",
+    "category": "Used car dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-30 23:50:36.051993"
+  },
+  {
+    "place_id": "0x3b05b13fe654cc2f:0",
+    "name": "used cars kattakkada",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-30 23:50:34.944987"
+  },
+  {
+    "place_id": "0x3b05ae5c7c926933:0",
+    "name": "CAR STORE - TMM Motors",
+    "address": "",
+    "category": "Used car dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-30 23:50:33.837126"
+  },
+  {
+    "place_id": "0x3b05afac07956f1b:0",
+    "name": "AIEROSOFT",
+    "address": "Court Rd, near Neyyattinkara Court Complex",
+    "category": "Security system supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-30 23:50:32.693987"
+  },
+  {
+    "place_id": "0x3b05af6b35a599d3:0",
+    "name": "THE PENTA DEN by Pandava’s",
+    "address": "₹200–400",
+    "category": "(1,103)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-30 23:50:31.497901"
+  },
+  {
     "place_id": "0x3b05bb477c84dadb:0",
     "name": "ARCADEX GAMING HUB",
     "address": "Vallakadavu Road, near anas hotel",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-05 10:58:35.031814"
-  },
-  {
-    "place_id": "0x3b05befeae504913:0",
-    "name": "LAS Travels",
-    "address": "Technopark Trivandrum",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 10:58:33.879431"
-  },
-  {
-    "place_id": "0x3b05c1ff421c36ab:0",
-    "name": "Alpha Steel Roofing Sheets Trivandrum",
-    "address": "Alpha Steel Royal Auto Spa Building, Mohanapuram, Koithoorkonam, Post",
-    "category": "Roofing supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 10:58:32.757446"
-  },
-  {
-    "place_id": "0x3b05bfeac45c3c93:0",
-    "name": "Greenfield International Stadium Thiruvananthapuram",
-    "address": "",
-    "category": "Stadium",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 10:58:31.647265"
-  },
-  {
-    "place_id": "0x3b05bb5678a61445:0",
-    "name": "Elements The Jewel Studio",
-    "address": "Trivandrum Vizhinjam Rd",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 09:10:46.316884"
-  },
-  {
-    "place_id": "0x87694b7575446f69:0",
-    "name": "Dellenbach Motors",
-    "address": "",
-    "category": "Cadillac dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 09:10:45.126691"
   }
 ]
