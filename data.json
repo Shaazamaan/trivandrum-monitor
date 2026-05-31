@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05ba32da3578b9:0",
+    "name": "Thanal Organic Bazaar",
+    "address": "",
+    "category": "Organic shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-31 12:12:08.115186"
+  },
+  {
+    "place_id": "0x89b679cce5b78ce7:0",
+    "name": "Northern Virginia Hemp and Agriculture",
+    "address": "",
+    "category": "Cannabis store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-31 12:12:07.016479"
+  },
+  {
+    "place_id": "0x89b5c535b7c09163:0",
+    "name": "Front Royal Tobacco and Vape",
+    "address": "",
+    "category": "Tobacco shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-31 12:12:05.903292"
+  },
+  {
+    "place_id": "0x89b5c405d44f1749:0",
+    "name": "Target",
+    "address": "$$",
+    "category": "(234)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-31 12:12:04.779117"
+  },
+  {
+    "place_id": "0x3b05bba5e411a9e9:0",
+    "name": "Thampanoor",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-05-31 12:12:03.665331"
+  },
+  {
     "place_id": "0x89b327572722a467:0",
     "name": "Autova",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-05 16:54:29.737119"
-  },
-  {
-    "place_id": "0x3b05bb1175e15cc9:0",
-    "name": "Aathma The Healing",
-    "address": "EVRA 221, Krishna Vilasam Rd",
-    "category": "Psychologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 16:54:28.556030"
-  },
-  {
-    "place_id": "0x3b05b97e371818b7:0",
-    "name": "B.K Enterprises",
-    "address": "GXG6+R84, Narmada Shopping Complex",
-    "category": "Roofing supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 10:58:38.436774"
-  },
-  {
-    "place_id": "0x3b05bbc79a8fb477:0",
-    "name": "Chandrasekharan Nair Stadium - Thiruvananthapuram",
-    "address": "",
-    "category": "Stadium",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 10:58:37.254756"
-  },
-  {
-    "place_id": "0x89b641722c040a71:0",
-    "name": "Elite Travel",
-    "address": "23040 Minerva Dr",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 10:58:36.138030"
-  },
-  {
-    "place_id": "0x89c2f861ad5902bf:0",
-    "name": "MetLife Stadium",
-    "address": "",
-    "category": "Stadium",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 10:58:35.031814"
   }
 ]
