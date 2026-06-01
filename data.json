@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x89c803de8b955663:0",
+    "name": "Ekiben",
+    "address": "$10–20",
+    "category": "(448)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-01 20:55:04.435057"
+  },
+  {
+    "place_id": "0x89b5c7fed12f5ce9:0",
+    "name": "Engineering Techniques",
+    "address": "319 Peakova Ln",
+    "category": "Structural engineer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-01 20:55:03.325077"
+  },
+  {
+    "place_id": "0x89b7ba8737cdc2a5:0",
+    "name": "MGM National Harbor Hotel & Casino",
+    "address": "",
+    "category": "5-star hotel",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-01 20:55:02.188137"
+  },
+  {
     "place_id": "0x3b05ef175e08e88b:0",
     "name": "NAVODAYA PHYSIOTHERAPY, CHIROPRACTIC AND CUPPING THERAPY CLINIC",
     "address": "Opens 10 AM Tue",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-05 19:59:55.595643"
-  },
-  {
-    "place_id": "0x3b07aac6ab433ffd:0",
-    "name": "Marian Retreat Center Anakkara",
-    "address": "",
-    "category": "Retreat center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 19:59:54.479167"
-  },
-  {
-    "place_id": "0x3b05bba3fae2bfbd:0",
-    "name": "Aries Plex SL Cinemas",
-    "address": "",
-    "category": "Movie theater",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 19:59:53.350319"
-  },
-  {
-    "place_id": "0x3b05c76160cfda27:0",
-    "name": "MOUNT CARMEL RETREAT CENTRE",
-    "address": "",
-    "category": "Religious institution",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 19:59:52.223873"
   }
 ]
