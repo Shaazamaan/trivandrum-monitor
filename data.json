@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x87edc7ad086816ef:0",
+    "name": "Supreme Air Duct Cleaning",
+    "address": "Opens 8 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-02 06:57:20.926892"
+  },
+  {
+    "place_id": "0x3b05eb619da523d5:0",
+    "name": "Ramya Boat Yard",
+    "address": "MQ2C+PWF, Chilakkoor - Vallakkadavu Rd",
+    "category": "Boat builders",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-02 06:57:19.698450"
+  },
+  {
     "place_id": "0x89c803de8b955663:0",
     "name": "Ekiben",
     "address": "$10–20",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-05 19:59:59.411935"
-  },
-  {
-    "place_id": "0x8850ab85daa27035:0",
-    "name": "Indigo Nature Retreat",
-    "address": "1037 Newberry Creek Rd",
-    "category": "Retreat center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 19:59:56.745335"
-  },
-  {
-    "place_id": "0x3b05beb878cbcb29:0",
-    "name": "Dhwani Open Air Theatre",
-    "address": "",
-    "category": "Performing arts theater",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 19:59:55.595643"
   }
 ]
