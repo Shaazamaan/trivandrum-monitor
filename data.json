@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0xc14b34c7328ad19:0",
+    "name": "Aurum Builders And Developers",
+    "address": "Karthika Nivas",
+    "category": "Engineering consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-02 11:31:30.294740"
+  },
+  {
+    "place_id": "0x3b05c32f72ab71cf:0",
+    "name": "Highland Traders",
+    "address": "Mahadevaswaram, near CANARA BANK",
+    "category": "Plumbing supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-02 11:31:29.108127"
+  },
+  {
     "place_id": "0x87edc7ad086816ef:0",
     "name": "Supreme Air Duct Cleaning",
     "address": "Opens 8 AM",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-05 20:00:01.648296"
-  },
-  {
-    "place_id": "0x88d9026d8265c9b9:0",
-    "name": "Ferrari of Fort Lauderdale",
-    "address": "",
-    "category": "Ferrari dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 20:00:00.523128"
-  },
-  {
-    "place_id": "0x864e7232c44c0223:0",
-    "name": "Encore Drive-In Nights",
-    "address": "",
-    "category": "Movie theater",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 19:59:59.411935"
   }
 ]
