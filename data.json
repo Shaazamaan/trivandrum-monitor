@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05ea07de9926d1:0",
+    "name": "Pooja Borewell",
+    "address": "+91 94952 01266",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-03 05:29:28.662351"
+  },
+  {
+    "place_id": "0x3b05c3aae39c0847:0",
+    "name": "Akash Borewells",
+    "address": "near Petrol Pump Erttachira",
+    "category": "Well drilling contractor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-03 05:29:27.551007"
+  },
+  {
+    "place_id": "0x3b05c3b52493bb53:0",
+    "name": "Dr.Prakash Ortho Clinic",
+    "address": "QVCJ+H7F, SH 1",
+    "category": "Medical Center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-03 05:29:26.450433"
+  },
+  {
+    "place_id": "0x3b05bf0c5dcdde59:0",
+    "name": "Magic Planet",
+    "address": "",
+    "category": "Theme park",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-03 05:29:25.348168"
+  },
+  {
     "place_id": "0xc14b34c7328ad19:0",
     "name": "Aurum Builders And Developers",
     "address": "Karthika Nivas",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-05 22:10:01.720923"
-  },
-  {
-    "place_id": "0x3b05bb76b4498907:0",
-    "name": "Pitter Patter - The Kids Fun Centre",
-    "address": "2nd Floor, Poomangalam Heights, Kannettumukku Rd, above Muthoot Finance",
-    "category": "Indoor playground",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 22:10:00.593130"
-  },
-  {
-    "place_id": "0x3b05eb0078089e99:0",
-    "name": "Albyon Arcade",
-    "address": "MQ3Q+2Q7, Sarkara Bypass Rd",
-    "category": "Leasing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 22:09:59.458418"
-  },
-  {
-    "place_id": "0x3b05eb6bec2e8a8b:0",
-    "name": "DR SIJINS FAMILY DENTAL CLINIC ( 100 percent assured pain free dental treatments)",
-    "address": "p.o, DR SIJINS FAMILY DENTAL CLINIC, Sarkara Bypass Rd",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 22:09:58.282353"
-  },
-  {
-    "place_id": "0x3b05ab0bdf14923f:0",
-    "name": "Sree Saraswathy Sree Kaleeswari Theatre Complex",
-    "address": "",
-    "category": "Movie theater",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 20:00:01.648296"
   }
 ]
