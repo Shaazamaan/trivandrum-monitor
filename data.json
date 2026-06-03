@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x808fcbeb829f73ab:0",
+    "name": "Casino M8trix",
+    "address": "$$",
+    "category": "(3,555)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-03 15:28:54.302415"
+  },
+  {
+    "place_id": "0x808fc65b72054dcf:0",
+    "name": "Sail Internet",
+    "address": "305 Laurelwood Road",
+    "category": "Internet service provider",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-03 15:28:53.146529"
+  },
+  {
+    "place_id": "0x808e32e3e79c3ff5:0",
+    "name": "GoodWare Restaurant Supply Inc.",
+    "address": "",
+    "category": "Restaurant supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-03 15:28:51.987365"
+  },
+  {
+    "place_id": "0x3b05b950b2b04e8f:0",
+    "name": "Ulloor",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-03 15:28:50.819015"
+  },
+  {
+    "place_id": "0x808fcb888f864ec9:0",
+    "name": "Telecommunications",
+    "address": "",
+    "category": "Telecommunications service provider",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-03 15:28:49.668093"
+  },
+  {
+    "place_id": "0x3b05ef92c42b7897:0",
+    "name": "BSNL Store",
+    "address": "AS Communication",
+    "category": "Telecommunications service provider",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-03 15:28:48.505728"
+  },
+  {
     "place_id": "0x3b05ea07de9926d1:0",
     "name": "Pooja Borewell",
     "address": "+91 94952 01266",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-06 05:58:46.016187"
-  },
-  {
-    "place_id": "0x3b05bde766157ec7:0",
-    "name": "Nailed It Global - Lulu Mall, Trivandrum",
-    "address": "First Floor, Lulu Mall",
-    "category": "Nail salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-06 05:58:44.856717"
-  },
-  {
-    "place_id": "0x3b05bb8887548883:0",
-    "name": "RAVE Salon & Spa - Beauty parlour in Pattom ,Thiruvananthapuram",
-    "address": "Ansura Heights, 2nd Floor, opposite Vaiyduthi Bhavan - KSEB",
-    "category": "Nail salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-06 05:58:43.460388"
-  },
-  {
-    "place_id": "0x3b05b95e48a6a9c7:0",
-    "name": "Navajeevan Naturopathy",
-    "address": "",
-    "category": "Naturopathic practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-06 05:58:42.283272"
-  },
-  {
-    "place_id": "0x3b05bbe4fd6420db:0",
-    "name": "D Artistry - Nail Art studio",
-    "address": "",
-    "category": "Nail salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-06 05:58:41.117959"
-  },
-  {
-    "place_id": "0x3b05b90010f61f9f:0",
-    "name": "Kalavara",
-    "address": "₹1–200",
-    "category": "(40)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 22:10:02.843901"
-  },
-  {
-    "place_id": "0x3b05bbc7ab29ca97:0",
-    "name": "Smile World Dental Clinic,Vattiyoorkavu",
-    "address": "Hyath Plaza Shopping Complex, Vattiyoorkkav-Arappura Rd, opp. ICICI Bank",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-05 22:10:01.720923"
   }
 ]
