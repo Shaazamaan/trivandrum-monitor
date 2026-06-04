@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b99d24cac4c5:0",
+    "name": "Devaki Tea Shop",
+    "address": "₹1–200",
+    "category": "(44)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-04 22:32:59.170878"
+  },
+  {
+    "place_id": "0x52b33848312df57b:0",
+    "name": "Pioneer Midwest",
+    "address": "",
+    "category": "Ski shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-04 22:32:58.010271"
+  },
+  {
+    "place_id": "0x3b05bb7a79e40da3:0",
+    "name": "Chaikaari Manacaud",
+    "address": "₹1–200",
+    "category": "(314)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-04 22:32:56.824074"
+  },
+  {
     "place_id": "0x3b05e90066fffc6f:0",
     "name": "WESTA INTERNATIONAL STUDY ABROAD",
     "address": "MRV6+F98",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-06 16:11:41.660473"
-  },
-  {
-    "place_id": "0x3b05b9ed6bd238ed:0",
-    "name": "MS Music Factory",
-    "address": "",
-    "category": "Recording studio",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-06 16:11:40.476349"
-  },
-  {
-    "place_id": "0x3b05c500f9584f23:0",
-    "name": "Masood Perfumes",
-    "address": "Uliyancod road, Pangode - Pazhavila Rd",
-    "category": "Perfume store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-06 14:06:47.014446"
-  },
-  {
-    "place_id": "0x3b05bbb427101ceb:0",
-    "name": "Azad Star at Vazhuthacaud",
-    "address": "₹200–400",
-    "category": "(6,117)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-06 14:06:45.862987"
   }
 ]
