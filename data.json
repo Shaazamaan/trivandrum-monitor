@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05b74edb15223d:0",
+    "name": "GYMS INTERIORS",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 00:20:07.093310"
+  },
+  {
+    "place_id": "0x3b05b9785436c023:0",
+    "name": "Life Mantra - The Holistic wellness centre",
+    "address": "Edassery, Karavalavu, near Govt. College",
+    "category": "Family counselor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 00:20:05.987882"
+  },
+  {
+    "place_id": "0x3b05bb0114f7a7d5:0",
+    "name": "Gypsum Point",
+    "address": "",
+    "category": "Gypsum product supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 00:20:04.884598"
+  },
+  {
+    "place_id": "0x3b05bbaba85a2e85:0",
+    "name": "SPACE INTERIORS (GYPSUM DESIGNERS)",
+    "address": "near LAWCOLLEGE",
+    "category": "Gypsum product supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 00:20:02.317010"
+  },
+  {
     "place_id": "0x3b05bb7b45d18889:0",
     "name": "Adv. VINEETH KUMAR V.S - Law Quarters",
     "address": "1st Floor, Maharani Buildings",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-07 22:01:15.490871"
-  },
-  {
-    "place_id": "0x3b05bba9385183dd:0",
-    "name": "Karunya Community Pharmacy",
-    "address": "FXP4+WHW, CV Raman Pillai Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-07 22:01:14.304909"
-  },
-  {
-    "place_id": "0x3b05c1b07a8b2a2d:0",
-    "name": "AL - MAS WEDDINGS EVENTS & WEDDING PLANNERS HIRE SERVICES",
-    "address": "Kazhakoottam - Kilimanoor Rd",
-    "category": "Event management company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-07 22:01:13.171671"
-  },
-  {
-    "place_id": "0x3b05c0a32107ed23:0",
-    "name": "S.R Medicals & Wellcare Community Pharmacy",
-    "address": "Aayilyam, Pothencode - Pallippuram Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-07 22:01:11.993994"
-  },
-  {
-    "place_id": "0x3b05c3225a8c02d3:0",
-    "name": "Cyberfix IT Solutions & Security Systems",
-    "address": "QV9G+6WP,Kilimanoor",
-    "category": "Computer repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-07 12:08:40.079623"
   }
 ]
