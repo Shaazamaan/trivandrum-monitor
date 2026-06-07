@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x87694b5000000001:0",
+    "name": "Mold Removal Express Fort Collins",
+    "address": "3600 Mitchell Dr #6",
+    "category": "Water damage restoration service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 23:20:54.075622"
+  },
+  {
+    "place_id": "0x87694ac8a1521a83:0",
+    "name": "Frameworks",
+    "address": "3 Old Town Square Suite 108",
+    "category": "Custom home builder",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 23:20:52.898031"
+  },
+  {
     "place_id": "0x89b657e434a61de1:0",
     "name": "Strong Home Mortgage, LLC",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-08 12:13:54.977441"
-  },
-  {
-    "place_id": "0x3b05ef32c8d0c269:0",
-    "name": "Lumuma Cafe",
-    "address": "North Cliff, Thiruvambadi Rd",
-    "category": "Vegan",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 12:13:53.845237"
-  },
-  {
-    "place_id": "0x3b05e900147e8663:0",
-    "name": "SADVRITTA AYURVEDA CLINIC & PANCHAKARMA CENTRE",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 12:13:52.719231"
   }
 ]
