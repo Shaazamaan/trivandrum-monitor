@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bbe33ea96471:0",
+    "name": "Ashish Tourist Home",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 19:04:27.038886"
+  },
+  {
+    "place_id": "0x3b05bbfc15d2b465:0",
+    "name": "Blood Donors",
+    "address": "+91 82812 45678",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 19:04:25.939312"
+  },
+  {
+    "place_id": "0x3b05bc057f7c7c4b:0",
+    "name": "Kerala Institute Of Medical Sciences Blood Bank",
+    "address": "",
+    "category": "Blood donation center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 19:04:24.854862"
+  },
+  {
+    "place_id": "0x3b05b97e58ea944d:0",
+    "name": "Windsor Rajadhani",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 19:04:23.724996"
+  },
+  {
     "place_id": "0x808f86eb980cf19f:0",
     "name": "Boat & Motor Mart",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-08 07:09:05.288194"
-  },
-  {
-    "place_id": "0x3b05bb3555327ee1:0",
-    "name": "Regus KJ Square",
-    "address": "Kuttikkadu Lane",
-    "category": "Office space rental agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 07:09:04.137645"
-  },
-  {
-    "place_id": "0x3b05b111a8e936e9:0",
-    "name": "Aramiya Homes",
-    "address": "Gift of God ,Manali,kollodu, po",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 05:32:37.349898"
-  },
-  {
-    "place_id": "0x808fcca1b7897991:0",
-    "name": "Henry's World Famous Hi-Life",
-    "address": "$$",
-    "category": "(2,586)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 05:32:36.207355"
-  },
-  {
-    "place_id": "0x43c82ccb460a8121:0",
-    "name": "Earx Hearing Care Kilimanoor",
-    "address": "Closes 5 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 05:32:35.015912"
   }
 ]
