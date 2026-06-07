@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x808f86eb980cf19f:0",
+    "name": "Boat & Motor Mart",
+    "address": "",
+    "category": "Boat dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 11:03:45.401992"
+  },
+  {
+    "place_id": "0x3b05b932ece8e62f:0",
+    "name": "Exotic Paradise - Aquarium",
+    "address": "",
+    "category": "Aquarium shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 11:03:44.156295"
+  },
+  {
+    "place_id": "0x3b05bb68262d8d59:0",
+    "name": "Posh Wedding Rental Thiruvananthapuram",
+    "address": "F234+679",
+    "category": "Wedding dress rental service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 11:03:42.963283"
+  },
+  {
+    "place_id": "0x3b05a90ea402f739:0",
+    "name": "Poovar Boating Club",
+    "address": "Poovar - Uchakada Bypass, Rd",
+    "category": "Tour operator",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 11:03:41.783506"
+  },
+  {
+    "place_id": "0x3b05bbddb7233c2f:0",
+    "name": "RK WEDDING MALL",
+    "address": "",
+    "category": "Wedding store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-07 11:03:40.604543"
+  },
+  {
     "place_id": "0x3b05bf047a583e85:0",
     "name": "Lexfins 360 Corporate Services LLP",
     "address": "Atomic, Technopark",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-08 05:32:35.015912"
-  },
-  {
-    "place_id": "0x3b05b90ae99f73cb:0",
-    "name": "Mirae Asset Sharekhan",
-    "address": "No KP/8/16A, Sreepadmam, TVPM, Kudappanakunnu",
-    "category": "Stock broker",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 03:28:42.123274"
-  },
-  {
-    "place_id": "0x808fb715c7e44ee7:0",
-    "name": "Aung Z Lin, D.O.",
-    "address": "South Wing, 701 E El Camino Real Floor 3",
-    "category": "Infectious disease physician",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 03:28:40.973479"
-  },
-  {
-    "place_id": "0x808e33582fd3dc59:0",
-    "name": "Black Sheep Brasserie",
-    "address": "$50–100",
-    "category": "(847)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 03:28:39.815215"
-  },
-  {
-    "place_id": "0x8085819b9632b679:0",
-    "name": "How involved do you want to be in the forex market?",
-    "address": "(510) 224-9003",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 03:28:38.670776"
-  },
-  {
-    "place_id": "0x3b05bb0020820737:0",
-    "name": "Dr Sofia Salim",
-    "address": "GWFV+947, LIC Ln",
-    "category": "Doctor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 03:28:37.447360"
   }
 ]
