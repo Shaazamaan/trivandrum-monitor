@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x865ab354eb0a6df9:0",
+    "name": "US Cryotherapy - Fort Hood",
+    "address": "",
+    "category": "Wellness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-08 22:23:51.565671"
+  },
+  {
+    "place_id": "0x3b05bb0a215157ab:0",
+    "name": "DARSHAN THE LINGERIE SHOP",
+    "address": "SHOP NO 4,GROUND FLOOR, Attukal Shopping Complex",
+    "category": "Lingerie store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-08 22:23:50.470418"
+  },
+  {
+    "place_id": "0x89b426cda77a7277:0",
+    "name": "VAMAC Inc.",
+    "address": "",
+    "category": "Bathroom supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-08 22:23:49.345676"
+  },
+  {
+    "place_id": "0x3b05a50a11195083:0",
+    "name": "Modern Sanitary Wares",
+    "address": "Kovalam Rd",
+    "category": "Bathroom supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-08 22:23:48.249434"
+  },
+  {
     "place_id": "0x87ee9900dbe57865:0",
     "name": "Graham Construction, a 3G Company",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-08 17:22:43.574906"
-  },
-  {
-    "place_id": "0x3b05b93a41ee5135:0",
-    "name": "LET Design Lighting Consultants",
-    "address": "",
-    "category": "Lighting consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 17:22:42.472380"
-  },
-  {
-    "place_id": "0x3b05bbcce9ff2c7b:0",
-    "name": "Dr Agarwals Eye Hospital",
-    "address": "",
-    "category": "Lasik surgeon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 17:22:41.352449"
-  },
-  {
-    "place_id": "0x3b05b9276063ff29:0",
-    "name": "Dialysis Unit, Trivandrum medical College",
-    "address": "",
-    "category": "Dialysis center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 17:22:40.238364"
-  },
-  {
-    "place_id": "0x3b05ef72b986784d:0",
-    "name": "Nexgen AutoSpa Varkala",
-    "address": "",
-    "category": "Auto restoration service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 15:59:08.059099"
   }
 ]
