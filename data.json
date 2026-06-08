@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x87ee9900dbe57865:0",
+    "name": "Graham Construction, a 3G Company",
+    "address": "",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-08 18:17:36.836623"
+  },
+  {
+    "place_id": "0x87eea2bf95ec51b5:0",
+    "name": "The Southridge Mall",
+    "address": "",
+    "category": "Shopping mall",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-08 18:17:35.684819"
+  },
+  {
+    "place_id": "0x87ee9bfb54e38b49:0",
+    "name": "Reliable Maintenance Co",
+    "address": "2525 Douglas Ave",
+    "category": "Janitorial service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-08 18:17:34.473389"
+  },
+  {
+    "place_id": "0x3b05e9a2d4c3a18b:0",
+    "name": "Rajakumari Mall",
+    "address": "",
+    "category": "Shopping mall",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-08 18:17:33.301374"
+  },
+  {
     "place_id": "0x3b05e76c3c32ff3b:0",
     "name": "Devas Construction & Maintenance Company",
     "address": "QPPV+927, Palayamkunnu",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-08 15:59:08.059099"
-  },
-  {
-    "place_id": "0x3b05e92b985410f7:0",
-    "name": "Sen International",
-    "address": "Opens 9 AM Thu",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 15:59:06.883453"
-  },
-  {
-    "place_id": "0x3b05ef291d418965:0",
-    "name": "S.K Metals",
-    "address": "PPPG+F2W, Railway Station Road",
-    "category": "Restaurant supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 15:59:05.679692"
-  },
-  {
-    "place_id": "0x3b05bea6aaaaaaab:0",
-    "name": "T. Jacob's Company",
-    "address": "TC 15, 1856, Kesavadasapuram - Venjaramoodu Rd",
-    "category": "Gun shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 15:59:04.495605"
-  },
-  {
-    "place_id": "0x3b05bbe74d44699f:0",
-    "name": "NR kitchen equipments",
-    "address": "Closes 7:30 AM Thu",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 15:59:03.309729"
   }
 ]
