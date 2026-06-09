@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05cdc455555555:0",
+    "name": "Ponmudi Hill Station",
+    "address": "",
+    "category": "Tourist attraction",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-09 23:11:46.724353"
+  },
+  {
+    "place_id": "0x3b05bb3dc55a891d:0",
+    "name": "SERENE MIND CARE, TRIVANDRUM",
+    "address": "TC 25, 4100(1, Museum station road",
+    "category": "Credit counseling service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-09 23:11:45.561347"
+  },
+  {
     "place_id": "0x3b05b9a9626fc353:0",
     "name": "Athma Ayurvedic Spa",
     "address": "Tc 6, 406, Road, near Janasevana Kendram",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-08 19:03:26.731737"
-  },
-  {
-    "place_id": "0x3b05e9f75e7e1d4f:0",
-    "name": "Light House Electricals",
-    "address": "MRW9+94J",
-    "category": "Market",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 17:22:48.079722"
-  },
-  {
-    "place_id": "0x3b05eb038cdd8be3:0",
-    "name": "Dr.Anups Insight Eye Hospital Attingal",
-    "address": "Ramu Arcade, Moonnumukku Jn.,Attingal",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 17:22:46.895023"
   }
 ]
