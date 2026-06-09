@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b9a9626fc353:0",
+    "name": "Athma Ayurvedic Spa",
+    "address": "Tc 6, 406, Road, near Janasevana Kendram",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-09 14:11:09.542632"
+  },
+  {
+    "place_id": "0x3b05b937179438f9:0",
+    "name": "Wow factor",
+    "address": "J232+88F Hospital, junction",
+    "category": "Health spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-09 14:11:08.355351"
+  },
+  {
+    "place_id": "0x3b05bab77cff420b:0",
+    "name": "CARBONS ENTERPRISES",
+    "address": "+91 75105 10750",
+    "category": "Temporarily closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-09 14:11:07.156847"
+  },
+  {
     "place_id": "0x865ab354eb0a6df9:0",
     "name": "US Cryotherapy - Fort Hood",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-08 17:22:46.895023"
-  },
-  {
-    "place_id": "0x3b05c325789a41e7:0",
-    "name": "DEVI EYE HOSPITALS & OPTICIANS - KILIMANOOR",
-    "address": "LS plaza, Attingal road",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 17:22:45.796381"
-  },
-  {
-    "place_id": "0x3b05c18e11f20e53:0",
-    "name": "Al Hiba Eye Hospital",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 17:22:44.701971"
-  },
-  {
-    "place_id": "0x3b05c12dbba30989:0",
-    "name": "St Johns Dialysis Centre",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 17:22:43.574906"
   }
 ]
