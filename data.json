@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05bfaa035cd591:0",
+    "name": "ProNutrition",
+    "address": "",
+    "category": "Vitamin & supplements store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-10 14:08:56.111506"
+  },
+  {
+    "place_id": "0x3b05a5004b68e387:0",
+    "name": "Health Drink Shop",
+    "address": "92M3+5FP, Kovalam Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-10 14:08:55.011424"
+  },
+  {
+    "place_id": "0x3b05a50dd88401cf:0",
+    "name": "Future Leisure Homes",
+    "address": "CX4J+MMJ, KS Rd",
+    "category": "Home builder",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-10 14:08:53.893128"
+  },
+  {
+    "place_id": "0x3b05bb92c8c284d7:0",
+    "name": "Margin Free Market",
+    "address": "bus stop, Yashica Edifice",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-10 14:08:52.751642"
+  },
+  {
+    "place_id": "0x3b05bb19680268d1:0",
+    "name": "VCare Hair & Skin Clinic - Sasthamangalam | Skin Treatment, Hair Treatment, Hair Transplant, Laser Hair Removal",
+    "address": "3rd Floor, Padmasaras, No 2587/4, PO",
+    "category": "Laser hair removal service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-10 14:08:51.608489"
+  },
+  {
+    "place_id": "0x5bb3a86d793bdf1:0",
+    "name": "Kochuveettil Properties",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-10 14:08:50.472753"
+  },
+  {
     "place_id": "0x3b05cdc455555555:0",
     "name": "Ponmudi Hill Station",
     "address": "",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-08 22:03:27.115691"
-  },
-  {
-    "place_id": "0x872b1713514d5c73:0",
-    "name": "Baaz Truck & Trailer Repair Shop",
-    "address": "3835 South 67th Ave",
-    "category": "Truck repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 22:03:25.919266"
-  },
-  {
-    "place_id": "0x872b123449f11305:0",
-    "name": "Onyx Art Gallery",
-    "address": "",
-    "category": "Art gallery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 22:03:24.725138"
-  },
-  {
-    "place_id": "0x3b05bc0e8b91e2ab:0",
-    "name": "HOOK \"N\" SPEED road side assistant Recovery service",
-    "address": "Ss bavan sa139, Sivanandan Rd",
-    "category": "Towing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 22:03:23.529874"
-  },
-  {
-    "place_id": "0x3b05bbc8d10879c5:0",
-    "name": "Napier Museum",
-    "address": "",
-    "category": "Archaeological museum",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 22:03:22.350681"
-  },
-  {
-    "place_id": "0x3b05b956cda4c4af:0",
-    "name": "Wellness Nutrition Center Ulloor Trivandrum",
-    "address": "Bunglavil Veedu 1st floor(, above Glamour Footwear",
-    "category": "Wellness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 19:03:27.842806"
-  },
-  {
-    "place_id": "0x6f189f89af4d54d1:0",
-    "name": "Jose and Son Exports Pvt Ltd",
-    "address": "Olive Road",
-    "category": "Import export company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-08 19:03:26.731737"
   }
 ]
