@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x880e2d6d0442c2b9:0",
+    "name": "Chef Brandon Rogers, LLC.",
+    "address": "1 E Erie St Ste 525-5584",
+    "category": "Personal chef service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-12 22:21:57.891643"
+  },
+  {
+    "place_id": "0x3b05a58be773eff3:0",
+    "name": "Triloka Holistic Wellness",
+    "address": "Beach Rd",
+    "category": "Wellness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-12 22:21:56.760837"
+  },
+  {
+    "place_id": "0x880e2cd25781a845:0",
+    "name": "Elite Personal Chefs",
+    "address": "859 W Erie St APT 806",
+    "category": "Caterer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-12 22:21:55.563183"
+  },
+  {
+    "place_id": "0x3b05b92e34a92b61:0",
+    "name": "HEAVEN spa",
+    "address": "B.no: UG 86, TC 6/3203, Ulloor Gardens Rd",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-12 22:21:54.415114"
+  },
+  {
+    "place_id": "0x880e2cab370b0c61:0",
+    "name": "Grazia Aleppo Kacmarek, MD",
+    "address": "",
+    "category": "Endocrinologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-12 22:21:53.287954"
+  },
+  {
+    "place_id": "0x3b05bd70e457bd8f:0",
+    "name": "Dr Soumya S Endocrinologist",
+    "address": "",
+    "category": "Endocrinologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-12 22:21:52.137871"
+  },
+  {
     "place_id": "0x3b05c150049e49b5:0",
     "name": "Sree Gokulam Medical College Hospital",
     "address": "",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-09 22:03:07.322609"
-  },
-  {
-    "place_id": "0x3b05c11de5006339:0",
-    "name": "Alleppey Parcel Service(APS) Venjaramoodu",
-    "address": "near, Market Rd, opposite KSRTC garage",
-    "category": "Logistics service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-09 22:03:06.128611"
-  },
-  {
-    "place_id": "0x3b05b9d3a5795515:0",
-    "name": "Amma pools and Garden group",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-09 22:03:04.892009"
-  },
-  {
-    "place_id": "0x3b05b804505cf843:0",
-    "name": "Plantation Inspector Office",
-    "address": "J242+8W9",
-    "category": "Government office",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-09 22:03:03.699623"
-  },
-  {
-    "place_id": "0x3b05b988e01704b3:0",
-    "name": "Delhivery Courier centre",
-    "address": "HXXX+W34",
-    "category": "Warehouse",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-09 22:03:02.520877"
-  },
-  {
-    "place_id": "0x3b05bb11287dbabf:0",
-    "name": "OASIS POOLS AND FACILITY MANAGEMENT",
-    "address": "AGRA#48, PO",
-    "category": "Swimming pool contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-09 22:03:01.316149"
-  },
-  {
-    "place_id": "0x3b05bb2687bb800b:0",
-    "name": "CARGOCART LOGISTICS",
-    "address": "Domestic Airport Terminal 1, opposite Domestic Cargo Terminal Gate, near Asha Tourist Home",
-    "category": "Freight forwarding service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-09 22:03:00.009504"
   }
 ]
