@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x89ace46dff4bcf8f:0",
+    "name": "Tiny",
+    "address": "",
+    "category": "Children's store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-14 05:20:46.383809"
+  },
+  {
+    "place_id": "0x89b2da6962b6a567:0",
+    "name": "Terry Auto Outlet VA",
+    "address": "",
+    "category": "Used car dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-14 05:20:45.274874"
+  },
+  {
+    "place_id": "0x89b1a63ac9b86ae3:0",
+    "name": "Once Upon A Child Colonial Heights",
+    "address": "",
+    "category": "Children's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-14 05:20:44.168928"
+  },
+  {
+    "place_id": "0x89b1a641f9cedab5:0",
+    "name": "Auto Sales of VA",
+    "address": "316 Boulevard",
+    "category": "Used car dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-14 05:20:43.063430"
+  },
+  {
+    "place_id": "0x3b05bbca6a7f7e67:0",
+    "name": "ABM LEGAL - Advocates & Consultants",
+    "address": "T.C. 82/618 (4, Police Station Road, near SBI ATM",
+    "category": "Law firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-14 05:20:41.945796"
+  },
+  {
     "place_id": "0x3b05b12c3493a6cd:0",
     "name": "KARTHIK SUPER SPECIALITY DENTAL CARE",
     "address": "Opens 9 AM",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-10 14:10:27.048981"
-  },
-  {
-    "place_id": "0x46f91fe4b84b8e03:0",
-    "name": "Best Digital Marketing Specialist | Nisa Basheer",
-    "address": "+91 62826 07670",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-10 14:10:25.930358"
-  },
-  {
-    "place_id": "0x3ba8578435fcce3d:0",
-    "name": "CUPT Towing & Recovery services",
-    "address": "No 54:, D.JayawardhanaveluNagar, Masakalipalayam Rd",
-    "category": "Towing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-10 05:58:20.227021"
-  },
-  {
-    "place_id": "0x808fca8dff0a1899:0",
-    "name": "Stevens Creek Chrysler Jeep Dodge Ram",
-    "address": "",
-    "category": "Car dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-10 05:58:19.051547"
-  },
-  {
-    "place_id": "0x808fcb50beaad98d:0",
-    "name": "Pacific Bay Masonry",
-    "address": "",
-    "category": "Masonry contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-10 05:58:17.913420"
-  },
-  {
-    "place_id": "0x3b05bbba4b20c6d1:0",
-    "name": "Roopam Construction",
-    "address": "Tc -81, 1785, SS Kovil Rd",
-    "category": "Contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-10 05:58:16.745650"
   }
 ]
