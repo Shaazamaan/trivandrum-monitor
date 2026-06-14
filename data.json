@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05b9eb4e54b7e9:0",
+    "name": "SV Granite & Tiles",
+    "address": "Sathram junction",
+    "category": "Tile store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-14 11:42:01.949646"
+  },
+  {
+    "place_id": "0x3b05b9bef440ac8f:0",
+    "name": "DREAMMATES GST AND BUSINESS SOLUTIONS",
+    "address": "Dreammates first floor, daima tower, Mancha Road",
+    "category": "Business management consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-14 11:42:00.813137"
+  },
+  {
+    "place_id": "0x89b114fffbc1ec49:0",
+    "name": "Floor & Decor",
+    "address": "",
+    "category": "Tile store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-14 11:41:59.679688"
+  },
+  {
+    "place_id": "0x89b3210ff13ba9e1:0",
+    "name": "Shoemaker's Termite & Pest",
+    "address": "171 Shelter Ln",
+    "category": "Pest control service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-14 11:41:58.520250"
+  },
+  {
+    "place_id": "0x89b1146cbbfc1ee1:0",
+    "name": "Light & Raphael Business Brokerage",
+    "address": "",
+    "category": "Business broker",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-14 11:41:57.401304"
+  },
+  {
     "place_id": "0x89ace46dff4bcf8f:0",
     "name": "Tiny",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-10 17:18:53.047250"
-  },
-  {
-    "place_id": "0x3b05bf1b238e2371:0",
-    "name": "Gifthub India",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-10 17:18:51.852126"
-  },
-  {
-    "place_id": "0x3b05bb83460f97c7:0",
-    "name": "Adsomia India Pvt Ltd",
-    "address": "",
-    "category": "Advertising agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-10 17:18:50.652725"
-  },
-  {
-    "place_id": "0x3b05bf2c2249f855:0",
-    "name": "KERALA SHOP",
-    "address": "TC 2/2350, SOPANAM, Attinkuzhi Rd, behind Star Briyani, near Technopark Phase III Main Road",
-    "category": "Gift shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-10 17:18:49.485899"
-  },
-  {
-    "place_id": "0x3b05bc3b2ae265db:0",
-    "name": "VSSC Public Relations Office",
-    "address": "",
-    "category": "Public relations firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-10 17:18:48.297877"
-  },
-  {
-    "place_id": "0x3b05c9695555557b:0",
-    "name": "AKHIL G",
-    "address": "Gokul Bhavan, Maruthamala P.O, Vithura",
-    "category": "Marketing consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-10 14:10:27.048981"
   }
 ]
