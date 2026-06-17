@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05c0a338bd1e35:0",
+    "name": "White Smile Dental Clinic",
+    "address": "1st floor, masjid, Located directly, above best bakery",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-17 22:57:47.154861"
+  },
+  {
+    "place_id": "0x3b05c1c165481ab9:0",
+    "name": "ASWATHY STUDIO &COLOUR LAB",
+    "address": "near ASWATHY SILKS",
+    "category": "Photo shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-17 22:57:46.016823"
+  },
+  {
+    "place_id": "0x3b05bf296262dabb:0",
+    "name": "Saavi Lite",
+    "address": "opposite CSI Mission hospital",
+    "category": "Camera store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-17 22:57:44.868315"
+  },
+  {
+    "place_id": "0x3b05bf6043d3707d:0",
+    "name": "THAMURANMUKKU",
+    "address": "AJMAL ALI SHOP",
+    "category": "Tobacco shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-17 22:57:43.746974"
+  },
+  {
+    "place_id": "0x3b05bba6b96d3221:0",
+    "name": "Babas",
+    "address": "",
+    "category": "Camera store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-17 22:57:42.608491"
+  },
+  {
     "place_id": "0x3b05a59b38e3e519:0",
     "name": "Araecon Consultancy Pvt. Ltd.",
     "address": "TC 62/1321(5 1st Floor, Vignesh Tower, Vizhinjam St",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-11 14:29:19.814524"
-  },
-  {
-    "place_id": "0x3b05c9d8a746c45b:0",
-    "name": "MARIS MARINE",
-    "address": "P .O, MARIS MARINE PRABHA MANDIR Bldg no: NP 13 / 247 Elavattom",
-    "category": "Outboard motor store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 13:41:10.335104"
-  },
-  {
-    "place_id": "0x89b11a66767d3d99:0",
-    "name": "Southeastern Marine",
-    "address": "",
-    "category": "Boat dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 13:41:09.216250"
-  },
-  {
-    "place_id": "0x864e722d2a89264b:0",
-    "name": "Woodhouse Spa - Fort Worth",
-    "address": "",
-    "category": "Day spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 13:41:08.051098"
-  },
-  {
-    "place_id": "0x89b209d5a6bf7521:0",
-    "name": "VCU Health Behavioral Health at South Hill",
-    "address": "",
-    "category": "Mental health clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 13:41:06.915803"
-  },
-  {
-    "place_id": "0x3b05a9e068b85357:0",
-    "name": "CHRIST BOAT YARD POOVAR",
-    "address": "Unnamed Road",
-    "category": "Boat builders",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 13:41:05.793746"
   }
 ]
