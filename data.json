@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05c32570ad06a1:0",
+    "name": "Purple Boutique Junction Branch",
+    "address": "Purple Textiles",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-17 16:17:03.927307"
+  },
+  {
+    "place_id": "0x3b05e86deece25bb:0",
+    "name": "Muhabath Catering & Event Management",
+    "address": "",
+    "category": "Caterer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-17 16:17:02.793885"
+  },
+  {
+    "place_id": "0x3b0595a87f779099:0",
+    "name": "Shini Fashion Adict & Makeover Studio",
+    "address": "Closes 8:30 AM Thu",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-17 16:17:01.656719"
+  },
+  {
+    "place_id": "0x3b05bbf29e9c5651:0",
+    "name": "essencia the perfume bar",
+    "address": "junction, opposite heera gate",
+    "category": "Perfume store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-17 16:17:00.537436"
+  },
+  {
     "place_id": "0x808fcb38f84f2a77:0",
     "name": "eTelCom",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-11 07:39:37.588983"
-  },
-  {
-    "place_id": "0x3b05ab25cd893385:0",
-    "name": "Ravi Memorial Clinic (Peripheral Vascular and Endovascular Surgery)",
-    "address": "",
-    "category": "Surgeon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 07:39:36.494053"
-  },
-  {
-    "place_id": "0x3b05bd9baeb9b791:0",
-    "name": "Dr Jayesh S MBBS, MS, MCh (Vascular Surgery)",
-    "address": "Pran Hospital, near LuLu Mall",
-    "category": "Vascular surgeon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 07:39:35.260339"
-  },
-  {
-    "place_id": "0x3b05ef2824f748b5:0",
-    "name": "Kerala State Beverage Corporation Liquor Store (BEVCO)",
-    "address": "",
-    "category": "Liquor store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 06:24:44.034961"
-  },
-  {
-    "place_id": "0x3b05e9da94d4b14b:0",
-    "name": "Ampere International Trading & Contracting Private Limited",
-    "address": "CP 15 303A, PO",
-    "category": "Hardware store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 06:24:42.916879"
   }
 ]
