@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x808fa3d07fc44b4b:0",
+    "name": "Paolo Tresoldi Osteopathic Manual Practitioner",
+    "address": "",
+    "category": "Osteopath",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-18 19:44:53.949672"
+  },
+  {
+    "place_id": "0x808fcd1a07251dc1:0",
+    "name": "Alum Rock Hardware, Windows & Doors",
+    "address": "",
+    "category": "Door supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-18 19:44:52.802995"
+  },
+  {
+    "place_id": "0x808fb7d9d61e0fb5:0",
+    "name": "Masala Comedy Club",
+    "address": "Sunnyvale theater",
+    "category": "Comedy club",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-18 19:44:51.642928"
+  },
+  {
     "place_id": "0x808fca9367936c97:0",
     "name": "Good Life Nutrition",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-11 20:51:34.919998"
-  },
-  {
-    "place_id": "0x3b05a59695df0dcf:0",
-    "name": "Weston Watch Company",
-    "address": "Opens 10 AM Sun",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 18:12:07.097145"
-  },
-  {
-    "place_id": "0x3b05ba1fc75df0e3:0",
-    "name": "Time Point",
-    "address": "GXGQ+8M7, Maruthankuzhi - Kachani Rd",
-    "category": "Watch store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 18:12:05.973406"
-  },
-  {
-    "place_id": "0x3b05bd9a25799f05:0",
-    "name": "Helios Watch Store - Lulu Mall, Trivandrum",
-    "address": "",
-    "category": "Watch store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 18:12:04.830959"
   }
 ]
