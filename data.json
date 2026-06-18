@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x88f5a3837588c39b:0",
+    "name": "Zone Electronics LLC DBA ZBD Liquidation",
+    "address": "",
+    "category": "Electronics store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-18 00:29:11.235451"
+  },
+  {
+    "place_id": "0x88f59f08c84c94c1:0",
+    "name": "Piedmont Urgent Care",
+    "address": "",
+    "category": "Urgent care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-18 00:29:10.125353"
+  },
+  {
+    "place_id": "0x88f575be63bea5c9:0",
+    "name": "Wellstar Lab Services",
+    "address": "",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-18 00:29:09.019666"
+  },
+  {
+    "place_id": "0x3b05bbd9b3bf5a01:0",
+    "name": "Meditrust Diagnostics and Laboratory",
+    "address": "",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-18 00:29:07.884411"
+  },
+  {
+    "place_id": "0x3b05ba1e34cc5b09:0",
+    "name": "Freezon Electricals and Home Appliances",
+    "address": "Vattiyoorkavu - Kulasekharam Rd",
+    "category": "Electronics store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-18 00:29:06.747272"
+  },
+  {
+    "place_id": "0x3b05bb58a0155af7:0",
+    "name": "Doctors Advanced Diagnostics - DAD LAB",
+    "address": "",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-18 00:29:05.632776"
+  },
+  {
     "place_id": "0x3b05c0a338bd1e35:0",
     "name": "White Smile Dental Clinic",
     "address": "1st floor, masjid, Located directly, above best bakery",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-11 14:29:26.980816"
-  },
-  {
-    "place_id": "0x3b05affab31a453f:0",
-    "name": "MS Glass Work",
-    "address": "Closes 5 AM Sun",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 14:29:25.810435"
-  },
-  {
-    "place_id": "0x872b1378a27591a9:0",
-    "name": "STATE OF THE ART AUTO GLASS",
-    "address": "",
-    "category": "Auto glass repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 14:29:24.615396"
-  },
-  {
-    "place_id": "0x872b09295f111777:0",
-    "name": "Arizona Distilling Co.",
-    "address": "",
-    "category": "Distillery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 14:29:23.364364"
-  },
-  {
-    "place_id": "0x872b05a61b02fd71:0",
-    "name": "Foothills Autoglass",
-    "address": "",
-    "category": "Auto glass shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 14:29:22.206597"
-  },
-  {
-    "place_id": "0x872b07c4925b7039:0",
-    "name": "Wild Hare Distillery, (Reservations Rqrd)",
-    "address": "",
-    "category": "Distillery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 14:29:21.022219"
-  },
-  {
-    "place_id": "0x3b05bb07903f868b:0",
-    "name": "VARSHA GLASS HOUSE",
-    "address": "",
-    "category": "Glass & mirror shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-11 14:29:19.814524"
   }
 ]
