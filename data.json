@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x89b6455ce9ec3e4f:0",
+    "name": "All Seasons Gutter and Roofing Services LLC",
+    "address": "Opens 8 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-20 04:27:36.969917"
+  },
+  {
+    "place_id": "0x3b05eb6501ebbdb1:0",
+    "name": "Sarkara Hardware (Athira Store)",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-20 04:27:35.811678"
+  },
+  {
+    "place_id": "0x3b05a9091fc5ba23:0",
+    "name": "SPM Hardware &glass",
+    "address": "4",
+    "category": "Hardware store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-20 04:27:34.689721"
+  },
+  {
     "place_id": "0x3b05ae9d023779a5:0",
     "name": "J.R.P POWERS & SOUNDS Amaravila",
     "address": "+91 96562 72868",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-12 10:12:12.737667"
-  },
-  {
-    "place_id": "0x3b05eb7adc42ab05:0",
-    "name": "Prem Nazir Smarakam",
-    "address": "MQ4M+9MR, Pandakasala Sarkara Rd",
-    "category": "Museum",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-12 08:15:07.980581"
-  },
-  {
-    "place_id": "0x3b05bbe44b0c700b:0",
-    "name": "SOLAR CONNECT",
-    "address": "Near Technopark Side Gate Mulluvila, Jn, Nila Nagar Rd",
-    "category": "Solar energy company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-12 08:15:06.799479"
-  },
-  {
-    "place_id": "0x3b05bf18cb1e36a9:0",
-    "name": "Academy of Civil Engineering KZM",
-    "address": "Paradise Tower, beside NIKUNJAM iPARK",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-12 08:15:05.602361"
   }
 ]
