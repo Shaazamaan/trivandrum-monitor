@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bbb39defc793:0",
+    "name": "TechnoSport",
+    "address": "NETWORLD TC 79/1622 (1) KUTTICAUD Jn",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-20 15:14:16.825465"
+  },
+  {
+    "place_id": "0x3b05bb0f5ef5e64f:0",
+    "name": "Aradhana Eye Institute Manacaud br.",
+    "address": "",
+    "category": "Ophthalmology clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-20 15:14:15.717079"
+  },
+  {
+    "place_id": "0x3b05bb4be138696f:0",
+    "name": "Lifestyle yoga centre",
+    "address": "TC 73/1591",
+    "category": "Yoga studio",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-20 15:14:14.617697"
+  },
+  {
+    "place_id": "0x3b05c0a31d2f4f6d:0",
+    "name": "DEVI EYE HOSPITAL & OPTICIANS - POTHENCODE",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-20 15:14:13.505112"
+  },
+  {
+    "place_id": "0x3b05c1d9226889bd:0",
+    "name": "Helix Fitness Club",
+    "address": "Opposite HP Petrol Pump,Plamoodu,Pothencode, p.o",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-20 15:14:12.400414"
+  },
+  {
     "place_id": "0x3b05baa52495298d:0",
     "name": "Government Taluk Hospital",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-12 13:25:14.802378"
-  },
-  {
-    "place_id": "0x3b05c0a2fe28e8f7:0",
-    "name": "A.G Noma Furniture & Appliances",
-    "address": "near M.T Theatre and Auditorium",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-12 13:25:13.685911"
-  },
-  {
-    "place_id": "0x3b05b97eeffb62a3:0",
-    "name": "Innova Furniture Palace",
-    "address": "4, Rajdhani Hotel, 492, Peroorkada Rd, near Windsor",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-12 13:25:12.549574"
-  },
-  {
-    "place_id": "0x3b05c1c336dae67f:0",
-    "name": "PACHALLOOR CONSTRUCTIONS",
-    "address": "PACHALLOOR Buildings, 9/370/h, Attingal Rd",
-    "category": "General contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-12 13:25:11.431203"
-  },
-  {
-    "place_id": "0x3b05bb0067a72ae7:0",
-    "name": "Cyber Forensic Consultant",
-    "address": "KRA D11A, near Open House",
-    "category": "Forensic consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-12 13:25:10.299426"
-  },
-  {
-    "place_id": "0x87ec2708d216904f:0",
-    "name": "Ahern Fire Protection",
-    "address": "",
-    "category": "Fire protection service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-12 10:12:16.242386"
   }
 ]
