@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05baa52495298d:0",
+    "name": "Government Taluk Hospital",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-20 08:09:38.804813"
+  },
+  {
+    "place_id": "0x3b05bb6471000f85:0",
+    "name": "Lenskart.com at Pappanamcode, Thiruvananthapuram (First Lens Replacement Free)",
+    "address": "Block No 26, Muri/kara Manukulathichamangalam, near Hundai Showroom",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-20 08:09:37.722140"
+  },
+  {
+    "place_id": "0x3b05b6643bbc61f7:0",
+    "name": "Community Health Centre, Aryanad",
+    "address": "",
+    "category": "Government hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-20 08:09:36.584176"
+  },
+  {
     "place_id": "0x89b6455ce9ec3e4f:0",
     "name": "All Seasons Gutter and Roofing Services LLC",
     "address": "Opens 8 AM Mon",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-12 10:12:16.242386"
-  },
-  {
-    "place_id": "0x87ee93c88b55e747:0",
-    "name": "Restaurant Fire Pros",
-    "address": "",
-    "category": "Fire protection service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-12 10:12:15.105156"
-  },
-  {
-    "place_id": "0x87ee8e93b9d16ab7:0",
-    "name": "Dragoon Trail Chapter of the Izaak Walton League of America (Ankeny Ikes)",
-    "address": "",
-    "category": "Shooting range",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-12 10:12:13.898181"
-  },
-  {
-    "place_id": "0x3b05bbab98079013:0",
-    "name": "Essence Physio; Ortho and Sports Rehab",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-12 10:12:12.737667"
   }
 ]
