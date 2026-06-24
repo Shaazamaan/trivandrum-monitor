@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c0a33db441e1:0",
+    "name": "Ali Shopping Mall",
+    "address": "JV9X+PJJ",
+    "category": "Shopping mall",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-24 22:08:25.636756"
+  },
+  {
+    "place_id": "0x3b05c0a1cbee1e31:0",
+    "name": "Nagappa Industries",
+    "address": "Kazhakoottam Thycadu Road(MC Bypass)",
+    "category": "Brick manufacturer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-24 22:08:24.405690"
+  },
+  {
     "place_id": "0x3b05bb0eb6bbaa91:0",
     "name": "Al Hassan Family Restaurant - Manacaud",
     "address": "₹200–400",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-13 03:47:21.280841"
-  },
-  {
-    "place_id": "0x3b05b9789829a135:0",
-    "name": "Survey Training Institute - Kerala",
-    "address": "",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-13 03:47:20.095956"
-  },
-  {
-    "place_id": "0x3b05bf9e972efbed:0",
-    "name": "La Casa Mexican Shawarma",
-    "address": "₹1–200",
-    "category": "(12)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-13 03:47:18.908985"
   }
 ]
