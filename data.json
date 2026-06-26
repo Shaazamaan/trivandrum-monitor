@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x872b0f0678e3638d:0",
+    "name": "Maricopa Business Center",
+    "address": "",
+    "category": "Business center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-26 11:38:47.122689"
+  },
+  {
+    "place_id": "0x872b06a79116ee3f:0",
+    "name": "My PC Techs",
+    "address": "Opens 7 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-26 11:38:45.960113"
+  },
+  {
+    "place_id": "0x3b05eb5b8e4efae7:0",
+    "name": "COMPUTER REPAIR",
+    "address": "Parakudiyil veedu",
+    "category": "Computer repair service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-26 11:38:44.789594"
+  },
+  {
+    "place_id": "0x872b7336598325c3:0",
+    "name": "The Process Server",
+    "address": "",
+    "category": "Process server",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-26 11:38:43.606679"
+  },
+  {
     "place_id": "0x872b1210fa8d1005:0",
     "name": "Royal Wood Flooring LLC",
     "address": "815 E Roosevelt St",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-13 22:23:21.407066"
-  },
-  {
-    "place_id": "0x3b05bf61f9cda917:0",
-    "name": "Rajasree Convention Centre",
-    "address": "",
-    "category": "Convention center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-13 22:23:20.157211"
-  },
-  {
-    "place_id": "0x3b05bbca7c1052e5:0",
-    "name": "P. Subramaniam Hall",
-    "address": "",
-    "category": "Banquet hall",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-13 22:23:19.045427"
-  },
-  {
-    "place_id": "0x3b05bb755e968a5f:0",
-    "name": "Pulivilakath Engineering Services",
-    "address": "Pulivilakath Engineering Services, near ayyappan temple",
-    "category": "Engineering consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-13 18:17:21.958232"
-  },
-  {
-    "place_id": "0x872b15a68b805585:0",
-    "name": "Desert Diesel Repair 3",
-    "address": "",
-    "category": "Diesel engine repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-13 18:17:20.762751"
   }
 ]
