@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x872b1210fa8d1005:0",
+    "name": "Royal Wood Flooring LLC",
+    "address": "815 E Roosevelt St",
+    "category": "Wood floor installation service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-26 00:25:11.018585"
+  },
+  {
+    "place_id": "0x872b75d775cc9eb5:0",
+    "name": "Premier Allergy Asthma & Immunology, PLLC",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-26 00:25:09.829710"
+  },
+  {
+    "place_id": "0xad258253e43e97c7:0",
+    "name": "Footprints Floors of The Valley",
+    "address": "Opens 8 AM Fri",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-26 00:25:08.650499"
+  },
+  {
+    "place_id": "0x3b05a5af80be3fa1:0",
+    "name": "Vizhinjam Dr Akhil's homoeopathy",
+    "address": "Opens 10 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-26 00:25:07.478536"
+  },
+  {
     "place_id": "0x3b05b966f1580fa5:0",
     "name": "Trivandrum Gift",
     "address": "Akshaya Centre, Near, Ulloor - Akkulam Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-13 18:17:20.762751"
-  },
-  {
-    "place_id": "0x3b05af8d99c1ffbf:0",
-    "name": "MILESTONE BUILDERS AND CONTRACTORS",
-    "address": "Pallichal - Vizhinjam Rd",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-13 10:43:22.040767"
-  },
-  {
-    "place_id": "0x89b67da8ffb3cfcf:0",
-    "name": "PuroClean Certified Restoration Specialists",
-    "address": "",
-    "category": "Water damage restoration service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-13 10:43:20.313724"
-  },
-  {
-    "place_id": "0x89b65b4cdac6ad6f:0",
-    "name": "EG Drywall and Home improvement",
-    "address": "22869 Chestnut Oak Terrace",
-    "category": "Dry wall contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-13 10:43:19.199035"
-  },
-  {
-    "place_id": "0x3b05bba42d0ef82f:0",
-    "name": "SPARE PLUS ELECTRICALSWajdhee fa switch",
-    "address": "",
-    "category": "Appliance store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-13 10:43:18.099926"
   }
 ]
