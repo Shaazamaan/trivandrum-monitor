@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bba9c1aa9de5:0",
+    "name": "Surendran Plumbing Works",
+    "address": "Surendra nivas cheruserikkal thennoor nemom",
+    "category": "Plumber",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-27 21:23:00.728534"
+  },
+  {
+    "place_id": "0x3b05c3482b6ec06d:0",
+    "name": "Thampuratti Para",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-27 21:22:59.629036"
+  },
+  {
     "place_id": "0x3b05becb2054c22f:0",
     "name": "Future Connect Realtors",
     "address": "TC94/3533, Kannammoola - Nalumukku Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-14 14:24:29.787035"
-  },
-  {
-    "place_id": "0x3b05b90bafd115cb:0",
-    "name": "Bespeckle Technologies",
-    "address": "Ushasandya Building, Devaswom Board Jct",
-    "category": "Software company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-14 14:24:28.654100"
-  },
-  {
-    "place_id": "0x880efb9eef5f87f3:0",
-    "name": "Nadler Golf Car Sales Inc",
-    "address": "",
-    "category": "Golf cart dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-14 14:24:27.448973"
   }
 ]
