@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05becb2054c22f:0",
+    "name": "Future Connect Realtors",
+    "address": "TC94/3533, Kannammoola - Nalumukku Rd",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-27 14:18:58.183391"
+  },
+  {
+    "place_id": "0x876f3aa6bbedf465:0",
+    "name": "Halladay Nissan",
+    "address": "",
+    "category": "Nissan dealer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-27 14:18:57.000250"
+  },
+  {
+    "place_id": "0x3b05a9094bfa8cfb:0",
+    "name": "Muthoot FinCorp Gold Loan",
+    "address": "",
+    "category": "Loan agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-27 14:18:55.809007"
+  },
+  {
+    "place_id": "0x3b05b16aeba84061:0",
+    "name": "Muthoot FinCorp Gold Loan",
+    "address": "",
+    "category": "Loan agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-27 14:18:54.628697"
+  },
+  {
     "place_id": "0x3b05bffa7efc17db:0",
     "name": "Sowparnika Signature Tower",
     "address": "near Loyola school",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-14 14:24:27.448973"
-  },
-  {
-    "place_id": "0x3b05bef976f00001:0",
-    "name": "IBIZ Technology",
-    "address": "Technopark Reception Building, Technopark Rd",
-    "category": "Computer support and services",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-14 14:24:26.319145"
-  },
-  {
-    "place_id": "0x3b05bf31554a10e5:0",
-    "name": "Ather Electric Scooter Showroom in Kazhakootam, Thiruvananthapuram.",
-    "address": "3366/2, Rachana Vadakkumbhagom, No 1, near CSI Mission Hospital",
-    "category": "Electric motor scooter dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-14 14:24:25.207489"
-  },
-  {
-    "place_id": "0x3b05c19351a80675:0",
-    "name": "VERTEX TECHNOLOGIES",
-    "address": "Sree Gokulam medical College junction",
-    "category": "Computer service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-14 14:24:24.068531"
-  },
-  {
-    "place_id": "0x3b05bb93fcb52189:0",
-    "name": "Cyber Moksha",
-    "address": "St Xaviers College, 13/391, PO",
-    "category": "Computer security service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-14 14:24:22.912867"
   }
 ]
