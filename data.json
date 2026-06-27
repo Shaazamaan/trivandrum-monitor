@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05b93ca85564b9:0",
+    "name": "Al Shais Kitchen Indo Arabic Chinese Family Restaurant",
+    "address": "₹200–400",
+    "category": "(109)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-27 10:37:15.028729"
+  },
+  {
+    "place_id": "0x808e345b9ff3510b:0",
+    "name": "Leticia Lozada Ortega, DDS",
+    "address": "14515 South Bascom Avenue",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-27 10:37:13.868905"
+  },
+  {
+    "place_id": "0x808fcd0021ab9843:0",
+    "name": "Meimei Dumpling",
+    "address": "$10–20",
+    "category": "(185)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-27 10:37:12.713858"
+  },
+  {
+    "place_id": "0x808e33f4314f9809:0",
+    "name": "Block Advisors",
+    "address": "4642 Meridian Avenue",
+    "category": "Tax preparation service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-27 10:37:11.565907"
+  },
+  {
     "place_id": "0x3b05a594df8dd84f:0",
     "name": "I Q Fitness Unisex premium Gym",
     "address": "IQ FITNESS unisex gym",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-14 06:13:18.903254"
-  },
-  {
-    "place_id": "0x3b05b1efec928103:0",
-    "name": "Bodhi Diabetes Clinic",
-    "address": "Bodhi Diabetes Clinic, Neyyar Dam Road, near Variety Marbles",
-    "category": "Doctor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-14 06:13:17.714701"
-  },
-  {
-    "place_id": "0x3b05ab15e0b89bb1:0",
-    "name": "Arya Diabetic Clinic",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-14 06:13:16.500628"
-  },
-  {
-    "place_id": "0x3b05e9005fa503b3:0",
-    "name": "Hotel Dain Castle",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-13 23:14:01.371958"
-  },
-  {
-    "place_id": "0x3b05bb7817743f33:0",
-    "name": "Istanbul Rolls & Grills",
-    "address": "₹1–200",
-    "category": "(537)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-13 23:14:00.270358"
   }
 ]
