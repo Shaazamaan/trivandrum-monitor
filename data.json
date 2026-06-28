@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b9001c11765d:0",
+    "name": "Malabar",
+    "address": "₹1–200",
+    "category": "(47)",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-28 12:00:01.520868"
+  },
+  {
+    "place_id": "0x3b05b91cf8ce3a8d:0",
+    "name": "Continental Automotive",
+    "address": "Maruthinakam Palam Bridge",
+    "category": "Auto repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-28 12:00:00.356382"
+  },
+  {
+    "place_id": "0x3b05b80533c37ae7:0",
+    "name": "MDC SCANS AND LABORATORY",
+    "address": "",
+    "category": "Medical diagnostic imaging center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-06-28 11:59:59.186884"
+  },
+  {
     "place_id": "0x3b05c10176541909:0",
     "name": "Faith painting & plumbing&interior work trivandrum",
     "address": "+91 80899 22539",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-04-15 06:12:59.703406"
-  },
-  {
-    "place_id": "0x3b05a54eb12e7f8d:0",
-    "name": "Kattans Cafe",
-    "address": "₹1–200",
-    "category": "(25)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-15 06:12:58.478624"
-  },
-  {
-    "place_id": "0x3b05bf4f247ed897:0",
-    "name": "DMC builders",
-    "address": "Closes 5 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-15 06:12:57.235098"
-  },
-  {
-    "place_id": "0x3b05eb48dcb426b3:0",
-    "name": "Muthoot Finance Gold Loan",
-    "address": "Ground Floor, Theertha Tower, Chirayinkeezhu - Attingal Rd, near Uthradom Paints",
-    "category": "Mortgage lender",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-14 18:49:15.811026"
   }
 ]
