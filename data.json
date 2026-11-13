@@ -1,5 +1,158 @@
 [
   {
+    "place_id": "0x3b05beffd5d172e1:0",
+    "name": "Makam Travels",
+    "address": "1st Floor, R.S. Building, Near Police Station",
+    "category": "Travel agency",
+    "phone": "+91 99612 29863",
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:29.294309"
+  },
+  {
+    "place_id": "0x3b05bfa9a118551f:0",
+    "name": "Paramjyothi NET Coaching Centre",
+    "address": "Closes 12 AM",
+    "category": "Open",
+    "phone": "+91 80750 11496",
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:28.000524"
+  },
+  {
+    "place_id": "0x3b05bfe6024efa1d:0",
+    "name": "LBS MCA ENTRANCE COACHING",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:26.390966"
+  },
+  {
+    "place_id": "0x3b05bfb08960a717:0",
+    "name": "Knowledge Hub",
+    "address": "Saraswathy Bhavan",
+    "category": "Studying center",
+    "phone": "+91 97785 39636",
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:25.135229"
+  },
+  {
+    "place_id": "0x3b05bf00397f856d:0",
+    "name": "AV Family Fitness Studio",
+    "address": "Attinkuzhi NSS Rd",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:23.826369"
+  },
+  {
+    "place_id": "0x3b05bf001487d7f9:0",
+    "name": "Arabian Saloon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:22.548171"
+  },
+  {
+    "place_id": "0x3b05bf7a02dc0791:0",
+    "name": "Photostat and DTP,Organic grocery",
+    "address": "SRA 62",
+    "category": "Print shop",
+    "phone": "+91 94970 28372",
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:21.208495"
+  },
+  {
+    "place_id": "0x3b05be8b68d2e5f7:0",
+    "name": "Adithya Furniture",
+    "address": "Aditya Furniture",
+    "category": "Furniture store",
+    "phone": "+91 94961 02738",
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:19.999711"
+  },
+  {
+    "place_id": "0x3b05befe2f7db72d:0",
+    "name": "apples MOBILE",
+    "address": "HV8G+46G, sreekariyam road, near matha hardware shop",
+    "category": "Cell phone store",
+    "phone": "+91 81390 59804",
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:18.687143"
+  },
+  {
+    "place_id": "0x3b05bfd7ad7a339f:0",
+    "name": "Nath Mobile Services",
+    "address": "1st floor, TC-1, 5630-1, Market Rd, opposite post office",
+    "category": "Mobile phone repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:17.413353"
+  },
+  {
+    "place_id": "0x3b05bfd1b471b945:0",
+    "name": "Ewan Cafe",
+    "address": "near Police Station",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:16.048021"
+  },
+  {
+    "place_id": "0x3b05bfacc0b42d57:0",
+    "name": "HOTEL UTHRADAM",
+    "address": "VSSC Rd",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:14.741656"
+  },
+  {
+    "place_id": "0x3b05bfebab1e96c5:0",
+    "name": "SVN Ayurveda Clinic",
+    "address": "+91 80783 64988",
+    "category": "Temporarily closed",
+    "phone": "+91 80783 64988",
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:13.479611"
+  },
+  {
+    "place_id": "0x3b05ef14642dbb27:0",
+    "name": "Nidra Yoga Retreat International School",
+    "address": "",
+    "category": "Yoga retreat center",
+    "phone": "+91 80867 48121",
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:12.177677"
+  },
+  {
+    "place_id": "0x3b05e7782110581d:0",
+    "name": "DGlossy Detailing Studio & Auto SPA",
+    "address": "Varkala - Parippally Rd",
+    "category": "Car wash",
+    "phone": "+91 73562 27077",
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:10.871648"
+  },
+  {
+    "place_id": "0x3b05e9af6a144a0d:0",
+    "name": "Gisha's Beauty World",
+    "address": "Top building of royal pharmacy, Njekkad School Ground, Varkala Kallambalam Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:09.645661"
+  },
+  {
+    "place_id": "0x3b05e9a07beaed77:0",
+    "name": "92 MOBILES",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:53:08.343064"
+  },
+  {
     "place_id": "0x3b060923bbeccba5:0",
     "name": "Skin Miracle Cosmetic Clinic skin, hair and laser treatments",
     "address": "Rehana Complex, opposite Vaisakh Silks",
@@ -8845,158 +8998,5 @@
     "phone": "+91 98953 19971",
     "website": null,
     "discovered_at": "2026-11-13 20:01:43.839355"
-  },
-  {
-    "place_id": "0x3b05bbebfca8a235:0",
-    "name": "Zarooni",
-    "address": "KV Towers, Marappalam Rd",
-    "category": "Clothing store",
-    "phone": "+91 89215 45018",
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:42.582778"
-  },
-  {
-    "place_id": "0x3b05bb4649c7df5d:0",
-    "name": "The Aiqah Pret Thiruvananthapuram",
-    "address": "",
-    "category": "Clothing store",
-    "phone": "+91 89213 66307",
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:41.338541"
-  },
-  {
-    "place_id": "0x3b05bbe07014d659:0",
-    "name": "City Stores & Cool Bar",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:40.032886"
-  },
-  {
-    "place_id": "0x3b05bb0050417511:0",
-    "name": "Pattom",
-    "address": "GWFV+FRX, Mankulam Ln",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:38.783311"
-  },
-  {
-    "place_id": "0x3b05bbe77c8c8bf1:0",
-    "name": "Nirmalyam Bakery & Tea Stall",
-    "address": "GW9R+39Q, Opposite Village Office",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:37.561431"
-  },
-  {
-    "place_id": "0x3b05bb535e43fdcb:0",
-    "name": "Royal Street",
-    "address": "GWCW+22P, Marappalam Rd",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:36.312606"
-  },
-  {
-    "place_id": "0x3b05bbe083effb69:0",
-    "name": "Bros Restaurant",
-    "address": "",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:35.029832"
-  },
-  {
-    "place_id": "0x5499389cfe78471d:0",
-    "name": "Broadway Animal Hospital",
-    "address": "",
-    "category": "Animal hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:33.788430"
-  },
-  {
-    "place_id": "0x3b05bbc13457c92d:0",
-    "name": "ASWAS COMMUNITY PHARMACY",
-    "address": "Medical College",
-    "category": "Pharmacy",
-    "phone": "+91 98951 60099",
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:31.627080"
-  },
-  {
-    "place_id": "0x3b05bbc34ab288d5:0",
-    "name": "Usha Medicals",
-    "address": "Ramachandra Towers, near Raymond",
-    "category": "Pharmacy",
-    "phone": "+91 90611 48546",
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:30.362262"
-  },
-  {
-    "place_id": "0x3b05bb2b55032bc1:0",
-    "name": "TANMATRA Ayurveda",
-    "address": "28, Vikramapuram Hill Rd, near Urbanscapes Dynasty",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 81292 86699",
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:27.395856"
-  },
-  {
-    "place_id": "0x3b05bbc349b0dd67:0",
-    "name": "Prathyasa Ayurvedic Centre",
-    "address": "Opens 10 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:26.157251"
-  },
-  {
-    "place_id": "0x3b05bb9f9b9702f7:0",
-    "name": "CADPOINT Trivandrum",
-    "address": "Second Floor, Vinayaka Tower, SS Kovil Rd, above Fotonik Studio",
-    "category": "Software training institute",
-    "phone": "+91 99953 78900",
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:24.475768"
-  },
-  {
-    "place_id": "0x3b05bbfbbc04e8df:0",
-    "name": "CADBIM CENTRE",
-    "address": "",
-    "category": "Education center",
-    "phone": "+91 94462 60080",
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:22.909978"
-  },
-  {
-    "place_id": "0x3b05bb76fc57c31d:0",
-    "name": "ByteDance Dormitory",
-    "address": "GW4X+67R zz",
-    "category": "Lodge",
-    "phone": "+91 75599 22823",
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:21.582560"
-  },
-  {
-    "place_id": "0x3b05bbba54bb5b0b:0",
-    "name": "TRIVPODS Capsule Hotel",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:20.298438"
-  },
-  {
-    "place_id": "0x3b05bb6388bb616f:0",
-    "name": "Edure Learning",
-    "address": "",
-    "category": "Software training institute",
-    "phone": "+91 97462 11123",
-    "website": null,
-    "discovered_at": "2026-11-13 20:01:19.075177"
   }
 ]
