@@ -53,6 +53,8 @@ jobs:
           playwright install --with-deps chromium
 
       - name: Run Scraper
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
         run: python main.py
 
       - name: Commit and Push Database
