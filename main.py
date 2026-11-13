@@ -31,7 +31,7 @@ TRIVANDRUM_LOCATIONS = [
 # We pick 3 random High-Value keywords per run to keep runtime short (~3-5 mins).
 # 3 keywords * 3 locations = 9 searches per run.
 # This prevents GitHub Actions timeouts and Google IP blocks.
-KEYWORDS_PER_RUN = 12  # 824 keywords / 12 = ~69 runs = each search repeats about once a day
+KEYWORDS_PER_RUN = 36  # ~8 min per run; 824 keywords / 36 = ~23 runs = each search re-checked about every 8 hours
 
 LOCATION = "Trivandrum"
 
