@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b05bb00466b598d:0",
+    "name": "Jaya stores tea coffee snacks cool drinks",
+    "address": "GX27+QMX, Krishna Vilasam Rd",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:24:52.653040"
+  },
+  {
+    "place_id": "0x3b05b90016fc615b:0",
+    "name": "A1 Tuition centre",
+    "address": "GXJ4+2MP, Ambala Nagar Rd",
+    "category": "Education center",
+    "phone": "+91 73561 44432",
+    "website": null,
+    "discovered_at": "2026-11-13 23:24:51.443415"
+  },
+  {
+    "place_id": "0x3b05bbfaa6e9e58b:0",
+    "name": "Vaisakh Gardens - Farm Outlet",
+    "address": "behind Bus Stop, near Surya Medicals",
+    "category": "Organic food store",
+    "phone": "+91 81389 46699",
+    "website": null,
+    "discovered_at": "2026-11-13 23:24:50.192301"
+  },
+  {
+    "place_id": "0x3b05bb142c0a3b1d:0",
+    "name": "Mathew's Cakes",
+    "address": "",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:24:48.970921"
+  },
+  {
+    "place_id": "0x3b05bba6a427e4e1:0",
+    "name": "Mishti and More... Kowdiar",
+    "address": "",
+    "category": "Vegetarian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:24:47.755761"
+  },
+  {
+    "place_id": "0x3b05bb1db9b12f71:0",
+    "name": "Pizza Hut",
+    "address": "Keston Rd",
+    "category": "Pizza restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:24:46.496035"
+  },
+  {
+    "place_id": "0x3b05bba775e6f909:0",
+    "name": "Sukhino Bhavanthu Ayurveda",
+    "address": "Law college, Junction Road",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 96336 02979",
+    "website": null,
+    "discovered_at": "2026-11-13 23:24:45.067120"
+  },
+  {
+    "place_id": "0x3b05bb00172a348d:0",
+    "name": "ayurlaya",
+    "address": "TC no. 22, Sriram heights, 2026/2, Kochar Rd, opposite dr pradeep kidagoor",
+    "category": "Alternative medicine practitioner",
+    "phone": "+91 82811 10357",
+    "website": null,
+    "discovered_at": "2026-11-13 23:24:43.870295"
+  },
+  {
+    "place_id": "0x3b05bbd3e09d31b7:0",
+    "name": "Dr. Divya's Homoeopathic Speciality Clinic",
+    "address": "PMG - TTC Road, Devaswom Board Jct, opposite Imperial Kitchen",
+    "category": "Homeopath",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:24:42.595889"
+  },
+  {
     "place_id": "0x3b05b91bf6c2bb1f:0",
     "name": "Raju M Kollavelil & Co.",
     "address": "GWGQ+GCG, St Marys Ln",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-13 20:31:54.095871"
-  },
-  {
-    "place_id": "0x89b16b59f31c4285:0",
-    "name": "Sisters' Boutique",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:31:51.923072"
-  },
-  {
-    "place_id": "0x3b05bb0978885a33:0",
-    "name": "AL -Hayaath",
-    "address": "Balaji Ln",
-    "category": "Perfume store",
-    "phone": "+91 97457 40016",
-    "website": null,
-    "discovered_at": "2026-11-13 20:31:49.410485"
-  },
-  {
-    "place_id": "0x89b1770f1f1aae47:0",
-    "name": "Musey J Boutique",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:31:48.144786"
-  },
-  {
-    "place_id": "0x89ad847ac8bf7835:0",
-    "name": "Hite’s Clothing",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:31:45.956937"
-  },
-  {
-    "place_id": "0x89b173ac83f104ed:0",
-    "name": "Twice the Charm Boutique",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:31:43.724959"
-  },
-  {
-    "place_id": "0x3b05bb2414f20d5f:0",
-    "name": "AS RAJAPRASHANNAA",
-    "address": "No 11, General Theater Road",
-    "category": "Clothing store",
-    "phone": "+91 97467 25420",
-    "website": null,
-    "discovered_at": "2026-11-13 20:31:42.269425"
-  },
-  {
-    "place_id": "0x89b1a75fb573216d:0",
-    "name": "Daffodil Boutique",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:31:40.072974"
-  },
-  {
-    "place_id": "0x89ad85c27af8449b:0",
-    "name": "Sweet Violet - Clarksville, VA",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:31:37.395331"
-  },
-  {
-    "place_id": "0x89b20943943604e3:0",
-    "name": "Magnolia Green Boutique",
-    "address": "231 E Atlantic St Upstairs Room",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:31:36.167490"
   }
 ]
