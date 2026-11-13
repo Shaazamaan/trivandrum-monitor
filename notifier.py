@@ -15,7 +15,8 @@ class DiscordNotifier:
         """
         
         embed = {
-            "title": f"New Business Detected: {business.get('name')}",
+            "title": f"🆕 New Listing: {business.get('name')}",
+            "url": business.get('url') or None,
             "color": 5814783,  # Greenish
             "fields": [
                 {
@@ -38,6 +39,13 @@ class DiscordNotifier:
                 "text": f"Discovered at {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
             }
         }
+
+        if business.get('url'):
+            embed["fields"].append({
+                "name": "Google Maps",
+                "value": f"[Open on Google Maps]({business.get('url')})",
+                "inline": False
+            })
 
         if business.get('website'):
              embed["fields"].append({
@@ -75,6 +83,6 @@ class DiscordNotifier:
                 response.raise_for_status()
                 return
             except Exception as e:
-                print(f"Failed to send Discord alert: {e}")
+                print(f"Failed to send Discord alert: {type(e).__name__} {getattr(getattr(e, 'response', None), 'status_code', '')}")
                 return
         print("Failed to send Discord alert: still rate limited after 5 attempts")

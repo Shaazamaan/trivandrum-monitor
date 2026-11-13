@@ -6,7 +6,8 @@ import random
 import urllib.parse
 
 # CONFIG
-WEBHOOK_URL = "https://discord.com/api/webhooks/1470815883613176003/zlIN-_hKPMPGYIvmyK3jWhPrjrWNQlXUpBLBCr7JuK3HxJ4WB26-5fwt84Nv-hJCesHV"
+import os
+WEBHOOK_URL = os.environ.get("DISCORD_WEBHOOK_URL", "")
 
 # Import Advanced Taxonomy
 from keywords import ALL_KEYWORDS
@@ -80,28 +81,28 @@ def main():
         
         # Process All Results
         new_count = 0
+        fresh_count = 0
         for business in all_results:
             if storage.is_new(business['place_id']):
                 # Save first
                 storage.add_place(business)
                 new_count += 1
                 
-                if not is_first_run and not SILENT_MODE:
-                    # Intelligence Filter: High Priority if Reviews < 5
-                    is_fresh = business.get('reviews', 0) < 5
-                    fresh_tag = " [💎 FRESH OPPORTUNITY]" if is_fresh else ""
-                    
-                    print(f"NEW FOUND: {business['name']} ({business.get('reviews', 0)} reviews){fresh_tag} - Sending Alert")
+                # FRESH LEAD = not seen before AND no rating/reviews yet on Google Maps.
+                # Google doesn't publish a listing date; a listing with zero reviews
+                # is the strongest signal that it was just added. Older businesses we
+                # simply hadn't scanned before are saved silently, never alerted.
+                is_fresh = business.get('rating') is None and business.get('reviews', 0) == 0
+                if is_fresh and not is_first_run and not SILENT_MODE and WEBHOOK_URL:
+                    fresh_count += 1
+                    print(f"FRESH LEAD: {business['name']} - Sending Alert")
                     query = f"{business['name']} trivandrum instagram"
                     ig_url = f"https://www.google.com/search?q={urllib.parse.quote(query)}"
-                    
-                    # Append tag to alert title if possible, or just log it
-                    # We pass the modified business object or handled in notifier?
-                    # For now just send as is, but we log the 'Freshness'.
-                    business['is_fresh'] = is_fresh
+                    business['is_fresh'] = True
                     notifier.send_alert(business, ig_url)
                     time.sleep(1)
-        
+
+        print(f"Fresh leads alerted: {fresh_count}")
         print(f"Run complete. Total New: {new_count}")
 
         # Export API Data (Hot & Cold)
