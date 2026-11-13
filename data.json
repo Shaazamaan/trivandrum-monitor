@@ -1,5 +1,1751 @@
 [
   {
+    "place_id": "0x87ec2163ed19b8e7:0",
+    "name": "Mallory Law",
+    "address": "",
+    "category": "Civil law attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:58:08.985457"
+  },
+  {
+    "place_id": "0x87ee90cce917c839:0",
+    "name": "Laden & Pearson Pc",
+    "address": "",
+    "category": "Law firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:58:07.782478"
+  },
+  {
+    "place_id": "0x87ee9936d5de0fdd:0",
+    "name": "Danni J. Harris",
+    "address": "699 Walnut St #2000",
+    "category": "Family law attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:58:06.555213"
+  },
+  {
+    "place_id": "0x87ec274ce2f14609:0",
+    "name": "LeGrant Law Firm",
+    "address": "",
+    "category": "Law firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:58:05.307310"
+  },
+  {
+    "place_id": "0x87ee9c495c7ea2ad:0",
+    "name": "Patrick H Payton & Associates P.C.",
+    "address": "",
+    "category": "Attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:58:03.258253"
+  },
+  {
+    "place_id": "0x87ee99b3a1f66657:0",
+    "name": "The Iowa State Bar Association",
+    "address": "",
+    "category": "Association / Organization",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:58:02.089511"
+  },
+  {
+    "place_id": "0x87ec21251b964741:0",
+    "name": "Hutchinson Law Firm, PLC",
+    "address": "",
+    "category": "Attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:58:00.877447"
+  },
+  {
+    "place_id": "0x87ee9f9fbf805b8d:0",
+    "name": "John Lawyer",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:59.647217"
+  },
+  {
+    "place_id": "0x87ec20ee6a8528d7:0",
+    "name": "Lawyer Law Firm",
+    "address": "",
+    "category": "Attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:58.497692"
+  },
+  {
+    "place_id": "0x87ee9900db364577:0",
+    "name": "Patterson Law Firm",
+    "address": "",
+    "category": "Family law attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:57.282737"
+  },
+  {
+    "place_id": "0x87ee9ff125126b7f:0",
+    "name": "Drew Law Firm PC",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:56.121606"
+  },
+  {
+    "place_id": "0x87ee9f6e8278fde9:0",
+    "name": "Timmer, Judkins & Borland",
+    "address": "",
+    "category": "Employment attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:54.757250"
+  },
+  {
+    "place_id": "0x87ee9722b12f013b:0",
+    "name": "Marlon Mormann Attorney",
+    "address": "Opens 7 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:53.525648"
+  },
+  {
+    "place_id": "0x87ee9e05bd6a27b1:0",
+    "name": "Lipman Law Firm",
+    "address": "",
+    "category": "Attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:52.331038"
+  },
+  {
+    "place_id": "0x87ec20ee15d89c83:0",
+    "name": "Rouse Law, P.C.",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:51.065883"
+  },
+  {
+    "place_id": "0x87ee9927c725e997:0",
+    "name": "Erbe Law Firm",
+    "address": "",
+    "category": "Trial attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:49.822093"
+  },
+  {
+    "place_id": "0x87ee9918bbfa7c21:0",
+    "name": "Lowe Law Group",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:48.632196"
+  },
+  {
+    "place_id": "0x87ec20da4a1c0113:0",
+    "name": "LaMarca Law Group, P.C.",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:47.371591"
+  },
+  {
+    "place_id": "0x87ee9f2495034c47:0",
+    "name": "Monge & Associates Injury and Accident Attorneys",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:46.164542"
+  },
+  {
+    "place_id": "0x87ec21647b333ca9:0",
+    "name": "Tom Fowler Law",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:44.847547"
+  },
+  {
+    "place_id": "0x87ee99ab15eee925:0",
+    "name": "Hedberg & Boulton, P.C.",
+    "address": "",
+    "category": "Employment attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:43.641760"
+  },
+  {
+    "place_id": "0x87ee99650f4c979f:0",
+    "name": "Nicolet Law Accident & Injury Lawyers",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:42.489908"
+  },
+  {
+    "place_id": "0x87ee999cb958c9bb:0",
+    "name": "Morgan & Morgan",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:41.259310"
+  },
+  {
+    "place_id": "0x3b05b9df596f875b:0",
+    "name": "PG Room",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:40.073723"
+  },
+  {
+    "place_id": "0x3b05bb3fdad233c7:0",
+    "name": "SANS ROYAL GROUP - THE MULTI BUSINESS COMPANY",
+    "address": "Second Floor, Kailas Ln, opposite Indian Oil Petrol Pump",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:38.847165"
+  },
+  {
+    "place_id": "0x3b05bbf718f29e01:0",
+    "name": "SMART VISION REAL ESTATE",
+    "address": "ROYAL HOTEL, T C 25/643, opp. PATTOM",
+    "category": "Industrial real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:37.623908"
+  },
+  {
+    "place_id": "0x3b05bb00181e112b:0",
+    "name": "Vergisons and Co",
+    "address": "TC 2/1414, opposite Treasury directorate",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:36.454682"
+  },
+  {
+    "place_id": "0x3b05bb238c32baab:0",
+    "name": "RC travels and real estate consultant",
+    "address": "Chalakuzhy Rd, opposite garam masala",
+    "category": "Taxi service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:35.256779"
+  },
+  {
+    "place_id": "0x3b05bb4e3868a9ed:0",
+    "name": "The Prime Prop Real Estate Consultants",
+    "address": "Vrindavan Gardens near KSEB Af 4 Apartment, no 318 Pattom Pottakuzhi road Pattom palace, PO",
+    "category": "Real estate consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:34.080121"
+  },
+  {
+    "place_id": "0x3b05bb002c41939b:0",
+    "name": "Condor Developers",
+    "address": "Condor Plaza, Condor Developers",
+    "category": "Construction company",
+    "phone": "+91 94477 77944",
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:32.867109"
+  },
+  {
+    "place_id": "0x3b05bb2a0a753ec1:0",
+    "name": "Fortune spaces-virtual office & coworking spaces",
+    "address": "",
+    "category": "Coworking space",
+    "phone": "+91 88483 76445",
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:31.674470"
+  },
+  {
+    "place_id": "0x3b05e866b29bd9ed:0",
+    "name": "KIZHAKKATHIL AUTOMOBILES",
+    "address": "Market road",
+    "category": "Auto parts store",
+    "phone": "+91 99955 53309",
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:30.516926"
+  },
+  {
+    "place_id": "0x3b05efa7caa98283:0",
+    "name": "Mr.Clean Service Center Varkala",
+    "address": "Nadayara, Sree Narayana College Rd",
+    "category": "Car wash",
+    "phone": "+91 98954 85599",
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:29.285501"
+  },
+  {
+    "place_id": "0x3b05e86f530e40f3:0",
+    "name": "Sathyasai Autospares",
+    "address": "QQ6R+VQV",
+    "category": "Auto parts store",
+    "phone": "+91 98958 80802",
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:28.091783"
+  },
+  {
+    "place_id": "0x3b05e90005b50ae5:0",
+    "name": "New Quality Traders",
+    "address": "Closes 8 PM",
+    "category": "Open",
+    "phone": "+91 95676 89892",
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:26.757148"
+  },
+  {
+    "place_id": "0x3b05e9275112b17f:0",
+    "name": "Top Smart Service Center",
+    "address": "P.O, Kalluvila, Decentmukku - Pulloormukku Rd",
+    "category": "Car wash",
+    "phone": "+91 85479 41577",
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:25.474187"
+  },
+  {
+    "place_id": "0x3b05e99e5cc53be3:0",
+    "name": "Carbon Customz",
+    "address": "KTCT Bus Stop, Salem - Kochi Highway",
+    "category": "Auto parts store",
+    "phone": "+91 99466 76345",
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:24.287063"
+  },
+  {
+    "place_id": "0x3b05e91077069991:0",
+    "name": "KEYON MULTI CAR SERVICE CENTER",
+    "address": "Post office junction,Njekkad",
+    "category": "Car wash",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:23.077605"
+  },
+  {
+    "place_id": "0x3b05e9861a4ced99:0",
+    "name": "NEXpro Auto Detailing",
+    "address": "Navaikulam",
+    "category": "Car wash",
+    "phone": "+91 96337 53111",
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:21.868772"
+  },
+  {
+    "place_id": "0x87ee9d86bacbdc4d:0",
+    "name": "Hupy and Abraham, S.C.",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:20.634861"
+  },
+  {
+    "place_id": "0x87ee9e5d916e6c71:0",
+    "name": "Schott Mauss & Associates, PLLC",
+    "address": "",
+    "category": "Social security attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:19.443495"
+  },
+  {
+    "place_id": "0x3b05e90043b6e9e7:0",
+    "name": "Midhun mohanan Niharam Kallambalam",
+    "address": "QQ7J+P25 Niharam",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:18.197176"
+  },
+  {
+    "place_id": "0x3b05e9eab64a6b7f:0",
+    "name": "Kallambalam",
+    "address": "QQCJ+JH",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:16.975255"
+  },
+  {
+    "place_id": "0x3b05e90044ee0f61:0",
+    "name": "Swapnakood",
+    "address": "QQ7Q+C3P, Lions Club Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:15.741511"
+  },
+  {
+    "place_id": "0x3b05e90014cb2d5f:0",
+    "name": "Leena house",
+    "address": "QQ7P+45",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:14.572565"
+  },
+  {
+    "place_id": "0x3b05e86108f73883:0",
+    "name": "Abhiram Builders",
+    "address": "Varkala Kallambalam Rd",
+    "category": "Construction company",
+    "phone": "+91 81292 76212",
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:13.144156"
+  },
+  {
+    "place_id": "0x3b05e9005f896ec5:0",
+    "name": "Ajil’ Home",
+    "address": "QQ8M+96R",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:11.853608"
+  },
+  {
+    "place_id": "0x3b05e9005951166f:0",
+    "name": "pravin’s Residence",
+    "address": "QQ8Q+CG5",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:10.674862"
+  },
+  {
+    "place_id": "0x3b05e9000f7d2073:0",
+    "name": "ADWAITHAM (AJIN C A)",
+    "address": "QQ7J+55",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:09.453314"
+  },
+  {
+    "place_id": "0x3b05e9001110f39d:0",
+    "name": "Adv Rakesh Kallambalam",
+    "address": "QQ4P+4JP",
+    "category": "Housing development",
+    "phone": "+91 98952 93995",
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:08.270848"
+  },
+  {
+    "place_id": "0x3b05e868bab622b7:0",
+    "name": "Manappuram Finance Limited – Gold Loan",
+    "address": "",
+    "category": "Financial institution",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:06.343015"
+  },
+  {
+    "place_id": "0x3b05e90075fc8473:0",
+    "name": "Darul Jasmin (Salma)",
+    "address": "Decentmukku - Pulloormukku Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:05.159335"
+  },
+  {
+    "place_id": "0x3b05e9004b7dc96d:0",
+    "name": "Suraksha",
+    "address": "QQ5J+MM4, Varkala Kallambalam Rd",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:03.870332"
+  },
+  {
+    "place_id": "0x3b05ebf4558cc26d:0",
+    "name": "SS Maruthi Service Center",
+    "address": "MRPC+P6Q",
+    "category": "Auto body shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:02.706522"
+  },
+  {
+    "place_id": "0x3b05eb34d447dd1f:0",
+    "name": "DualTone Paint Studio",
+    "address": "Closes 6 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:01.503322"
+  },
+  {
+    "place_id": "0x3b05eb1b272449b7:0",
+    "name": "The Marshal Garage",
+    "address": "Mamom Road, near Dreams Theatre",
+    "category": "Car repair and maintenance service",
+    "phone": "+91 85907 50055",
+    "website": null,
+    "discovered_at": "2026-11-13 06:57:00.322044"
+  },
+  {
+    "place_id": "0x3b05ebfdf1ca0d01:0",
+    "name": "Fly wheelz Customz",
+    "address": "Veeralam (Veera Kerala Puram, Mananakku-Kollampuzha-Attingal Rd",
+    "category": "Auto body shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:59.110176"
+  },
+  {
+    "place_id": "0x3b05e9006e039373:0",
+    "name": "T3 CUSTOMS AND ACCESSORIES",
+    "address": "PQ6R+8X4, Alamcode Kadakkavoor Anchuthengu Road",
+    "category": "Auto body shop",
+    "phone": "+91 97463 79408",
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:57.277285"
+  },
+  {
+    "place_id": "0x3b05ebd057e97429:0",
+    "name": "Maruti Suzuki Service (Sarathy Autodrives)",
+    "address": "",
+    "category": "Auto repair shop",
+    "phone": "+91 95260 52765",
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:55.850661"
+  },
+  {
+    "place_id": "0x3b05eb9c25b40ddf:0",
+    "name": "Sreebhavani Autoelectricals and Car A/C Works",
+    "address": "temple road, near Karthika hospital",
+    "category": "Auto electrical service",
+    "phone": "+91 70122 50255",
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:54.677219"
+  },
+  {
+    "place_id": "0x3b05eb473e3c3029:0",
+    "name": "Stock Nuts",
+    "address": "",
+    "category": "Motorcycle repair shop",
+    "phone": "+91 87148 58283",
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:53.462808"
+  },
+  {
+    "place_id": "0x87ee99180a981b37:0",
+    "name": "Lindsey McCune",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:51.388468"
+  },
+  {
+    "place_id": "0x8835dbffd5bd8b57:0",
+    "name": "Harris Law Offices",
+    "address": "32 15th St",
+    "category": "Legal services",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:50.224409"
+  },
+  {
+    "place_id": "0x886973815549b981:0",
+    "name": "Ferreri Partners, PLLC",
+    "address": "",
+    "category": "Legal services",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:48.969474"
+  },
+  {
+    "place_id": "0x87ee9998c32870ff:0",
+    "name": "Heckmann Law",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:47.779336"
+  },
+  {
+    "place_id": "0x87ee9fdcfdf8ae69:0",
+    "name": "Audlehelm Law Office",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:46.604572"
+  },
+  {
+    "place_id": "0x886b17ecf843c357:0",
+    "name": "McNeelyLaw LLP",
+    "address": "",
+    "category": "Divorce lawyer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:45.400692"
+  },
+  {
+    "place_id": "0x8811efe9a2adc6db:0",
+    "name": "George C Patrick & Associates",
+    "address": "",
+    "category": "Attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:44.236442"
+  },
+  {
+    "place_id": "0x88470939d4a23bad:0",
+    "name": "Knisley Law Offices",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:43.025428"
+  },
+  {
+    "place_id": "0x884053a19aa5d829:0",
+    "name": "The Harris Firm: Burns Andrea L",
+    "address": "",
+    "category": "Attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:41.789293"
+  },
+  {
+    "place_id": "0x8841c7b530f760db:0",
+    "name": "Lawrence & Associates Accident and Injury Lawyers, LLC",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:40.633410"
+  },
+  {
+    "place_id": "0x8830fe4a670675bd:0",
+    "name": "NRS Injury Law",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:39.409697"
+  },
+  {
+    "place_id": "0x8869732a0d858a3b:0",
+    "name": "Isaacs & Isaacs Law Firm",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:38.238713"
+  },
+  {
+    "place_id": "0x87ec274ce504b6e7:0",
+    "name": "Fiedler Law Firm, P.L.C.",
+    "address": "",
+    "category": "Employment attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:36.962623"
+  },
+  {
+    "place_id": "0x88388fb21baec71f:0",
+    "name": "Knisley Law Offices",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:35.763531"
+  },
+  {
+    "place_id": "0x8841b157b092152b:0",
+    "name": "O'Connor, Acciani & Levy",
+    "address": "600 Vine St #1600",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:34.534031"
+  },
+  {
+    "place_id": "0x87ec209005aca28f:0",
+    "name": "Lombardi Law Firm",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:33.313575"
+  },
+  {
+    "place_id": "0x87ee8536f246721b:0",
+    "name": "Surge Business Law PLLC",
+    "address": "",
+    "category": "Attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:32.046863"
+  },
+  {
+    "place_id": "0x87ec236ca3b6cfb1:0",
+    "name": "Iowa Employment Attorneys, P.L.C.",
+    "address": "",
+    "category": "Employment attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:30.815714"
+  },
+  {
+    "place_id": "0x87ee99390ec63bab:0",
+    "name": "Carmoney Law Firm PLLC",
+    "address": "",
+    "category": "Attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:29.526294"
+  },
+  {
+    "place_id": "0x88f898bee1adc21b:0",
+    "name": "Law Offices of Carter Martling PC",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:28.360292"
+  },
+  {
+    "place_id": "0x87ee9f006da1df7d:0",
+    "name": "Ben Lynch Law",
+    "address": "",
+    "category": "Law firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:27.080991"
+  },
+  {
+    "place_id": "0x87ee9fb55d95e853:0",
+    "name": "Channing L. Dutton",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:25.829606"
+  },
+  {
+    "place_id": "0x87ec209d963c800f:0",
+    "name": "Neifert Byrne & Ozga Pc",
+    "address": "",
+    "category": "Law firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:24.652886"
+  },
+  {
+    "place_id": "0x87ec21208118c851:0",
+    "name": "Hixson & Brown, P.C.",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:23.461031"
+  },
+  {
+    "place_id": "0x87ee99797a25a767:0",
+    "name": "The Kearns Law Firm",
+    "address": "2015 Grand Ave Ste 4",
+    "category": "Attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:22.309034"
+  },
+  {
+    "place_id": "0x87ee9e272b66f127:0",
+    "name": "Larry Krpan Law Office",
+    "address": "",
+    "category": "Attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:20.975573"
+  },
+  {
+    "place_id": "0x87ee992f58a16b23:0",
+    "name": "Sinkevich Law Firm PLLC",
+    "address": "",
+    "category": "Attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:19.798086"
+  },
+  {
+    "place_id": "0x87ee99019c1a509f:0",
+    "name": "Roxanne Conlin & Associates, P.C.",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:18.647682"
+  },
+  {
+    "place_id": "0x87ee99b189bb157f:0",
+    "name": "Sherinian & Hasso Law Firm",
+    "address": "",
+    "category": "Law firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:17.379985"
+  },
+  {
+    "place_id": "0x87ee9e4152357eed:0",
+    "name": "Loney & Schueller, LLC",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:16.211361"
+  },
+  {
+    "place_id": "0x87ec392e67b12c87:0",
+    "name": "Platt Law Firm PC",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:14.998085"
+  },
+  {
+    "place_id": "0x87ec20854d60694b:0",
+    "name": "Parrish-Sams Luthens Law, PC",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:13.787224"
+  },
+  {
+    "place_id": "0x6edab16139f7109:0",
+    "name": "Ciannamea Law Group, PLLC",
+    "address": "",
+    "category": "Law firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:12.472191"
+  },
+  {
+    "place_id": "0x87ee99010977f335:0",
+    "name": "RSH Legal - Iowa Personal Injury Lawyers",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:11.269368"
+  },
+  {
+    "place_id": "0x87ee99064a81e205:0",
+    "name": "Baer Law Office",
+    "address": "838 5th Ave",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:07.311837"
+  },
+  {
+    "place_id": "0x87ee992648f3d91f:0",
+    "name": "Mueller, Schmidt, Mulholland & Cooling, PLLC",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:06.133804"
+  },
+  {
+    "place_id": "0x87ee99aaf7908be7:0",
+    "name": "Carpenter Law Firm",
+    "address": "",
+    "category": "Personal injury attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:04.936182"
+  },
+  {
+    "place_id": "0x3b05eb005a04e45d:0",
+    "name": "Chirayinkeezhu Christ Nagar North Arayathurathi",
+    "address": "MQ4G+69Q, Arayathuruthi Rd",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:03.712775"
+  },
+  {
+    "place_id": "0x3b05eb00366194db:0",
+    "name": "Chirayinkeezhu",
+    "address": "MQ7J+468",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:02.562872"
+  },
+  {
+    "place_id": "0x3b05eb0012c5aea7:0",
+    "name": "Pandakasala",
+    "address": "MQ4J+M99",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:01.348051"
+  },
+  {
+    "place_id": "0x3b05eb83138aeb9b:0",
+    "name": "Murali ( Souparnika )",
+    "address": "MQ6P+Q58",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:56:00.151360"
+  },
+  {
+    "place_id": "0x3b05eb28c1ba0fa3:0",
+    "name": "DEVI LAND ( ANUMON)",
+    "address": "MQ7J+855",
+    "category": "Apartment building",
+    "phone": "+91 90483 76733",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:58.963907"
+  },
+  {
+    "place_id": "0x3b05eb0062e81077:0",
+    "name": "Hari home",
+    "address": "MQ6Q+6R4",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:57.731159"
+  },
+  {
+    "place_id": "0x3b05eb92d1bbf40b:0",
+    "name": "Akshatham, puravoor, chirayinkeezhu",
+    "address": "MQFX+PJQ",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:55.404055"
+  },
+  {
+    "place_id": "0x3b05ea4fab94ca55:0",
+    "name": "Manappuram Finance Limited – Gold Loan",
+    "address": "",
+    "category": "Financial institution",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:54.229327"
+  },
+  {
+    "place_id": "0x3b05eb002c0539ed:0",
+    "name": "Renjith house",
+    "address": "MQ5Q+977, Kuttiyathu Line",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:52.966462"
+  },
+  {
+    "place_id": "0x3b05eb0046b349c5:0",
+    "name": "Dr. Najeeb A",
+    "address": "MQ4Q+F8G, Chirayinkeezhu Kaniyapuram Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:51.536237"
+  },
+  {
+    "place_id": "0x3b05ebbb92d40a53:0",
+    "name": "Vayalil constructions",
+    "address": "MQ2Q+9MQ, Chirayinkeezhu Kaniyapuram Rd",
+    "category": "Construction company",
+    "phone": "+91 94470 40441",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:50.364721"
+  },
+  {
+    "place_id": "0x3b05eb002c9a9527:0",
+    "name": "Ajeesh Sajan Home",
+    "address": "MQ3P+MWH, Pandakasala Sarkara Rd",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:49.170100"
+  },
+  {
+    "place_id": "0x3b05eb0069ef46dd:0",
+    "name": "Sreyas KRA40",
+    "address": "MQ5M+X7R, near CHIRAYINKIL",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:48.012893"
+  },
+  {
+    "place_id": "0x3b05ebac8ff9d0ad:0",
+    "name": "Sarkareshwari Building",
+    "address": "Sarkareshwari Building",
+    "category": "Retail space rental agency",
+    "phone": "+91 77630 05300",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:46.789259"
+  },
+  {
+    "place_id": "0x3b05b9167eec581f:0",
+    "name": "RR car care",
+    "address": "near dooradharshan kendram",
+    "category": "Auto repair shop",
+    "phone": "+91 94002 89091",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:45.552529"
+  },
+  {
+    "place_id": "0x3b05bd4a1ec728f9:0",
+    "name": "Cartisan Trivandrum - by PPG Asian Paints",
+    "address": "Rajam Detailing Pvt Ltd, Lords Hospital JN, Trivandrum Bypass, 29",
+    "category": "Auto restoration service",
+    "phone": "+91 95670 32911",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:44.356929"
+  },
+  {
+    "place_id": "0x3b05bfdd6ee895e9:0",
+    "name": "Garage 01",
+    "address": "TC No 79, 169/2, Road",
+    "category": "Auto repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:43.125719"
+  },
+  {
+    "place_id": "0x3b05bb82cd230023:0",
+    "name": "RVS Moto Hub PVT LTD",
+    "address": "",
+    "category": "Car repair and maintenance service",
+    "phone": "+91 98478 05644",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:41.892118"
+  },
+  {
+    "place_id": "0x3b05bb1967c915b5:0",
+    "name": "Florence Car Care",
+    "address": "Valiyavila Kundamankadavu Peyad, Rd",
+    "category": "Auto body shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:40.710677"
+  },
+  {
+    "place_id": "0x3b05ac14a6647105:0",
+    "name": "DAT O AUTOS",
+    "address": "TC 84, 2221/1, Vallakadavu Road, opp. to Kairali ford",
+    "category": "Auto restoration service",
+    "phone": "+91 97443 44333",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:38.178611"
+  },
+  {
+    "place_id": "0x3b05bb435bb96cc7:0",
+    "name": "MOTOR CRAFT AUTOMOBILES",
+    "address": "Arassummoodu, Thaliyal Rd",
+    "category": "Car repair and maintenance service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:36.975484"
+  },
+  {
+    "place_id": "0x3b05bc115c52d393:0",
+    "name": "AT Carmodz",
+    "address": "AT Carmodz",
+    "category": "Car repair and maintenance service",
+    "phone": "+91 99951 10132",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:35.780885"
+  },
+  {
+    "place_id": "0x3b05bf6475460c9d:0",
+    "name": "INFINITY CAR DETAILING TVM",
+    "address": "",
+    "category": "Auto restoration service",
+    "phone": "+91 90613 71114",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:34.543287"
+  },
+  {
+    "place_id": "0x3b05b95657a4ce9d:0",
+    "name": "RCD CAR DETAILING CENTRE",
+    "address": "",
+    "category": "Car wash",
+    "phone": "+91 99612 31122",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:33.300943"
+  },
+  {
+    "place_id": "0x3b05bef9439b6ffd:0",
+    "name": "3M Car Care Studio",
+    "address": "",
+    "category": "Auto restoration service",
+    "phone": "+91 82913 77371",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:32.056129"
+  },
+  {
+    "place_id": "0x3b05bfe4cf6892d9:0",
+    "name": "INFINITY CAR CLINIC",
+    "address": "road, Pullukad Rd, opposite KELTRON",
+    "category": "Auto restoration service",
+    "phone": "+91 98958 54965",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:30.819270"
+  },
+  {
+    "place_id": "0x3b05bb00359ea71f:0",
+    "name": "Sunil Auto Garage",
+    "address": "Karali Rd",
+    "category": "Auto repair shop",
+    "phone": "+91 96569 95735",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:29.641759"
+  },
+  {
+    "place_id": "0x3b05bb861101ec79:0",
+    "name": "300customz",
+    "address": "",
+    "category": "Auto restoration service",
+    "phone": "+91 80759 26849",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:28.271767"
+  },
+  {
+    "place_id": "0x3b05bb6c40d3593f:0",
+    "name": "vivid Auto Colors - Auto Body Shop",
+    "address": "Perunnelli Junction, Kallumoodu, NH Bypass Service Rd",
+    "category": "Auto dent removal service",
+    "phone": "+91 62383 87171",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:27.061315"
+  },
+  {
+    "place_id": "0x3b05bf939f77e911:0",
+    "name": "Phoenix Autospa and Ceramic- Graphene Coatings",
+    "address": "near Peninsular Honda",
+    "category": "Auto restoration service",
+    "phone": "+91 82814 37567",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:25.841360"
+  },
+  {
+    "place_id": "0x3b05bc159b6c8f85:0",
+    "name": "AutoGenie Classic Restore",
+    "address": "GV4W+595",
+    "category": "Auto body shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:24.615444"
+  },
+  {
+    "place_id": "0x3b05bd38e94a927f:0",
+    "name": "Autochroma Trivandrum",
+    "address": "Sabine Hospital JN, NH Bypass Service road",
+    "category": "Auto restoration service",
+    "phone": "+91 95670 32911",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:22.810578"
+  },
+  {
+    "place_id": "0x3b05bbf1c2220a59:0",
+    "name": "S S HEADLIGHT RESTORATION AND POLISHING",
+    "address": "home service available, Sharaf Villa Jubilee Nagar-45d, po",
+    "category": "Auto restoration service",
+    "phone": "+91 77362 49515",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:21.520265"
+  },
+  {
+    "place_id": "0x3b05bb42324911bb:0",
+    "name": "The Edge Detailing - Trivandrum",
+    "address": "",
+    "category": "Auto restoration service",
+    "phone": "+91 99460 00151",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:20.317706"
+  },
+  {
+    "place_id": "0x3b05bf4a95a6468d:0",
+    "name": "Elegance Car Spa & Detailing",
+    "address": "near Peninsular Honda Show room",
+    "category": "Auto restoration service",
+    "phone": "+91 62388 48810",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:19.104342"
+  },
+  {
+    "place_id": "0x3b05bfa4388a5e19:0",
+    "name": "Concept Colours",
+    "address": "HVH7+XX4, Vetturoad, Kazhakuttom",
+    "category": "Auto restoration service",
+    "phone": "+91 90489 90009",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:17.808361"
+  },
+  {
+    "place_id": "0x3b05ba24ec4206ef:0",
+    "name": "T.A.S Detailing studio",
+    "address": "",
+    "category": "Auto restoration service",
+    "phone": "+91 94974 54647",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:16.564155"
+  },
+  {
+    "place_id": "0x3b05bfe7acd73b43:0",
+    "name": "Longdrive Auto",
+    "address": "",
+    "category": "Auto bodywork mechanic",
+    "phone": "+91 99460 20099",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:15.274419"
+  },
+  {
+    "place_id": "0x3b05bb8b684908ed:0",
+    "name": "Grand Auto Detailing Studio",
+    "address": "",
+    "category": "Auto restoration service",
+    "phone": "+91 99613 61552",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:14.047902"
+  },
+  {
+    "place_id": "0x3b05bc75e63eb69d:0",
+    "name": "Autowize Detailerz AWC",
+    "address": "",
+    "category": "Auto restoration service",
+    "phone": "+91 62823 86399",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:12.777130"
+  },
+  {
+    "place_id": "0x3b05bdf62233d08f:0",
+    "name": "The Detailing Mafia Trivandrum",
+    "address": "",
+    "category": "Auto restoration service",
+    "phone": "+91 95677 39935",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:11.573215"
+  },
+  {
+    "place_id": "0x3b05bd07559458e3:0",
+    "name": "DETAILING FACTORY",
+    "address": "",
+    "category": "Auto restoration service",
+    "phone": "+91 94008 70905",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:10.315656"
+  },
+  {
+    "place_id": "0x3b05ba5c41c0d0b3:0",
+    "name": "BigFoot Customs",
+    "address": "",
+    "category": "Auto restoration service",
+    "phone": "+91 82899 41817",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:08.853216"
+  },
+  {
+    "place_id": "0x3b05bba2ae24779f:0",
+    "name": "Trivandrum Bar Association",
+    "address": "Trivandrum District Court Complex, Vanchiyoor.P.O",
+    "category": "Association / Organization",
+    "phone": "+91 94957 32475",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:07.638615"
+  },
+  {
+    "place_id": "0x3b05bb3533099535:0",
+    "name": "SREEBHADRAN ASSOCIATES",
+    "address": "2nd floor, Harsha Complex, PO, opp. Judges Quarters",
+    "category": "Civil law attorney",
+    "phone": "+91 95672 96489",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:06.426466"
+  },
+  {
+    "place_id": "0x3b05bb7f8b1ab727:0",
+    "name": "Poykayil Law Chambers",
+    "address": "MRRA 23, Malloor Rd",
+    "category": "Family law attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:05.189539"
+  },
+  {
+    "place_id": "0x3b05bbf633b72431:0",
+    "name": "Trivandrum Legal Services",
+    "address": "TC No. 82, 4737/2, Malloor Rd",
+    "category": "Legal services",
+    "phone": "+91 94003 28979",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:03.994205"
+  },
+  {
+    "place_id": "0x3b05bb19840122b3:0",
+    "name": "Advocate Manoj Parameswaran",
+    "address": "INDRANEELAM, PLRA 117 A, Panachamoodu Ln",
+    "category": "Legal services",
+    "phone": "+91 94470 12711",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:02.776254"
+  },
+  {
+    "place_id": "0x3b05bb41991e1d5f:0",
+    "name": "Advocate Hareesh & Associates",
+    "address": "HR Chambers, Mallor Road, Vanchiyoor PO, 35",
+    "category": "Legal services",
+    "phone": "+91 98956 84688",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:01.561259"
+  },
+  {
+    "place_id": "0x3b05bb64c7327bab:0",
+    "name": "Advocate Praveen P",
+    "address": "MBRRA 16, R. KUMARAN ASSOCIATES, Kalpana, Mathrubhoomi Rd",
+    "category": "Trial attorney",
+    "phone": "+91 94473 50277",
+    "website": null,
+    "discovered_at": "2026-11-13 06:55:00.338601"
+  },
+  {
+    "place_id": "0x3b05bb5bfb4c657f:0",
+    "name": "Lawyers & Advocate l Adv Rajesh Kumar K | Thiruvananthapuram",
+    "address": "",
+    "category": "Attorney",
+    "phone": "+91 94477 67175",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:59.155146"
+  },
+  {
+    "place_id": "0x3b05bb4a2dcb076b:0",
+    "name": "JN Law Associates | Advocates and Lawyers",
+    "address": "2nd floor, Rajenesh Buildings, East of District Court, opposite Judges Quarters",
+    "category": "Law firm",
+    "phone": "+91 94474 28661",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:57.977170"
+  },
+  {
+    "place_id": "0x3b05bba2c4b2e4f3:0",
+    "name": "Y&Y Law Associates",
+    "address": "Closes 6 PM",
+    "category": "Open",
+    "phone": "+91 99462 15422",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:56.785005"
+  },
+  {
+    "place_id": "0x3b05ba691d54a1f9:0",
+    "name": "Adv. Sreejith S V",
+    "address": "",
+    "category": "Attorney",
+    "phone": "+91 98954 17782",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:55.553418"
+  },
+  {
+    "place_id": "0x3b05bb8dee70ed5f:0",
+    "name": "M/s Renjith & Sandhya Associates",
+    "address": "ROOM no: VII, Floor-II, Opp:Triveni Nursing Home, GKN TOWERS, G. Krishnan Nair Rd",
+    "category": "Attorney",
+    "phone": "+91 94475 25298",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:54.346555"
+  },
+  {
+    "place_id": "0x3b05bb2031cfade3:0",
+    "name": "Advocate Joseph Stephen Thengaparamban",
+    "address": "Apsara, Pattoor - Vanchiyoor Rd, opposite Mitranikethan Working Women's Hostel",
+    "category": "Attorney",
+    "phone": "+91 85898 58240",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:53.079102"
+  },
+  {
+    "place_id": "0x3b05bb99d66e8077:0",
+    "name": "Adv. ADARSH S",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:51.886622"
+  },
+  {
+    "place_id": "0x3b05bba78ab38f73:0",
+    "name": "VG Nair & Associates",
+    "address": "Block No. 3, Ramana Madam",
+    "category": "Attorney",
+    "phone": "+91 81118 45454",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:50.689546"
+  },
+  {
+    "place_id": "0x3b05bbbc21ad7d41:0",
+    "name": "Navneeth Kumar V.S",
+    "address": "Law Quarters, 8th Floor, Maharani Building",
+    "category": "Attorney",
+    "phone": "+91 80866 17400",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:49.389480"
+  },
+  {
+    "place_id": "0x3b05bb00150777a7:0",
+    "name": "Mohan Varghese Advocates",
+    "address": "No.9, Malloor Rd, near NSS Karayougam",
+    "category": "Attorney",
+    "phone": "+91 82813 27605",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:48.162595"
+  },
+  {
+    "place_id": "0x3b05bb7dd61342ad:0",
+    "name": "Adv Akshadharan P R S",
+    "address": "",
+    "category": "Legal services",
+    "phone": "+91 99613 04502",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:46.856765"
+  },
+  {
+    "place_id": "0x3b05bba4f21d641f:0",
+    "name": "MCS Law Chamber( Adv shijimole mc)",
+    "address": "Kumari building, near khadi board",
+    "category": "Attorney",
+    "phone": "+91 92073 13917",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:45.594718"
+  },
+  {
+    "place_id": "0x3b05aefdf8b922f9:0",
+    "name": "Renoy Mohan and Associates",
+    "address": "Ground Floor, Techmate Building, Athani Ln, near Triveni Nursing Home",
+    "category": "Law firm",
+    "phone": "+91 94963 69427",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:44.364111"
+  },
+  {
+    "place_id": "0x3b05bb97ed34bfc5:0",
+    "name": "Sharon Law Chambers",
+    "address": "G. Krishnan Nair Rd",
+    "category": "Attorney",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:43.150673"
+  },
+  {
+    "place_id": "0x3b05bb73a9d8e9fb:0",
+    "name": "Advocate Vijeesh Vijayan",
+    "address": "The Dominant Law Chambers, Khadi Board Lane, near Khadi Board office",
+    "category": "Attorney",
+    "phone": "+91 70427 45112",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:41.787059"
+  },
+  {
+    "place_id": "0x3b05bbd494f49f4b:0",
+    "name": "Amina Bhanu & Associates",
+    "address": "TC.27/3182(7, Thoppil Ln, opposite Administrative Tribunal",
+    "category": "Attorney",
+    "phone": "+91 99465 13376",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:40.545652"
+  },
+  {
+    "place_id": "0x3b05b95200f89e2d:0",
+    "name": "Advocate David Varghese Thomas",
+    "address": "PRA 22, Mangattu Sanjeevani Poonthi Road, Medical College Kumarapuram Rd",
+    "category": "Attorney",
+    "phone": "+91 82812 11744",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:38.715398"
+  },
+  {
+    "place_id": "0x3b05bdd214f76745:0",
+    "name": "Ivy Residency",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 97782 72020",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:37.527411"
+  },
+  {
+    "place_id": "0x3b05bd0aa62a00e1:0",
+    "name": "APG Residency",
+    "address": "",
+    "category": "Apartment rental agency",
+    "phone": "+91 99467 47950",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:36.322031"
+  },
+  {
+    "place_id": "0x3b05bbecae088ad9:0",
+    "name": "Property Documentation and Translation Centre Trivandrum",
+    "address": "2nd floor, Powerlines Buildings, East of District Court",
+    "category": "Real estate consultant",
+    "phone": "+91 77369 37638",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:35.019220"
+  },
+  {
+    "place_id": "0x3b05bb28e384646d:0",
+    "name": "Malabar Developers",
+    "address": "3rd Floor, Mall of Travancore, near International Airport",
+    "category": "Real estate agency",
+    "phone": "+91 96050 00916",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:33.779941"
+  },
+  {
+    "place_id": "0x3b05bb4ed9a02e35:0",
+    "name": "Bhadra space",
+    "address": "JWRA 56A, TC 44, 1504/1, Kochar Rd",
+    "category": "Retail space rental agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:32.578481"
+  },
+  {
+    "place_id": "0x3b05bb63bdab0fb5:0",
+    "name": "Naz Arcade",
+    "address": "Naz Arcade, Hospital Rd, opposite National Health Mission",
+    "category": "Real estate rental agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:31.344210"
+  },
+  {
+    "place_id": "0x3b05bb751edb92b1:0",
+    "name": "BAZANI",
+    "address": "B1,First Floor, Syed Sab Apartments Mulavana Jn",
+    "category": "Loan agency",
+    "phone": "+91 97445 67853",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:30.172662"
+  },
+  {
+    "place_id": "0x3b05b12bf6c3bf39:0",
+    "name": "Trivandrum real estate വീട് സ്ഥലം വാടകക്ക്",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:28.951068"
+  },
+  {
+    "place_id": "0x3b05bb336d113857:0",
+    "name": "TOTAL CARE REAL ESTATE",
+    "address": "TC 11/1649-1, Sagariga, Ground Floor, Charachira Road Plamoodu",
+    "category": "Construction company",
+    "phone": "+91 70256 68439",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:27.725790"
+  },
+  {
+    "place_id": "0x3b05bb00562b0037:0",
+    "name": "PropertyPistol Realty Private Limited",
+    "address": "5th floor, Menathottam Chambers",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:26.500885"
+  },
+  {
+    "place_id": "0x3b05bb1147904a1b:0",
+    "name": "FlexTays Transit - Thampanoor",
+    "address": "Thinc Lane, SS Kovil Rd",
+    "category": "Condominium rental agency",
+    "phone": "+91 75108 89033",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:25.292251"
+  },
+  {
+    "place_id": "0x3b05bbccb46607e9:0",
+    "name": "Real Link | Real Estate Agency in Thiruvananthapuram",
+    "address": "SS Kovil Rd, opposite Ayyapa Temple Overbridge",
+    "category": "Industrial real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:24.091984"
+  },
+  {
+    "place_id": "0x3b05bb7e35f949f9:0",
+    "name": "Cordial Homes",
+    "address": "Ground floor, Cordial Deepam, Pipinmoodu - Mannammola Rd",
+    "category": "Construction company",
+    "phone": "+91 99474 55000",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:22.854924"
+  },
+  {
+    "place_id": "0x3b05bb0cb776d1cf:0",
+    "name": "MOR REALTORS",
+    "address": "Closes 5:30 PM",
+    "category": "Open",
+    "phone": "+91 99460 60606",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:21.610858"
+  },
+  {
+    "place_id": "0x3b05bb1905e88a6d:0",
+    "name": "MY Real Space Real Estate",
+    "address": "T C 25/2895, Dharmadesham Lane, MRRA B 18, Malloor Rd",
+    "category": "Industrial real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:20.367760"
+  },
+  {
+    "place_id": "0x3b05ba4a0c9a34d1:0",
+    "name": "VR Real Estate",
+    "address": "Edapazhanji, Cotton Hill, Vazhuthacaud",
+    "category": "Real estate agency",
+    "phone": "+91 94974 68925",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:19.137313"
+  },
+  {
+    "place_id": "0x3b05b9e52c31630d:0",
+    "name": "Get 1 Space Properties",
+    "address": "Rose Garden, RGRA 40",
+    "category": "Real estate consultant",
+    "phone": "+91 98099 99905",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:17.905105"
+  },
+  {
+    "place_id": "0x3b05bbd77f9b1fd3:0",
+    "name": "Ananthapuri Real Estate",
+    "address": "YGRA2ND Street Hpuse No 15 T/C 4, 1399, Kuravankonam YMR Rd",
+    "category": "Real estate agency",
+    "phone": "+91 90617 65020",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:16.586902"
+  },
+  {
+    "place_id": "0x3b05b9004c973e57:0",
+    "name": "NAVADURGA RENTALS CONSTRUCTIONS AND REALTORS",
+    "address": "GWXC+C25",
+    "category": "Real estate rental agency",
+    "phone": "+91 62821 17825",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:15.383445"
+  },
+  {
+    "place_id": "0x3b05bb4305c77737:0",
+    "name": "Faith Real Estate",
+    "address": "URA -12, North Nada",
+    "category": "Real estate rental agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:14.183123"
+  },
+  {
+    "place_id": "0x3b05bfb955555555:0",
+    "name": "Divine Lands Real Estate",
+    "address": "Shabnam Building, Business-Kerala, Divine Lands Real Estate, near Technopark",
+    "category": "Real estate agency",
+    "phone": "+91 88964 00800",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:11.011124"
+  },
+  {
+    "place_id": "0x3b05bbbc6d9c8cf5:0",
+    "name": "Real Estate Trivandrum",
+    "address": "URA - 76 , uppalam road, statue , trivandrum",
+    "category": "Real estate agency",
+    "phone": "+91 88488 70410",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:09.788604"
+  },
+  {
+    "place_id": "0x3b05b912f8dfca5d:0",
+    "name": "Ideal Realty",
+    "address": "Incuspaze Solutions, Aspinwall House, Kuravankonam - Maruthoor Rd",
+    "category": "Real estate agency",
+    "phone": "+91 99951 44227",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:08.553654"
+  },
+  {
+    "place_id": "0x3b05b9b588a70251:0",
+    "name": "Arctic Real Estate",
+    "address": "J-80, Jyothi Nagar Ln, opposite St.Mary's School, near BPCL Petrol Pump",
+    "category": "Condominium rental agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:07.154711"
+  },
+  {
+    "place_id": "0x3b05ba2df2efdc91:0",
+    "name": "Dial A Space",
+    "address": "Building No 15 , Vanajaramam, N St",
+    "category": "Real estate agency",
+    "phone": "+91 94009 55955",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:05.909752"
+  },
+  {
+    "place_id": "0x3b05bba61003d83d:0",
+    "name": "ReaL EstatE WorlD",
+    "address": "+91 99950 79435",
+    "category": "Open 24 hours",
+    "phone": "+91 99950 79435",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:04.571859"
+  },
+  {
+    "place_id": "0x3b05bb945029de9d:0",
+    "name": "DEERAA PROPERTIES",
+    "address": "DEERAA PROPERTIES, Ayyankali Rd",
+    "category": "Real estate agent",
+    "phone": "+91 70120 64804",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:03.274487"
+  },
+  {
+    "place_id": "0x3b05bfb5dc6c304f:0",
+    "name": "Trivandrum Properties",
+    "address": "Anas cottage , pullanivila , Thundathil",
+    "category": "Commercial real estate agency",
+    "phone": "+91 96337 04761",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:01.949108"
+  },
+  {
+    "place_id": "0x3b05bd901668bac3:0",
+    "name": "Johnson James",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": "+91 90202 80957",
+    "website": null,
+    "discovered_at": "2026-11-13 06:54:00.753106"
+  },
+  {
     "place_id": "0x3b05ef283770635f:0",
     "name": "Sona Wedding Collections",
     "address": "NASCO BUILDING, Temple Rd",
@@ -7252,1751 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-05-02 15:07:52.926426"
-  },
-  {
-    "place_id": "0x3b05c0a33dc80777:0",
-    "name": "D K Homoeo Clinic",
-    "address": "Rafha Building, Pothencode Murukkumpuzha Rd, near National Scan",
-    "category": "Doctor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 15:07:51.751681"
-  },
-  {
-    "place_id": "0x3b05bbceb1bec9b3:0",
-    "name": "Kanakakunnu Flag Post",
-    "address": "",
-    "category": "Tourist attraction",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 15:07:50.607654"
-  },
-  {
-    "place_id": "0x3b05bb2881c221f5:0",
-    "name": "Judgekunnu View Point",
-    "address": "",
-    "category": "Tourist attraction",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 15:07:49.446068"
-  },
-  {
-    "place_id": "0x89b7b7b76c78244f:0",
-    "name": "Robert Half Executive Search",
-    "address": "",
-    "category": "Executive search firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 09:44:23.735329"
-  },
-  {
-    "place_id": "0x89b7b7846bfd7bc1:0",
-    "name": "Sungold Kitchen (previously Victoria Cortes Personal Chef Service)",
-    "address": "918 S Lincoln St #2",
-    "category": "Delivery Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 09:44:22.650468"
-  },
-  {
-    "place_id": "0x3b05afa680968185:0",
-    "name": "Dizpos",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 09:44:21.515453"
-  },
-  {
-    "place_id": "0x3b05a95aabe2b9f9:0",
-    "name": "Angel Mariya Jobs",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 09:44:20.414967"
-  },
-  {
-    "place_id": "0x3b05ad34d71ea647:0",
-    "name": "Patharamattu Event Management & Catering",
-    "address": "VATTAVILA CHENKAL, near PATHARAMATTU EVENT MANAGEMENT CATERING",
-    "category": "Event management company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 09:44:19.320910"
-  },
-  {
-    "place_id": "0x3b05a5d50a95043f:0",
-    "name": "APNA PUNJABI DHABA 100% PURE VEGETARIAN JAIN FOOD FAMILY RESTAURANT KOVALAM",
-    "address": "₹200–400",
-    "category": "(13,660)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 08:10:14.623039"
-  },
-  {
-    "place_id": "0x3b05bbf60aeefaa3:0",
-    "name": "Aarohaa",
-    "address": "TSGRA 147, Pension Bhavan Lane, MG Radhakrishnan Rd",
-    "category": "Consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 08:10:13.454059"
-  },
-  {
-    "place_id": "0x3b05ae6214744639:0",
-    "name": "SREE SARAVANA BHAVAN",
-    "address": "₹1–200",
-    "category": "(2,294)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 08:10:12.253974"
-  },
-  {
-    "place_id": "0x3b05bb7964f7ce77:0",
-    "name": "Networkz Systems Corporate office",
-    "address": "3rd Floor, Bhadra centre, near Ayurveda college jn Kunnumpuram road, Mahatma Gandhi Rd",
-    "category": "Institute of technology",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 08:10:11.078274"
-  },
-  {
-    "place_id": "0x3b05ae88f178411b:0",
-    "name": "IndianOil Petrol Pump (Neyyatinkara)",
-    "address": "Ground Floor",
-    "category": "Gas station",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 08:10:09.906640"
-  },
-  {
-    "place_id": "0x3b05bef959c771cb:0",
-    "name": "Mettle Networks Pvt Limited",
-    "address": "HV5H+X29",
-    "category": "Business networking company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 08:10:08.728520"
-  },
-  {
-    "place_id": "0x3b05bf4ebe032f1d:0",
-    "name": "J N Oil Mill and Store",
-    "address": "Attinkuzhy, old Rd",
-    "category": "Manufacturer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 08:10:07.543583"
-  },
-  {
-    "place_id": "0x3b05bbbab423e163:0",
-    "name": "Allys Technologies",
-    "address": "PB No 111",
-    "category": "Business networking company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 08:10:06.357416"
-  },
-  {
-    "place_id": "0x3b05b91840c0b8a3:0",
-    "name": "PEIIC PVT LTD ( A Pinnacle Group Co.)",
-    "address": "",
-    "category": "Electrical equipment supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-02 08:10:05.150863"
-  },
-  {
-    "place_id": "0x3b05ebea925e5c6b:0",
-    "name": "Thejas constructions",
-    "address": "Ground Floor, Swagath Building, Main Rd, near Muncipal Office",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 21:18:45.587245"
-  },
-  {
-    "place_id": "0x3b05c1119ab2bf15:0",
-    "name": "Scorio Lights | Lights Shop in Trivandrum | All Lighting Solution",
-    "address": "Build Hub, 16th Mile",
-    "category": "Lighting store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 21:18:44.430848"
-  },
-  {
-    "place_id": "0x3b05e9f0a82323e5:0",
-    "name": "Kerala State Beverages Corporation Attingal",
-    "address": "",
-    "category": "Liquor store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 21:18:43.235347"
-  },
-  {
-    "place_id": "0x3b05eff1b3fa5563:0",
-    "name": "Ms light & sounds",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 21:18:42.067046"
-  },
-  {
-    "place_id": "0x3b05c038df521f23:0",
-    "name": "Green Foundations And Infrastructure",
-    "address": "Mangalath, near Karthika Park Hotel",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 21:18:40.877311"
-  },
-  {
-    "place_id": "0x3b05bb7446acfa03:0",
-    "name": "LYTMART LIGHTING",
-    "address": "Aratt Road, 84-2253-1",
-    "category": "Lighting store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 21:18:39.698798"
-  },
-  {
-    "place_id": "0x3b05bb0d14d1f605:0",
-    "name": "Steel Laser Cutting & CNC Design cutting All Metal & Wood Design Cutting Trivandrum",
-    "address": "SS Kovil Rd, near Cricket Association Shastam",
-    "category": "Steel fabricator",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 18:54:09.760681"
-  },
-  {
-    "place_id": "0x808fcc98dbb2434d:0",
-    "name": "Getachew & Ansari Immigration Attorneys, P.C.",
-    "address": "255 N Market St #170",
-    "category": "Immigration attorney",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 18:54:08.604635"
-  },
-  {
-    "place_id": "0x808fc9809a793b9f:0",
-    "name": "The Hot Tub WhereHouse",
-    "address": "",
-    "category": "Hot tub store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 14:05:30.283187"
-  },
-  {
-    "place_id": "0x3b05bb0c278295a3:0",
-    "name": "Sun Aquarium",
-    "address": "",
-    "category": "Aquarium shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 14:05:29.123598"
-  },
-  {
-    "place_id": "0x3b05bb58a76b7d1b:0",
-    "name": "RheumaCARE Thiruvananthapuram",
-    "address": "",
-    "category": "Rheumatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 14:05:27.953342"
-  },
-  {
-    "place_id": "0x808e350c94199efb:0",
-    "name": "Sangeetha Balasubramanian, MD",
-    "address": "",
-    "category": "Rheumatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 14:05:26.791741"
-  },
-  {
-    "place_id": "0x3b05a5984a537c39:0",
-    "name": "Sagarika Marine Research Aquarium",
-    "address": "",
-    "category": "Aquarium",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 14:05:25.635896"
-  },
-  {
-    "place_id": "0x3b05b9b35c058e57:0",
-    "name": "Brothers Agencies",
-    "address": "near moonamoodu",
-    "category": "Building materials supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 05:35:51.778026"
-  },
-  {
-    "place_id": "0x3b05bb665cab0bc7:0",
-    "name": "SNIPER TATTOO STUDIO Trivandrum lady tattoo artist",
-    "address": "vazhuthacaud, opp. Police Parade Ground",
-    "category": "Tattoo shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 05:35:50.678240"
-  },
-  {
-    "place_id": "0x3b05dd443558e8b1:0",
-    "name": "Capindia Roofing Solutions",
-    "address": "opposite Hp Petrol Pump Papala",
-    "category": "Roofing contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 05:35:49.534180"
-  },
-  {
-    "place_id": "0x3b05c3ba708b0a83:0",
-    "name": "LAKSHYA Professional Ladies Salon and Tattoo Studio",
-    "address": "QVFJ+526, opposite Town hall",
-    "category": "Tattoo shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 05:35:48.428815"
-  },
-  {
-    "place_id": "0x3b05bba2379bf5dd:0",
-    "name": "Krishi Mithra",
-    "address": "",
-    "category": "Farm equipment supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-05-01 05:35:47.320117"
-  },
-  {
-    "place_id": "0x3b05a5a58fcf5573:0",
-    "name": "Charge+ Charging Station",
-    "address": "Jama, Masjid Rd",
-    "category": "Electric vehicle charging station",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-30 16:05:21.519715"
-  },
-  {
-    "place_id": "0x3b05a596de6b5ec7:0",
-    "name": "B.R Auditorium",
-    "address": "TC 62/1455 Vizhinjam Rd, Junction",
-    "category": "Auditorium",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-30 16:05:20.310599"
-  },
-  {
-    "place_id": "0x3b05c10068da6b53:0",
-    "name": "Ather Grid Charging Station",
-    "address": "JVCR+GFP, Remya",
-    "category": "Electric vehicle charging station",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-30 16:05:19.106612"
-  },
-  {
-    "place_id": "0x3b05b80f96d03d91:0",
-    "name": "Goec Charging Station",
-    "address": "JX3X+H5H 11th Stone, near ASN Granite",
-    "category": "Electric vehicle charging station",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-30 16:05:17.968387"
-  },
-  {
-    "place_id": "0x3b05c7f7a26f0121:0",
-    "name": "Sree Vidya Auditorium",
-    "address": "",
-    "category": "Auditorium",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-30 16:05:16.826675"
-  },
-  {
-    "place_id": "0x88f8a5b56fc48a6d:0",
-    "name": "Law Office of Nicholas G. Callas, P.A.",
-    "address": "",
-    "category": "Social security attorney",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-29 22:46:16.171435"
-  },
-  {
-    "place_id": "0x3b05c1366c1a5433:0",
-    "name": "Festoon Ads",
-    "address": "",
-    "category": "Wedding photographer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-29 22:46:14.995306"
-  },
-  {
-    "place_id": "0x87ee824c8141eaad:0",
-    "name": "Suntex Boat Club & Rentals - Saylorville Lake Marina",
-    "address": "6170 NW Polk City Dr",
-    "category": "Boat rental service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-29 21:43:10.485397"
-  },
-  {
-    "place_id": "0x3b05bba618b22aa7:0",
-    "name": "Prakash Wig Shop Trivandrum | Thiruvananthapuram Natural Hair Fixing",
-    "address": "Medical College, opposite Deluxe Payward Garuda Tourist Home",
-    "category": "Wig shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-29 21:43:09.324121"
-  },
-  {
-    "place_id": "0x8c0581b544b55d3b:0",
-    "name": "Blue Rush Water Sports And Jet Ski Rentals",
-    "address": "Leverick Bay Marina North Sound",
-    "category": "Boat rental service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-29 21:43:08.142384"
-  },
-  {
-    "place_id": "0x3b05a942c45b8651:0",
-    "name": "Poovar Boating - Noah Backwater Cruise",
-    "address": "Poovar - Uchakada Rd",
-    "category": "Boat rental service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-29 21:43:06.953076"
-  },
-  {
-    "place_id": "0x3b0595536b6c180d:0",
-    "name": "Lake Palace Hotel",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-29 17:17:54.313127"
-  },
-  {
-    "place_id": "0xa0e356667e32f947:0",
-    "name": "Propertycan",
-    "address": "PP 12/216(2",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-29 00:19:31.250075"
-  },
-  {
-    "place_id": "0x83a9db61dff13d21:0",
-    "name": "Straightline Building Design & Constructions",
-    "address": "Opens 9:30 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 23:22:19.534237"
-  },
-  {
-    "place_id": "0x3b05e97fb9987c43:0",
-    "name": "Hangover Signature Salon",
-    "address": "Varkala Kallambalam Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 23:22:18.383999"
-  },
-  {
-    "place_id": "0x3b05bff97921356d:0",
-    "name": "Dasco Builders",
-    "address": "First floor, Dasco Royal square, Kottaram Rd",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 23:22:17.199061"
-  },
-  {
-    "place_id": "0x3b05a95e78284ea9:0",
-    "name": "Boys mens wear",
-    "address": "839C+G7C",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 21:21:01.799900"
-  },
-  {
-    "place_id": "0x3b05ea4e54ad6417:0",
-    "name": "Best Bakery",
-    "address": "₹1–200",
-    "category": "(480)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 21:21:00.693754"
-  },
-  {
-    "place_id": "0x3b05ea512d77bfef:0",
-    "name": "FB2 Mens Wear",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 21:20:59.569161"
-  },
-  {
-    "place_id": "0x3b05bf4f41387229:0",
-    "name": "Good Day Bakery",
-    "address": "₹400–600",
-    "category": "(33)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 21:20:58.430697"
-  },
-  {
-    "place_id": "0x3b05b991fa3a7341:0",
-    "name": "Jockey Exclusive Store",
-    "address": "Shop No 5, 3408, Medical College Ulloor Rd, opposite Axis Bank",
-    "category": "Men's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 21:20:57.327581"
-  },
-  {
-    "place_id": "0x3b05bf424964e17f:0",
-    "name": "Friends audios&events",
-    "address": "Friends audios&events, Shri Krishna Temple, near Puliyoorkodu",
-    "category": "Audiovisual equipment rental service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 21:20:56.170934"
-  },
-  {
-    "place_id": "0x3b05bb61eb406edd:0",
-    "name": "REAL MIX Audio Solutions : Light and Sounds Rental",
-    "address": "near SI property OJRA21",
-    "category": "Audiovisual equipment rental service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 21:20:54.961938"
-  },
-  {
-    "place_id": "0x3b05e92b99ac4e45:0",
-    "name": "GIRI RAJ R & ASSOCIATES, VARKALA",
-    "address": "PUTHENCHANTHA,VARKALA",
-    "category": "Chartered accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 15:50:15.602085"
-  },
-  {
-    "place_id": "0x3b05bb7e006febc7:0",
-    "name": "Lenskart.com at KP Road, Trivandrum (First Lens Replacement Free)",
-    "address": "TC No 79/1322, Kowdiar, Pattom Thanupillai Rd.",
-    "category": "Optician",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 11:35:18.879443"
-  },
-  {
-    "place_id": "0x3b05bb2d26a3c74b:0",
-    "name": "Ashtamudi Wellness – Bridal Makeup & Beauty Salon Kowdiar, Trivandrum",
-    "address": "Golf Links Rd, opp. Uday Palace Convention Center",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 11:35:17.684717"
-  },
-  {
-    "place_id": "0x3b05a526b1dd9d3b:0",
-    "name": "Joy Ayurvedic Wellness Spa",
-    "address": "ADS Tower, No. 63-505, Beach Rd",
-    "category": "Health spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 11:35:16.535131"
-  },
-  {
-    "place_id": "0x3b05a58a7ce1de4d:0",
-    "name": "Aadisaktthi Leisure Resort Kovalam",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 11:35:15.384277"
-  },
-  {
-    "place_id": "0x808fb5046d2bae2d:0",
-    "name": "The Spa and Sauna Co. - San Jose - Home of Hot Spring Spas",
-    "address": "",
-    "category": "Hot tub store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 11:35:14.186552"
-  },
-  {
-    "place_id": "0x3b05be467230f3bb:0",
-    "name": "Fathima Hospital and Palliative Care Center",
-    "address": "",
-    "category": "General hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 04:17:39.283034"
-  },
-  {
-    "place_id": "0x3b05bb16f7e0293f:0",
-    "name": "Garden Centre",
-    "address": "",
-    "category": "Garden",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 04:17:38.114395"
-  },
-  {
-    "place_id": "0x880e21dc10a170e3:0",
-    "name": "Shiloh Hospice and Palliative Care, LLC",
-    "address": "",
-    "category": "Hospice",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-28 04:17:36.984701"
-  },
-  {
-    "place_id": "0x3b05c570ef94beff:0",
-    "name": "Khan Gift Park",
-    "address": "QX87+H9W, Pangode - Pazhavila Rd",
-    "category": "Gift shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-27 17:07:33.598958"
-  },
-  {
-    "place_id": "0x3b05c1d421e526d3:0",
-    "name": "Strawberry Fancy Store",
-    "address": "No.PP/9/110, 2), Pothecode",
-    "category": "Gift shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-27 17:07:32.417406"
-  },
-  {
-    "place_id": "0x3b05e9f794ce26a3:0",
-    "name": "Bombay Fancy",
-    "address": "",
-    "category": "Gift shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-27 17:07:31.241757"
-  },
-  {
-    "place_id": "0x3b05c96df597b249:0",
-    "name": "Anju Medicals, Vithura",
-    "address": "M3CM+2J9, SH45",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-27 09:15:50.576187"
-  },
-  {
-    "place_id": "0x3b05bec901a90d4d:0",
-    "name": "Energy Management Centre",
-    "address": "",
-    "category": "Government office",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-27 09:15:49.377379"
-  },
-  {
-    "place_id": "0x3b05b93a7f8ebb63:0",
-    "name": "OAM YOGA STUDIO AND OKINAWAN ACADEMY OF MARTIAL ARTS INTERNATIONAL",
-    "address": "GuruKripa, Near Sabari Bankers, Edavacode, P.O, Jn",
-    "category": "Martial arts club",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-27 09:15:48.233003"
-  },
-  {
-    "place_id": "0x3b05b18afc215efd:0",
-    "name": "Tiger Kan Karate Centre",
-    "address": "G35J+WCP Tiger Kan Karate Centre, Kattakode Road, near Rijas Galleria",
-    "category": "Karate school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-27 09:15:47.048506"
-  },
-  {
-    "place_id": "0x3b05b1ab9734058b:0",
-    "name": "Apollo Pharmacy Kattakkada",
-    "address": "Ground Floor, 17/326, Thiruvananthapuram - Neyyar Dam Rd, opp. KSRTC Shopping Complex",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-27 09:15:45.879626"
-  },
-  {
-    "place_id": "0x3b05bb068167f3fd:0",
-    "name": "CRG WEALTH",
-    "address": "TC 82/6104, Nirmalyam, Chettikulangara Rd, behind Krishi Mithra Shop",
-    "category": "Financial planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-27 04:03:12.019978"
-  },
-  {
-    "place_id": "0x808fb54449bf383d:0",
-    "name": "BH Construction & Development",
-    "address": "1392 Bremerton Drive",
-    "category": "General contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-27 04:03:10.878419"
-  },
-  {
-    "place_id": "0x864e715d4a29b70d:0",
-    "name": "Strittmatter Wealth Management Group, LLC",
-    "address": "",
-    "category": "Financial advisor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-27 04:03:09.729659"
-  },
-  {
-    "place_id": "0x808f8f6984e0588f:0",
-    "name": "Landers Drywall",
-    "address": "6050 Lowell St Suite 122",
-    "category": "Dry wall contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-27 04:03:08.565114"
-  },
-  {
-    "place_id": "0x3b05a99f522e596b:0",
-    "name": "Isola Di Cocco",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 17:31:56.562956"
-  },
-  {
-    "place_id": "0x880e6152531e6867:0",
-    "name": "Joliet Boat Store",
-    "address": "",
-    "category": "Marine supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 17:31:55.437407"
-  },
-  {
-    "place_id": "0x3b05affd9e17cae1:0",
-    "name": "Log-on Energy Systems",
-    "address": "TC 49/2727, near Nemom Police Station",
-    "category": "Solar energy equipment supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 17:31:54.266397"
-  },
-  {
-    "place_id": "0x3b05a9757abcc695:0",
-    "name": "Over The Hill",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 17:31:53.117707"
-  },
-  {
-    "place_id": "0x3b05bb64559b9fdb:0",
-    "name": "ANAND SOLAR - TATA POWER SOLAR",
-    "address": "+91 99950 80514",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 17:31:51.957660"
-  },
-  {
-    "place_id": "0x3b05a5bb1100f2b7:0",
-    "name": "The Leela Kovalam, a Raviz Hotel",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 17:31:50.811201"
-  },
-  {
-    "place_id": "0x87ec21df1232f4e5:0",
-    "name": "Watch ProShop",
-    "address": "",
-    "category": "Jewelry repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 16:32:07.221007"
-  },
-  {
-    "place_id": "0x3b05bbcd163c3025:0",
-    "name": "Trivandrum Social Service Society",
-    "address": "Archbishop's House",
-    "category": "Social services organization",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 16:32:06.003459"
-  },
-  {
-    "place_id": "0x3b05bf430bd0a651:0",
-    "name": "Sincere Times Watch store",
-    "address": "",
-    "category": "Watch store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 16:32:04.839007"
-  },
-  {
-    "place_id": "0x54906ac4cb2d8f7f:0",
-    "name": "Professional Grant Writers",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 16:32:03.501078"
-  },
-  {
-    "place_id": "0x3b05bbaeaa484c89:0",
-    "name": "INSIGNIA LEGAL ASSOCIATES (NOTARY ATTESTATION, FAMILY CASES AND RERA CONSULTANCY FOR PROJECT AND AGENT REGISTRATION)",
-    "address": "Ground Floor, Canara Bank Lane, T. C No. 82/1613",
-    "category": "Notary public",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 16:32:02.214871"
-  },
-  {
-    "place_id": "0x3ba85a47d482c593:0",
-    "name": "United Cooling Systems Pvt. Ltd./Heat Exchanger/Cooling Tower/Air Fin Cooler/Fin Fan Cooler/Pressure Vessels",
-    "address": "",
-    "category": "Cooling plant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 15:35:58.901571"
-  },
-  {
-    "place_id": "0x3b05efc33977da57:0",
-    "name": "Evershine Plus Hygiene Services",
-    "address": "QPGF+4H7",
-    "category": "House cleaning service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 15:35:57.766691"
-  },
-  {
-    "place_id": "0x3b05ef00519d8cb9:0",
-    "name": "Indian Musical Instruments",
-    "address": "PPP3+P6G",
-    "category": "Musical instrument store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 15:35:56.666017"
-  },
-  {
-    "place_id": "0x3b05e865de8a34f5:0",
-    "name": "Supplyco Super Market | Kallambalam",
-    "address": "Varkala Kallambalam Rd, near Fishmarket",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 09:18:47.370095"
-  },
-  {
-    "place_id": "0x3b05e98a34523bf7:0",
-    "name": "Dreamland Fancy & Footwear",
-    "address": "Opp SBI, Arafa Complex, Main Road, NH 66 Jn",
-    "category": "Shoe store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 09:18:46.219116"
-  },
-  {
-    "place_id": "0x3b05e8614d97ab9b:0",
-    "name": "AMADEUS TRADERS",
-    "address": "Varkala Kallambalam Rd",
-    "category": "Hardware store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 09:18:44.987033"
-  },
-  {
-    "place_id": "0x3b05ae89aa5c9095:0",
-    "name": "Shoe Bazar",
-    "address": "93XQ+G52",
-    "category": "Shoe store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 09:18:43.819813"
-  },
-  {
-    "place_id": "0x3b05affbedbdf92d:0",
-    "name": "Maa bhavani hardware",
-    "address": "93XQ+X5J, Trivandrum - Nagercoil Hwy",
-    "category": "Hardware store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 09:18:42.515702"
-  },
-  {
-    "place_id": "0x3b05c148e228d63d:0",
-    "name": "Sopanam Footwear",
-    "address": "",
-    "category": "Shoe store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 09:18:41.332714"
-  },
-  {
-    "place_id": "0x3b05cff07f25bbf3:0",
-    "name": "Jizan Hardware",
-    "address": "Building, 2998/2-4-4 Jizan, Vithura - Peringammala Road",
-    "category": "Hardware store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 09:18:40.169196"
-  },
-  {
-    "place_id": "0x3b05bb07fe20c413:0",
-    "name": "Senthil Kumaran Hardware",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-26 09:18:38.866154"
-  },
-  {
-    "place_id": "0x3bae1ecd0b7525e7:0",
-    "name": "Lamborghini Bengaluru",
-    "address": "",
-    "category": "Car dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 23:56:29.145968"
-  },
-  {
-    "place_id": "0x43d77e8f2e2ad425:0",
-    "name": "DR. FIXIT | JK WEATHERTIGHT PVT LTD",
-    "address": "",
-    "category": "Waterproofing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 23:56:27.966000"
-  },
-  {
-    "place_id": "0x3b05ab0d5732efb3:0",
-    "name": "KTDC Motel Aahar Restaurant",
-    "address": "₹1–200",
-    "category": "(795)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 23:56:26.786732"
-  },
-  {
-    "place_id": "0x3b05bfa4dc00b999:0",
-    "name": "Kairali Gypsum Plastering( SAINT-GOBAIN GYPROC ELITE MR GYPSUM PLASTERING)",
-    "address": "Vettu Road",
-    "category": "Plasterer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 23:56:25.592693"
-  },
-  {
-    "place_id": "0x3b05c0a2a387cd03:0",
-    "name": "Akku Auto Parts",
-    "address": "JV9W+Q72",
-    "category": "Auto parts store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 21:28:28.653346"
-  },
-  {
-    "place_id": "0x3b05950030f9146b:0",
-    "name": "Multispares",
-    "address": "J S Nivas",
-    "category": "Auto parts store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 21:28:27.525265"
-  },
-  {
-    "place_id": "0x3b05bf00650f22cb:0",
-    "name": "Vedhavillage Spa - Trivandrum",
-    "address": "opposite Infosys",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 21:28:26.369612"
-  },
-  {
-    "place_id": "0x3b05bbddef06fa07:0",
-    "name": "Govind Auto Spares",
-    "address": "",
-    "category": "Auto parts store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 21:28:25.205702"
-  },
-  {
-    "place_id": "0x872b73ad7d0d57df:0",
-    "name": "Roman Tile & Remodeling",
-    "address": "19414 N 87th Dr",
-    "category": "Tile contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 19:40:32.657048"
-  },
-  {
-    "place_id": "0x3b05bb389f4c8de3:0",
-    "name": "Magma Cosmetics & Beauty World",
-    "address": "",
-    "category": "Cosmetics store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 19:40:31.403503"
-  },
-  {
-    "place_id": "0x872b0dc35cec3685:0",
-    "name": "Standard Restaurant Supply",
-    "address": "",
-    "category": "Restaurant supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 19:40:30.221110"
-  },
-  {
-    "place_id": "0x3b05c1d6a12018f7:0",
-    "name": "DYYNIT",
-    "address": "MC Road, Kesavadasapuram - Venjaramoodu Rd, near Modern Studio, opposite AK Wedding Centre",
-    "category": "Cosmetics store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 19:40:29.009595"
-  },
-  {
-    "place_id": "0x3b05ef284aaa5a5f:0",
-    "name": "Beauty Collections",
-    "address": "Closes 7:30 AM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 19:40:27.813233"
-  },
-  {
-    "place_id": "0x3b05bb07fea037e9:0",
-    "name": "MAKMID BEAUTY STORE X Ganesh Beauty",
-    "address": "Angalamman Kovil St",
-    "category": "Cosmetics store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 19:40:26.559344"
-  },
-  {
-    "place_id": "0x3b05c0a305d9fd11:0",
-    "name": "Meluha unisex Salon(Rose Beauty Clinic)",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 17:31:09.401512"
-  },
-  {
-    "place_id": "0x3b05c1373db313f9:0",
-    "name": "The Monarch Hotel & Convention Centre",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 17:31:08.219600"
-  },
-  {
-    "place_id": "0x872b6f7cec7b665f:0",
-    "name": "Moon Valley Medspa",
-    "address": "",
-    "category": "Medical spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 17:31:07.008597"
-  },
-  {
-    "place_id": "0x872b0d788fd00001:0",
-    "name": "Ur Development - Luxury Homes Builders Arizona",
-    "address": "",
-    "category": "Real estate developer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 17:31:05.854028"
-  },
-  {
-    "place_id": "0x872b09be8e92c419:0",
-    "name": "Eagles Buffet",
-    "address": "$$",
-    "category": "(867)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 17:31:04.639586"
-  },
-  {
-    "place_id": "0x3b05bbb121643113:0",
-    "name": "Dr.SEEMA’S AYURVEDIC WELLNESS CENTER",
-    "address": "Lakshmi Nivas, Kalabhavan Mani Rd, opposite Ajwa Hotel",
-    "category": "Medical spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 17:31:03.382136"
-  },
-  {
-    "place_id": "0x3b05b97ed9e385c9:0",
-    "name": "PPD (Prime Property Developers)",
-    "address": "",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 17:31:02.162293"
-  },
-  {
-    "place_id": "0x3b05a5acf9cd2f33:0",
-    "name": "SS AUTO ELECTRICALS & ELECTRONICS",
-    "address": "Main Road",
-    "category": "Auto electrical service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 13:32:53.819108"
-  },
-  {
-    "place_id": "0x3b05e87a4b37851b:0",
-    "name": "Perfect Auto Electricals",
-    "address": "NH 66, Near Navaikulam",
-    "category": "Auto electrical service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 13:32:52.664257"
-  },
-  {
-    "place_id": "0x808e34eecfbc0653:0",
-    "name": "South Bay Vascular Center and Vein Institute",
-    "address": "",
-    "category": "Vascular surgeon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 13:32:51.509078"
-  },
-  {
-    "place_id": "0x3b05bba6cbfbb07d:0",
-    "name": "Capstocks & Securities (India) Pvt Ltd",
-    "address": "Capstocks Tower, Thakaraparambu Rd",
-    "category": "Stock broker",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 13:32:50.373907"
-  },
-  {
-    "place_id": "0x3b05bf14fbca96fb:0",
-    "name": "SREEKARIYAM AUTOMOBLES",
-    "address": "",
-    "category": "Auto repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 13:32:49.209557"
-  },
-  {
-    "place_id": "0x3b05bd9335bac04f:0",
-    "name": "Dr. R C Sreekumar MBBS, MS, PDCC, FRCS",
-    "address": "PRAN HOSPITAL",
-    "category": "Vascular surgeon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 13:32:48.038979"
-  },
-  {
-    "place_id": "0x3b05bbc3b94ab2cd:0",
-    "name": "vishnu auto electrical & AC workshop",
-    "address": "",
-    "category": "Car battery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 13:32:46.883552"
-  },
-  {
-    "place_id": "0x3b05bb7fb2a867bf:0",
-    "name": "N S Sarma Associates",
-    "address": "TC 53, KRA C34, New",
-    "category": "Chartered accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 12:05:36.625111"
-  },
-  {
-    "place_id": "0x3b05bb04b3753ecf:0",
-    "name": "REDTAPE - NEMOM , TRIVANDRUM",
-    "address": "Closes 10 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 12:05:35.522103"
-  },
-  {
-    "place_id": "0x3b05bba4d9a36903:0",
-    "name": "DCR & Associates",
-    "address": "Tc 25/989, Rakush, Near Jas Hotel",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 12:05:34.403827"
-  },
-  {
-    "place_id": "0x3b05a50015defe47:0",
-    "name": "Sai leathers shoe maker by Siva",
-    "address": "1, Light House Rd",
-    "category": "Shoe store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 12:05:33.291926"
-  },
-  {
-    "place_id": "0x3b05a5e9926c8ba1:0",
-    "name": "Salmon Seafood Restaurant",
-    "address": "$$",
-    "category": "(845)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 12:05:32.063125"
-  },
-  {
-    "place_id": "0x3b05bff579d44c43:0",
-    "name": "JK SHOES",
-    "address": "Parabrahma Building, Sreekariyam - Pothencode Rd",
-    "category": "Shoe store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 09:22:05.360224"
-  },
-  {
-    "place_id": "0x3b05becbbfc3d3d5:0",
-    "name": "Mezban Restaurant",
-    "address": "₹1–200",
-    "category": "(1,535)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 09:22:04.170528"
-  },
-  {
-    "place_id": "0x3b05e929a140dd93:0",
-    "name": "Popular Hyundai Sales & Service - Varkala",
-    "address": "",
-    "category": "Hyundai dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 09:22:02.999858"
-  },
-  {
-    "place_id": "0x3b05eb4323268fb3:0",
-    "name": "Bootee Shoe Garden",
-    "address": "Bootee Shoe Garden Pulimood Junction Pulimood Bus stop Chirayinkeezhu Po, Junction",
-    "category": "Shoe store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 09:22:01.865222"
-  },
-  {
-    "place_id": "0x3b05ba95ac12fcf7:0",
-    "name": "Popular Hyundai Sales - Karakkamandapam",
-    "address": "",
-    "category": "Hyundai dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 09:22:00.652560"
-  },
-  {
-    "place_id": "0x3b05bbdd05d1f67b:0",
-    "name": "Mochi Shoes",
-    "address": "",
-    "category": "Shoe store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 09:21:59.504790"
-  },
-  {
-    "place_id": "0x3b05e901e3f47d59:0",
-    "name": "Legal services",
-    "address": "police station, near Attingal",
-    "category": "Law firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 08:18:11.053807"
-  },
-  {
-    "place_id": "0x3b05bb2121fe994b:0",
-    "name": "Alhind MEA Attestation/Apostille Services Trivandrum",
-    "address": "1st Floor, Sitara Tower, opp. Deshabimani Daily",
-    "category": "Certification agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 08:18:09.878531"
-  },
-  {
-    "place_id": "0x880fcb926422d3df:0",
-    "name": "Express Apostille & Notary Services",
-    "address": "",
-    "category": "Notary public",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 05:39:04.880772"
-  },
-  {
-    "place_id": "0x880fcb2716fc893f:0",
-    "name": "Mr.Grout",
-    "address": "8455 W Lawrence Ave",
-    "category": "Tile contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 05:39:03.735518"
-  },
-  {
-    "place_id": "0x3b05be90ae8215d7:0",
-    "name": "Adv Kala B",
-    "address": "P O, Thettiyodu veedu, Vazhappana Kizhakkumkara Rd",
-    "category": "Notary public",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 05:39:02.594721"
-  },
-  {
-    "place_id": "0x3b05b99ac8cf455d:0",
-    "name": "Durodesigns Home Decors Private Limited",
-    "address": "Closes 7 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 05:39:01.440719"
-  },
-  {
-    "place_id": "0x880fcc59d80e3e77:0",
-    "name": "McGrath City Mazda",
-    "address": "",
-    "category": "Mazda dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 05:39:00.273312"
-  },
-  {
-    "place_id": "0x3b05b990aa08f925:0",
-    "name": "Annamma PC - Notary",
-    "address": "DN 117 , Maammoottil",
-    "category": "Notary public",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 05:38:59.138276"
-  },
-  {
-    "place_id": "0x880e3985631b12f5:0",
-    "name": "Napleton's Oak Lawn Mazda",
-    "address": "",
-    "category": "Mazda dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 05:38:57.966810"
-  },
-  {
-    "place_id": "0x808e35e498c104c7:0",
-    "name": "Aston Martin Los Gatos",
-    "address": "",
-    "category": "Aston Martin dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 00:06:32.149874"
-  },
-  {
-    "place_id": "0x808e3315164270bb:0",
-    "name": "AT Dental Care San Jose",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 00:06:30.993996"
-  },
-  {
-    "place_id": "0x808fccb1c90e578b:0",
-    "name": "PwC San José",
-    "address": "488 South Almaden Boulevard",
-    "category": "Accounting firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 00:06:29.845751"
-  },
-  {
-    "place_id": "0x3b05baa829341fbb:0",
-    "name": "Asian Accounting Company (AAC)",
-    "address": "F225+3XP",
-    "category": "Auditor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 00:06:28.668174"
-  },
-  {
-    "place_id": "0x3b05c0a2df873127:0",
-    "name": "Modern Smile Care Clinic& Medical Centre",
-    "address": "Brothers Plaza Building, opposite to KSEB Office",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 00:06:27.517258"
-  },
-  {
-    "place_id": "0x3b05c1f1543d8811:0",
-    "name": "Kannattu Fingold Finance Pvt Ltd",
-    "address": "Abitha Building, near Rajakumari Jewellery",
-    "category": "Financial institution",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-25 00:06:26.360597"
-  },
-  {
-    "place_id": "0x3b05bb6c59d3c191:0",
-    "name": "Concrete Cutting Service by IBG",
-    "address": "P.O, TC 67/602(3), Opp.Q-Mart Super Market",
-    "category": "Demolition contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-24 18:12:02.873840"
-  },
-  {
-    "place_id": "0x3b05bb071a513117:0",
-    "name": "Deepthi Investments & Financiers Pvt Ltd",
-    "address": "FXJ4+7J9",
-    "category": "Investment service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-24 18:12:01.709943"
-  },
-  {
-    "place_id": "0x3b05b90d32d354c5:0",
-    "name": "Home touch",
-    "address": "above 10th stone",
-    "category": "Home builder",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-24 18:12:00.554890"
-  },
-  {
-    "place_id": "0x3b05cf6e7ad35cad:0",
-    "name": "Vrindavanam Convention Centre",
-    "address": "",
-    "category": "Convention center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-24 17:24:31.580051"
-  },
-  {
-    "place_id": "0x3b05c971f3ff24d3:0",
-    "name": "BSNL Subdivision vithura",
-    "address": "M39M+GG3",
-    "category": "Corporate office",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-24 17:24:30.385129"
-  },
-  {
-    "place_id": "0x808e3358274bf2e1:0",
-    "name": "Mike's Bikes of San Jose",
-    "address": "",
-    "category": "Bicycle Shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-24 17:24:29.235160"
-  },
-  {
-    "place_id": "0x3b05abbd28d0f9bf:0",
-    "name": "Angel One Ltd. - Sherin Dass",
-    "address": "8/45, Block Office Road, Sherin Das, near South Indian Bank",
-    "category": "Stock broker",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-24 12:51:27.079117"
-  },
-  {
-    "place_id": "0xa8a04d043530bd47:0",
-    "name": "307 Maid",
-    "address": "Opens 8 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-24 12:51:25.876502"
-  },
-  {
-    "place_id": "0x3b05a5f05de4dd29:0",
-    "name": "Angel One Ltd. - Sisupalan S",
-    "address": "Ground Floor, Rudraveena, Chani",
-    "category": "Stock broker",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-24 12:51:24.694900"
-  },
-  {
-    "place_id": "0x3b05bb5b95f1b57b:0",
-    "name": "WATER TECH - Water Tank & Deep Cleaning Services",
-    "address": "RS Complex, 1st Floor, opposite Lic city branch 3",
-    "category": "Water tank cleaning service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-24 12:51:23.477964"
-  },
-  {
-    "place_id": "0x4c15b074cf556055:0",
-    "name": "Aspire Holistic Health",
-    "address": "Opens 10 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-23 14:24:36.017396"
-  },
-  {
-    "place_id": "0x3b05af398f741f8f:0",
-    "name": "Kotak Mahindra Bank",
-    "address": "Sivams Building, Ground Floor, Poovar - Neyyatinkara Rd, near Post office",
-    "category": "Bank",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-23 14:24:34.572368"
-  },
-  {
-    "place_id": "0x3b05bbbbea9dffbf:0",
-    "name": "Max Life Insurance Co. Ltd.",
-    "address": "New Contact Number, 4th floor, Malankara Avenue,Near Axis Bank, Pattom",
-    "category": "Insurance company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-23 14:24:33.360058"
-  },
-  {
-    "place_id": "0x3b05baeb444fd9f9:0",
-    "name": "Parinay Weddings & Events IQ",
-    "address": "Events IQ TC.11/1556(3), Devaswom Board Junction, Nanthancode, Trivandrum",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-23 10:07:36.173824"
-  },
-  {
-    "place_id": "0x3b05a5090d56cbb9:0",
-    "name": "SJ HOSPITAL Kovalam",
-    "address": "near Central Bank",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-23 10:07:35.050623"
-  },
-  {
-    "place_id": "0x3b05bbe37c5dd5cb:0",
-    "name": "Dr.Zulfikar Ahamed",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-23 10:07:33.913273"
-  },
-  {
-    "place_id": "0x3b05af18d67c8c29:0",
-    "name": "Bharath homoeo clinic",
-    "address": "",
-    "category": "Homeopath",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-23 03:58:15.665457"
-  },
-  {
-    "place_id": "0x3b05ebaaa99c89d3:0",
-    "name": "Doctors Scans & Labs, Chirayinkeezhu",
-    "address": "1st Floor, Swamiji Tower, Taluk Hospital, near Chirayinkeezhu",
-    "category": "Medical diagnostic imaging center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-23 03:58:14.420249"
-  },
-  {
-    "place_id": "0x3b05befb907355af:0",
-    "name": "Popular Hyundai Service & Sales - Kazhakkoottam",
-    "address": "",
-    "category": "Hyundai dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-22 23:17:11.539495"
-  },
-  {
-    "place_id": "0x3b05bc7498310a43:0",
-    "name": "NBT HYUNDAI",
-    "address": "P.O, , NBT, NBT HYUNDAI, NBT AUTOCORP INDIA PVT LTD, HYUNDAI, CHACKAI BYPASS, CHACKAI BYPASS",
-    "category": "Hyundai dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-22 23:17:10.383486"
-  },
-  {
-    "place_id": "0x3b05bbb2ffffffff:0",
-    "name": "Newline Builders",
-    "address": "Newline Builders, Engineers & Contractors",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-22 22:15:45.758509"
-  },
-  {
-    "place_id": "0x3b05c1d5363cbee7:0",
-    "name": "NS INTERLOCKS AND TILES",
-    "address": "NS INTERLOCKS, VATTAVILA, NANNATTUKAVU, Muramel - Mailadummukal Road",
-    "category": "Paving materials supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-22 22:15:44.578903"
-  },
-  {
-    "place_id": "0x3b05befeb7a08c91:0",
-    "name": "Ginger Trivandrum",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-22 22:15:43.384270"
-  },
-  {
-    "place_id": "0x3b05bbb166165f9f:0",
-    "name": "Hyatt Regency Trivandrum",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-22 22:15:42.179058"
-  },
-  {
-    "place_id": "0x880e345a9a41db97:0",
-    "name": "Andrew A. Barone,LLC",
-    "address": "",
-    "category": "Social security attorney",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 14:58:39.356685"
-  },
-  {
-    "place_id": "0x3b05bb1c07068655:0",
-    "name": "Amritha Agencies",
-    "address": "Iranimuttam Bridge, opposite Homeo Medical College",
-    "category": "Tile contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 14:58:38.210151"
-  },
-  {
-    "place_id": "0x3b05bf0b8d5206bf:0",
-    "name": "Kajaria Experience Centre - Tiles Showroom in Kazhakkoottam, Thiruvanathapuram",
-    "address": "KAJARIA CERAMICS LTD, Shining Tower, 87/3, opposite Sainik School",
-    "category": "Tile store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 14:58:37.055053"
-  },
-  {
-    "place_id": "0x3b05b10a419a76ef:0",
-    "name": "VINEYARD AGROZONE",
-    "address": "junction",
-    "category": "Agricultural production",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 14:58:35.823944"
-  },
-  {
-    "place_id": "0x3b05bbcf240a4459:0",
-    "name": "Lizara",
-    "address": "Lizara , TC 49/315, PRA 101, Kamaleshwaram, PO",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 12:53:48.179121"
-  },
-  {
-    "place_id": "0x9fc953e617cd41:0",
-    "name": "Illinois Speech Therapy",
-    "address": "155 N Michigan Ave Suite 208",
-    "category": "Speech pathologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 12:53:47.014741"
-  },
-  {
-    "place_id": "0x3b05bb047fc14461:0",
-    "name": "EVENTORS The Event Factory",
-    "address": "+91 99959 33351",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 12:53:45.828156"
-  },
-  {
-    "place_id": "0x876b83fbe4142251:0",
-    "name": "Underwater Phantaseas",
-    "address": "",
-    "category": "Dive shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 08:29:53.470910"
-  },
-  {
-    "place_id": "0x864c23f4b4e4ae81:0",
-    "name": "Tokyo Shokudo",
-    "address": "$10–20",
-    "category": "(423)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 08:29:52.281376"
-  },
-  {
-    "place_id": "0x3b05afdfc904a07d:0",
-    "name": "DTH Service Sales & Repair.",
-    "address": "Closes 10 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 08:29:51.108078"
-  },
-  {
-    "place_id": "0x3b05b804c84f7ce5:0",
-    "name": "Nedumangadu Hardware",
-    "address": "J233+66C, Market Jn",
-    "category": "Plumbing supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 06:31:40.273928"
-  },
-  {
-    "place_id": "0x3b05b804991b7685:0",
-    "name": "Pereppadans Gold & Diamonds Manufacturers & Wholesalers",
-    "address": "Nedumangad Town Rd",
-    "category": "Jewelry manufacturer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 06:31:39.073257"
-  },
-  {
-    "place_id": "0x808fcc7020339c35:0",
-    "name": "Ferguson Plumbing Supply",
-    "address": "$$",
-    "category": "(78)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 06:31:37.896395"
-  },
-  {
-    "place_id": "0x3b05bb144b6ae8dd:0",
-    "name": "Subbiah Gold Park",
-    "address": "Pravachambalam junction",
-    "category": "Gold dealer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 06:31:36.725815"
-  },
-  {
-    "place_id": "0x3b05ab2cdc064d09:0",
-    "name": "Webbyeol Web Development & Digital Marketing Company",
-    "address": "Webbyeol Web development & Digital Marketing Company",
-    "category": "Website designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-04-21 06:31:35.547987"
   }
 ]
