@@ -1,5 +1,563 @@
 [
   {
+    "place_id": "0x3b05c172a55b5129:0",
+    "name": "Fair Face Unisex Salon & Makeover Studio",
+    "address": "1st Floor, Pallickal Plaza, SH 1, next to Hi-Five Restaurant",
+    "category": "Beauty salon",
+    "phone": "+91 96451 10062",
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:23.105817"
+  },
+  {
+    "place_id": "0x3b05c1ec7f015d8b:0",
+    "name": "Gopika Jith Makeover Studio",
+    "address": "Thycaud - Pothencode Road Near UCO Bank Thycaud Venjaramoodu P.O",
+    "category": "Make-up artist",
+    "phone": "+91 94008 02491",
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:21.533107"
+  },
+  {
+    "place_id": "0x3b05c1d82da6d72b:0",
+    "name": "S S POLYCLINIC & SURGICAL CENTRE",
+    "address": "",
+    "category": "Private hospital",
+    "phone": "+91 94954 88595",
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:19.487328"
+  },
+  {
+    "place_id": "0x3b05c32ea9968447:0",
+    "name": "Treebo New Indraprastha",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 93228 00100",
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:17.700771"
+  },
+  {
+    "place_id": "0x3b05c3257f40e7dd:0",
+    "name": "Sreelakshmi Auditorium",
+    "address": "QVCJ+7C8",
+    "category": "Convention center",
+    "phone": "+91 94472 43415",
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:16.538329"
+  },
+  {
+    "place_id": "0x3b05c370afce1e9d:0",
+    "name": "Chemmarathumukku Bus Stop",
+    "address": "QV45+3FR, SH 46",
+    "category": "Taxicab Stand",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:15.270793"
+  },
+  {
+    "place_id": "0x3b05c3257a760091:0",
+    "name": "Air Travel Associates",
+    "address": "QVCJ+G5M, Kilimanoor Junction, near Bharat Pump",
+    "category": "Travel agency",
+    "phone": "+91 94472 10967",
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:14.102346"
+  },
+  {
+    "place_id": "0x3b05c352fc1d440f:0",
+    "name": "Mr.J WEDDINGS",
+    "address": "First floor, Town HallAuditorium shopping complex, SH 1",
+    "category": "Photo lab",
+    "phone": "+91 98953 22384",
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:12.862734"
+  },
+  {
+    "place_id": "0x3b05c3c46c8f6645:0",
+    "name": "Arun. S interior designer",
+    "address": "Kilimanoor",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:11.665658"
+  },
+  {
+    "place_id": "0x3b05c3fa6eba54c3:0",
+    "name": "Asian Paints Beautiful Homes Painting Service",
+    "address": "Sree Gouri Color Park, Sai Building, Junction",
+    "category": "Painter",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:10.421773"
+  },
+  {
+    "place_id": "0x3b05c3004978ba3b:0",
+    "name": "MASH KINATTAZHIKAM",
+    "address": "salim oil mill, Near, Mash Junction",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:08.603432"
+  },
+  {
+    "place_id": "0x3b05c300147ab4f7:0",
+    "name": "Darusalam",
+    "address": "QVCJ+384",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:07.339493"
+  },
+  {
+    "place_id": "0x3b05c301907f744b:0",
+    "name": "V.V.Land",
+    "address": "QVFM+Q4G",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:06.144064"
+  },
+  {
+    "place_id": "0x3b05c35e9d8445b9:0",
+    "name": "Aswathy , Puthiyakavu ,Kilimanoor",
+    "address": "QV8F+X9V",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:04.832549"
+  },
+  {
+    "place_id": "0x3b05c3259d59d1f7:0",
+    "name": "Federal Bank - Kilimanoor",
+    "address": "",
+    "category": "Bank",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:03.607288"
+  },
+  {
+    "place_id": "0x3b05c326ebb56145:0",
+    "name": "Devi. Angadikada Kilimanoor",
+    "address": "Market Junction, near sarala memorial hospital, Puthiyakavu, , Pazhayakunnummel",
+    "category": "Health spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:02.340637"
+  },
+  {
+    "place_id": "0x3b05c374396e92bd:0",
+    "name": "Virus Men's Beauty Salon",
+    "address": "AJ Building, 814-A, opp. Private Bus Stand",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:26:01.157152"
+  },
+  {
+    "place_id": "0x3b05c3e3a2f9b009:0",
+    "name": "Dew & Divine",
+    "address": "300/9 AB",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:59.872982"
+  },
+  {
+    "place_id": "0x3b05c3816c299b6b:0",
+    "name": "Daily Fresh Fish Kilimanoor",
+    "address": "QV6R+43G, Kazhakoottam - Kilimanoor Rd",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:58.681394"
+  },
+  {
+    "place_id": "0x3b05c2d906b3a7b7:0",
+    "name": "KADAYIL STORE",
+    "address": "Kilimanoor Madavoor Rd",
+    "category": "Supermarket",
+    "phone": "+91 80866 04350",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:57.415509"
+  },
+  {
+    "place_id": "0x3b05c33917c7625d:0",
+    "name": "Lekshmi Store",
+    "address": "mohan Building, 11/532Kp, Chootayil Bridge",
+    "category": "Grocery store",
+    "phone": "+91 90748 40868",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:56.016406"
+  },
+  {
+    "place_id": "0x3b05c347ceb1cb07:0",
+    "name": "DEEPU L",
+    "address": "WINECLATTE, Old MC Rd",
+    "category": "Grocery store",
+    "phone": "+91 72936 36334",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:54.765752"
+  },
+  {
+    "place_id": "0x3b05c3eb5b7a66dd:0",
+    "name": "M S SILVER AND DIAMOND",
+    "address": "sooraj Building, Pp 14/1173, MC Rd, near Canara Bank",
+    "category": "Jewelry store",
+    "phone": "+91 94473 42369",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:50.800599"
+  },
+  {
+    "place_id": "0x3b05c2cc4319df13:0",
+    "name": "Mandapam Aneeshnarayanan Jyothishalayam",
+    "address": "Velikadu road, 1st right, near oorootu mandapam temple",
+    "category": "Astrologer",
+    "phone": "+91 96457 26631",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:49.555327"
+  },
+  {
+    "place_id": "0x3b05c37ff86a91a3:0",
+    "name": "Glitz fashion and jewellery",
+    "address": "Kilimanoor - Alamcode Rd",
+    "category": "Shopping mall",
+    "phone": "+91 99616 44454",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:48.394148"
+  },
+  {
+    "place_id": "0x3b05c3178cc77eb3:0",
+    "name": "A.S.D TREND HOUSE",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:46.662504"
+  },
+  {
+    "place_id": "0x3b05c36f5557c2b9:0",
+    "name": "Sandra Jewellery And Works",
+    "address": "No.5,junction Lane, Kilimanoor - Kottarakkara Rd, near Voltas Electricals",
+    "category": "Jewelry store",
+    "phone": "+91 97454 19393",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:45.378907"
+  },
+  {
+    "place_id": "0x3b05c36af4aae0f7:0",
+    "name": "SNK Doors and Frames",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": "+91 62388 02133",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:44.182975"
+  },
+  {
+    "place_id": "0x3b05ddcb4d1f65f9:0",
+    "name": "S S UPHOLSTERY",
+    "address": "Jn, - Pappala, Kilimanoor - Kottarakkara Rd, opposite bajaj show room",
+    "category": "Upholstery shop",
+    "phone": "+91 98465 89356",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:43.014735"
+  },
+  {
+    "place_id": "0x3b05c2e394931d27:0",
+    "name": "Manimanchal Furniture Shop",
+    "address": "QV38+2X5",
+    "category": "Furniture manufacturer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:41.687487"
+  },
+  {
+    "place_id": "0x3b05c3006756bbe9:0",
+    "name": "SSM home & Appliances",
+    "address": "QVC6+5JM, Kilimanoor Madavoor Rd",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:40.317286"
+  },
+  {
+    "place_id": "0x3b05c32f728c0c05:0",
+    "name": "Janaki Mobile",
+    "address": "QVCJ+P28",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 94472 43007",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:39.049506"
+  },
+  {
+    "place_id": "0x3b05c31c62ef0f67:0",
+    "name": "ARJUN B G",
+    "address": "G Mobiles, Arjun B",
+    "category": "Cell phone accessory store",
+    "phone": "+91 90615 26035",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:37.626690"
+  },
+  {
+    "place_id": "0x3b05c385bb804b79:0",
+    "name": "Abhay V",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 79078 82268",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:36.422529"
+  },
+  {
+    "place_id": "0x3b05c30038d164b9:0",
+    "name": "Bata Shoe Store - Pazhayakunnummel, Kilimanoor",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:35.090029"
+  },
+  {
+    "place_id": "0x3b05c3273784fcf3:0",
+    "name": "Alangar Boutique",
+    "address": "QV8F+6FP, Kilimanoor Madavoor Rd",
+    "category": "Clothing store",
+    "phone": "+91 97306 21987",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:33.920957"
+  },
+  {
+    "place_id": "0x3b05c300495f8cb9:0",
+    "name": "Kamala Surayya Abaaya World",
+    "address": "QVCJ+V2P",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:32.517678"
+  },
+  {
+    "place_id": "0x3b05dd000539eb87:0",
+    "name": "Matrix Mens Wear",
+    "address": "RV2J+F48",
+    "category": "Clothing store",
+    "phone": "+91 97463 97374",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:31.230784"
+  },
+  {
+    "place_id": "0x3b05c326dd90218f:0",
+    "name": "Athulya Textiles World",
+    "address": "QV8G+G5W",
+    "category": "Clothing store",
+    "phone": "+91 94473 86808",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:29.904801"
+  },
+  {
+    "place_id": "0x3b05c38871bd9fcb:0",
+    "name": "BRAND CITY",
+    "address": "THIRUMUDUMBIL BUILDING",
+    "category": "Men's clothing store",
+    "phone": "+91 85901 20049",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:28.726431"
+  },
+  {
+    "place_id": "0x3b05c32cbdb262f9:0",
+    "name": "Cool N Hot Fresh Juice",
+    "address": "QVJH+3G5, SH 1",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:27.382022"
+  },
+  {
+    "place_id": "0x3b05c3f57f105909:0",
+    "name": "Juice box",
+    "address": "QV8C+76H",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:26.165409"
+  },
+  {
+    "place_id": "0x3b05c3c4a841b3db:0",
+    "name": "Afia Bakery",
+    "address": "Chemmarathmukku, Kilimanoor - Alamcode Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:24.797385"
+  },
+  {
+    "place_id": "0x3b05c32f1d7c23df:0",
+    "name": "Galaxy Bakery Stationery & Tea Shop",
+    "address": "QVFH+8W5",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:23.553145"
+  },
+  {
+    "place_id": "0x3b05dd00494b4013:0",
+    "name": "Vazhiyidam Take A Break",
+    "address": "QVPM+FCJ, Kilimanoor - Kottarakkara Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:22.130427"
+  },
+  {
+    "place_id": "0x3b05dd0061aeb617:0",
+    "name": "LIMRA BAKERY, PAPPALA",
+    "address": "QVJH+WFR, Malayamadom - Pappala Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:20.902526"
+  },
+  {
+    "place_id": "0x3b05c3615a1d0dff:0",
+    "name": "Top Bakery",
+    "address": "Kilimanoor - Kottarakkara Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:19.705571"
+  },
+  {
+    "place_id": "0x3b05c300044c7951:0",
+    "name": "Tea shop",
+    "address": "chemmarathumukku, SH 46",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:18.460869"
+  },
+  {
+    "place_id": "0x3b05c300694ae217:0",
+    "name": "HOTEL HEROINE FAMILY RESTUARANT",
+    "address": "Malayamadom - Pappala Rd",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:17.239219"
+  },
+  {
+    "place_id": "0x3b05c3003e82d1d1:0",
+    "name": "Riyas hotel",
+    "address": "QV8C+92X",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:16.044583"
+  },
+  {
+    "place_id": "0x3b05c300159b6091:0",
+    "name": "Ruchiyidam Food Court",
+    "address": "State Highway 1",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:14.875439"
+  },
+  {
+    "place_id": "0x3b05c36aa0a4d57f:0",
+    "name": "Restaurant",
+    "address": "QV8G+H7M",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:13.449919"
+  },
+  {
+    "place_id": "0x3b05c32f7fd5eaef:0",
+    "name": "Neethi Medical Store",
+    "address": "QVFJ+423",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:12.126049"
+  },
+  {
+    "place_id": "0x3b05c3a31d71ec31:0",
+    "name": "Akshaya Community Pharmacy",
+    "address": "KILIMANOOR - PANCHAYATH BUS STAND ARJUN TOWERS,OPP.PVT BUSSTAND 29 KILIMANOOR - PANCHAYATH BUS STAND",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:10.896299"
+  },
+  {
+    "place_id": "0x3b05c32584e3ffa3:0",
+    "name": "AP Medicals",
+    "address": "QVCJ+23H",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:09.670903"
+  },
+  {
+    "place_id": "0x3b05c355799b741f:0",
+    "name": "Dr. Abit Asok",
+    "address": "GIRIJAS DIAGNOSTIC LAB AND SCAN PRASANNA COMPLEX, Market Rd",
+    "category": "Radiologist",
+    "phone": "+91 93888 87031",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:08.423605"
+  },
+  {
+    "place_id": "0x3b05c3cb7b8f8c37:0",
+    "name": "M M Laboratory",
+    "address": "bus stand, Opposite KSRTC",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:07.090308"
+  },
+  {
+    "place_id": "0x3b05c38796c8a5e3:0",
+    "name": "MRDC LABORATORY",
+    "address": "QV54+FFX, Kesavapuram CHC Rd",
+    "category": "Laboratory",
+    "phone": "+91 88486 52165",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:05.876762"
+  },
+  {
+    "place_id": "0x3b05c366f17596a9:0",
+    "name": "DSCDC LABORATORY",
+    "address": "near KSRTC Bus Stand",
+    "category": "Laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:04.670696"
+  },
+  {
+    "place_id": "0x3b05c336714f8753:0",
+    "name": "City Opticals Kilimanoor",
+    "address": "Town Hall Junction, KSRTC Road",
+    "category": "Optician",
+    "phone": "+91 91428 49322",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:03.391032"
+  },
+  {
+    "place_id": "0x3b05c32ee2af6173:0",
+    "name": "K.B.S. Ayurveda Dispensery",
+    "address": "QVFH+8XC",
+    "category": "Alternative medicine practitioner",
+    "phone": "+91 85473 72935",
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:02.173053"
+  },
+  {
+    "place_id": "0x3b05c32c3fbcdd25:0",
+    "name": "S. K Clinic",
+    "address": "QVGH+VPG, Vattappara - Thattathumala Rd",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 22:25:00.985147"
+  },
+  {
     "place_id": "0x3b05ebd6b70f6a39:0",
     "name": "Rajendra Travels",
     "address": "MQPF+Q56, Rajanivas",
@@ -8440,563 +8998,5 @@
     "phone": "+91 94000 12548",
     "website": null,
     "discovered_at": "2026-11-13 20:00:01.248665"
-  },
-  {
-    "place_id": "0x3b05bb765c8b47b9:0",
-    "name": "AL SHIFA DENTCARE DENTAL CLINIC | Clear Aligners & Smile Design",
-    "address": "Charummoottil, Central Tower, near Vayalil Restaurant",
-    "category": "Dental clinic",
-    "phone": "+91 90203 05062",
-    "website": null,
-    "discovered_at": "2026-11-13 19:59:59.979196"
-  },
-  {
-    "place_id": "0x3b05bb9fd8c76121:0",
-    "name": "Athira Dental Clinic",
-    "address": "near sree bhoothanathaswamy temple",
-    "category": "Dental clinic",
-    "phone": "+91 94956 80021",
-    "website": null,
-    "discovered_at": "2026-11-13 19:59:58.720027"
-  },
-  {
-    "place_id": "0x872b1202ca123649:0",
-    "name": "CO+HOOTS Coworking | Phoenix",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:31.342781"
-  },
-  {
-    "place_id": "0x872b06f25cdf5799:0",
-    "name": "AA Tax CPA, LLC",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:29.111650"
-  },
-  {
-    "place_id": "0x872b12c03c81c571:0",
-    "name": "Phoenix - CPA, tax, accounting, CFO Service, consulting, - YBCo",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:26.575416"
-  },
-  {
-    "place_id": "0x872b0d010df128f1:0",
-    "name": "Taraji PLLC",
-    "address": "",
-    "category": "Tax preparation service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:25.203229"
-  },
-  {
-    "place_id": "0x872b155c23b85d6f:0",
-    "name": "Talamante & Associate / AZ Training Center",
-    "address": "",
-    "category": "Tax preparation service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:22.700722"
-  },
-  {
-    "place_id": "0x872b0d6f4c211bd7:0",
-    "name": "Barry & Moore, CPAs",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:21.454066"
-  },
-  {
-    "place_id": "0x872b08c63068ad73:0",
-    "name": "Ignatius L. Jackson, CPA",
-    "address": "",
-    "category": "Accounting firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:19.154211"
-  },
-  {
-    "place_id": "0x872b12be2209b79d:0",
-    "name": "H & S Accounting LLC",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:16.724538"
-  },
-  {
-    "place_id": "0x872b0d8367d689a5:0",
-    "name": "Numbers Matter Tax & Accounting",
-    "address": "",
-    "category": "Accounting firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:15.395977"
-  },
-  {
-    "place_id": "0x872b138a09e9ddf3:0",
-    "name": "Aniles & Co CPA Firm",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:12.686726"
-  },
-  {
-    "place_id": "0x872b125f9b77c5c3:0",
-    "name": "Khalsa McBrearty Accountancy",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:11.379491"
-  },
-  {
-    "place_id": "0x872b6c595edcd21f:0",
-    "name": "METZ CPA PLLC - Certified Public Accountants",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:09.118625"
-  },
-  {
-    "place_id": "0x872b13dec4b49055:0",
-    "name": "Stenson Tamaddon",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:06.493156"
-  },
-  {
-    "place_id": "0x872b0d62a040e04d:0",
-    "name": "Roff & Associates",
-    "address": "",
-    "category": "Tax preparation service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:05.223914"
-  },
-  {
-    "place_id": "0x872b0f37a1a4c2bb:0",
-    "name": "ProVision, PLC",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:02.520668"
-  },
-  {
-    "place_id": "0x872b130bc50c4fc9:0",
-    "name": "SkyCo Travel",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:52:01.189488"
-  },
-  {
-    "place_id": "0x872b14a2dba679d3:0",
-    "name": "Cancun Travel & Tours",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:58.643249"
-  },
-  {
-    "place_id": "0x872b08982361b89f:0",
-    "name": "Phoenix International Travel & Tours",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:57.391792"
-  },
-  {
-    "place_id": "0x872b00748a8ae98b:0",
-    "name": "Bliss Travel Service",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:55.114161"
-  },
-  {
-    "place_id": "0x872b9f8a2b7f9a1b:0",
-    "name": "TNB Travel-Dream Vacations",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:52.498313"
-  },
-  {
-    "place_id": "0x872b0e8349477d65:0",
-    "name": "Global Travel",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:51.146704"
-  },
-  {
-    "place_id": "0x872b73c7ac710a43:0",
-    "name": "Feltmans Travel & Associates - Dream Vacations",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:48.438820"
-  },
-  {
-    "place_id": "0x64d300194189e71d:0",
-    "name": "KVS Travel",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:47.209222"
-  },
-  {
-    "place_id": "0x872b0d6f5ab13c21:0",
-    "name": "Preferred Travel Services LLC",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:44.727932"
-  },
-  {
-    "place_id": "0x872b13434692eb57:0",
-    "name": "Advance Travel, inc.",
-    "address": "40 N Central Ave",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:43.327564"
-  },
-  {
-    "place_id": "0x872b0d0f358e8fb7:0",
-    "name": "Camelback Odyssey Travel, a Direct Travel Company",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:41.165958"
-  },
-  {
-    "place_id": "0x872b0e868af6f603:0",
-    "name": "Sundance Travel",
-    "address": "",
-    "category": "Cruise agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:39.803048"
-  },
-  {
-    "place_id": "0x872b0f2e379290d7:0",
-    "name": "The Traveling Sista",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:38.550885"
-  },
-  {
-    "place_id": "0x872b1223c0e9d141:0",
-    "name": "Corporate Traveler | Corporate Travel Phoenix",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:36.948780"
-  },
-  {
-    "place_id": "0x54cf7a250fce5f13:0",
-    "name": "Awaken Travels - Phoenix Travel Agent",
-    "address": "Closes 5 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:35.630995"
-  },
-  {
-    "place_id": "0x872b0ac5484cc239:0",
-    "name": "Southwest Conference Planners, A DMC Network Company",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:34.334936"
-  },
-  {
-    "place_id": "0x872b0b95c0679233:0",
-    "name": "Mandy Marie Events",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:32.717564"
-  },
-  {
-    "place_id": "0x872b715fc9efbe55:0",
-    "name": "Sensational Events",
-    "address": "",
-    "category": "Wedding planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:31.474398"
-  },
-  {
-    "place_id": "0x872b0f7d5d3d22e7:0",
-    "name": "AZ Event Support LLC",
-    "address": "",
-    "category": "Event management company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:30.145955"
-  },
-  {
-    "place_id": "0x872b0bb6a1f1f91d:0",
-    "name": "Westgate Events",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:28.917899"
-  },
-  {
-    "place_id": "0x46a2ba4d98c18d79:0",
-    "name": "The Event Palette LLC",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:27.123026"
-  },
-  {
-    "place_id": "0x872b0fafeaae4b1f:0",
-    "name": "Satyr Entertainment - Event Production and Planning",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:25.814852"
-  },
-  {
-    "place_id": "0x872b1360b13793cd:0",
-    "name": "Phoenix Event Planner",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:24.494280"
-  },
-  {
-    "place_id": "0x872b0bba55285915:0",
-    "name": "Outstanding Occasions",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:23.142261"
-  },
-  {
-    "place_id": "0x637c4f3aba8021d7:0",
-    "name": "MatchBox Event Co",
-    "address": "",
-    "category": "Wedding planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:17.387972"
-  },
-  {
-    "place_id": "0x872b123c58ee5439:0",
-    "name": "Stylish Events By Lisa",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:16.151899"
-  },
-  {
-    "place_id": "0x872b0b28456990b3:0",
-    "name": "Elle Interiors LLC",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:14.876294"
-  },
-  {
-    "place_id": "0x872b137efa8fa325:0",
-    "name": "Studio J. Kessler Interior Design",
-    "address": "2111 Encanto Dr SW",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:13.580539"
-  },
-  {
-    "place_id": "0x872b7423a0fe8ae5:0",
-    "name": "Melissa Mae Design",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:12.335548"
-  },
-  {
-    "place_id": "0x872b12399630833b:0",
-    "name": "City Chic Interior Design, LLC",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:11.088095"
-  },
-  {
-    "place_id": "0x872b0b136964fce5:0",
-    "name": "House of Form",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:09.847594"
-  },
-  {
-    "place_id": "0xa073cbfa2f4f40c1:0",
-    "name": "Phoenix Interior Design-By Nicole",
-    "address": "2600 N Central Ave",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:07.814457"
-  },
-  {
-    "place_id": "0x872b1307185fb527:0",
-    "name": "Earthen Co Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:06.516481"
-  },
-  {
-    "place_id": "0x872b1221be28c27d:0",
-    "name": "Phoenix Real Estate Group",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:05.144686"
-  },
-  {
-    "place_id": "0x872b75b3e77aaaab:0",
-    "name": "Josh Zuniga | eXp Realty | Luxury Real Estate Expert - Peoria, AZ - Phoenix, AZ",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:03.831869"
-  },
-  {
-    "place_id": "0x872b69999e4ce597:0",
-    "name": "Joshua Hernandez- Realtor -The Hernandez Team x My Home Group",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:02.548738"
-  },
-  {
-    "place_id": "0x872b0c27fccaa577:0",
-    "name": "NetWorth Realty of Phoenix",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:51:00.520209"
-  },
-  {
-    "place_id": "0x872b0c4565065a51:0",
-    "name": "At Home Real Estate AZ",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:50:59.141067"
-  },
-  {
-    "place_id": "0x872b0d577f962bdb:0",
-    "name": "Capstone Realty Professionals",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:50:57.757664"
-  },
-  {
-    "place_id": "0x872b130382b908a1:0",
-    "name": "Planet Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:50:55.729273"
-  },
-  {
-    "place_id": "0x872b71e388493505:0",
-    "name": "HAUS Real Estate Team | SERHANT.",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:50:54.463384"
-  },
-  {
-    "place_id": "0x872b121345efffff:0",
-    "name": "ASAP Realty Group- AXEN Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:50:53.194472"
-  },
-  {
-    "place_id": "0x872b139c95d4edc3:0",
-    "name": "Lyons Real Estate Group",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:50:51.944266"
-  },
-  {
-    "place_id": "0x872b1380e07233e9:0",
-    "name": "John Gluch Phoenix Real Estate Agent - EXP",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:50:50.715613"
-  },
-  {
-    "place_id": "0x872b09873aecf1c3:0",
-    "name": "Olympic Driver's Ed",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 19:50:49.458119"
   }
 ]
