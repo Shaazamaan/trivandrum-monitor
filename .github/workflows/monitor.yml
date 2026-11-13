@@ -18,6 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write # Needed to commit the database back
+      actions: write  # Needed to start the next run
 
     steps:
       - name: Checkout code
@@ -67,3 +68,11 @@ jobs:
           # Only commit if there are changes (i.e. new businesses found)
           git commit -m "Update known places database" || echo "No changes to commit"
           git push
+
+      # GitHub often skips scheduled runs, so each run starts the next one.
+      # The cron above stays as a backup to restart the chain if it breaks.
+      - name: Start next run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run monitor.yml --ref main --repo ${{ github.repository }}
