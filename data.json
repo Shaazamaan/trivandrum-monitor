@@ -1,5 +1,248 @@
 [
   {
+    "place_id": "0x3b05b9b9ab1f78b9:0",
+    "name": "My Homes Architects and Interiors",
+    "address": "Sastham Kovil Ln",
+    "category": "Interior designer",
+    "phone": "+91 94466 52023",
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:29.565101"
+  },
+  {
+    "place_id": "0x808e3354a6f1f81d:0",
+    "name": "Spaces By Juliana Linssen Interior Design",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:28.253003"
+  },
+  {
+    "place_id": "0x808e31cbf9f5c099:0",
+    "name": "Bennett Design Company",
+    "address": "4:30 PM",
+    "category": "Closes soon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:26.861257"
+  },
+  {
+    "place_id": "0x808fcb5a251c391d:0",
+    "name": "BAY HILL DRIVING SCHOOL- San Jose",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:25.481256"
+  },
+  {
+    "place_id": "0x808fcb6e95f0dfc1:0",
+    "name": "Beyond The Spa",
+    "address": "",
+    "category": "Day spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:24.239149"
+  },
+  {
+    "place_id": "0x808e34b37046dc81:0",
+    "name": "Silver Sea Day Spa",
+    "address": "",
+    "category": "Day spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:22.972600"
+  },
+  {
+    "place_id": "0x808e34a9f68126b5:0",
+    "name": "All Natural Day Spa",
+    "address": "",
+    "category": "Day spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:21.699589"
+  },
+  {
+    "place_id": "0x3b05bbf8d09ca549:0",
+    "name": "Yajur Wellness Spa, Trivandrum",
+    "address": "Ground floor, Adara residency, near petrol pump",
+    "category": "Health spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:20.245351"
+  },
+  {
+    "place_id": "0x808fcbafe500503d:0",
+    "name": "TrioSpa - Massage, Facials & Waxing / Trio Wellness Mgmt",
+    "address": "1585 The Alameda",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:19.035717"
+  },
+  {
+    "place_id": "0x808fcb0833059651:0",
+    "name": "Salon Blu",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:17.674030"
+  },
+  {
+    "place_id": "0x808e334bb9a6abdd:0",
+    "name": "Willow Market",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:16.408520"
+  },
+  {
+    "place_id": "0x3b05bbbb94fb2403:0",
+    "name": "The Pantry",
+    "address": "Capitol Centre",
+    "category": "North Indian restaurant",
+    "phone": "+91 97467 82823",
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:15.055400"
+  },
+  {
+    "place_id": "0x3b05bb00722ce24f:0",
+    "name": "Malabar Cafe",
+    "address": "54, Palayam Airport Rd",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:13.840834"
+  },
+  {
+    "place_id": "0x3b05bb629d0c0955:0",
+    "name": "Mumbai Haji Ali",
+    "address": "",
+    "category": "Juice shop",
+    "phone": "+91 80890 07212",
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:12.648894"
+  },
+  {
+    "place_id": "0x3b05bb8a44272f5f:0",
+    "name": "Anamika Sarbath stall",
+    "address": "GX32+F3X",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:11.393353"
+  },
+  {
+    "place_id": "0x3b05bb2f8a11f3ef:0",
+    "name": "SHAINI STORES",
+    "address": "SHOP NO 2, BASHEER PLAZA, PALAYAM VATTIYOORKKAVU ROAD, near Public Library - Nandavanam Road",
+    "category": "Juice shop",
+    "phone": "+91 83019 66090",
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:10.182783"
+  },
+  {
+    "place_id": "0x3b05bbb7a7ea8831:0",
+    "name": "Arun Fresh juice",
+    "address": "695033",
+    "category": "Juice shop",
+    "phone": "+91 99470 27531",
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:08.955351"
+  },
+  {
+    "place_id": "0x3b05bb6cded318f5:0",
+    "name": "QUINN BITES",
+    "address": "SNNRA9, Palayam Airport Rd",
+    "category": "Juice shop",
+    "phone": "+91 90487 29179",
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:07.671668"
+  },
+  {
+    "place_id": "0x3b05bb8fd380badd:0",
+    "name": "Sabi Juice Shop",
+    "address": "Palayam Airport Rd",
+    "category": "Juice shop",
+    "phone": "+91 98477 48806",
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:06.382929"
+  },
+  {
+    "place_id": "0x3b05bb8b8482eecf:0",
+    "name": "ezone",
+    "address": "opp. SAPHALYAM COMPLEX",
+    "category": "Juice shop",
+    "phone": "+91 97466 70964",
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:05.130142"
+  },
+  {
+    "place_id": "0x808fcd029b8b3b53:0",
+    "name": "Panapolis Mexican Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:03.869822"
+  },
+  {
+    "place_id": "0x3b05bb004b91ceb1:0",
+    "name": "Pharmacy",
+    "address": "GX22+GVF, Sunny Meads Ln",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:02.440162"
+  },
+  {
+    "place_id": "0x808fcba9a80f73e3:0",
+    "name": "Optical Center | Kaiser Permanente Skyport Medical Offices",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:33:01.145706"
+  },
+  {
+    "place_id": "0x808fcadfd1acb2bd:0",
+    "name": "Optical Illusions of San Jose | An Optometric Practice - Santana Row",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:32:59.735374"
+  },
+  {
+    "place_id": "0x3b05bbd42639aabd:0",
+    "name": "Avantika Interior Systems Private Limited",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:32:58.487260"
+  },
+  {
+    "place_id": "0x3b05bb9e974693a3:0",
+    "name": "Nathan Supermarket",
+    "address": "",
+    "category": "Grocery store",
+    "phone": "+91 92499 99952",
+    "website": null,
+    "discovered_at": "2026-11-13 23:32:57.093318"
+  },
+  {
+    "place_id": "0x3b05bbfccfddb9d1:0",
+    "name": "NANMA PROVISIONS & STATIONERIES",
+    "address": "44/1434, JUAN BHAVAN Jagathy",
+    "category": "Grocery store",
+    "phone": "+91 96779 06067",
+    "website": null,
+    "discovered_at": "2026-11-13 23:32:55.889572"
+  },
+  {
     "place_id": "0x3b05bb00466b598d:0",
     "name": "Jaya stores tea coffee snacks cool drinks",
     "address": "GX27+QMX, Krishna Vilasam Rd",
@@ -8755,248 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-13 20:32:48.311716"
-  },
-  {
-    "place_id": "0x89ad647713c5b9cb:0",
-    "name": "Eclipse Hair Studio",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:46.080057"
-  },
-  {
-    "place_id": "0x89b1a769f329b141:0",
-    "name": "Venus Beauty Studio",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:43.965258"
-  },
-  {
-    "place_id": "0x89ad85fe90881051:0",
-    "name": "Clarksville Hair Studio",
-    "address": "403 Virginia Ave",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:41.686069"
-  },
-  {
-    "place_id": "0x89b27743aa7012bf:0",
-    "name": "His & Her Hair Care",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:40.544790"
-  },
-  {
-    "place_id": "0x89b271d27aacc2d7:0",
-    "name": "Z Salon",
-    "address": "2041 Fort Mitchell Dr",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:39.396184"
-  },
-  {
-    "place_id": "0x89b2086b90933aa3:0",
-    "name": "Pro Styles",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:38.148837"
-  },
-  {
-    "place_id": "0x89b27725ffee8ce5:0",
-    "name": "Mirror Mirror Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:36.718722"
-  },
-  {
-    "place_id": "0x89b2086c7b599b43:0",
-    "name": "Picasso's Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:32.804801"
-  },
-  {
-    "place_id": "0x89b2776a20daba81:0",
-    "name": "Head To Toe",
-    "address": "4244 Old Cox Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:30.303015"
-  },
-  {
-    "place_id": "0x3b05bb016187c6b3:0",
-    "name": "Krishna Store",
-    "address": "FWMX+2CC",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:27.802617"
-  },
-  {
-    "place_id": "0x3b05bbfaee60cca1:0",
-    "name": "Fisanns",
-    "address": "First Floor, Smart Bazar, Ravi Arcade, Malabar Castle, Mahatma Gandhi Rd, Pazhavangadi",
-    "category": "Hypermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:26.278581"
-  },
-  {
-    "place_id": "0x3b05bba77cd96eb7:0",
-    "name": "Azad",
-    "address": "FWMX+3MX",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:24.079211"
-  },
-  {
-    "place_id": "0x3b05bba034d2fc45:0",
-    "name": "Kaineetam Super Market",
-    "address": "Trivandrum Corporation Office, Taluk Office Rd",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:21.980823"
-  },
-  {
-    "place_id": "0x3b05bba7296617e7:0",
-    "name": "Prasanna Store",
-    "address": "Opens 5 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:19.385504"
-  },
-  {
-    "place_id": "0x3b05bbf1cdf5a537:0",
-    "name": "K Supreme by Kollam Supreme",
-    "address": "Ground Floor, Rajadhani Building, inside Fort",
-    "category": "Jewelry store",
-    "phone": "+91 81389 99824",
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:18.221207"
-  },
-  {
-    "place_id": "0x89ad847b04be0491:0",
-    "name": "Arrington's Home Furnishings",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:16.054317"
-  },
-  {
-    "place_id": "0x89ad847bbdc9cd31:0",
-    "name": "Clarksville Furniture and Flooring - Clarksville, VA",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:13.467712"
-  },
-  {
-    "place_id": "0x884d31c4f93e46bb:0",
-    "name": "Virginia Furniture Market - Bedford",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:12.108274"
-  },
-  {
-    "place_id": "0x89b22172a818ea3b:0",
-    "name": "Blackstone Emporium, Inc.",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:09.365805"
-  },
-  {
-    "place_id": "0x89b1a7a4751f187b:0",
-    "name": "Havertys Furniture Outlet",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:08.149499"
-  },
-  {
-    "place_id": "0x89b2086a5073be9b:0",
-    "name": "South Hill Furnishings, LLC",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:06.021454"
-  },
-  {
-    "place_id": "0x89b2086aea1e7313:0",
-    "name": "Discount Furniture Center",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:03.508211"
-  },
-  {
-    "place_id": "0x89b2210d532f05cb:0",
-    "name": "Winn Furniture Co",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:32:02.108064"
-  },
-  {
-    "place_id": "0x89b2086ae8496d25:0",
-    "name": "Schewels Home",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:31:59.983557"
-  },
-  {
-    "place_id": "0x3b05bb001de5e7bb:0",
-    "name": "Khushi Mobiles",
-    "address": "Thakaraparambu Rd, FWPW+MVF",
-    "category": "Cell phone accessory store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:31:57.521119"
-  },
-  {
-    "place_id": "0x89b24f25ed41e5b1:0",
-    "name": "Lex on Main",
-    "address": "231 N Main St",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:31:56.223513"
-  },
-  {
-    "place_id": "0x89ad847ac62744a1:0",
-    "name": "DoodleBug's",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 20:31:54.095871"
   }
 ]
