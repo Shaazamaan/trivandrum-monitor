@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x3b05bbc5c18da027:0",
+    "name": "Lavi Flying Colours (Balloon Decor & Events)",
+    "address": "Opens 7 AM",
+    "category": "Closed",
+    "phone": "+91 90616 55919",
+    "website": null,
+    "discovered_at": "2026-11-13 23:55:18.053518"
+  },
+  {
+    "place_id": "0x3b05bbea5a1021ad:0",
+    "name": "Ani Motor Driving School",
+    "address": "Junction",
+    "category": "Driving school",
+    "phone": "+91 94953 02119",
+    "website": null,
+    "discovered_at": "2026-11-13 23:55:16.790511"
+  },
+  {
+    "place_id": "0x3b05b91f54617ff1:0",
+    "name": "Fitness Mix",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:55:15.369875"
+  },
+  {
+    "place_id": "0x3b05bbc470f2ed0b:0",
+    "name": "Profile Orthodontics",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 94472 20226",
+    "website": null,
+    "discovered_at": "2026-11-13 23:55:13.996609"
+  },
+  {
+    "place_id": "0x3b05b9693dfcbd35:0",
+    "name": "Dr.Azmins Lux Dente",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 80891 88809",
+    "website": null,
+    "discovered_at": "2026-11-13 23:55:12.682571"
+  },
+  {
+    "place_id": "0x3b05bb000e40c3b5:0",
+    "name": "Dr Sandhya's Brilliant Dental Clinic",
+    "address": "TC 17, GRA 27, 4681, Gowreesapattom Rd",
+    "category": "Dental clinic",
+    "phone": "+91 95629 65295",
+    "website": null,
+    "discovered_at": "2026-11-13 23:55:11.457937"
+  },
+  {
+    "place_id": "0x3b05b9845aa983c1:0",
+    "name": "Clover",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 99959 41969",
+    "website": null,
+    "discovered_at": "2026-11-13 23:55:10.163641"
+  },
+  {
+    "place_id": "0x3b05b9b0ca201361:0",
+    "name": "H Vinod &Associates",
+    "address": "",
+    "category": "Chartered accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:55:08.920095"
+  },
+  {
+    "place_id": "0x3b05b90018e09d69:0",
+    "name": "Mythri Gardens",
+    "address": "T/62/475",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:55:07.623002"
+  },
+  {
+    "place_id": "0x3b05bbfd85efe3e5:0",
+    "name": "Torque Fitness Studio",
+    "address": "T.K.Divakaran Tower Medical College Kumarapuram Road, Ph: 0471, 425 3777",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-13 23:55:06.351326"
+  },
+  {
     "place_id": "0x3b05b97d1126bb43:0",
     "name": "Sree Guru",
     "address": "Sree Narayana Building, Ulloor - Akkulam Rd",
@@ -8908,95 +8998,5 @@
     "phone": "+91 95673 08216",
     "website": null,
     "discovered_at": "2026-11-13 21:06:11.004823"
-  },
-  {
-    "place_id": "0x3b05afba1f4e2cff:0",
-    "name": "Shanines Academy",
-    "address": "Shanines Academy, SN Complex",
-    "category": "English language school",
-    "phone": "+91 95448 58439",
-    "website": null,
-    "discovered_at": "2026-11-13 21:06:09.673227"
-  },
-  {
-    "place_id": "0x3b05b97ed69f932b:0",
-    "name": "T.I.M.E.",
-    "address": "",
-    "category": "Coaching center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:06:08.494309"
-  },
-  {
-    "place_id": "0x3b05afb7c7be45b9:0",
-    "name": "Enroll Learnings",
-    "address": "Amman Kovil",
-    "category": "Coaching center",
-    "phone": "+91 70120 87120",
-    "website": null,
-    "discovered_at": "2026-11-13 21:06:07.153702"
-  },
-  {
-    "place_id": "0x3b05afa1200ead7d:0",
-    "name": "STEPS ABACUS, NEYYATTINKARA",
-    "address": "Nalantha tution centre, GR Rd",
-    "category": "Education center",
-    "phone": "+91 73568 06215",
-    "website": null,
-    "discovered_at": "2026-11-13 21:06:05.838958"
-  },
-  {
-    "place_id": "0x3b05af8ab5f825d9:0",
-    "name": "SIP Abacus Neyyattinkara",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": "+91 77368 91110",
-    "website": null,
-    "discovered_at": "2026-11-13 21:06:04.522890"
-  },
-  {
-    "place_id": "0x3b05a900404f752d:0",
-    "name": "Kailasa Homestay & Ayurvedic Spa poovar",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:06:03.197847"
-  },
-  {
-    "place_id": "0x3b05a9f4da2b43f5:0",
-    "name": "Grace Ayurveda And Naturopathy Wellness Centre",
-    "address": "Mavilakadavu Chenkal, Mahadeva Temple Road",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:06:02.032418"
-  },
-  {
-    "place_id": "0x3b05af085060722d:0",
-    "name": "Home Massage service for ladies",
-    "address": "Home",
-    "category": "Thai massage therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:06:00.801384"
-  },
-  {
-    "place_id": "0x3b05af003c8e8011:0",
-    "name": "SQUADS GYM keeliyoodu",
-    "address": "C3PG+C56, Neyyattinkara Kattakkada Rd",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:05:59.635954"
-  },
-  {
-    "place_id": "0x3b05afb91cf21b7b:0",
-    "name": "Saranya's Bridal Makeup studio",
-    "address": "Opposite Govt UPS Athiyannoor",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:05:58.455130"
   }
 ]
