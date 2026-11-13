@@ -19,17 +19,17 @@ class DiscordNotifier:
             "fields": [
                 {
                     "name": "Category",
-                    "value": business.get('category', 'N/A'),
+                    "value": business.get('category') or 'N/A',
                     "inline": True
                 },
                 {
                     "name": "Phone",
-                    "value": business.get('phone', 'N/A'),
+                    "value": business.get('phone') or 'N/A',
                     "inline": True
                 },
                 {
                     "name": "Address",
-                    "value": business.get('address', 'N/A'),
+                    "value": business.get('address') or 'N/A',
                     "inline": False
                 }
             ],
