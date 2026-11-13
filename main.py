@@ -31,9 +31,23 @@ TRIVANDRUM_LOCATIONS = [
 # We pick 3 random High-Value keywords per run to keep runtime short (~3-5 mins).
 # 3 keywords * 3 locations = 9 searches per run.
 # This prevents GitHub Actions timeouts and Google IP blocks.
-KEYWORDS_PER_RUN = 36  # ~8 min per run; 824 keywords / 36 = ~23 runs = each search re-checked about every 8 hours
+SEARCHES_PER_RUN = 45  # ~8 min per run; 824 keywords / 36 = ~23 runs = each search re-checked about every 8 hours
 
 LOCATION = "Trivandrum"
+
+# Lead categories (agency / website / marketing prospects). Each is searched in every area.
+LEAD_KEYWORDS = [
+    "Dental clinic", "Skin clinic", "Physiotherapy clinic", "Ayurveda clinic", "Eye clinic",
+    "Diagnostic lab", "Pharmacy", "Veterinary clinic",
+    "Restaurant", "Cafe", "Bakery", "Cloud kitchen", "Juice shop",
+    "Clothing store", "Boutique", "Mobile phone shop", "Furniture store", "Jewellery store", "Supermarket",
+    "Beauty salon", "Gym", "Spa", "Tuition centre", "Driving school", "Real estate agency",
+    "Interior designer", "Event planner", "Travel agency",
+    "Chartered accountant", "Coworking space",
+]
+# Every (category, area) pair; Google shows only 20 results per search, so
+# narrow area searches reach the lower-ranked (often newest) businesses.
+SEARCHES = [(k, loc) for loc in TRIVANDRUM_LOCATIONS for k in LEAD_KEYWORDS]
 
 def tag_results(storage, results, keyword, location):
     # First time this search runs: its results become the snapshot (no alerts).
@@ -70,15 +84,15 @@ def main():
         
         # Fixed rotation (not random) so every search repeats on a predictable cycle:
         # first pass = snapshot, every later pass = compare against snapshot.
-        offset = storage.get_state('keyword_offset', 0) % len(ALL_KEYWORDS)
-        batch = [ALL_KEYWORDS[(offset + i) % len(ALL_KEYWORDS)] for i in range(KEYWORDS_PER_RUN)]
-        print(f"--- Rotation scan: keywords {offset}..{offset + KEYWORDS_PER_RUN - 1} of {len(ALL_KEYWORDS)} ---")
-        for keyword in batch:
-            results = scraper.search_and_scrape(keyword, LOCATION)
-            tag_results(storage, results, keyword, LOCATION)
+        offset = storage.get_state('search_offset_v3', 0) % len(SEARCHES)
+        batch = [SEARCHES[(offset + i) % len(SEARCHES)] for i in range(SEARCHES_PER_RUN)]
+        print(f"--- Rotation: searches {offset}..{offset + SEARCHES_PER_RUN - 1} of {len(SEARCHES)} ---")
+        for keyword, loc in batch:
+            results = scraper.search_and_scrape(keyword, loc)
+            tag_results(storage, results, keyword, loc)
             all_results.extend(results)
             time.sleep(2)
-        storage.set_state('keyword_offset', (offset + KEYWORDS_PER_RUN) % len(ALL_KEYWORDS))
+        storage.set_state('search_offset_v3', (offset + SEARCHES_PER_RUN) % len(SEARCHES))
 
         # Process All Results
         new_count = 0
