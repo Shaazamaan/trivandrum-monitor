@@ -1,7 +1,12 @@
 from playwright.sync_api import sync_playwright
 import time
 import random
-from fake_useragent import UserAgent
+
+DESKTOP_USER_AGENTS = [
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36',
+    'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+]
 
 class GoogleMapsScraper:
     def __init__(self, headless=True):
@@ -9,7 +14,6 @@ class GoogleMapsScraper:
         self.browser = None
         self.page = None
         self.playwright = None
-        self.ua = UserAgent()
 
     def start_browser(self):
         self.playwright = sync_playwright().start()
@@ -19,7 +23,8 @@ class GoogleMapsScraper:
         )
         
         # Random User Agent for Stealth
-        random_ua = self.ua.random
+        # Desktop UAs only: mobile UAs get a layout with no div[role="feed"] results list
+        random_ua = random.choice(DESKTOP_USER_AGENTS)
         print(f"🕵️‍♂️ Stealth Mode: Using User-Agent: {random_ua[:30]}...")
         
         self.context = self.browser.new_context(
@@ -91,11 +96,12 @@ class GoogleMapsScraper:
             
             for entry in entries:
                 try:
-                    aria_label = entry.get_attribute('aria-label')
-                    if not aria_label: continue
-                        
                     url_el = entry.query_selector('a')
                     if not url_el: continue
+
+                    # Google Maps now puts the business name on the link, not the article div
+                    aria_label = url_el.get_attribute('aria-label') or entry.get_attribute('aria-label')
+                    if not aria_label: continue
                     url = url_el.get_attribute('href')
                     url = self.clean_data(url) # Sanitize URL
                     
@@ -128,111 +134,14 @@ class GoogleMapsScraper:
                     pid_match = re.search(r'!1s(0x[0-9a-f]+:[0-9a-f]+)', url)
                     place_id = pid_match.group(1) if pid_match else url
                     
-                    # Extract Phone and Website by clicking into detail page
+                    # Phone is shown in the listing text; no click-through (clicking left the list stale)
                     phone = None
+                    phone_match = re.search(r'(\+?91[\s\-]?)?([6-9]\d{4}[\s\-]?\d{5}|0471[\s\-]?\d{6,7})', text)
+                    if phone_match:
+                        phone = phone_match.group(0).strip()
                     website = None
-                    canonical_url = url  # Fallback to search result URL
-                    
-                    try:
-                        # Click the listing to open detail panel
-                        url_el.click()
-                        
-                        # Wait for detail panel to load (dynamic wait up to 5 seconds)
-                        try:
-                            self.page.wait_for_selector('div[role="main"]', timeout=5000)
-                        except:
-                            # Detail panel didn't load, skip this listing
-                            print(f"⚠️ Detail panel timeout for: {aria_label[:30]}...")
-                            raise Exception("Detail panel load timeout")
-                        
-                        # Get the canonical Place URL from browser address bar
-                        current_url = self.page.url
-                        if '/maps/place/' in current_url:
-                            canonical_url = current_url
-                        else:
-                            print(f"⚠️ URL didn't navigate to place page: {current_url[:50]}")
-                        
-                        # Extract phone from detail panel
-                        # Extract phone from detail panel
-                        # Strategy 1: Look for phone number button (specific data-item-id)
-                        try:
-                            phone_button = self.page.query_selector('button[data-item-id^="phone"]')
-                            if phone_button:
-                                phone_text = phone_button.get_attribute('aria-label')
-                                if phone_text:
-                                    phone_match = re.search(r'[\d\s\+\-\(\)]+$', phone_text)
-                                    if phone_match:
-                                        phone = phone_match.group(0).strip()
-                        except: pass
+                    canonical_url = url
 
-                        # Strategy 2: Look for any button with a phone icon or "Call" text
-                        if not phone:
-                            try:
-                                buttons = self.page.query_selector_all('button')
-                                for btn in buttons:
-                                    txt = btn.inner_text()
-                                    if '0471' in txt or '+91' in txt or (len(re.findall(r'\d', txt)) > 6 and 'Call' not in txt): # Primitive phone check
-                                         phone_match = re.search(r'(\+91[\s\-]?)?[6-9]\d{9}|0471[\s\-]?\d+', txt)
-                                         if phone_match:
-                                             phone = phone_match.group(0).strip()
-                                             break
-                                    # Check aria-label of all buttons
-                                    lbl = btn.get_attribute('aria-label')
-                                    if lbl and ('Phone:' in lbl or 'Call' in lbl):
-                                         phone_match = re.search(r'[\d\s\+\-\(\)]+$', lbl)
-                                         if phone_match:
-                                             phone = phone_match.group(0).strip()
-                                             break
-                            except: pass
-
-                        # Strategy 3: Look in the detail panel text (broad regex)
-                        if not phone:
-                            detail_panel = self.page.query_selector('div[role="main"]')
-                            if detail_panel:
-                                detail_text = detail_panel.inner_text()
-                                # Match Indian phone patterns (Mobile & Landline)
-                                phone_match = re.search(r'(\+?91[\s\-]?)?([6-9]\d{9}|0471[\s\-]?\d{6,7})', detail_text)
-                                if phone_match:
-                                    phone = phone_match.group(0).strip()
-                        
-                        print(f"   -> Extracted Phone: {phone}, URL: {canonical_url[:40]}...")
-                        
-                        # Extract website
-                        website_link = self.page.query_selector('a[data-item-id="authority"]')
-                        if not website_link:
-                            website_link = self.page.query_selector('a[aria-label*="Website"]')
-                        
-                        if website_link:
-                            website = website_link.get_attribute('href')
-                            if website and "google.com/url" in website:
-                                import urllib.parse
-                                parsed = urllib.parse.urlparse(website)
-                                qs = urllib.parse.parse_qs(parsed.query)
-                                if 'q' in qs:
-                                    website = qs['q'][0]
-                            if website:
-                                website = self.clean_data(website)
-                        
-                        # Go back to results list with error handling
-                        try:
-                            self.page.go_back()
-                            # Wait for results feed to be visible again
-                            self.page.wait_for_selector('div[role="feed"]', timeout=3000)
-                        except:
-                            # Fallback: reload the search if go_back fails
-                            print(f"⚠️ go_back() failed, reloading search...")
-                            self.page.goto(search_url)
-                            self.page.wait_for_selector('div[role="feed"]', timeout=10000)
-                        
-                    except Exception as e:
-                        print(f"❌ Error extracting details for {aria_label}: {e}")
-                        # Try to recover: reload the search page
-                        try:
-                            self.page.goto(search_url)
-                            self.page.wait_for_selector('div[role="feed"]', timeout=10000)
-                        except:
-                            pass  # Continue with None values
-                    
                     results.append({
                         "place_id": place_id,
                         "name": aria_label,
