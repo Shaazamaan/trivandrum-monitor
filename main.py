@@ -31,9 +31,19 @@ TRIVANDRUM_LOCATIONS = [
 # We pick 3 random High-Value keywords per run to keep runtime short (~3-5 mins).
 # 3 keywords * 3 locations = 9 searches per run.
 # This prevents GitHub Actions timeouts and Google IP blocks.
-TARGET_KEYWORDS = random.sample(ALL_KEYWORDS, 3)
+KEYWORDS_PER_RUN = 12  # 824 keywords / 12 = ~69 runs = each search repeats about once a day
 
 LOCATION = "Trivandrum"
+
+def tag_results(storage, results, keyword, location):
+    # First time this search runs: its results become the snapshot (no alerts).
+    # Later runs of the same search: anything not in the snapshot is NEW.
+    baselined = storage.is_baselined(keyword, location)
+    for r in results:
+        r['_baselined'] = baselined
+    if results:
+        storage.mark_baselined(keyword, location)
+    print(f"   {'compare' if baselined else 'snapshot'}: {keyword} @ {location} ({len(results)} results)")
 
 def main():
     print("Starting Google Maps Monitor (Cloud Mode)...")
@@ -58,27 +68,18 @@ def main():
     try:
         all_results = []
         
-        # 1. Base Scan: "Keyword + Trivandrum" (General Coverage)
-        print("--- Starting Base Scan (Trivandrum) ---")
-        for keyword in TARGET_KEYWORDS:
-            print(f"Scanning {keyword} in Trivandrum...")
-            results = scraper.search_and_scrape(keyword, "Trivandrum")
+        # Fixed rotation (not random) so every search repeats on a predictable cycle:
+        # first pass = snapshot, every later pass = compare against snapshot.
+        offset = storage.get_state('keyword_offset', 0) % len(ALL_KEYWORDS)
+        batch = [ALL_KEYWORDS[(offset + i) % len(ALL_KEYWORDS)] for i in range(KEYWORDS_PER_RUN)]
+        print(f"--- Rotation scan: keywords {offset}..{offset + KEYWORDS_PER_RUN - 1} of {len(ALL_KEYWORDS)} ---")
+        for keyword in batch:
+            results = scraper.search_and_scrape(keyword, LOCATION)
+            tag_results(storage, results, keyword, LOCATION)
             all_results.extend(results)
             time.sleep(2)
+        storage.set_state('keyword_offset', (offset + KEYWORDS_PER_RUN) % len(ALL_KEYWORDS))
 
-        # 2. Deep Scan: Pick Random Locations
-        # We process fewer locations per run but run often (every 20 mins).
-        # This keeps the total daily coverage high while preventing crashes.
-        random_locations = random.sample(TRIVANDRUM_LOCATIONS, 3)
-        print(f"--- Starting Deep Scan ({', '.join(random_locations)}) ---")
-        
-        for loc in random_locations:
-            for keyword in TARGET_KEYWORDS:
-                print(f"Scanning {keyword} in {loc}...")
-                results = scraper.search_and_scrape(keyword, loc)
-                all_results.extend(results)
-                time.sleep(2)
-        
         # Process All Results
         new_count = 0
         fresh_count = 0
@@ -88,17 +89,15 @@ def main():
                 storage.add_place(business)
                 new_count += 1
                 
-                # FRESH LEAD = not seen before AND no rating/reviews yet on Google Maps.
-                # Google doesn't publish a listing date; a listing with zero reviews
-                # is the strongest signal that it was just added. Older businesses we
-                # simply hadn't scanned before are saved silently, never alerted.
-                is_fresh = business.get('rating') is None and business.get('reviews', 0) == 0
+                # NEW LEAD = not in DB, found by a search that already had a snapshot.
+                is_new_lead = business.get('_baselined', False)
+                is_fresh = is_new_lead
                 if is_fresh and not is_first_run and not SILENT_MODE and WEBHOOK_URL:
                     fresh_count += 1
-                    print(f"FRESH LEAD: {business['name']} - Sending Alert")
+                    print(f"NEW LEAD: {business['name']} ({business.get('reviews', 0)} reviews) - Sending Alert")
                     query = f"{business['name']} trivandrum instagram"
                     ig_url = f"https://www.google.com/search?q={urllib.parse.quote(query)}"
-                    business['is_fresh'] = True
+                    business['is_fresh'] = business.get('reviews', 0) == 0
                     notifier.send_alert(business, ig_url)
                     time.sleep(1)
 
