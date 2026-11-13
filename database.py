@@ -23,6 +23,39 @@ class Storage:
                 discovered_at TIMESTAMP
             )
         ''')
+        cursor.execute('''
+            CREATE TABLE IF NOT EXISTS scans (
+                combo TEXT PRIMARY KEY,
+                first_scanned_at TIMESTAMP
+            )
+        ''')
+        conn.commit()
+        conn.close()
+
+    def is_baselined(self, keyword, location):
+        conn = sqlite3.connect(self.db_path)
+        row = conn.execute('SELECT 1 FROM scans WHERE combo = ?', (f"{keyword}|{location}".lower(),)).fetchone()
+        conn.close()
+        return row is not None
+
+    def mark_baselined(self, keyword, location):
+        conn = sqlite3.connect(self.db_path)
+        conn.execute('INSERT OR IGNORE INTO scans (combo, first_scanned_at) VALUES (?, ?)',
+                     (f"{keyword}|{location}".lower(), datetime.datetime.now()))
+        conn.commit()
+        conn.close()
+
+    def get_state(self, key, default=0):
+        conn = sqlite3.connect(self.db_path)
+        conn.execute('CREATE TABLE IF NOT EXISTS state (k TEXT PRIMARY KEY, v INTEGER)')
+        row = conn.execute('SELECT v FROM state WHERE k = ?', (key,)).fetchone()
+        conn.close()
+        return row[0] if row else default
+
+    def set_state(self, key, value):
+        conn = sqlite3.connect(self.db_path)
+        conn.execute('CREATE TABLE IF NOT EXISTS state (k TEXT PRIMARY KEY, v INTEGER)')
+        conn.execute('INSERT OR REPLACE INTO state (k, v) VALUES (?, ?)', (key, value))
         conn.commit()
         conn.close()
 
