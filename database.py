@@ -34,14 +34,14 @@ class Storage:
 
     def is_baselined(self, keyword, location):
         conn = sqlite3.connect(self.db_path)
-        row = conn.execute('SELECT 1 FROM scans WHERE combo = ?', (f"{keyword}|{location}".lower(),)).fetchone()
+        row = conn.execute('SELECT 1 FROM scans WHERE combo = ?', (f"v2|{keyword}|{location}".lower(),)).fetchone()
         conn.close()
         return row is not None
 
     def mark_baselined(self, keyword, location):
         conn = sqlite3.connect(self.db_path)
         conn.execute('INSERT OR IGNORE INTO scans (combo, first_scanned_at) VALUES (?, ?)',
-                     (f"{keyword}|{location}".lower(), datetime.datetime.now()))
+                     (f"v2|{keyword}|{location}".lower(), datetime.datetime.now()))
         conn.commit()
         conn.close()
 
