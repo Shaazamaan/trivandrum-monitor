@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x89ad15a67515d723:0",
+    "name": "cch Accounting, Inc.",
+    "address": "203 N Main St Ste 315",
+    "category": "Tax preparation service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:43:22.707584"
+  },
+  {
+    "place_id": "0x885689afb4608151:0",
+    "name": "Techno Café",
+    "address": "",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:43:21.396966"
+  },
+  {
+    "place_id": "0x3b05bf98f02040d5:0",
+    "name": "Imperial Travel Consultancy",
+    "address": "Ground Floor, Vilayil Building, near Police Station, opp. IOCL Petrol Pump",
+    "category": "Travel agency",
+    "phone": "+91 96563 11117",
+    "website": null,
+    "discovered_at": "2026-11-14 13:43:20.092410"
+  },
+  {
+    "place_id": "0x3b05e64641557ae5:0",
+    "name": "Guruji MDS Chanthavila",
+    "address": "Bus stop, near Co. Operative Society",
+    "category": "Driving school",
+    "phone": "+91 90377 81876",
+    "website": null,
+    "discovered_at": "2026-11-14 13:43:18.911431"
+  },
+  {
+    "place_id": "0x3b05bf8e1ec8ec2d:0",
+    "name": "Daisy wellness spa & saloon",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:43:17.720360"
+  },
+  {
+    "place_id": "0x3b05bf6810c18e89:0",
+    "name": "Vedhas Refinery Unisex Salon & Spa Kazhakkoottam, Trivandrum",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:43:16.532444"
+  },
+  {
     "place_id": "0x3b05bf117fd17f4b:0",
     "name": "Chef's Cake World Vetturoad, Kazhakoottm",
     "address": "Vetturoad junction, junction, near Vetturoad",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:42:25.599684"
-  },
-  {
-    "place_id": "0x880e2c998c68b3ff:0",
-    "name": "South Loop Market - 9th Street",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:21.603218"
-  },
-  {
-    "place_id": "0x880e2cad1d1ecfb1:0",
-    "name": "Trader Joe's",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:19.386402"
-  },
-  {
-    "place_id": "0x880e2b57f3f5d5a3:0",
-    "name": "Mariano's",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:16.819773"
-  },
-  {
-    "place_id": "0x880fd3e79c1c9cf1:0",
-    "name": "Whole Foods Market",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:15.658773"
-  },
-  {
-    "place_id": "0x880e2cb1d0ca200b:0",
-    "name": "North Loop Market",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:13.464999"
-  },
-  {
-    "place_id": "0x880e2cabb58957c5:0",
-    "name": "Whole Foods Market",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:10.985469"
   }
 ]
