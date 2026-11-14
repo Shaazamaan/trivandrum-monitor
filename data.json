@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05eed57258fb15:0",
+    "name": "Daddy Wear Mart",
+    "address": "Ayurveda Hospital Junction",
+    "category": "Clothing store",
+    "phone": "+91 79091 34064",
+    "website": null,
+    "discovered_at": "2026-11-14 17:34:53.887654"
+  },
+  {
+    "place_id": "0x3b05bf121376ae97:0",
+    "name": "Chai Time",
+    "address": "HW24+XWV, Mankuzhy, near Dhanya Supermarket",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:34:52.584824"
+  },
+  {
+    "place_id": "0x3b05bec4d4557b63:0",
+    "name": "CITRA BEAUTY CLINIC",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": "+91 85471 18327",
+    "website": null,
+    "discovered_at": "2026-11-14 17:34:51.334629"
+  },
+  {
+    "place_id": "0x3b05bec042c7ff4b:0",
+    "name": "Colonels Dental World",
+    "address": "Rohini, PRA 328, PO, near Lord's Junior School, Engineering College",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:34:50.137775"
+  },
+  {
+    "place_id": "0x3b05b9f978ec3635:0",
+    "name": "Providence Specialty Dental Care",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:34:48.893351"
+  },
+  {
+    "place_id": "0x3b05bf5ce5453a5f:0",
+    "name": "GREENS Dental Care",
+    "address": "SN Building, Sreekaryam - Powdikonam Road, near SBI",
+    "category": "Dental clinic",
+    "phone": "+91 99466 05087",
+    "website": null,
+    "discovered_at": "2026-11-14 17:34:47.412560"
+  },
+  {
+    "place_id": "0x3b05b96a6db85d5d:0",
+    "name": "Malayatoo",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 94470 30663",
+    "website": null,
+    "discovered_at": "2026-11-14 17:34:45.945522"
+  },
+  {
     "place_id": "0x3b05b95eb144c4fb:0",
     "name": "V K Stores",
     "address": "",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 09:08:06.936916"
-  },
-  {
-    "place_id": "0x3b05b83085f4234b:0",
-    "name": "Smiley Dental Clinic",
-    "address": "HXJW+367",
-    "category": "Dental clinic",
-    "phone": "+91 86063 18866",
-    "website": null,
-    "discovered_at": "2026-11-14 09:08:05.618351"
-  },
-  {
-    "place_id": "0x3b05af0019c80565:0",
-    "name": "KRISHNA VIJAYAM",
-    "address": "SRA 27, Sauhrida Nagar",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:08:04.258789"
-  },
-  {
-    "place_id": "0x3b05ad0056c83261:0",
-    "name": "Nighty Mela",
-    "address": "Karinada Bus Stop",
-    "category": "Clothing store",
-    "phone": "+91 95269 69239",
-    "website": null,
-    "discovered_at": "2026-11-14 09:08:02.668406"
-  },
-  {
-    "place_id": "0x3b05ae89d7da1831:0",
-    "name": "Dream's Collection",
-    "address": "C32P+HX6",
-    "category": "Clothing store",
-    "phone": "+91 80787 63462",
-    "website": null,
-    "discovered_at": "2026-11-14 09:08:01.047752"
-  },
-  {
-    "place_id": "0x3b05ae89acaa1747:0",
-    "name": "Devi Medicals",
-    "address": "near Bus Junction Stand",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:07:59.628793"
-  },
-  {
-    "place_id": "0x3b05ae6158b5398f:0",
-    "name": "Anupama Medicals",
-    "address": "Closes 12 AM",
-    "category": "Open",
-    "phone": "+91 94954 89211",
-    "website": null,
-    "discovered_at": "2026-11-14 09:07:58.359038"
-  },
-  {
-    "place_id": "0x3b05ad9a80651179:0",
-    "name": "Saabs Healthcare",
-    "address": "Thannimoodu Junction, No.427(7) MS Plazza",
-    "category": "Laboratory",
-    "phone": "+91 95448 10070",
-    "website": null,
-    "discovered_at": "2026-11-14 09:07:56.946088"
   }
 ]
