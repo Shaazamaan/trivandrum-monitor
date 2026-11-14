@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05a98396a5747b:0",
+    "name": "CINECAFE CINEPLEX 4K 3D Dolby 7.1",
+    "address": "Cine Cafe Cineplex, Bridge Road",
+    "category": "Theater production",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 18:03:32.345442"
+  },
+  {
     "place_id": "0x3b05a58890e135e1:0",
     "name": "Santhosh Sree Sadanam Real Estate",
     "address": "92P4+RG5",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 09:23:06.654075"
-  },
-  {
-    "place_id": "0x865c8d9dda1520dd:0",
-    "name": "Optique Eye Care, PLLC",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:23:05.288053"
   }
 ]
