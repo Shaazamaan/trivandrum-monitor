@@ -1,5 +1,122 @@
 [
   {
+    "place_id": "0x3b05c15c3dc2724d:0",
+    "name": "ORYX TOWERS",
+    "address": "Block Office Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:31:50.906276"
+  },
+  {
+    "place_id": "0x3b05c148bef76db7:0",
+    "name": "Pink Lips",
+    "address": "+91 81579 33074",
+    "category": "Temporarily closed",
+    "phone": "+91 81579 33074",
+    "website": null,
+    "discovered_at": "2026-11-14 01:31:49.668157"
+  },
+  {
+    "place_id": "0x3b05c1005e670c13:0",
+    "name": "M3 Unisex Saloon & Spa",
+    "address": "MWP4+6XP, SH 1",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:31:46.067721"
+  },
+  {
+    "place_id": "0x3b05c149abd92a8b:0",
+    "name": "Hotel Safari",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:31:44.852222"
+  },
+  {
+    "place_id": "0x3b05c1c68d7fe151:0",
+    "name": "DEVIKRIPA STORE",
+    "address": "DEVIKRIPA STORE, near ILAMBA",
+    "category": "Supermarket",
+    "phone": "+91 95398 84086",
+    "website": null,
+    "discovered_at": "2026-11-14 01:31:43.462952"
+  },
+  {
+    "place_id": "0x3b05c1e74228cc37:0",
+    "name": "Malabar restaurant",
+    "address": "Aalamthara - Bhoothamadakki Rd",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:31:42.226523"
+  },
+  {
+    "place_id": "0x3b05c11beb4e9439:0",
+    "name": "AL QASR FRIED CHICKEN",
+    "address": "AL QASR FRIED CHICKEN, Venjaramoodu Road, opposite SBI BANK",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:31:40.886182"
+  },
+  {
+    "place_id": "0x3b05c35a2b48b10f:0",
+    "name": "Aarambham Holidays",
+    "address": "Karinjivila, poikakada",
+    "category": "Travel agency",
+    "phone": "+91 85909 49212",
+    "website": null,
+    "discovered_at": "2026-11-14 01:31:39.578186"
+  },
+  {
+    "place_id": "0x3b05c307ad192659:0",
+    "name": "Pittappillil Agencies",
+    "address": "Erattachira, MC Rd, near Indian Oil Petrol Pump",
+    "category": "Appliance store",
+    "phone": "+91 80866 79991",
+    "website": null,
+    "discovered_at": "2026-11-14 01:31:38.204160"
+  },
+  {
+    "place_id": "0x3b05c3b9d0921b01:0",
+    "name": "Mr Cutz",
+    "address": "PP XIV/379, Mahadeveswaram, P O, 695 601",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:31:36.819284"
+  },
+  {
+    "place_id": "0x3b05c3002840ed57:0",
+    "name": "MM Store",
+    "address": "QVC6+5M5",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:31:35.524973"
+  },
+  {
+    "place_id": "0x3b05c509469b81ab:0",
+    "name": "SHAJI'S GOLD AND SILVER",
+    "address": "near TOWN MASJIDH",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:31:34.298684"
+  },
+  {
+    "place_id": "0x3b05c3257bdf6a35:0",
+    "name": "Prabha Mobiles",
+    "address": "Opp. Sharjah Tower",
+    "category": "Cell phone store",
+    "phone": "+91 99466 96619",
+    "website": null,
+    "discovered_at": "2026-11-14 01:31:33.064315"
+  },
+  {
     "place_id": "0x3b05c2dfa17ff95f:0",
     "name": "Khaima Restaurant",
     "address": "QV6C+P6M, SH 46",
@@ -8881,122 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-13 21:57:23.043387"
-  },
-  {
-    "place_id": "0x3b05bba762c74993:0",
-    "name": "Haynes Digital Store",
-    "address": "Tc 9/1706, opp. Akshaya Tower",
-    "category": "Electronics store",
-    "phone": "+91 90489 09835",
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:21.739897"
-  },
-  {
-    "place_id": "0x3b05b971170e367d:0",
-    "name": "Kannie's Bakes - Home made cakes in trivandrum",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:53.999348"
-  },
-  {
-    "place_id": "0x3b05b98e89640feb:0",
-    "name": "Unni's kitchen",
-    "address": "Bus Stop, Oolanpara Junction, Sasthamangalam - Peroorkada Rd",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:52.664044"
-  },
-  {
-    "place_id": "0x3b05b97aec70dd71:0",
-    "name": "Government Ayurveda Dispensary Chettivilakom",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:50.551662"
-  },
-  {
-    "place_id": "0x3b05bb4eaa0f3551:0",
-    "name": "Dr Prince ayurcare",
-    "address": "GX8P+V39",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 99957 19593",
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:49.236828"
-  },
-  {
-    "place_id": "0x3b05b9fde1fb4ecd:0",
-    "name": "Tamosugha ayurveda",
-    "address": "Opens 9:30 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:47.979219"
-  },
-  {
-    "place_id": "0x3b05b99d28ab087d:0",
-    "name": "Sukumaravilasam Vaidyashala",
-    "address": "GXQ8+2Q6, Trivandrum-Nedumangad Rd",
-    "category": "Alternative medicine practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:46.681451"
-  },
-  {
-    "place_id": "0x3b05ba338e116179:0",
-    "name": "Santhigiri Ayurveda & Siddha Hospital, Vellayambalam-Sasthamangalam Road",
-    "address": "",
-    "category": "Alternative medicine practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:45.310920"
-  },
-  {
-    "place_id": "0x3b05b9e5e56eccc1:0",
-    "name": "RK Dental Clinic",
-    "address": "Kurishadi",
-    "category": "Dental clinic",
-    "phone": "+91 97787 11532",
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:43.954020"
-  },
-  {
-    "place_id": "0x3b05b9a5fdd2aae9:0",
-    "name": "Modern Smile Care Dental Clinic",
-    "address": "HX2G+V95",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:42.654573"
-  },
-  {
-    "place_id": "0x3b05b93445748d35:0",
-    "name": "VAYALIL MAXILLOFACIAL CENTRE & SPECIALIST DENTAL CARE",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": "+91 99952 28404",
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:41.349346"
-  },
-  {
-    "place_id": "0x3b05b90abf35a16b:0",
-    "name": "Astra Dental Clinic",
-    "address": "Astra dental clinic, NCC Rd",
-    "category": "Hospital",
-    "phone": "+91 99474 88354",
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:40.059958"
-  },
-  {
-    "place_id": "0x3b05b9d0e30b3c6f:0",
-    "name": "Dr.Rinu's Punchiri dental clinic",
-    "address": "Tc 15/480, opposite UPHC",
-    "category": "Dental clinic",
-    "phone": "+91 94968 32368",
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:38.858274"
   }
 ]
