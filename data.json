@@ -1,5 +1,203 @@
 [
   {
+    "place_id": "0x3b05bb605423e257:0",
+    "name": "Sree Vinayaka Hire Service",
+    "address": "Puthussery House, Puthen Rd",
+    "category": "Event management company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 03:51:04.153232"
+  },
+  {
+    "place_id": "0x3b05bba244c35335:0",
+    "name": "Naturals Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 03:51:00.449955"
+  },
+  {
+    "place_id": "0x3b05b9c46c100abf:0",
+    "name": "Amrutha Supermarket",
+    "address": "",
+    "category": "Grocery store",
+    "phone": "+91 94462 71439",
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:59.170185"
+  },
+  {
+    "place_id": "0x3b05bb214376a0a5:0",
+    "name": "Orange Super Market",
+    "address": "",
+    "category": "Grocery store",
+    "phone": "+91 90373 40031",
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:57.819185"
+  },
+  {
+    "place_id": "0x3b05ba1e392193ad:0",
+    "name": "Rabiyas Textiles",
+    "address": "9:30 AM",
+    "category": "Opens soon",
+    "phone": "+91 75590 60691",
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:56.504116"
+  },
+  {
+    "place_id": "0x3b05ba1fa354abb7:0",
+    "name": "Samanwaya Fashions",
+    "address": "",
+    "category": "Gift shop",
+    "phone": "+91 94468 49961",
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:55.146819"
+  },
+  {
+    "place_id": "0x3b05b9fc35de6021:0",
+    "name": "GRACE GENERAL STORES",
+    "address": "Panankara Jn",
+    "category": "Stationery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:53.880348"
+  },
+  {
+    "place_id": "0x3b05b9ada5bcac8f:0",
+    "name": "Vazhathopil Family Restaurant",
+    "address": "",
+    "category": "South Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:52.593521"
+  },
+  {
+    "place_id": "0x3b05b90062d4e959:0",
+    "name": "Jan Aushadhi medicals store vazhottukonam",
+    "address": "GXJX+CRP, Puliyarakkonam Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:51.175901"
+  },
+  {
+    "place_id": "0x3b05bb9a40e2c4ad:0",
+    "name": "Elippode Medicals",
+    "address": "TC.38/1897, Arappura Elipode Rd",
+    "category": "Pharmacy",
+    "phone": "+91 94001 09795",
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:49.837426"
+  },
+  {
+    "place_id": "0x3b05b9ecfc97fc75:0",
+    "name": "Sarada medicals",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": "+91 94955 49587",
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:48.589541"
+  },
+  {
+    "place_id": "0x3b05bf771d9a93db:0",
+    "name": "Apstone Villas",
+    "address": "GWFP+MJ8 Panimoola Temple, Pothencode - Pallippuram Rd, near KSEB 220kV Substation",
+    "category": "Villa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:47.198323"
+  },
+  {
+    "place_id": "0x3b05c19092f3aa31:0",
+    "name": "LITTLE KINGDOM PRESCHOOL",
+    "address": "JWF2+V9R",
+    "category": "Kindergarten",
+    "phone": "+91 96054 60144",
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:45.740122"
+  },
+  {
+    "place_id": "0x3b05c1b82d04c0df:0",
+    "name": "JUMBO ELECTRICALS & PLUMBING MATERIALS",
+    "address": "",
+    "category": "Electrical products wholesaler",
+    "phone": "+91 99610 73184",
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:44.449359"
+  },
+  {
+    "place_id": "0x3b05c174e1da4607:0",
+    "name": "Rockstar travel hub",
+    "address": "Rockstar",
+    "category": "Travel lounge",
+    "phone": "+91 80867 78556",
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:43.190771"
+  },
+  {
+    "place_id": "0x3b05c148095050d7:0",
+    "name": "Hamtur Travel & Tourism",
+    "address": "BNR Building, Nannattukavu Rd",
+    "category": "Travel agency",
+    "phone": "+91 94966 50095",
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:41.394452"
+  },
+  {
+    "place_id": "0x3b05c1dee2cdde0f:0",
+    "name": "Indo Gulf Tours&Travels",
+    "address": "Indo Gulf, Vavara Ambalam",
+    "category": "Travel agency",
+    "phone": "+91 98471 08336",
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:40.045542"
+  },
+  {
+    "place_id": "0x3b05bf3ddae027f9:0",
+    "name": "Dakshina Auto Spa",
+    "address": "JW56+668, Pothencode - Powdikonam Rd",
+    "category": "Car wash",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:38.750843"
+  },
+  {
+    "place_id": "0x3b05c0a320fd1695:0",
+    "name": "Magic Gents Beauty Saloon",
+    "address": "Sofiya Shopping Complex, Near Bus Stand",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:37.454593"
+  },
+  {
+    "place_id": "0x3b05c1afe3314d5b:0",
+    "name": "Ajfan Dates and Nuts Pothencode",
+    "address": "Ward 6, LLP T.M building, Ground Floor No, 139/1, Thycaud Byepass Road, opposite HK Theatre",
+    "category": "Indian grocery store",
+    "phone": "+91 88914 67333",
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:36.164211"
+  },
+  {
+    "place_id": "0x3b05c0c09af0da01:0",
+    "name": "Santhigiri Shopping Mall",
+    "address": "Santhigiri Kaanjampra Rd",
+    "category": "Supermarket",
+    "phone": "+91 81568 62007",
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:34.935156"
+  },
+  {
+    "place_id": "0x3b05c1000c86cd39:0",
+    "name": "LEKSHMI TIME HOUSE",
+    "address": "Naiz Tower",
+    "category": "Watch store",
+    "phone": "+91 94475 77220",
+    "website": null,
+    "discovered_at": "2026-11-14 03:50:33.570000"
+  },
+  {
     "place_id": "0x3b05c1006d907d67:0",
     "name": "FASHION WORLD",
     "address": "SHOP NO-1, FASHION WORLD",
@@ -8800,203 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-13 23:46:49.883098"
-  },
-  {
-    "place_id": "0x3b05b9530b9234b7:0",
-    "name": "Providence Healthcare",
-    "address": "TC-96, 148, 1 Cheruvickkal",
-    "category": "Pharmacy",
-    "phone": "+91 82811 81311",
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:48.589903"
-  },
-  {
-    "place_id": "0x3b05bd0047e170e9:0",
-    "name": "Awas Community Medical Store",
-    "address": "GWF7+7R2, Ulloor - Akkulam Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:47.347809"
-  },
-  {
-    "place_id": "0x3b05bba275a095e9:0",
-    "name": "Balan & Co, Chartered Accountants",
-    "address": "TC 28/1186 SWARA-51",
-    "category": "Accountant",
-    "phone": "+91 90746 35503",
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:46.117456"
-  },
-  {
-    "place_id": "0x3b05bb73046014fb:0",
-    "name": "Eastern Travel Hub",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:44.687832"
-  },
-  {
-    "place_id": "0x3b05bbbab20c9bbb:0",
-    "name": "EAST INDIA TOURS & TRAVELS",
-    "address": "FXV2+FQV",
-    "category": "Tourist information center",
-    "phone": "+91 94477 98415",
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:39.337575"
-  },
-  {
-    "place_id": "0x3b05e7fa6dcfdb77:0",
-    "name": "SARADHI HOLIDAYS",
-    "address": "TC 82/2754, Archana Building, General Hospital Rd, opposite St Joseph School",
-    "category": "Tour operator",
-    "phone": "+91 85478 53214",
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:38.105572"
-  },
-  {
-    "place_id": "0x54987ee79cd528c7:0",
-    "name": "Sol Azteca Travel Agency",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:35.802190"
-  },
-  {
-    "place_id": "0x880d2f96d7281bff:0",
-    "name": "Travel by Beth",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:34.391369"
-  },
-  {
-    "place_id": "0x54987edcf8fde819:0",
-    "name": "Costa Azul Travel",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:31.883097"
-  },
-  {
-    "place_id": "0x8649cda0de09657b:0",
-    "name": "Elite Travel Consulting",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:29.336712"
-  },
-  {
-    "place_id": "0x54a2e15837b6922d:0",
-    "name": "Blue Moon Travel & Cruise",
-    "address": "6 S Main St",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:28.117974"
-  },
-  {
-    "place_id": "0x3b05bba476cddddd:0",
-    "name": "Creative Tours And Travels India Pvt Ltd",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:25.919007"
-  },
-  {
-    "place_id": "0x101016461b71c21:0",
-    "name": "Paradise Travel Group, LLC",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:23.572342"
-  },
-  {
-    "place_id": "0x3b05bba16a855cbf:0",
-    "name": "Centaur Travels",
-    "address": "Opens 10 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:22.184870"
-  },
-  {
-    "place_id": "0x54bd4dcb78e2946d:0",
-    "name": "Travel Oregon Welcome Center - Boardman",
-    "address": "",
-    "category": "Tourist information center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:20.081729"
-  },
-  {
-    "place_id": "0x3b05bb87545d393b:0",
-    "name": "Vistaraa Vacation International",
-    "address": "Gulf Star Complex, Chettikulangara Rd",
-    "category": "Travel agency",
-    "phone": "+91 97113 34463",
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:17.861074"
-  },
-  {
-    "place_id": "0x54a2b9e4c80af4e5:0",
-    "name": "Fairway Adventures Travel Agency",
-    "address": "941 E McKenzie Ave",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:15.259178"
-  },
-  {
-    "place_id": "0x3b05bb4c78f97991:0",
-    "name": "Dream Flower Tours & Travels Parking Yard",
-    "address": "Fort P.O, Thakaraparambu Rd",
-    "category": "Tour operator",
-    "phone": "+91 99465 00225",
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:13.947060"
-  },
-  {
-    "place_id": "0x3b05bb49b2d4b8f1:0",
-    "name": "Kaananavasa Tours & Travels",
-    "address": "Tc 28/1287, Thakaraparambu Rd",
-    "category": "Travel agency",
-    "phone": "+91 97473 20830",
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:11.189393"
-  },
-  {
-    "place_id": "0xa1988f46761623a9:0",
-    "name": "Vajrayaan Tours and Travels",
-    "address": "KRA A-33, Chettikulangara Rd",
-    "category": "Travel agency",
-    "phone": "+91 90743 03433",
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:09.928956"
-  },
-  {
-    "place_id": "0x864c2b41e95bef93:0",
-    "name": "Sarabeth and Co. - Wedding & Event Planning",
-    "address": "215 W College St",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:07.303753"
-  },
-  {
-    "place_id": "0x80dc71e25d1f867b:0",
-    "name": "Arenlace Events - San Diego Wedding Planner & Coordinator",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:46:06.064477"
   }
 ]
