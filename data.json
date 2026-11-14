@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bbeae7776421:0",
+    "name": "Hachiko pet boarding",
+    "address": "Vattiyoorkavu - Kulasekharam Rd",
+    "category": "Pet boarding service",
+    "phone": "+91 98958 94723",
+    "website": null,
+    "discovered_at": "2026-11-14 00:46:51.451895"
+  },
+  {
+    "place_id": "0x3b05bfc419c022ff:0",
+    "name": "2B Fit Unisex Multi Gym",
+    "address": "",
+    "category": "Gym",
+    "phone": "+91 87142 85489",
+    "website": null,
+    "discovered_at": "2026-11-14 00:46:50.121676"
+  },
+  {
+    "place_id": "0x3b05c15b1a85d647:0",
+    "name": "R R Interior Works",
+    "address": "near Police Station",
+    "category": "Interior designer",
+    "phone": "+91 75588 30729",
+    "website": null,
+    "discovered_at": "2026-11-14 00:46:48.859342"
+  },
+  {
+    "place_id": "0x3b05c1001e660f8f:0",
+    "name": "Kingwood Interiors Sofa & Furniture Factory",
+    "address": "Kingwood interiors & Traders Sofa & Furniture factory, Arrow industurial Zone, Ariyottukonam - Panimoola Rd",
+    "category": "Furniture manufacturer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 00:46:47.268987"
+  },
+  {
+    "place_id": "0x3b05b971890eb7c5:0",
+    "name": "De Touch Interior Studio",
+    "address": "Opens 10:15 AM",
+    "category": "Closed",
+    "phone": "+91 97454 10043",
+    "website": null,
+    "discovered_at": "2026-11-14 00:46:46.043995"
+  },
+  {
+    "place_id": "0x872b09905efccdcf:0",
+    "name": "CloudKitchens - Tempe - Commercial kitchen",
+    "address": "",
+    "category": "Shared-use commercial kitchen",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 00:46:44.805517"
+  },
+  {
+    "place_id": "0x3b05bf68dc228509:0",
+    "name": "Sinaw Bakery",
+    "address": "Ground floor, Maternity Home, Vettu Road, opposite St thomas engineering collage",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 00:46:43.521617"
+  },
+  {
+    "place_id": "0x3b05c0b8b93b294d:0",
+    "name": "Santhigiri - Take A Break",
+    "address": "",
+    "category": "Vegetarian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 00:46:42.187857"
+  },
+  {
     "place_id": "0x3b04551d57a65029:0",
     "name": "Johnson & Associates Chartered Accountants",
     "address": "North St, opp. to christ the King Church",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-13 21:29:13.317212"
-  },
-  {
-    "place_id": "0x3b05b170709bc3bd:0",
-    "name": "Munna super market",
-    "address": "Opens 7:30 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:29:12.021650"
-  },
-  {
-    "place_id": "0x3b05b1f6ac95c127:0",
-    "name": "Rainbow rental ornaments",
-    "address": "Market Rd",
-    "category": "Jewelry store",
-    "phone": "+91 98460 17187",
-    "website": null,
-    "discovered_at": "2026-11-13 21:29:10.719812"
-  },
-  {
-    "place_id": "0x3b05b5000dbfbb33:0",
-    "name": "OLIVE WOOD FURNITURE",
-    "address": "H488+929",
-    "category": "Furniture manufacturer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:29:09.436148"
-  },
-  {
-    "place_id": "0x3b05b6baf1b919b1:0",
-    "name": "Furniture Mart",
-    "address": "G3VQ+4F8, Kattakkada Kottoor Rd",
-    "category": "Furniture store",
-    "phone": "+91 99952 54151",
-    "website": null,
-    "discovered_at": "2026-11-13 21:29:07.799673"
-  },
-  {
-    "place_id": "0x3b05b382d028844d:0",
-    "name": "GS Home Appliances",
-    "address": "Opens 8:30 AM",
-    "category": "Closed",
-    "phone": "+91 99950 63781",
-    "website": null,
-    "discovered_at": "2026-11-13 21:29:06.516664"
-  },
-  {
-    "place_id": "0x3b05bb221e6c7589:0",
-    "name": "JJ Furniture and Interior",
-    "address": "",
-    "category": "Furniture manufacturer",
-    "phone": "+91 90619 93333",
-    "website": null,
-    "discovered_at": "2026-11-13 21:29:05.239319"
-  },
-  {
-    "place_id": "0x3b05b10071bff835:0",
-    "name": "Your Design Furniture",
-    "address": "F2PV+J8V",
-    "category": "Furniture wholesaler",
-    "phone": "+91 89214 97266",
-    "website": null,
-    "discovered_at": "2026-11-13 21:29:03.912806"
-  },
-  {
-    "place_id": "0x3b05b7e3d427df61:0",
-    "name": "Medayil Agencies",
-    "address": "G3XR+H4P, Kattakkada Kottoor Rd",
-    "category": "Furniture store",
-    "phone": "+91 90200 24697",
-    "website": null,
-    "discovered_at": "2026-11-13 21:29:02.599356"
   }
 ]
