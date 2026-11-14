@@ -1,5 +1,113 @@
 [
   {
+    "place_id": "0x3b05eb7301353a7b:0",
+    "name": "Chandrika RCM WWQ",
+    "address": "MRPF+QR6",
+    "category": "General store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:09:06.077813"
+  },
+  {
+    "place_id": "0x3bcb971d4267ab5b:0",
+    "name": "Taste of kerala- cloud kitchen",
+    "address": "Al-Amin Residency",
+    "category": "Indian takeaway",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:09:04.748009"
+  },
+  {
+    "place_id": "0x3b05eb87f7558dc7:0",
+    "name": "ChicKing",
+    "address": "",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:09:03.393504"
+  },
+  {
+    "place_id": "0x3b05e9f0c658925d:0",
+    "name": "Jan Aushadhi Medical Store",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 82814 23435",
+    "website": null,
+    "discovered_at": "2026-11-14 06:09:02.225584"
+  },
+  {
+    "place_id": "0x3b05e9003a29904f:0",
+    "name": "Sahakar medical",
+    "address": "MRX7+69H, Main Rd, near Supplyco",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:09:00.955145"
+  },
+  {
+    "place_id": "0x3b05c15b817bf271:0",
+    "name": "Twins Multispeciality Dental Clinic",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 81390 41727",
+    "website": null,
+    "discovered_at": "2026-11-14 06:08:59.669030"
+  },
+  {
+    "place_id": "0x3b05ef483cecd2cd:0",
+    "name": "Beach Way Villa",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:08:58.293556"
+  },
+  {
+    "place_id": "0x3b05ef038685a553:0",
+    "name": "Asthamaya Ayurvedic Spa",
+    "address": "Asthamaya Ayurveda wellness kakkodu junction",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:08:57.083252"
+  },
+  {
+    "place_id": "0x3b05efbc7565aad7:0",
+    "name": "Saan store",
+    "address": "black beach line, Kurakkanni - Odayam Rd",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:08:55.814295"
+  },
+  {
+    "place_id": "0x3b05efd74f60110f:0",
+    "name": "Jairam cafe",
+    "address": "",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:08:54.671199"
+  },
+  {
+    "place_id": "0x3b05e5e4cd1bbc4b:0",
+    "name": "Government Veterinary Hospital Elakamon.",
+    "address": "QPQG+7JF",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:08:53.479529"
+  },
+  {
+    "place_id": "0x3b05e9bdd6221f9f:0",
+    "name": "Vettoor Veterinary Hospital",
+    "address": "PP8R+RG7",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:08:52.311109"
+  },
+  {
     "place_id": "0x3b05beb86d8effff:0",
     "name": "Sowparnika Seychelles",
     "address": "",
@@ -8890,113 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 02:46:49.101442"
-  },
-  {
-    "place_id": "0x87ee999fa97bef5b:0",
-    "name": "Asian's Jewelry",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:47.756022"
-  },
-  {
-    "place_id": "0x87ee9888a70eea75:0",
-    "name": "Park Avenue Jewelry",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:46.485785"
-  },
-  {
-    "place_id": "0x87eea2ea87b62cc1:0",
-    "name": "KAY Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:45.280477"
-  },
-  {
-    "place_id": "0x87ee9920e9ecdccb:0",
-    "name": "OJ Jewelry Repair Shop",
-    "address": "1706 E Grand Ave",
-    "category": "Jewelry repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:44.048417"
-  },
-  {
-    "place_id": "0x87ee99ae71f22a85:0",
-    "name": "KIN",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:42.640832"
-  },
-  {
-    "place_id": "0x87ee99b21054753d:0",
-    "name": "Owen Jewelry Design",
-    "address": "",
-    "category": "Jewelry designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:41.322132"
-  },
-  {
-    "place_id": "0x87eddb3e86b1d3eb:0",
-    "name": "iDeal Furniture Iowa",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:39.980210"
-  },
-  {
-    "place_id": "0x8771f3a7679daaa7:0",
-    "name": "Furniture Mart",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:38.727692"
-  },
-  {
-    "place_id": "0x87ee98fdebb935b1:0",
-    "name": "West End Architectural Salvage",
-    "address": "",
-    "category": "Architectural salvage store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:36.685218"
-  },
-  {
-    "place_id": "0x87ef1d9f78f1cc75:0",
-    "name": "Dave's Wholesale Furniture",
-    "address": "",
-    "category": "Used furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:35.464519"
-  },
-  {
-    "place_id": "0x87ec20be7b49cc49:0",
-    "name": "At Home",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:34.141507"
-  },
-  {
-    "place_id": "0x87ec20a6204633b7:0",
-    "name": "Suite Dreams Bedrooms & Stuff for Kids",
-    "address": "",
-    "category": "Children's furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:32.704354"
   }
 ]
