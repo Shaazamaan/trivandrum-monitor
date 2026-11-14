@@ -1,5 +1,140 @@
 [
   {
+    "place_id": "0x3b05a5007223a6e7:0",
+    "name": "Swannsea Travel Company",
+    "address": "Mulloor",
+    "category": "Transportation service",
+    "phone": "+91 97446 51592",
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:56.208958"
+  },
+  {
+    "place_id": "0x3b05a5a566e2760f:0",
+    "name": "Ocean Spa & Salon",
+    "address": "Uday Samudra, Samudra Beach, Leisure Beach Hotel, GV Raja Rd",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:54.854980"
+  },
+  {
+    "place_id": "0x3b05af2bb330997d:0",
+    "name": "Ash2 fitness",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:53.690883"
+  },
+  {
+    "place_id": "0x3b05a58af7f8121f:0",
+    "name": "CRAZY MOBILES",
+    "address": "",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 99951 54581",
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:52.430882"
+  },
+  {
+    "place_id": "0x3b05af3118efbd5f:0",
+    "name": "I MOBILES",
+    "address": "I MOBILES Kidarakuzhi, Mukkola Uchakkada Road",
+    "category": "Electronics store",
+    "phone": "+91 90727 27617",
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:51.240768"
+  },
+  {
+    "place_id": "0x3b05a905844be6d1:0",
+    "name": "Pink Boutique",
+    "address": "Pink boutique by medo",
+    "category": "Clothing store",
+    "phone": "+91 77368 89871",
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:49.880637"
+  },
+  {
+    "place_id": "0x3b05a5d691a92afd:0",
+    "name": "Muthaqi Ladies and Kids Collections",
+    "address": "opposite Canara Bank",
+    "category": "Dress store",
+    "phone": "+91 79070 73332",
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:48.560909"
+  },
+  {
+    "place_id": "0x3b05af278f93f637:0",
+    "name": "Make 'N' Bake",
+    "address": "Make 'N' Bake uchakkada venganoor",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:47.391029"
+  },
+  {
+    "place_id": "0x3b05af773da6404d:0",
+    "name": "Samudra Medicals",
+    "address": "payattuvila road",
+    "category": "Pharmacy",
+    "phone": "+91 94469 68076",
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:46.195554"
+  },
+  {
+    "place_id": "0x3b05a50020bfebc5:0",
+    "name": "Navani Ayurveda -Dr.Shivkumar",
+    "address": "9XVQ+66C, Rd",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:44.974101"
+  },
+  {
+    "place_id": "0x3b05b96aabd6dc59:0",
+    "name": "Tourism and travel study",
+    "address": "Closes 6 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:43.759382"
+  },
+  {
+    "place_id": "0xb515904b065a677:0",
+    "name": "Karyasthan Events",
+    "address": "Ex-army, Krishnan Nair Road",
+    "category": "Wedding planner",
+    "phone": "+91 94008 17974",
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:42.590752"
+  },
+  {
+    "place_id": "0x6b612e9732a9be71:0",
+    "name": "Mariyamz Wedding Planners",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 97457 26365",
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:41.352508"
+  },
+  {
+    "place_id": "0x3b05b9785205f46f:0",
+    "name": "Legend's Gym",
+    "address": "Azhikode, near up-school",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:40.014294"
+  },
+  {
+    "place_id": "0x3b05b81647e3fe21:0",
+    "name": "S R Spices & General Store",
+    "address": "S R Spices General Store, Vip Jn 10m",
+    "category": "General store",
+    "phone": "+91 86060 42521",
+    "website": null,
+    "discovered_at": "2026-11-14 00:24:38.592488"
+  },
+  {
     "place_id": "0x3b05b9a48ac613db:0",
     "name": "KL 21 textiles",
     "address": "Market, junction",
@@ -8863,140 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-13 21:28:36.711770"
-  },
-  {
-    "place_id": "0x3b05b100635520eb:0",
-    "name": "Thamanna restaurant",
-    "address": "G34H+CQV",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:35.480542"
-  },
-  {
-    "place_id": "0x3b05b10073fded37:0",
-    "name": "Adaminte peedika",
-    "address": "F3X7+2RP",
-    "category": "Southern restaurant (US)",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:34.109147"
-  },
-  {
-    "place_id": "0x3b05b773464395af:0",
-    "name": "Aadam medicals kallikadu",
-    "address": "near, kattakada road, near to federal bank",
-    "category": "Pharmacy",
-    "phone": "+91 73069 98562",
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:32.743389"
-  },
-  {
-    "place_id": "0x3b05b1f6838996a3:0",
-    "name": "Shivanandha Vilasam",
-    "address": "Malayinkezhu, Road",
-    "category": "Pharmacy",
-    "phone": "+91 95624 66564",
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:31.481438"
-  },
-  {
-    "place_id": "0x3b05bb001941687f:0",
-    "name": "Thejas Pharma",
-    "address": "Karthika, VP11, Thejas Pharma, 352, Pottayil - Malayam Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:30.236520"
-  },
-  {
-    "place_id": "0x3b05b142b64faf83:0",
-    "name": "ASRITHA PHARMACY",
-    "address": "Neyyattinkara road",
-    "category": "Pharmacy",
-    "phone": "+91 95675 02997",
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:27.259354"
-  },
-  {
-    "place_id": "0x3b05b3f55e483273:0",
-    "name": "Aswathy medicals",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": "+91 94478 80033",
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:25.916389"
-  },
-  {
-    "place_id": "0x3b05b11486515b67:0",
-    "name": "Hindlabs Diagnostic Centre",
-    "address": "G279+PQ9, near SP Theatre",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:24.676966"
-  },
-  {
-    "place_id": "0x3b05b19549e6ba01:0",
-    "name": "DDRC Agilus Diagnostics, Vilappilsala",
-    "address": "Junction",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:23.389370"
-  },
-  {
-    "place_id": "0x6e8d8f63a78ca4ef:0",
-    "name": "Venad Scans & Laboratory",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:22.103876"
-  },
-  {
-    "place_id": "0x3b05b3b7a9fbb36d:0",
-    "name": "BETHEL DIAGNOSTICS",
-    "address": "+91 95441 66437",
-    "category": "Open 24 hours",
-    "phone": "+91 95441 66437",
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:19.608929"
-  },
-  {
-    "place_id": "0x3b05b1f68fda3a7b:0",
-    "name": "Aswas Diagnostics Malayinkeezh",
-    "address": "Thiruvananthapuram - Neyyar Dam Rd, near SBI",
-    "category": "Diagnostic center",
-    "phone": "+91 70348 50123",
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:18.339862"
-  },
-  {
-    "place_id": "0x3b05b151818fdf9b:0",
-    "name": "Aswas Diagnostics Koovalassery",
-    "address": "Kattakada - Ottasekharamangalam Road, near Mahadeva Temple Arch",
-    "category": "Diagnostic center",
-    "phone": "+91 89435 56955",
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:17.096685"
-  },
-  {
-    "place_id": "0x3b05b0f48859175f:0",
-    "name": "DDRC Agilus Diagnostics, Malayinkeezhu",
-    "address": "F2QQ+C5, near CHC",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:15.571721"
-  },
-  {
-    "place_id": "0x3b05b6b13d469f2f:0",
-    "name": "Life Line Diagnostics (Laboratory & ECG)",
-    "address": "",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:28:14.335004"
   }
 ]
