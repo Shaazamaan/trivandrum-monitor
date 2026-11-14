@@ -1,5 +1,176 @@
 [
   {
+    "place_id": "0x3b05bb3e8bff69d3:0",
+    "name": "Seventree space",
+    "address": "1st floor, anna hotel, GPO Ln",
+    "category": "Conference center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:10:04.357651"
+  },
+  {
+    "place_id": "0x3b05bb04e2d5692f:0",
+    "name": "Swasti Makeover Studio",
+    "address": "Uppalam road, General Hospital Rd, opposite Punjab National Bank",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:10:03.003374"
+  },
+  {
+    "place_id": "0x3b05bb6dfc067ce5:0",
+    "name": "Konkan Café Vivanta Thiruvananthapuram",
+    "address": "",
+    "category": "Konkani restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:10:01.564024"
+  },
+  {
+    "place_id": "0x3ba6594074de98fd:0",
+    "name": "Orient Homeo Pharmacys",
+    "address": "GH Road, junction, Palayam Rd",
+    "category": "Pharmacy",
+    "phone": "+91 94958 63737",
+    "website": null,
+    "discovered_at": "2026-11-14 17:10:00.125726"
+  },
+  {
+    "place_id": "0x3ba85983b6cb2cb3:0",
+    "name": "Sri Saravana Medical",
+    "address": "Mariamman Kovil Street",
+    "category": "Pharmacy",
+    "phone": "+91 99441 97545",
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:58.786749"
+  },
+  {
+    "place_id": "0x3ba6593edd076cc1:0",
+    "name": "Pharmacy",
+    "address": "7/1170, A & B, SM St",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:57.539530"
+  },
+  {
+    "place_id": "0x3ba85f7c63b5bfd7:0",
+    "name": "Apollo Pharmacy Kalikkanaicken Palayam",
+    "address": "73, Mariamman Kovil St",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:56.229265"
+  },
+  {
+    "place_id": "0x3ba6593f226f61d1:0",
+    "name": "Calicut Drug House",
+    "address": "No.7/929, Court Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:54.957979"
+  },
+  {
+    "place_id": "0x3ba85fe9e6fbda9f:0",
+    "name": "Apollo Pharmacy Coimbatore-Kasthuri Naicken Palayam",
+    "address": "No. 1/29-E, Kalappanaicken Palayam Rd, opp. Ramesh Store",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:53.678832"
+  },
+  {
+    "place_id": "0x3ba859909000c98d:0",
+    "name": "Sree saravana pharmacy",
+    "address": "235, sn palayam",
+    "category": "Pharmacy",
+    "phone": "+91 99942 84225",
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:52.410165"
+  },
+  {
+    "place_id": "0x3ba85f4e2e8b18d9:0",
+    "name": "THANGAM PHARMACY",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 97870 73833",
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:51.103615"
+  },
+  {
+    "place_id": "0x3ba8570c5a3282a7:0",
+    "name": "MRH PHARMACY",
+    "address": "GROUND FLOOR, South Facing, Door No.98, Kallarai Street",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:49.702884"
+  },
+  {
+    "place_id": "0x3ba907906a0a79fb:0",
+    "name": "GOWTHAM PHARMACY",
+    "address": "Radha nagar, Bus Stop, 1/362",
+    "category": "Pharmacy",
+    "phone": "+91 96005 96174",
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:48.451927"
+  },
+  {
+    "place_id": "0x3ba6594045f1ac93:0",
+    "name": "Sree Narayana Pharmacy",
+    "address": "Vellariyil Auditorium, MM Ali Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:47.180440"
+  },
+  {
+    "place_id": "0x3b05bd003644d2e1:0",
+    "name": "The Home of Ayurveda, Thiruvananthapuram",
+    "address": "Shanghumugham Palace, Palayam Airport Rd",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:45.899208"
+  },
+  {
+    "place_id": "0x3b05bbbbada912d9:0",
+    "name": "Govt.Ayurveda Dispensary Secretariat",
+    "address": "FWWX+JV8",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:44.666974"
+  },
+  {
+    "place_id": "0x3b05bb006194b9fb:0",
+    "name": "Sree jewellery",
+    "address": "gramam VASA 44",
+    "category": "Jewelry store",
+    "phone": "+91 98953 46083",
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:43.352725"
+  },
+  {
+    "place_id": "0x3b05bba7624dadd1:0",
+    "name": "Sripuram Jewellers",
+    "address": "Chalai Market Road",
+    "category": "Jeweler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:42.110482"
+  },
+  {
+    "place_id": "0x3b05b9ecfd680d5b:0",
+    "name": "Saatrangi Experience Center",
+    "address": "TC 25/2899(1, Dharmadesom Lane, KRISHNA, MRRA B20, PO",
+    "category": "Jeweler",
+    "phone": "+91 80899 57340",
+    "website": null,
+    "discovered_at": "2026-11-14 17:09:40.865654"
+  },
+  {
     "place_id": "0x3b05bb00623b175b:0",
     "name": "Greatway Kennels",
     "address": "Sruthy, TC 14, 1699-1, Forest Office Ln",
@@ -8827,176 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 08:37:41.522376"
-  },
-  {
-    "place_id": "0x864e6232b2357941:0",
-    "name": "Landry Designs",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:40.117474"
-  },
-  {
-    "place_id": "0x41e0230575dd2dd7:0",
-    "name": "aN Interior Designs",
-    "address": "Opens 9 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:38.805594"
-  },
-  {
-    "place_id": "0x876c7f7b109fb3d1:0",
-    "name": "Marlena Design Group",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:37.534595"
-  },
-  {
-    "place_id": "0x864e73ec91e8532d:0",
-    "name": "Paxton Place Interior Design",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:36.312389"
-  },
-  {
-    "place_id": "0x876eb3795c3b4a6d:0",
-    "name": "Huber Interiors",
-    "address": "1633 Foggy Brk Dr",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:34.945137"
-  },
-  {
-    "place_id": "0x87134923d80638e9:0",
-    "name": "Turk Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:33.692994"
-  },
-  {
-    "place_id": "0x876eb5292551bb55:0",
-    "name": "Revive Home Interiors",
-    "address": "300 Boardwalk Dr #3d",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:32.414717"
-  },
-  {
-    "place_id": "0x876949e555555555:0",
-    "name": "Hixon Interiors, Inc.",
-    "address": "2625 Redwing Rd #310",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:31.196566"
-  },
-  {
-    "place_id": "0x876eb5332c799801:0",
-    "name": "Meredith Parrish Design",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:29.884631"
-  },
-  {
-    "place_id": "0x87694b8947b709b9:0",
-    "name": "Pure Indigo Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:28.575015"
-  },
-  {
-    "place_id": "0x87694b9a8ea24ec1:0",
-    "name": "J. Reiko Design + Co.",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:27.347988"
-  },
-  {
-    "place_id": "0x88e7876de59b22ff:0",
-    "name": "Nella Vita Design",
-    "address": "Opens 9 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:26.031409"
-  },
-  {
-    "place_id": "0x8830fdd594da76a1:0",
-    "name": "Emerald Native Interiors LLC",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:24.783004"
-  },
-  {
-    "place_id": "0x8644b5c6c17feddd:0",
-    "name": "J.Fisher Interiors",
-    "address": "Opens 10 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:22.763839"
-  },
-  {
-    "place_id": "0x549bcd1dd06b2a59:0",
-    "name": "Kenady Real Estate Group",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:21.407169"
-  },
-  {
-    "place_id": "0x864e6d72e66fdefb:0",
-    "name": "Asian Massage",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:20.088377"
-  },
-  {
-    "place_id": "0x864e77dc2fb0bb7b:0",
-    "name": "Fossil Creek Massage Therapy",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:18.807800"
-  },
-  {
-    "place_id": "0x876def1c33cc9bfb:0",
-    "name": "Body Firm",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:17.464814"
-  },
-  {
-    "place_id": "0x3b05bba6d36fd947:0",
-    "name": "LOVELY SALOON",
-    "address": "FWPW+6VC, Thakaraparambu Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:16.173844"
   }
 ]
