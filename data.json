@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05abe4bd596eb1:0",
+    "name": "Super medical mart",
+    "address": "2/86j,2/86k,2/86L Ground floor,al shifa complex",
+    "category": "Pharmacy",
+    "phone": "+91 84383 84812",
+    "website": null,
+    "discovered_at": "2026-11-14 15:09:07.055023"
+  },
+  {
+    "place_id": "0x3b05ab00562a7911:0",
+    "name": "Dr.Anoof Stephen Ayurveda hospital",
+    "address": "85GH+53M",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 15:09:05.811425"
+  },
+  {
+    "place_id": "0x3b05b16a94931cff:0",
+    "name": "Kashi Medicals",
+    "address": "G34J+WFH",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 15:09:04.529318"
+  },
+  {
+    "place_id": "0x3b05b1ce1ff9836d:0",
+    "name": "Skyre Physiotherapy Clinic",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": "+91 82818 44895",
+    "website": null,
+    "discovered_at": "2026-11-14 15:09:03.138992"
+  },
+  {
     "place_id": "0x3b05a9219131f563:0",
     "name": "Poovar Tourism & Travels",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": "+91 96569 92393",
     "website": null,
     "discovered_at": "2026-11-14 06:23:58.576713"
-  },
-  {
-    "place_id": "0x3b05b804a33b0623:0",
-    "name": "Global Forex And Travels",
-    "address": "Govt districr hospital nedumangad",
-    "category": "Aviation consultant",
-    "phone": "+91 99952 51451",
-    "website": null,
-    "discovered_at": "2026-11-14 06:23:57.274433"
-  },
-  {
-    "place_id": "0x3b05b95c9aa1083b:0",
-    "name": "Miss& Mrs Ladies gym",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:23:56.122121"
-  },
-  {
-    "place_id": "0x3b05b921d637a55f:0",
-    "name": "AMRITHA FURNISHINGS.",
-    "address": "OPP: OXYGEN DIGITAL, GIRLS HIGH SCHOOL ROAD, near MUNCIPAL PARKING GROUND",
-    "category": "Upholstery shop",
-    "phone": "+91 94476 95771",
-    "website": null,
-    "discovered_at": "2026-11-14 06:23:54.934119"
-  },
-  {
-    "place_id": "0x3b05b965bb023181:0",
-    "name": "Cell master",
-    "address": "",
-    "category": "Mobile phone repair shop",
-    "phone": "+91 88916 61662",
-    "website": null,
-    "discovered_at": "2026-11-14 06:23:53.738045"
   }
 ]
