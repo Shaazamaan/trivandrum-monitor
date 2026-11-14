@@ -1,5 +1,113 @@
 [
   {
+    "place_id": "0x3b05e99a580b4f9b:0",
+    "name": "Warranlees",
+    "address": "Chirayinkeezhu Rd, opposite Chillies Restaurant",
+    "category": "Men's clothing store",
+    "phone": "+91 99951 10300",
+    "website": null,
+    "discovered_at": "2026-11-14 14:39:34.710187"
+  },
+  {
+    "place_id": "0x3b05eb60ec5c987f:0",
+    "name": "Max - Attingal",
+    "address": "",
+    "category": "Clothing store",
+    "phone": "+91 97786 99275",
+    "website": null,
+    "discovered_at": "2026-11-14 14:39:33.315791"
+  },
+  {
+    "place_id": "0x3b05e9f8fbf7f867:0",
+    "name": "BROTHERS MEDICALS",
+    "address": "Shop No 1, Brothers Medicals Near Hotel Soorya Private Bus Stand Junction, Palace Rd",
+    "category": "Pharmacy",
+    "phone": "+91 94478 57548",
+    "website": null,
+    "discovered_at": "2026-11-14 14:39:31.380022"
+  },
+  {
+    "place_id": "0x3b05ef0757b6ca03:0",
+    "name": "Celestial Wellness Day Spa",
+    "address": "Celestial Wellness Day Spa, Beach Road",
+    "category": "Day spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:39:30.072697"
+  },
+  {
+    "place_id": "0x3b05e90040f0cb35:0",
+    "name": "ROSE PETALS beauty salon Palachira",
+    "address": "PPPW+PMW, Varkala Kallambalam Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:39:28.721005"
+  },
+  {
+    "place_id": "0x3b05ef6c6d848b6f:0",
+    "name": "Royal Art Gallery",
+    "address": "N Cliff Rd",
+    "category": "Jewelry store",
+    "phone": "+91 96334 16354",
+    "website": null,
+    "discovered_at": "2026-11-14 14:39:27.361342"
+  },
+  {
+    "place_id": "0x3b05ef00551baaf7:0",
+    "name": "Tribal Arts",
+    "address": "PPM4+7XG, Varkala Beach Rd, opp. Hindustan Hotel",
+    "category": "Jewelry store",
+    "phone": "+91 99956 49422",
+    "website": null,
+    "discovered_at": "2026-11-14 14:39:25.957441"
+  },
+  {
+    "place_id": "0x3b05ef29b6bb24ed:0",
+    "name": "IS International",
+    "address": "9 PM",
+    "category": "Closes soon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:39:24.705332"
+  },
+  {
+    "place_id": "0x3b05ef291c980e1d:0",
+    "name": "Mobile Care",
+    "address": "",
+    "category": "Cell phone store",
+    "phone": "+91 95674 19524",
+    "website": null,
+    "discovered_at": "2026-11-14 14:39:23.401070"
+  },
+  {
+    "place_id": "0x3b05ef29ae7c53c5:0",
+    "name": "Rex Beauty Silks",
+    "address": "PPMG+X5R",
+    "category": "Clothing store",
+    "phone": "+91 98466 38080",
+    "website": null,
+    "discovered_at": "2026-11-14 14:39:22.117271"
+  },
+  {
+    "place_id": "0x3b05efe6ff008f83:0",
+    "name": "Ice cone",
+    "address": "Beach Road",
+    "category": "Ice cream shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:39:20.914212"
+  },
+  {
+    "place_id": "0x3b05ef74d9f47ecd:0",
+    "name": "Ayurvedavarkala Dr Sangeeth",
+    "address": "Middle cliff",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 99610 87966",
+    "website": null,
+    "discovered_at": "2026-11-14 14:39:19.651304"
+  },
+  {
     "place_id": "0x3b05bf00327aad53:0",
     "name": "THE HD HAIR HUB",
     "address": "near College of Engineering",
@@ -8890,113 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 06:01:17.902358"
-  },
-  {
-    "place_id": "0x3b05bf6ac19a4a89:0",
-    "name": "Yummy Spot",
-    "address": "",
-    "category": "Biryani restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:01:16.674817"
-  },
-  {
-    "place_id": "0x3b05b94ebc5e537d:0",
-    "name": "Dr. R. Vijayan Homeopathic Consultant",
-    "address": "GWQF+RXJ",
-    "category": "Homeopathic pharmacy",
-    "phone": "+91 94467 05450",
-    "website": null,
-    "discovered_at": "2026-11-14 06:01:15.425994"
-  },
-  {
-    "place_id": "0x3b05b92df0e4ae79:0",
-    "name": "ANANTHAPURI MEDICALS",
-    "address": "S.P. XV/294, Junction",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:01:14.269717"
-  },
-  {
-    "place_id": "0x3b05b97c164144cf:0",
-    "name": "Viswas Community Fair Price Medical Services",
-    "address": "Market Road, Kariyam Jn, PO",
-    "category": "Pharmacy",
-    "phone": "+91 90722 55589",
-    "website": null,
-    "discovered_at": "2026-11-14 06:01:13.116282"
-  },
-  {
-    "place_id": "0x3b05b9956c615ebf:0",
-    "name": "Kumon Maths & English Classes - Kesavadasapuram",
-    "address": "A. K Towers, T.C No 15/4584, below Vision Express, opp. Kedaram Complex",
-    "category": "Education center",
-    "phone": "+91 80895 69361",
-    "website": null,
-    "discovered_at": "2026-11-14 06:01:11.891702"
-  },
-  {
-    "place_id": "0x3b05b95e8b125925:0",
-    "name": "Jee Tex",
-    "address": "kedaram shopping complex",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:54:15.949671"
-  },
-  {
-    "place_id": "0x3b05b95fae570893:0",
-    "name": "UB Cafe",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:54:14.786263"
-  },
-  {
-    "place_id": "0x3b05b9895a3c74b5:0",
-    "name": "Black & White Lounge",
-    "address": "70, Kesavadasapuram - Venjaramoodu Rd, near Mahatma Gandhi College - Main Block",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:54:13.628506"
-  },
-  {
-    "place_id": "0x3b05b95f2f1c2fdd:0",
-    "name": "Pizza Hut | Pattom, Trivandrum",
-    "address": "",
-    "category": "Pizza restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:54:12.469307"
-  },
-  {
-    "place_id": "0x3b05b9655070ae89:0",
-    "name": "Centerline Spine, Ortho and Physio Clinic",
-    "address": "Thiruvananthapuram - Ponmudi Rd",
-    "category": "Orthopedic clinic",
-    "phone": "+91 97787 89281",
-    "website": null,
-    "discovered_at": "2026-11-14 05:54:09.200445"
-  },
-  {
-    "place_id": "0x3b05b939594631a7:0",
-    "name": "Simple'D Interior",
-    "address": "Closes 6 PM",
-    "category": "Open",
-    "phone": "+91 80893 23259",
-    "website": null,
-    "discovered_at": "2026-11-14 05:54:08.032108"
-  },
-  {
-    "place_id": "0x3b05bc01b8f7ee27:0",
-    "name": "Beauty Town Salon & Spa",
-    "address": "695031, Ulloor - Akkulam Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:54:06.860552"
   }
 ]
