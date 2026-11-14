@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05e9f36a811fcb:0",
+    "name": "Sai Tyre Work",
+    "address": "Downtown",
+    "category": "Tire shop",
+    "phone": "+91 85929 40246",
+    "website": null,
+    "discovered_at": "2026-11-14 01:49:27.998764"
+  },
+  {
+    "place_id": "0x3b05e9f3f2a09ec5:0",
+    "name": "THE GREEN STITCH",
+    "address": "ALINMOOD JUNCTION, Varkala Kallambalam Rd",
+    "category": "Women's clothing store",
+    "phone": "+91 89432 86204",
+    "website": null,
+    "discovered_at": "2026-11-14 01:49:26.775695"
+  },
+  {
+    "place_id": "0x3b05e95a87346f23:0",
+    "name": "Salim Restaurant",
+    "address": "PPQX+CP8, P.O. Varkala, Varkala Kallambalam Rd Thadam junction, opposite hundai showroom Narikkal Mukku Thachod, Palachira - Karathala -Thettikulam Rd",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:49:25.536809"
+  },
+  {
+    "place_id": "0x3b05e90405047a37:0",
+    "name": "P R HOTEL AND TEASHOP",
+    "address": "QQ8X+H26",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:49:24.303998"
+  },
+  {
     "place_id": "0x3b05cd2b839d8d1d:0",
     "name": "Karette",
     "address": "Q458+XQC",
@@ -8962,41 +8998,5 @@
     "phone": "+91 93493 33127",
     "website": null,
     "discovered_at": "2026-11-13 21:57:51.439159"
-  },
-  {
-    "place_id": "0x3b05bbb3e867c6f7:0",
-    "name": "Aksharasree Tuition Centre",
-    "address": "Maruthankuzhy Brg",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:50.147937"
-  },
-  {
-    "place_id": "0x3b05b957d7248d3f:0",
-    "name": "HazeTech Academy, Peroorkada",
-    "address": "Prasanthi Bulding, Indira Nagar Rd, near SNDP hall",
-    "category": "Educational institution",
-    "phone": "+91 62828 33317",
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:48.516942"
-  },
-  {
-    "place_id": "0x3b05b14b4d5c5f5d:0",
-    "name": "Little Stars Tuition Centre",
-    "address": "F2V7+G5M",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:47.236310"
-  },
-  {
-    "place_id": "0x3b05b99c55555555:0",
-    "name": "Prabhath College",
-    "address": "GXQ7+4XP, Peroorkada, M G Road, M G Road",
-    "category": "College",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:45.915894"
   }
 ]
