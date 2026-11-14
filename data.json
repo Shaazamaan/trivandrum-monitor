@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05fc5a24042c01:0",
+    "name": "Devi Clinical Lab",
+    "address": "",
+    "category": "Diagnostic center",
+    "phone": "+91 98955 30005",
+    "website": null,
+    "discovered_at": "2026-11-14 19:07:53.316097"
+  },
+  {
+    "place_id": "0x3b05cc76a88c34cd:0",
+    "name": "Gowry Art Residency",
+    "address": "26, Kallar P. O., Vithura via, Thiruvananthapuram - Ponmudi Rd",
+    "category": "Artist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 19:07:52.102895"
+  },
+  {
+    "place_id": "0x3b05cd5b938f166d:0",
+    "name": "Gravel Banks",
+    "address": "5/298",
+    "category": "Homestay",
+    "phone": "+91 88481 34549",
+    "website": null,
+    "discovered_at": "2026-11-14 19:07:50.928233"
+  },
+  {
+    "place_id": "0x3b05c90075f44811:0",
+    "name": "Vattakkarikakathil veedu",
+    "address": "M3QH+QJM",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 19:07:49.049884"
+  },
+  {
     "place_id": "0x3ba43de7abdc2035:0",
     "name": "Sankar & Moorthy Chartered Accountants",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": "+91 89216 13195",
     "website": null,
     "discovered_at": "2026-11-14 09:55:42.697100"
-  },
-  {
-    "place_id": "0x3b05bb881038594f:0",
-    "name": "Golden Wings Beauty Care",
-    "address": "Naduvathu lane",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:55:41.466240"
-  },
-  {
-    "place_id": "0x3b05bba5cfa604d5:0",
-    "name": "Tusker Sports",
-    "address": "Police station, Nemom, opp. Nemom",
-    "category": "Sportswear store",
-    "phone": "+91 79071 02135",
-    "website": null,
-    "discovered_at": "2026-11-14 09:55:40.255820"
-  },
-  {
-    "place_id": "0x3b05bb77bc5dbd85:0",
-    "name": "Highly fresh Fruits & Vegetables",
-    "address": "",
-    "category": "Produce market",
-    "phone": "+91 95673 46969",
-    "website": null,
-    "discovered_at": "2026-11-14 09:55:39.077117"
-  },
-  {
-    "place_id": "0x3b05b0076d51a7f5:0",
-    "name": "Supplyco Super Market Pravachambalam",
-    "address": "",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:55:37.806950"
   }
 ]
