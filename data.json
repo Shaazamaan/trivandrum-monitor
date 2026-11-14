@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c379d2c54ceb:0",
+    "name": "Golden bakery",
+    "address": "QVFJ+W6F",
+    "category": "Coffee store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:07:03.528535"
+  },
+  {
+    "place_id": "0x3b05eb356d164f11:0",
+    "name": "Blue Devil Tattoo Studio",
+    "address": "Railway gate, Sarkara Bypass Rd, near Albyon Arcade",
+    "category": "Tattoo shop",
+    "phone": "+91 75580 63797",
+    "website": null,
+    "discovered_at": "2026-11-14 13:07:02.295974"
+  },
+  {
     "place_id": "0x3b05bf8fa2411705:0",
     "name": "Mary Shereen and Associates",
     "address": "HRJH+XG3",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:40:27.620589"
-  },
-  {
-    "place_id": "0x880fd351557f2de1:0",
-    "name": "JuiceRx Lakeview",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:25.389964"
-  },
-  {
-    "place_id": "0x880e2b00014c339f:0",
-    "name": "JOE & The Juice",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:22.833240"
   }
 ]
