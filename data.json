@@ -1,5 +1,410 @@
 [
   {
+    "place_id": "0x3b05b9006e13b2d7:0",
+    "name": "MUKHI",
+    "address": "Kuravankonam - Maruthoor Rd",
+    "category": "Boutique",
+    "phone": "+91 79945 66638",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:48.667992"
+  },
+  {
+    "place_id": "0x3b05bbfb4833eadb:0",
+    "name": "Namma veedu vasanta bhavan",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:47.417749"
+  },
+  {
+    "place_id": "0x3b05bbe3407aaf73:0",
+    "name": "Juice & Bites",
+    "address": "GX73+F89, LMS-Nanthancode Rd",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:46.213905"
+  },
+  {
+    "place_id": "0x3b05bbc9695589ad:0",
+    "name": "Capital Juicy & Foods",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:45.001401"
+  },
+  {
+    "place_id": "0x3b05bb0030de3ee1:0",
+    "name": "Cafe Layaly",
+    "address": "Closes 1:30 AM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:43.732070"
+  },
+  {
+    "place_id": "0x3b05bbd01cb888e5:0",
+    "name": "Western Bakers",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:42.370567"
+  },
+  {
+    "place_id": "0x3b05bb000600c7b1:0",
+    "name": "Beijing Bites - Trivandrum",
+    "address": "18/1463-4, Upper Meridian Rd, near Fortune IAS Academy",
+    "category": "Asian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:41.035929"
+  },
+  {
+    "place_id": "0x3b05bbb43b14180f:0",
+    "name": "Moco N’ Lukes Haus",
+    "address": "",
+    "category": "Barbecue restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:39.789127"
+  },
+  {
+    "place_id": "0x3b05b900247bd3b5:0",
+    "name": "Govt.Veterinary Hospital",
+    "address": "G2P3+C54",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:38.556830"
+  },
+  {
+    "place_id": "0x3b05bb05f5cdf203:0",
+    "name": "DR ANILA'S VETERINARY PET CLINIC",
+    "address": "Vellamkulathala road",
+    "category": "Animal hospital",
+    "phone": "+91 94952 00805",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:37.293914"
+  },
+  {
+    "place_id": "0x3b05b9e3267ce545:0",
+    "name": "PetBlooms Pet Hospital",
+    "address": "Building no: 32, Aiswarya Complex, 212/4, Krishna Nagar Rd, near Kolath hospital",
+    "category": "Medical clinic",
+    "phone": "+91 77366 95115",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:36.031758"
+  },
+  {
+    "place_id": "0x3b05bb5d8b49c1d3:0",
+    "name": "Roms N Raks Pet Hypermarket and Grooming Studio",
+    "address": "",
+    "category": "Pet store",
+    "phone": "+91 88482 69080",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:34.644500"
+  },
+  {
+    "place_id": "0x3b05bbcf47984b0d:0",
+    "name": "Viswas Community Fair Price Pharmacy",
+    "address": "TC 25, GX73+V8X, 2076",
+    "category": "Pharmacy",
+    "phone": "+91 90486 63662",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:33.323189"
+  },
+  {
+    "place_id": "0x3b05bb37c3d0068d:0",
+    "name": "OCTAL HOLIDAYS AND TRAVELS",
+    "address": "1st Floor, Octal Holidays and Travels, Namsha Cottage Palace Junction, NN TOWERS",
+    "category": "Tour operator",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:32.117669"
+  },
+  {
+    "place_id": "0x3b05bb74715dd7a1:0",
+    "name": "ROYAL AMBIENCE WEDDINGS AND EVENTS",
+    "address": "KPRA 134, TKD Rd",
+    "category": "Wedding planner",
+    "phone": "+91 97469 74666",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:30.770333"
+  },
+  {
+    "place_id": "0x3b05bba0d55078af:0",
+    "name": "Anokha",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": "+91 80862 68268",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:29.242103"
+  },
+  {
+    "place_id": "0x3b05bbc34421ccb1:0",
+    "name": "Sky Tech Constructions & Interiors",
+    "address": "",
+    "category": "Interior designer",
+    "phone": "+91 79075 32979",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:27.913300"
+  },
+  {
+    "place_id": "0x3b05bb39a03e413b:0",
+    "name": "SKYARK BUILDERS",
+    "address": "Opens 8 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:26.650528"
+  },
+  {
+    "place_id": "0x3b080c5a8367a9e1:0",
+    "name": "Jacob Thomas Property Management Consultant",
+    "address": "Flat Number:1A6, Holyfaith Four Square Manor, Behind Model Engineering, College,",
+    "category": "Real estate consultant",
+    "phone": "+91 94953 00009",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:25.415586"
+  },
+  {
+    "place_id": "0x87ee85ba06eea805:0",
+    "name": "Clarkson Realty Group, LPT Realty",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:24.189750"
+  },
+  {
+    "place_id": "0x3b05bb410602b647:0",
+    "name": "THE HEAD OFFICE Salon & Spa",
+    "address": "AL Shyam Tower, Marappalam Rd",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:22.961957"
+  },
+  {
+    "place_id": "0x3b05bbe03bfd4905:0",
+    "name": "I Shop",
+    "address": "",
+    "category": "Cell phone accessory store",
+    "phone": "+91 99959 21235",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:21.737495"
+  },
+  {
+    "place_id": "0x3b05bbf000238859:0",
+    "name": "Fab Dakshin - Women’s Boutique in Trivandrum",
+    "address": "T.C 1/1999 (1), Dakshin, opposite Hotel Biverah Suites",
+    "category": "Women's clothing store",
+    "phone": "+91 99611 90735",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:20.293190"
+  },
+  {
+    "place_id": "0x3b05b95e6365b3d5:0",
+    "name": "FAGA - The Haute Couture",
+    "address": "Closes 6:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:18.902445"
+  },
+  {
+    "place_id": "0x3b05b921b0a54209:0",
+    "name": "Prisma Store",
+    "address": "Tc 2/3578, Lalitham, Opp Petrol Pump, Kesavadasapuram, near Bata Showrom, Post",
+    "category": "Clothing store",
+    "phone": "+91 90875 35419",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:17.669540"
+  },
+  {
+    "place_id": "0x3b05bb0e487edf41:0",
+    "name": "INTUNE",
+    "address": "",
+    "category": "Outlet mall",
+    "phone": "+91 79077 16153",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:16.297516"
+  },
+  {
+    "place_id": "0x3b05bbca838535d9:0",
+    "name": "Go Colors - Pattom | Women's Bottom Wear",
+    "address": "TC 17, Prithikas Arcade, 3296 / 3297, opp. LIC Lane",
+    "category": "Clothing store",
+    "phone": "+91 73587 10444",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:14.963971"
+  },
+  {
+    "place_id": "0x3b05bb42c6a39a1b:0",
+    "name": "LinenClub,Thiruvananthapuram,Pattom",
+    "address": "",
+    "category": "Clothing store",
+    "phone": "+91 91881 11712",
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:13.672972"
+  },
+  {
+    "place_id": "0x3b05b99310d5953d:0",
+    "name": "Creams n' Crumbs",
+    "address": "TC 8/3778/1 Konnathu Vishnu Nagar, PO",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:12.411466"
+  },
+  {
+    "place_id": "0x3b05bb005ee2e217:0",
+    "name": "NEF NEF Mandi and Grills",
+    "address": "Oops. Linen Club, Plamoodu - Thekkamoodu Rd",
+    "category": "Arab restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:11.037722"
+  },
+  {
+    "place_id": "0x3b05bb18593713e7:0",
+    "name": "MANDI MANZIL PATTOM",
+    "address": "PMG Rd",
+    "category": "Yemeni restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:09.812939"
+  },
+  {
+    "place_id": "0x87eefee8abd5f0f9:0",
+    "name": "Baxter Veterinary Clinic",
+    "address": "102 Railroad St",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:08.429470"
+  },
+  {
+    "place_id": "0x88598c97ffe9edd9:0",
+    "name": "The Pet Vet on Patton",
+    "address": "",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:07.110176"
+  },
+  {
+    "place_id": "0x89c80dfbc6a973c1:0",
+    "name": "Padonia Veterinary Hospital",
+    "address": "Opens 8 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:05.809949"
+  },
+  {
+    "place_id": "0x87efab3522bf0c39:0",
+    "name": "Central Iowa Veterinary Services",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:04.466597"
+  },
+  {
+    "place_id": "0x87ec4ae0aa773f2d:0",
+    "name": "Perry Animal Clinic Pc",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:03.195367"
+  },
+  {
+    "place_id": "0x87ec3933ad53b3ef:0",
+    "name": "Adel Veterinary Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:01.836851"
+  },
+  {
+    "place_id": "0x87ec1629cc1f6b75:0",
+    "name": "Van Meter Veterinary Clinic",
+    "address": "",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:06:00.561534"
+  },
+  {
+    "place_id": "0x87eeb5bfd45840c1:0",
+    "name": "TOWN & COUNTRY VETERINARY CLINIC",
+    "address": "205 Main St",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:05:59.302725"
+  },
+  {
+    "place_id": "0x3b05bbc165146bbd:0",
+    "name": "Pharmacy: Viswas community Pharmacy",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 83048 71684",
+    "website": null,
+    "discovered_at": "2026-11-14 11:05:58.036427"
+  },
+  {
+    "place_id": "0x3b05bbe7a8f32909:0",
+    "name": "Chemmanur Opticals",
+    "address": "opposite Vaidyuti Bhavan",
+    "category": "Optician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:05:56.796735"
+  },
+  {
+    "place_id": "0x3b05bbd01d3d03bb:0",
+    "name": "KOTTAKKAL ARYA VAIDYA SALA",
+    "address": "Museum - Nanthencode Rd",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 77366 28200",
+    "website": null,
+    "discovered_at": "2026-11-14 11:05:55.572739"
+  },
+  {
+    "place_id": "0x3b05bb690d8c052b:0",
+    "name": "Dr Arjun S MBBS MD PMR , Sports injury and physical medicine doctor",
+    "address": "Opens 2 PM Mon",
+    "category": "Closed",
+    "phone": "+91 94474 14894",
+    "website": null,
+    "discovered_at": "2026-11-14 11:05:54.300180"
+  },
+  {
+    "place_id": "0x3b05b95f8a2c69a3:0",
+    "name": "Spring Garden Health Care",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:05:53.004382"
+  },
+  {
+    "place_id": "0x3b05bbc356da5601:0",
+    "name": "smile avenue - the dental care people",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:05:51.781269"
+  },
+  {
     "place_id": "0x3b05bb30a8e3e3a5:0",
     "name": "Thambi Sir's Tuition Academy",
     "address": "Raj Bhavan; ; Ambalathara; Poonthura P O Trivandrum- 695026, Mathavil, NH Bypass",
@@ -8593,410 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:11:03.451218"
-  },
-  {
-    "place_id": "0x865c5f573ed308d7:0",
-    "name": "San Antonio Eye Center",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:11:02.090262"
-  },
-  {
-    "place_id": "0x89ae9d25fb3947bd:0",
-    "name": "Adi Mahajan CPA - North Raleigh, NC Office",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:46.537292"
-  },
-  {
-    "place_id": "0x89ad6566340e3d09:0",
-    "name": "Angela Perkins Hupp, CPA, LLC",
-    "address": "",
-    "category": "Accounting firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:45.378139"
-  },
-  {
-    "place_id": "0x89ad1599b1a55729:0",
-    "name": "DH Craig CPA PC",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:44.163832"
-  },
-  {
-    "place_id": "0x89ae07174f2fbb25:0",
-    "name": "B & B Accounting Inc",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:41.539426"
-  },
-  {
-    "place_id": "0x89b2086b8d594ab1:0",
-    "name": "High & Associates PC",
-    "address": "",
-    "category": "Tax preparation service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:40.383850"
-  },
-  {
-    "place_id": "0xa8a677c4505bcf3:0",
-    "name": "Born to Roam Travel Company",
-    "address": "(919) 641-8087",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:39.199252"
-  },
-  {
-    "place_id": "0x89adab72e578e1d5:0",
-    "name": "Genesis Travel Group Dream Vacations",
-    "address": "2756 Andrea Dr",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:37.914841"
-  },
-  {
-    "place_id": "0xa544d9171c95d0c3:0",
-    "name": "Dawn's Dream Travel",
-    "address": "135 US-1",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:36.713174"
-  },
-  {
-    "place_id": "0x89ad847afd4b93ef:0",
-    "name": "United Country Virginia Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:35.545369"
-  },
-  {
-    "place_id": "0x89b2d1d2cb627095:0",
-    "name": "Keeton & Co Real Estate - Lynchburg",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:34.338506"
-  },
-  {
-    "place_id": "0x89adfd62780ea217:0",
-    "name": "Crystal Murphy – Lake Gaston REALTOR® | VA & NC Licensed eXp Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:33.160554"
-  },
-  {
-    "place_id": "0x89adf0dd58500001:0",
-    "name": "NextHome 1st Choice Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:31.954383"
-  },
-  {
-    "place_id": "0x89ad47a04ebbac15:0",
-    "name": "Re/Max Premier Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:30.770855"
-  },
-  {
-    "place_id": "0x89b23ad9f82fba1f:0",
-    "name": "Lee Simmons Signature Realty",
-    "address": "134 E Carolina Ave",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:29.531305"
-  },
-  {
-    "place_id": "0x89b2111756ad1705:0",
-    "name": "Unity Realty LLC",
-    "address": "1080 Unity Rd",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:28.304715"
-  },
-  {
-    "place_id": "0x89ad85bb3fb4e373:0",
-    "name": "Pointe Realty Group Kerr Lake",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:27.069174"
-  },
-  {
-    "place_id": "0x89b2086c570552e3:0",
-    "name": "Sharon Johnson, Realtor",
-    "address": "212 N Mecklenburg Ave",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:25.749507"
-  },
-  {
-    "place_id": "0x89b2174e841b7a81:0",
-    "name": "Southern Virginia Realty",
-    "address": "117 S Main St",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:24.595836"
-  },
-  {
-    "place_id": "0x3b05befb7c540d0b:0",
-    "name": "Carnival Gym",
-    "address": "HV6J+6GR",
-    "category": "Gymnastics center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:23.442545"
-  },
-  {
-    "place_id": "0x89ad1503d9a6949d:0",
-    "name": "Furniture Mart",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:22.256011"
-  },
-  {
-    "place_id": "0x89ad63d2a5121793:0",
-    "name": "Heritage House Home Furnishing",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:20.955204"
-  },
-  {
-    "place_id": "0x3b05bef9df886ff1:0",
-    "name": "Green Habito-Cold Pressed Juices & Smoothies -Technopark",
-    "address": "+91 80756 54646",
-    "category": "Permanently closed",
-    "phone": "+91 80756 54646",
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:19.702357"
-  },
-  {
-    "place_id": "0x89ae8147a457ae6b:0",
-    "name": "Juice Topia, Inc.",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:18.525926"
-  },
-  {
-    "place_id": "0x3b05befe25713499:0",
-    "name": "Garuda Travels",
-    "address": "HV8G+58J",
-    "category": "Travel agency",
-    "phone": "+91 94461 44556",
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:17.215161"
-  },
-  {
-    "place_id": "0x3b05bf69e313b811:0",
-    "name": "Gama Abacus Kazhakoottam",
-    "address": "Market Rd, near women's ITI",
-    "category": "Training center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:16.017704"
-  },
-  {
-    "place_id": "0x3b05bf727a1bf907:0",
-    "name": "Mathiit",
-    "address": "Kariyil Rd, opposite to our public school",
-    "category": "Coaching center",
-    "phone": "+91 80090 10046",
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:14.736535"
-  },
-  {
-    "place_id": "0x3b05bf1c0ff55fef:0",
-    "name": "Gothrive Fitness Club",
-    "address": "Technopark Trivandrum, Service Rd, near Idukki Hot Spot Restaurant",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:03:13.515717"
-  },
-  {
-    "place_id": "0x3b05befe2aa754df:0",
-    "name": "Jockey Kazhakkuttom",
-    "address": "COCOON, N H ROAD",
-    "category": "Clothing store",
-    "phone": "+91 97456 11551",
-    "website": null,
-    "discovered_at": "2026-11-14 04:51:14.217068"
-  },
-  {
-    "place_id": "0x3b05bffecb7a0651:0",
-    "name": "Tech Tea",
-    "address": "Tech Tea, Main Gate NH 47 Bypass Road Near Technopark Campus Thiruvananthapuram Kazhakuttam Kerala 695581",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:51:12.421791"
-  },
-  {
-    "place_id": "0x3b05bf002172bfe3:0",
-    "name": "Anand Hotel",
-    "address": "",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:51:11.060672"
-  },
-  {
-    "place_id": "0x3b05bf1a410c700f:0",
-    "name": "Jan aushadhi medical store,chanthavila",
-    "address": "Tc 3/1041, P.O, opposite Guruji driving school, near Arushi bridal studio",
-    "category": "Pharmacy",
-    "phone": "+91 80869 46232",
-    "website": null,
-    "discovered_at": "2026-11-14 04:51:09.796991"
-  },
-  {
-    "place_id": "0x3b05bf1e275e7c6d:0",
-    "name": "Indira Medicals",
-    "address": "HV8R+MF6",
-    "category": "Pharmacy",
-    "phone": "+91 94961 43425",
-    "website": null,
-    "discovered_at": "2026-11-14 04:51:08.532271"
-  },
-  {
-    "place_id": "0x3b05bf7d49692039:0",
-    "name": "GG Meds - Kulathoor",
-    "address": "Ground Floor, BS Building, Tc/98, 3250-1",
-    "category": "Medical supply store",
-    "phone": "+91 77363 97779",
-    "website": null,
-    "discovered_at": "2026-11-14 04:51:07.244681"
-  },
-  {
-    "place_id": "0x3b05bf4a36340b35:0",
-    "name": "Jan Aushadhi Medical Store Chenkottukonam(English Medicines)",
-    "address": "TC 11/2315, Chenkottukonam Junction, Edathara Rd, opposite to Auto Stand",
-    "category": "Pharmacy",
-    "phone": "+91 79946 54824",
-    "website": null,
-    "discovered_at": "2026-11-14 04:51:05.986300"
-  },
-  {
-    "place_id": "0x3b05bf5695d9bb65:0",
-    "name": "SN Angadikkada",
-    "address": "GVRJ+689, Sreekariyam - Kazhakuttam Rd",
-    "category": "Pharmacy",
-    "phone": "+91 94974 73675",
-    "website": null,
-    "discovered_at": "2026-11-14 04:51:04.741567"
-  },
-  {
-    "place_id": "0x3b05bf0008201bad:0",
-    "name": "pradhan mantri bhartiya janaushadhi KULATHOOR",
-    "address": "GVQJ+Q84, Pradhan Mantri Bhartiya Janaushadhi GVQJ+R87 99/3554kulathoor, P.O, opp. Koluthukara Temple",
-    "category": "Pharmacy",
-    "phone": "+91 88913 16338",
-    "website": null,
-    "discovered_at": "2026-11-14 04:51:03.481164"
-  },
-  {
-    "place_id": "0x3b05bfca60f8ede3:0",
-    "name": "Aswas Community Pharmacy, Pangappara",
-    "address": "",
-    "category": "Medical supply store",
-    "phone": "+91 95263 13148",
-    "website": null,
-    "discovered_at": "2026-11-14 04:51:02.226700"
-  },
-  {
-    "place_id": "0x3b05bf472a58fc09:0",
-    "name": "Viswas fair price PHARMACY",
-    "address": "Near post office, opposite preethy super market and kerala eletricals",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:51:00.719704"
-  },
-  {
-    "place_id": "0x3b05bf47868093f1:0",
-    "name": "Bon Beano Pharma",
-    "address": "",
-    "category": "Pet store",
-    "phone": "+91 95131 11420",
-    "website": null,
-    "discovered_at": "2026-11-14 04:50:59.361863"
-  },
-  {
-    "place_id": "0x3b05be926264c8db:0",
-    "name": "Anugraha Medicals",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": "+91 95446 53378",
-    "website": null,
-    "discovered_at": "2026-11-14 04:50:57.896356"
-  },
-  {
-    "place_id": "0x3b05bfa8aeba8d85:0",
-    "name": "RAJASREE AYURVEDICS",
-    "address": "Sreekariyam - Kazhakuttam Rd",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 94474 92840",
-    "website": null,
-    "discovered_at": "2026-11-14 04:50:56.664211"
-  },
-  {
-    "place_id": "0x3b05be9c5c6312fb:0",
-    "name": "Home of Dental Care",
-    "address": "Dr Taania's Home of Dental Care, opp. MGM School",
-    "category": "Dental clinic",
-    "phone": "+91 70227 75007",
-    "website": null,
-    "discovered_at": "2026-11-14 04:50:55.397364"
-  },
-  {
-    "place_id": "0x3b05bfb8fde00ac1:0",
-    "name": "Dr Manu Mohan's Ashraya Multi speciality Dental Clinic",
-    "address": "HVG2+2PJ",
-    "category": "Dental clinic",
-    "phone": "+91 99957 03703",
-    "website": null,
-    "discovered_at": "2026-11-14 04:50:54.125158"
-  },
-  {
-    "place_id": "0x3b05bf0028628965:0",
-    "name": "Dr.Rudy's Dental Speciality Clinic",
-    "address": "High School Rd",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:50:52.838591"
   }
 ]
