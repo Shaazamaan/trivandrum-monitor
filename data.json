@@ -1,5 +1,131 @@
 [
   {
+    "place_id": "0x3b05bb320df4b205:0",
+    "name": "Saju K R & Associates Chartered Accountants",
+    "address": "Thampuran Mukku, TC 13/494(1), Nishanth, Line, Kalavihar Ln",
+    "category": "Chartered accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 18:44:17.089466"
+  },
+  {
+    "place_id": "0x3b05c7f62823aa1b:0",
+    "name": "Jetx Air travels, Tours & Insurance",
+    "address": "Bismi Building, near Auto stand",
+    "category": "Travel agency",
+    "phone": "+91 95678 99607",
+    "website": null,
+    "discovered_at": "2026-11-14 18:44:15.797573"
+  },
+  {
+    "place_id": "0x3b05bf5a07b734bb:0",
+    "name": "Travel Monk Holidays",
+    "address": "Thrippadapuram Mahadeva Temple, Thrippada Nagar, Kavakkonam Road",
+    "category": "Travel agency",
+    "phone": "+91 96332 10773",
+    "website": null,
+    "discovered_at": "2026-11-14 18:44:14.640797"
+  },
+  {
+    "place_id": "0x3b0625199ca0906b:0",
+    "name": "Fashion Fruitz Events | Kerala Destination Weddings & Event Planners",
+    "address": "Kompadiyil building, above IOB Bank",
+    "category": "Event planner",
+    "phone": "+91 75609 55055",
+    "website": null,
+    "discovered_at": "2026-11-14 18:44:13.229634"
+  },
+  {
+    "place_id": "0x3b061dc86b321f9d:0",
+    "name": "ELAMER WEDDING COMPANY",
+    "address": "Maliekkal Galaxy, Near M S M College",
+    "category": "Event planner",
+    "phone": "+91 97452 44448",
+    "website": null,
+    "discovered_at": "2026-11-14 18:44:11.991311"
+  },
+  {
+    "place_id": "0xac2b91cd5c295faf:0",
+    "name": "Angels Event Management",
+    "address": "5GM4+W35",
+    "category": "Wedding planner",
+    "phone": "+91 94472 57719",
+    "website": null,
+    "discovered_at": "2026-11-14 18:44:10.796382"
+  },
+  {
+    "place_id": "0x3b063d76ffffffff:0",
+    "name": "Celebraze Events Management | Wedding Planners & Decorations",
+    "address": "",
+    "category": "Event planner",
+    "phone": "+91 92073 74777",
+    "website": null,
+    "discovered_at": "2026-11-14 18:44:09.616845"
+  },
+  {
+    "place_id": "0x3b05c546a6dde10f:0",
+    "name": "STUDY CIRCLE SPECIAL TUITION CENTRE",
+    "address": "QX7M+88P STUDY, CIRCLE",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 18:44:08.476251"
+  },
+  {
+    "place_id": "0x3b05b9b1103051e1:0",
+    "name": "SMS Tuition Centre, Kunnoorshala, Kachani",
+    "address": "Opens 8:30 AM",
+    "category": "Closed",
+    "phone": "+91 99467 77685",
+    "website": null,
+    "discovered_at": "2026-11-14 18:44:07.236282"
+  },
+  {
+    "place_id": "0x3b05b9946e963b2b:0",
+    "name": "Skill share Tuition centre",
+    "address": "Njandoorkonam, Junction, opposite BOI bank",
+    "category": "Educational institution",
+    "phone": "+91 99957 65493",
+    "website": null,
+    "discovered_at": "2026-11-14 18:44:06.086964"
+  },
+  {
+    "place_id": "0x3b059592685785e5:0",
+    "name": "Clifinn Wellness Beach Resort",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 18:44:04.901708"
+  },
+  {
+    "place_id": "0x3b05bb5778bb4d7b:0",
+    "name": "SM Fashion",
+    "address": "medical college p o, Bus Stop, Koyikkal lane, Avittom Rd",
+    "category": "Clothing store",
+    "phone": "+91 95266 00262",
+    "website": null,
+    "discovered_at": "2026-11-14 18:44:03.694316"
+  },
+  {
+    "place_id": "0x3b05bba34c047ac9:0",
+    "name": "Heritage Tours & Travels",
+    "address": "TC 36/38 (1), KERA-169, Opp.Kingsway Hotel Chakkai P.O, Attakulangara - Enchakkal Rd",
+    "category": "Travel agency",
+    "phone": "+91 93874 50815",
+    "website": null,
+    "discovered_at": "2026-11-14 18:44:01.963408"
+  },
+  {
+    "place_id": "0x3b05a5bf830246af:0",
+    "name": "FORNAX INTERIORS",
+    "address": "Industrial Estate, opposite post office",
+    "category": "Interior designer",
+    "phone": "+91 70256 54545",
+    "website": null,
+    "discovered_at": "2026-11-14 18:44:00.637028"
+  },
+  {
     "place_id": "0x3b05bbf5d2fb0743:0",
     "name": "Kaffine Cafe",
     "address": "MLA Rd",
@@ -8872,131 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 09:31:38.569800"
-  },
-  {
-    "place_id": "0x3b05ab40e933d785:0",
-    "name": "EduNext Global Education-",
-    "address": "2nd Floor, SHAH Complex, junction, near the Post office",
-    "category": "Education center",
-    "phone": "+91 77368 62260",
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:37.388041"
-  },
-  {
-    "place_id": "0x3b0455cc12e6226f:0",
-    "name": "Future Tuition center",
-    "address": "Closes 9:30 p.m.",
-    "category": "Open",
-    "phone": "+91 74184 34128",
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:36.199927"
-  },
-  {
-    "place_id": "0x3b05ab73506b8ce7:0",
-    "name": "Master Abacus - Parassala",
-    "address": "Post Office, Jn, near Sanju Hospital",
-    "category": "After school program",
-    "phone": "+91 94007 79908",
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:34.966034"
-  },
-  {
-    "place_id": "0x3b05ab7ff5b19e0f:0",
-    "name": "DISA (Digital and Innovative Skills Academy)",
-    "address": "DISA , 1st floor, NS Complex, opposite Gandhi Park",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:33.739034"
-  },
-  {
-    "place_id": "0x3b05ab2291bde76f:0",
-    "name": "SIP Abacus Parassala",
-    "address": "Post Office, Post office Junction Beula, Junction, opposite Govt VHSS",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:32.444747"
-  },
-  {
-    "place_id": "0x3b05ab6f9b00f11f:0",
-    "name": "RIYA ACADEMY",
-    "address": "Parassala Vellarada Rd, opposite HOLY TRINITY CHURCH",
-    "category": "Educational institution",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:31.163428"
-  },
-  {
-    "place_id": "0x3b05ab2a3140940f:0",
-    "name": "FAT2FIT",
-    "address": "Fat2fit,pulluvila Charottukonam",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:29.949370"
-  },
-  {
-    "place_id": "0x3b05ab8d5e25b4bf:0",
-    "name": "Arka makeover studio",
-    "address": "56,3, 18",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:28.703316"
-  },
-  {
-    "place_id": "0x3b05ab73a8dabe6b:0",
-    "name": "Niranjan Plaza",
-    "address": "Closes 9 p.m.",
-    "category": "Open",
-    "phone": "+91 97453 38414",
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:27.517169"
-  },
-  {
-    "place_id": "0x3b05ad9e8bf3addb:0",
-    "name": "Pulimoottil S Mart",
-    "address": "Opposite Arayoor Service Scociety",
-    "category": "Supermarket",
-    "phone": "+91 89218 55808",
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:26.348288"
-  },
-  {
-    "place_id": "0x3b05ad64d9a63845:0",
-    "name": "Bhagavathy Gold & Diamonds",
-    "address": "Marayamuttam - Paliyode Rd",
-    "category": "Jewelry store",
-    "phone": "+91 81138 18113",
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:25.136773"
-  },
-  {
-    "place_id": "0x3b05ab3fba81e1cb:0",
-    "name": "Thomsun Jewellers",
-    "address": "R.C St Rd",
-    "category": "Jeweler",
-    "phone": "+91 94869 15248",
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:23.922857"
-  },
-  {
-    "place_id": "0x3b05ab0062c47c09:0",
-    "name": "David Furniture Mart",
-    "address": "84WH+9CP Ponvila bypass bridge, Idichakkaplamoodu - Plamoottukada Rd",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:22.694649"
-  },
-  {
-    "place_id": "0x3b05ab847261ea9f:0",
-    "name": "B M Mattress",
-    "address": "Closes 9 p.m.",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:21.462452"
   }
 ]
