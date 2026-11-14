@@ -1,5 +1,185 @@
 [
   {
+    "place_id": "0x3b05bba60ae3283b:0",
+    "name": "Milma Parlour",
+    "address": "FXQ2+4HX, NH 66",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:45.776509"
+  },
+  {
+    "place_id": "0x3b05bb55f9415e9d:0",
+    "name": "Hridhayalaya Pharmacy",
+    "address": "Deepam Kra 97",
+    "category": "Pharmacy",
+    "phone": "+91 97465 91906",
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:44.550411"
+  },
+  {
+    "place_id": "0x3b05bba307752d21:0",
+    "name": "JEEVAMRITH AYURVEDA PANCHAKARMA MASSAGE CENTER",
+    "address": "Kunnumpuram Rd, opposite building jeevamrith",
+    "category": "Massage spa",
+    "phone": "+91 81369 52930",
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:43.316017"
+  },
+  {
+    "place_id": "0x3b05bb054817ce5b:0",
+    "name": "Eanchezhthu Ayurveda Hospital & Panchakarma Centre",
+    "address": "KNRA 16/6, MKK Nair Rd",
+    "category": "Hospital",
+    "phone": "+91 82818 69553",
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:41.090814"
+  },
+  {
+    "place_id": "0x3b05bb4b45dac555:0",
+    "name": "INSPIRE Physiotherapy and Dietetics",
+    "address": "GRA 606, PO",
+    "category": "Physical therapy clinic",
+    "phone": "+91 93494 94922",
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:39.785520"
+  },
+  {
+    "place_id": "0x3b05b96c9cc1cd31:0",
+    "name": "Bethany Physiocare",
+    "address": "Mar Ivanios Vidya Nagar, Bethany Hills",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:38.505678"
+  },
+  {
+    "place_id": "0x3b05bb2acfe2ec7b:0",
+    "name": "Quick Cure Center",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": "+91 83308 08226",
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:37.231381"
+  },
+  {
+    "place_id": "0x3b05bb777eb76ec7:0",
+    "name": "D Multifidus",
+    "address": "Apra 29c, Arappura Ln, near divyaprabha eye hospital",
+    "category": "Physical therapy clinic",
+    "phone": "+91 92878 88990",
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:35.976037"
+  },
+  {
+    "place_id": "0x87ec274b0ff5103b:0",
+    "name": "EXIT Realty & Associates",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:34.731160"
+  },
+  {
+    "place_id": "0x87ee85edc6e96355:0",
+    "name": "Jacob Simon Real Estate - Des Moines, IA",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:33.499371"
+  },
+  {
+    "place_id": "0x87ee9338bfb2bae3:0",
+    "name": "Real Advantage Partners",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:32.220284"
+  },
+  {
+    "place_id": "0x87ec20fe26daaaab:0",
+    "name": "Realty ONE Group Impact",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:30.973191"
+  },
+  {
+    "place_id": "0x87ee9faf4414877f:0",
+    "name": "Morrisseys Fine Jewelry",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:29.757747"
+  },
+  {
+    "place_id": "0x87ee980de52653d7:0",
+    "name": "Arona Home Essentials Des Moines",
+    "address": "",
+    "category": "Furniture rental service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:28.374898"
+  },
+  {
+    "place_id": "0x87ee986bf9bd69a5:0",
+    "name": "Fab Rehab",
+    "address": "",
+    "category": "Home goods store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:27.132616"
+  },
+  {
+    "place_id": "0x87ee980dec9cb3db:0",
+    "name": "Victor's Western Wear",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:25.850089"
+  },
+  {
+    "place_id": "0x87ee9fd0200d0ced:0",
+    "name": "Eye Care Of Iowa - West Des Moines",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:24.553872"
+  },
+  {
+    "place_id": "0x87ec2038ff284431:0",
+    "name": "Athletico Physical Therapy - West Des Moines",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:23.283826"
+  },
+  {
+    "place_id": "0x87ec23e97b35127d:0",
+    "name": "RC Dermatology West Des Moines",
+    "address": "",
+    "category": "Dermatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:21.953823"
+  },
+  {
+    "place_id": "0x87ec20911e71d3f7:0",
+    "name": "Dental Associates PC",
+    "address": "",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:02:20.626999"
+  },
+  {
     "place_id": "0x3b05c1dd092ea16d:0",
     "name": "CENTRE FOR ENGINEERING",
     "address": "+91 89216 73794",
@@ -8818,185 +8998,5 @@
     "phone": "+91 85476 79437",
     "website": null,
     "discovered_at": "2026-11-14 03:18:58.511117"
-  },
-  {
-    "place_id": "0x3b05b989f680b4e3:0",
-    "name": "T N TRADERS PROPTHAJUDEEN S",
-    "address": "T N TRADERS, Market Road, near MARKET JUNCTION",
-    "category": "Supermarket",
-    "phone": "+91 80866 92819",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:57.321452"
-  },
-  {
-    "place_id": "0x3b05b804249a2a8f:0",
-    "name": "Soumya Fashion Jewellery",
-    "address": "9 AM",
-    "category": "Opens soon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:56.114458"
-  },
-  {
-    "place_id": "0x3b05b804c74cd055:0",
-    "name": "Kerala metals and general stores",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": "+91 98956 64442",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:54.898444"
-  },
-  {
-    "place_id": "0x3b05b80485065f0d:0",
-    "name": "N.S Mobiles",
-    "address": "Surya Rd",
-    "category": "Cell phone store",
-    "phone": "+91 97441 55046",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:53.693559"
-  },
-  {
-    "place_id": "0x3b05b93aced98145:0",
-    "name": "Students Store",
-    "address": "J242+2PG, GHS School Rd, near petrol pump Under union bank",
-    "category": "Book store",
-    "phone": "+91 99473 03757",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:52.521094"
-  },
-  {
-    "place_id": "0x3b05b804c418bab9:0",
-    "name": "HIBA MATCHING CENTRE",
-    "address": "Nedumangad Market Jn",
-    "category": "Clothing store",
-    "phone": "+91 98957 39320",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:51.347944"
-  },
-  {
-    "place_id": "0x3b05b80494cb7d25:0",
-    "name": "Zeeb Silks",
-    "address": "Market Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:50.176625"
-  },
-  {
-    "place_id": "0x3b05b9e60e9ec5c5:0",
-    "name": "Bake N' Flake",
-    "address": "Closes 9:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:49.016669"
-  },
-  {
-    "place_id": "0x3b05b9a4a96e2b17:0",
-    "name": "Jeeva Medicals",
-    "address": "Jeeva Medicals",
-    "category": "Pharmacy",
-    "phone": "+91 75929 98920",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:47.847859"
-  },
-  {
-    "place_id": "0x3b05ad321f32d551:0",
-    "name": "TEXUS HOLIDAYS",
-    "address": "+91 62821 83859",
-    "category": "Temporarily closed",
-    "phone": "+91 62821 83859",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:46.658088"
-  },
-  {
-    "place_id": "0x3b05af745503184d:0",
-    "name": "Divine Destinations",
-    "address": "Dr, GR Rd",
-    "category": "Tour operator",
-    "phone": "+91 81369 66369",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:45.426279"
-  },
-  {
-    "place_id": "0x3b05af5cfc6daf6f:0",
-    "name": "Ananya tours and travels",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": "+91 96451 25661",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:44.140173"
-  },
-  {
-    "place_id": "0x3b05af69e5429f9d:0",
-    "name": "Manappuram Finance Limited – Gold Loan",
-    "address": "",
-    "category": "Financial institution",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:42.841259"
-  },
-  {
-    "place_id": "0x3b05aff2dfd9aabb:0",
-    "name": "ESA Driving School Perumpazhutoor",
-    "address": "Neyyattinkara Kattakkada Rd, opposite to TECHNOCURE MOBILE ACCESSORIES",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:41.678752"
-  },
-  {
-    "place_id": "0x3b05ac14184aecd7:0",
-    "name": "Anand Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": "+91 95267 53021",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:40.479881"
-  },
-  {
-    "place_id": "0x3b05ae621054b4ad:0",
-    "name": "New Style Beauty Parlour",
-    "address": "C32P+RGR, Convent Road",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:39.250435"
-  },
-  {
-    "place_id": "0x3b05afd15de23b87:0",
-    "name": "Ambi Store",
-    "address": "Santhosh Thulaseedhalam, 25/704, Viswabharathy Rd, opposite Indiragandhi statue",
-    "category": "Grocery store",
-    "phone": "+91 95390 29460",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:38.020528"
-  },
-  {
-    "place_id": "0x3b05ae626d48d8c5:0",
-    "name": "Kumar Stores",
-    "address": "Closes 9:30 PM",
-    "category": "Open",
-    "phone": "+91 94477 54061",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:36.787678"
-  },
-  {
-    "place_id": "0x3b05ad003ede39e3:0",
-    "name": "Mary Furniture Shop",
-    "address": "94R4+8FM",
-    "category": "Furniture accessories supplier",
-    "phone": "+91 96337 27977",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:35.490133"
-  },
-  {
-    "place_id": "0x3b05af0d572ea2b3:0",
-    "name": "Duel Tech COMPUTERS & MOBILES",
-    "address": "Closes 8:30 PM",
-    "category": "Open",
-    "phone": "+91 85477 00010",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:34.287425"
   }
 ]
