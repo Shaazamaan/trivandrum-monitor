@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b0595581a6fef53:0",
+    "name": "Rafeeka's Tailoring Shop",
+    "address": "HRWF+8XH",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 15:46:27.578774"
+  },
+  {
+    "place_id": "0x3b05bf00287778e3:0",
+    "name": "Ambadi Textiles",
+    "address": "10 PM",
+    "category": "Closes soon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 15:46:26.361907"
+  },
+  {
+    "place_id": "0x3b05bbf99afb565d:0",
+    "name": "De Natura Aesthetic Clinic",
+    "address": "Adwaitham Tower, Maruthamkuzhi Bridge, opp. Dhanya Supermarket",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 15:46:25.119228"
+  },
+  {
+    "place_id": "0x3b05bbcb682cb511:0",
+    "name": "N ZONE UNISEX SALON",
+    "address": "Buhari Hotel line",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 15:46:23.887839"
+  },
+  {
+    "place_id": "0x3b05bb002678da33:0",
+    "name": "FROOT ICE",
+    "address": "FWGX+965",
+    "category": "Ice cream shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 15:46:20.972792"
+  },
+  {
+    "place_id": "0x3b05bb164b53019b:0",
+    "name": "Grand Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 15:46:19.482871"
+  },
+  {
+    "place_id": "0x3b05bb006c0464c3:0",
+    "name": "Oraya Kitchen",
+    "address": "FW8X+5F7",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 15:46:18.229981"
+  },
+  {
     "place_id": "0x865c685048925dfd:0",
     "name": "Cruise Planners - Grandmastertravel LLC",
     "address": "",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 06:32:09.160879"
-  },
-  {
-    "place_id": "0x880e2cb2e8f3b493:0",
-    "name": "Interior Chicago",
-    "address": "55 W Erie St",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:32:05.427129"
-  },
-  {
-    "place_id": "0x880e2dac9737f6ad:0",
-    "name": "Chicagoland Interior Designer",
-    "address": "600 W Fulton St Ste 700",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:32:04.162714"
-  },
-  {
-    "place_id": "0x880fd338a96ad721:0",
-    "name": "Habitar Design",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:32:02.894523"
-  },
-  {
-    "place_id": "0x880fc552b3482a27:0",
-    "name": "Amy Kartheiser Design",
-    "address": "311 W Superior St #514",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:32:01.649802"
-  },
-  {
-    "place_id": "0x880e2ca236dd3a3b:0",
-    "name": "CCS Interior Design Group",
-    "address": "332 S Michigan Ave #121",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:32:00.457184"
-  },
-  {
-    "place_id": "0x880fd2102db72809:0",
-    "name": "Kuchar",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:31:59.238676"
-  },
-  {
-    "place_id": "0x880e2c306b0a2843:0",
-    "name": "Divas N' Design Interior Design Group",
-    "address": "444 N Michigan Ave #1200",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:31:57.969791"
   }
 ]
