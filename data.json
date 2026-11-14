@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b05af9fac9230ed:0",
+    "name": "Vet's Care Veterinary Hospital",
+    "address": "Kattachalkuzhi Mangalattukonam Rd",
+    "category": "Veterinarian",
+    "phone": "+91 82898 93750",
+    "website": null,
+    "discovered_at": "2026-11-14 20:52:13.651670"
+  },
+  {
+    "place_id": "0x3b05af0017f27591:0",
+    "name": "Thiruvananthapuram",
+    "address": "92RH+M2C",
+    "category": "Car rental agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 20:52:12.391359"
+  },
+  {
+    "place_id": "0x3b05a50067160a9f:0",
+    "name": "Spa Savvy",
+    "address": "9XRF+4X2, Beach Rd",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 20:52:11.112957"
+  },
+  {
+    "place_id": "0x3b05afdbbbbd2d67:0",
+    "name": "Wings Furniture And Appliances",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 80867 00051",
+    "website": null,
+    "discovered_at": "2026-11-14 20:52:09.733255"
+  },
+  {
+    "place_id": "0x3b05a560a6022d65:0",
+    "name": "Live Mobile Store",
+    "address": "92M4+3GC",
+    "category": "Cell phone store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 20:52:08.465780"
+  },
+  {
+    "place_id": "0x3b05a50055e771a9:0",
+    "name": "Yunika Boutique",
+    "address": "92G2+R24",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 20:52:07.222901"
+  },
+  {
+    "place_id": "0x3b05af8a5dc403b1:0",
+    "name": "COLORS COLLECTIONS",
+    "address": "Chavadinada, 1, Perigamala Rd, opp. Eco Shop",
+    "category": "Clothing store",
+    "phone": "+91 94001 27428",
+    "website": null,
+    "discovered_at": "2026-11-14 20:52:05.962364"
+  },
+  {
+    "place_id": "0x3b05a5822e8ca479:0",
+    "name": "REAM Boutique",
+    "address": "92W3+GJ9, Venganoor",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 20:52:04.700889"
+  },
+  {
+    "place_id": "0x3b05a55a834c9503:0",
+    "name": "GRAND RESTAURANT",
+    "address": "Vizhinjam, 112, Pallichal - Vizhinjam Rd, near Chandrika Textiles",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 20:52:03.471392"
+  },
+  {
     "place_id": "0x3b05b9847b5bd7bb:0",
     "name": "Nedumangad Bus Stand",
     "address": "",
@@ -8917,86 +8998,5 @@
     "phone": "+91 89213 73427",
     "website": null,
     "discovered_at": "2026-11-14 12:18:13.096561"
-  },
-  {
-    "place_id": "0x3b05a937dc97b5e3:0",
-    "name": "Poovar Boating Paradise",
-    "address": "",
-    "category": "Boat club",
-    "phone": "+91 77360 83620",
-    "website": null,
-    "discovered_at": "2026-11-14 12:18:11.839724"
-  },
-  {
-    "place_id": "0x3b060ec3a5b80675:0",
-    "name": "Etilite Modular Kitchen and Interiors",
-    "address": "Thejus Building",
-    "category": "Interior designer",
-    "phone": "+91 81568 70006",
-    "website": null,
-    "discovered_at": "2026-11-14 12:18:10.621983"
-  },
-  {
-    "place_id": "0x3b05a908e4d6079f:0",
-    "name": "Alif Bakery",
-    "address": "839C+867",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:34.795656"
-  },
-  {
-    "place_id": "0x3b05a995bd25921b:0",
-    "name": "Dr. KRISHNAKUMAR M , NEPHROLOGIST ,and physician GOVT medical college",
-    "address": "James lab",
-    "category": "Medical group",
-    "phone": "+91 62382 60932",
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:33.011946"
-  },
-  {
-    "place_id": "0x3b05a9f9814f3c95:0",
-    "name": "Ishika Makeovers by Arya",
-    "address": "Kanjiramkulam - Poovar Rd",
-    "category": "Make-up artist",
-    "phone": "+91 91883 91440",
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:31.728406"
-  },
-  {
-    "place_id": "0x3b05a5da417a8005:0",
-    "name": "Trivandrum Taxi - Kovalam Taxi - Arrow Cabs",
-    "address": "Vizhinijam Post, No.22/3,Vizhinjam Trivandrum Mainroad Vizhinjam,Kovalam",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:30.484005"
-  },
-  {
-    "place_id": "0x3b05a50037df8ced:0",
-    "name": "Saba Travel Designers",
-    "address": "Beach Rd",
-    "category": "Tour operator",
-    "phone": "+91 94007 88030",
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:29.261344"
-  },
-  {
-    "place_id": "0x3b05a55b8678a6b7:0",
-    "name": "Lahiz Travels",
-    "address": "Lahiz Complex",
-    "category": "Taxi service",
-    "phone": "+91 97461 61641",
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:28.058719"
-  },
-  {
-    "place_id": "0x3b05af4aee1c355b:0",
-    "name": "Phoenix cabs",
-    "address": "Abhilash nivas",
-    "category": "Tour agency",
-    "phone": "+91 97474 78497",
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:26.808975"
   }
 ]
