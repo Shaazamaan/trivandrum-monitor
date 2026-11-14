@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b9847b5bd7bb:0",
+    "name": "Nedumangad Bus Stand",
+    "address": "",
+    "category": "Transportation service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 20:44:16.517939"
+  },
+  {
     "place_id": "0x3b05af003305149f:0",
     "name": "Police sahakarana medical store neyyattinkara",
     "address": "C34J+FV7, TB Junction-Hospital Jct Rd",
@@ -8989,14 +8998,5 @@
     "phone": "+91 97474 78497",
     "website": null,
     "discovered_at": "2026-11-14 12:11:26.808975"
-  },
-  {
-    "place_id": "0x3b05a5360f54642f:0",
-    "name": "Sealine Water Sports and Scuba",
-    "address": "Bus Stand Rd",
-    "category": "SCUBA tour agency",
-    "phone": "+91 98479 90383",
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:25.588830"
   }
 ]
