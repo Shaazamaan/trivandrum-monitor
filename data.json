@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05bb000a59c665:0",
+    "name": "Harisa",
+    "address": "no 30 A, Sree Nagar Residence Association",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:49:19.958333"
+  },
+  {
+    "place_id": "0x3b05bb0c29c84c7d:0",
+    "name": "Sahayi Communications",
+    "address": "FWFW+WQR, Trivandrum Vizhinjam Rd",
+    "category": "Cell phone store",
+    "phone": "+91 62389 73361",
+    "website": null,
+    "discovered_at": "2026-11-14 12:49:18.701626"
+  },
+  {
+    "place_id": "0x3b05bb0061483ed3:0",
+    "name": "TellPhone",
+    "address": "Tc 67/602, near Juma Masjid Road",
+    "category": "Electronics store",
+    "phone": "+91 77367 15112",
+    "website": null,
+    "discovered_at": "2026-11-14 12:49:17.437443"
+  },
+  {
+    "place_id": "0x3b05bb090ce2aa65:0",
+    "name": "Nutz N Fruitz",
+    "address": "opposite Ramachandrans",
+    "category": "Dry fruit store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:49:16.192170"
+  },
+  {
+    "place_id": "0x3b05bb0e73c6edf7:0",
+    "name": "Vizhinjam foods",
+    "address": "",
+    "category": "Seafood restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:49:14.834074"
+  },
+  {
+    "place_id": "0x54995e9fb029c891:0",
+    "name": "Harrison's Jewelry Co.",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:49:12.786784"
+  },
+  {
     "place_id": "0x872b0ddb714546ad:0",
     "name": "Pretty Please Boutique",
     "address": "",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:40:15.585956"
-  },
-  {
-    "place_id": "0x880fcd9a9483ce53:0",
-    "name": "CloudKitchens - Chicago Avondale - Commercial Kitchen",
-    "address": "",
-    "category": "Shared-use commercial kitchen",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:15.584580"
-  },
-  {
-    "place_id": "0x880fd3f285662bb7:0",
-    "name": "CloudKitchens - Chicago North Center - Commercial kitchens",
-    "address": "",
-    "category": "Shared-use commercial kitchen",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:15.583530"
-  },
-  {
-    "place_id": "0x880e2da4745cad37:0",
-    "name": "CloudKitchens - Chicago South Loop - Commercial kitchens",
-    "address": "",
-    "category": "Shared-use commercial kitchen",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:15.582525"
-  },
-  {
-    "place_id": "0x880fd3139e46573d:0",
-    "name": "CloudKitchens - Chicago River West - Commercial kitchens",
-    "address": "850 W Superior St Rm 1",
-    "category": "Shared-use commercial kitchen",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:15.581257"
-  },
-  {
-    "place_id": "0x880fd3d2ebd6384f:0",
-    "name": "Rockwell Food Pickup - Chicago CloudKitchens",
-    "address": "",
-    "category": "Shared-use commercial kitchen",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:15.579579"
-  },
-  {
-    "place_id": "0x880e2dd1b6f0ea41:0",
-    "name": "Paris Baguette",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:13.410805"
   }
 ]
