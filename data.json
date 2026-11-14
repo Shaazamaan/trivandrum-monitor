@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05b95e87d5322b:0",
+    "name": "Lady Wear Stitching centre",
+    "address": "GWHQ+W7W",
+    "category": "Clothing store",
+    "phone": "+91 94007 03078",
+    "website": null,
+    "discovered_at": "2026-11-14 14:24:22.394724"
+  },
+  {
+    "place_id": "0x3b05b99db042a1cd:0",
+    "name": "Chai ki Masti",
+    "address": "near Mahatma Gandhi College - Main Block",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:24:21.154633"
+  },
+  {
+    "place_id": "0x3b05bb334ecb0601:0",
+    "name": "Turning Point",
+    "address": "Turning Point, Padayani Rd",
+    "category": "Doctor",
+    "phone": "+91 99613 31220",
+    "website": null,
+    "discovered_at": "2026-11-14 14:24:19.614004"
+  },
+  {
+    "place_id": "0x3b05bbe4bd45a6b3:0",
+    "name": "Maha Mahal Supermarket",
+    "address": "Pazhaya Rd",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:24:18.296292"
+  },
+  {
+    "place_id": "0x3b05b957fc831aa3:0",
+    "name": "Dubai Gold",
+    "address": "Medical College, Medical College Ulloor Rd",
+    "category": "Jeweler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:24:16.925449"
+  },
+  {
+    "place_id": "0x3b05b9577419cad7:0",
+    "name": "Jushri's Point",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": "+91 98955 99523",
+    "website": null,
+    "discovered_at": "2026-11-14 14:24:15.707525"
+  },
+  {
+    "place_id": "0x3b05b92a17bed67d:0",
+    "name": "Himalaya medigrace",
+    "address": "GWGH+HC3, Medical College Ulloor Rd",
+    "category": "General store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:24:14.492675"
+  },
+  {
     "place_id": "0x829e74d2b7356105:0",
     "name": "Modern Revival Events",
     "address": "Opens 9 AM Mon",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:45:24.403301"
-  },
-  {
-    "place_id": "0x880fb58775bacceb:0",
-    "name": "Rex Travel Chicago",
-    "address": "100 N LaSalle St #1850",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:45:23.124462"
-  },
-  {
-    "place_id": "0x8811d87a3aec2aff:0",
-    "name": "Unlimited World Travel",
-    "address": "3701 E 106th St",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:45:19.496825"
-  },
-  {
-    "place_id": "0x880e2dd2d9917ca5:0",
-    "name": "JB Luxury Travels",
-    "address": "1 E Erie St Ste 525 Unit",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:45:18.287625"
-  },
-  {
-    "place_id": "0x880e2ca4f164e979:0",
-    "name": "Vega International Travel Services",
-    "address": "29 E Madison St #1201",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:45:14.825254"
-  },
-  {
-    "place_id": "0x880fd29f392007f7:0",
-    "name": "Travel Zap Inc.",
-    "address": "29 E Madison St",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:45:13.654694"
-  },
-  {
-    "place_id": "0x880e2f4cc0c134db:0",
-    "name": "Ris Events, LLC",
-    "address": "2401 S Oakley Ave",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:45:11.371611"
-  },
-  {
-    "place_id": "0x880e2d7f7d47f69b:0",
-    "name": "Graceful Productions",
-    "address": "1 E Erie St Ste 525 Unit",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:45:08.778298"
   }
 ]
