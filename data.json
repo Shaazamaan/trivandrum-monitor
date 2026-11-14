@@ -1,5 +1,185 @@
 [
   {
+    "place_id": "0x3b05bfe2dfd329b9:0",
+    "name": "SHE Lounge",
+    "address": "Rayyanz Arcade, Road",
+    "category": "Boutique",
+    "phone": "+91 99952 14269",
+    "website": null,
+    "discovered_at": "2026-11-14 07:12:04.770356"
+  },
+  {
+    "place_id": "0x3b05bf7b374848f9:0",
+    "name": "Outfit by Zera",
+    "address": "near karichara juma masjid",
+    "category": "Boutique",
+    "phone": "+91 79070 37189",
+    "website": null,
+    "discovered_at": "2026-11-14 07:12:03.617268"
+  },
+  {
+    "place_id": "0x3b05bb5cdb3a1a2d:0",
+    "name": "JUICE HUB, General Hospital Junction",
+    "address": "General Hospital Junction",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:12:02.472750"
+  },
+  {
+    "place_id": "0x3b05bb7dc082344b:0",
+    "name": "Juiztagram",
+    "address": "Museum - Nanthencode Rd",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:12:01.240141"
+  },
+  {
+    "place_id": "0x3b05c17129cedbc7:0",
+    "name": "MUSHAKKAL CLOUD KITCHEN",
+    "address": "+91 73068 58842",
+    "category": "Temporarily closed",
+    "phone": "+91 73068 58842",
+    "website": null,
+    "discovered_at": "2026-11-14 07:12:00.078624"
+  },
+  {
+    "place_id": "0x3b05bf8a1742e393:0",
+    "name": "Ponnuzz dine Home made cakes",
+    "address": "junction",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:58.918206"
+  },
+  {
+    "place_id": "0x3b05bf8f9ed56427:0",
+    "name": "Cake world",
+    "address": "Thampuranmukku Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:57.498553"
+  },
+  {
+    "place_id": "0x3b05c1613656d33d:0",
+    "name": "Mazedār Biryani",
+    "address": "Closes 3:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:56.330279"
+  },
+  {
+    "place_id": "0x3b05eab64e233b27:0",
+    "name": "Naima Restaurant",
+    "address": "Puthukurichy",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:55.155374"
+  },
+  {
+    "place_id": "0x3b05bb0009363f1f:0",
+    "name": "Amṛtjani Ayurveda Clinic",
+    "address": "CRA 185, TR Sukumaran Nair Rd, opposite Aditya Heights",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 88486 28889",
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:54.026042"
+  },
+  {
+    "place_id": "0x3b05bdf542872c11:0",
+    "name": "Functional rehab lab",
+    "address": "Near, KIMS Rd",
+    "category": "Physical therapy clinic",
+    "phone": "+91 94972 57330",
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:52.881992"
+  },
+  {
+    "place_id": "0x3b05bb65d28a639f:0",
+    "name": "Thompson Physiotherapy Clinic",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": "+91 94008 63160",
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:51.710032"
+  },
+  {
+    "place_id": "0x8cba954951285619:0",
+    "name": "AL BAITH HAJJ UMRA SERVICE",
+    "address": "AL BAITH TOWER",
+    "category": "Travel agency",
+    "phone": "+91 94470 82985",
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:50.561699"
+  },
+  {
+    "place_id": "0x3b05baec28e14041:0",
+    "name": "UMAMAHESHWER HOME INTERIORS AND FURNITURE",
+    "address": "TC 53, 1945/4",
+    "category": "Interior Decorator",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:49.263409"
+  },
+  {
+    "place_id": "0x3b05a56a53ab523f:0",
+    "name": "Panchaakshara Interior Design",
+    "address": "Studio Junction, Panjaakshara Opp Chitranjali, PO",
+    "category": "Interior designer",
+    "phone": "+91 98959 87327",
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:48.116947"
+  },
+  {
+    "place_id": "0x3b05bb0b9be60423:0",
+    "name": "Vijaya Temple Jewelers",
+    "address": "FWHV+6R3, SPASRA 30, 2nd Puthen St",
+    "category": "Jewelry store",
+    "phone": "+91 97448 85959",
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:46.960571"
+  },
+  {
+    "place_id": "0x3b05bb09671907b5:0",
+    "name": "Minnus Mobiles",
+    "address": "",
+    "category": "Cell phone store",
+    "phone": "+91 94476 55949",
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:45.781757"
+  },
+  {
+    "place_id": "0x3b05bbf04b9e8dd5:0",
+    "name": "Juice N Bites",
+    "address": "84/2346 (1, Vallakadavu Road, Post Office Ln",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:44.531656"
+  },
+  {
+    "place_id": "0x3b05bb116a7b78af:0",
+    "name": "New Medical Store",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:43.281982"
+  },
+  {
+    "place_id": "0x3b05bb0ebdd3e963:0",
+    "name": "Jan Aushadhi Store",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:11:42.128209"
+  },
+  {
     "place_id": "0x5499390869e70b89:0",
     "name": "Ohana Travel By Shelly",
     "address": "202 W 5th Ave Ste 7",
@@ -8818,185 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 03:03:59.925491"
-  },
-  {
-    "place_id": "0x3b05ef3b8cfab861:0",
-    "name": "Lavender Beauty clinic & Hairstyling studio",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:58.656876"
-  },
-  {
-    "place_id": "0x3b05e92bbdcb1af3:0",
-    "name": "Friends Salon Mens Beauty Parlor",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:57.445623"
-  },
-  {
-    "place_id": "0x3b05ef4ec2615df1:0",
-    "name": "Sulthan Stores",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": "+91 94461 70376",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:56.183397"
-  },
-  {
-    "place_id": "0x3b05ef007f18beff:0",
-    "name": "Rak Supermarket",
-    "address": "QP22+FQV, Odayam Beach Road",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:54.957954"
-  },
-  {
-    "place_id": "0x3b05ef1acfaf37e9:0",
-    "name": "Sound healing workshop by art expressions india",
-    "address": "North cliff",
-    "category": "Store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:53.577516"
-  },
-  {
-    "place_id": "0x3b05e92950051a79:0",
-    "name": "Surya Agencies",
-    "address": "PPHR+C45, Varkala Kallambalam Rd",
-    "category": "Hardware store",
-    "phone": "+91 94471 96034",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:52.349586"
-  },
-  {
-    "place_id": "0x3b05ef899207f36b:0",
-    "name": "KUNNIL TRADERS",
-    "address": "KUNNIL TRADERS, Ayiroor, PO",
-    "category": "Store",
-    "phone": "+91 98464 40267",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:51.088892"
-  },
-  {
-    "place_id": "0x3b05e90049be7111:0",
-    "name": "Talkito Mobiles",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:49.790952"
-  },
-  {
-    "place_id": "0x3b05effcbe01cdb3:0",
-    "name": "LaBelle",
-    "address": "",
-    "category": "Fashion accessories store",
-    "phone": "+91 81368 33105",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:47.663832"
-  },
-  {
-    "place_id": "0x3b05efbd129609ff:0",
-    "name": "Gujarati Family Shop",
-    "address": "PMRX+5VG Under Darjeeling cafe, N Cliff Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:46.391330"
-  },
-  {
-    "place_id": "0x3b05ef700ca24bb5:0",
-    "name": "Life Bakery",
-    "address": "Varkala Edava Kappil Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:45.180602"
-  },
-  {
-    "place_id": "0x3b05ef14491d9323:0",
-    "name": "The Buddha Bar Cafe",
-    "address": "Varkala Helipad Road",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:43.926112"
-  },
-  {
-    "place_id": "0x3b05ef00032d1399:0",
-    "name": "Cafe Saijar",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:42.583149"
-  },
-  {
-    "place_id": "0x3b05ef3c07b4e963:0",
-    "name": "Pandivila Medicals",
-    "address": "Municipality complex",
-    "category": "Medical supply store",
-    "phone": "+91 99952 22042",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:41.287704"
-  },
-  {
-    "place_id": "0x3b05eed576a30e37:0",
-    "name": "JANAKI AYURVEDIC STORE | Oushadhi | Vaidhyaratnam | Nagarjuna | Santhigiri | SNA Oushadhasala | Sreedhareeyam |",
-    "address": "near District Government Ayurveda Hospital Varkala P O, near R-Square",
-    "category": "Herbal medicine store",
-    "phone": "+91 81291 56167",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:40.057900"
-  },
-  {
-    "place_id": "0x3b05ef29af969f2b:0",
-    "name": "R.K. Medicals",
-    "address": "PPMG+X7C",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:38.845499"
-  },
-  {
-    "place_id": "0x3b05e92b3df678b9:0",
-    "name": "Metro Medicals",
-    "address": "Metro Medicals, Varkala-Kadakkavoor Road",
-    "category": "Pharmacy",
-    "phone": "+91 99463 22358",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:37.513121"
-  },
-  {
-    "place_id": "0x3b05ef1c19ad5239:0",
-    "name": "Olympia House Ayurveda",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": "+91 98952 92628",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:36.142093"
-  },
-  {
-    "place_id": "0x3b05efb3907095bb:0",
-    "name": "SIVAGIRI MULTI SPECIALTY DENTAL CLINIC AND IMPLANT CENTER",
-    "address": "PPJM+3C5",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:34.299110"
-  },
-  {
-    "place_id": "0x3b05bf84d8cad83d:0",
-    "name": "KSBC Fit Hackers",
-    "address": "Ganapathi Temple, KSBC FIT HACKERS Ponmanikonam,Gandhipuram Road, PO",
-    "category": "Indoor playground",
-    "phone": "+91 97783 44235",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:32.970165"
   }
 ]
