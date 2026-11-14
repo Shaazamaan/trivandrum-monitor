@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x89b433718ba9673b:0",
+    "name": "Rose Hill Veterinary Practice",
+    "address": "",
+    "category": "Veterinary care",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 10:47:19.164824"
+  },
+  {
+    "place_id": "0x89b5c60e050e084b:0",
+    "name": "Warren County Veterinary Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 10:47:18.019298"
+  },
+  {
+    "place_id": "0x3b05bfc99f02b127:0",
+    "name": "Cuemath Online Tution Center",
+    "address": "Marian Engineering College, Near, Flat no:11D, Tower 3 Asset signature",
+    "category": "Tutoring service",
+    "phone": "+91 82968 88111",
+    "website": null,
+    "discovered_at": "2026-11-14 10:47:16.825398"
+  },
+  {
+    "place_id": "0x3b05bef4dccad9fd:0",
+    "name": "House of Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 10:47:15.580111"
+  },
+  {
     "place_id": "0x3b05e9fa5c463159:0",
     "name": "Quickmathshub",
     "address": "Opens 5 PM",
@@ -8962,41 +8998,5 @@
     "phone": "+91 75488 23341",
     "website": null,
     "discovered_at": "2026-11-14 04:41:08.198530"
-  },
-  {
-    "place_id": "0x3b05cf6bda7de0d3:0",
-    "name": "Surabhi MDS",
-    "address": "P2GH+37W, SH 2",
-    "category": "Educational institution",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:41:06.969252"
-  },
-  {
-    "place_id": "0x3b061e6d289f01cb:0",
-    "name": "Lals One Day Driving School Kayamkulam, Alappuzha, Kerala",
-    "address": "Ramapuram P.O., Maliyekkal Jn NH-66 Side, North of Petrol Pump Kareelakulangra",
-    "category": "Driving school",
-    "phone": "+91 94971 71444",
-    "website": null,
-    "discovered_at": "2026-11-14 04:41:05.718157"
-  },
-  {
-    "place_id": "0x3b05c4931b86baeb:0",
-    "name": "Amma Driving School",
-    "address": "QW3Q+PMH, Vamanapuram - Chittar Rd",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:41:04.494100"
-  },
-  {
-    "place_id": "0x3b05c90012ddffd3:0",
-    "name": "St.Peter's Motor Driving school",
-    "address": "J2RC+M7R, SH45",
-    "category": "Driving school",
-    "phone": "+91 94464 29889",
-    "website": null,
-    "discovered_at": "2026-11-14 04:41:02.923693"
   }
 ]
