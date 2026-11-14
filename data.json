@@ -1,5 +1,275 @@
 [
   {
+    "place_id": "0x3b05e93f46bd4d37:0",
+    "name": "Kiara boutique",
+    "address": "Kiara Boutique, T B Junction, near Children’s Park",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:19:11.502382"
+  },
+  {
+    "place_id": "0x3b05eb0636de4147:0",
+    "name": "Shajan'S Kadakkavur Halwa & Bakery",
+    "address": "Chekkalavilakom",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:19:10.105115"
+  },
+  {
+    "place_id": "0x3b05eb4bff63ced1:0",
+    "name": "Chick Chick Chicken & Pork Retail Shop",
+    "address": "near puttukada junction",
+    "category": "Chicken shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:19:08.949620"
+  },
+  {
+    "place_id": "0x3b05ea4faa8cbb27:0",
+    "name": "Kavuvila Medicals",
+    "address": "MQ6Q+XF2, Chirayeenkizhu Attingal Road",
+    "category": "Pharmacy",
+    "phone": "+91 97465 31822",
+    "website": null,
+    "discovered_at": "2026-11-14 04:19:07.747917"
+  },
+  {
+    "place_id": "0x3b05eb15a37e2c1f:0",
+    "name": "Manu laboratories",
+    "address": "Bus Stop, Hospital, Vakkom Main Road",
+    "category": "Laboratory",
+    "phone": "+91 95672 19968",
+    "website": null,
+    "discovered_at": "2026-11-14 04:19:06.575162"
+  },
+  {
+    "place_id": "0x3b05ebd1eb48747b:0",
+    "name": "Government Ayurvedic Hospital",
+    "address": "MQJF+Q4X, Nilakkamukku Mannathimoola Road",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:19:05.394394"
+  },
+  {
+    "place_id": "0x3b05eba188f80809:0",
+    "name": "Physiotherapy clinic",
+    "address": "Opens 10:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:19:05.390952"
+  },
+  {
+    "place_id": "0x3b05eb6877b6741f:0",
+    "name": "Rephyx Physiotherapy",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": "+91 99475 73171",
+    "website": null,
+    "discovered_at": "2026-11-14 04:19:05.389293"
+  },
+  {
+    "place_id": "0x3b05ebf3fd8466a7:0",
+    "name": "TAURUS PHYSIOTHERAPY AND FITNESS STUDIO| PHYSIOTHERAPY IN ATTINGAL.",
+    "address": "SN junction, Mudapuram Rd, near navagraha temple",
+    "category": "Physical therapist",
+    "phone": "+91 73062 66218",
+    "website": null,
+    "discovered_at": "2026-11-14 04:19:05.387638"
+  },
+  {
+    "place_id": "0x3b05eb53d09f3e41:0",
+    "name": "Dr. Saritha's Clinic",
+    "address": "MQQC+3F7",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:19:04.168796"
+  },
+  {
+    "place_id": "0x3b05e92d22857875:0",
+    "name": "Niya Dental Clinic",
+    "address": "491/B",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:19:02.988589"
+  },
+  {
+    "place_id": "0x3b05eb33e1b15051:0",
+    "name": "Cosmos Superspecialty Dental Clinic Maxillofacial Care and Implant Centre",
+    "address": "near Azhoor Maha Ganapathy Temple",
+    "category": "Dental clinic",
+    "phone": "+91 81139 02104",
+    "website": null,
+    "discovered_at": "2026-11-14 04:19:01.842250"
+  },
+  {
+    "place_id": "0x3b05bf32be3f6e1b:0",
+    "name": "ZION FITNESS",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:19:00.589825"
+  },
+  {
+    "place_id": "0x3b05eb807667d0af:0",
+    "name": "Kv Medicals",
+    "address": "Kv Medicals",
+    "category": "Pharmacy",
+    "phone": "+91 79942 70131",
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:59.394803"
+  },
+  {
+    "place_id": "0x3b05bfb7a02ef6cf:0",
+    "name": "Parvathy Medicals",
+    "address": "HVG2+3QQ",
+    "category": "Pharmacy",
+    "phone": "+91 98950 94797",
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:58.218541"
+  },
+  {
+    "place_id": "0x3b05eac826ce058d:0",
+    "name": "Alin Medical Store",
+    "address": "Veli - Perumathura Rd",
+    "category": "Pharmacy",
+    "phone": "+91 96055 83124",
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:57.052219"
+  },
+  {
+    "place_id": "0x3b05c00684e9324f:0",
+    "name": "VS Medicals",
+    "address": "Pothencode Murukkumpuzha Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:55.862165"
+  },
+  {
+    "place_id": "0x3b05eb3655ef915d:0",
+    "name": "Newcare pharmacy",
+    "address": "near alif dental care",
+    "category": "Pharmacy",
+    "phone": "+91 87140 21246",
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:54.637495"
+  },
+  {
+    "place_id": "0x3b05bf13348b512d:0",
+    "name": "Pro Meds Community Pharmacy",
+    "address": "vetturoad junction, near vetturoad",
+    "category": "Pharmacy",
+    "phone": "+91 75108 12112",
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:53.488401"
+  },
+  {
+    "place_id": "0x3b05ebe49fdca05b:0",
+    "name": "Thanal Pharmacy",
+    "address": "P. O, Thonichal veedu, Building No:AP/18/202",
+    "category": "Pharmacy",
+    "phone": "+91 98475 14930",
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:52.320230"
+  },
+  {
+    "place_id": "0x3b05bf23290c556d:0",
+    "name": "EM DENTAL CARE & ALIGNER CENTRE",
+    "address": "Railway Station Rd",
+    "category": "Dental clinic",
+    "phone": "+91 70122 41559",
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:51.154302"
+  },
+  {
+    "place_id": "0x3b05c10389e978b9:0",
+    "name": "RK Smile and Dental Care",
+    "address": "school road, opposite to BPM",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:49.937885"
+  },
+  {
+    "place_id": "0x3b05bf964cc59791:0",
+    "name": "A.K. Super Speciality Dental Clinic",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 99952 00285",
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:48.759947"
+  },
+  {
+    "place_id": "0x3b05c1a2c040e071:0",
+    "name": "MedDent Polyclinic",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 77364 93307",
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:47.559082"
+  },
+  {
+    "place_id": "0x3b05c1caec1fa0b7:0",
+    "name": "Dr Shahin's Dental Clinic & Maxillofacial Centre",
+    "address": "1st floor,Hagi Tower, opposite to Kerala State Electricity Board Limited",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:46.380011"
+  },
+  {
+    "place_id": "0x3b05bf0060271eab:0",
+    "name": "Akshaya Dental Care Chittattumukku",
+    "address": "Closes 8 PM",
+    "category": "Open",
+    "phone": "+91 98958 67957",
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:45.211612"
+  },
+  {
+    "place_id": "0x3b05bfe5c963b54d:0",
+    "name": "Matrix Dental Care",
+    "address": "Vadayilmukku Pallinada Rd",
+    "category": "Dental clinic",
+    "phone": "+91 95671 71029",
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:43.974411"
+  },
+  {
+    "place_id": "0x3b05c1c50c21c9e7:0",
+    "name": "Clive Dental Gallery & Hair PRP clinic",
+    "address": "Clive Dental Gallery Near Kalloor Building 200 meters from Mangalapuram Junction, National Highway",
+    "category": "Dental clinic",
+    "phone": "+91 62383 71256",
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:42.714508"
+  },
+  {
+    "place_id": "0x3b05bb006bae4ceb:0",
+    "name": "KALA DENTAL SPECIALITY",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 62823 22240",
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:41.356216"
+  },
+  {
+    "place_id": "0x3b05bc64b4a3d3f7:0",
+    "name": "DentaWorld Dental Solutions",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 70254 42544",
+    "website": null,
+    "discovered_at": "2026-11-14 04:18:40.146410"
+  },
+  {
     "place_id": "0x3b05ba33d3389467:0",
     "name": "NISA TRAVEL AGENCY",
     "address": "FWGX+F7M, Attakulangara - Enchakkal Rd, opposite UAE Consulate",
@@ -8728,275 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 01:06:01.331150"
-  },
-  {
-    "place_id": "0x880e2da8d196077f:0",
-    "name": "Pure Green - Juice Bar Fulton Market",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:00.093431"
-  },
-  {
-    "place_id": "0x880e2dfbcb125b57:0",
-    "name": "Pure Green - Juice Bar River North",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:58.804908"
-  },
-  {
-    "place_id": "0x3b05b1d309bb600b:0",
-    "name": "Sreeram Millets Cafe & Store",
-    "address": "Neyyatinkara Road Pallichal Pravchambalam",
-    "category": "Cafe",
-    "phone": "+91 62826 77266",
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:57.570323"
-  },
-  {
-    "place_id": "0x3b05bbcc33a1cb83:0",
-    "name": "Sai Ganesh Coffee Bar",
-    "address": "Tc 50, 25/4, Melamcode Temple Road",
-    "category": "Coffee shop",
-    "phone": "+91 95444 76414",
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:55.754401"
-  },
-  {
-    "place_id": "0x3b05b1d9658a58c5:0",
-    "name": "THE BUDGET CAFE",
-    "address": "VISHAKA MANDIRAM",
-    "category": "Food products supplier",
-    "phone": "+91 96565 53805",
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:54.522517"
-  },
-  {
-    "place_id": "0x3b05baa357710f03:0",
-    "name": "A S Teastall",
-    "address": "FX5X+2RR",
-    "category": "Restaurant",
-    "phone": "+91 81295 04581",
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:53.184581"
-  },
-  {
-    "place_id": "0x3b05bb000f042947:0",
-    "name": "SPICY EGG AND CHICKEN",
-    "address": "SPICY BUILDING",
-    "category": "Food court",
-    "phone": "+91 94963 05060",
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:51.961014"
-  },
-  {
-    "place_id": "0x3b05bb8c14816355:0",
-    "name": "Matha Thattukada",
-    "address": "F242+5WH",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:50.692511"
-  },
-  {
-    "place_id": "0x880e2d002e34ed9f:0",
-    "name": "illy Caffè",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:49.277392"
-  },
-  {
-    "place_id": "0x3b05bbbd2479a99b:0",
-    "name": "SUFI RESTURANT",
-    "address": "Shop No 1, Sufi Restaurant, Neyyattinkara Road, near Hyundai Showroom",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:48.091598"
-  },
-  {
-    "place_id": "0x3b05b1be8442903d:0",
-    "name": "LIFE PHARMA & SURGICALS, NEMOM , PALLICHAL, TRIVANDRUM",
-    "address": "G.S TOWER, Pallichal",
-    "category": "Pharmacy",
-    "phone": "+91 92077 89429",
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:46.706281"
-  },
-  {
-    "place_id": "0x3b05bb0014dd7bab:0",
-    "name": "Saroj ayurcare ayurvedic hospital",
-    "address": "F262+29J",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:45.494785"
-  },
-  {
-    "place_id": "0x3b05bb822aa85715:0",
-    "name": "Anu Ayurvedic Clinic, Nemom",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:44.313223"
-  },
-  {
-    "place_id": "0x3b05baa610d96871:0",
-    "name": "Anu Ayurvedic Clinic",
-    "address": "F234+67J, Vedivachankovil",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 97787 49317",
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:43.124246"
-  },
-  {
-    "place_id": "0x3b05bbcc0a7a7d95:0",
-    "name": "Raj Dental",
-    "address": "F242+9Q3, near Petrol Pumb",
-    "category": "Dental clinic",
-    "phone": "+91 87145 66744",
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:41.884707"
-  },
-  {
-    "place_id": "0x3b05b0077e0b9973:0",
-    "name": "Confidental Multispeciality Dental Clinic",
-    "address": "Pravachambalam Post, NH 66, near State Bank",
-    "category": "Dental clinic",
-    "phone": "+91 94963 24201",
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:40.545298"
-  },
-  {
-    "place_id": "0x3b05bb13f11c858b:0",
-    "name": "The Pink Pearl Dental Care",
-    "address": "Old Karakkamandapam Opposite Mayoori furniture Vellayani",
-    "category": "Dental clinic",
-    "phone": "+91 73068 35116",
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:39.305520"
-  },
-  {
-    "place_id": "0x3b05baa52012a2d1:0",
-    "name": "Ashraya Dental Clinic",
-    "address": "F232+V4J",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:38.064718"
-  },
-  {
-    "place_id": "0x3b05bb81361247a7:0",
-    "name": "Skavia Dental Clinic And Endodontic Centre",
-    "address": "F242+2JM zonal Corporation Office, Jn, near Nemom",
-    "category": "Dental clinic",
-    "phone": "+91 93495 19397",
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:36.802695"
-  },
-  {
-    "place_id": "0x3b05bba1216ffefd:0",
-    "name": "Dr.DAWN’s DENTISTRY",
-    "address": "PDR BUILDING, near KSEB",
-    "category": "Dental implants provider",
-    "phone": "+91 98473 25731",
-    "website": null,
-    "discovered_at": "2026-11-14 01:05:35.487674"
-  },
-  {
-    "place_id": "0x3b05b965b32992fd:0",
-    "name": "Raldia Events",
-    "address": "Opens 9:30 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 00:54:45.071414"
-  },
-  {
-    "place_id": "0x3b05b97acc437fff:0",
-    "name": "Mermaid Beauty Parlour",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 00:54:43.776163"
-  },
-  {
-    "place_id": "0x3b05b96e82fd71c1:0",
-    "name": "Sks Coconut Place",
-    "address": "GXM9+75M",
-    "category": "Grocery store",
-    "phone": "+91 81292 95918",
-    "website": null,
-    "discovered_at": "2026-11-14 00:54:42.493105"
-  },
-  {
-    "place_id": "0x3b05b9827c0e588f:0",
-    "name": "Padmas Fashion",
-    "address": "DPN 27, Masjid Ln",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 00:54:41.056054"
-  },
-  {
-    "place_id": "0x3b05b97437d0f62f:0",
-    "name": "Padma Bakery",
-    "address": "GXV6+487, Civil Station Road",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 00:54:37.106729"
-  },
-  {
-    "place_id": "0x3b05b9fb1bea5e99:0",
-    "name": "KITCHEN HUB",
-    "address": "opposite BSNL Office",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 00:54:35.831669"
-  },
-  {
-    "place_id": "0x3b05b9ceb1ea75c7:0",
-    "name": "LUXE VOYAGES",
-    "address": "VNRA A3b, Vishnu Nagar Road",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 00:54:34.568091"
-  },
-  {
-    "place_id": "0x3b05bba58a8242a1:0",
-    "name": "Special Tuition for Maths & Chemistry",
-    "address": "Thittamangalam, Kundamankadav, Pulari Nagar Rd",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 00:54:34.562908"
-  },
-  {
-    "place_id": "0x3b05b933b2a2fe6f:0",
-    "name": "Centre for Future Studies (C-FUST)",
-    "address": "",
-    "category": "Coaching center",
-    "phone": "+91 94965 84492",
-    "website": null,
-    "discovered_at": "2026-11-14 00:54:34.561302"
-  },
-  {
-    "place_id": "0x3b05bbeae7776421:0",
-    "name": "Hachiko pet boarding",
-    "address": "Vattiyoorkavu - Kulasekharam Rd",
-    "category": "Pet boarding service",
-    "phone": "+91 98958 94723",
-    "website": null,
-    "discovered_at": "2026-11-14 00:46:51.451895"
   }
 ]
