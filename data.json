@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05c97629da047d:0",
+    "name": "Shri Dhanvantri Ayurveda Hospital",
+    "address": "J3GQ+7RM",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:14:46.576220"
+  },
+  {
+    "place_id": "0x3b05c916b54f073b:0",
+    "name": "Govt. Ayurveda dispensare",
+    "address": "Chennanpara, Bus Stop, SH45",
+    "category": "Government office",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:14:45.359095"
+  },
+  {
+    "place_id": "0x3b05afd4bcc23f05:0",
+    "name": "SJ Harisree Ayurveda Clinic & Medical Store",
+    "address": "Vedivachancovil",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 99952 97511",
+    "website": null,
+    "discovered_at": "2026-11-14 13:14:43.975599"
+  },
+  {
+    "place_id": "0x3b06837cb23f238d:0",
+    "name": "RAJAMOULI SKIN & COSMETOLOGY CLINIC",
+    "address": "175-D, Holycross Complex (1st Floor), Near by New Busstand Panjayat Union Office, Madurai - Tenkasi Main Rd",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:14:42.517524"
+  },
+  {
+    "place_id": "0x3b05c7f0d0992ac1:0",
+    "name": "Power Hub Fitness Studio",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:14:41.286506"
+  },
+  {
+    "place_id": "0x3b05c19e22ff6aa9:0",
+    "name": "Perfect Cut Gents Beauty Parlour",
+    "address": "MWC6+PJR",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:14:40.091719"
+  },
+  {
+    "place_id": "0x3b05c10a98a9b277:0",
+    "name": "DRITHA DESIGNS",
+    "address": "Attingal road, near Canara bank",
+    "category": "Boutique",
+    "phone": "+91 88915 12905",
+    "website": null,
+    "discovered_at": "2026-11-14 13:14:38.890001"
+  },
+  {
+    "place_id": "0x3b05c13c33ed45c7:0",
+    "name": "BeCare Multi-specialty Dental Clinic",
+    "address": "AR Tower, Velavoor Rd",
+    "category": "Dental clinic",
+    "phone": "+91 98955 92955",
+    "website": null,
+    "discovered_at": "2026-11-14 13:14:37.636579"
+  },
+  {
     "place_id": "0x3b05c379d2c54ceb:0",
     "name": "Golden bakery",
     "address": "QVFJ+W6F",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:40:43.398311"
-  },
-  {
-    "place_id": "0x880fd353d1c1b689:0",
-    "name": "Bloomingdale's",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:40.962232"
-  },
-  {
-    "place_id": "0x880e2911d740d547:0",
-    "name": "CONFIDENCE Apparel",
-    "address": "600 E Grand Ave #12",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:39.465487"
-  },
-  {
-    "place_id": "0x880e2cadca86b15f:0",
-    "name": "Nordstrom",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:36.762618"
-  },
-  {
-    "place_id": "0x880e2ca52fa95185:0",
-    "name": "AKIRA",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:35.574579"
-  },
-  {
-    "place_id": "0x880e2db5c5684031:0",
-    "name": "Ann Taylor Factory Store",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:34.390210"
-  },
-  {
-    "place_id": "0x880e2ca4d9d48adb:0",
-    "name": "Nordstrom Rack",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:31.369132"
-  },
-  {
-    "place_id": "0x880e2de94fd49e83:0",
-    "name": "UNIQLO State Street",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:28.931525"
-  },
-  {
-    "place_id": "0x880e2db1957aa72f:0",
-    "name": "Pure Green - Juice Bar South Loop",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:27.620589"
   }
 ]
