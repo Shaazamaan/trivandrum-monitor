@@ -1,5 +1,311 @@
 [
   {
+    "place_id": "0x87ee99c4a3a2418d:0",
+    "name": "Gravitate Coworking (East Village)",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:26.370446"
+  },
+  {
+    "place_id": "0x88e7d531a0459d03:0",
+    "name": "Workspace Collective at Fort King",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:25.136880"
+  },
+  {
+    "place_id": "0x87ee995acf59ac49:0",
+    "name": "Elevator Co-Warehousing",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:23.780795"
+  },
+  {
+    "place_id": "0x87ee9ed454fdb1fd:0",
+    "name": "Kathleen Stahl Travel Services Inc.",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:19.638220"
+  },
+  {
+    "place_id": "0x87ee9e0cb8177c81:0",
+    "name": "Agora Events Center",
+    "address": "",
+    "category": "Event venue",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:18.314085"
+  },
+  {
+    "place_id": "0x87ee93c92599f93b:0",
+    "name": "Moments Event Planning",
+    "address": "203 Cedarwood Ct SW",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:17.009547"
+  },
+  {
+    "place_id": "0x87ee937e58d004a5:0",
+    "name": "Enchanted Entertainment LLC",
+    "address": "305 17th Ave SW",
+    "category": "DJ service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:15.703552"
+  },
+  {
+    "place_id": "0x87ee991d742427f9:0",
+    "name": "Bash Events & Catering",
+    "address": "",
+    "category": "Wedding venue",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:14.487435"
+  },
+  {
+    "place_id": "0x87ee9bcaf117fd49:0",
+    "name": "The Bank at The Little Book",
+    "address": "",
+    "category": "Event venue",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:13.184577"
+  },
+  {
+    "place_id": "0x87ee9948a66a357b:0",
+    "name": "The Darlin' Private Beauty Lounge & Micro Event Space",
+    "address": "",
+    "category": "Event venue",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:11.903459"
+  },
+  {
+    "place_id": "0x87ee999de7662239:0",
+    "name": "Chinh Nguyen Realtor",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:10.659374"
+  },
+  {
+    "place_id": "0x87ee99f60e459f1d:0",
+    "name": "Tisha Does Hair at Van Hair Collective",
+    "address": "",
+    "category": "Hairdresser",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:09.227598"
+  },
+  {
+    "place_id": "0x87ee99dcdcb63845:0",
+    "name": "The Hair Space & Gift Botique",
+    "address": "506 E 6th St #300",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:07.916439"
+  },
+  {
+    "place_id": "0x864dd9116c632aa1:0",
+    "name": "Rooms To Go",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:06.668895"
+  },
+  {
+    "place_id": "0x864e72f14da0106b:0",
+    "name": "Arhaus",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:05.451047"
+  },
+  {
+    "place_id": "0x864e0d4964ee3b1d:0",
+    "name": "Simple Things Furniture Company",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:04.005991"
+  },
+  {
+    "place_id": "0x87ee9e03dafaad99:0",
+    "name": "Slumberland Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:02.755609"
+  },
+  {
+    "place_id": "0x87ee9928f9759e77:0",
+    "name": "Silver Fox",
+    "address": "",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:01.403165"
+  },
+  {
+    "place_id": "0x87ee996df19e817b:0",
+    "name": "Shops In Stuff",
+    "address": "",
+    "category": "Thrift store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:51:00.162933"
+  },
+  {
+    "place_id": "0x87ee99ae75faaaab:0",
+    "name": "Janes - Family Shop",
+    "address": "",
+    "category": "Children's store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:58.919035"
+  },
+  {
+    "place_id": "0x87ee99018171e7b3:0",
+    "name": "Local Bites",
+    "address": "",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:57.634335"
+  },
+  {
+    "place_id": "0x87ee99d8504b5b5f:0",
+    "name": "Last Call Kitchen",
+    "address": "",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:56.306398"
+  },
+  {
+    "place_id": "0x87cbb23b2a10e979:0",
+    "name": "Eastside Animal Health Center",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:55.068226"
+  },
+  {
+    "place_id": "0x87cbb2ba6f58d627:0",
+    "name": "Fort Smith Animal Emergency",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:53.830687"
+  },
+  {
+    "place_id": "0x87ee7077a4845d7b:0",
+    "name": "All Pets Animal Hospital",
+    "address": "",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:52.598260"
+  },
+  {
+    "place_id": "0x87ee9c3676659bd9:0",
+    "name": "Animal Medical Clinic: Heyer M H DVM",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:51.369375"
+  },
+  {
+    "place_id": "0x87ee99b1b97c6c17:0",
+    "name": "Hammer Pharmacy",
+    "address": "600 E Grand Ave",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:49.955293"
+  },
+  {
+    "place_id": "0x87ee991e89c5e46f:0",
+    "name": "Integrated Physical Therapy & Sports Medicine",
+    "address": "",
+    "category": "Physical therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:48.524602"
+  },
+  {
+    "place_id": "0x87eea2a399eefb17:0",
+    "name": "Aspen Dental - Des Moines, IA - SE 14th St",
+    "address": "",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:47.078040"
+  },
+  {
+    "place_id": "0x87ee99ae70ab7743:0",
+    "name": "Dental Associates",
+    "address": "",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:45.875111"
+  },
+  {
+    "place_id": "0x87ee974a0171d09f:0",
+    "name": "Fuller Associates Family Dentistry",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:44.548946"
+  },
+  {
+    "place_id": "0x87ee990104e0511b:0",
+    "name": "Downtown Dental Care PLLC",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:43.248740"
+  },
+  {
+    "place_id": "0x87ee98127de652ad:0",
+    "name": "Park Avenue Family Dental",
+    "address": "",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:42.010092"
+  },
+  {
+    "place_id": "0x87ee9ec53eb8a275:0",
+    "name": "dsm salon",
+    "address": "",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:50:40.746757"
+  },
+  {
     "place_id": "0x3b05bbc7522a4db9:0",
     "name": "Adarsh Medicals",
     "address": "KCG TOWERS,T C 26/2602 University Road, Trivandrum 695034",
@@ -8692,311 +8998,5 @@
     "phone": "+91 98470 68404",
     "website": null,
     "discovered_at": "2026-11-14 13:31:21.274066"
-  },
-  {
-    "place_id": "0x3b05bef9aa45b417:0",
-    "name": "Nashee Dental Care",
-    "address": "Near, Aswathy Beauty Parlour Rd",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:20.092469"
-  },
-  {
-    "place_id": "0x3b05bfa89aad7d8b:0",
-    "name": "Smile n Shine Dental Clinic",
-    "address": "HVG9+89Q",
-    "category": "Dental clinic",
-    "phone": "+91 81430 30660",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:18.898732"
-  },
-  {
-    "place_id": "0x3b05bfbe17da435b:0",
-    "name": "Dento Planet",
-    "address": "TC 2/428,429 Chanthavila Junction Kazhakkoottam P.O",
-    "category": "Dental clinic",
-    "phone": "+91 79074 67279",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:17.617595"
-  },
-  {
-    "place_id": "0x3b05bf0018299ecf:0",
-    "name": "Dr Anand's Smile N More Dental and Facial Aesthetic Clinic",
-    "address": "opposite Govt Relief LP School",
-    "category": "Dental clinic",
-    "phone": "+91 90724 36712",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:16.355250"
-  },
-  {
-    "place_id": "0x3b05bff27ca03b33:0",
-    "name": "Doctor M's Dentistry",
-    "address": "near CSI Mission Hospital",
-    "category": "Dental clinic",
-    "phone": "+91 80864 29842",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:15.160518"
-  },
-  {
-    "place_id": "0x3b05e86f6bf7b553:0",
-    "name": "Gopan T P & Associates",
-    "address": "Uthram Complex, Kallambalam - Nagaroor Rd, opposite Irfan Auditorium",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:15.157472"
-  },
-  {
-    "place_id": "0x3b05fd0f3dc7a737:0",
-    "name": "The Design Room",
-    "address": "Ganapathi Nagar 50",
-    "category": "Architecture firm",
-    "phone": "+91 94009 78722",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:13.947877"
-  },
-  {
-    "place_id": "0x3b05e9000e9afbd5:0",
-    "name": "KUNNUMPURATHU VEEDU",
-    "address": "QQ7Q+C6C",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:12.793237"
-  },
-  {
-    "place_id": "0x3b05e982d08850b7:0",
-    "name": "Snehasoudham, Mavinmoodu, Kallambalam PO",
-    "address": "QQ5J+P3Q",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:11.518112"
-  },
-  {
-    "place_id": "0x3b05e9005e84f3a7:0",
-    "name": "Vimal Kallambalam",
-    "address": "QQ5V+P58, National Highway 47",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:10.194628"
-  },
-  {
-    "place_id": "0x3b05e90077802923:0",
-    "name": "PARADISE HASHEER KAVELI LINE KALLAMBALAM",
-    "address": "QQ9V+3P6, Junction",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:08.994600"
-  },
-  {
-    "place_id": "0x3b05e93b0559ec69:0",
-    "name": "F N MANZIL PANAMOOTTIL HOUSE",
-    "address": "+91 86062 23640",
-    "category": "Open 24 hours",
-    "phone": "+91 86062 23640",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:07.771264"
-  },
-  {
-    "place_id": "0x3b05efbc243e2c79:0",
-    "name": "Karna super market",
-    "address": "QP76+G8Q",
-    "category": "Grocery store",
-    "phone": "+91 99950 85966",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:06.591478"
-  },
-  {
-    "place_id": "0x3b0603e56663c495:0",
-    "name": "Dimos Furniture - Karunagappally",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": "+91 90727 21012",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:05.122622"
-  },
-  {
-    "place_id": "0x3b05b9003805ef5d:0",
-    "name": "Home Vibes Furniture & Interiors",
-    "address": "HWHG+5F3 Pothencode - Powdikonam Road, Powdikonam - Vattakarikkakom Rd",
-    "category": "Furniture store",
-    "phone": "+91 94477 93463",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:03.905382"
-  },
-  {
-    "place_id": "0x3b0603204e345861:0",
-    "name": "Dimos Econ Budget Furniture",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": "+91 88910 20207",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:02.638294"
-  },
-  {
-    "place_id": "0x3b05e9c4c0cd7c15:0",
-    "name": "Salam Mobiles",
-    "address": "PRC7+H79, SH 46",
-    "category": "Cell phone accessory store",
-    "phone": "+91 90487 83750",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:01.370870"
-  },
-  {
-    "place_id": "0x3b05c26083ae9d23:0",
-    "name": "AK MOBILES",
-    "address": "PRMX+HGV",
-    "category": "Cell phone store",
-    "phone": "+91 98956 75323",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:00.116000"
-  },
-  {
-    "place_id": "0x3b05e9c4cb0d7aa5:0",
-    "name": "Vogue up designers",
-    "address": "7:30 PM",
-    "category": "Closes soon",
-    "phone": "+91 70348 60323",
-    "website": null,
-    "discovered_at": "2026-11-14 13:30:58.884877"
-  },
-  {
-    "place_id": "0x3b05e977452fb41f:0",
-    "name": "Nianis homemade cakes kallambalam",
-    "address": "Decentmukku - Pulloormukku Rd, near Muslim Jamath",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:30:57.671550"
-  },
-  {
-    "place_id": "0x3b05e91e285a7a93:0",
-    "name": "Persian restaurant",
-    "address": "",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:30:56.319167"
-  },
-  {
-    "place_id": "0x3b05e65c55018111:0",
-    "name": "RK Medicals & Community Pharmacy,",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": "+91 94474 30560",
-    "website": null,
-    "discovered_at": "2026-11-14 13:30:55.096707"
-  },
-  {
-    "place_id": "0x3b05e92b19ce9b1f:0",
-    "name": "Krishna Medicals",
-    "address": "Varkala Kallambalam Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:30:53.779973"
-  },
-  {
-    "place_id": "0x3b05e70f49eb72d3:0",
-    "name": "Janashraya Community Pharmacy, Kulamada",
-    "address": "Closes 9:30 PM",
-    "category": "Open",
-    "phone": "+91 91883 74637",
-    "website": null,
-    "discovered_at": "2026-11-14 13:30:52.625938"
-  },
-  {
-    "place_id": "0x3b05e86fae7b49dd:0",
-    "name": "Sneha Hospital - DANN HEALTHCARE.",
-    "address": "",
-    "category": "Private hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:30:51.354009"
-  },
-  {
-    "place_id": "0x3b05e9feebcc6391:0",
-    "name": "Eyezy optical",
-    "address": "Bus stop, attingal road",
-    "category": "Optician",
-    "phone": "+91 77369 97002",
-    "website": null,
-    "discovered_at": "2026-11-14 13:30:50.108140"
-  },
-  {
-    "place_id": "0x3b05e97ca5c1bb1b:0",
-    "name": "City Max Opticians - Essilor Experts",
-    "address": "Main Road, opposite Varkala Kallambalam Road",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:30:48.911668"
-  },
-  {
-    "place_id": "0x3b05fde4ea86f91f:0",
-    "name": "Serene Derma",
-    "address": "Opens 9 AM Mon",
-    "category": "Closed",
-    "phone": "+91 62827 35837",
-    "website": null,
-    "discovered_at": "2026-11-14 13:30:47.720129"
-  },
-  {
-    "place_id": "0x3b05abd0109f9309:0",
-    "name": "Wedding flora events",
-    "address": "P R Nivas Mukkoluvila Ayira P O",
-    "category": "Event planner",
-    "phone": "+91 85899 56788",
-    "website": null,
-    "discovered_at": "2026-11-14 13:22:07.877997"
-  },
-  {
-    "place_id": "0x3b05c97629da047d:0",
-    "name": "Shri Dhanvantri Ayurveda Hospital",
-    "address": "J3GQ+7RM",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:14:46.576220"
-  },
-  {
-    "place_id": "0x3b05c916b54f073b:0",
-    "name": "Govt. Ayurveda dispensare",
-    "address": "Chennanpara, Bus Stop, SH45",
-    "category": "Government office",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:14:45.359095"
-  },
-  {
-    "place_id": "0x3b05afd4bcc23f05:0",
-    "name": "SJ Harisree Ayurveda Clinic & Medical Store",
-    "address": "Vedivachancovil",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 99952 97511",
-    "website": null,
-    "discovered_at": "2026-11-14 13:14:43.975599"
-  },
-  {
-    "place_id": "0x3b06837cb23f238d:0",
-    "name": "RAJAMOULI SKIN & COSMETOLOGY CLINIC",
-    "address": "175-D, Holycross Complex (1st Floor), Near by New Busstand Panjayat Union Office, Madurai - Tenkasi Main Rd",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:14:42.517524"
-  },
-  {
-    "place_id": "0x3b05c7f0d0992ac1:0",
-    "name": "Power Hub Fitness Studio",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:14:41.286506"
   }
 ]
