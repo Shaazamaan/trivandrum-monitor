@@ -1,5 +1,491 @@
 [
   {
+    "place_id": "0x829e74d2b7356105:0",
+    "name": "Modern Revival Events",
+    "address": "Opens 9 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:41.946737"
+  },
+  {
+    "place_id": "0x87ee8528e8bfffff:0",
+    "name": "The Elements Interiors",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:40.704536"
+  },
+  {
+    "place_id": "0x87eea2bb7184672f:0",
+    "name": "McAfee Realty",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:39.475433"
+  },
+  {
+    "place_id": "0x87ee99ead635dcd9:0",
+    "name": "Uplift Realty",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:38.178090"
+  },
+  {
+    "place_id": "0x87eea23e87ba6977:0",
+    "name": "Iowa Realty - Joe Henry",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:36.931982"
+  },
+  {
+    "place_id": "0x87ee9e167c277ff3:0",
+    "name": "Maple Spa & Massage",
+    "address": "",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:35.549947"
+  },
+  {
+    "place_id": "0x87eea19d67bd8953:0",
+    "name": "vIVid Life Spa",
+    "address": "",
+    "category": "Medical spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:31.421395"
+  },
+  {
+    "place_id": "0x87ee91a2267a5449:0",
+    "name": "Everyday Wellness & Massage",
+    "address": "",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:30.166749"
+  },
+  {
+    "place_id": "0x87ee98a0c068e505:0",
+    "name": "Over Our Heads Salon",
+    "address": "3300 SW 9th St Unit 5",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:28.821450"
+  },
+  {
+    "place_id": "0x87eea2be90700001:0",
+    "name": "Hidden Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:27.351358"
+  },
+  {
+    "place_id": "0x87ee9886c13f1d9f:0",
+    "name": "Anita's Beauty Shop",
+    "address": "4104 SW 9th St",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:26.130998"
+  },
+  {
+    "place_id": "0x87ee9811864c593f:0",
+    "name": "Lorena's Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:24.323924"
+  },
+  {
+    "place_id": "0x87ee98a10f2b3dfb:0",
+    "name": "Fleur Cash Saver Outlet",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:22.996311"
+  },
+  {
+    "place_id": "0x87eea36a0d1dc3a9:0",
+    "name": "ABC FRESHMART",
+    "address": "",
+    "category": "Asian grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:21.781799"
+  },
+  {
+    "place_id": "0x87ee83120ac02767:0",
+    "name": "Furniture Little Lion Eclectics | Vintage | Antiques | Mid Century Modern | Wicker | Furniture | Decor | Gifts",
+    "address": "103 S 2nd St",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:20.553146"
+  },
+  {
+    "place_id": "0x87ee9855875449f3:0",
+    "name": "JG's Old Furniture Systems",
+    "address": "",
+    "category": "Used office furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:19.354579"
+  },
+  {
+    "place_id": "0x87ee9fa5bfeabff9:0",
+    "name": "Cindy's Boutique in Valley Junction",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:17.901240"
+  },
+  {
+    "place_id": "0x87ee82c1cf2c771d:0",
+    "name": "Purple Poppy Boutique - Johnston",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:16.359741"
+  },
+  {
+    "place_id": "0x87ee9de60e5c25fd:0",
+    "name": "Styled. by JJ Boutique",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:15.091604"
+  },
+  {
+    "place_id": "0x87ec210059ae9585:0",
+    "name": "Eleven101 Collective",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:13.657805"
+  },
+  {
+    "place_id": "0x87eea1f174a3322d:0",
+    "name": "Ember Market",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:12.433816"
+  },
+  {
+    "place_id": "0x87ee97701ce95dcb:0",
+    "name": "E 25th Pub & Grub",
+    "address": "",
+    "category": "Bar & grill",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:11.176686"
+  },
+  {
+    "place_id": "0x87f27667dec57cc7:0",
+    "name": "East Lawn Animal Hospital",
+    "address": "2011 1st Ave S",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:09.875523"
+  },
+  {
+    "place_id": "0x87ee85dbcd7e9a69:0",
+    "name": "Wolfe Eye Clinic",
+    "address": "",
+    "category": "Ophthalmology clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:08.614580"
+  },
+  {
+    "place_id": "0x87ee95c3978bed63:0",
+    "name": "Wolfe Eye Clinic",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:07.298121"
+  },
+  {
+    "place_id": "0x87e66f7bb79731c9:0",
+    "name": "The Raj Ayurveda Health Center",
+    "address": "",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:06.077477"
+  },
+  {
+    "place_id": "0x87ee99230202f277:0",
+    "name": "MercyOne Des Moines Riverside Rehabilitation",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:04.659125"
+  },
+  {
+    "place_id": "0x86d6719bc38b6399:0",
+    "name": "Sugar Me Love Aesthetics and Wellness",
+    "address": "",
+    "category": "Waxing hair removal service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:03.429600"
+  },
+  {
+    "place_id": "0x88d901f735455555:0",
+    "name": "Illari Skin",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:02.118623"
+  },
+  {
+    "place_id": "0x88d902177dc37c69:0",
+    "name": "Elias Dermatology",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:15:00.839856"
+  },
+  {
+    "place_id": "0x88d90060b5f74921:0",
+    "name": "Broward Dermatology",
+    "address": "",
+    "category": "Dermatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:59.591085"
+  },
+  {
+    "place_id": "0x88d9ab44c1d3defd:0",
+    "name": "Skin Ritualist",
+    "address": "",
+    "category": "Facial spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:58.328579"
+  },
+  {
+    "place_id": "0x88d901e1424bd3e7:0",
+    "name": "Dolce Medical Spa Las Olas | Facial | Skin Tightening | Microneedling",
+    "address": "",
+    "category": "Facial spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:57.080376"
+  },
+  {
+    "place_id": "0x21e0ce3bfc920829:0",
+    "name": "C.Skin.Care Aesthetics",
+    "address": "",
+    "category": "Facial spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:55.753238"
+  },
+  {
+    "place_id": "0x88d9a6a949095a2f:0",
+    "name": "Flawless Skin & Spa",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:54.463746"
+  },
+  {
+    "place_id": "0x88d9013995546fb3:0",
+    "name": "Flawless Skin RX - Electrolysis Hair Removal",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:53.160184"
+  },
+  {
+    "place_id": "0x88d901c5d8271db3:0",
+    "name": "Natura Dermatology & Cosmetics - Emsculpt Neo, Emface & Emsella Center",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:51.875136"
+  },
+  {
+    "place_id": "0x87ee97a0ff9c3341:0",
+    "name": "SkinFusion FX",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:50.643553"
+  },
+  {
+    "place_id": "0x87ef255ba2c9a20f:0",
+    "name": "Epiphany Dermatology",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:49.441978"
+  },
+  {
+    "place_id": "0x87ee9341b8e9b7a7:0",
+    "name": "RC Dermatology Altoona",
+    "address": "",
+    "category": "Dermatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:47.289737"
+  },
+  {
+    "place_id": "0x87ec213ca236501f:0",
+    "name": "The Iowa Clinic Dermatology - West Des Moines Campus",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:46.054559"
+  },
+  {
+    "place_id": "0x87ee85981ff6ffa7:0",
+    "name": "Forefront Dermatology Ankeny",
+    "address": "",
+    "category": "Dermatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:44.781810"
+  },
+  {
+    "place_id": "0x87ef1d5ac76d4553:0",
+    "name": "Forefront Dermatology",
+    "address": "",
+    "category": "Dermatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:43.514293"
+  },
+  {
+    "place_id": "0x87ec27cc5ceb9601:0",
+    "name": "The Iowa Clinic Dermatology - Grimes",
+    "address": "",
+    "category": "Dermatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:42.319438"
+  },
+  {
+    "place_id": "0x87ee90cd822b024f:0",
+    "name": "Brady Dental Care",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:41.057195"
+  },
+  {
+    "place_id": "0x87ee97417359bc73:0",
+    "name": "East Des Moines Dental.",
+    "address": "",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:39.784066"
+  },
+  {
+    "place_id": "0x87ee9744443c86ab:0",
+    "name": "Hilltop Dental Clinic",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:38.518203"
+  },
+  {
+    "place_id": "0x87ee991eed92dd75:0",
+    "name": "Gateway Dental Group",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:37.193824"
+  },
+  {
+    "place_id": "0x87ee9908aa1f7bb7:0",
+    "name": "Capital View Dentistry",
+    "address": "",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:35.933898"
+  },
+  {
+    "place_id": "0x87eea2bead94de5b:0",
+    "name": "Southside Dental Clinic",
+    "address": "",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:34.569010"
+  },
+  {
+    "place_id": "0x8e7350bf9f936f2d:0",
+    "name": "Emergency Dentist Des Moines",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:33.323984"
+  },
+  {
+    "place_id": "0x87ee981607943bc9:0",
+    "name": "Primary Health Care Dental - BEC",
+    "address": "",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:32.065887"
+  },
+  {
+    "place_id": "0x3b05bbc0bf516e2d:0",
+    "name": "LORA Unisex Wellness & Spa",
+    "address": "Vanchiyoor Rd, opposite Steampot Restaurant",
+    "category": "Spa",
+    "phone": "+91 83018 63913",
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:30.789760"
+  },
+  {
+    "place_id": "0x3b05bb9df0ee9d07:0",
+    "name": "Praana International Spa",
+    "address": "GW5V+FX3, 26/1515, Heera, Law College Rd",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 14:14:29.468665"
+  },
+  {
     "place_id": "0x3b05bc02664be2fd:0",
     "name": "Peter England - Jacobs Building",
     "address": "",
@@ -8512,491 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:45:08.778298"
-  },
-  {
-    "place_id": "0x880e2cae79863669:0",
-    "name": "Streeterville Realty",
-    "address": "405 N Wabash Ave P3n",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:45:07.589560"
-  },
-  {
-    "place_id": "0x880fd34f94af2c9b:0",
-    "name": "Gold Coast Realty Chicago",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:45:05.432945"
-  },
-  {
-    "place_id": "0x880e2c8731634d13:0",
-    "name": "CENTURY 21 S.G.R., Inc.",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:45:03.950654"
-  },
-  {
-    "place_id": "0x880e292a0e60b661:0",
-    "name": "Serene Realty, Inc.",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:45:01.494750"
-  },
-  {
-    "place_id": "0x880fd3930c909705:0",
-    "name": "Chicago Realtor Joe Kotoch Group - Compass Chicago",
-    "address": "55 E Erie St STE 1C",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:58.808935"
-  },
-  {
-    "place_id": "0x660a689b827b08ed:0",
-    "name": "City Living Realty",
-    "address": "220 E Illinois St #4401",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:57.573324"
-  },
-  {
-    "place_id": "0x880e2cac80582339:0",
-    "name": "Ani Real Estate",
-    "address": "605 N Michigan Ave 4th floor",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:55.378938"
-  },
-  {
-    "place_id": "0x880fd32b17384f4d:0",
-    "name": "ALEXANDRIA WARD/EPIQUE REALTY/ FORWARD REALTY TEAM",
-    "address": "122 S Michigan Ave suit 1390",
-    "category": "Real estate consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:52.843287"
-  },
-  {
-    "place_id": "0x880e2d7aef7adf07:0",
-    "name": "Home Easy",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:51.652762"
-  },
-  {
-    "place_id": "0xab6407dc6c14a097:0",
-    "name": "The Nav Agency - Chicago Luxury Real Estate",
-    "address": "Opens 8 AM Sat",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:49.475465"
-  },
-  {
-    "place_id": "0x880fd31df1dc3d4d:0",
-    "name": "Gillman Group",
-    "address": "55 E Erie St #1C",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:46.828722"
-  },
-  {
-    "place_id": "0x880e2d893de4bde9:0",
-    "name": "Dream Sweet Realty",
-    "address": "11 E Hubbard St Ste 402",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:45.614287"
-  },
-  {
-    "place_id": "0x880fc4f791d98e67:0",
-    "name": "Crystal Tran Team",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:43.500253"
-  },
-  {
-    "place_id": "0x880e2d7de3ba7ab1:0",
-    "name": "NB Elite Realty Chicago",
-    "address": "17 E Monroe St Ste 221",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:41.374928"
-  },
-  {
-    "place_id": "0x880e2d6cc16d0b91:0",
-    "name": "KM Realty Group LLC",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:38.962821"
-  },
-  {
-    "place_id": "0x880e2d236a854d19:0",
-    "name": "Get Drivers Ed",
-    "address": "211 W Adams St",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:37.773913"
-  },
-  {
-    "place_id": "0x880e2cae477ec96b:0",
-    "name": "Chuan Spa at The Langham, Chicago",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:36.543232"
-  },
-  {
-    "place_id": "0x880e2cbc17d78473:0",
-    "name": "The Spa at JW Chicago",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:35.299837"
-  },
-  {
-    "place_id": "0x880e2dc78eeb358f:0",
-    "name": "Leaf Spa Chicago",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:31.387557"
-  },
-  {
-    "place_id": "0x880fd351623af8cd:0",
-    "name": "Q Spa Plus",
-    "address": "400 E Randolph St 7th Floor",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:28.824043"
-  },
-  {
-    "place_id": "0x880e2b3efa82b9e5:0",
-    "name": "The One Spa Chicago",
-    "address": "",
-    "category": "Medical spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:27.620708"
-  },
-  {
-    "place_id": "0x880e2d938420b7f1:0",
-    "name": "Organic Spa Chicago",
-    "address": "Phenix Salon, 520 North Michigan Avenue 3rd Floor, Suite 121/122",
-    "category": "Facial spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:25.428223"
-  },
-  {
-    "place_id": "0x880e2cae5d2fa103:0",
-    "name": "Spa at theWit",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:23.211603"
-  },
-  {
-    "place_id": "0x880e2db0cef0309d:0",
-    "name": "The Spa at Trump",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:22.037297"
-  },
-  {
-    "place_id": "0x880e2d05ce1ee011:0",
-    "name": "Ori Massage Spa",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:19.405307"
-  },
-  {
-    "place_id": "0x880fd3206495d303:0",
-    "name": "Relax House",
-    "address": "1009 N Clark St",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:16.819599"
-  },
-  {
-    "place_id": "0x880fd34ca169a713:0",
-    "name": "Chicago Massage and Spa",
-    "address": "34 E Oak St",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:15.630995"
-  },
-  {
-    "place_id": "0x880fd3521afd098d:0",
-    "name": "Waldorf Astoria Spa Chicago",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:14.466642"
-  },
-  {
-    "place_id": "0x880fd37e8bd5fe91:0",
-    "name": "A Plus Spa|Head Spa & Foot Massage",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:11.404400"
-  },
-  {
-    "place_id": "0x880fd35b262495a5:0",
-    "name": "OFF SHORE SPA",
-    "address": "2620 W North Ave",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:08.935804"
-  },
-  {
-    "place_id": "0x880e2da3f9c373cf:0",
-    "name": "Downtown spa",
-    "address": "107 W Van Buren St",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:07.708824"
-  },
-  {
-    "place_id": "0x880e2d8519c1ada9:0",
-    "name": "VELA SPA",
-    "address": "965 W 18th St",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:05.410774"
-  },
-  {
-    "place_id": "0x880e2ca362068ae1:0",
-    "name": "The Spa at Palmer House",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:02.991465"
-  },
-  {
-    "place_id": "0x880e2ceff5249397:0",
-    "name": "Transformation Fitness",
-    "address": "1601 S Halsted St",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:44:01.399929"
-  },
-  {
-    "place_id": "0x880e2da99256204b:0",
-    "name": "5W Strength Club",
-    "address": "2141 S Halsted St",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:58.948242"
-  },
-  {
-    "place_id": "0x880e2d5d6d8a6229:0",
-    "name": "Leblon Fitness Club",
-    "address": "750 N Orleans St #101",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:57.689750"
-  },
-  {
-    "place_id": "0x880e2cbee40f2159:0",
-    "name": "Tone",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:56.513702"
-  },
-  {
-    "place_id": "0x880fd34ace36660b:0",
-    "name": "Lateral Fitness",
-    "address": "314 W Superior St",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:54.307298"
-  },
-  {
-    "place_id": "0x880e2ca95ac00001:0",
-    "name": "LifeStart - 401 N Michigan",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:51.489773"
-  },
-  {
-    "place_id": "0x880e2cc9e1d52175:0",
-    "name": "East Bank Club",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:50.171667"
-  },
-  {
-    "place_id": "0x880e2c97a543b1d5:0",
-    "name": "South Loop Strength & Conditioning",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:48.949132"
-  },
-  {
-    "place_id": "0x880e2caa35c18029:0",
-    "name": "Planet Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:45.434314"
-  },
-  {
-    "place_id": "0x880e2ca8b2d3d821:0",
-    "name": "LifeStart",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:42.799541"
-  },
-  {
-    "place_id": "0x880e2d755cdcdf43:0",
-    "name": "Planet Fitness",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:41.582621"
-  },
-  {
-    "place_id": "0x880e2cb5b64f46c1:0",
-    "name": "STRIVE VILLAGE",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:39.406689"
-  },
-  {
-    "place_id": "0x880e2da918d3dce5:0",
-    "name": "Discover Strength",
-    "address": "",
-    "category": "Personal trainer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:36.978942"
-  },
-  {
-    "place_id": "0x880e2ca89416455d:0",
-    "name": "Lakeshore Sport & Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:35.618557"
-  },
-  {
-    "place_id": "0x880e2d8a25e45ebd:0",
-    "name": "Trump Chicago Fitness Center",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:33.476925"
-  },
-  {
-    "place_id": "0x880e2d937a288a43:0",
-    "name": "Summit Fitness Chicago",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:30.885170"
-  },
-  {
-    "place_id": "0x880e2ca59c580cd9:0",
-    "name": "LA Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:29.538326"
-  },
-  {
-    "place_id": "0x880e2e7af303f84d:0",
-    "name": "Elizabeth's Beauty Salon",
-    "address": "1640 W 47th St suite 1",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:26.901983"
-  },
-  {
-    "place_id": "0x880e2d3b90ac4b93:0",
-    "name": "3rd Coast Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:25.607969"
-  },
-  {
-    "place_id": "0x880e2f352f488057:0",
-    "name": "Nadia's Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:23.430712"
-  },
-  {
-    "place_id": "0x880e2dc5c389913b:0",
-    "name": "Exquisite Beauty Salon.",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:43:21.171489"
   }
 ]
