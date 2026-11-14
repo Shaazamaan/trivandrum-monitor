@@ -1,5 +1,158 @@
 [
   {
+    "place_id": "0x3b05c2dfa17ff95f:0",
+    "name": "Khaima Restaurant",
+    "address": "QV6C+P6M, SH 46",
+    "category": "Biryani restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:21.778574"
+  },
+  {
+    "place_id": "0x3b060b001138f343:0",
+    "name": "VVR & CO Chartered Accountants",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 85906 98960",
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:20.533948"
+  },
+  {
+    "place_id": "0x3b05bb5486ffbfa5:0",
+    "name": "Girish Narayan & Co Chartered Accountants",
+    "address": "Parambil Lane, Pipinmoodu",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:19.240610"
+  },
+  {
+    "place_id": "0x3b060bc645c9337f:0",
+    "name": "SSPSS & Co. Chartered Accountants",
+    "address": "25, Keezhoottu, market, 622, Junction",
+    "category": "Chartered accountant",
+    "phone": "+91 94474 70088",
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:17.946472"
+  },
+  {
+    "place_id": "0x3b0637d5aff06473:0",
+    "name": "T G M & Associates Chartered Accountants",
+    "address": "Op, south indian bank, Kottayam - Kumily Rd, near Civil Station",
+    "category": "Chartered accountant",
+    "phone": "+91 96335 00107",
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:16.615418"
+  },
+  {
+    "place_id": "0x3b0627f64b2eb6b1:0",
+    "name": "Tony Sebastian & Co, Chartered Accountants (GST Registration, CA Valuation, Project Reports, ITR, Partnshp & Company Regn.)",
+    "address": "Rm No. 36, First Floor, Revenue Tower",
+    "category": "Chartered accountant",
+    "phone": "+91 95629 86803",
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:15.385273"
+  },
+  {
+    "place_id": "0x3b05ebfc43817503:0",
+    "name": "AR Associates chirayinkeezhu",
+    "address": "P. O, near sbi",
+    "category": "Accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:14.105117"
+  },
+  {
+    "place_id": "0x465862c044da323:0",
+    "name": "HARITHA MDS",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 94461 05231",
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:10.087742"
+  },
+  {
+    "place_id": "0x3b05ebc271e8695f:0",
+    "name": "AM",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:08.663149"
+  },
+  {
+    "place_id": "0x3b05eb00c49ab29b:0",
+    "name": "S.S Shop chirayinkeezhu",
+    "address": "MR84+QCF, Kunnuvaram Rd",
+    "category": "Store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:07.406535"
+  },
+  {
+    "place_id": "0x3b05eb00302c6105:0",
+    "name": "Moonlight Collections",
+    "address": "MQ7Q+2XC, Chirayinkeezhu - Attingal Rd",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:06.175909"
+  },
+  {
+    "place_id": "0x3b05eb0059ba7eeb:0",
+    "name": "Meorah",
+    "address": "MQ9X+7FM",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:04.842314"
+  },
+  {
+    "place_id": "0x3b05ea4facd6816b:0",
+    "name": "Santhosh Colllections",
+    "address": "MQ6Q+Q99",
+    "category": "Dress store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:03.638012"
+  },
+  {
+    "place_id": "0x3b05ea5133ceadd7:0",
+    "name": "Sarkara Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:02.402253"
+  },
+  {
+    "place_id": "0x3b05eb003f1ddba5:0",
+    "name": "Maniji Kitchens Veettile Oonu",
+    "address": "JRQ5+M9X, Chirayinkeezhu Kaniyapuram Rd",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:24:01.185015"
+  },
+  {
+    "place_id": "0x3b05eb2dca191f05:0",
+    "name": "X-ray Vakkom Diagnostic Lab",
+    "address": "Hospital Road",
+    "category": "Medical diagnostic imaging center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:23:59.657790"
+  },
+  {
+    "place_id": "0x3b05ebdfb461762f:0",
+    "name": "LABLINE HEALTHCARE DIAGNOSTICS",
+    "address": "HOSPITAL, JUNCTION",
+    "category": "Medical diagnostic imaging center",
+    "phone": "+91 98954 61120",
+    "website": null,
+    "discovered_at": "2026-11-14 01:23:58.426942"
+  },
+  {
     "place_id": "0x3b05bb639346adc5:0",
     "name": "Joyful events (exquisite)",
     "address": "valiathura, Thiruvananthapuram Airport Exit Rd",
@@ -8845,158 +8998,5 @@
     "phone": "+91 94968 32368",
     "website": null,
     "discovered_at": "2026-11-13 21:46:38.858274"
-  },
-  {
-    "place_id": "0x3b05b9aef2ecb9ef:0",
-    "name": "Agapè Dental Clinic",
-    "address": "TC 18/180, Agapѐ Dental Clinic, T.K, Divakaran Road",
-    "category": "Dental clinic",
-    "phone": "+91 80729 57224",
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:37.467211"
-  },
-  {
-    "place_id": "0x3b05bbb423068c5b:0",
-    "name": "Dentorio Multispeciality Dental Clinic, Pipinmoodu, Sasthamangalam",
-    "address": "Opens 9:30 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:36.210300"
-  },
-  {
-    "place_id": "0x3b05b96440000001:0",
-    "name": "PERFECT SMILES DENTAL STUDIO",
-    "address": "Post Office, near Muttada",
-    "category": "Dental clinic",
-    "phone": "+91 94973 65848",
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:34.925839"
-  },
-  {
-    "place_id": "0x897b61f40e6efdf7:0",
-    "name": "Mizpah Dental and Poly Clinic",
-    "address": "6th Stone Eanikkara",
-    "category": "Dental clinic",
-    "phone": "+91 99613 55771",
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:33.677500"
-  },
-  {
-    "place_id": "0x3b05b96b178e6f1f:0",
-    "name": "Dental Studio",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": "+91 97444 92679",
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:32.437621"
-  },
-  {
-    "place_id": "0x3b05b90b16d40757:0",
-    "name": "Teeth n' Gums",
-    "address": "Indeevaram, Krishna Nagar Rd",
-    "category": "Dental clinic",
-    "phone": "+91 96335 38320",
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:31.160763"
-  },
-  {
-    "place_id": "0x865c59710e2da70f:0",
-    "name": "Urban Office - Southtown",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:29.926916"
-  },
-  {
-    "place_id": "0x865c5f7dcf38cf8d:0",
-    "name": "SA Cowork",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:26.248123"
-  },
-  {
-    "place_id": "0x865cf5773b1854af:0",
-    "name": "Paradox Conference Coworking Coffee",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:25.054981"
-  },
-  {
-    "place_id": "0x865c5faa02dfe88d:0",
-    "name": "Venture X",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:23.670271"
-  },
-  {
-    "place_id": "0x865c61d89428e2eb:0",
-    "name": "Project Cowork - Central",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:22.385193"
-  },
-  {
-    "place_id": "0x865c616c097d4433:0",
-    "name": "Project Cowork - Castle Hills",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:21.106853"
-  },
-  {
-    "place_id": "0x865cf536f8b43543:0",
-    "name": "Pearl Cowork",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:19.735861"
-  },
-  {
-    "place_id": "0x865c5f82a9891423:0",
-    "name": "Sara Walker Private Events (S.W.E.)",
-    "address": "1507 N St Mary's St",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:18.445655"
-  },
-  {
-    "place_id": "0x89b64de9f74c8275:0",
-    "name": "Alison Giese Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:17.223026"
-  },
-  {
-    "place_id": "0x865c89ff36086b83:0",
-    "name": "The Inside Story Design, LLC",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:15.229993"
-  },
-  {
-    "place_id": "0x3b05b99e8215dd67:0",
-    "name": "Theertham Jewellers",
-    "address": "Nettayam - Mampazhakunnu Rd",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:46:13.980558"
   }
 ]
