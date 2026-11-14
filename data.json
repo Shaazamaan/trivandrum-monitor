@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05af003305149f:0",
+    "name": "Police sahakarana medical store neyyattinkara",
+    "address": "C34J+FV7, TB Junction-Hospital Jct Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 20:37:52.942403"
+  },
+  {
+    "place_id": "0x3b05af65b26221b1:0",
+    "name": "Dr Anil's Scan and Diagnostics",
+    "address": "Hospital Junction",
+    "category": "Medical Center",
+    "phone": "+91 85904 40990",
+    "website": null,
+    "discovered_at": "2026-11-14 20:37:51.764628"
+  },
+  {
+    "place_id": "0x3b05c197dbeba541:0",
+    "name": "Sai Gramam",
+    "address": "",
+    "category": "Non-profit organization",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 20:37:50.606247"
+  },
+  {
+    "place_id": "0x3b05e9eb517d1ad7:0",
+    "name": "Nandhana Homeos",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 94969 33881",
+    "website": null,
+    "discovered_at": "2026-11-14 20:37:49.266821"
+  },
+  {
     "place_id": "0x3b05ef00737b6c49:0",
     "name": "SANDY BEACH TOY SUPERMARKET",
     "address": "PPM4+77X",
@@ -8962,41 +8998,5 @@
     "phone": "+91 98479 90383",
     "website": null,
     "discovered_at": "2026-11-14 12:11:25.588830"
-  },
-  {
-    "place_id": "0x3b05a54bfea6ff6d:0",
-    "name": "First choice travel assistant",
-    "address": "Closes 12 AM",
-    "category": "Open",
-    "phone": "+91 90207 05020",
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:24.320336"
-  },
-  {
-    "place_id": "0x3b05a5bb9c250d4d:0",
-    "name": "Kovalam Houseboat Tours - Poovar Backwater Boat Trips",
-    "address": "Light House Rd",
-    "category": "Sightseeing tour agency",
-    "phone": "+91 98478 72028",
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:23.116352"
-  },
-  {
-    "place_id": "0x3b05af70be07d27d:0",
-    "name": "Lallu Cab and Travels",
-    "address": "Anugraha Villa Kottukalkonam",
-    "category": "Travel agency",
-    "phone": "+91 95442 25187",
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:21.719480"
-  },
-  {
-    "place_id": "0x3b05a5000fd2eaf9:0",
-    "name": "Purple Tours & Travels",
-    "address": "9XMJ+8QG, Light House Rd",
-    "category": "Tour operator",
-    "phone": "+91 95677 73392",
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:20.517553"
   }
 ]
