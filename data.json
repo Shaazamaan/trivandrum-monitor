@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b982d332471d:0",
+    "name": "Rani Textiles",
+    "address": "GXP8+PMG",
+    "category": "Clothing store",
+    "phone": "+91 98479 89141",
+    "website": null,
+    "discovered_at": "2026-11-14 06:54:22.171998"
+  },
+  {
+    "place_id": "0x3b05ba3b1d342def:0",
+    "name": "Pounchik Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:54:20.893842"
+  },
+  {
+    "place_id": "0x3b05bb64341c41ef:0",
+    "name": "Unni Medicals",
+    "address": "GXGQ+2H6, Maruthunkuzhi Kachani Rd",
+    "category": "Pharmacy",
+    "phone": "+91 79078 35760",
+    "website": null,
+    "discovered_at": "2026-11-14 06:54:19.678051"
+  },
+  {
     "place_id": "0x3b05c0a2e9772cbf:0",
     "name": "Revathy Computers",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": "+91 92495 68777",
     "website": null,
     "discovered_at": "2026-11-14 02:55:41.602697"
-  },
-  {
-    "place_id": "0x3b05bb4b7c5bd38d:0",
-    "name": "Sapphire Hometech",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:49:05.842170"
-  },
-  {
-    "place_id": "0x3b05b9063df52e43:0",
-    "name": "BETHEL PAY AND PARK",
-    "address": "Kavitha Building",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:49:03.534850"
-  },
-  {
-    "place_id": "0x3b05bbfd4cf7531b:0",
-    "name": "Indian Coffee House",
-    "address": "Government Medical College, Thiruvananthapuram",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:49:02.216340"
   }
 ]
