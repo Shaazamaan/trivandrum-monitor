@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05b92d6be8bbb5:0",
+    "name": "S M fashion jewellers",
+    "address": "Nedumangad Town Rd",
+    "category": "Jewelry store",
+    "phone": "+91 94471 46147",
+    "website": null,
+    "discovered_at": "2026-11-14 12:03:27.829409"
+  },
+  {
+    "place_id": "0x3b05b98f14ebdab9:0",
+    "name": "District panchayat Medical Store",
+    "address": "J232+975 Hospital, Junction",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:03:26.513617"
+  },
+  {
+    "place_id": "0x3b05af0023fd998d:0",
+    "name": "Bhavyas Wedding Studio & Event Planners",
+    "address": "C36X+27H",
+    "category": "Photography studio",
+    "phone": "+91 95625 73395",
+    "website": null,
+    "discovered_at": "2026-11-14 12:03:25.066374"
+  },
+  {
+    "place_id": "0x3b05ae620db7221f:0",
+    "name": "Mahima Beauty Parlour",
+    "address": "Convent Road",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:03:23.497206"
+  },
+  {
+    "place_id": "0x3b05af02d3b73a07:0",
+    "name": "PASSION BEAUTY PARLOUR",
+    "address": "Vismaya Bakery, ASIFF CENTRE ALUMOODU NEYYATTINKARA",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:03:21.990634"
+  },
+  {
     "place_id": "0x3b05af95010e404f:0",
     "name": "SIVABHADRA AYURVEDA CLINIC",
     "address": "Closes 7:30 PM",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:37:20.916235"
-  },
-  {
-    "place_id": "0x8806742b65abcf29:0",
-    "name": "Fort HealthCare Dermatology",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:19.724226"
-  },
-  {
-    "place_id": "0x880e3b44cce34ee9:0",
-    "name": "SkinMD, LLC - Evergreen Park",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:18.559888"
-  },
-  {
-    "place_id": "0x880fcc62685b15c1:0",
-    "name": "Chicago Skin Clinic",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:17.366814"
-  },
-  {
-    "place_id": "0x880e2d4aeef177a3:0",
-    "name": "Tone Dermatology - Dr. Caroline Robinson, MD, FAAD",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:16.193463"
-  },
-  {
-    "place_id": "0x880fd3f808b77b19:0",
-    "name": "Illinois Skin Center",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:15.013009"
   }
 ]
