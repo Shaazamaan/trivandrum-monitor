@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05e9f74de96fff:0",
+    "name": "Prathibha Textiles",
+    "address": "Katcheri Junction",
+    "category": "Clothing store",
+    "phone": "+91 99955 22462",
+    "website": null,
+    "discovered_at": "2026-11-14 17:41:42.574404"
+  },
+  {
     "place_id": "0x3b05eed57258fb15:0",
     "name": "Daddy Wear Mart",
     "address": "Ayurveda Hospital Junction",
@@ -8989,14 +8998,5 @@
     "phone": "+91 80867 89222",
     "website": null,
     "discovered_at": "2026-11-14 09:08:08.270873"
-  },
-  {
-    "place_id": "0x3b05bbb29cf0bacd:0",
-    "name": "Dr Alitta s Dental Clinic",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:08:06.936916"
   }
 ]
