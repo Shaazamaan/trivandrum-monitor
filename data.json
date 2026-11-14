@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b05c1dc4fb9f1ab:0",
+    "name": "Safer Learning center",
+    "address": "Kunnil hypermarket road",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 10:19:20.729874"
+  },
+  {
+    "place_id": "0x3b05c1d1499a58c1:0",
+    "name": "PIZZA PIN VENJARAMOOD",
+    "address": "THANDRANPOIKA,SH 1, THARANGINI PLAZA",
+    "category": "Pizza restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 10:19:18.939607"
+  },
+  {
+    "place_id": "0x3b05c10044516269:0",
+    "name": "Century medicals",
+    "address": "MWH6+9CP, East Rd",
+    "category": "Pharmacy",
+    "phone": "+91 98959 44353",
+    "website": null,
+    "discovered_at": "2026-11-14 10:19:17.746986"
+  },
+  {
+    "place_id": "0x3b05c0d973273b6f:0",
+    "name": "Kerala State Beverages Corporation Limited",
+    "address": "",
+    "category": "Liquor store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 10:19:16.577815"
+  },
+  {
+    "place_id": "0x3b05c37eb63f9c97:0",
+    "name": "Toyo Wheels",
+    "address": "823/b/12 Retnas, MC Rd",
+    "category": "Wheel alignment service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 10:19:15.419420"
+  },
+  {
+    "place_id": "0x3b05e86f6f54fec3:0",
+    "name": "IRFAN CONVENTION CENTRE",
+    "address": "",
+    "category": "Auditorium",
+    "phone": "+91 82816 90444",
+    "website": null,
+    "discovered_at": "2026-11-14 10:19:14.090176"
+  },
+  {
+    "place_id": "0x3b05dd004f70b443:0",
+    "name": "Taknaf",
+    "address": "RVFJ+FXF",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 10:19:12.918809"
+  },
+  {
+    "place_id": "0x3b05ddaf04b4cc4b:0",
+    "name": "Weber The Furnishing Studio",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": "+91 99465 26140",
+    "website": null,
+    "discovered_at": "2026-11-14 10:19:11.766713"
+  },
+  {
+    "place_id": "0x3b05c35a057afb2d:0",
+    "name": "Concept Academy - Kilimanoor | Spoken English | English Language Training Institute",
+    "address": "Gala Tower, opposite Private Bus Stand",
+    "category": "English language school",
+    "phone": "+91 62827 50052",
+    "website": null,
+    "discovered_at": "2026-11-14 10:19:10.583019"
+  },
+  {
     "place_id": "0x3b05dd0e87fef71d:0",
     "name": "MS Tea Shop (Oru Yamandan Chaayakkada)",
     "address": "QVQJ+9VC",
@@ -8917,86 +8998,5 @@
     "phone": "+91 96333 16024",
     "website": null,
     "discovered_at": "2026-11-14 04:40:50.404846"
-  },
-  {
-    "place_id": "0x3b05c1989ff49ddb:0",
-    "name": "Dr sudin's care dental clinic chemboor",
-    "address": "Dr sudin's care dental clinic",
-    "category": "Dental clinic",
-    "phone": "+91 91096 32621",
-    "website": null,
-    "discovered_at": "2026-11-14 04:40:50.403440"
-  },
-  {
-    "place_id": "0x3b05bf92c5e8029f:0",
-    "name": "Dr. Sujith's Moopans Multi Speciality Dental Clinic",
-    "address": "Closes 7:30 PM",
-    "category": "Open",
-    "phone": "+91 98474 80513",
-    "website": null,
-    "discovered_at": "2026-11-14 04:40:50.402292"
-  },
-  {
-    "place_id": "0x3b05dd11afccfe15:0",
-    "name": "Dr Aswathy's Dental Care",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": "+91 90747 50297",
-    "website": null,
-    "discovered_at": "2026-11-14 04:40:50.401124"
-  },
-  {
-    "place_id": "0x3b05c9ede1156219:0",
-    "name": "Thavakkal Waterfalls, Vithura Palode",
-    "address": "",
-    "category": "Tourist attraction",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:40:49.138636"
-  },
-  {
-    "place_id": "0x3b05c9ca78f76af9:0",
-    "name": "Jeenaas Makeover Studio",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:40:47.829003"
-  },
-  {
-    "place_id": "0x3b05c900541bf61f:0",
-    "name": "Steps Footwear & Bags",
-    "address": "M3FR+GCW, Market",
-    "category": "Shoe store",
-    "phone": "+91 70251 57800",
-    "website": null,
-    "discovered_at": "2026-11-14 04:33:53.343173"
-  },
-  {
-    "place_id": "0x3b05c98140b14871:0",
-    "name": "Kombans",
-    "address": "Vithura",
-    "category": "Men's clothing store",
-    "phone": "+91 79029 88451",
-    "website": null,
-    "discovered_at": "2026-11-14 04:33:52.130983"
-  },
-  {
-    "place_id": "0x3b05c9a99c03c85d:0",
-    "name": "Mass bakery and fresh juice",
-    "address": "M3FH+C4F, Mele koppam",
-    "category": "Bakery",
-    "phone": "+91 83300 21492",
-    "website": null,
-    "discovered_at": "2026-11-14 04:33:50.911907"
-  },
-  {
-    "place_id": "0x3b05cdcd00c4aaa7:0",
-    "name": "Sivas Thattukada",
-    "address": "26th mile stone",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:33:49.678244"
   }
 ]
