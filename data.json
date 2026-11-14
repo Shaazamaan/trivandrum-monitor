@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bf001fc565ed:0",
+    "name": "Plate house",
+    "address": "JV9W+JP7",
+    "category": "Kitchen supply store",
+    "phone": "+91 94471 55086",
+    "website": null,
+    "discovered_at": "2026-11-14 15:16:19.916592"
+  },
+  {
+    "place_id": "0x3b05ab67c8eb2389:0",
+    "name": "Greentrendz Interiors",
+    "address": "",
+    "category": "Interior architect office",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 15:16:18.717947"
+  },
+  {
+    "place_id": "0x3b05ab004da5be29:0",
+    "name": "Variety super market",
+    "address": "85PC+45M, Salem-Kanyakumari Highway",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 15:16:16.839225"
+  },
+  {
+    "place_id": "0x3b05acea18135cb9:0",
+    "name": "KRISHNA JEWELLERY",
+    "address": "95PC+X29, Parassala Vellarada Rd",
+    "category": "Jewelry store",
+    "phone": "+91 94476 58214",
+    "website": null,
+    "discovered_at": "2026-11-14 15:16:15.438223"
+  },
+  {
     "place_id": "0x3b05abe4bd596eb1:0",
     "name": "Super medical mart",
     "address": "2/86j,2/86k,2/86L Ground floor,al shifa complex",
@@ -8962,41 +8998,5 @@
     "phone": "+91 94464 42130",
     "website": null,
     "discovered_at": "2026-11-14 06:24:04.610258"
-  },
-  {
-    "place_id": "0x3b05a56863c3f023:0",
-    "name": "shiva ayurveda centre",
-    "address": "CX3J+7JG hotel neelakanta",
-    "category": "Alternative medicine clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:24:03.408407"
-  },
-  {
-    "place_id": "0x3b05af0042764eeb:0",
-    "name": "Smile Square Multi-speciality Dental Clinic",
-    "address": "C29C+HCP, Pallichal - Vizhinjam Rd",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:24:02.089623"
-  },
-  {
-    "place_id": "0x3b05c7f645cdfa71:0",
-    "name": "BSNL Telephone Exchange Nedumangad",
-    "address": "JX7W+V2W, Nedumangad Vembayam Road",
-    "category": "Telephone exchange",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:23:59.758803"
-  },
-  {
-    "place_id": "0x3b05b9ee36a3c639:0",
-    "name": "Oriental Associates LLP",
-    "address": "Royal Plazza, Valicode Nedumangad Nedumangad P O",
-    "category": "Tax consultant",
-    "phone": "+91 96569 92393",
-    "website": null,
-    "discovered_at": "2026-11-14 06:23:58.576713"
   }
 ]
