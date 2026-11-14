@@ -1,5 +1,329 @@
 [
   {
+    "place_id": "0x880e2decdc897c89:0",
+    "name": "Mox.E Coworking",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:27.453136"
+  },
+  {
+    "place_id": "0x880fd2d0290c6f9b:0",
+    "name": "Prism Spaces",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:26.215721"
+  },
+  {
+    "place_id": "0x880fd3515bc896d9:0",
+    "name": "Coworkyard Office Mag Mile Center",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:25.046675"
+  },
+  {
+    "place_id": "0x880e2db0ecb6aadd:0",
+    "name": "The Space Together",
+    "address": "1727 W Grand Ave Upstairs",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:23.796884"
+  },
+  {
+    "place_id": "0x880e2cc80bf08f67:0",
+    "name": "Servcorp River Point - Coworking, Office Suites & Virtual Offices",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:22.533256"
+  },
+  {
+    "place_id": "0x880fd32751062c3b:0",
+    "name": "Workbox Chicago - Gold Coast",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:21.311596"
+  },
+  {
+    "place_id": "0x880e4f5ffe78f9df:0",
+    "name": "Paris Events",
+    "address": "505 N La Salle Dr Ste 550",
+    "category": "Wedding planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:20.023746"
+  },
+  {
+    "place_id": "0x880e2d486a55779b:0",
+    "name": "Mia Rao Design",
+    "address": "2003 W Fulton St #501",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:18.764793"
+  },
+  {
+    "place_id": "0x880e2d75321c5311:0",
+    "name": "Iv Design",
+    "address": "545 N McClurg Ct",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:17.555345"
+  },
+  {
+    "place_id": "0x880e4949ea293c2f:0",
+    "name": "House of Mondi",
+    "address": "1517 W Carroll Ave",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:16.351367"
+  },
+  {
+    "place_id": "0x80dd314e4ffd2e9d:0",
+    "name": "Design & Manage",
+    "address": "1221 N Dearborn St",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:15.041863"
+  },
+  {
+    "place_id": "0x880e2c9bba15205d:0",
+    "name": "DGI Design x Build (Devon Grace Interiors)",
+    "address": "2140 W Fulton St Ste 2F",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:10.626524"
+  },
+  {
+    "place_id": "0x880e2cd8dcf4b37f:0",
+    "name": "OUTLINE INTERIORS",
+    "address": "1142 W Madison St #203",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:09.160879"
+  },
+  {
+    "place_id": "0x880e2cb2e8f3b493:0",
+    "name": "Interior Chicago",
+    "address": "55 W Erie St",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:05.427129"
+  },
+  {
+    "place_id": "0x880e2dac9737f6ad:0",
+    "name": "Chicagoland Interior Designer",
+    "address": "600 W Fulton St Ste 700",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:04.162714"
+  },
+  {
+    "place_id": "0x880fd338a96ad721:0",
+    "name": "Habitar Design",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:02.894523"
+  },
+  {
+    "place_id": "0x880fc552b3482a27:0",
+    "name": "Amy Kartheiser Design",
+    "address": "311 W Superior St #514",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:01.649802"
+  },
+  {
+    "place_id": "0x880e2ca236dd3a3b:0",
+    "name": "CCS Interior Design Group",
+    "address": "332 S Michigan Ave #121",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:32:00.457184"
+  },
+  {
+    "place_id": "0x880fd2102db72809:0",
+    "name": "Kuchar",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:59.238676"
+  },
+  {
+    "place_id": "0x880e2c306b0a2843:0",
+    "name": "Divas N' Design Interior Design Group",
+    "address": "444 N Michigan Ave #1200",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:57.969791"
+  },
+  {
+    "place_id": "0x3b05a9b70879cabd:0",
+    "name": "Hallelujah Fruits And Juice Parlor",
+    "address": "Hallelujah Fruits And Juice Parlor, Poovar - Vizhinjam Rd",
+    "category": "Fruit and vegetable store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:56.740251"
+  },
+  {
+    "place_id": "0x3b05bb22d8ad4fe5:0",
+    "name": "Taste Bakery Poojappura",
+    "address": "Insurance Point, Jagathy Bridge, near Kerala Bank",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:55.519626"
+  },
+  {
+    "place_id": "0x3b05a9007e7a3217:0",
+    "name": "Ashwas community pharmacy",
+    "address": "838X+73C, Parassala - Kollemcode - Poovar - Kovalam Rd",
+    "category": "Pharmacy",
+    "phone": "+91 80750 19291",
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:54.219470"
+  },
+  {
+    "place_id": "0x880e253ea715bad7:0",
+    "name": "Chicagoland Eye Associates",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:53.012328"
+  },
+  {
+    "place_id": "0x880e39ff2236d059:0",
+    "name": "Vision Care Center - Commons Of Chicago Ridge",
+    "address": "",
+    "category": "Optometrist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:51.730598"
+  },
+  {
+    "place_id": "0x3b05a5dffa2203a5:0",
+    "name": "Osmo Holidays (OPC) Private Limited",
+    "address": "V Square, Vellar Junction, Kovalam PO, TC 67/2245(4, GV Raja Rd",
+    "category": "Tour operator",
+    "phone": "+91 87148 48685",
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:50.531664"
+  },
+  {
+    "place_id": "0x3b05a5bacb09cc2b:0",
+    "name": "Keralatours Travels & Organic Remedies | KeralaToursGlobal",
+    "address": "Closes 8 PM",
+    "category": "Open",
+    "phone": "+91 95395 07516",
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:49.330030"
+  },
+  {
+    "place_id": "0x880fd2938b7b4efb:0",
+    "name": "Anthony Michael Interior Design",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:48.023170"
+  },
+  {
+    "place_id": "0x3b05a547ccfae461:0",
+    "name": "CDIT INSTITUTE VENGANOOR",
+    "address": "Near Girls Higher Secondary School, opp. Manglavil Hyper Market",
+    "category": "Educational institution",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:46.754816"
+  },
+  {
+    "place_id": "0x3b05a5988d05f1bb:0",
+    "name": "Data Point",
+    "address": "9XRQ+6F6",
+    "category": "Computer training school",
+    "phone": "+91 90611 24354",
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:45.469903"
+  },
+  {
+    "place_id": "0x3b05a5c0aa94fff5:0",
+    "name": "Ayurvedic Massage Centre",
+    "address": "Tc 63 912",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:44.217062"
+  },
+  {
+    "place_id": "0x3b05a5d282e5ac97:0",
+    "name": "N beauty studios",
+    "address": "Samudra Beach, park",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:42.979156"
+  },
+  {
+    "place_id": "0x3b05af57a4757415:0",
+    "name": "CHAKRA VINTAGE SHOP",
+    "address": "Closes 9:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:41.800349"
+  },
+  {
+    "place_id": "0x3b05a5d3ecdefc21:0",
+    "name": "House of Sujata Authorised Dealer - Oasis Enterprises Home Appliances Store | Fans & Geysers",
+    "address": "Vellar Junction, VRP 1/40 & 41",
+    "category": "Appliance store",
+    "phone": "+91 95390 03580",
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:40.189312"
+  },
+  {
+    "place_id": "0x3b05afb4091f3265:0",
+    "name": "Happy Foams",
+    "address": "C382+HJX, Balaramapuram - Poovar Rd",
+    "category": "Furniture store",
+    "phone": "+91 94474 96706",
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:38.914205"
+  },
+  {
+    "place_id": "0x3b05af7656a49a6d:0",
+    "name": "SHIVANYA MOBILES",
+    "address": "Payattuvila Nellimoodu Rd",
+    "category": "Cell phone store",
+    "phone": "+91 90374 64733",
+    "website": null,
+    "discovered_at": "2026-11-14 06:31:37.665152"
+  },
+  {
     "place_id": "0x3b05a553c4fcebc7:0",
     "name": "JAZZ FRESH JUICE",
     "address": "Tc 62, 1048 Theatre Jn, Vizhinjam St, opp. Raahath Hotel",
@@ -8674,329 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 02:48:39.939566"
-  },
-  {
-    "place_id": "0x87e61c2887261de9:0",
-    "name": "Curtis Architecture & Design P.C.",
-    "address": "",
-    "category": "Architect",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:37.566712"
-  },
-  {
-    "place_id": "0x87ee99354a6b1afb:0",
-    "name": "Sequel Architecture + Interiors",
-    "address": "",
-    "category": "Architect",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:36.125257"
-  },
-  {
-    "place_id": "0x87ee934ee1e118e7:0",
-    "name": "Next Door Real Estate Team",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:33.864486"
-  },
-  {
-    "place_id": "0x6fdd5e986ab91343:0",
-    "name": "Mark Lane Real Estate",
-    "address": "Opens 9 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:31.381624"
-  },
-  {
-    "place_id": "0x87ee99ff078a8b19:0",
-    "name": "Jana Severson, Realtor®",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:29.976142"
-  },
-  {
-    "place_id": "0x87ee9af2eb100001:0",
-    "name": "CDL-Now",
-    "address": "",
-    "category": "Truck driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:27.166830"
-  },
-  {
-    "place_id": "0x87ee918153bdec9f:0",
-    "name": "Professional Driving Academy",
-    "address": "",
-    "category": "Truck driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:25.907343"
-  },
-  {
-    "place_id": "0x87ee999660bed52d:0",
-    "name": "Exale Spa",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:23.289525"
-  },
-  {
-    "place_id": "0x87ee9d8237d48e65:0",
-    "name": "Emerald Massage",
-    "address": "",
-    "category": "Massage therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:21.925185"
-  },
-  {
-    "place_id": "0x87ec21bbb79f3f95:0",
-    "name": "Cherry Bliss Massage & Head Spa",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:20.546049"
-  },
-  {
-    "place_id": "0x87ee9e05986f8219:0",
-    "name": "Serendipity Spa",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:19.271295"
-  },
-  {
-    "place_id": "0x87ee9ed4241908df:0",
-    "name": "Massage Heights Ingersoll",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:17.801523"
-  },
-  {
-    "place_id": "0x87ee995979a31b65:0",
-    "name": "Empeiria Sauna House",
-    "address": "2201 George Flagg Pkwy",
-    "category": "Public sauna",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:16.531867"
-  },
-  {
-    "place_id": "0x87ee9393c55adfd7:0",
-    "name": "Rejuvenation Station Massage Therapy",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:15.211804"
-  },
-  {
-    "place_id": "0x87ee975766eb324b:0",
-    "name": "Body Soul Massage",
-    "address": "2355 E University Ave #101",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:13.915614"
-  },
-  {
-    "place_id": "0x87ee99c6305281c5:0",
-    "name": "Pure Restore Spa",
-    "address": "",
-    "category": "Day spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:12.585170"
-  },
-  {
-    "place_id": "0x87ee99062b1909d5:0",
-    "name": "Shiatsu Spa",
-    "address": "3011 SE 14th St",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:11.109458"
-  },
-  {
-    "place_id": "0x87ee99fb303359a5:0",
-    "name": "Integrated Spa & Wellness",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:09.704926"
-  },
-  {
-    "place_id": "0x87ee997702b87067:0",
-    "name": "Serenity Vibe Spa",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:08.394902"
-  },
-  {
-    "place_id": "0x87ee99274c732703:0",
-    "name": "Sun Massage Spa",
-    "address": "1130 E 9th St",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:07.112486"
-  },
-  {
-    "place_id": "0x87ee99dc10b45c8d:0",
-    "name": "Eden Spa",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:04.537432"
-  },
-  {
-    "place_id": "0x87eea20aea39c94d:0",
-    "name": "Hy-Vee Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:03.280349"
-  },
-  {
-    "place_id": "0x87ee9ea7c47c398b:0",
-    "name": "Anytime Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:01.946379"
-  },
-  {
-    "place_id": "0x87ee8549802d71c1:0",
-    "name": "Elite Edge Gym Ankeny",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:00.655770"
-  },
-  {
-    "place_id": "0x87eebf975a4b7ad1:0",
-    "name": "24/7 Fitness",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:59.394908"
-  },
-  {
-    "place_id": "0x87ee98fed3025d9b:0",
-    "name": "Black Collar Crossfit",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:57.683074"
-  },
-  {
-    "place_id": "0x87eebd4555555501:0",
-    "name": "Planet Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:56.408250"
-  },
-  {
-    "place_id": "0x87ee992abec6b52b:0",
-    "name": "Wellness Center at DMU32",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:55.043493"
-  },
-  {
-    "place_id": "0x87ee99309d7e212d:0",
-    "name": "CrossFit Golden Valkyrie",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:53.752084"
-  },
-  {
-    "place_id": "0x87ee99c7a0b510e3:0",
-    "name": "East High School Community Center Gym",
-    "address": "",
-    "category": "High school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:52.473158"
-  },
-  {
-    "place_id": "0x87eea3af0188f36b:0",
-    "name": "Crunch Fitness - Des Moines South",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:51.235450"
-  },
-  {
-    "place_id": "0x87ee9bee4e7f137d:0",
-    "name": "Los Campeones Gym Des Moines",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:49.903484"
-  },
-  {
-    "place_id": "0x87eea3c6c7ddc9d5:0",
-    "name": "Genesis Health Clubs - Southridge",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:47.949251"
-  },
-  {
-    "place_id": "0x87ee9952b7d8f823:0",
-    "name": "Power Life Yoga Barre Fitness - East Village",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:46.588427"
-  },
-  {
-    "place_id": "0x87ee990121b50c39:0",
-    "name": "Wellmark YMCA",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:45.308008"
-  },
-  {
-    "place_id": "0x87ee9b307e84eba9:0",
-    "name": "Highland Park Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:44.041170"
   }
 ]
