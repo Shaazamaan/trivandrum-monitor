@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb003a1be67b:0",
+    "name": "Penta Hut- Takeaway Centre",
+    "address": "GXCH+9PF, Maruthunkuzhi Kachani Rd",
+    "category": "Takeout Restaurant",
+    "phone": "+91 88481 93201",
+    "website": null,
+    "discovered_at": "2026-11-14 09:38:48.527211"
+  },
+  {
+    "place_id": "0x3b05c0a2edd3d7c1:0",
+    "name": "Al-falah studio",
+    "address": "Alfalah studio, venjaramoodu road",
+    "category": "Photography studio",
+    "phone": "+91 87140 30133",
+    "website": null,
+    "discovered_at": "2026-11-14 09:38:47.257465"
+  },
+  {
+    "place_id": "0x3b05c181013a7837:0",
+    "name": "Align Family Dent",
+    "address": "Ashoka building",
+    "category": "Dental clinic",
+    "phone": "+91 88919 49450",
+    "website": null,
+    "discovered_at": "2026-11-14 09:38:46.027088"
+  },
+  {
     "place_id": "0x3b05ab0060533ae1:0",
     "name": "AMMA COMMUNICATION",
     "address": "Trivandrum - Nagercoil Hwy",
@@ -8971,32 +8998,5 @@
     "phone": "+91 70254 42544",
     "website": null,
     "discovered_at": "2026-11-14 04:18:40.146410"
-  },
-  {
-    "place_id": "0x3b05ba33d3389467:0",
-    "name": "NISA TRAVEL AGENCY",
-    "address": "FWGX+F7M, Attakulangara - Enchakkal Rd, opposite UAE Consulate",
-    "category": "Airline ticket agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:10:05.844951"
-  },
-  {
-    "place_id": "0x3b05bb001430e0a9:0",
-    "name": "VM EVENTS & CATERING",
-    "address": "Kutticaud, junction, Manacaud - Muttathara Rd",
-    "category": "Event venue",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:10:04.562431"
-  },
-  {
-    "place_id": "0x3b05bb0064f49f37:0",
-    "name": "Decon consultant",
-    "address": "FWGV+WVX, 3rd Puthen St",
-    "category": "Construction company",
-    "phone": "+91 94479 70035",
-    "website": null,
-    "discovered_at": "2026-11-14 04:10:03.235505"
   }
 ]
