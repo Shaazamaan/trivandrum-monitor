@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b1e96464a447:0",
+    "name": "Model Career Centre and Town Employment Exchange Kattakkada",
+    "address": "4th Floor, Town Employment Exchange, near, Mini Civil Station Rd",
+    "category": "Career guidance service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 18:10:47.277066"
+  },
+  {
+    "place_id": "0x3b05b73933af705d:0",
+    "name": "END Design Lab",
+    "address": "Karthika, near COLLEGE OF ARCHITECTURE TRIVANDRUM, Thinvilaa, Vilapilsala P, O",
+    "category": "Interior designer",
+    "phone": "+91 85890 66620",
+    "website": null,
+    "discovered_at": "2026-11-14 18:10:46.080313"
+  },
+  {
     "place_id": "0x3b05a98396a5747b:0",
     "name": "CINECAFE CINEPLEX 4K 3D Dolby 7.1",
     "address": "Cine Cafe Cineplex, Bridge Road",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 09:23:09.530891"
-  },
-  {
-    "place_id": "0x865cc3cd82929f41:0",
-    "name": "Eye Associates of South Texas La Vernia",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:23:08.185257"
-  },
-  {
-    "place_id": "0x865c688638ef3715:0",
-    "name": "The Eye Clinic",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:23:06.654075"
   }
 ]
