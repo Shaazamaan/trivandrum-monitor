@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b063db4d0df6319:0",
+    "name": "Mulamoottil Eye Hospital & Research Center",
+    "address": "",
+    "category": "Private hospital",
+    "phone": "+91 99475 99999",
+    "website": null,
+    "discovered_at": "2026-11-14 22:01:08.440732"
+  },
+  {
+    "place_id": "0x3b05cc0c448ea8e5:0",
+    "name": "Bodytree",
+    "address": "P46C+5JQ",
+    "category": "Alternative medicine practitioner",
+    "phone": "+91 94975 69993",
+    "website": null,
+    "discovered_at": "2026-11-14 22:01:07.023847"
+  },
+  {
+    "place_id": "0x3babf17b1b48bb9f:0",
+    "name": "Namma Office - Vasanth & Co - Coworking space",
+    "address": "Namma Office, Meyyanoor Bye Pass Road, New Bus Stand Rd, opp. TNSTC Depot",
+    "category": "Coworking space",
+    "phone": "+91 90921 09213",
+    "website": null,
+    "discovered_at": "2026-11-14 22:01:05.735394"
+  },
+  {
+    "place_id": "0x549939b536d8be0d:0",
+    "name": "Heidi Van Diest, Realtor",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:01:04.474213"
+  },
+  {
     "place_id": "0x3b05c117bcf93085:0",
     "name": "VWood Interior",
     "address": "Venjaramoodu Market Road",
@@ -8962,41 +8998,5 @@
     "phone": "+91 97787 20142",
     "website": null,
     "discovered_at": "2026-11-14 12:41:45.758317"
-  },
-  {
-    "place_id": "0x872b0d61f85927c5:0",
-    "name": "Jamba",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:44.451856"
-  },
-  {
-    "place_id": "0x872b0c509eca3209:0",
-    "name": "Nekter Juice Bar",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:43.153857"
-  },
-  {
-    "place_id": "0x872b0d65c394a441:0",
-    "name": "Nekter Juice Bar",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:41.893557"
-  },
-  {
-    "place_id": "0x872b0466eb33a225:0",
-    "name": "The Berry Beet Juice Bar",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:40.655824"
   }
 ]
