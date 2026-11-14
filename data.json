@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bf8fa2411705:0",
+    "name": "Mary Shereen and Associates",
+    "address": "HRJH+XG3",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:00:06.147967"
+  },
+  {
+    "place_id": "0x3b05953a0fb16f47:0",
+    "name": "ZION STORE",
+    "address": "ANTHONY BUILDING",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:00:04.846459"
+  },
+  {
+    "place_id": "0x3b05bb6535d9e5e9:0",
+    "name": "Aneeta Bakes, Buttercream cake & desserts | Trivandrum",
+    "address": "near SBI",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:00:03.594709"
+  },
+  {
+    "place_id": "0x3b05958aee95e15b:0",
+    "name": "Streeshakti Ayurveda Beach Retreat for Women",
+    "address": "Vettuthura Channankara Rd",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 70121 63394",
+    "website": null,
+    "discovered_at": "2026-11-14 13:00:01.599441"
+  },
+  {
+    "place_id": "0x3b05bb1aed949f8d:0",
+    "name": "RK Dental Clinic",
+    "address": "Thyvila, Perukavu",
+    "category": "Dental clinic",
+    "phone": "+91 94006 40286",
+    "website": null,
+    "discovered_at": "2026-11-14 13:00:00.270055"
+  },
+  {
     "place_id": "0x3b05bb000a59c665:0",
     "name": "Harisa",
     "address": "no 30 A, Sree Nagar Residence Association",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:40:22.833240"
-  },
-  {
-    "place_id": "0x880fd3f2b6a91ba9:0",
-    "name": "JOE & THE JUICE",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:21.618169"
-  },
-  {
-    "place_id": "0x880e2bd6938f75c3:0",
-    "name": "AMRI Juice Bar",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:19.418944"
-  },
-  {
-    "place_id": "0x880fd3520e3d57d9:0",
-    "name": "JOE & THE JUICE",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:16.791696"
-  },
-  {
-    "place_id": "0x880e2dcd434f79af:0",
-    "name": "JOE & THE JUICE",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:15.587528"
-  },
-  {
-    "place_id": "0x880fd3cba665c99d:0",
-    "name": "Kitchen 1217 (inside Cloud Kitchen)",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:15.585956"
   }
 ]
