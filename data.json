@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb30abc596e9:0",
+    "name": "ALGEBRA ACADEMY FOR SCHOOL TUITIONS",
+    "address": "NNRA 22, Museum - Nanthencode Rd",
+    "category": "Education center",
+    "phone": "+91 98468 41114",
+    "website": null,
+    "discovered_at": "2026-11-14 11:14:08.911401"
+  },
+  {
+    "place_id": "0x3b05bb24f28ca209:0",
+    "name": "TENAX Academy",
+    "address": "AR Plaza",
+    "category": "Education center",
+    "phone": "+91 98953 23344",
+    "website": null,
+    "discovered_at": "2026-11-14 11:14:07.715484"
+  },
+  {
+    "place_id": "0x3b05bbb6eb304e9d:0",
+    "name": "Pickyourtrail - Travel Agency in Trivandrum",
+    "address": "CR Enclave , Vellayambalam Sasthamangalam Main, Rd, next to Vedhika",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:14:06.265977"
+  },
+  {
     "place_id": "0x3b05b9006e13b2d7:0",
     "name": "MUKHI",
     "address": "Kuravankonam - Maruthoor Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:11:07.215639"
-  },
-  {
-    "place_id": "0x3b05bbe56a5f9deb:0",
-    "name": "Styla",
-    "address": "1st Floor, KK Building, adjacent to Ariya Nivaas",
-    "category": "Dress store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:11:05.909641"
-  },
-  {
-    "place_id": "0x3b05bb002d41f79d:0",
-    "name": "She Cafe",
-    "address": "TC 81/2968-1, S.M.TOWER ,2ND FLOOR NEAR HDFC BANK W& C HOSPITAL ROAD, Railway, Station Road",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:11:04.682597"
-  },
-  {
-    "place_id": "0x865c5fbcdb7846fb:0",
-    "name": "San Antonio Eye Center",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:11:03.451218"
   }
 ]
