@@ -1,5 +1,113 @@
 [
   {
+    "place_id": "0x3b05c19076312a2f:0",
+    "name": "SAMRUDHI HOUSE OF DRUGS",
+    "address": "Velavoor Rd",
+    "category": "Pharmacy",
+    "phone": "+91 89074 20058",
+    "website": null,
+    "discovered_at": "2026-11-14 16:04:22.874728"
+  },
+  {
+    "place_id": "0x3b05c10032da7fd9:0",
+    "name": "Agasthya Marma Chikitsalaya",
+    "address": "MWF6+5HF, Vattappara - Thattathumala Rd",
+    "category": "Hospital",
+    "phone": "+91 94955 55396",
+    "website": null,
+    "discovered_at": "2026-11-14 16:04:21.552864"
+  },
+  {
+    "place_id": "0x3b05c1005588c34f:0",
+    "name": "Kathir ayurvedic",
+    "address": "MWH5+35P",
+    "category": "Medical Center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:04:20.354903"
+  },
+  {
+    "place_id": "0x3b05c33ae80b9ea5:0",
+    "name": "Employment Exchange",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:04:19.168029"
+  },
+  {
+    "place_id": "0x3b05df89d8d0f093:0",
+    "name": "Pranah Event Planners & Wedding Arcade",
+    "address": "Opens 9 AM Sun",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:04:18.014906"
+  },
+  {
+    "place_id": "0x3b05db800903a4f5:0",
+    "name": "THALAM FASHION JEWELLERY",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": "+91 96562 65031",
+    "website": null,
+    "discovered_at": "2026-11-14 16:04:16.714737"
+  },
+  {
+    "place_id": "0x3b05c32f7e9792e3:0",
+    "name": "Shanmugha Watch Centre (Since 1937)",
+    "address": "",
+    "category": "Watch store",
+    "phone": "+91 94471 02076",
+    "website": null,
+    "discovered_at": "2026-11-14 16:04:15.549398"
+  },
+  {
+    "place_id": "0x3b05c33cd3c1a66b:0",
+    "name": "Shawarmashi-Hamra Mandi",
+    "address": "Closes 12 AM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:04:14.294423"
+  },
+  {
+    "place_id": "0x3b05dd0011e60ba5:0",
+    "name": "RJ Pets Grooming Parlour Kilimanoor",
+    "address": "QVMM+P3R",
+    "category": "Pet groomer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:04:13.088909"
+  },
+  {
+    "place_id": "0x3b05dd5c61c888f5:0",
+    "name": "Government Veterinary Hospital. THAKARAPPARAMBU",
+    "address": "QRXM+6GQ, Kilimanoor Madavoor Rd",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:04:11.882847"
+  },
+  {
+    "place_id": "0x3b05dd76e8ebc8d7:0",
+    "name": "davaindia GENERIC PHARMACY",
+    "address": "City Tower, 7/312, Kilimanoor - Kadakkal Rd, near Bus Stand",
+    "category": "Pharmacy",
+    "phone": "+91 63580 25905",
+    "website": null,
+    "discovered_at": "2026-11-14 16:04:10.634359"
+  },
+  {
+    "place_id": "0x3b05dd1c8bae0afd:0",
+    "name": "Dr. Anvar's Siwak Dental Clinic",
+    "address": "Opens 9:30 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:04:09.352706"
+  },
+  {
     "place_id": "0x3b05eb00424af18b:0",
     "name": "USHA NIVAS",
     "address": "MQ3P+469, Kadakom Sarkara Road",
@@ -8890,113 +8998,5 @@
     "phone": "+91 80899 69894",
     "website": null,
     "discovered_at": "2026-11-14 06:46:38.942490"
-  },
-  {
-    "place_id": "0x3b05abef4e93bd81:0",
-    "name": "PHONE FIX 4U",
-    "address": "POST OFFICE JUNCTION, near POST OFFICE",
-    "category": "Electronics repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:46:36.831391"
-  },
-  {
-    "place_id": "0x3b05ab0052197025:0",
-    "name": "Colours Cafe",
-    "address": "DHARMIS COMPLEX",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:39:36.127143"
-  },
-  {
-    "place_id": "0x3b05ab743b0716f3:0",
-    "name": "neethi medical store",
-    "address": "85V2+CXR, Trivandrum - Nagercoil Hwy",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:39:34.868783"
-  },
-  {
-    "place_id": "0xb750d2ab02dfeb5:0",
-    "name": "New Bharath Sidha Marma Ayurveda & Panchakarma Clinic",
-    "address": "Closes 5 PM",
-    "category": "Open",
-    "phone": "+91 81290 98173",
-    "website": null,
-    "discovered_at": "2026-11-14 06:39:33.619650"
-  },
-  {
-    "place_id": "0x3b05ab25d11bd855:0",
-    "name": "DR.CHANDRA DENTAL CLINIC",
-    "address": "45/7, Athencode Road",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:39:32.423829"
-  },
-  {
-    "place_id": "0x3b05b16a8ef8258b:0",
-    "name": "Devi Textiles",
-    "address": "Closes 9:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:39:31.173206"
-  },
-  {
-    "place_id": "0x880e2decdc897c89:0",
-    "name": "Mox.E Coworking",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:32:27.453136"
-  },
-  {
-    "place_id": "0x880fd2d0290c6f9b:0",
-    "name": "Prism Spaces",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:32:26.215721"
-  },
-  {
-    "place_id": "0x880fd3515bc896d9:0",
-    "name": "Coworkyard Office Mag Mile Center",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:32:25.046675"
-  },
-  {
-    "place_id": "0x880e2db0ecb6aadd:0",
-    "name": "The Space Together",
-    "address": "1727 W Grand Ave Upstairs",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:32:23.796884"
-  },
-  {
-    "place_id": "0x880e2cc80bf08f67:0",
-    "name": "Servcorp River Point - Coworking, Office Suites & Virtual Offices",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:32:22.533256"
-  },
-  {
-    "place_id": "0x880fd32751062c3b:0",
-    "name": "Workbox Chicago - Gold Coast",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:32:21.311596"
   }
 ]
