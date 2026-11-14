@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x3b05beb86d8effff:0",
+    "name": "Sowparnika Seychelles",
+    "address": "",
+    "category": "Apartment complex",
+    "phone": "+91 98476 84000",
+    "website": null,
+    "discovered_at": "2026-11-14 06:01:23.165713"
+  },
+  {
+    "place_id": "0x3b05bfe05b1accdb:0",
+    "name": "P-CASA Builders Developers Interiors",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": "+91 82899 78888",
+    "website": null,
+    "discovered_at": "2026-11-14 06:01:21.969165"
+  },
+  {
+    "place_id": "0x3b05bf456e4b8155:0",
+    "name": "AMINA TRADING COMPANY",
+    "address": "Market Junction",
+    "category": "Supermarket",
+    "phone": "+91 94950 00999",
+    "website": null,
+    "discovered_at": "2026-11-14 06:01:20.791027"
+  },
+  {
+    "place_id": "0x3b05bb00226a1c75:0",
+    "name": "Peps The Great Sleep Store Sreekaryam",
+    "address": "GWQG+49Q, Ulloor, Sreekariyam Road, near SBI",
+    "category": "Mattress store",
+    "phone": "+91 95269 90222",
+    "website": null,
+    "discovered_at": "2026-11-14 06:01:19.595655"
+  },
+  {
+    "place_id": "0x3b05b94933706287:0",
+    "name": "Sivasakthi bakers",
+    "address": "HW3J+F32, Kariyam - Parottukonam Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:01:17.902358"
+  },
+  {
+    "place_id": "0x3b05bf6ac19a4a89:0",
+    "name": "Yummy Spot",
+    "address": "",
+    "category": "Biryani restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:01:16.674817"
+  },
+  {
+    "place_id": "0x3b05b94ebc5e537d:0",
+    "name": "Dr. R. Vijayan Homeopathic Consultant",
+    "address": "GWQF+RXJ",
+    "category": "Homeopathic pharmacy",
+    "phone": "+91 94467 05450",
+    "website": null,
+    "discovered_at": "2026-11-14 06:01:15.425994"
+  },
+  {
+    "place_id": "0x3b05b92df0e4ae79:0",
+    "name": "ANANTHAPURI MEDICALS",
+    "address": "S.P. XV/294, Junction",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:01:14.269717"
+  },
+  {
+    "place_id": "0x3b05b97c164144cf:0",
+    "name": "Viswas Community Fair Price Medical Services",
+    "address": "Market Road, Kariyam Jn, PO",
+    "category": "Pharmacy",
+    "phone": "+91 90722 55589",
+    "website": null,
+    "discovered_at": "2026-11-14 06:01:13.116282"
+  },
+  {
+    "place_id": "0x3b05b9956c615ebf:0",
+    "name": "Kumon Maths & English Classes - Kesavadasapuram",
+    "address": "A. K Towers, T.C No 15/4584, below Vision Express, opp. Kedaram Complex",
+    "category": "Education center",
+    "phone": "+91 80895 69361",
+    "website": null,
+    "discovered_at": "2026-11-14 06:01:11.891702"
+  },
+  {
     "place_id": "0x3b05b95e8b125925:0",
     "name": "Jee Tex",
     "address": "kedaram shopping complex",
@@ -8908,95 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 02:46:32.704354"
-  },
-  {
-    "place_id": "0x87ec2095ec02e145:0",
-    "name": "World Market",
-    "address": "4100 University Ave Ste 210",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:30.839743"
-  },
-  {
-    "place_id": "0x87ee7bac4196e655:0",
-    "name": "The Furniture Mart",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:29.600216"
-  },
-  {
-    "place_id": "0x87ee8ff9cfb28a75:0",
-    "name": "Slumberland Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:28.231080"
-  },
-  {
-    "place_id": "0x87ef1c9f3421942b:0",
-    "name": "Newton Furniture & Mattress",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:26.939746"
-  },
-  {
-    "place_id": "0x87ef1d001497dd29:0",
-    "name": "Max's Furniture Outlet",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:25.490267"
-  },
-  {
-    "place_id": "0x87eea28b70f271a9:0",
-    "name": "Curley's Furniture and Mattress",
-    "address": "",
-    "category": "Mattress store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:24.248425"
-  },
-  {
-    "place_id": "0x87ee99d82323b671:0",
-    "name": "Grand Furniture and Mattress",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:23.021095"
-  },
-  {
-    "place_id": "0x87ee9a2b68e07e4b:0",
-    "name": "Home Furnishings Sales & Financing",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:21.750793"
-  },
-  {
-    "place_id": "0x87eea2b819384b75:0",
-    "name": "Slumberland Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:20.481928"
-  },
-  {
-    "place_id": "0x87ee99b1f805494f:0",
-    "name": "Projects Contemporary Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:46:19.185655"
   }
 ]
