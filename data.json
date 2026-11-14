@@ -1,5 +1,320 @@
 [
   {
+    "place_id": "0x3b05befe2aa754df:0",
+    "name": "Jockey Kazhakkuttom",
+    "address": "COCOON, N H ROAD",
+    "category": "Clothing store",
+    "phone": "+91 97456 11551",
+    "website": null,
+    "discovered_at": "2026-11-14 04:51:14.217068"
+  },
+  {
+    "place_id": "0x3b05bffecb7a0651:0",
+    "name": "Tech Tea",
+    "address": "Tech Tea, Main Gate NH 47 Bypass Road Near Technopark Campus Thiruvananthapuram Kazhakuttam Kerala 695581",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:51:12.421791"
+  },
+  {
+    "place_id": "0x3b05bf002172bfe3:0",
+    "name": "Anand Hotel",
+    "address": "",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:51:11.060672"
+  },
+  {
+    "place_id": "0x3b05bf1a410c700f:0",
+    "name": "Jan aushadhi medical store,chanthavila",
+    "address": "Tc 3/1041, P.O, opposite Guruji driving school, near Arushi bridal studio",
+    "category": "Pharmacy",
+    "phone": "+91 80869 46232",
+    "website": null,
+    "discovered_at": "2026-11-14 04:51:09.796991"
+  },
+  {
+    "place_id": "0x3b05bf1e275e7c6d:0",
+    "name": "Indira Medicals",
+    "address": "HV8R+MF6",
+    "category": "Pharmacy",
+    "phone": "+91 94961 43425",
+    "website": null,
+    "discovered_at": "2026-11-14 04:51:08.532271"
+  },
+  {
+    "place_id": "0x3b05bf7d49692039:0",
+    "name": "GG Meds - Kulathoor",
+    "address": "Ground Floor, BS Building, Tc/98, 3250-1",
+    "category": "Medical supply store",
+    "phone": "+91 77363 97779",
+    "website": null,
+    "discovered_at": "2026-11-14 04:51:07.244681"
+  },
+  {
+    "place_id": "0x3b05bf4a36340b35:0",
+    "name": "Jan Aushadhi Medical Store Chenkottukonam(English Medicines)",
+    "address": "TC 11/2315, Chenkottukonam Junction, Edathara Rd, opposite to Auto Stand",
+    "category": "Pharmacy",
+    "phone": "+91 79946 54824",
+    "website": null,
+    "discovered_at": "2026-11-14 04:51:05.986300"
+  },
+  {
+    "place_id": "0x3b05bf5695d9bb65:0",
+    "name": "SN Angadikkada",
+    "address": "GVRJ+689, Sreekariyam - Kazhakuttam Rd",
+    "category": "Pharmacy",
+    "phone": "+91 94974 73675",
+    "website": null,
+    "discovered_at": "2026-11-14 04:51:04.741567"
+  },
+  {
+    "place_id": "0x3b05bf0008201bad:0",
+    "name": "pradhan mantri bhartiya janaushadhi KULATHOOR",
+    "address": "GVQJ+Q84, Pradhan Mantri Bhartiya Janaushadhi GVQJ+R87 99/3554kulathoor, P.O, opp. Koluthukara Temple",
+    "category": "Pharmacy",
+    "phone": "+91 88913 16338",
+    "website": null,
+    "discovered_at": "2026-11-14 04:51:03.481164"
+  },
+  {
+    "place_id": "0x3b05bfca60f8ede3:0",
+    "name": "Aswas Community Pharmacy, Pangappara",
+    "address": "",
+    "category": "Medical supply store",
+    "phone": "+91 95263 13148",
+    "website": null,
+    "discovered_at": "2026-11-14 04:51:02.226700"
+  },
+  {
+    "place_id": "0x3b05bf472a58fc09:0",
+    "name": "Viswas fair price PHARMACY",
+    "address": "Near post office, opposite preethy super market and kerala eletricals",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:51:00.719704"
+  },
+  {
+    "place_id": "0x3b05bf47868093f1:0",
+    "name": "Bon Beano Pharma",
+    "address": "",
+    "category": "Pet store",
+    "phone": "+91 95131 11420",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:59.361863"
+  },
+  {
+    "place_id": "0x3b05be926264c8db:0",
+    "name": "Anugraha Medicals",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 95446 53378",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:57.896356"
+  },
+  {
+    "place_id": "0x3b05bfa8aeba8d85:0",
+    "name": "RAJASREE AYURVEDICS",
+    "address": "Sreekariyam - Kazhakuttam Rd",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 94474 92840",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:56.664211"
+  },
+  {
+    "place_id": "0x3b05be9c5c6312fb:0",
+    "name": "Home of Dental Care",
+    "address": "Dr Taania's Home of Dental Care, opp. MGM School",
+    "category": "Dental clinic",
+    "phone": "+91 70227 75007",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:55.397364"
+  },
+  {
+    "place_id": "0x3b05bfb8fde00ac1:0",
+    "name": "Dr Manu Mohan's Ashraya Multi speciality Dental Clinic",
+    "address": "HVG2+2PJ",
+    "category": "Dental clinic",
+    "phone": "+91 99957 03703",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:54.125158"
+  },
+  {
+    "place_id": "0x3b05bf0028628965:0",
+    "name": "Dr.Rudy's Dental Speciality Clinic",
+    "address": "High School Rd",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:52.838591"
+  },
+  {
+    "place_id": "0x464624d277c92757:0",
+    "name": "Dr Lekhas Multispeciality Dental Clinic",
+    "address": "Closes 6:30 PM",
+    "category": "Open",
+    "phone": "+91 70128 98030",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:51.374578"
+  },
+  {
+    "place_id": "0x3b05be8ab8f3223d:0",
+    "name": "Dr. SHAJU'S BEST CARE DENTAL CLINIC",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 94976 73267",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:50.076952"
+  },
+  {
+    "place_id": "0x3b05bf51e99e5ff7:0",
+    "name": "Glory Speciality Dental Care",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 80863 87767",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:48.813448"
+  },
+  {
+    "place_id": "0x3b05be8c58c00927:0",
+    "name": "Dr Preethas Zahn Multi Specialty Dental Clinic",
+    "address": "2 km away from Technopark,Near Kulathoor Junction, Sreekariyam - Kazhakuttam Rd",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:47.376232"
+  },
+  {
+    "place_id": "0x3b05bfb0ce8a1add:0",
+    "name": "Twin Pearl Pediatric & Multispecialty Dental Clinic",
+    "address": "pullukadu, twin pearl clinic",
+    "category": "Dental clinic",
+    "phone": "+91 94474 53441",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:45.800407"
+  },
+  {
+    "place_id": "0x3b05bf01af53bfe9:0",
+    "name": "Krishna Dental Clinic",
+    "address": "Closes 5:30 PM",
+    "category": "Open",
+    "phone": "+91 85478 25276",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:44.573788"
+  },
+  {
+    "place_id": "0x3b05bef71353faf7:0",
+    "name": "Star dental care",
+    "address": "Thiruvananthapuram Byp",
+    "category": "Dental clinic",
+    "phone": "+91 99474 38059",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:43.373686"
+  },
+  {
+    "place_id": "0x3b05bf496a79a6bf:0",
+    "name": "DR AKHIL'S SMILE CONCEPTS DENTAL CARE & IMPLANT CENTRE",
+    "address": "Amritakripa Hostel, Opp:",
+    "category": "Dental clinic",
+    "phone": "+91 90481 23465",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:41.820005"
+  },
+  {
+    "place_id": "0x3b05bf4f1a3ea261:0",
+    "name": "fathima poly dental clinic",
+    "address": "Hiba Gardens complex, near Ragam Auditorium",
+    "category": "Dental clinic",
+    "phone": "+91 70258 06355",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:40.435823"
+  },
+  {
+    "place_id": "0x684308f4123e1249:0",
+    "name": "Beyond Border Getaways LLC",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": "+91 89213 41085",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:39.118238"
+  },
+  {
+    "place_id": "0x3b05e8652442d60f:0",
+    "name": "Sunstar Furniture Wholesale & Retail",
+    "address": "QQ8Q+HHG, N.H Road Kallambalam",
+    "category": "Furniture store",
+    "phone": "+91 95266 92802",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:37.578124"
+  },
+  {
+    "place_id": "0x3b05e7422d1caf8d:0",
+    "name": "CLASSIO FURNISHING",
+    "address": "Paravur - Parippally Rd",
+    "category": "Sofa store",
+    "phone": "+91 98956 85505",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:36.292970"
+  },
+  {
+    "place_id": "0x3b05fd4b3d5da733:0",
+    "name": "Dimos Furniture",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": "+91 92880 98981",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:34.955336"
+  },
+  {
+    "place_id": "0x3b05e866adbf2c5d:0",
+    "name": "JUICE WORLD",
+    "address": "QQ6P+G8Q, Varkala Kallambalam Rd",
+    "category": "Juice shop",
+    "phone": "+91 98467 75747",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:34.949358"
+  },
+  {
+    "place_id": "0x3b05e86f5e4622f1:0",
+    "name": "Kukkoos Fruits & Fresh Juice",
+    "address": "QQ7R+8HH",
+    "category": "Fruit and vegetable store",
+    "phone": "+91 94963 66448",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:34.947824"
+  },
+  {
+    "place_id": "0x3b05e865efe56ecd:0",
+    "name": "Mani Medicals",
+    "address": "Closes 8:30 PM",
+    "category": "Open",
+    "phone": "+91 99470 94959",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:33.628284"
+  },
+  {
+    "place_id": "0x3b05e90034634b99:0",
+    "name": "DhanZ Physio Rehab Centre",
+    "address": "PQW7+FHM Bus Stop, Alinmoodu to Kallambalam, Alinmoodu",
+    "category": "Physical therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:32.290367"
+  },
+  {
+    "place_id": "0x3b05e9013d50312b:0",
+    "name": "SHIFA MULTISPECIALITY DENTAL CLINIC AND PAEDIATRIC CENTER",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 99479 94399",
+    "website": null,
+    "discovered_at": "2026-11-14 04:50:30.987960"
+  },
+  {
     "place_id": "0x3b05fc5653a6e287:0",
     "name": "Mahatma driving school",
     "address": "VHRV+X3F",
@@ -8683,320 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 01:16:20.311486"
-  },
-  {
-    "place_id": "0x3b05bf1d7b3952e5:0",
-    "name": "jewellery",
-    "address": "Vettuthura Channankara Rd",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:16:19.094621"
-  },
-  {
-    "place_id": "0x3b05954e1d6c3adf:0",
-    "name": "Mary Matha Communications",
-    "address": "JR27+7Q2",
-    "category": "Cell phone accessory store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:16:17.855882"
-  },
-  {
-    "place_id": "0x3b059569f3632217:0",
-    "name": "Maria Mart Digital",
-    "address": "near Mariamart supermarket",
-    "category": "Cell phone store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:16:16.309742"
-  },
-  {
-    "place_id": "0x3b059551e3c066c3:0",
-    "name": "MOBITECH",
-    "address": "JR27+6VG",
-    "category": "Cell phone accessory store",
-    "phone": "+91 99474 81653",
-    "website": null,
-    "discovered_at": "2026-11-14 01:16:13.374637"
-  },
-  {
-    "place_id": "0x3b05bf002ba1ee8f:0",
-    "name": "KALPAKA BOUTIQUE",
-    "address": "HWJ3+X6C, Junction",
-    "category": "Boutique",
-    "phone": "+91 89216 92145",
-    "website": null,
-    "discovered_at": "2026-11-14 01:16:12.211848"
-  },
-  {
-    "place_id": "0x3b05bf82775566eb:0",
-    "name": "ZaFaa Boutique",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:16:11.001494"
-  },
-  {
-    "place_id": "0x3b05bf1da7e840b3:0",
-    "name": "Amalas Bakers and Confectionery",
-    "address": "kinfra Apparel Park",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:16:09.794706"
-  },
-  {
-    "place_id": "0x3b05bbb2900b81cd:0",
-    "name": "Namiz cakes",
-    "address": "Sreenithyam ,TC 56, FX2C+RQH, Tc56-1846, 1),Elangathara, Sreenithyam, Karumam, 1846(1),Elangathara, po",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:16:08.621211"
-  },
-  {
-    "place_id": "0x3b05c3dc6826c54f:0",
-    "name": "BAKE MY DAY Homemade cakes",
-    "address": "Pulari road",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:16:07.296482"
-  },
-  {
-    "place_id": "0x3b05ebfe661d4251:0",
-    "name": "Ruchikkoot Restaurant",
-    "address": "Opens 11 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:16:05.772719"
-  },
-  {
-    "place_id": "0x3b05c7076d2be7b3:0",
-    "name": "CM'S DENTAL AND EYE CLINIC",
-    "address": "near HDFC BANK",
-    "category": "Dental clinic",
-    "phone": "+91 88912 17670",
-    "website": null,
-    "discovered_at": "2026-11-14 01:16:04.513023"
-  },
-  {
-    "place_id": "0x3b05bbe8385301ff:0",
-    "name": "Tandava Tour Company",
-    "address": "pump house junction, Gokulam, Mulloor Rd",
-    "category": "Bus tour agency",
-    "phone": "+91 70123 93250",
-    "website": null,
-    "discovered_at": "2026-11-14 01:16:03.301063"
-  },
-  {
-    "place_id": "0x3b05bb1518a22475:0",
-    "name": "Deep N' Vild tours and Travels",
-    "address": "Sreedevi Temple Lane, PO",
-    "category": "Travel agency",
-    "phone": "+91 70347 61694",
-    "website": null,
-    "discovered_at": "2026-11-14 01:16:02.085490"
-  },
-  {
-    "place_id": "0x3b05bb76721cffcb:0",
-    "name": "VFM HOLIDAYS AND TRAVEL PRIVATE LIMITED",
-    "address": "",
-    "category": "Travel agency",
-    "phone": "+91 98470 38881",
-    "website": null,
-    "discovered_at": "2026-11-14 01:16:00.736912"
-  },
-  {
-    "place_id": "0x3b05bbda383c9feb:0",
-    "name": "UAE VISA STAMPING - CONSULATE RELATED SERVICES",
-    "address": "",
-    "category": "Visa and passport office",
-    "phone": "+91 82818 50357",
-    "website": null,
-    "discovered_at": "2026-11-14 01:15:59.267075"
-  },
-  {
-    "place_id": "0x3b05bbe351afe50f:0",
-    "name": "Manappuram Finance Limited – Gold Loan",
-    "address": "",
-    "category": "Financial institution",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:15:58.030735"
-  },
-  {
-    "place_id": "0x3b05bb6f804120b1:0",
-    "name": "Meraki Unisex Salon And Spa",
-    "address": "Ayurveda College, Kunnumpuram Rd",
-    "category": "Wellness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:15:56.611572"
-  },
-  {
-    "place_id": "0x3b05bb00075f3965:0",
-    "name": "Isha Glow Up Studio",
-    "address": "MLA Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:15:55.381328"
-  },
-  {
-    "place_id": "0x3b05bb9a4824e9b1:0",
-    "name": "Lee's Cloud Kitchen",
-    "address": "ERA - 79, Palkulangara",
-    "category": "Takeout Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:33.429989"
-  },
-  {
-    "place_id": "0x3b05bbeff303b0c3:0",
-    "name": "R.K Sweet's",
-    "address": "Tc41/1183, ARWA 12, Kuriyathi Rd",
-    "category": "Wholesale bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:30.926268"
-  },
-  {
-    "place_id": "0x3b05bb06511fae85:0",
-    "name": "NEW SALALA HOTEL",
-    "address": "",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:29.684718"
-  },
-  {
-    "place_id": "0x3b05bb0b04ee6985:0",
-    "name": "Vigneshwara Brahmins Restaurant",
-    "address": "",
-    "category": "Vegetarian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:27.482314"
-  },
-  {
-    "place_id": "0x3b05bbec6dbbcecf:0",
-    "name": "Crescent Diagnostic Centre",
-    "address": "TC 48/430(1),Parvankunnu Manacaud(P.O, opp. Dr.Farook's Children & Women Hospital",
-    "category": "Laboratory",
-    "phone": "+91 80894 11808",
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:25.371658"
-  },
-  {
-    "place_id": "0x3b05bb0e7c19cf0f:0",
-    "name": "RK Hospital",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:24.177416"
-  },
-  {
-    "place_id": "0x3b05bb7fd721d3db:0",
-    "name": "S'Dent Dental Clinic",
-    "address": "FW8X+5GG",
-    "category": "Dental clinic",
-    "phone": "+91 94473 89345",
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:22.903036"
-  },
-  {
-    "place_id": "0x880e2ca626b0bc39:0",
-    "name": "Carr Workplaces AON Center - Coworking & Office Space",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:21.507621"
-  },
-  {
-    "place_id": "0x880e2cda61efffff:0",
-    "name": "Spaces Fulton Market",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:19.616748"
-  },
-  {
-    "place_id": "0x880e2d4840909047:0",
-    "name": "Working From_Fulton Market",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:18.428691"
-  },
-  {
-    "place_id": "0x880e2d1f9373f9a7:0",
-    "name": "Workbox Chicago - Union Station",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:17.221066"
-  },
-  {
-    "place_id": "0x880e2d498db94be9:0",
-    "name": "Workbox Chicago - Fulton Market",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:15.799740"
-  },
-  {
-    "place_id": "0x880e2dd7fb79ee09:0",
-    "name": "Workbox Chicago - River North",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:14.595694"
-  },
-  {
-    "place_id": "0x880e2d74899f1d29:0",
-    "name": "Workbox Chicago - Magnificent Mile",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:13.299517"
-  },
-  {
-    "place_id": "0x880fd3ed96115f0b:0",
-    "name": "Life Time Work",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:12.030889"
-  },
-  {
-    "place_id": "0x880e2cc7a048650d:0",
-    "name": "Co-Optim West Loop",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:10.692426"
-  },
-  {
-    "place_id": "0x880e2cbf6ac71899:0",
-    "name": "TeamWorking by TechNexus",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:09.513120"
   }
 ]
