@@ -1,5 +1,203 @@
 [
   {
+    "place_id": "0x3b05fc5653a6e287:0",
+    "name": "Mahatma driving school",
+    "address": "VHRV+X3F",
+    "category": "Driving school",
+    "phone": "+91 94951 68234",
+    "website": null,
+    "discovered_at": "2026-11-14 04:41:09.435357"
+  },
+  {
+    "place_id": "0x3b042f6d704df183:0",
+    "name": "Sri Ganapathy Driving School",
+    "address": "+91 75488 23341",
+    "category": "Open 24 hours",
+    "phone": "+91 75488 23341",
+    "website": null,
+    "discovered_at": "2026-11-14 04:41:08.198530"
+  },
+  {
+    "place_id": "0x3b05cf6bda7de0d3:0",
+    "name": "Surabhi MDS",
+    "address": "P2GH+37W, SH 2",
+    "category": "Educational institution",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:41:06.969252"
+  },
+  {
+    "place_id": "0x3b061e6d289f01cb:0",
+    "name": "Lals One Day Driving School Kayamkulam, Alappuzha, Kerala",
+    "address": "Ramapuram P.O., Maliyekkal Jn NH-66 Side, North of Petrol Pump Kareelakulangra",
+    "category": "Driving school",
+    "phone": "+91 94971 71444",
+    "website": null,
+    "discovered_at": "2026-11-14 04:41:05.718157"
+  },
+  {
+    "place_id": "0x3b05c4931b86baeb:0",
+    "name": "Amma Driving School",
+    "address": "QW3Q+PMH, Vamanapuram - Chittar Rd",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:41:04.494100"
+  },
+  {
+    "place_id": "0x3b05c90012ddffd3:0",
+    "name": "St.Peter's Motor Driving school",
+    "address": "J2RC+M7R, SH45",
+    "category": "Driving school",
+    "phone": "+91 94464 29889",
+    "website": null,
+    "discovered_at": "2026-11-14 04:41:02.923693"
+  },
+  {
+    "place_id": "0x3b05c9ea9a2349ed:0",
+    "name": "SANAL MOTOR DRIVING SCHOOL",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": "+91 94973 00255",
+    "website": null,
+    "discovered_at": "2026-11-14 04:41:01.544578"
+  },
+  {
+    "place_id": "0x3b05cf5e7d587b19:0",
+    "name": "Sree Devi Motor Driving School",
+    "address": "M2XF+8X7",
+    "category": "Driving school",
+    "phone": "+91 98460 71698",
+    "website": null,
+    "discovered_at": "2026-11-14 04:41:00.295393"
+  },
+  {
+    "place_id": "0x3b05af2c46395b03:0",
+    "name": "Takshi Rental Jewellery",
+    "address": "Vazhimuk Vazhimuk Rd",
+    "category": "Jewelry store",
+    "phone": "+91 79944 22250",
+    "website": null,
+    "discovered_at": "2026-11-14 04:40:59.062326"
+  },
+  {
+    "place_id": "0x3b05d7e12c8abeaf:0",
+    "name": "Bismilla jewelry",
+    "address": "W354+2H5",
+    "category": "Jewelry store",
+    "phone": "+91 99461 20001",
+    "website": null,
+    "discovered_at": "2026-11-14 04:40:57.842228"
+  },
+  {
+    "place_id": "0x3b05dd0065b2ff47:0",
+    "name": "ANZARI furniture nilamel",
+    "address": "Closes 9:30 PM",
+    "category": "Open",
+    "phone": "+91 99475 99895",
+    "website": null,
+    "discovered_at": "2026-11-14 04:40:56.624468"
+  },
+  {
+    "place_id": "0x3b05bbec51bb3271:0",
+    "name": "Devanidhi Bridal Designer Boutique",
+    "address": "Government Medical College, Thiruvananthapuram, TC- 13/2739, Opp Shine Towers, Pazhaya Rd",
+    "category": "Boutique",
+    "phone": "+91 97470 66644",
+    "website": null,
+    "discovered_at": "2026-11-14 04:40:55.353099"
+  },
+  {
+    "place_id": "0x3b05bb05f9655393:0",
+    "name": "Boutiqueen designers",
+    "address": "First floor, Southern towers, opposite IndusInd bank",
+    "category": "Boutique",
+    "phone": "+91 97464 19881",
+    "website": null,
+    "discovered_at": "2026-11-14 04:40:54.119593"
+  },
+  {
+    "place_id": "0x3b05cd6214ff852f:0",
+    "name": "Kudumbasree Hotel",
+    "address": "Q458+377, Guest House Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:40:52.897512"
+  },
+  {
+    "place_id": "0x3b05cf0004c54e59:0",
+    "name": "Viswas Community Pharmacy Palode",
+    "address": "Viswas Community Pharmacy, opposite Pearl Residence",
+    "category": "Pharmacy",
+    "phone": "+91 98470 44642",
+    "website": null,
+    "discovered_at": "2026-11-14 04:40:51.673730"
+  },
+  {
+    "place_id": "0x3b060bf796384583:0",
+    "name": "Karunya Eye Hospital & Opticals",
+    "address": "",
+    "category": "Optician",
+    "phone": "+91 95672 98854",
+    "website": null,
+    "discovered_at": "2026-11-14 04:40:50.408567"
+  },
+  {
+    "place_id": "0x3b05bb91367ea99f:0",
+    "name": "The Dentists",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 96333 16024",
+    "website": null,
+    "discovered_at": "2026-11-14 04:40:50.404846"
+  },
+  {
+    "place_id": "0x3b05c1989ff49ddb:0",
+    "name": "Dr sudin's care dental clinic chemboor",
+    "address": "Dr sudin's care dental clinic",
+    "category": "Dental clinic",
+    "phone": "+91 91096 32621",
+    "website": null,
+    "discovered_at": "2026-11-14 04:40:50.403440"
+  },
+  {
+    "place_id": "0x3b05bf92c5e8029f:0",
+    "name": "Dr. Sujith's Moopans Multi Speciality Dental Clinic",
+    "address": "Closes 7:30 PM",
+    "category": "Open",
+    "phone": "+91 98474 80513",
+    "website": null,
+    "discovered_at": "2026-11-14 04:40:50.402292"
+  },
+  {
+    "place_id": "0x3b05dd11afccfe15:0",
+    "name": "Dr Aswathy's Dental Care",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 90747 50297",
+    "website": null,
+    "discovered_at": "2026-11-14 04:40:50.401124"
+  },
+  {
+    "place_id": "0x3b05c9ede1156219:0",
+    "name": "Thavakkal Waterfalls, Vithura Palode",
+    "address": "",
+    "category": "Tourist attraction",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:40:49.138636"
+  },
+  {
+    "place_id": "0x3b05c9ca78f76af9:0",
+    "name": "Jeenaas Makeover Studio",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:40:47.829003"
+  },
+  {
     "place_id": "0x3b05c900541bf61f:0",
     "name": "Steps Footwear & Bags",
     "address": "M3FR+GCW, Market",
@@ -8800,203 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 01:07:09.513120"
-  },
-  {
-    "place_id": "0x880e2d081eae5cb5:0",
-    "name": "Workbox Chicago – Civic Opera",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:08.343316"
-  },
-  {
-    "place_id": "0x880e2d1013984b0f:0",
-    "name": "Spaces North State Street",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:06.845883"
-  },
-  {
-    "place_id": "0x3b05bb600812102f:0",
-    "name": "SAJNA TRAVELS",
-    "address": "SAJNA CABS",
-    "category": "Taxi service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:05.576921"
-  },
-  {
-    "place_id": "0x3b05bba031a03e75:0",
-    "name": "Aadicabs Holidays",
-    "address": "No-789",
-    "category": "Tour operator",
-    "phone": "+91 94470 30571",
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:04.339403"
-  },
-  {
-    "place_id": "0x3b05bb5c1818248b:0",
-    "name": "Diya Ishaan Tours & Travels",
-    "address": "",
-    "category": "Travel agency",
-    "phone": "+91 93494 77376",
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:03.063621"
-  },
-  {
-    "place_id": "0x880e4ba27771772d:0",
-    "name": "Vacation With Melissa LLC",
-    "address": "2021 S Wolf Rd",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:07:01.059570"
-  },
-  {
-    "place_id": "0x880e33544caa112f:0",
-    "name": "Gone Again Travel & Tours",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:59.833987"
-  },
-  {
-    "place_id": "0x880fccf78866cac3:0",
-    "name": "Melissa Travel Agency",
-    "address": "4957 W Thomas St",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:58.155048"
-  },
-  {
-    "place_id": "0x880fd34666bf66c7:0",
-    "name": "Foremost Travel & Tours",
-    "address": "1357 N Wells St",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:56.911472"
-  },
-  {
-    "place_id": "0x880fcfa2d9e692bb:0",
-    "name": "Aero Travel",
-    "address": "2421 75th St",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:55.561990"
-  },
-  {
-    "place_id": "0x880e2cb854c9fa6d:0",
-    "name": "Traveloni",
-    "address": "1357 N Wells St",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:54.379200"
-  },
-  {
-    "place_id": "0x880fd33351400001:0",
-    "name": "Cerulean World Travel Vacations, Luxury Travel Agency",
-    "address": "758 N Larrabee St APT 201",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:53.104180"
-  },
-  {
-    "place_id": "0x880fd34666b09a0f:0",
-    "name": "Windy City Travel",
-    "address": "1357 N Wells St",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:50.942549"
-  },
-  {
-    "place_id": "0x880e2c95ffa25cbf:0",
-    "name": "Turan Travel & Tours",
-    "address": "527 S Wells St #607",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:49.692937"
-  },
-  {
-    "place_id": "0x880e2cb9ec507e35:0",
-    "name": "AmTrav Corporate Travel",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:48.464000"
-  },
-  {
-    "place_id": "0x880e2caf3ac551c7:0",
-    "name": "Artun Travel",
-    "address": "",
-    "category": "Airline ticket agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:47.269399"
-  },
-  {
-    "place_id": "0x880e2dde46ea73f3:0",
-    "name": "Suma Event",
-    "address": "325 W Wolf Point Plaza",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:46.047688"
-  },
-  {
-    "place_id": "0x880fd34f0e8f8ee7:0",
-    "name": "Paulette Wolf Events & Entertainment Inc.",
-    "address": "57 E Delaware Pl",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:44.842173"
-  },
-  {
-    "place_id": "0x880e2ce273af31dd:0",
-    "name": "Sweetchic Events, Inc.",
-    "address": "1407 W Chicago Ave",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:43.553007"
-  },
-  {
-    "place_id": "0x880e32ab40d0c4bb:0",
-    "name": "Kesh Events",
-    "address": "2124 S Halsted St Unit 1",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:42.330431"
-  },
-  {
-    "place_id": "0x880e2caddf9fff85:0",
-    "name": "Malenia Events",
-    "address": "W Erie St",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:41.119644"
-  },
-  {
-    "place_id": "0x880e27c7653b55a9:0",
-    "name": "Events by TMA",
-    "address": "444 W Lake St STE 1700",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:39.927646"
   }
 ]
