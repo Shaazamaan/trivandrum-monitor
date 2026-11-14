@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05b95fb073acab:0",
+    "name": "V cast Geetham side",
+    "address": "TC 3/1809, House No: 80, Kesavadasapuram Rd, Near Bharath Petrol Pump",
+    "category": "Builder",
+    "phone": "+91 80860 44447",
+    "website": null,
+    "discovered_at": "2026-11-14 11:41:33.947731"
+  },
+  {
+    "place_id": "0x3b05b9007b37e851:0",
+    "name": "Ebenezer house",
+    "address": "4, Saphalya Nagar Ln",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:41:30.906332"
+  },
+  {
+    "place_id": "0x3b05b90009c7673f:0",
+    "name": "Kesavadasapuram",
+    "address": "GWHQ+V9W",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:41:29.595855"
+  },
+  {
+    "place_id": "0x3b05bb002857e00f:0",
+    "name": "Vaidheeswaran Siddha Ayur Care Hospital",
+    "address": "Burma Rd",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:41:28.312626"
+  },
+  {
     "place_id": "0x3b05b98dfa023623:0",
     "name": "DEEPWISH Designs By Deepika",
     "address": "Ulloor - Akkulam Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:37:03.361709"
-  },
-  {
-    "place_id": "0x880e2973e76c04d3:0",
-    "name": "Universal Dental of Hyde Park",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:02.187041"
-  },
-  {
-    "place_id": "0x880e31d36b7970b1:0",
-    "name": "The Dental Clinic-Kedzie",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:00.986603"
-  },
-  {
-    "place_id": "0x880fd2d28eecde3b:0",
-    "name": "East Village Dental Centre",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:59.816188"
-  },
-  {
-    "place_id": "0x880fd34cdb539c29:0",
-    "name": "Modern Dental on Clark Street",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:58.512944"
   }
 ]
