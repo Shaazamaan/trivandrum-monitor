@@ -1,5 +1,212 @@
 [
   {
+    "place_id": "0x3b05a553c4fcebc7:0",
+    "name": "JAZZ FRESH JUICE",
+    "address": "Tc 62, 1048 Theatre Jn, Vizhinjam St, opp. Raahath Hotel",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:24:14.714691"
+  },
+  {
+    "place_id": "0x3b05a5056b05f35b:0",
+    "name": "ALIINA CAKESIE",
+    "address": "Alina CAKESIE",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:24:13.146518"
+  },
+  {
+    "place_id": "0x3b05a5a8fd9ced4b:0",
+    "name": "The Tides",
+    "address": "",
+    "category": "Seafood restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:24:11.819846"
+  },
+  {
+    "place_id": "0x3b05af4b844c42ef:0",
+    "name": "San Jeevani medical S",
+    "address": "925H+R8J, Poovar - Vizhinjam Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:24:10.595537"
+  },
+  {
+    "place_id": "0x3b05a5a59f8062f3:0",
+    "name": "Wellness medicals",
+    "address": "9XQM+3X9, Vizhinjam Harbour Rd",
+    "category": "Drug store",
+    "phone": "+91 98959 52338",
+    "website": null,
+    "discovered_at": "2026-11-14 06:24:09.376978"
+  },
+  {
+    "place_id": "0x3b05a5a67458a92b:0",
+    "name": "BEACH MEDICALS",
+    "address": "Beach Rd",
+    "category": "Pharmacy",
+    "phone": "+91 94474 92944",
+    "website": null,
+    "discovered_at": "2026-11-14 06:24:08.128094"
+  },
+  {
+    "place_id": "0x3b05a50a211d0e27:0",
+    "name": "Shivas Medicals",
+    "address": "9XXJ+PPR",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:24:06.955443"
+  },
+  {
+    "place_id": "0x3b05a50991aa838b:0",
+    "name": "Sonu Medicals",
+    "address": "Chandragiri Building",
+    "category": "Pharmacy",
+    "phone": "+91 98950 62001",
+    "website": null,
+    "discovered_at": "2026-11-14 06:24:05.778214"
+  },
+  {
+    "place_id": "0x3b05a5ad2d16bd95:0",
+    "name": "Sparsh Medicare, Clinic & Laboratory Services, Mukkola",
+    "address": "opposite to muthoot",
+    "category": "Medical clinic",
+    "phone": "+91 94464 42130",
+    "website": null,
+    "discovered_at": "2026-11-14 06:24:04.610258"
+  },
+  {
+    "place_id": "0x3b05a56863c3f023:0",
+    "name": "shiva ayurveda centre",
+    "address": "CX3J+7JG hotel neelakanta",
+    "category": "Alternative medicine clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:24:03.408407"
+  },
+  {
+    "place_id": "0x3b05af0042764eeb:0",
+    "name": "Smile Square Multi-speciality Dental Clinic",
+    "address": "C29C+HCP, Pallichal - Vizhinjam Rd",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:24:02.089623"
+  },
+  {
+    "place_id": "0x3b05c7f645cdfa71:0",
+    "name": "BSNL Telephone Exchange Nedumangad",
+    "address": "JX7W+V2W, Nedumangad Vembayam Road",
+    "category": "Telephone exchange",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:23:59.758803"
+  },
+  {
+    "place_id": "0x3b05b9ee36a3c639:0",
+    "name": "Oriental Associates LLP",
+    "address": "Royal Plazza, Valicode Nedumangad Nedumangad P O",
+    "category": "Tax consultant",
+    "phone": "+91 96569 92393",
+    "website": null,
+    "discovered_at": "2026-11-14 06:23:58.576713"
+  },
+  {
+    "place_id": "0x3b05b804a33b0623:0",
+    "name": "Global Forex And Travels",
+    "address": "Govt districr hospital nedumangad",
+    "category": "Aviation consultant",
+    "phone": "+91 99952 51451",
+    "website": null,
+    "discovered_at": "2026-11-14 06:23:57.274433"
+  },
+  {
+    "place_id": "0x3b05b95c9aa1083b:0",
+    "name": "Miss& Mrs Ladies gym",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:23:56.122121"
+  },
+  {
+    "place_id": "0x3b05b921d637a55f:0",
+    "name": "AMRITHA FURNISHINGS.",
+    "address": "OPP: OXYGEN DIGITAL, GIRLS HIGH SCHOOL ROAD, near MUNCIPAL PARKING GROUND",
+    "category": "Upholstery shop",
+    "phone": "+91 94476 95771",
+    "website": null,
+    "discovered_at": "2026-11-14 06:23:54.934119"
+  },
+  {
+    "place_id": "0x3b05b965bb023181:0",
+    "name": "Cell master",
+    "address": "",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 88916 61662",
+    "website": null,
+    "discovered_at": "2026-11-14 06:23:53.738045"
+  },
+  {
+    "place_id": "0x3b05b918e8ca0fdd:0",
+    "name": "REFIX Mobile Phone Service Center",
+    "address": "Sathram junction, Nedumangad Town Rd",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 90747 36129",
+    "website": null,
+    "discovered_at": "2026-11-14 06:23:52.572097"
+  },
+  {
+    "place_id": "0x3b05b9383494008d:0",
+    "name": "Life Phone Service Center",
+    "address": "",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 90615 27963",
+    "website": null,
+    "discovered_at": "2026-11-14 06:23:51.395790"
+  },
+  {
+    "place_id": "0x3b05c7001c21933f:0",
+    "name": "KASIM'S SARBATH NEDUMANGAD",
+    "address": "Closes 10:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:23:50.139640"
+  },
+  {
+    "place_id": "0x3b05b804c6a7887f:0",
+    "name": "Neptune Mobile & Bakers",
+    "address": "J233+F44, Market Junction",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:23:48.960227"
+  },
+  {
+    "place_id": "0x3b05c7f6672deedd:0",
+    "name": "Kokkarakko",
+    "address": "JX7W+WXP, Thiruvananthapuram - Thenmala Rd",
+    "category": "Non vegetarian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:23:47.798506"
+  },
+  {
+    "place_id": "0x3b05b98dc9d85bbb:0",
+    "name": "WOMENS BEAUTY CLINIC",
+    "address": "REVATHY MOTORS (YAMAHA),SATHRAM, 13/298(6, JUNCTION",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:23:46.617433"
+  },
+  {
     "place_id": "0x3b05adc8e7144e91:0",
     "name": "Rubab A Pvt Limited",
     "address": "Closes 5 PM",
@@ -8791,212 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 02:47:44.041170"
-  },
-  {
-    "place_id": "0x87ee99741b73f499:0",
-    "name": "DSM Barbell Club",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:42.797276"
-  },
-  {
-    "place_id": "0x87ee99041b6e6485:0",
-    "name": "Pace317",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:41.541474"
-  },
-  {
-    "place_id": "0x87ee9929c6e0b9c7:0",
-    "name": "Krave Gym Des Moines",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:40.067922"
-  },
-  {
-    "place_id": "0x87ee975996ccc8e1:0",
-    "name": "The Beauty Collective",
-    "address": "",
-    "category": "Nail salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:38.764003"
-  },
-  {
-    "place_id": "0x87ee9a1893e97513:0",
-    "name": "Juli's Hair Design",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:37.393812"
-  },
-  {
-    "place_id": "0x87ee99104e0fed5b:0",
-    "name": "GIV Salon & Suites",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:36.163906"
-  },
-  {
-    "place_id": "0x87ee99107bfc3ecd:0",
-    "name": "Abby Hair Salon",
-    "address": "",
-    "category": "Hairdresser",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:34.800908"
-  },
-  {
-    "place_id": "0x87ee980bca005987:0",
-    "name": "Ashley's Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:33.430494"
-  },
-  {
-    "place_id": "0x87ec23708e181367:0",
-    "name": "LUX HAIR STUDIO",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:32.140432"
-  },
-  {
-    "place_id": "0x87ee99c99b4b0f51:0",
-    "name": "Taylored N Made Des Moines Hairstylist",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:30.880129"
-  },
-  {
-    "place_id": "0x87ee9944e1e9f441:0",
-    "name": "Van Hair Collective",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:29.615104"
-  },
-  {
-    "place_id": "0x87ee9914a7528a31:0",
-    "name": "Allegory",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:28.351287"
-  },
-  {
-    "place_id": "0x87ee99cff47ee2b5:0",
-    "name": "Secretos Beauty Shop",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:27.142500"
-  },
-  {
-    "place_id": "0x87ee9e4ff56fef3f:0",
-    "name": "Aviva Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:25.937423"
-  },
-  {
-    "place_id": "0x87ee99d07bcd5b31:0",
-    "name": "Letty's Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:24.658933"
-  },
-  {
-    "place_id": "0x87ee992d642679a7:0",
-    "name": "R. Mane Apothecary",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:23.425147"
-  },
-  {
-    "place_id": "0x87ee99ae6dc3ac05:0",
-    "name": "Salon Revolution",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:22.193872"
-  },
-  {
-    "place_id": "0x87ee99ae4259b7df:0",
-    "name": "Rooted Salon Suites",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:20.927798"
-  },
-  {
-    "place_id": "0x87ee9ed283f8a45b:0",
-    "name": "The Beehive Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:19.580306"
-  },
-  {
-    "place_id": "0x87ee99ae6973595f:0",
-    "name": "Bloom Salon Studios",
-    "address": "Set, 300 E Grand Ave #160",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:18.181881"
-  },
-  {
-    "place_id": "0x87ee995140827747:0",
-    "name": "LUXE BEAUTY LOUNGE",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:15.641220"
-  },
-  {
-    "place_id": "0x87ee9a186680760d:0",
-    "name": "ALDI",
-    "address": "",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:14.289643"
-  },
-  {
-    "place_id": "0x87ee99ae6e273cf5:0",
-    "name": "East Village Pantry",
-    "address": "",
-    "category": "Pantry",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:47:12.687251"
   }
 ]
