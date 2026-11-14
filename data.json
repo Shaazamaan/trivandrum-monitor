@@ -1,5 +1,149 @@
 [
   {
+    "place_id": "0x3b05b982f4253ceb:0",
+    "name": "Maluzz",
+    "address": "SRK Building, Nedumangad Karipoor Rd, Panachamood, Karipoor Road",
+    "category": "Boutique",
+    "phone": "+91 77362 10880",
+    "website": null,
+    "discovered_at": "2026-11-14 17:49:07.042795"
+  },
+  {
+    "place_id": "0x3b05b9f5bf336a1f:0",
+    "name": "AMBADI STORES",
+    "address": "AMBADI STORES, Anad Nedumangad Rd, near NEDUMANGAD CORPORATION MINI STADIUM",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:49:05.817560"
+  },
+  {
+    "place_id": "0x3b05ae91282ed1eb:0",
+    "name": "Sreeragam Auditorium",
+    "address": "",
+    "category": "Auditorium",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:49:04.526986"
+  },
+  {
+    "place_id": "0x3b05af0037778801:0",
+    "name": "Sreelakam",
+    "address": "93WP+925, R C St",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:49:03.274580"
+  },
+  {
+    "place_id": "0x3b05af393beb64e5:0",
+    "name": "MEDAYIL BAKERY AND JUICE HUB",
+    "address": "56, NEYYATTINKARA",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:49:01.907995"
+  },
+  {
+    "place_id": "0x3b05afe701778579:0",
+    "name": "Bee Cake",
+    "address": "C32P+RP2",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:49:00.622760"
+  },
+  {
+    "place_id": "0x3b05ac3b0f850a7f:0",
+    "name": "JRS AYURVEDA CLINIC AND PHARMACY",
+    "address": "94Q8+7GF",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:48:59.405918"
+  },
+  {
+    "place_id": "0x3b05af51d05f4b37:0",
+    "name": "Shanthigiri ayurveda & sidha vaidyashala",
+    "address": "C32Q+C4F, Panvel - Kochi - Kanyakumari Hwy",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:48:58.127181"
+  },
+  {
+    "place_id": "0x3b05afd391dfcd63:0",
+    "name": "Dr.ASHISH'S AYURDALAM",
+    "address": "93WP+XWJ &, Akshaya kendra, behind KSRTC Bus Stand, near Kurishadi",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 98472 61626",
+    "website": null,
+    "discovered_at": "2026-11-14 17:48:56.864671"
+  },
+  {
+    "place_id": "0x3b05ade9b26a9293:0",
+    "name": "Swasthya Ayurveda Clinic",
+    "address": "",
+    "category": "Hospital",
+    "phone": "+91 96331 49164",
+    "website": null,
+    "discovered_at": "2026-11-14 17:48:55.616031"
+  },
+  {
+    "place_id": "0x3b05af8dedb80fbd:0",
+    "name": "Panchakarma ayurvedic center",
+    "address": "Hari Nivas, Pirayummoodu",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 94958 32340",
+    "website": null,
+    "discovered_at": "2026-11-14 17:48:54.367500"
+  },
+  {
+    "place_id": "0x3b05adbfb571ca95:0",
+    "name": "Surabhi Ayurveda Consultancy & Counselling",
+    "address": "Surabhi, Vattavila",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 97440 16300",
+    "website": null,
+    "discovered_at": "2026-11-14 17:48:53.085463"
+  },
+  {
+    "place_id": "0x3b05ad004d8770e5:0",
+    "name": "Anantha Ayurveda Clinic & Pharmacy",
+    "address": "Marayamuttom, IX/588 Marayamuttom-Paliyode Road, PO",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:48:51.843038"
+  },
+  {
+    "place_id": "0x3b05af52b0d017b7:0",
+    "name": "Ayurveda Multispeciality",
+    "address": "93VV+45P, Trivandrum - Nagercoil Hwy",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:48:50.609567"
+  },
+  {
+    "place_id": "0x3b05afd63e1e0745:0",
+    "name": "Ayurvedha Hospital Junction Neyyattinkara",
+    "address": "C35G+954, Trivandrum - Nagercoil Hwy",
+    "category": "Historical landmark",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:48:49.356862"
+  },
+  {
+    "place_id": "0x3b05ae890409ac01:0",
+    "name": "Indu Ayurveda Dispensary",
+    "address": "Neyyattinkara Kattakkada Rd",
+    "category": "Hospital",
+    "phone": "+91 94968 14316",
+    "website": null,
+    "discovered_at": "2026-11-14 17:48:48.090516"
+  },
+  {
     "place_id": "0x3b05e9f74de96fff:0",
     "name": "Prathibha Textiles",
     "address": "Katcheri Junction",
@@ -8854,149 +8998,5 @@
     "phone": "+91 80757 04847",
     "website": null,
     "discovered_at": "2026-11-14 09:15:25.331103"
-  },
-  {
-    "place_id": "0x3b05a57ece33418f:0",
-    "name": "M Squared Dental Clinic",
-    "address": "9XQG+HC4, Kovalam Rd",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:15:23.939056"
-  },
-  {
-    "place_id": "0x3b05af2b603624a5:0",
-    "name": "JS Dental Clinic",
-    "address": "Kanjiramkulam Pulluvila Road",
-    "category": "Dental clinic",
-    "phone": "+91 98464 71685",
-    "website": null,
-    "discovered_at": "2026-11-14 09:15:22.705580"
-  },
-  {
-    "place_id": "0x3b05af2869b34f41:0",
-    "name": "PS DENTAL CLINIC",
-    "address": "opposite GHS",
-    "category": "Dental clinic",
-    "phone": "+91 79945 81848",
-    "website": null,
-    "discovered_at": "2026-11-14 09:15:20.952882"
-  },
-  {
-    "place_id": "0x3b05af00797a8871:0",
-    "name": "Dr Teeth Dental care",
-    "address": "Closes 6:30 PM",
-    "category": "Open",
-    "phone": "+91 88489 33746",
-    "website": null,
-    "discovered_at": "2026-11-14 09:15:19.674241"
-  },
-  {
-    "place_id": "0x3b05a5a84b6aaaab:0",
-    "name": "Smile Stylers Dental Clinic And Implant Centre, Kovalam",
-    "address": "9XPJ+J2J, Behind German Bakery ,Dental Clinic AT Dr Unni's Agastyaa Heritage Ayurvedic Centre , Hawa Beach, Light House Rd",
-    "category": "Dental clinic",
-    "phone": "+91 98471 52633",
-    "website": null,
-    "discovered_at": "2026-11-14 09:15:18.435013"
-  },
-  {
-    "place_id": "0x3b05aff3f171e81d:0",
-    "name": "S N Multi Speciality Dental Clinic",
-    "address": "Closes 7 PM",
-    "category": "Open",
-    "phone": "+91 97449 10245",
-    "website": null,
-    "discovered_at": "2026-11-14 09:15:17.021897"
-  },
-  {
-    "place_id": "0x3b05af2ba3b1c751:0",
-    "name": "Smile Tech Dental Speciality Centre",
-    "address": "Near auto stand,trivandrum, road",
-    "category": "Dental clinic",
-    "phone": "+91 80756 18903",
-    "website": null,
-    "discovered_at": "2026-11-14 09:15:15.799307"
-  },
-  {
-    "place_id": "0x3b05af00161f18c7:0",
-    "name": "Dr.DS Super Speciality Dental Centre",
-    "address": "925G+JQM, Chappath Rd",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:15:14.519240"
-  },
-  {
-    "place_id": "0x3b05af0035293489:0",
-    "name": "Vital Smiles Dental Studio",
-    "address": "Pulinkudi Rd",
-    "category": "Dental clinic",
-    "phone": "+91 96338 12842",
-    "website": null,
-    "discovered_at": "2026-11-14 09:15:13.200949"
-  },
-  {
-    "place_id": "0x3b05af3ac15b11af:0",
-    "name": "Dr Aromal's dental clinic",
-    "address": "opposite LMS Church",
-    "category": "Dental clinic",
-    "phone": "+91 70195 19891",
-    "website": null,
-    "discovered_at": "2026-11-14 09:15:12.007628"
-  },
-  {
-    "place_id": "0x3b05b805aa0826cb:0",
-    "name": "Ceam Tution Center",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:15:10.703016"
-  },
-  {
-    "place_id": "0x3b05c7f747ca4ab5:0",
-    "name": "Surya Bakery",
-    "address": "JX9W+6WF",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:08:13.318495"
-  },
-  {
-    "place_id": "0x3b05b80538a30ec9:0",
-    "name": "Arabian opticals",
-    "address": "Hospital, junction",
-    "category": "Optical wholesaler",
-    "phone": "+91 99472 99626",
-    "website": null,
-    "discovered_at": "2026-11-14 09:08:12.057423"
-  },
-  {
-    "place_id": "0x3b05c7de25ee909d:0",
-    "name": "Government Ayurvedic Hospital",
-    "address": "",
-    "category": "Hospital",
-    "phone": "+91 94464 19228",
-    "website": null,
-    "discovered_at": "2026-11-14 09:08:10.738637"
-  },
-  {
-    "place_id": "0x3b05b7b98dede02f:0",
-    "name": "Sthira Ayurvedic Health care Centre, kanyarupara",
-    "address": "Kanyarupara, Nedumangad - Shorlacode Hwy",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:08:09.511934"
-  },
-  {
-    "place_id": "0x3b05c7bd62639469:0",
-    "name": "National Scans & Diagnostic Services",
-    "address": "",
-    "category": "Medical diagnostic imaging center",
-    "phone": "+91 80867 89222",
-    "website": null,
-    "discovered_at": "2026-11-14 09:08:08.270873"
   }
 ]
