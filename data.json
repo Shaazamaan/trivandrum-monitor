@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05af95010e404f:0",
+    "name": "SIVABHADRA AYURVEDA CLINIC",
+    "address": "Closes 7:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:56:13.449131"
+  },
+  {
+    "place_id": "0x3b05e908871933c7:0",
+    "name": "BILAL TOURS & TRAVELS",
+    "address": "Kilimanoor - Alamcode Rd",
+    "category": "Airline ticket agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:56:12.256817"
+  },
+  {
+    "place_id": "0x3b05c1004d90c349:0",
+    "name": "Ambalamukku",
+    "address": "MRRJ+4R3",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:56:10.822026"
+  },
+  {
+    "place_id": "0x3b05c12de13df62b:0",
+    "name": "Town Medical Centre",
+    "address": "near Taluk Hospital",
+    "category": "Medical Center",
+    "phone": "+91 70343 42500",
+    "website": null,
+    "discovered_at": "2026-11-14 11:56:09.560458"
+  },
+  {
+    "place_id": "0x3b05e9f9b2964df3:0",
+    "name": "Emerald Herbal Beauty Clinic",
+    "address": "Closes 6:30 PM",
+    "category": "Open",
+    "phone": "+91 97461 93339",
+    "website": null,
+    "discovered_at": "2026-11-14 11:56:08.377801"
+  },
+  {
     "place_id": "0x3b05e5764ab0678b:0",
     "name": "Crowngate The Oral Prosthetic Centre",
     "address": "Elakamon",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:37:15.013009"
-  },
-  {
-    "place_id": "0x880fd3a814e3e0c9:0",
-    "name": "The Skin Care Center | Chicago (Suite 320)",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:11.137998"
-  },
-  {
-    "place_id": "0x880fd35381f44cb3:0",
-    "name": "True Skin Care Center",
-    "address": "845 N Michigan Ave #923",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:09.818410"
-  },
-  {
-    "place_id": "0x880fd39769de1abd:0",
-    "name": "The Skin Care Center | Chicago (Suite 401)",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:08.597557"
-  },
-  {
-    "place_id": "0x880fd3547bdd70af:0",
-    "name": "Aesthetic Skin Chicago",
-    "address": "200 W Superior St Ste 210",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:07.059423"
-  },
-  {
-    "place_id": "0x880e2d147053bc97:0",
-    "name": "Skin Laser & Medspa",
-    "address": "",
-    "category": "Laser hair removal service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:05.853916"
   }
 ]
