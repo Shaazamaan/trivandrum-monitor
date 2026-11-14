@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c117bcf93085:0",
+    "name": "VWood Interior",
+    "address": "Venjaramoodu Market Road",
+    "category": "Manufacturer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 21:53:18.730803"
+  },
+  {
+    "place_id": "0x3b05c1fa90de51a1:0",
+    "name": "SET UP MEN'S WEAR",
+    "address": "MWH6+C34",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 21:53:17.435978"
+  },
+  {
     "place_id": "0x3b05bd436d2e1f31:0",
     "name": "RED APPLE TOURS AND TRAVELS",
     "address": "Trivandrum",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 12:41:40.655824"
-  },
-  {
-    "place_id": "0x872b0bbd96e3f3d7:0",
-    "name": "Juice Core Organic",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:39.418808"
-  },
-  {
-    "place_id": "0x872b13837be397fd:0",
-    "name": "The Juice Joint",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:38.080413"
   }
 ]
