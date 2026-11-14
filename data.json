@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bec771763869:0",
+    "name": "Garuda Driving School Training Ground",
+    "address": "Kurisadi Road, Manvila, Sreekariyam - Kazhakuttam Rd",
+    "category": "Motorcycle driving school",
+    "phone": "+91 94467 50268",
+    "website": null,
+    "discovered_at": "2026-11-14 23:00:06.620234"
+  },
+  {
+    "place_id": "0x3b05bf8155870631:0",
+    "name": "Lemans Driving And Finishing School",
+    "address": "near Lulu Mall",
+    "category": "Driving school",
+    "phone": "+91 97459 88880",
+    "website": null,
+    "discovered_at": "2026-11-14 23:00:05.358894"
+  },
+  {
+    "place_id": "0x3b05bb6350143adf:0",
+    "name": "MOSES MDS",
+    "address": "Pottakuzhy, Gowreesapattom Rd",
+    "category": "Driving school",
+    "phone": "+91 62385 08887",
+    "website": null,
+    "discovered_at": "2026-11-14 23:00:04.180875"
+  },
+  {
+    "place_id": "0x3b05bfdbd3580873:0",
+    "name": "Orin Heavy and Light Motor Driving School",
+    "address": "Kazhakoottam - Thaikod Rd",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 23:00:02.950734"
+  },
+  {
+    "place_id": "0x3b05bed861b986db:0",
+    "name": "Chandrika Motor Driving School",
+    "address": "",
+    "category": "Drivers license training school",
+    "phone": "+91 98479 42544",
+    "website": null,
+    "discovered_at": "2026-11-14 23:00:01.773322"
+  },
+  {
+    "place_id": "0x3b05bc0c694750af:0",
+    "name": "MURALI DRIVING SCHOOL",
+    "address": "Maharajas, po, near sabine hospital",
+    "category": "Driving school",
+    "phone": "+91 90487 37707",
+    "website": null,
+    "discovered_at": "2026-11-14 23:00:00.404407"
+  },
+  {
+    "place_id": "0x3b05bd6a305feaeb:0",
+    "name": "Chroma Makeover Studio",
+    "address": "Puliyarthala, Sarang Complex, Ulloor Akkulam Road, Pulayanarkotta",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:59:59.102749"
+  },
+  {
+    "place_id": "0x3b05b95794b53361:0",
+    "name": "SUN SURGICAL & PHARMACEUTICALS",
+    "address": "",
+    "category": "Surgical supply store",
+    "phone": "+91 85903 21008",
+    "website": null,
+    "discovered_at": "2026-11-14 22:59:57.891056"
+  },
+  {
     "place_id": "0x87ee99c4a3a2418d:0",
     "name": "Gravitate Coworking (East Village)",
     "address": "",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 13:31:31.143540"
-  },
-  {
-    "place_id": "0x3b05be8c58efa7f1:0",
-    "name": "Ashirvad Mission Hospital",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": "+91 62353 56000",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:29.958918"
-  },
-  {
-    "place_id": "0x3b05bef8db2bc2b7:0",
-    "name": "Saji clinic and laboratory",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:28.769835"
-  },
-  {
-    "place_id": "0x3b05bfa008da24cd:0",
-    "name": "Kaya Kalpa by Aura Hospitality",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:27.571795"
-  },
-  {
-    "place_id": "0x3b05bf74db7b976d:0",
-    "name": "S.S Medical Center",
-    "address": "Amballoor- Chanthavila Rd",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:26.319897"
-  },
-  {
-    "place_id": "0x3b05bef8d2699dfd:0",
-    "name": "Dr Rudys Dental Clinic",
-    "address": "HV6F+3RW, kazhakootam",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:25.027901"
-  },
-  {
-    "place_id": "0x3b05bf679f4d2b81:0",
-    "name": "Santhwana Clinic",
-    "address": "near Alumoodu Bhagavathy Temple",
-    "category": "Hospital",
-    "phone": "+91 75106 06818",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:23.840891"
-  },
-  {
-    "place_id": "0x3b05beffd37b4865:0",
-    "name": "revathy dentel clinic",
-    "address": "HV8F+6WP",
-    "category": "Dental clinic",
-    "phone": "+91 94479 65098",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:22.538470"
-  },
-  {
-    "place_id": "0x3b05bfb13151cfe1:0",
-    "name": "Dr. Sreelal's Dental Clinic",
-    "address": "TC - I, 3739High School Rd",
-    "category": "Hospital",
-    "phone": "+91 98470 68404",
-    "website": null,
-    "discovered_at": "2026-11-14 13:31:21.274066"
   }
 ]
