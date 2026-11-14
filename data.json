@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05c1dd092ea16d:0",
+    "name": "CENTRE FOR ENGINEERING",
+    "address": "+91 89216 73794",
+    "category": "Open 24 hours",
+    "phone": "+91 89216 73794",
+    "website": null,
+    "discovered_at": "2026-11-14 07:52:21.916470"
+  },
+  {
+    "place_id": "0x3b05bf2d794edb0b:0",
+    "name": "Chromolaena",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:52:20.752351"
+  },
+  {
+    "place_id": "0x3b05bf006b62195b:0",
+    "name": "Ambrosia The Classic Bake House, Kazhakuttom",
+    "address": "HV8F+C8W, High School Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:52:19.463942"
+  },
+  {
+    "place_id": "0x3b05bf573ab6ed61:0",
+    "name": "Burger Lounge",
+    "address": "",
+    "category": "Hamburger restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:52:18.258766"
+  },
+  {
+    "place_id": "0x3b05bf9fc202286d:0",
+    "name": "PONDIS PIZZA HUB",
+    "address": "",
+    "category": "Pizza restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:52:16.984676"
+  },
+  {
+    "place_id": "0x3b05bf6b7909e1e3:0",
+    "name": "Dr anjana s sujai",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:52:15.815516"
+  },
+  {
+    "place_id": "0x3b05bf0069f34e01:0",
+    "name": "Shalom Shifa Dental Care",
+    "address": "HV9F+29V, Panvel - Kochi - Kanyakumari Hwy",
+    "category": "Dental clinic",
+    "phone": "+91 96058 53147",
+    "website": null,
+    "discovered_at": "2026-11-14 07:52:14.597439"
+  },
+  {
     "place_id": "0x3b05e92612e047ff:0",
     "name": "AL JIKUS FAMILY RESTAURANT",
     "address": "Varkala kallambalam rd, Palachira - Karathala -Thettikulam Rd",
@@ -8935,68 +8998,5 @@
     "phone": "+91 85477 00010",
     "website": null,
     "discovered_at": "2026-11-14 03:18:34.287425"
-  },
-  {
-    "place_id": "0x3b05af0d05081257:0",
-    "name": "NEXGENZ DIGITAL HUB",
-    "address": "C S I CHURCH COMPLEX",
-    "category": "Mobile phone repair shop",
-    "phone": "+91 94470 52070",
-    "website": null,
-    "discovered_at": "2026-11-14 03:18:33.113685"
-  },
-  {
-    "place_id": "0x3b05ab370dc556ab:0",
-    "name": "Paris Boutique",
-    "address": "Pazhaya",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:29.833010"
-  },
-  {
-    "place_id": "0x3b05aff2ce5533e9:0",
-    "name": "SREELATHA TEXTILES",
-    "address": "Hospital, Junction",
-    "category": "Clothing store",
-    "phone": "+91 99470 22212",
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:28.539730"
-  },
-  {
-    "place_id": "0x3b05af778f3a1579:0",
-    "name": "Divya's Homemade Cake Dine ദിവ്യാസ് ഹോം മെയ്ഡ് കേക്ക് ഡൈൻ",
-    "address": "Santhinekathan, SRA 16",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:27.202399"
-  },
-  {
-    "place_id": "0x3b05af94e87e87ad:0",
-    "name": "GOLDEN BAKERY",
-    "address": "Closes 11 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:25.895854"
-  },
-  {
-    "place_id": "0x3b05afd3340c4df9:0",
-    "name": "Stars",
-    "address": "R C St",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:24.507948"
-  },
-  {
-    "place_id": "0x3b05ae66acb12173:0",
-    "name": "Annapoorna Hotel",
-    "address": "",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:23.285210"
   }
 ]
