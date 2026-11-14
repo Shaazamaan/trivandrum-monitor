@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bb400f69fe01:0",
+    "name": "Cube - The Reading Nest (Reading Room)",
+    "address": "",
+    "category": "Coworking space",
+    "phone": "+91 94959 33895",
+    "website": null,
+    "discovered_at": "2026-11-14 13:58:41.934405"
+  },
+  {
+    "place_id": "0x3b05b99d221c3ad3:0",
+    "name": "Exact Academy",
+    "address": "",
+    "category": "Educational institution",
+    "phone": "+91 97459 44967",
+    "website": null,
+    "discovered_at": "2026-11-14 13:58:40.696537"
+  },
+  {
+    "place_id": "0x3b05b9792f2a507b:0",
+    "name": "Club9 Studio",
+    "address": "T.C 4/982(4,5), opp. Income Tax Office",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:58:39.496368"
+  },
+  {
+    "place_id": "0x3b05bb82694529fb:0",
+    "name": "MIRHA MULTISPECIALITY DENTAL CLINIC",
+    "address": "1st Floor, Sarhan Building, Ambalamukku Rd",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:58:38.204689"
+  },
+  {
     "place_id": "0x3b05bb90caa95211:0",
     "name": "Trident Community Pharmacy",
     "address": "TC 25/720,Ground Floor,Pullenvila Towers,Plamoodu, Post",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:42:55.545979"
-  },
-  {
-    "place_id": "0x880e2d002f3e3c69:0",
-    "name": "The One Hair Salon and Head Spa",
-    "address": "2059A S Jefferson St",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:53.455572"
-  },
-  {
-    "place_id": "0x880e2db7807a5d9b:0",
-    "name": "Salone Trè",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:50.995393"
-  },
-  {
-    "place_id": "0x880e2d38890bc2db:0",
-    "name": "Salon 1181 Chicago",
-    "address": "520 N Michigan Ave suite 119 3rd floor",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:49.577178"
-  },
-  {
-    "place_id": "0x880e2cb023379771:0",
-    "name": "XEX Salon",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:47.461707"
   }
 ]
