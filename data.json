@@ -1,5 +1,392 @@
 [
   {
+    "place_id": "0x3b05bf117fd17f4b:0",
+    "name": "Chef's Cake World Vetturoad, Kazhakoottm",
+    "address": "Vetturoad junction, junction, near Vetturoad",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:38.587782"
+  },
+  {
+    "place_id": "0x3b05bf03fa4100ab:0",
+    "name": "Mama's Healthy Delights",
+    "address": "Opens 10:30 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:37.388044"
+  },
+  {
+    "place_id": "0x3b05bfc0a16cd6f9:0",
+    "name": "Qasr Laban Kazhakkoottam",
+    "address": "NH Bypass Road",
+    "category": "Dessert shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:36.179667"
+  },
+  {
+    "place_id": "0x3b05bf3764405e73:0",
+    "name": "COCO TREE",
+    "address": "Opp: Federal Bank",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:34.773617"
+  },
+  {
+    "place_id": "0x3b05bf14debc08f7:0",
+    "name": "Thodi Kazhakootam",
+    "address": "Thodi, near police station",
+    "category": "Food court",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:33.613704"
+  },
+  {
+    "place_id": "0x3b05be8c50ab390d:0",
+    "name": "Kulathoor Medicals",
+    "address": "Sreekariyam - Kazhakuttam Rd",
+    "category": "Pharmacy",
+    "phone": "+91 90370 70704",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:32.409158"
+  },
+  {
+    "place_id": "0x3b05bfb87c05e295:0",
+    "name": "Geethanjali Ayurveda Madom",
+    "address": "",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:31.143540"
+  },
+  {
+    "place_id": "0x3b05be8c58efa7f1:0",
+    "name": "Ashirvad Mission Hospital",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": "+91 62353 56000",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:29.958918"
+  },
+  {
+    "place_id": "0x3b05bef8db2bc2b7:0",
+    "name": "Saji clinic and laboratory",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:28.769835"
+  },
+  {
+    "place_id": "0x3b05bfa008da24cd:0",
+    "name": "Kaya Kalpa by Aura Hospitality",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:27.571795"
+  },
+  {
+    "place_id": "0x3b05bf74db7b976d:0",
+    "name": "S.S Medical Center",
+    "address": "Amballoor- Chanthavila Rd",
+    "category": "Dermatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:26.319897"
+  },
+  {
+    "place_id": "0x3b05bef8d2699dfd:0",
+    "name": "Dr Rudys Dental Clinic",
+    "address": "HV6F+3RW, kazhakootam",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:25.027901"
+  },
+  {
+    "place_id": "0x3b05bf679f4d2b81:0",
+    "name": "Santhwana Clinic",
+    "address": "near Alumoodu Bhagavathy Temple",
+    "category": "Hospital",
+    "phone": "+91 75106 06818",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:23.840891"
+  },
+  {
+    "place_id": "0x3b05beffd37b4865:0",
+    "name": "revathy dentel clinic",
+    "address": "HV8F+6WP",
+    "category": "Dental clinic",
+    "phone": "+91 94479 65098",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:22.538470"
+  },
+  {
+    "place_id": "0x3b05bfb13151cfe1:0",
+    "name": "Dr. Sreelal's Dental Clinic",
+    "address": "TC - I, 3739High School Rd",
+    "category": "Hospital",
+    "phone": "+91 98470 68404",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:21.274066"
+  },
+  {
+    "place_id": "0x3b05bef9aa45b417:0",
+    "name": "Nashee Dental Care",
+    "address": "Near, Aswathy Beauty Parlour Rd",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:20.092469"
+  },
+  {
+    "place_id": "0x3b05bfa89aad7d8b:0",
+    "name": "Smile n Shine Dental Clinic",
+    "address": "HVG9+89Q",
+    "category": "Dental clinic",
+    "phone": "+91 81430 30660",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:18.898732"
+  },
+  {
+    "place_id": "0x3b05bfbe17da435b:0",
+    "name": "Dento Planet",
+    "address": "TC 2/428,429 Chanthavila Junction Kazhakkoottam P.O",
+    "category": "Dental clinic",
+    "phone": "+91 79074 67279",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:17.617595"
+  },
+  {
+    "place_id": "0x3b05bf0018299ecf:0",
+    "name": "Dr Anand's Smile N More Dental and Facial Aesthetic Clinic",
+    "address": "opposite Govt Relief LP School",
+    "category": "Dental clinic",
+    "phone": "+91 90724 36712",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:16.355250"
+  },
+  {
+    "place_id": "0x3b05bff27ca03b33:0",
+    "name": "Doctor M's Dentistry",
+    "address": "near CSI Mission Hospital",
+    "category": "Dental clinic",
+    "phone": "+91 80864 29842",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:15.160518"
+  },
+  {
+    "place_id": "0x3b05e86f6bf7b553:0",
+    "name": "Gopan T P & Associates",
+    "address": "Uthram Complex, Kallambalam - Nagaroor Rd, opposite Irfan Auditorium",
+    "category": "Accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:15.157472"
+  },
+  {
+    "place_id": "0x3b05fd0f3dc7a737:0",
+    "name": "The Design Room",
+    "address": "Ganapathi Nagar 50",
+    "category": "Architecture firm",
+    "phone": "+91 94009 78722",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:13.947877"
+  },
+  {
+    "place_id": "0x3b05e9000e9afbd5:0",
+    "name": "KUNNUMPURATHU VEEDU",
+    "address": "QQ7Q+C6C",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:12.793237"
+  },
+  {
+    "place_id": "0x3b05e982d08850b7:0",
+    "name": "Snehasoudham, Mavinmoodu, Kallambalam PO",
+    "address": "QQ5J+P3Q",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:11.518112"
+  },
+  {
+    "place_id": "0x3b05e9005e84f3a7:0",
+    "name": "Vimal Kallambalam",
+    "address": "QQ5V+P58, National Highway 47",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:10.194628"
+  },
+  {
+    "place_id": "0x3b05e90077802923:0",
+    "name": "PARADISE HASHEER KAVELI LINE KALLAMBALAM",
+    "address": "QQ9V+3P6, Junction",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:08.994600"
+  },
+  {
+    "place_id": "0x3b05e93b0559ec69:0",
+    "name": "F N MANZIL PANAMOOTTIL HOUSE",
+    "address": "+91 86062 23640",
+    "category": "Open 24 hours",
+    "phone": "+91 86062 23640",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:07.771264"
+  },
+  {
+    "place_id": "0x3b05efbc243e2c79:0",
+    "name": "Karna super market",
+    "address": "QP76+G8Q",
+    "category": "Grocery store",
+    "phone": "+91 99950 85966",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:06.591478"
+  },
+  {
+    "place_id": "0x3b0603e56663c495:0",
+    "name": "Dimos Furniture - Karunagappally",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": "+91 90727 21012",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:05.122622"
+  },
+  {
+    "place_id": "0x3b05b9003805ef5d:0",
+    "name": "Home Vibes Furniture & Interiors",
+    "address": "HWHG+5F3 Pothencode - Powdikonam Road, Powdikonam - Vattakarikkakom Rd",
+    "category": "Furniture store",
+    "phone": "+91 94477 93463",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:03.905382"
+  },
+  {
+    "place_id": "0x3b0603204e345861:0",
+    "name": "Dimos Econ Budget Furniture",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": "+91 88910 20207",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:02.638294"
+  },
+  {
+    "place_id": "0x3b05e9c4c0cd7c15:0",
+    "name": "Salam Mobiles",
+    "address": "PRC7+H79, SH 46",
+    "category": "Cell phone accessory store",
+    "phone": "+91 90487 83750",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:01.370870"
+  },
+  {
+    "place_id": "0x3b05c26083ae9d23:0",
+    "name": "AK MOBILES",
+    "address": "PRMX+HGV",
+    "category": "Cell phone store",
+    "phone": "+91 98956 75323",
+    "website": null,
+    "discovered_at": "2026-11-14 13:31:00.116000"
+  },
+  {
+    "place_id": "0x3b05e9c4cb0d7aa5:0",
+    "name": "Vogue up designers",
+    "address": "7:30 PM",
+    "category": "Closes soon",
+    "phone": "+91 70348 60323",
+    "website": null,
+    "discovered_at": "2026-11-14 13:30:58.884877"
+  },
+  {
+    "place_id": "0x3b05e977452fb41f:0",
+    "name": "Nianis homemade cakes kallambalam",
+    "address": "Decentmukku - Pulloormukku Rd, near Muslim Jamath",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:30:57.671550"
+  },
+  {
+    "place_id": "0x3b05e91e285a7a93:0",
+    "name": "Persian restaurant",
+    "address": "",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:30:56.319167"
+  },
+  {
+    "place_id": "0x3b05e65c55018111:0",
+    "name": "RK Medicals & Community Pharmacy,",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 94474 30560",
+    "website": null,
+    "discovered_at": "2026-11-14 13:30:55.096707"
+  },
+  {
+    "place_id": "0x3b05e92b19ce9b1f:0",
+    "name": "Krishna Medicals",
+    "address": "Varkala Kallambalam Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:30:53.779973"
+  },
+  {
+    "place_id": "0x3b05e70f49eb72d3:0",
+    "name": "Janashraya Community Pharmacy, Kulamada",
+    "address": "Closes 9:30 PM",
+    "category": "Open",
+    "phone": "+91 91883 74637",
+    "website": null,
+    "discovered_at": "2026-11-14 13:30:52.625938"
+  },
+  {
+    "place_id": "0x3b05e86fae7b49dd:0",
+    "name": "Sneha Hospital - DANN HEALTHCARE.",
+    "address": "",
+    "category": "Private hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:30:51.354009"
+  },
+  {
+    "place_id": "0x3b05e9feebcc6391:0",
+    "name": "Eyezy optical",
+    "address": "Bus stop, attingal road",
+    "category": "Optician",
+    "phone": "+91 77369 97002",
+    "website": null,
+    "discovered_at": "2026-11-14 13:30:50.108140"
+  },
+  {
+    "place_id": "0x3b05e97ca5c1bb1b:0",
+    "name": "City Max Opticians - Essilor Experts",
+    "address": "Main Road, opposite Varkala Kallambalam Road",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 13:30:48.911668"
+  },
+  {
+    "place_id": "0x3b05fde4ea86f91f:0",
+    "name": "Serene Derma",
+    "address": "Opens 9 AM Mon",
+    "category": "Closed",
+    "phone": "+91 62827 35837",
+    "website": null,
+    "discovered_at": "2026-11-14 13:30:47.720129"
+  },
+  {
     "place_id": "0x3b05abd0109f9309:0",
     "name": "Wedding flora events",
     "address": "P R Nivas Mukkoluvila Ayira P O",
@@ -8611,392 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:42:10.985469"
-  },
-  {
-    "place_id": "0x880e2d441ff0e777:0",
-    "name": "Target Grocery",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:09.715965"
-  },
-  {
-    "place_id": "0x880e2ca453f5ec9d:0",
-    "name": "New York Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:07.525971"
-  },
-  {
-    "place_id": "0x880e2ca4f818b317:0",
-    "name": "Love & Promise Jewelers",
-    "address": "",
-    "category": "Jewelry designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:04.835862"
-  },
-  {
-    "place_id": "0x880e2ca450d0f651:0",
-    "name": "The Jewels of Chicago",
-    "address": "54 E Madison St B23",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:03.552110"
-  },
-  {
-    "place_id": "0x880e2d4a6e005615:0",
-    "name": "Pure Jewelers",
-    "address": "29 E Madison St Ste 1635",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:01.412871"
-  },
-  {
-    "place_id": "0x880e318e94c40a5f:0",
-    "name": "Furniture Stars",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:42:00.215193"
-  },
-  {
-    "place_id": "0x880e21869d93655d:0",
-    "name": "WOW Furniture Outlet",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:57.371778"
-  },
-  {
-    "place_id": "0x880fd33cabebb8b3:0",
-    "name": "Design Within Reach",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:54.804995"
-  },
-  {
-    "place_id": "0x880e2eb313241965:0",
-    "name": "Glam Furniture",
-    "address": "216 E 51st St",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:53.634274"
-  },
-  {
-    "place_id": "0x880e28b988c12939:0",
-    "name": "Royalty Furniture and Appliances",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:51.547513"
-  },
-  {
-    "place_id": "0x880e2be2fb45ef35:0",
-    "name": "New Age Chicago Furniture Co.",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:49.372446"
-  },
-  {
-    "place_id": "0x880e2cb6936bbb33:0",
-    "name": "Haute Living",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:46.943449"
-  },
-  {
-    "place_id": "0x880fd2d1e10bebe7:0",
-    "name": "Circa Modern",
-    "address": "329 W 18th St",
-    "category": "Used furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:45.764139"
-  },
-  {
-    "place_id": "0x8811deeb46ad6d55:0",
-    "name": "Midway Furniture",
-    "address": "800 W Chicago Ave",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:43.563448"
-  },
-  {
-    "place_id": "0x880e2dd38807b2f3:0",
-    "name": "Bob's Discount Furniture and Mattress Store",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:41.388390"
-  },
-  {
-    "place_id": "0x880e2f74809e7ae1:0",
-    "name": "Furniture Kingdom",
-    "address": "212 E 51st St",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:38.919633"
-  },
-  {
-    "place_id": "0x880e286b05cfa6d7:0",
-    "name": "Ultimate Furniture & Mattress",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:37.714444"
-  },
-  {
-    "place_id": "0x880e2eb80a776bfb:0",
-    "name": "Express Furniture Outlet & More",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:35.553907"
-  },
-  {
-    "place_id": "0x880e2c7e9c95a1f9:0",
-    "name": "Windy City Furniture, Inc.",
-    "address": "",
-    "category": "Used furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:33.431276"
-  },
-  {
-    "place_id": "0x880fcd9cb12fba4b:0",
-    "name": "Modulove Furniture (Formerly Comfy Living Chicago)",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:30.884700"
-  },
-  {
-    "place_id": "0x880e295b64ab753b:0",
-    "name": "Everyhome Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:29.683290"
-  },
-  {
-    "place_id": "0x880e2cac545fcf19:0",
-    "name": "Room & Board",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:27.523020"
-  },
-  {
-    "place_id": "0x880e2d33017d41ab:0",
-    "name": "Minimalism Fashion LLC",
-    "address": "205 N Michigan Ave Suit 810",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:24.965035"
-  },
-  {
-    "place_id": "0x880e2c7c01a6fda7:0",
-    "name": "Ms Catwalk",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:23.714653"
-  },
-  {
-    "place_id": "0x880e28a9f13757e1:0",
-    "name": "Effortless Style studio Boutique",
-    "address": "424 E 87th St",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:21.484207"
-  },
-  {
-    "place_id": "0x880e2d61c52ed007:0",
-    "name": "Fort Maner",
-    "address": "2819 W Harrison St",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:20.288856"
-  },
-  {
-    "place_id": "0x880e294d2bb51585:0",
-    "name": "Bougie Boutique LLC",
-    "address": "2233 E 79th St",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:19.110290"
-  },
-  {
-    "place_id": "0x880e297bf6b497df:0",
-    "name": "Fashion Mod",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:17.902327"
-  },
-  {
-    "place_id": "0x880e2d5036ade91f:0",
-    "name": "Florodora",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:13.662119"
-  },
-  {
-    "place_id": "0x880fd353ce67278d:0",
-    "name": "MARCUS",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:11.526831"
-  },
-  {
-    "place_id": "0x880e2d42acf342f3:0",
-    "name": "Alice & Wonder - State",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:09.397267"
-  },
-  {
-    "place_id": "0x880e2ca45361e3b5:0",
-    "name": "Teranz Boutique",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:07.259646"
-  },
-  {
-    "place_id": "0x880fd3972c6441ab:0",
-    "name": "Lafayette 148 New York | East Oak Street, Chicago",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:05.429914"
-  },
-  {
-    "place_id": "0x880e2d002d96a4f7:0",
-    "name": "UNIQLO Michigan Avenue",
-    "address": "600 N Michigan Ave",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:03.056946"
-  },
-  {
-    "place_id": "0x880e2cac6e03efd5:0",
-    "name": "White House Black Market",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:41:01.707869"
-  },
-  {
-    "place_id": "0x880fd3521e04af37:0",
-    "name": "Madewell",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:59.574281"
-  },
-  {
-    "place_id": "0x880fd3ae5f85f4cb:0",
-    "name": "Altar'd State Water Tower Place",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:57.381985"
-  },
-  {
-    "place_id": "0x880fd32cdd2c0639:0",
-    "name": "Reformation",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:54.851526"
-  },
-  {
-    "place_id": "0x880fd35316917941:0",
-    "name": "Anthropologie",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:53.673135"
-  },
-  {
-    "place_id": "0x880fd35383aa0379:0",
-    "name": "Free People",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:51.386468"
-  },
-  {
-    "place_id": "0x880fd353176dbe85:0",
-    "name": "Nordstrom Rack",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:48.893029"
-  },
-  {
-    "place_id": "0x880e2bf5bb257ee1:0",
-    "name": "City Fashions",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:47.672004"
-  },
-  {
-    "place_id": "0x880e2d8d7ffff1a9:0",
-    "name": "Giuseppa Collection by Dom itp",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:45.537223"
   }
 ]
