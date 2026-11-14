@@ -1,5 +1,284 @@
 [
   {
+    "place_id": "0x872b0ddb714546ad:0",
+    "name": "Pretty Please Boutique",
+    "address": "",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:52.762257"
+  },
+  {
+    "place_id": "0x872b0cf08c954163:0",
+    "name": "Kiss Me Kate Boutique",
+    "address": "",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:51.505709"
+  },
+  {
+    "place_id": "0x872b12a81a670119:0",
+    "name": "VIDA MOULIN",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:46.986471"
+  },
+  {
+    "place_id": "0x3b05bbde07471481:0",
+    "name": "tapestry",
+    "address": "50# 2566, T.C",
+    "category": "Boutique",
+    "phone": "+91 97787 20142",
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:45.758317"
+  },
+  {
+    "place_id": "0x872b0d61f85927c5:0",
+    "name": "Jamba",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:44.451856"
+  },
+  {
+    "place_id": "0x872b0c509eca3209:0",
+    "name": "Nekter Juice Bar",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:43.153857"
+  },
+  {
+    "place_id": "0x872b0d65c394a441:0",
+    "name": "Nekter Juice Bar",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:41.893557"
+  },
+  {
+    "place_id": "0x872b0466eb33a225:0",
+    "name": "The Berry Beet Juice Bar",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:40.655824"
+  },
+  {
+    "place_id": "0x872b0bbd96e3f3d7:0",
+    "name": "Juice Core Organic",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:39.418808"
+  },
+  {
+    "place_id": "0x872b13837be397fd:0",
+    "name": "The Juice Joint",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:38.080413"
+  },
+  {
+    "place_id": "0x872b13a21a8f3979:0",
+    "name": "Corner On The Market/ Hatch-it",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:36.786862"
+  },
+  {
+    "place_id": "0x872b0c54a0f8e563:0",
+    "name": "Essence Bakery Cafe",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:35.499036"
+  },
+  {
+    "place_id": "0x872b0d7623af0789:0",
+    "name": "La Purisima Bakery 2",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:34.199764"
+  },
+  {
+    "place_id": "0x872b13799d5e7297:0",
+    "name": "JL Patisserie",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:32.921956"
+  },
+  {
+    "place_id": "0x872b0d90d5b39311:0",
+    "name": "Barbs Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:31.624235"
+  },
+  {
+    "place_id": "0x872b0c3e56bb8fcd:0",
+    "name": "Sweet Land Cake",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:29.357004"
+  },
+  {
+    "place_id": "0x872b0d52444f968f:0",
+    "name": "Mama Linda's Bakeshop",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:28.028704"
+  },
+  {
+    "place_id": "0x872b0c2eebe03391:0",
+    "name": "Carmen's Bakery",
+    "address": "4132 E McDowell Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:26.749664"
+  },
+  {
+    "place_id": "0x872b13e2e72a6a07:0",
+    "name": "Hunnie Butter",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:25.345952"
+  },
+  {
+    "place_id": "0x872b0d57e2dea3ab:0",
+    "name": "A Bakeshop",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:24.123103"
+  },
+  {
+    "place_id": "0x872b6d2498cfb6ad:0",
+    "name": "Dawns NY Bakery on Central",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:22.527614"
+  },
+  {
+    "place_id": "0x3b05bbcac7f72985:0",
+    "name": "Oasis Dialab / DJDC",
+    "address": "FX7R+Q4H, Melamcode Temple Road",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:20.845683"
+  },
+  {
+    "place_id": "0x872b12f141454371:0",
+    "name": "Prime Eye Care, now part of MyEyeDr.",
+    "address": "",
+    "category": "Optometrist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:19.619384"
+  },
+  {
+    "place_id": "0x872b0d71809d299d:0",
+    "name": "Healthy Eye Care Fit Optical",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:18.220139"
+  },
+  {
+    "place_id": "0x872b0c462d990fe9:0",
+    "name": "Valley Eyecare Center",
+    "address": "3050 N 44th St",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:16.981579"
+  },
+  {
+    "place_id": "0x872b0f4571fb0fe9:0",
+    "name": "Heartland Eyecare",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:15.554279"
+  },
+  {
+    "place_id": "0x872b12b0b728ea9b:0",
+    "name": "Central Phoenix Eye Care",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:14.346210"
+  },
+  {
+    "place_id": "0x872b0d6f7844aa33:0",
+    "name": "Barnet Dulaney Perkins Eye Center",
+    "address": "4800 N 22nd St Ste 210",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:13.116744"
+  },
+  {
+    "place_id": "0x872b118f32ff1d9d:0",
+    "name": "Eye Doctors of Arizona",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:11.841558"
+  },
+  {
+    "place_id": "0x3b05b97f4ec5c309:0",
+    "name": "Royal Events",
+    "address": "GXJ7+C54",
+    "category": "Corporate office",
+    "phone": "+91 98472 76255",
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:10.574402"
+  },
+  {
+    "place_id": "0x3b05b99d33478005:0",
+    "name": "Sadananda Fancy",
+    "address": "GXP8+JHH",
+    "category": "Convenience store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:41:09.166109"
+  },
+  {
     "place_id": "0x3b05ba1dc489ca95:0",
     "name": "MS Mobiles",
     "address": "Closes 9 PM",
@@ -8719,284 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:40:13.410805"
-  },
-  {
-    "place_id": "0x880e2dd6f96f6fdb:0",
-    "name": "Tous Les Jours",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:10.824758"
-  },
-  {
-    "place_id": "0x880e2d8aa20e7483:0",
-    "name": "La Pasticceria",
-    "address": "E Ohio St #43",
-    "category": "Pastry shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:09.650194"
-  },
-  {
-    "place_id": "0x880fd3ac3c12850b:0",
-    "name": "Jennivee's Bakery & Cafe",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:07.501718"
-  },
-  {
-    "place_id": "0x880e2cad9b92af2d:0",
-    "name": "West Town Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:06.018953"
-  },
-  {
-    "place_id": "0x880e2d967eaf3f99:0",
-    "name": "Crumbl Cookies",
-    "address": "",
-    "category": "Cookie shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:03.431439"
-  },
-  {
-    "place_id": "0x880fd353d7c3233d:0",
-    "name": "Hendrickx Belgian Bread Crafter",
-    "address": "100 E Walton St",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:40:00.826774"
-  },
-  {
-    "place_id": "0x880e2b55cf1e69af:0",
-    "name": "Molly's Cupcakes",
-    "address": "419 E Illinois St 120 Ste 120",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:59.432835"
-  },
-  {
-    "place_id": "0x880e2d6b2472ebe5:0",
-    "name": "Sweet Mandy B's Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:56.881343"
-  },
-  {
-    "place_id": "0x880e2d0ac1a3c053:0",
-    "name": "The Bakery Box",
-    "address": "211 E Ohio St",
-    "category": "Dessert shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:55.575982"
-  },
-  {
-    "place_id": "0x880e2b000ada3bb9:0",
-    "name": "Le French Patisserie",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:53.433636"
-  },
-  {
-    "place_id": "0x880e2d932bf0b3f5:0",
-    "name": "Paris Baguette",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:50.814040"
-  },
-  {
-    "place_id": "0x880e2ca508f88733:0",
-    "name": "Sugar Bliss",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:49.646547"
-  },
-  {
-    "place_id": "0x880e2dbb4ac64a47:0",
-    "name": "Wake N Bakery Chicago Downtown",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:47.479853"
-  },
-  {
-    "place_id": "0x880fd3b58e1bf251:0",
-    "name": "Paris Baguette",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:44.963015"
-  },
-  {
-    "place_id": "0x880e2df47711b25f:0",
-    "name": "Paris Baguette",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:43.715969"
-  },
-  {
-    "place_id": "0x880e2d14253c4e77:0",
-    "name": "Levain Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:42.543926"
-  },
-  {
-    "place_id": "0x880e2ca52e73a6b1:0",
-    "name": "Magnolia Bakery",
-    "address": "",
-    "category": "Cupcake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:40.069953"
-  },
-  {
-    "place_id": "0x880fd38b196665f7:0",
-    "name": "Chapel Street Café and Restaurant",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:36.852097"
-  },
-  {
-    "place_id": "0x880fd3e6b113a1db:0",
-    "name": "Rest + Recreation",
-    "address": "1359 N Wells St",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:35.629092"
-  },
-  {
-    "place_id": "0x880e2d53bb79d977:0",
-    "name": "TARY",
-    "address": "111 W Illinois St",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:33.455179"
-  },
-  {
-    "place_id": "0x880e2d67a9a24145:0",
-    "name": "Overflow Coffee",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:30.938110"
-  },
-  {
-    "place_id": "0x880e2ca43f850001:0",
-    "name": "Fairgrounds Coffee & Tea",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:29.746468"
-  },
-  {
-    "place_id": "0x880e2dd25d6311f9:0",
-    "name": "Blue Bottle Coffee",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:27.390772"
-  },
-  {
-    "place_id": "0x880fd36dda7873ef:0",
-    "name": "Cold Moon Cafe",
-    "address": "",
-    "category": "Cafeteria",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:26.155808"
-  },
-  {
-    "place_id": "0x880fd335381e38e9:0",
-    "name": "Cafe Cremerie",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:23.393879"
-  },
-  {
-    "place_id": "0x880e2d1a62ff7099:0",
-    "name": "Kafe Mera",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:20.872854"
-  },
-  {
-    "place_id": "0x880e2cb109470fb1:0",
-    "name": "Caffe Umbria",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:19.647469"
-  },
-  {
-    "place_id": "0x880e2d00472991a5:0",
-    "name": "Kafein by Café Descartes - Daley Center",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:17.529099"
-  },
-  {
-    "place_id": "0x880e2b543755efe1:0",
-    "name": "Cupitol Coffee & Eatery (Streeterville)",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:15.407149"
-  },
-  {
-    "place_id": "0x880e2dcbd6c8e17b:0",
-    "name": "Broadway Cafe",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:12.931989"
-  },
-  {
-    "place_id": "0x880e2d4804e5ba69:0",
-    "name": "Hevi Cafe",
-    "address": "51 W Huron St",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:39:11.481229"
   }
 ]
