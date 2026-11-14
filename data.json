@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05e9b8e7773ac1:0",
+    "name": "Metroflex GYM Alamcode",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 00:10:19.692039"
+  },
+  {
+    "place_id": "0x3b05e9f0acb50c09:0",
+    "name": "Akash Hotel",
+    "address": "MRX7+8H9, Unnamed Road",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 00:10:18.182316"
+  },
+  {
+    "place_id": "0x3b05ef1c60a762cd:0",
+    "name": "My Cab Varkala",
+    "address": "VIJAYA VILAS 258",
+    "category": "Taxi service",
+    "phone": "+91 70348 53305",
+    "website": null,
+    "discovered_at": "2026-11-14 00:10:16.945012"
+  },
+  {
+    "place_id": "0x3b05eff04aa171b9:0",
+    "name": "Hello Varkala beach resort",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 81378 30686",
+    "website": null,
+    "discovered_at": "2026-11-14 00:10:15.416270"
+  },
+  {
+    "place_id": "0x3b05eff5afd807fb:0",
+    "name": "Happy Buddha S4",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 88913 37016",
+    "website": null,
+    "discovered_at": "2026-11-14 00:10:13.917600"
+  },
+  {
+    "place_id": "0x3b05ef0ec8c2d89b:0",
+    "name": "Romance Unisex Beauty Parlour",
+    "address": "QP5F+VW7",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 00:10:12.652849"
+  },
+  {
     "place_id": "0x3b05ef006e581575:0",
     "name": "Varkala Wind Horse Tibetan gift shop",
     "address": "PPP2+XWQ, N Cliff Rd",
@@ -8944,59 +8998,5 @@
     "phone": "+91 80895 08851",
     "website": null,
     "discovered_at": "2026-11-13 21:13:55.221296"
-  },
-  {
-    "place_id": "0x3b05af303c5f67c9:0",
-    "name": "MYDHILI Collections",
-    "address": "9277+PF5, Pulinkudi Rd",
-    "category": "Dress store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:13:53.923738"
-  },
-  {
-    "place_id": "0x3b05af99d457d64b:0",
-    "name": "Jikku’s Home Cakes",
-    "address": "Malamelkunnu Punnakulam",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:13:52.679359"
-  },
-  {
-    "place_id": "0x3b05a5b18d103297:0",
-    "name": "Vikraman tea shop",
-    "address": "CX5R+7FF",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:13:51.433951"
-  },
-  {
-    "place_id": "0x3b05af871e48b031:0",
-    "name": "SEAFOOD FRESH AND GRILLED",
-    "address": "chowara, somatheeram road",
-    "category": "Seafood restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:13:50.216963"
-  },
-  {
-    "place_id": "0x3b05a5971c1f74cf:0",
-    "name": "Afzal Hotel & Family Fast Food",
-    "address": "",
-    "category": "Chicken restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:13:48.976025"
-  },
-  {
-    "place_id": "0x3b05a5d1eea76d03:0",
-    "name": "Taste of Kerala",
-    "address": "",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:13:47.678400"
   }
 ]
