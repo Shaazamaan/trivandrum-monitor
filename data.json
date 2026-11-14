@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05ab0052197025:0",
+    "name": "Colours Cafe",
+    "address": "DHARMIS COMPLEX",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:39:36.127143"
+  },
+  {
+    "place_id": "0x3b05ab743b0716f3:0",
+    "name": "neethi medical store",
+    "address": "85V2+CXR, Trivandrum - Nagercoil Hwy",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:39:34.868783"
+  },
+  {
+    "place_id": "0xb750d2ab02dfeb5:0",
+    "name": "New Bharath Sidha Marma Ayurveda & Panchakarma Clinic",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": "+91 81290 98173",
+    "website": null,
+    "discovered_at": "2026-11-14 06:39:33.619650"
+  },
+  {
+    "place_id": "0x3b05ab25d11bd855:0",
+    "name": "DR.CHANDRA DENTAL CLINIC",
+    "address": "45/7, Athencode Road",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:39:32.423829"
+  },
+  {
+    "place_id": "0x3b05b16a8ef8258b:0",
+    "name": "Devi Textiles",
+    "address": "Closes 9:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:39:31.173206"
+  },
+  {
     "place_id": "0x880e2decdc897c89:0",
     "name": "Mox.E Coworking",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 02:48:50.178095"
-  },
-  {
-    "place_id": "0x87ee99ad9cab2875:0",
-    "name": "Curate",
-    "address": "",
-    "category": "Event venue",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:47.393110"
-  },
-  {
-    "place_id": "0x87eea2421fb74a63:0",
-    "name": "Out of Box Productions",
-    "address": "",
-    "category": "Wedding planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:46.114672"
-  },
-  {
-    "place_id": "0x87ee99fe7809533b:0",
-    "name": "Event Space A",
-    "address": "",
-    "category": "Event venue",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:43.846540"
-  },
-  {
-    "place_id": "0x864ded38e1980e59:0",
-    "name": "Semmelmann Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:41.168566"
-  },
-  {
-    "place_id": "0x87ee99182c063e9f:0",
-    "name": "Concepts In Design Inc.",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:39.939566"
   }
 ]
