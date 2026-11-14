@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05c7931ee4e5b1:0",
+    "name": "Haad Foods Kilo Biriyani",
+    "address": "MWMF+8VM, Kuttimoodu Vellumannadi Rd",
+    "category": "Biryani restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:27:52.861977"
+  },
+  {
+    "place_id": "0x3b05c14f96209e7f:0",
+    "name": "ROYAL SPICY Arabic and Chinese",
+    "address": "MWM5+C68",
+    "category": "Shawarma restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:27:51.572510"
+  },
+  {
+    "place_id": "0x3b05c41d76b9a485:0",
+    "name": "Government Ayurveda Hospital",
+    "address": "",
+    "category": "Government hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:27:50.254272"
+  },
+  {
+    "place_id": "0x3b05c39ee7fcf3e3:0",
+    "name": "Vishwas Travels",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 97448 04936",
+    "website": null,
+    "discovered_at": "2026-11-14 07:27:49.034932"
+  },
+  {
+    "place_id": "0x3b05c30002dea8d1:0",
+    "name": "Mahadeva Tea Shop",
+    "address": "QVFH+CQH",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:27:47.664461"
+  },
+  {
     "place_id": "0x3b0872c8ed0a59cf:0",
     "name": "BEYOND COWORKING",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 03:11:09.034744"
-  },
-  {
-    "place_id": "0x3b05ebbaab98c6e9:0",
-    "name": "S.S. PROVISION STORE",
-    "address": "A. C. A, Chirayinkeezhu Rd",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:07.820056"
-  },
-  {
-    "place_id": "0x3b05e9f8fd9d3a3d:0",
-    "name": "Amys Mobile Phone Care",
-    "address": "MRW9+659",
-    "category": "Cell phone store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:06.573369"
-  },
-  {
-    "place_id": "0x3b05e9dc258f27df:0",
-    "name": "Rail Rolls KSRTC Edition Attingal",
-    "address": "with the PIN code 695101, KSRTC Bus Station, Parvathipuram Temple Rd, near Kacheri Nada",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:05.302547"
-  },
-  {
-    "place_id": "0x3b05e9f8e2db867f:0",
-    "name": "Venuraj Hotel",
-    "address": "",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:04.058290"
-  },
-  {
-    "place_id": "0x3b05e9f8c47266a5:0",
-    "name": "Malavika Medicals",
-    "address": "MRV9+WMV, National Highway 47",
-    "category": "Pharmacy",
-    "phone": "+91 94972 03427",
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:02.807832"
   }
 ]
