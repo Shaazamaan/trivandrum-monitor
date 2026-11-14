@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05ef00737b6c49:0",
+    "name": "SANDY BEACH TOY SUPERMARKET",
+    "address": "PPM4+77X",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 20:30:44.763434"
+  },
+  {
+    "place_id": "0x3b05ef4bb662f15d:0",
+    "name": "SINAN STORE",
+    "address": "QP5H+2Q3, Sree Narayana College Rd",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 20:30:43.513958"
+  },
+  {
+    "place_id": "0x3b05ef0009e8d507:0",
+    "name": "DIVINE COLLECTION",
+    "address": "DIVINE COLLECTION BUILDING, BEACH HELIPAD, N Cliff Rd",
+    "category": "Clothing store",
+    "phone": "+91 88250 76864",
+    "website": null,
+    "discovered_at": "2026-11-14 20:30:42.174520"
+  },
+  {
     "place_id": "0x3b05bf9b237a44a7:0",
     "name": "Lume By Sandra",
     "address": "+91 75103 12951",
@@ -8971,32 +8998,5 @@
     "phone": "+91 95677 73392",
     "website": null,
     "discovered_at": "2026-11-14 12:11:20.517553"
-  },
-  {
-    "place_id": "0x3b05a5bf21ad599b:0",
-    "name": "PADMANABHA HOLIDAYS",
-    "address": "near UDS Kovalam",
-    "category": "Travel agency",
-    "phone": "+91 98958 28801",
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:19.203134"
-  },
-  {
-    "place_id": "0x3b05bb00070d9f7f:0",
-    "name": "Shastha arts and events Godown",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:17.979369"
-  },
-  {
-    "place_id": "0x3b05afbade757e59:0",
-    "name": "Kattunadayil Cattaring&Events",
-    "address": "C26R+PXQ",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:11:16.726275"
   }
 ]
