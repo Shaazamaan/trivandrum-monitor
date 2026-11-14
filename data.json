@@ -1,5 +1,185 @@
 [
   {
+    "place_id": "0x3b05af62ea2c8b2d:0",
+    "name": "oxygen gym",
+    "address": "kalluvila road",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:35.922235"
+  },
+  {
+    "place_id": "0x3b05af28513ee533:0",
+    "name": "CHOWARA MARGINFREE SUPER MARKET",
+    "address": "",
+    "category": "Supermarket",
+    "phone": "+91 90722 72298",
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:34.694401"
+  },
+  {
+    "place_id": "0x3b05afc62ab2d26f:0",
+    "name": "Our mobiles",
+    "address": "Kunnil Building, Vizhinjam Rd",
+    "category": "Cell phone store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:33.362789"
+  },
+  {
+    "place_id": "0x3b05afd29ae970eb:0",
+    "name": "SREE PARAMESWARA GARMENTS & DESIGNERS, Kidarakuzhi",
+    "address": "Kidarakuzhi PO",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:31.971843"
+  },
+  {
+    "place_id": "0x3b05af2ba7297b1b:0",
+    "name": "RS Dental Clinic",
+    "address": "9363+22R, Balaramapuram - Poovar Rd",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:30.506801"
+  },
+  {
+    "place_id": "0x3b05af8ad7c17c4d:0",
+    "name": "Dr.Arathy's BK Multi Speciality Dental Clinic",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": "+91 95678 60010",
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:29.247802"
+  },
+  {
+    "place_id": "0x3b05af7d0ab5f413:0",
+    "name": "V care Multi speciality dental clinic",
+    "address": "Chappath Road, Chappath junction",
+    "category": "Dental clinic",
+    "phone": "+91 81298 71219",
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:27.932238"
+  },
+  {
+    "place_id": "0x3b05afaade41daab:0",
+    "name": "A.M.B DENTAL CLINIC",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:26.662374"
+  },
+  {
+    "place_id": "0x3b05af55f8f8a57d:0",
+    "name": "Niya Dental care,Balaramapuram",
+    "address": "Vizhinjam Rd",
+    "category": "Dental clinic",
+    "phone": "+91 80757 04847",
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:25.331103"
+  },
+  {
+    "place_id": "0x3b05a57ece33418f:0",
+    "name": "M Squared Dental Clinic",
+    "address": "9XQG+HC4, Kovalam Rd",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:23.939056"
+  },
+  {
+    "place_id": "0x3b05af2b603624a5:0",
+    "name": "JS Dental Clinic",
+    "address": "Kanjiramkulam Pulluvila Road",
+    "category": "Dental clinic",
+    "phone": "+91 98464 71685",
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:22.705580"
+  },
+  {
+    "place_id": "0x3b05af2869b34f41:0",
+    "name": "PS DENTAL CLINIC",
+    "address": "opposite GHS",
+    "category": "Dental clinic",
+    "phone": "+91 79945 81848",
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:20.952882"
+  },
+  {
+    "place_id": "0x3b05af00797a8871:0",
+    "name": "Dr Teeth Dental care",
+    "address": "Closes 6:30 PM",
+    "category": "Open",
+    "phone": "+91 88489 33746",
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:19.674241"
+  },
+  {
+    "place_id": "0x3b05a5a84b6aaaab:0",
+    "name": "Smile Stylers Dental Clinic And Implant Centre, Kovalam",
+    "address": "9XPJ+J2J, Behind German Bakery ,Dental Clinic AT Dr Unni's Agastyaa Heritage Ayurvedic Centre , Hawa Beach, Light House Rd",
+    "category": "Dental clinic",
+    "phone": "+91 98471 52633",
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:18.435013"
+  },
+  {
+    "place_id": "0x3b05aff3f171e81d:0",
+    "name": "S N Multi Speciality Dental Clinic",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": "+91 97449 10245",
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:17.021897"
+  },
+  {
+    "place_id": "0x3b05af2ba3b1c751:0",
+    "name": "Smile Tech Dental Speciality Centre",
+    "address": "Near auto stand,trivandrum, road",
+    "category": "Dental clinic",
+    "phone": "+91 80756 18903",
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:15.799307"
+  },
+  {
+    "place_id": "0x3b05af00161f18c7:0",
+    "name": "Dr.DS Super Speciality Dental Centre",
+    "address": "925G+JQM, Chappath Rd",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:14.519240"
+  },
+  {
+    "place_id": "0x3b05af0035293489:0",
+    "name": "Vital Smiles Dental Studio",
+    "address": "Pulinkudi Rd",
+    "category": "Dental clinic",
+    "phone": "+91 96338 12842",
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:13.200949"
+  },
+  {
+    "place_id": "0x3b05af3ac15b11af:0",
+    "name": "Dr Aromal's dental clinic",
+    "address": "opposite LMS Church",
+    "category": "Dental clinic",
+    "phone": "+91 70195 19891",
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:12.007628"
+  },
+  {
+    "place_id": "0x3b05b805aa0826cb:0",
+    "name": "Ceam Tution Center",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 09:15:10.703016"
+  },
+  {
     "place_id": "0x3b05c7f747ca4ab5:0",
     "name": "Surya Bakery",
     "address": "JX9W+6WF",
@@ -8818,185 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 04:00:47.840605"
-  },
-  {
-    "place_id": "0x3b05b929343412e5:0",
-    "name": "Ration shop",
-    "address": "PO",
-    "category": "Supermarket",
-    "phone": "+91 97468 28321",
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:46.627221"
-  },
-  {
-    "place_id": "0x3b05b9b92ef17d25:0",
-    "name": "Ambadi Store",
-    "address": "GXVC+FXM, Radhakrishnan Ln",
-    "category": "Indian grocery store",
-    "phone": "+91 97451 37562",
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:45.370522"
-  },
-  {
-    "place_id": "0x3b05b94fc4fd51bf:0",
-    "name": "Airtel Store peroorkada",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:44.141381"
-  },
-  {
-    "place_id": "0x3b05b900341bb3cf:0",
-    "name": "BISMI COMMUNICATION",
-    "address": "GXQ9+G47",
-    "category": "Mobile phone repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:42.839979"
-  },
-  {
-    "place_id": "0x3b05b99be3a708cb:0",
-    "name": "NATIONAL TEXTILES",
-    "address": "GXRC+V99",
-    "category": "Clothing store",
-    "phone": "+91 85472 73137",
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:41.589115"
-  },
-  {
-    "place_id": "0x3b05b99ce5b20207:0",
-    "name": "S.M.B FASHION TEX",
-    "address": "GXQ9+F4C, Nedumangad Hwy",
-    "category": "Clothing store",
-    "phone": "+91 94466 14284",
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:40.295064"
-  },
-  {
-    "place_id": "0x3b05b9ad46cc790f:0",
-    "name": "SIPPING STATION",
-    "address": "Peroorkada-Kudappanakunnu Rd, opp. SFS Homes",
-    "category": "Tea store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:38.788999"
-  },
-  {
-    "place_id": "0x3b05b97ed452de3f:0",
-    "name": "SAAYA FAMILY RESTAURANT",
-    "address": "",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:37.591185"
-  },
-  {
-    "place_id": "0x3b05b900590c2d11:0",
-    "name": "Elysian Kitchen",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:36.356738"
-  },
-  {
-    "place_id": "0x3b05b976438921a1:0",
-    "name": "ASHRAYA MEDICAL SHOP",
-    "address": "GXR6+5W3",
-    "category": "Pharmacy",
-    "phone": "+91 62382 18047",
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:34.980427"
-  },
-  {
-    "place_id": "0x3b05b97427ca2805:0",
-    "name": "THE ARYA VAIDYA PHARMACY (COIMBATORE) LTD",
-    "address": "PRA-13,Poomalliyoorkonam, Civil Station Road",
-    "category": "Alternative medicine practitioner",
-    "phone": "+91 94477 52993",
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:33.740350"
-  },
-  {
-    "place_id": "0x3b05b9000c589c87:0",
-    "name": "Janasraya community pharmacy medical shop",
-    "address": "Highschool jun",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:30.132217"
-  },
-  {
-    "place_id": "0x3b05b9c994c97187:0",
-    "name": "ROYAL PHARMA",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": "+91 95620 07606",
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:28.872102"
-  },
-  {
-    "place_id": "0x3b05b980f2ebf681:0",
-    "name": "HLL Lifecare Ltd. Via poojapura",
-    "address": "",
-    "category": "Pharmaceutical company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:27.482669"
-  },
-  {
-    "place_id": "0x3b05b98325d05dc3:0",
-    "name": "Life Care Homoeopathy",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": "+91 80788 83831",
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:26.176646"
-  },
-  {
-    "place_id": "0x3b05b94cac8c51fb:0",
-    "name": "ASHRAYA COMMUNITY PHARMACY",
-    "address": "East Mukkola, Junction, Peroorkada Mannanthala Rd, opposite IOB Bank",
-    "category": "Pharmacy",
-    "phone": "+91 97460 94284",
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:24.940221"
-  },
-  {
-    "place_id": "0x3b05b92a87437163:0",
-    "name": "JANATHA COMMUNITY PHARMACY",
-    "address": "Muttada - Paruthippara Rd",
-    "category": "Pharmacy",
-    "phone": "+91 90374 90814",
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:23.553959"
-  },
-  {
-    "place_id": "0x3b05b97e5b30144f:0",
-    "name": "LifeCare Pharmacy",
-    "address": "Peroorkada Vattiyoorkavu Road, Sasthamangalam - Peroorkada Rd",
-    "category": "Homeopathic pharmacy",
-    "phone": "+91 85470 38831",
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:22.181263"
-  },
-  {
-    "place_id": "0x3b05b956385446e5:0",
-    "name": "Neethi Medical Store (PSCB)",
-    "address": "service coperative bank building, State Highway 2, opposite Thankamma Stadium",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:20.924000"
-  },
-  {
-    "place_id": "0x3b05b982d99b066d:0",
-    "name": "Peroorkada Medical Supplies",
-    "address": "Shop No:1, Sopanam Complex",
-    "category": "Medical supply store",
-    "phone": "+91 90485 17010",
-    "website": null,
-    "discovered_at": "2026-11-14 04:00:19.590632"
   }
 ]
