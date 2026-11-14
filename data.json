@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x865c6183f709156f:0",
+    "name": "VenturePoint - Stone Oak",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:54:08.124860"
+  },
+  {
+    "place_id": "0x865c89fbae249d1f:0",
+    "name": "Venture X San Antonio - Stone Oak",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:54:06.673725"
+  },
+  {
+    "place_id": "0x865c613dff40ac29:0",
+    "name": "Urban Office - Century Heights",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:54:05.433546"
+  },
+  {
+    "place_id": "0x3b05bb063b11aa43:0",
+    "name": "Guruthwa Study Café",
+    "address": "URR 14, Uppalam Rd",
+    "category": "Coworking space",
+    "phone": "+91 97784 67700",
+    "website": null,
+    "discovered_at": "2026-11-14 16:54:04.164813"
+  },
+  {
+    "place_id": "0x865c5fcd6814aecf:0",
+    "name": "Root",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:54:02.891830"
+  },
+  {
+    "place_id": "0x865c61af8d3a8f15:0",
+    "name": "210 Go Offices - Coworking, Virtual Offices & Executive Suites",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:54:01.626433"
+  },
+  {
+    "place_id": "0x3b05bb001948ffb1:0",
+    "name": "Mookambika Travels",
+    "address": "Kochuveetil Tower Model school Junction, TC81/2300, Manorama Rd",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:54:00.180878"
+  },
+  {
+    "place_id": "0x3b05bb50861ea931:0",
+    "name": "Hamlet Architects",
+    "address": "",
+    "category": "Architecture firm",
+    "phone": "+91 62822 92860",
+    "website": null,
+    "discovered_at": "2026-11-14 16:53:58.886360"
+  },
+  {
+    "place_id": "0x865c5d629989fa87:0",
+    "name": "Austin Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:53:57.572199"
+  },
+  {
+    "place_id": "0x3b05bba844efc1bb:0",
+    "name": "My Mobiles",
+    "address": "FXM3+VV4",
+    "category": "Cell phone store",
+    "phone": "+91 90374 53606",
+    "website": null,
+    "discovered_at": "2026-11-14 16:53:56.307046"
+  },
+  {
     "place_id": "0x3b05bb0008878e11:0",
     "name": "Mello Juice & Joy",
     "address": "Main Gate, Pulimood, Ayurveda College Junction, Dharmalayam Rd",
@@ -8908,95 +8998,5 @@
     "phone": "+91 99952 39205",
     "website": null,
     "discovered_at": "2026-11-14 08:37:07.713588"
-  },
-  {
-    "place_id": "0x3b05bba10f027433:0",
-    "name": "Aruna & Co",
-    "address": "",
-    "category": "Marketing consultant",
-    "phone": "+91 94958 31651",
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:06.376569"
-  },
-  {
-    "place_id": "0x3b05bba1bf196047:0",
-    "name": "Modi UPHOLSTERY WORKS",
-    "address": "FWPV+F52, Thakaraparambu Rd",
-    "category": "Upholstery shop",
-    "phone": "+91 96054 04039",
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:05.084815"
-  },
-  {
-    "place_id": "0x864e6fe18392c507:0",
-    "name": "T-Mart",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:03.835815"
-  },
-  {
-    "place_id": "0x87153571923abdf7:0",
-    "name": "Hi-Lonesome Boutique",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:02.575216"
-  },
-  {
-    "place_id": "0x3b05bb33dfe2cf07:0",
-    "name": "Sakthi Textiles",
-    "address": "Padmavilasam Rd",
-    "category": "Clothing store",
-    "phone": "+91 89215 89402",
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:01.344981"
-  },
-  {
-    "place_id": "0x54a3e97728012973:0",
-    "name": "Bigfoot Bakery LLC",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:00.086494"
-  },
-  {
-    "place_id": "0x3b05bba6a63244a7:0",
-    "name": "Shaju Bakery",
-    "address": "FWQX+24M, Mahatma Gandhi Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:36:58.745769"
-  },
-  {
-    "place_id": "0x549bcdf85a142663:0",
-    "name": "Heirloom Baking Co.",
-    "address": "625 S Augustin Lp",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:36:57.466636"
-  },
-  {
-    "place_id": "0x3b05bba0cee35bfb:0",
-    "name": "Hotel Adithya",
-    "address": "Pazhavangadi St",
-    "category": "Vegetarian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:36:56.085586"
-  },
-  {
-    "place_id": "0x3b05bb6d78acbb89:0",
-    "name": "Vegeatz",
-    "address": "opp. Govt Fort Hospital",
-    "category": "Pizza restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:36:54.771395"
   }
 ]
