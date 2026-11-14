@@ -1,5 +1,230 @@
 [
   {
+    "place_id": "0x5499390869e70b89:0",
+    "name": "Ohana Travel By Shelly",
+    "address": "202 W 5th Ave Ste 7",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:24.936937"
+  },
+  {
+    "place_id": "0x549938c7f7865953:0",
+    "name": "Coldwell Banker Tomlinson Ranch & Home",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:23.623227"
+  },
+  {
+    "place_id": "0x54993954ffb598af:0",
+    "name": "Planet Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:22.246893"
+  },
+  {
+    "place_id": "0x54994740f3e4a15d:0",
+    "name": "Ulta Beauty",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:20.987773"
+  },
+  {
+    "place_id": "0x5499479c0cd76ca3:0",
+    "name": "Jamba",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:19.689307"
+  },
+  {
+    "place_id": "0x54997b5632eafeb1:0",
+    "name": "Juice Bar & MORE",
+    "address": "14 H St SW",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:18.407651"
+  },
+  {
+    "place_id": "0x549938c7d4cfa185:0",
+    "name": "Franz Bakery Outlet",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:17.129835"
+  },
+  {
+    "place_id": "0x549c11b5bd40c45d:0",
+    "name": "Crumbl Cookies",
+    "address": "",
+    "category": "Cookie shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:15.849371"
+  },
+  {
+    "place_id": "0x3b05baa45f393f83:0",
+    "name": "Pathayapura Restaurant",
+    "address": "F242+MF2, Trivandrum - Nagercoil Hwy",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:14.556906"
+  },
+  {
+    "place_id": "0x3b05bb001332fb05:0",
+    "name": "AL-AMEEN FASTFOOD",
+    "address": "FX6V+9QQ",
+    "category": "Chicken restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:13.299665"
+  },
+  {
+    "place_id": "0x3b05baa53a0a7489:0",
+    "name": "Lal Clinical Laboratory",
+    "address": "FX3X+GRG",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:13.295872"
+  },
+  {
+    "place_id": "0x3b05b08cafd2e7bb:0",
+    "name": "Swathi Diagnostic Service",
+    "address": "F2G5+83C",
+    "category": "Diagnostic center",
+    "phone": "+91 99468 75443",
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:13.294869"
+  },
+  {
+    "place_id": "0x3b05bb2b2138f3cb:0",
+    "name": "Neethi Medical Lab Kundamankadavu",
+    "address": "Kundamankadavu Vattiyoorkavu Rd, near Sreebhadrakali Devi Kshethram, behind Bus Stop",
+    "category": "Medical laboratory",
+    "phone": "+91 89430 26777",
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:13.293681"
+  },
+  {
+    "place_id": "0x3b05b1aaaf8a39ad:0",
+    "name": "DDRC Agilus Diagnostics, Pravachambalam",
+    "address": "C2X6+FX",
+    "category": "Medical laboratory",
+    "phone": "+91 93334 93334",
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:13.292742"
+  },
+  {
+    "place_id": "0x3b05baa520cc099d:0",
+    "name": "Amar Jyothi Clinical Laboratory",
+    "address": "F232+V35",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:13.291839"
+  },
+  {
+    "place_id": "0x3b05baa5244e6685:0",
+    "name": "AR Clinical LAB",
+    "address": "AR Clincal Lab, Rk Building, thaluk hospital, Po, opp. Shanthivila",
+    "category": "Medical laboratory",
+    "phone": "+91 99955 65819",
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:13.290865"
+  },
+  {
+    "place_id": "0x3b05baa5216725c5:0",
+    "name": "Aswas Diagnostics Santhivila",
+    "address": "TC 53/1834, Thaluk Hospital, near Santhivila",
+    "category": "Diagnostic center",
+    "phone": "+91 87146 14021",
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:13.289831"
+  },
+  {
+    "place_id": "0x3b05b0077a2abd3d:0",
+    "name": "V.R. CLINICAL LAB and ECG",
+    "address": "P.O, Railway station road",
+    "category": "Medical laboratory",
+    "phone": "+91 94463 93016",
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:13.288598"
+  },
+  {
+    "place_id": "0x3b05bb3b74f13bb5:0",
+    "name": "Elite Scans and Diagnostics",
+    "address": "Al Bayan Plaza, TC-1387/6, Shanthivila Opposite shanthivila taluk Hospital, vellayani",
+    "category": "Medical laboratory",
+    "phone": "+91 98466 05556",
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:13.287576"
+  },
+  {
+    "place_id": "0x3b05baa5238d9e25:0",
+    "name": "Sree Lakshmi Diagnostic Centre",
+    "address": "FX3X+PX4",
+    "category": "Medical laboratory",
+    "phone": "+91 99951 68679",
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:13.286650"
+  },
+  {
+    "place_id": "0x3b05bb588de9fff7:0",
+    "name": "RG LABORATORIES",
+    "address": "Jayan kaveri building, Zonal office road",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:13.285360"
+  },
+  {
+    "place_id": "0x3b05bbd44c17ad51:0",
+    "name": "PERFECT",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": "+91 97451 55501",
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:12.045661"
+  },
+  {
+    "place_id": "0x3b05b97eef45e2a5:0",
+    "name": "SONU Shopping Centre",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:09.949358"
+  },
+  {
+    "place_id": "0x3b05b96b6195ba01:0",
+    "name": "Emma Mattress Store - Thiruvananthapuram",
+    "address": "SFS Krishna, Muttada Road, Ambalamukku, beside La Forno Cafe",
+    "category": "Mattress store",
+    "phone": "+91 89213 18894",
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:07.958650"
+  },
+  {
+    "place_id": "0x3b05b93b38a131b7:0",
+    "name": "iProTvm",
+    "address": "oppo: post office",
+    "category": "Mobile phone repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:03:06.711328"
+  },
+  {
     "place_id": "0x3b05b982d332471d:0",
     "name": "Rani Textiles",
     "address": "GXP8+PMG",
@@ -8773,230 +8998,5 @@
     "phone": "+91 97783 44235",
     "website": null,
     "discovered_at": "2026-11-14 03:03:32.970165"
-  },
-  {
-    "place_id": "0x3b05beea9db02fa1:0",
-    "name": "Travancore Tales",
-    "address": "",
-    "category": "Video production service",
-    "phone": "+91 99472 48312",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:31.677485"
-  },
-  {
-    "place_id": "0xae3dc4ca82ce2521:0",
-    "name": "Vadakkumnadha Holidays",
-    "address": "Apsara vallunni",
-    "category": "Transportation service",
-    "phone": "+91 82814 16232",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:30.439005"
-  },
-  {
-    "place_id": "0x3b05b9649be91b6f:0",
-    "name": "Gnet travels",
-    "address": "Njandoorkonam,Trivandrum, Powdikonam - Vattakarikkakom Rd",
-    "category": "Bus tour agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:29.202915"
-  },
-  {
-    "place_id": "0x3b05b9a25633ce71:0",
-    "name": "VOYLUX TOURS",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": "+91 80897 01516",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:27.895664"
-  },
-  {
-    "place_id": "0x3b05bf115bf4f4e7:0",
-    "name": "Moonway Travels",
-    "address": "+91 89076 84829",
-    "category": "Open 24 hours",
-    "phone": "+91 89076 84829",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:26.589564"
-  },
-  {
-    "place_id": "0x3b05b93e2c775b8f:0",
-    "name": "Snehatheeram travelhub",
-    "address": "Chempakassery lane",
-    "category": "Tour operator",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:25.303477"
-  },
-  {
-    "place_id": "0x3b05bf35ae341017:0",
-    "name": "ri",
-    "address": "1st floor, Room, Parabrahma Building, 1, Market Rd",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:24.040240"
-  },
-  {
-    "place_id": "0x3b05b92df0a9e6cd:0",
-    "name": "ANANTHA BHANGI WOOD CARVING & CARPENTARY",
-    "address": "T.C. 7/1721, ananthabhangi building,SREEKARYAM, powdikonam road, kariyam Sreekariyam, powdikonam road",
-    "category": "Interior designer",
-    "phone": "+91 93884 58468",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:22.804667"
-  },
-  {
-    "place_id": "0x3b05bff267ba88ff:0",
-    "name": "Titanium Square Avenue, Sreekaryam",
-    "address": "Titanium square avenue, Muttampuram Temple Lane",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:21.515057"
-  },
-  {
-    "place_id": "0x3b05b90cb169ef71:0",
-    "name": "Zenith Academy",
-    "address": "S Manikantan agro, opp. Kallaramoola agencies",
-    "category": "Education center",
-    "phone": "+91 75599 89422",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:20.260966"
-  },
-  {
-    "place_id": "0x3b05b95c7efb288b:0",
-    "name": "Zemanda beauty lounge",
-    "address": "first floor, MRF building, Anupama tower, opposite Muthoot fincrop",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:19.031605"
-  },
-  {
-    "place_id": "0x3b05b9f98acc54ed:0",
-    "name": "Soorya stores",
-    "address": "Chekkalamukku-Powdikonam Rd",
-    "category": "Store",
-    "phone": "+91 79076 70272",
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:17.708783"
-  },
-  {
-    "place_id": "0x3b05bf1b24957253:0",
-    "name": "femina",
-    "address": "femina ladies stiching center",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:55:59.620667"
-  },
-  {
-    "place_id": "0x3b05becb28094603:0",
-    "name": "NEW ARIYAAS VEG. TIFFIN CENTRE",
-    "address": "GWX8+CXX",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:55:58.302373"
-  },
-  {
-    "place_id": "0x3b05b935a597b49d:0",
-    "name": "Sachin Restaurant",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:55:57.094259"
-  },
-  {
-    "place_id": "0x3b05bf06f4f1ea47:0",
-    "name": "Thanjavur Kitchen",
-    "address": "",
-    "category": "Non vegetarian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:55:55.831459"
-  },
-  {
-    "place_id": "0x3b05bec79bbe436f:0",
-    "name": "M.S.N. Hotel and Fast Food",
-    "address": "",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:55:54.472755"
-  },
-  {
-    "place_id": "0x3b05bf0055d719e5:0",
-    "name": "JAN AUSHADHI MEDICAL STORE, CHEKKALAMUKKU",
-    "address": "TC - 1513/2, Chekkalamukku-Powdikonam Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:55:53.198126"
-  },
-  {
-    "place_id": "0x3b05bf74f0f2c7a3:0",
-    "name": "Sree Surya Medicals Venganoor",
-    "address": "Venganoor JN, Market Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:55:49.703296"
-  },
-  {
-    "place_id": "0x3b05bb00353c0345:0",
-    "name": "Dungeon gym",
-    "address": "YMR Junction",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:55:47.586619"
-  },
-  {
-    "place_id": "0x3b05bb525dd2b7bd:0",
-    "name": "VASHKI",
-    "address": "Medical College Jn, Medical College, TRIDA BUILDING, Chalakuzhy Rd",
-    "category": "Boutique",
-    "phone": "+91 80899 68432",
-    "website": null,
-    "discovered_at": "2026-11-14 02:55:46.358406"
-  },
-  {
-    "place_id": "0x880fd2eaaaad01c1:0",
-    "name": "JuiceRx Bucktown",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:55:45.162919"
-  },
-  {
-    "place_id": "0x3b05b95bf12032dd:0",
-    "name": "NAZAR'S TEA SHOP ,TAKE AWAY & JUICE CAFE",
-    "address": "Kesavadasapuram Jct, near chaithanya Eye Hospital",
-    "category": "Takeout Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:55:43.976533"
-  },
-  {
-    "place_id": "0x3b05b9b1d3832fc1:0",
-    "name": "Bread & Butter",
-    "address": "GWPR+QR2, junction",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:55:42.806199"
-  },
-  {
-    "place_id": "0x3b05bbfd356c038f:0",
-    "name": "Mayoora Medical Associates",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": "+91 92495 68777",
-    "website": null,
-    "discovered_at": "2026-11-14 02:55:41.602697"
   }
 ]
