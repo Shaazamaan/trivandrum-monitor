@@ -1,5 +1,185 @@
 [
   {
+    "place_id": "0x3b05bbc30c090957:0",
+    "name": "D'Light Interiors",
+    "address": "545, Paris Rd",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:55.350792"
+  },
+  {
+    "place_id": "0x3b05bb75b72f8b57:0",
+    "name": "San Designs",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": "+91 80865 25252",
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:54.040310"
+  },
+  {
+    "place_id": "0x54993f13de82f087:0",
+    "name": "Windermere K-2/Realty LLC",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:52.817999"
+  },
+  {
+    "place_id": "0x549938a50b5df41f:0",
+    "name": "PORTFOLIO REAL ESTATE",
+    "address": "119 E Broadway Ave",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:51.440665"
+  },
+  {
+    "place_id": "0x5499397060b95f31:0",
+    "name": "Ben Sellen, eXp Realty Real Estate Agent",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:50.180890"
+  },
+  {
+    "place_id": "0x54993f1415bc3237:0",
+    "name": "Snap Fitness Moses Lake",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:48.922870"
+  },
+  {
+    "place_id": "0x3b05bbb9117a161b:0",
+    "name": "Skybeauty Care",
+    "address": "Ground Floor, Shop No: 114, Annas Arcade Shopping Complex, Mahatma Gandhi Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:47.702602"
+  },
+  {
+    "place_id": "0x3b05bb002cec56f1:0",
+    "name": "MOBI LAB Mobile Service Center",
+    "address": "block Saphalyam Complex, CG10 C",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 73567 43858",
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:46.423764"
+  },
+  {
+    "place_id": "0x3b05bb87db402b51:0",
+    "name": "Pulp Stories",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:45.162647"
+  },
+  {
+    "place_id": "0x3b05bb07e98be151:0",
+    "name": "Favourite Juice Spot",
+    "address": "Closes 10:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:43.821071"
+  },
+  {
+    "place_id": "0x3b05bb8c45edaf5b:0",
+    "name": "Kulukki Sarbath",
+    "address": "Krishnanjali, Near, Law College Rd",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:42.572044"
+  },
+  {
+    "place_id": "0x3b05bbdb891e6a43:0",
+    "name": "Aaruz fresh juice",
+    "address": "FWWM+Q24",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:41.340108"
+  },
+  {
+    "place_id": "0x3b05bbcd5c0778cd:0",
+    "name": "Blueberries Juice & Bakes",
+    "address": "Blueberries Juce And Bakes, NA, Paris Rd",
+    "category": "Juice shop",
+    "phone": "+91 94478 91105",
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:40.054330"
+  },
+  {
+    "place_id": "0x3b05bb0010175ec7:0",
+    "name": "Ummees Seafood Restaurant",
+    "address": "GX44+Q9X",
+    "category": "Seafood restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:38.818335"
+  },
+  {
+    "place_id": "0x3b05bbc6edeaaaab:0",
+    "name": "Directorate of Animal Husbandry",
+    "address": "",
+    "category": "Government office",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:37.444738"
+  },
+  {
+    "place_id": "0x3b05bbba302e00d1:0",
+    "name": "GSSCS Medicals",
+    "address": "Statue Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:36.029358"
+  },
+  {
+    "place_id": "0x3b05bbc9d06ae57d:0",
+    "name": "Ayurveda Clinic",
+    "address": "GX34+WGV, Paris Rd",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:34.763022"
+  },
+  {
+    "place_id": "0x3b05bbef17a304b5:0",
+    "name": "SINCERE STUDIES",
+    "address": "NK Towers, Ganapathy Temple Rd, near Canara Bank",
+    "category": "Education center",
+    "phone": "+91 62380 08199",
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:33.478546"
+  },
+  {
+    "place_id": "0x3b05bbc64b352839:0",
+    "name": "Thejas SPA and Wellness Center",
+    "address": "Tc 24/510",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:32.198077"
+  },
+  {
+    "place_id": "0x3b05ba49d8df95e5:0",
+    "name": "Dhanya Super Market Edapazhanji",
+    "address": "",
+    "category": "Supermarket",
+    "phone": "+91 94460 01524",
+    "website": null,
+    "discovered_at": "2026-11-14 08:26:30.970843"
+  },
+  {
     "place_id": "0x3b05bb0a1c680d89:0",
     "name": "ANAND EYE HOSPITAL CVC PAPPANAMCODE",
     "address": "Closes 5 PM",
@@ -8818,185 +8998,5 @@
     "phone": "+91 80896 92233",
     "website": null,
     "discovered_at": "2026-11-14 03:27:25.089485"
-  },
-  {
-    "place_id": "0x3b05a5bb988401b1:0",
-    "name": "Kerala Travel Boutique Tour And Travel",
-    "address": "Light House Beach Kovalam, Light House Rd",
-    "category": "Tour agency",
-    "phone": "+91 98478 72028",
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:23.873780"
-  },
-  {
-    "place_id": "0x3b05af7e9afcb739:0",
-    "name": "AR Digital Interior and CNC",
-    "address": "Pattiyakala vadakarukk, Vitt vepakal",
-    "category": "Interior designer",
-    "phone": "+91 96333 30053",
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:22.531241"
-  },
-  {
-    "place_id": "0x3b05af59e9e62183:0",
-    "name": "Zedone Autoconsultancy",
-    "address": "Market road",
-    "category": "Driving school",
-    "phone": "+91 80787 17753",
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:21.313408"
-  },
-  {
-    "place_id": "0x3b05b1bc480aeadf:0",
-    "name": "Tuition centre",
-    "address": "Closes 7 PM",
-    "category": "Open",
-    "phone": "+91 86061 78248",
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:20.073268"
-  },
-  {
-    "place_id": "0x3b05bf9064647483:0",
-    "name": "Liji’S Tuition centre",
-    "address": "Sree Bhagavthy temple, Panayudemoodu nalanchira, near to temple",
-    "category": "Tutoring service",
-    "phone": "+91 96450 64633",
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:18.799528"
-  },
-  {
-    "place_id": "0x3b05ad31e9a3e221:0",
-    "name": "ASPIRE TUITION CENTRE",
-    "address": "Closes 4 PM",
-    "category": "Open",
-    "phone": "+91 79023 75292",
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:17.572886"
-  },
-  {
-    "place_id": "0x3b05b121f915ea7b:0",
-    "name": "BRIGHT PATH TUITION CENTRE, MOTTAMOODU, NEMOM PO",
-    "address": "Closes 7:30 PM",
-    "category": "Open",
-    "phone": "+91 79022 66483",
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:16.346382"
-  },
-  {
-    "place_id": "0x3b05aff9895a8081:0",
-    "name": "Pradeep's Institute PSC Coaching Centre",
-    "address": "Closes 10 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:15.016753"
-  },
-  {
-    "place_id": "0x3b05a54aa69b0c3b:0",
-    "name": "Favourite Kerala Ayurveda and Spa",
-    "address": "Kovalam Beach Road, beach",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:13.692591"
-  },
-  {
-    "place_id": "0x3b05a5793dc5f59d:0",
-    "name": "Tathya Ayurveda",
-    "address": "Avaduthura Devi temple, Hill and Sea View Resort Road, near Avaduthura",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:12.423325"
-  },
-  {
-    "place_id": "0x3b05a57c8e167675:0",
-    "name": "Seafighters Ladies gym",
-    "address": "near indian oil petrol pump",
-    "category": "Coaching center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:10.571989"
-  },
-  {
-    "place_id": "0x3b05a50a10954a79:0",
-    "name": "Appolo Gents Beauty Parlour",
-    "address": "Kovalam junction (starting of service road to",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:09.346812"
-  },
-  {
-    "place_id": "0x3b05a581962a654d:0",
-    "name": "Diya Hair Cutting",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:08.002718"
-  },
-  {
-    "place_id": "0x3b05a5a397e426c7:0",
-    "name": "Flavor's supermarket & grocery shop",
-    "address": "flavors supermarket and groceryshop, opp. jumamasjid",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:06.770341"
-  },
-  {
-    "place_id": "0x3b05a5bcd52acf77:0",
-    "name": "Salim Store",
-    "address": "9XPM+PMC, Vizhinjam Harbour Rd",
-    "category": "Indian grocery store",
-    "phone": "+91 81299 52881",
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:05.500806"
-  },
-  {
-    "place_id": "0x3b05a5fd6bf4cfed:0",
-    "name": "VALSA SUPERMARKET",
-    "address": "Avaduthura Howah, Beach Rd",
-    "category": "Grocery store",
-    "phone": "+91 98958 06042",
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:04.093015"
-  },
-  {
-    "place_id": "0x3b05a550b8b1f9b5:0",
-    "name": "Art Gallery In Samudra Beach",
-    "address": "CX2F+VFQ, GV Raja Rd, opposite Hotel Uday Samudra",
-    "category": "Jewelry store",
-    "phone": "+91 87145 23831",
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:02.862785"
-  },
-  {
-    "place_id": "0x3b05afeb3ee91113:0",
-    "name": "ROYAL HOME APPLIANCES",
-    "address": "BPXll/350A,BPXll/350B,PALACHALKONAM",
-    "category": "Electronics store",
-    "phone": "+91 98950 62341",
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:01.475049"
-  },
-  {
-    "place_id": "0x3b05a5f540522a65:0",
-    "name": "Soorya Glass & Plywood",
-    "address": "92G5+CMJ, Poovar - Vizhinjam Rd",
-    "category": "Home goods store",
-    "phone": "+91 97451 68091",
-    "website": null,
-    "discovered_at": "2026-11-14 03:27:00.097401"
-  },
-  {
-    "place_id": "0x3b05af4742b8abc5:0",
-    "name": "Techfix mobiles mangalathkonam",
-    "address": "Closes 10 AM",
-    "category": "Open",
-    "phone": "+91 89212 67054",
-    "website": null,
-    "discovered_at": "2026-11-14 03:26:58.852513"
   }
 ]
