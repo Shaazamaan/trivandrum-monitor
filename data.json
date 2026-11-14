@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05bb00623b175b:0",
+    "name": "Greatway Kennels",
+    "address": "Sruthy, TC 14, 1699-1, Forest Office Ln",
+    "category": "Kennel",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:01:31.130341"
+  },
+  {
+    "place_id": "0x3b05bbac62291a2d:0",
+    "name": "AGARTTA BOUTIQUE INTERIOR Nandancode",
+    "address": "SAROJ SANCTUM TC11/638(3) MUSEUM, YMR Nanthancode Rd",
+    "category": "Interior Decorator",
+    "phone": "+91 80890 00033",
+    "website": null,
+    "discovered_at": "2026-11-14 17:01:29.894486"
+  },
+  {
+    "place_id": "0x3b05bbd402862dc3:0",
+    "name": "Srijit Srinivas Architects",
+    "address": "1, Belhaven Road",
+    "category": "Architect",
+    "phone": "+91 94470 92404",
+    "website": null,
+    "discovered_at": "2026-11-14 17:01:28.559861"
+  },
+  {
+    "place_id": "0x3b05bba200836f81:0",
+    "name": "A N Design Studio",
+    "address": "TC 23/1603 (2, Golf Links Rd",
+    "category": "Architecture firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:01:27.389141"
+  },
+  {
+    "place_id": "0x3b05bb1b65e31fcf:0",
+    "name": "Kowdiar Hub",
+    "address": "Heera Velmont Palace, Junction, POST",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:01:26.139498"
+  },
+  {
+    "place_id": "0x3b05ba33c8a3e5d7:0",
+    "name": "Mangalath Medicals",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 90741 55813",
+    "website": null,
+    "discovered_at": "2026-11-14 17:01:24.958709"
+  },
+  {
     "place_id": "0x865c6183f709156f:0",
     "name": "VenturePoint - Stone Oak",
     "address": "",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 08:37:16.173844"
-  },
-  {
-    "place_id": "0x3b05bb27fb710f43:0",
-    "name": "THE BARBER",
-    "address": "Chalai, Kothuval St",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:14.344587"
-  },
-  {
-    "place_id": "0x3b05bb1f22a8e895:0",
-    "name": "M subbiah pilali and sons",
-    "address": "FXJ2+WP9",
-    "category": "Supermarket",
-    "phone": "+91 89211 73804",
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:12.998837"
-  },
-  {
-    "place_id": "0x3b05bb4a05f6caaf:0",
-    "name": "S.S Provision Store",
-    "address": "",
-    "category": "Indian grocery store",
-    "phone": "+91 94461 96892",
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:11.623056"
-  },
-  {
-    "place_id": "0x876def02d098b4b7:0",
-    "name": "Edwards Right Price Market",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:10.334361"
-  },
-  {
-    "place_id": "0x3b05bba6d72a1a21:0",
-    "name": "Josco Jewellers, Thiruvananthapuram, Pazhavangadi",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": "+91 85902 01626",
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:09.071870"
-  },
-  {
-    "place_id": "0x3b05bba16b3a73f7:0",
-    "name": "Ayyappas Upholstery",
-    "address": "FWPW+J4P",
-    "category": "Upholstery shop",
-    "phone": "+91 99952 39205",
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:07.713588"
   }
 ]
