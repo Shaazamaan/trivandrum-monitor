@@ -1,5 +1,167 @@
 [
   {
+    "place_id": "0x3b05cd2b839d8d1d:0",
+    "name": "Karette",
+    "address": "Q458+XQC",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:31.267064"
+  },
+  {
+    "place_id": "0x3b05cc7385555555:0",
+    "name": "Golden Valley DTPC Rooms Dormitory",
+    "address": "P46H+69J",
+    "category": "Restaurant",
+    "phone": "+91 94005 98202",
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:29.990772"
+  },
+  {
+    "place_id": "0x3b05cc7397cb474f:0",
+    "name": "Haritha Restaurant",
+    "address": "",
+    "category": "Family restaurant",
+    "phone": "+91 94477 91708",
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:28.840819"
+  },
+  {
+    "place_id": "0x3b05cf6a47e6dc25:0",
+    "name": "DDRC Agilus Diagnostics, Palode",
+    "address": "P2FH+HM RED plaza, opp. BMC hospital",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:27.689301"
+  },
+  {
+    "place_id": "0x3b05cb9c4bc16931:0",
+    "name": "AL BROTHERS TRAVELS IISER JN VITHURA",
+    "address": "IISER MARUTHAMALA",
+    "category": "Travel agency",
+    "phone": "+91 95444 43470",
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:26.433541"
+  },
+  {
+    "place_id": "0x3b05bb8f11d133a9:0",
+    "name": "Vedha Travel Hub",
+    "address": "Puthukulangara Ln",
+    "category": "Travel agency",
+    "phone": "+91 95672 05294",
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:25.179030"
+  },
+  {
+    "place_id": "0x3b05d90036b3ec3f:0",
+    "name": "Matha Interiors",
+    "address": "WWVW+PJ",
+    "category": "Interior designer",
+    "phone": "+91 80863 61411",
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:23.940166"
+  },
+  {
+    "place_id": "0x3b05c96da75ac395:0",
+    "name": "AEZZA HOME INTERIORS",
+    "address": "M3CJ+JXJ, Vithura - Palode Rd",
+    "category": "Curtain supplier and maker",
+    "phone": "+91 81390 45050",
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:22.772970"
+  },
+  {
+    "place_id": "0x3b05c9941b09f8bd:0",
+    "name": "Talent Coaching Center, Vithura",
+    "address": "Closes 4:15 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:21.260753"
+  },
+  {
+    "place_id": "0x3b05c90042ba9e91:0",
+    "name": "Healthy life wellness center",
+    "address": "M3FR+GCW",
+    "category": "Wellness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:20.101407"
+  },
+  {
+    "place_id": "0x3b05c9a5c13e6145:0",
+    "name": "Fathimaz Super Market",
+    "address": "M329+VV7",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:18.896786"
+  },
+  {
+    "place_id": "0x3b05c99241602433:0",
+    "name": "Madeena fish",
+    "address": "Vithura",
+    "category": "Grocery store",
+    "phone": "+91 94956 79987",
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:17.697405"
+  },
+  {
+    "place_id": "0x3b05c90019a50e71:0",
+    "name": "Kandhari chicken",
+    "address": "M3FV+RC9, SH45",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:16.500731"
+  },
+  {
+    "place_id": "0x3a35e300251714d7:0",
+    "name": "Cloud kitchen",
+    "address": "GQJM+VP9, yogasaram back side",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:15.361657"
+  },
+  {
+    "place_id": "0x3b05c96df79d1e2f:0",
+    "name": "Anugraha Medicals Vithura",
+    "address": "M3CM+2QW Culvert, Junction",
+    "category": "Drug store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:14.079346"
+  },
+  {
+    "place_id": "0x3b05c99b9c63a9db:0",
+    "name": "Viswas Community Pharmacy",
+    "address": "M3FM+33M, Vithura High School Rd",
+    "category": "Drug store",
+    "phone": "+91 94472 03988",
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:12.809407"
+  },
+  {
+    "place_id": "0x3b05c9c12ef95545:0",
+    "name": "Kottakkal Arya Vaidya sala",
+    "address": "Opens 9:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:11.628300"
+  },
+  {
+    "place_id": "0x3b05c9799601e481:0",
+    "name": "Vithura Ayurvedic hospital",
+    "address": "Chennanpara, Bus Stop, SH45",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 01:40:10.263399"
+  },
+  {
     "place_id": "0x3b05c15c3dc2724d:0",
     "name": "ORYX TOWERS",
     "address": "Block Office Rd",
@@ -8836,167 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-13 21:57:45.915894"
-  },
-  {
-    "place_id": "0x3b05b92f6b15ddc9:0",
-    "name": "Mohan’s Tuition Center",
-    "address": "61, Civil Station Road",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:44.649090"
-  },
-  {
-    "place_id": "0x3b05bbcd3635798d:0",
-    "name": "D & D TEACHING CENTER",
-    "address": "Near",
-    "category": "Coaching center",
-    "phone": "+91 79074 12079",
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:43.383761"
-  },
-  {
-    "place_id": "0x3b05b99e0b43dc8d:0",
-    "name": "Harmony Wellness Concepts",
-    "address": "Lane No. 3",
-    "category": "Wellness center",
-    "phone": "+91 80756 68051",
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:42.161511"
-  },
-  {
-    "place_id": "0x3b05bb9201019375:0",
-    "name": "Revive Wellness Spa and Beauty Saloon",
-    "address": "Plamoodu - Thekkamoodu Rd",
-    "category": "Massage spa",
-    "phone": "+91 90370 57987",
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:40.910880"
-  },
-  {
-    "place_id": "0x3b05bbcb48e498d1:0",
-    "name": "Pearl Wellness Unisex Spa",
-    "address": "near Heera Heritage",
-    "category": "Wellness center",
-    "phone": "+91 79948 23321",
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:39.644052"
-  },
-  {
-    "place_id": "0x3b05b900543850a7:0",
-    "name": "Alpha gym",
-    "address": "HX35+QRH",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:38.359396"
-  },
-  {
-    "place_id": "0x3b05b9a348842b81:0",
-    "name": "Inbuilt Gym",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:37.103995"
-  },
-  {
-    "place_id": "0x3b05b90d42af62e9:0",
-    "name": "Nayana's Beauty Parlour",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:35.832933"
-  },
-  {
-    "place_id": "0x3b05b9a9956479ef:0",
-    "name": "Pink Lotus-Ladies and Kids Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:34.618388"
-  },
-  {
-    "place_id": "0x3b05b95f50085a0d:0",
-    "name": "Glows beauty care",
-    "address": "MRA B26, Mannadi Lane, Ambalamukku, PO, NCC Rd, opp. Swanthana Hospital",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:33.347177"
-  },
-  {
-    "place_id": "0x3b05ba330c89c1bb:0",
-    "name": "Margin Free Supermarket",
-    "address": "Vellayambalam - Sasthamangalam Rd, opp. Lakshmi Vilas Bank",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:32.051896"
-  },
-  {
-    "place_id": "0x3b05b9006129cdd3:0",
-    "name": "Ramachandran(Kudappanakunnu)",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": "+91 88930 99999",
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:30.774347"
-  },
-  {
-    "place_id": "0x3b05b982c34e7dfd:0",
-    "name": "ORANGE SUPERMARKET",
-    "address": "",
-    "category": "Grocery store",
-    "phone": "+91 95675 40031",
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:29.522741"
-  },
-  {
-    "place_id": "0x3b05b8ed274607b7:0",
-    "name": "Travancore Gold",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:28.300726"
-  },
-  {
-    "place_id": "0x3b05b9bca91534ad:0",
-    "name": "TOUCH WORLD",
-    "address": "",
-    "category": "Mobile phone repair shop",
-    "phone": "+91 79070 25556",
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:27.062875"
-  },
-  {
-    "place_id": "0x3b05b9a338614cc9:0",
-    "name": "My Jio Store",
-    "address": "opposite IOB",
-    "category": "Cell phone store",
-    "phone": "+91 90827 12766",
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:25.824576"
-  },
-  {
-    "place_id": "0x3b05b9b069a3f9b3:0",
-    "name": "G&S mobile Experts",
-    "address": "HX25+26C",
-    "category": "Cell phone store",
-    "phone": "+91 98475 55829",
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:24.336902"
-  },
-  {
-    "place_id": "0x3b05bbd54c9f853f:0",
-    "name": "DEVI MOBILES",
-    "address": "Maruthankuzhy",
-    "category": "Cell phone store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 21:57:23.043387"
   }
 ]
