@@ -1,5 +1,1031 @@
 [
   {
+    "place_id": "0x3b05bb4b7c5bd38d:0",
+    "name": "Sapphire Hometech",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:49:05.842170"
+  },
+  {
+    "place_id": "0x3b05b9063df52e43:0",
+    "name": "BETHEL PAY AND PARK",
+    "address": "Kavitha Building",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:49:03.534850"
+  },
+  {
+    "place_id": "0x3b05bbfd4cf7531b:0",
+    "name": "Indian Coffee House",
+    "address": "Government Medical College, Thiruvananthapuram",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:49:02.216340"
+  },
+  {
+    "place_id": "0x3b05bb77527706d5:0",
+    "name": "Hotel Gauri Shankar",
+    "address": "Hotel Gauri Shankar, Medical College, Ulloor - Akkulam Rd",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:59.849299"
+  },
+  {
+    "place_id": "0x3b05b9574cb9720d:0",
+    "name": "Adithya Restaurant",
+    "address": "GWJH+3F5",
+    "category": "South Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:57.379082"
+  },
+  {
+    "place_id": "0x87ee968a49092317:0",
+    "name": "Complete Weddings + Events",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:56.142475"
+  },
+  {
+    "place_id": "0x87ee99d476bfc56b:0",
+    "name": "515 Events",
+    "address": "200 10th St Ste 606",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:53.852109"
+  },
+  {
+    "place_id": "0x87ee99a105a1e9f7:0",
+    "name": "One Source Events",
+    "address": "",
+    "category": "Wedding planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:51.471818"
+  },
+  {
+    "place_id": "0x87eebdc9cb5838a9:0",
+    "name": "The Perfect Affair",
+    "address": "699 Walnut St 4th Floor",
+    "category": "Wedding planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:50.178095"
+  },
+  {
+    "place_id": "0x87ee99ad9cab2875:0",
+    "name": "Curate",
+    "address": "",
+    "category": "Event venue",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:47.393110"
+  },
+  {
+    "place_id": "0x87eea2421fb74a63:0",
+    "name": "Out of Box Productions",
+    "address": "",
+    "category": "Wedding planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:46.114672"
+  },
+  {
+    "place_id": "0x87ee99fe7809533b:0",
+    "name": "Event Space A",
+    "address": "",
+    "category": "Event venue",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:43.846540"
+  },
+  {
+    "place_id": "0x864ded38e1980e59:0",
+    "name": "Semmelmann Interiors",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:41.168566"
+  },
+  {
+    "place_id": "0x87ee99182c063e9f:0",
+    "name": "Concepts In Design Inc.",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:39.939566"
+  },
+  {
+    "place_id": "0x87e61c2887261de9:0",
+    "name": "Curtis Architecture & Design P.C.",
+    "address": "",
+    "category": "Architect",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:37.566712"
+  },
+  {
+    "place_id": "0x87ee99354a6b1afb:0",
+    "name": "Sequel Architecture + Interiors",
+    "address": "",
+    "category": "Architect",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:36.125257"
+  },
+  {
+    "place_id": "0x87ee934ee1e118e7:0",
+    "name": "Next Door Real Estate Team",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:33.864486"
+  },
+  {
+    "place_id": "0x6fdd5e986ab91343:0",
+    "name": "Mark Lane Real Estate",
+    "address": "Opens 9 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:31.381624"
+  },
+  {
+    "place_id": "0x87ee99ff078a8b19:0",
+    "name": "Jana Severson, Realtor®",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:29.976142"
+  },
+  {
+    "place_id": "0x87ee9af2eb100001:0",
+    "name": "CDL-Now",
+    "address": "",
+    "category": "Truck driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:27.166830"
+  },
+  {
+    "place_id": "0x87ee918153bdec9f:0",
+    "name": "Professional Driving Academy",
+    "address": "",
+    "category": "Truck driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:25.907343"
+  },
+  {
+    "place_id": "0x87ee999660bed52d:0",
+    "name": "Exale Spa",
+    "address": "",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:23.289525"
+  },
+  {
+    "place_id": "0x87ee9d8237d48e65:0",
+    "name": "Emerald Massage",
+    "address": "",
+    "category": "Massage therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:21.925185"
+  },
+  {
+    "place_id": "0x87ec21bbb79f3f95:0",
+    "name": "Cherry Bliss Massage & Head Spa",
+    "address": "",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:20.546049"
+  },
+  {
+    "place_id": "0x87ee9e05986f8219:0",
+    "name": "Serendipity Spa",
+    "address": "",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:19.271295"
+  },
+  {
+    "place_id": "0x87ee9ed4241908df:0",
+    "name": "Massage Heights Ingersoll",
+    "address": "",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:17.801523"
+  },
+  {
+    "place_id": "0x87ee995979a31b65:0",
+    "name": "Empeiria Sauna House",
+    "address": "2201 George Flagg Pkwy",
+    "category": "Public sauna",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:16.531867"
+  },
+  {
+    "place_id": "0x87ee9393c55adfd7:0",
+    "name": "Rejuvenation Station Massage Therapy",
+    "address": "",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:15.211804"
+  },
+  {
+    "place_id": "0x87ee975766eb324b:0",
+    "name": "Body Soul Massage",
+    "address": "2355 E University Ave #101",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:13.915614"
+  },
+  {
+    "place_id": "0x87ee99c6305281c5:0",
+    "name": "Pure Restore Spa",
+    "address": "",
+    "category": "Day spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:12.585170"
+  },
+  {
+    "place_id": "0x87ee99062b1909d5:0",
+    "name": "Shiatsu Spa",
+    "address": "3011 SE 14th St",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:11.109458"
+  },
+  {
+    "place_id": "0x87ee99fb303359a5:0",
+    "name": "Integrated Spa & Wellness",
+    "address": "",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:09.704926"
+  },
+  {
+    "place_id": "0x87ee997702b87067:0",
+    "name": "Serenity Vibe Spa",
+    "address": "",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:08.394902"
+  },
+  {
+    "place_id": "0x87ee99274c732703:0",
+    "name": "Sun Massage Spa",
+    "address": "1130 E 9th St",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:07.112486"
+  },
+  {
+    "place_id": "0x87ee99dc10b45c8d:0",
+    "name": "Eden Spa",
+    "address": "",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:04.537432"
+  },
+  {
+    "place_id": "0x87eea20aea39c94d:0",
+    "name": "Hy-Vee Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:03.280349"
+  },
+  {
+    "place_id": "0x87ee9ea7c47c398b:0",
+    "name": "Anytime Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:01.946379"
+  },
+  {
+    "place_id": "0x87ee8549802d71c1:0",
+    "name": "Elite Edge Gym Ankeny",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:48:00.655770"
+  },
+  {
+    "place_id": "0x87eebf975a4b7ad1:0",
+    "name": "24/7 Fitness",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:59.394908"
+  },
+  {
+    "place_id": "0x87ee98fed3025d9b:0",
+    "name": "Black Collar Crossfit",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:57.683074"
+  },
+  {
+    "place_id": "0x87eebd4555555501:0",
+    "name": "Planet Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:56.408250"
+  },
+  {
+    "place_id": "0x87ee992abec6b52b:0",
+    "name": "Wellness Center at DMU32",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:55.043493"
+  },
+  {
+    "place_id": "0x87ee99309d7e212d:0",
+    "name": "CrossFit Golden Valkyrie",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:53.752084"
+  },
+  {
+    "place_id": "0x87ee99c7a0b510e3:0",
+    "name": "East High School Community Center Gym",
+    "address": "",
+    "category": "High school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:52.473158"
+  },
+  {
+    "place_id": "0x87eea3af0188f36b:0",
+    "name": "Crunch Fitness - Des Moines South",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:51.235450"
+  },
+  {
+    "place_id": "0x87ee9bee4e7f137d:0",
+    "name": "Los Campeones Gym Des Moines",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:49.903484"
+  },
+  {
+    "place_id": "0x87eea3c6c7ddc9d5:0",
+    "name": "Genesis Health Clubs - Southridge",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:47.949251"
+  },
+  {
+    "place_id": "0x87ee9952b7d8f823:0",
+    "name": "Power Life Yoga Barre Fitness - East Village",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:46.588427"
+  },
+  {
+    "place_id": "0x87ee990121b50c39:0",
+    "name": "Wellmark YMCA",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:45.308008"
+  },
+  {
+    "place_id": "0x87ee9b307e84eba9:0",
+    "name": "Highland Park Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:44.041170"
+  },
+  {
+    "place_id": "0x87ee99741b73f499:0",
+    "name": "DSM Barbell Club",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:42.797276"
+  },
+  {
+    "place_id": "0x87ee99041b6e6485:0",
+    "name": "Pace317",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:41.541474"
+  },
+  {
+    "place_id": "0x87ee9929c6e0b9c7:0",
+    "name": "Krave Gym Des Moines",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:40.067922"
+  },
+  {
+    "place_id": "0x87ee975996ccc8e1:0",
+    "name": "The Beauty Collective",
+    "address": "",
+    "category": "Nail salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:38.764003"
+  },
+  {
+    "place_id": "0x87ee9a1893e97513:0",
+    "name": "Juli's Hair Design",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:37.393812"
+  },
+  {
+    "place_id": "0x87ee99104e0fed5b:0",
+    "name": "GIV Salon & Suites",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:36.163906"
+  },
+  {
+    "place_id": "0x87ee99107bfc3ecd:0",
+    "name": "Abby Hair Salon",
+    "address": "",
+    "category": "Hairdresser",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:34.800908"
+  },
+  {
+    "place_id": "0x87ee980bca005987:0",
+    "name": "Ashley's Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:33.430494"
+  },
+  {
+    "place_id": "0x87ec23708e181367:0",
+    "name": "LUX HAIR STUDIO",
+    "address": "",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:32.140432"
+  },
+  {
+    "place_id": "0x87ee99c99b4b0f51:0",
+    "name": "Taylored N Made Des Moines Hairstylist",
+    "address": "",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:30.880129"
+  },
+  {
+    "place_id": "0x87ee9944e1e9f441:0",
+    "name": "Van Hair Collective",
+    "address": "",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:29.615104"
+  },
+  {
+    "place_id": "0x87ee9914a7528a31:0",
+    "name": "Allegory",
+    "address": "",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:28.351287"
+  },
+  {
+    "place_id": "0x87ee99cff47ee2b5:0",
+    "name": "Secretos Beauty Shop",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:27.142500"
+  },
+  {
+    "place_id": "0x87ee9e4ff56fef3f:0",
+    "name": "Aviva Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:25.937423"
+  },
+  {
+    "place_id": "0x87ee99d07bcd5b31:0",
+    "name": "Letty's Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:24.658933"
+  },
+  {
+    "place_id": "0x87ee992d642679a7:0",
+    "name": "R. Mane Apothecary",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:23.425147"
+  },
+  {
+    "place_id": "0x87ee99ae6dc3ac05:0",
+    "name": "Salon Revolution",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:22.193872"
+  },
+  {
+    "place_id": "0x87ee99ae4259b7df:0",
+    "name": "Rooted Salon Suites",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:20.927798"
+  },
+  {
+    "place_id": "0x87ee9ed283f8a45b:0",
+    "name": "The Beehive Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:19.580306"
+  },
+  {
+    "place_id": "0x87ee99ae6973595f:0",
+    "name": "Bloom Salon Studios",
+    "address": "Set, 300 E Grand Ave #160",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:18.181881"
+  },
+  {
+    "place_id": "0x87ee995140827747:0",
+    "name": "LUXE BEAUTY LOUNGE",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:15.641220"
+  },
+  {
+    "place_id": "0x87ee9a186680760d:0",
+    "name": "ALDI",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:14.289643"
+  },
+  {
+    "place_id": "0x87ee99ae6e273cf5:0",
+    "name": "East Village Pantry",
+    "address": "",
+    "category": "Pantry",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:12.687251"
+  },
+  {
+    "place_id": "0x87ee99000fee3a55:0",
+    "name": "Hy-Vee Grocery Store",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:11.399023"
+  },
+  {
+    "place_id": "0x87ee99219a363cdb:0",
+    "name": "Gateway Market",
+    "address": "",
+    "category": "Natural goods store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:10.124036"
+  },
+  {
+    "place_id": "0x87ee99eaa812ebbd:0",
+    "name": "Shop 'n Save",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:08.880513"
+  },
+  {
+    "place_id": "0x87ee97aacf6a2b19:0",
+    "name": "University Market",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:07.490550"
+  },
+  {
+    "place_id": "0x87ee990c5e30455f:0",
+    "name": "C Fresh Market",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:05.985864"
+  },
+  {
+    "place_id": "0x87ee9a21ead41129:0",
+    "name": "Euclid Cash Saver Outlet",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:04.764509"
+  },
+  {
+    "place_id": "0x87ee99b1e9a7dd6d:0",
+    "name": "New Oriental Food Store",
+    "address": "",
+    "category": "Asian grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:03.493936"
+  },
+  {
+    "place_id": "0x87ee99c8abcc2c81:0",
+    "name": "La Tapatía Grocery",
+    "address": "",
+    "category": "Mexican grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:02.007992"
+  },
+  {
+    "place_id": "0x87ee855f53bd31dd:0",
+    "name": "Fuzed Permanent Jewelry- Des Moines Permanent Bracelets, Anklets, Necklaces and Rings",
+    "address": "",
+    "category": "Jewelry designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:47:00.649066"
+  },
+  {
+    "place_id": "0x2d1bbd88f819ae7b:0",
+    "name": "Adorn DSM",
+    "address": "2606 Beaver Ave",
+    "category": "Jewelry designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:59.391500"
+  },
+  {
+    "place_id": "0x87ee9172184dc1b3:0",
+    "name": "KAY Outlet",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:58.101080"
+  },
+  {
+    "place_id": "0x87ee91f3fc133265:0",
+    "name": "Zales Outlet",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:56.829012"
+  },
+  {
+    "place_id": "0x87ee99c738beb51d:0",
+    "name": "GOLDEN JOYERIA Y ENVIOS",
+    "address": "Opens 11 AM Sat",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:55.593561"
+  },
+  {
+    "place_id": "0x87ec21c6836815b5:0",
+    "name": "Piedras Haseya LLC",
+    "address": "900 Keosauqua Way Studio 406",
+    "category": "Jewelry designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:54.338123"
+  },
+  {
+    "place_id": "0x87ee99729887d7d7:0",
+    "name": "Joyeria Yatzary",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:53.087519"
+  },
+  {
+    "place_id": "0x87ee9bd3a05c21c7:0",
+    "name": "Strac Jewelry",
+    "address": "",
+    "category": "Jewelry designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:51.715060"
+  },
+  {
+    "place_id": "0x87ee9d5011bf99bb:0",
+    "name": "Riddle's Jewelry - Des Moines",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:50.477146"
+  },
+  {
+    "place_id": "0x87ee9b24edb0786b:0",
+    "name": "Joyería AMC",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:49.101442"
+  },
+  {
+    "place_id": "0x87ee999fa97bef5b:0",
+    "name": "Asian's Jewelry",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:47.756022"
+  },
+  {
+    "place_id": "0x87ee9888a70eea75:0",
+    "name": "Park Avenue Jewelry",
+    "address": "",
+    "category": "Jeweler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:46.485785"
+  },
+  {
+    "place_id": "0x87eea2ea87b62cc1:0",
+    "name": "KAY Jewelers",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:45.280477"
+  },
+  {
+    "place_id": "0x87ee9920e9ecdccb:0",
+    "name": "OJ Jewelry Repair Shop",
+    "address": "1706 E Grand Ave",
+    "category": "Jewelry repair service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:44.048417"
+  },
+  {
+    "place_id": "0x87ee99ae71f22a85:0",
+    "name": "KIN",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:42.640832"
+  },
+  {
+    "place_id": "0x87ee99b21054753d:0",
+    "name": "Owen Jewelry Design",
+    "address": "",
+    "category": "Jewelry designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:41.322132"
+  },
+  {
+    "place_id": "0x87eddb3e86b1d3eb:0",
+    "name": "iDeal Furniture Iowa",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:39.980210"
+  },
+  {
+    "place_id": "0x8771f3a7679daaa7:0",
+    "name": "Furniture Mart",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:38.727692"
+  },
+  {
+    "place_id": "0x87ee98fdebb935b1:0",
+    "name": "West End Architectural Salvage",
+    "address": "",
+    "category": "Architectural salvage store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:36.685218"
+  },
+  {
+    "place_id": "0x87ef1d9f78f1cc75:0",
+    "name": "Dave's Wholesale Furniture",
+    "address": "",
+    "category": "Used furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:35.464519"
+  },
+  {
+    "place_id": "0x87ec20be7b49cc49:0",
+    "name": "At Home",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:34.141507"
+  },
+  {
+    "place_id": "0x87ec20a6204633b7:0",
+    "name": "Suite Dreams Bedrooms & Stuff for Kids",
+    "address": "",
+    "category": "Children's furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:32.704354"
+  },
+  {
+    "place_id": "0x87ec2095ec02e145:0",
+    "name": "World Market",
+    "address": "4100 University Ave Ste 210",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:30.839743"
+  },
+  {
+    "place_id": "0x87ee7bac4196e655:0",
+    "name": "The Furniture Mart",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:29.600216"
+  },
+  {
+    "place_id": "0x87ee8ff9cfb28a75:0",
+    "name": "Slumberland Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:28.231080"
+  },
+  {
+    "place_id": "0x87ef1c9f3421942b:0",
+    "name": "Newton Furniture & Mattress",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:26.939746"
+  },
+  {
+    "place_id": "0x87ef1d001497dd29:0",
+    "name": "Max's Furniture Outlet",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:25.490267"
+  },
+  {
+    "place_id": "0x87eea28b70f271a9:0",
+    "name": "Curley's Furniture and Mattress",
+    "address": "",
+    "category": "Mattress store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:24.248425"
+  },
+  {
+    "place_id": "0x87ee99d82323b671:0",
+    "name": "Grand Furniture and Mattress",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:23.021095"
+  },
+  {
+    "place_id": "0x87ee9a2b68e07e4b:0",
+    "name": "Home Furnishings Sales & Financing",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:21.750793"
+  },
+  {
+    "place_id": "0x87eea2b819384b75:0",
+    "name": "Slumberland Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:20.481928"
+  },
+  {
+    "place_id": "0x87ee99b1f805494f:0",
+    "name": "Projects Contemporary Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:19.185655"
+  },
+  {
+    "place_id": "0x87ee999d89acdcbd:0",
+    "name": "Boost Mobile & Fix N Cell",
+    "address": "",
+    "category": "Cell phone store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 02:46:17.847377"
+  },
+  {
     "place_id": "0x87ee99c47459314b:0",
     "name": "Novedadas",
     "address": "5912 SE 14th St",
@@ -7972,1031 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-13 23:08:01.947079"
-  },
-  {
-    "place_id": "0x865c61e3b7f05f8b:0",
-    "name": "JC Events",
-    "address": "14855 Blanco Rd #307",
-    "category": "Wedding planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:59.536506"
-  },
-  {
-    "place_id": "0x865cbd6b96a80c7f:0",
-    "name": "Events By Touch Of Elegance",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:58.257904"
-  },
-  {
-    "place_id": "0x865c630055390895:0",
-    "name": "Epic Events",
-    "address": "255 E Basse Rd Unit 1505 suite 67",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:55.958276"
-  },
-  {
-    "place_id": "0x865c6171cd147187:0",
-    "name": "Adam's Event Planning",
-    "address": "18756 Stone Oak Pkwy STE. 200",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:53.643059"
-  },
-  {
-    "place_id": "0x865c5f693e04b5cf:0",
-    "name": "Goen South San Antonio DMC",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:52.434075"
-  },
-  {
-    "place_id": "0x865c60e50be5260f:0",
-    "name": "Century 21 Scott Myers, Realtors",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:49.926640"
-  },
-  {
-    "place_id": "0x865c61250924bdf7:0",
-    "name": "Commercial Real Estate Agent in San Antonio - Erik Hernandez, CCIM",
-    "address": "",
-    "category": "Commercial real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:47.343445"
-  },
-  {
-    "place_id": "0x865c8a5624fbffff:0",
-    "name": "The San Antonio Real Estate Company",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:46.051803"
-  },
-  {
-    "place_id": "0x865cf5b96146af37:0",
-    "name": "Chris Dudley, Legacy Realty Group Brokered by Real Broker, LLC - San Antonio, TX",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:43.410157"
-  },
-  {
-    "place_id": "0x865c617f0bff8f6f:0",
-    "name": "BESTSAHOMES",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:42.140576"
-  },
-  {
-    "place_id": "0x865c6795b6532571:0",
-    "name": "Tyler & Evette Real Estate Group",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:39.917628"
-  },
-  {
-    "place_id": "0x865c66ad728efb61:0",
-    "name": "M. Stagers Realty Partners",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:37.261885"
-  },
-  {
-    "place_id": "0x865c5d96df2027b1:0",
-    "name": "Uprise Real Estate Partners",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:35.962174"
-  },
-  {
-    "place_id": "0x865c8b2586a3d05f:0",
-    "name": "RISE Realty Group",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:33.313809"
-  },
-  {
-    "place_id": "0x865c610c7bda3acb:0",
-    "name": "San Antonio Property Group Brokered by LPT Realty, LLC - Marcus Soliz, Realtor®",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:32.129902"
-  },
-  {
-    "place_id": "0x865cf5fd9fff645d:0",
-    "name": "Watters International Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:29.923701"
-  },
-  {
-    "place_id": "0x865c7aa11fe36fa1:0",
-    "name": "Rise Property Group",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:27.467953"
-  },
-  {
-    "place_id": "0x865c771de16747c3:0",
-    "name": "Countdown Realty Team",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:26.224613"
-  },
-  {
-    "place_id": "0x865c62014ce5a917:0",
-    "name": "The Schrader Group - Brokered by eXp Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:23.974834"
-  },
-  {
-    "place_id": "0x865c60ba86eaaaab:0",
-    "name": "Legendary Realty - Real Estate Broker, Realtor",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:21.576612"
-  },
-  {
-    "place_id": "0x6a5fce735fb7a743:0",
-    "name": "The Zachary Team San Antonio REALTORS®",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:20.366252"
-  },
-  {
-    "place_id": "0x865c6075ac5fa93d:0",
-    "name": "VIP Realty REALTORS®",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:19.108277"
-  },
-  {
-    "place_id": "0x865c6149702b673b:0",
-    "name": "Justin Brickman, REALTOR® | San Antonio’s Trusted Agent",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:15.924481"
-  },
-  {
-    "place_id": "0x865c5e8a3abcc147:0",
-    "name": "Vision Real Estate",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:13.650150"
-  },
-  {
-    "place_id": "0x865c921d5e5f98df:0",
-    "name": "Reagan Williamson Group",
-    "address": "500 N Loop 1604 E Ste 104",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:12.430488"
-  },
-  {
-    "place_id": "0x865c5f5c39849b17:0",
-    "name": "Eric Salinas Real Estate - Real Brokerage",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:11.195443"
-  },
-  {
-    "place_id": "0x865c5f515b9d4451:0",
-    "name": "DHRP | DH Realty Partners, Inc",
-    "address": "",
-    "category": "Commercial real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:07.394710"
-  },
-  {
-    "place_id": "0x865c693f283c73d7:0",
-    "name": "A Wonderful Life Real Estate Group, RE Solutions XV, LLC",
-    "address": "",
-    "category": "Real estate consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:06.138003"
-  },
-  {
-    "place_id": "0x865c66cd60c0cc1f:0",
-    "name": "Realtor Sandra Otero",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:03.936525"
-  },
-  {
-    "place_id": "0x8ed84d60f202ef99:0",
-    "name": "Niva Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:01.494478"
-  },
-  {
-    "place_id": "0x865c671d196c574b:0",
-    "name": "Rangel Real Estate Group, REAL Broker, LLC",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:07:00.220088"
-  },
-  {
-    "place_id": "0x865c65231bd9f041:0",
-    "name": "Proper Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:57.926693"
-  },
-  {
-    "place_id": "0x865c615e1204e1a3:0",
-    "name": "Levi Rodgers Real Estate Group",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:55.370470"
-  },
-  {
-    "place_id": "0x865c663ca42e68a7:0",
-    "name": "Garza Home Team - Keller Williams City View",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:54.119966"
-  },
-  {
-    "place_id": "0x865c6102d01d3bd9:0",
-    "name": "Exquisite Properties, LLC",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:52.858596"
-  },
-  {
-    "place_id": "0x865c617f1024f5bb:0",
-    "name": "eXposed Homes Group",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:51.620433"
-  },
-  {
-    "place_id": "0x865c61d28a9db031:0",
-    "name": "Buy Sell SA Group - Lizzeth Lopez w/ REAL BROKERS LLC",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:50.408373"
-  },
-  {
-    "place_id": "0x865c67321ee65a1b:0",
-    "name": "Neal & Neal Team",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:49.028197"
-  },
-  {
-    "place_id": "0x865c67dc279ce755:0",
-    "name": "1st Choice South LLC -Texas Elite Real Estate Group",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:47.778519"
-  },
-  {
-    "place_id": "0x865c5925184fbc4f:0",
-    "name": "The Salon and Spa at Southern Careers Institute - San Antonio",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:46.530243"
-  },
-  {
-    "place_id": "0x865cf568623d1e67:0",
-    "name": "Salon Envy® San Antonio",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:45.294265"
-  },
-  {
-    "place_id": "0x865c5e1fef38e571:0",
-    "name": "My Beauty Concepts Salon & Barber",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:44.097743"
-  },
-  {
-    "place_id": "0x865c618750d6b141:0",
-    "name": "San Antonio Jewelry",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:42.782304"
-  },
-  {
-    "place_id": "0x865c59b5790c0e0f:0",
-    "name": "Zales",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:41.511851"
-  },
-  {
-    "place_id": "0x865c60082603794d:0",
-    "name": "KAY Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:40.290502"
-  },
-  {
-    "place_id": "0x865cf74af63e00ad:0",
-    "name": "Pandora Jewelry",
-    "address": "849 E Commerce St Ste 261",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:39.036909"
-  },
-  {
-    "place_id": "0x865c67f758ce0ccf:0",
-    "name": "gorjana",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:37.656827"
-  },
-  {
-    "place_id": "0x865cf560fb9e27ed:0",
-    "name": "KAY Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:36.380980"
-  },
-  {
-    "place_id": "0x865c8a79fcc676c7:0",
-    "name": "Dennis Jewelry",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:35.132558"
-  },
-  {
-    "place_id": "0x865c6007c8dffc17:0",
-    "name": "Zales",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:33.779826"
-  },
-  {
-    "place_id": "0x865c5d06b0e0a429:0",
-    "name": "KAY Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:32.383154"
-  },
-  {
-    "place_id": "0x865c600bb03d9a61:0",
-    "name": "JTI Diamond Co.",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:31.143798"
-  },
-  {
-    "place_id": "0x865c67eb73690741:0",
-    "name": "Rialto Jewelry",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:29.822345"
-  },
-  {
-    "place_id": "0x865cf559b3cc4dfd:0",
-    "name": "The Jewelry Store",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:28.577633"
-  },
-  {
-    "place_id": "0x865c5d3afe73acdb:0",
-    "name": "N&M Jewelry",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:27.368490"
-  },
-  {
-    "place_id": "0x865c600815a91f35:0",
-    "name": "N&M Jewelry",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:26.137944"
-  },
-  {
-    "place_id": "0x865c67ec8026c323:0",
-    "name": "South Texas Jewelers",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:24.778921"
-  },
-  {
-    "place_id": "0x865cf5b5f7f258bb:0",
-    "name": "Lee Michaels Fine Jewelry",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:23.470100"
-  },
-  {
-    "place_id": "0x865c6009ea0b5fe9:0",
-    "name": "Jared Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:22.169449"
-  },
-  {
-    "place_id": "0x865c6695a8517117:0",
-    "name": "Ethan Allen",
-    "address": "12862 I-10",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:20.833658"
-  },
-  {
-    "place_id": "0x865c8d83962ba0dd:0",
-    "name": "Furniture Row",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:19.399092"
-  },
-  {
-    "place_id": "0x865c6005fb777a2b:0",
-    "name": "Mega Furniture - La Plaza Del Norte",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:18.151028"
-  },
-  {
-    "place_id": "0x865c5fe2a6ff2d4b:0",
-    "name": "Stowers Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:16.946642"
-  },
-  {
-    "place_id": "0x865c60ca100f8bb9:0",
-    "name": "Bassett Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:15.742460"
-  },
-  {
-    "place_id": "0x865c8a402864b96d:0",
-    "name": "Office Furniture Liquidations",
-    "address": "",
-    "category": "Used office furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:14.482099"
-  },
-  {
-    "place_id": "0x865c6157fbba4829:0",
-    "name": "Rooms To Go",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:12.862420"
-  },
-  {
-    "place_id": "0x89a9f367a3d36419:0",
-    "name": "Havertys Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:11.645752"
-  },
-  {
-    "place_id": "0x865c5df62af2ecbb:0",
-    "name": "CasaBella Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:10.274267"
-  },
-  {
-    "place_id": "0x865c5dd74a22dcb1:0",
-    "name": "Fiesta Home Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:08.941102"
-  },
-  {
-    "place_id": "0x865c8b4270771773:0",
-    "name": "In Home Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:07.705615"
-  },
-  {
-    "place_id": "0x865c67f8d4de167d:0",
-    "name": "Christian's Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:06.498029"
-  },
-  {
-    "place_id": "0x865c66d89b3f59dd:0",
-    "name": "Bob Mills Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:05.300801"
-  },
-  {
-    "place_id": "0x865c66df01c06e23:0",
-    "name": "Star Furniture - San Antonio",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:04.061143"
-  },
-  {
-    "place_id": "0x865c592c3f184417:0",
-    "name": "CasaBella Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:02.860065"
-  },
-  {
-    "place_id": "0x865c5d02f7cc2129:0",
-    "name": "Furniture Row",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:01.496096"
-  },
-  {
-    "place_id": "0x865c618ad4486d81:0",
-    "name": "Living Spaces",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:06:00.257601"
-  },
-  {
-    "place_id": "0x865c586a266ec065:0",
-    "name": "Warehouse Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:59.037370"
-  },
-  {
-    "place_id": "0x865c5968ce74970f:0",
-    "name": "Furniture Outlet",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:57.823849"
-  },
-  {
-    "place_id": "0x865c59b4ed8600ef:0",
-    "name": "Mega Furniture - SW Military",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:56.550647"
-  },
-  {
-    "place_id": "0x865c61018516e7d9:0",
-    "name": "ZARA",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:55.161869"
-  },
-  {
-    "place_id": "0x865cf55ef7d0522b:0",
-    "name": "Banana Republic",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:53.848196"
-  },
-  {
-    "place_id": "0x865c667da63be485:0",
-    "name": "Express",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:52.597804"
-  },
-  {
-    "place_id": "0x865c60080b3a8683:0",
-    "name": "Cotton On",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:50.744764"
-  },
-  {
-    "place_id": "0x865cf55e6f7bf989:0",
-    "name": "Gap",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:49.472745"
-  },
-  {
-    "place_id": "0x865c58aa8121136f:0",
-    "name": "Aéropostale",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:48.187505"
-  },
-  {
-    "place_id": "0x865c66864e1b9661:0",
-    "name": "Altar'd State The Shops at La Cantera",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:46.804323"
-  },
-  {
-    "place_id": "0x865c5d06b2654ba5:0",
-    "name": "Express",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:45.376768"
-  },
-  {
-    "place_id": "0x865c600873f1ef7d:0",
-    "name": "Tillys",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:44.104559"
-  },
-  {
-    "place_id": "0x865c59b5a9085411:0",
-    "name": "Aéropostale",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:42.828995"
-  },
-  {
-    "place_id": "0x865c600ae694991d:0",
-    "name": "Clothes Mentor Park North San Antonio, TX",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:41.634738"
-  },
-  {
-    "place_id": "0x865cf130c894e193:0",
-    "name": "It's Fashion",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:40.392075"
-  },
-  {
-    "place_id": "0x865c6007c200cf79:0",
-    "name": "BOSS Shop - Saks Shop - San Antonio",
-    "address": "",
-    "category": "Men's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:39.096878"
-  },
-  {
-    "place_id": "0x865cf55e26efa9ef:0",
-    "name": "Nordstrom Rack",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:37.709329"
-  },
-  {
-    "place_id": "0x865c6009c6a31889:0",
-    "name": "Express",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:36.452340"
-  },
-  {
-    "place_id": "0x865c61fc94d04607:0",
-    "name": "Knockout Wear",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:35.191365"
-  },
-  {
-    "place_id": "0x865c5849a84f8621:0",
-    "name": "Street Gear",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:33.890190"
-  },
-  {
-    "place_id": "0x865cf56b6153f411:0",
-    "name": "Nekter Juice Bar",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:32.631730"
-  },
-  {
-    "place_id": "0x865c5f007ce04143:0",
-    "name": "Juice Joint",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:31.435487"
-  },
-  {
-    "place_id": "0x865c617861af41d3:0",
-    "name": "Vetco Total Care",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:30.169945"
-  },
-  {
-    "place_id": "0x865c5201b73b8779:0",
-    "name": "Somerset Animal Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:28.909918"
-  },
-  {
-    "place_id": "0x865c663ced97d741:0",
-    "name": "MissionVet Specialty & Emergency",
-    "address": "",
-    "category": "Emergency veterinarian service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:27.676297"
-  },
-  {
-    "place_id": "0x865c89bd9d1df647:0",
-    "name": "Encino Park Veterinary Clinic",
-    "address": "",
-    "category": "Animal hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:26.261081"
-  },
-  {
-    "place_id": "0x865cf54adc1a4dbb:0",
-    "name": "Thrive Pet Healthcare Specialists San Antonio",
-    "address": "",
-    "category": "Emergency veterinarian service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:24.882737"
-  },
-  {
-    "place_id": "0x865c60f5f43d2035:0",
-    "name": "Texas Veterinary Hospitals",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:22.925308"
-  },
-  {
-    "place_id": "0x865c61bb9c583661:0",
-    "name": "Deerfield Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:21.583931"
-  },
-  {
-    "place_id": "0x865c5cccee4e43a5:0",
-    "name": "St. Francis Veterinary Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:20.196701"
-  },
-  {
-    "place_id": "0x6e469ce257ef321f:0",
-    "name": "Alamo Dx Labs",
-    "address": "",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:20.195177"
-  },
-  {
-    "place_id": "0x865c6112cb280c5f:0",
-    "name": "Oracle Tech Diagnostic Labs | 24/7",
-    "address": "",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:20.193948"
-  },
-  {
-    "place_id": "0x865c60b056fea329:0",
-    "name": "Parkhurst NuVision LASIK Eye Surgery - San Antonio Office",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:18.822074"
-  },
-  {
-    "place_id": "0x865c5d03b869e623:0",
-    "name": "In Focus Eyecare Center",
-    "address": "",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:17.374071"
-  },
-  {
-    "place_id": "0x865c5df72a09b82f:0",
-    "name": "South Texas Eye Institute - San Antonio Office",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:16.138210"
-  },
-  {
-    "place_id": "0x865c592b42e070cd:0",
-    "name": "Eye Associates of South Texas- South San Antonio",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:14.764087"
-  },
-  {
-    "place_id": "0x865c5da9b42a245b:0",
-    "name": "San Antonio Eye Center",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:13.449371"
-  },
-  {
-    "place_id": "0x865c591f46094057:0",
-    "name": "Vibrant Eyecare, Dr. Lorenzo Nichols",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-13 23:05:11.561485"
   }
 ]
