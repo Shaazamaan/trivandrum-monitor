@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c0bcc6d8aaaf:0",
+    "name": "S A Hotel",
+    "address": "",
+    "category": "Non vegetarian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 23:49:55.002319"
+  },
+  {
     "place_id": "0x3b05afd6f982e017:0",
     "name": "Smart Estate",
     "address": "Opens 8 AM",
@@ -8989,14 +8998,5 @@
     "phone": "+91 97454 04541",
     "website": null,
     "discovered_at": "2026-11-14 13:51:19.133366"
-  },
-  {
-    "place_id": "0x3b05bb3dd765044d:0",
-    "name": "Ayurveda treatment hospital Kerala",
-    "address": "GW6V+GGW, Plammoodu, Anadiyil Hospital Road",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:51:17.899283"
   }
 ]
