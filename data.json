@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05c14fa18ebecb:0",
+    "name": "Pirappamankaad Paddy Field",
+    "address": "",
+    "category": "Tourist attraction",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 18:51:36.360061"
+  },
+  {
+    "place_id": "0x3b080da8339a4f09:0",
+    "name": "Bizcospaces - Coworking Space in Kochi",
+    "address": "",
+    "category": "Coworking space",
+    "phone": "+91 80789 99900",
+    "website": null,
+    "discovered_at": "2026-11-14 18:51:35.093388"
+  },
+  {
+    "place_id": "0x3b05eb00481bf13d:0",
+    "name": "Evergreen Events Chirayinkeezhu",
+    "address": "Eenchakkal Rd",
+    "category": "Catering food and drink supplier",
+    "phone": "+91 95624 59680",
+    "website": null,
+    "discovered_at": "2026-11-14 18:51:33.701852"
+  },
+  {
+    "place_id": "0x3b05e90050b15095:0",
+    "name": "Kismath Wedding Company",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 18:51:32.367505"
+  },
+  {
+    "place_id": "0x3b05eb8fb483fe0f:0",
+    "name": "Govt Veterinary Hospital Kadakkavur",
+    "address": "MQJG+6QM",
+    "category": "Veterinary pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 18:51:31.048403"
+  },
+  {
     "place_id": "0x3b05bb320df4b205:0",
     "name": "Saju K R & Associates Chartered Accountants",
     "address": "Thampuran Mukku, TC 13/494(1), Nishanth, Line, Kalavihar Ln",
@@ -8953,50 +8998,5 @@
     "phone": "+91 62385 25823",
     "website": null,
     "discovered_at": "2026-11-14 09:31:45.321434"
-  },
-  {
-    "place_id": "0x3b05ab804c75ddc9:0",
-    "name": "Talrop’s Village Park at Parassala",
-    "address": "Maria Complex, Temple Rd, near Mahadeva",
-    "category": "Business center",
-    "phone": "+91 85899 99555",
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:44.093916"
-  },
-  {
-    "place_id": "0x3b05ab5afa2f6307:0",
-    "name": "CJ English Coaching",
-    "address": "85M2+4PH",
-    "category": "Education center",
-    "phone": "+91 96988 83131",
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:42.931350"
-  },
-  {
-    "place_id": "0x3b05abe3eda833d1:0",
-    "name": "Brainee Bees",
-    "address": "VKD Complex, TVM Main Road, near PPM Junction",
-    "category": "Education center",
-    "phone": "+91 75982 24830",
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:41.014755"
-  },
-  {
-    "place_id": "0x3b05abe9f6de9e2b:0",
-    "name": "Riyan Tuition centre",
-    "address": "Thaiyalumoodu Rd",
-    "category": "Educational institution",
-    "phone": "+91 89400 44634",
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:39.858334"
-  },
-  {
-    "place_id": "0x3b05adf8d6f3076f:0",
-    "name": "CHITHRAKALA Kalakendram, AlamparaParasala",
-    "address": "9583+JMF, Pavathiyanvila Aalampara Rd",
-    "category": "Training center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:31:38.569800"
   }
 ]
