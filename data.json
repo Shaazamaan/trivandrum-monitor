@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05e861b53290d9:0",
+    "name": "ശ്രീ വിനായക സൂപ്പർമാർക്കറ്റ്",
+    "address": "QQ5J+JGH, Varkala Kallambalam Rd",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 19:17:35.811055"
+  },
+  {
+    "place_id": "0x3b05e90313516659:0",
+    "name": "Kairali Variety Store",
+    "address": "QQ6Q+Q26",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 19:17:34.546590"
+  },
+  {
+    "place_id": "0x865c5f91bff3811b:0",
+    "name": "BY Design Home Staging",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 19:17:33.202421"
+  },
+  {
+    "place_id": "0x865c61a7017aee39:0",
+    "name": "Texas Red Interiors",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 19:17:31.838501"
+  },
+  {
+    "place_id": "0x865cf569c9b7e351:0",
+    "name": "Styleberry Creative Interiors",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 19:17:30.560795"
+  },
+  {
+    "place_id": "0x865cf59807bd74e5:0",
+    "name": "NEISD Driver Education",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 19:17:29.313149"
+  },
+  {
+    "place_id": "0x865c584733dfeb9b:0",
+    "name": "First Gear Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 19:17:28.083322"
+  },
+  {
     "place_id": "0x3b05fc5a24042c01:0",
     "name": "Devi Clinical Lab",
     "address": "",
@@ -8935,68 +8998,5 @@
     "phone": "+91 81290 16219",
     "website": null,
     "discovered_at": "2026-11-14 09:55:51.504966"
-  },
-  {
-    "place_id": "0x3b05b1fc4c0aa793:0",
-    "name": "PHOENIX STUDIO & WEDDING MAKERS",
-    "address": "nemom",
-    "category": "Event management company",
-    "phone": "+91 83018 71272",
-    "website": null,
-    "discovered_at": "2026-11-14 09:55:50.161851"
-  },
-  {
-    "place_id": "0x3b05bbde625f6f2b:0",
-    "name": "Caterly Caterers",
-    "address": "Ground floor, signature square",
-    "category": "Event planner",
-    "phone": "+91 95623 95623",
-    "website": null,
-    "discovered_at": "2026-11-14 09:55:48.954441"
-  },
-  {
-    "place_id": "0x3b05bba5cdc22683:0",
-    "name": "SMART BUILDERS CONSTRUCTION & ARCHITECTURE",
-    "address": "Smart Builders Construction & Architecture",
-    "category": "Consultant",
-    "phone": "+91 77366 27269",
-    "website": null,
-    "discovered_at": "2026-11-14 09:55:47.687134"
-  },
-  {
-    "place_id": "0x3b05bbcc03d9fcdb:0",
-    "name": "Screen Park",
-    "address": "Screen Park",
-    "category": "Interior designer",
-    "phone": "+91 88483 85614",
-    "website": null,
-    "discovered_at": "2026-11-14 09:55:46.491154"
-  },
-  {
-    "place_id": "0x3b05b1d8aff393df:0",
-    "name": "Sivaganga motor driving school pravachambalam",
-    "address": "Pravachambalam jn",
-    "category": "Driving school",
-    "phone": "+91 70259 93608",
-    "website": null,
-    "discovered_at": "2026-11-14 09:55:45.271930"
-  },
-  {
-    "place_id": "0x3b05bbb891490955:0",
-    "name": "Saradha Driving School ,Vellayani, Thiruvananthapuram",
-    "address": "SARADHA Driving School",
-    "category": "Driving school",
-    "phone": "+91 97467 83025",
-    "website": null,
-    "discovered_at": "2026-11-14 09:55:44.062496"
-  },
-  {
-    "place_id": "0x3b05bb77bdf54dff:0",
-    "name": "Nilanka Motor Driving School",
-    "address": "Nilanga motor driving school",
-    "category": "Driving school",
-    "phone": "+91 89216 13195",
-    "website": null,
-    "discovered_at": "2026-11-14 09:55:42.697100"
   }
 ]
