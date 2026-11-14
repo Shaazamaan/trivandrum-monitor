@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bb001139deb7:0",
+    "name": "Hector Gym Thirumala",
+    "address": "Second floor, above SBI bank",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:22:07.822824"
+  },
+  {
+    "place_id": "0x3b05c71a06679591:0",
+    "name": "Praveen Ponnoli Jewellers",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 16:22:06.526329"
+  },
+  {
+    "place_id": "0x3b05c76a6a562e41:0",
+    "name": "SANA JEWELLERY GOLD AND DIAMOND",
+    "address": "Opens 9 AM Sun",
+    "category": "Closed",
+    "phone": "+91 91691 69567",
+    "website": null,
+    "discovered_at": "2026-11-14 16:22:05.226953"
+  },
+  {
+    "place_id": "0x3b05e330b0b0c491:0",
+    "name": "CHAMAYAM GOLD & DIAMONDS",
+    "address": "CHAMAYAM JEWELLERY, 932, PO",
+    "category": "Jewelry store",
+    "phone": "+91 99953 66460",
+    "website": null,
+    "discovered_at": "2026-11-14 16:22:04.078878"
+  },
+  {
+    "place_id": "0x3b05c3c140cfd145:0",
+    "name": "Parinaya Boutique",
+    "address": "Parinaya boutique, near VHSS Mulamana oonnampara",
+    "category": "Boutique",
+    "phone": "+91 62825 32238",
+    "website": null,
+    "discovered_at": "2026-11-14 16:22:02.816933"
+  },
+  {
+    "place_id": "0x3b05c9b6d3dc510d:0",
+    "name": "Cherry red fancy & boutique",
+    "address": "Town/Village:, SREE SAILAM DAS PLAZA Road/Street: NANNIYODE Locality/Sub Locality:",
+    "category": "Boutique",
+    "phone": "+91 95676 50701",
+    "website": null,
+    "discovered_at": "2026-11-14 16:22:01.650845"
+  },
+  {
+    "place_id": "0x3b0685cbaf92dc79:0",
+    "name": "Cloud Kitchen Kadayanallur",
+    "address": "9, th street",
+    "category": "Indian Muslim restaurant",
+    "phone": "+91 90471 52454",
+    "website": null,
+    "discovered_at": "2026-11-14 16:22:00.460288"
+  },
+  {
+    "place_id": "0x3b06152d0992f781:0",
+    "name": "Pawsitive Pet Clinic ( Pathanamthitta Veterinary Hospital)",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": "+91 87142 95316",
+    "website": null,
+    "discovered_at": "2026-11-14 16:21:59.269540"
+  },
+  {
     "place_id": "0x808fcbdfbd640229:0",
     "name": "Premier Workspaces",
     "address": "",
@@ -8926,77 +8998,5 @@
     "phone": "+91 99468 75443",
     "website": null,
     "discovered_at": "2026-11-14 07:03:13.294869"
-  },
-  {
-    "place_id": "0x3b05bb2b2138f3cb:0",
-    "name": "Neethi Medical Lab Kundamankadavu",
-    "address": "Kundamankadavu Vattiyoorkavu Rd, near Sreebhadrakali Devi Kshethram, behind Bus Stop",
-    "category": "Medical laboratory",
-    "phone": "+91 89430 26777",
-    "website": null,
-    "discovered_at": "2026-11-14 07:03:13.293681"
-  },
-  {
-    "place_id": "0x3b05b1aaaf8a39ad:0",
-    "name": "DDRC Agilus Diagnostics, Pravachambalam",
-    "address": "C2X6+FX",
-    "category": "Medical laboratory",
-    "phone": "+91 93334 93334",
-    "website": null,
-    "discovered_at": "2026-11-14 07:03:13.292742"
-  },
-  {
-    "place_id": "0x3b05baa520cc099d:0",
-    "name": "Amar Jyothi Clinical Laboratory",
-    "address": "F232+V35",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 07:03:13.291839"
-  },
-  {
-    "place_id": "0x3b05baa5244e6685:0",
-    "name": "AR Clinical LAB",
-    "address": "AR Clincal Lab, Rk Building, thaluk hospital, Po, opp. Shanthivila",
-    "category": "Medical laboratory",
-    "phone": "+91 99955 65819",
-    "website": null,
-    "discovered_at": "2026-11-14 07:03:13.290865"
-  },
-  {
-    "place_id": "0x3b05baa5216725c5:0",
-    "name": "Aswas Diagnostics Santhivila",
-    "address": "TC 53/1834, Thaluk Hospital, near Santhivila",
-    "category": "Diagnostic center",
-    "phone": "+91 87146 14021",
-    "website": null,
-    "discovered_at": "2026-11-14 07:03:13.289831"
-  },
-  {
-    "place_id": "0x3b05b0077a2abd3d:0",
-    "name": "V.R. CLINICAL LAB and ECG",
-    "address": "P.O, Railway station road",
-    "category": "Medical laboratory",
-    "phone": "+91 94463 93016",
-    "website": null,
-    "discovered_at": "2026-11-14 07:03:13.288598"
-  },
-  {
-    "place_id": "0x3b05bb3b74f13bb5:0",
-    "name": "Elite Scans and Diagnostics",
-    "address": "Al Bayan Plaza, TC-1387/6, Shanthivila Opposite shanthivila taluk Hospital, vellayani",
-    "category": "Medical laboratory",
-    "phone": "+91 98466 05556",
-    "website": null,
-    "discovered_at": "2026-11-14 07:03:13.287576"
-  },
-  {
-    "place_id": "0x3b05baa5238d9e25:0",
-    "name": "Sree Lakshmi Diagnostic Centre",
-    "address": "FX3X+PX4",
-    "category": "Medical laboratory",
-    "phone": "+91 99951 68679",
-    "website": null,
-    "discovered_at": "2026-11-14 07:03:13.286650"
   }
 ]
