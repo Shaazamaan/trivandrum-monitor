@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c9fa02936129:0",
+    "name": "G-TEC COMPUTER EDUCATION",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": "+91 99469 22944",
+    "website": null,
+    "discovered_at": "2026-11-14 07:35:28.162430"
+  },
+  {
+    "place_id": "0x3b07ddd6766c42fd:0",
+    "name": "V R Aesthetic Laser Skin and Hair Clinic",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:35:26.945615"
+  },
+  {
     "place_id": "0x3b05c7931ee4e5b1:0",
     "name": "Haad Foods Kilo Biriyani",
     "address": "MWMF+8VM, Kuttimoodu Vellumannadi Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 03:11:11.720590"
-  },
-  {
-    "place_id": "0x3b05eb3d99a8470d:0",
-    "name": "Avanz Beauty make over Studio",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:10.429102"
-  },
-  {
-    "place_id": "0x3b05e90aafa0e239:0",
-    "name": "More Supermarket - Alamcode Trivandrum KL",
-    "address": "BA No. 194/20-21, Alamcode, Kochuvila",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:09.034744"
   }
 ]
