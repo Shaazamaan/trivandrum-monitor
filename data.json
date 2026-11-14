@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bd436d2e1f31:0",
+    "name": "RED APPLE TOURS AND TRAVELS",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 95679 57785",
+    "website": null,
+    "discovered_at": "2026-11-14 21:39:04.694764"
+  },
+  {
+    "place_id": "0x3b05954ddcb0b14d:0",
+    "name": "Simi'S Trend BOUTIQUE",
+    "address": "JR27+R3G, Kadinamkulam Rd",
+    "category": "Clothing store",
+    "phone": "+91 62382 99237",
+    "website": null,
+    "discovered_at": "2026-11-14 21:39:03.459270"
+  },
+  {
+    "place_id": "0x3b05ebb094eaa269:0",
+    "name": "First day collections",
+    "address": "JR75+C4W",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 21:39:02.027695"
+  },
+  {
     "place_id": "0x3b05bba9ab66d4f9:0",
     "name": "SRINILAYAM APARTMENTS",
     "address": "Trivandrum",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 12:41:38.080413"
-  },
-  {
-    "place_id": "0x872b13a21a8f3979:0",
-    "name": "Corner On The Market/ Hatch-it",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:36.786862"
-  },
-  {
-    "place_id": "0x872b0c54a0f8e563:0",
-    "name": "Essence Bakery Cafe",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:35.499036"
-  },
-  {
-    "place_id": "0x872b0d7623af0789:0",
-    "name": "La Purisima Bakery 2",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:34.199764"
   }
 ]
