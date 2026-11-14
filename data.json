@@ -1,5 +1,140 @@
 [
   {
+    "place_id": "0x3b05bba9ab66d4f9:0",
+    "name": "SRINILAYAM APARTMENTS",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 94471 40300",
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:22.718599"
+  },
+  {
+    "place_id": "0x3b05bb00365ffa37:0",
+    "name": "Me-nar house",
+    "address": "41, Kalippankulam Rd, near Shamy Catering",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:21.506277"
+  },
+  {
+    "place_id": "0x3b05bb0fa8216a49:0",
+    "name": "DEVADHARU TOWERS, MANACAUD",
+    "address": "",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:19.480693"
+  },
+  {
+    "place_id": "0x3b05bb2fbcfdde61:0",
+    "name": "Excellence Home Tuition",
+    "address": "Attukal Rd",
+    "category": "Private tutor",
+    "phone": "+91 87706 85672",
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:18.090680"
+  },
+  {
+    "place_id": "0x3b05bbdd62e95557:0",
+    "name": "MANTRA Home Tutors Trivandrum",
+    "address": "GW9G+CXJ",
+    "category": "Tutoring service",
+    "phone": "+91 79940 51831",
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:16.760816"
+  },
+  {
+    "place_id": "0x3b05bb86d3a273e5:0",
+    "name": "Ayillyam furnishing",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": "+91 79077 29308",
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:15.475853"
+  },
+  {
+    "place_id": "0x3b05bba56f99dfd3:0",
+    "name": "TINY TOE , Manacaud .",
+    "address": "FWCX+R7G",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:14.039382"
+  },
+  {
+    "place_id": "0x3b05bbcf0f834be7:0",
+    "name": "Diva by Veda",
+    "address": "Charummoottil, Kamaleshwaram",
+    "category": "Clothing store",
+    "phone": "+91 81297 92325",
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:12.781441"
+  },
+  {
+    "place_id": "0x3b05bb001136a3fd:0",
+    "name": "SmooCho Manacaud",
+    "address": "",
+    "category": "Dessert shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:11.547291"
+  },
+  {
+    "place_id": "0x3b05bb990ed77b47:0",
+    "name": "Momo Mania TVM",
+    "address": "Manacaud - Muttathara Rd, opp. to fort police stataion, opposite Fort police station",
+    "category": "Momo restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:10.320156"
+  },
+  {
+    "place_id": "0x3b05bb5c78fe976d:0",
+    "name": "Calicut Raahath Food Court",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:09.057307"
+  },
+  {
+    "place_id": "0x3b05bb0017274dfb:0",
+    "name": "PMB Janaushadhi Kendra, Ambalathara",
+    "address": "T C 67/1115,OPP BHARATH PETROL PUMP,PARAVANKUNNU,MANACAUD",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:07.829667"
+  },
+  {
+    "place_id": "0x3b05bb97e049e745:0",
+    "name": "Saravana pharma",
+    "address": "FX74+G3R",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:06.511686"
+  },
+  {
+    "place_id": "0x3b05bb1a4f2136b7:0",
+    "name": "Attukal Devi Institute of Medical Sciences",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:05.267577"
+  },
+  {
+    "place_id": "0x3b05b0a4e265fddb:0",
+    "name": "Sreedevi Jewellers peyadu",
+    "address": "Thiruvananthapuram - Neyyar Dam Rd",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 21:30:03.900844"
+  },
+  {
     "place_id": "0x3b05b99a2e91d433:0",
     "name": "ROADKING HOLIDAYS",
     "address": "King Yard, Road, Kuravankonam - Maruthoor Rd",
@@ -8863,140 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 12:41:34.199764"
-  },
-  {
-    "place_id": "0x872b13799d5e7297:0",
-    "name": "JL Patisserie",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:32.921956"
-  },
-  {
-    "place_id": "0x872b0d90d5b39311:0",
-    "name": "Barbs Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:31.624235"
-  },
-  {
-    "place_id": "0x872b0c3e56bb8fcd:0",
-    "name": "Sweet Land Cake",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:29.357004"
-  },
-  {
-    "place_id": "0x872b0d52444f968f:0",
-    "name": "Mama Linda's Bakeshop",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:28.028704"
-  },
-  {
-    "place_id": "0x872b0c2eebe03391:0",
-    "name": "Carmen's Bakery",
-    "address": "4132 E McDowell Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:26.749664"
-  },
-  {
-    "place_id": "0x872b13e2e72a6a07:0",
-    "name": "Hunnie Butter",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:25.345952"
-  },
-  {
-    "place_id": "0x872b0d57e2dea3ab:0",
-    "name": "A Bakeshop",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:24.123103"
-  },
-  {
-    "place_id": "0x872b6d2498cfb6ad:0",
-    "name": "Dawns NY Bakery on Central",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:22.527614"
-  },
-  {
-    "place_id": "0x3b05bbcac7f72985:0",
-    "name": "Oasis Dialab / DJDC",
-    "address": "FX7R+Q4H, Melamcode Temple Road",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:20.845683"
-  },
-  {
-    "place_id": "0x872b12f141454371:0",
-    "name": "Prime Eye Care, now part of MyEyeDr.",
-    "address": "",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:19.619384"
-  },
-  {
-    "place_id": "0x872b0d71809d299d:0",
-    "name": "Healthy Eye Care Fit Optical",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:18.220139"
-  },
-  {
-    "place_id": "0x872b0c462d990fe9:0",
-    "name": "Valley Eyecare Center",
-    "address": "3050 N 44th St",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:16.981579"
-  },
-  {
-    "place_id": "0x872b0f4571fb0fe9:0",
-    "name": "Heartland Eyecare",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:15.554279"
-  },
-  {
-    "place_id": "0x872b12b0b728ea9b:0",
-    "name": "Central Phoenix Eye Care",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:14.346210"
-  },
-  {
-    "place_id": "0x872b0d6f7844aa33:0",
-    "name": "Barnet Dulaney Perkins Eye Center",
-    "address": "4800 N 22nd St Ste 210",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 12:41:13.116744"
   }
 ]
