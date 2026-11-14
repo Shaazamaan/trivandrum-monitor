@@ -1,5 +1,509 @@
 [
   {
+    "place_id": "0x3b05bbf06777ce85:0",
+    "name": "Cookies 'n' Bites",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:46.236744"
+  },
+  {
+    "place_id": "0x3b05b95574b23c0f:0",
+    "name": "Preetha Bakery And Stores",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:45.061317"
+  },
+  {
+    "place_id": "0x89b2d4094192074f:0",
+    "name": "Interiors By Decorating Den",
+    "address": "1057 Val Terrace Ct",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:43.845538"
+  },
+  {
+    "place_id": "0x89b111449c70c18f:0",
+    "name": "A Concept 2 Design",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:42.663446"
+  },
+  {
+    "place_id": "0x89b2d7f21798a8a7:0",
+    "name": "Bailey Grey Interiors",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:41.425012"
+  },
+  {
+    "place_id": "0x89b10892fc5d4191:0",
+    "name": "Parliament Tutors - Chester",
+    "address": "12401 Branner Way Apt 303",
+    "category": "Tutoring service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:40.259247"
+  },
+  {
+    "place_id": "0x89b2cd8e99f41f23:0",
+    "name": "Winey Chicks Boutique",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:39.075969"
+  },
+  {
+    "place_id": "0x89b16dfdb804b7eb:0",
+    "name": "The S.E.E. Boutique",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:37.884642"
+  },
+  {
+    "place_id": "0x89b16d174f63ac87:0",
+    "name": "Juice Journey VA",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:36.696371"
+  },
+  {
+    "place_id": "0x89b1139cb19aaa89:0",
+    "name": "Pure Green - Juice Bar Carytown Exchange",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:35.461448"
+  },
+  {
+    "place_id": "0x89b111f52776fac3:0",
+    "name": "Let’s Sip Juices",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:34.277566"
+  },
+  {
+    "place_id": "0x89b11173dbf17a35:0",
+    "name": "JuiceLife RVA",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:33.058749"
+  },
+  {
+    "place_id": "0x89b1739931bf4d35:0",
+    "name": "Juice Bar Cafe",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:31.851468"
+  },
+  {
+    "place_id": "0x864e718798a16173:0",
+    "name": "Nativo Café y Bodega",
+    "address": "",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:30.645851"
+  },
+  {
+    "place_id": "0x3b05bb0b1737a993:0",
+    "name": "Arabian Tasty Cafe",
+    "address": "",
+    "category": "Arab restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:29.461425"
+  },
+  {
+    "place_id": "0x89b16b7576ce9ea3:0",
+    "name": "Colonial Veterinary Hospital",
+    "address": "",
+    "category": "Veterinary care",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:28.252379"
+  },
+  {
+    "place_id": "0x89b11010d9bf8f99:0",
+    "name": "Varina Veterinary Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:27.030579"
+  },
+  {
+    "place_id": "0x89b16a552e098575:0",
+    "name": "Capital Home Veterinary Care",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:25.865423"
+  },
+  {
+    "place_id": "0x89b16feb4b52ff2b:0",
+    "name": "easyvetclinic Midlothian",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:24.662404"
+  },
+  {
+    "place_id": "0x89b11740d757cf73:0",
+    "name": "Farmers Veterinary Hospital",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:22.664030"
+  },
+  {
+    "place_id": "0x884d32c753f1fd7d:0",
+    "name": "Riverside Veterinary Hospital",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:21.483347"
+  },
+  {
+    "place_id": "0x884d5357481befe5:0",
+    "name": "Southside Large Animal Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:20.098950"
+  },
+  {
+    "place_id": "0x89b110e6cb982f17:0",
+    "name": "Church Hill Animal Hospital",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:18.924376"
+  },
+  {
+    "place_id": "0x89b1a9c0a61ea0a9:0",
+    "name": "Hopewell Animal Hospital",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:17.673656"
+  },
+  {
+    "place_id": "0x8852b30cc833ed8d:0",
+    "name": "Animal Medical Center",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:16.458250"
+  },
+  {
+    "place_id": "0x89b16e188a655263:0",
+    "name": "Midlothian Animal Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:14.444190"
+  },
+  {
+    "place_id": "0x89b113d147a6d1ed:0",
+    "name": "UrgentVet - Carytown",
+    "address": "",
+    "category": "Emergency veterinarian service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:13.170532"
+  },
+  {
+    "place_id": "0x89b1130f456f9011:0",
+    "name": "Stratford Hills Veterinary Center",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:11.975103"
+  },
+  {
+    "place_id": "0x89b16be89ff44c19:0",
+    "name": "UrgentVet",
+    "address": "",
+    "category": "Emergency veterinarian service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:10.676610"
+  },
+  {
+    "place_id": "0x89b1de40e05a6d2f:0",
+    "name": "Animal Hospital of Emporia",
+    "address": "",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:09.471335"
+  },
+  {
+    "place_id": "0x8852b3470f939bdd:0",
+    "name": "Elmwood Vet Clinic",
+    "address": "1125 Elmwood Trail",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:08.267905"
+  },
+  {
+    "place_id": "0x89b3d557a4244ddd:0",
+    "name": "Countryside Veterinary Center",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:06.995552"
+  },
+  {
+    "place_id": "0x89b2d12083a2b635:0",
+    "name": "Lake Forest Animal Hospital",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:05.766501"
+  },
+  {
+    "place_id": "0x89b2e7a89815df93:0",
+    "name": "Concord Veterinary Services",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:04.442795"
+  },
+  {
+    "place_id": "0x89b2da3aa8537c67:0",
+    "name": "Animal Emergency & Critical Care of Lynchburg",
+    "address": "",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:03.263999"
+  },
+  {
+    "place_id": "0x89b1dff751b4a685:0",
+    "name": "Jones LTC Pharmacy",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:02.054952"
+  },
+  {
+    "place_id": "0x89ad84655cfc1ea1:0",
+    "name": "Food Lion Pharmacy",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:19:00.695556"
+  },
+  {
+    "place_id": "0x89ad83732e1aef7f:0",
+    "name": "CVS Pharmacy",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:59.491615"
+  },
+  {
+    "place_id": "0x864e7977ecb90451:0",
+    "name": "Texas Health Care Pharmacy",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:58.176464"
+  },
+  {
+    "place_id": "0x89b1a77c138c346b:0",
+    "name": "Bon Secours - Colonial Heights Emergency Department",
+    "address": "",
+    "category": "Emergency room",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:56.955696"
+  },
+  {
+    "place_id": "0x89b1a8e93d8476ff:0",
+    "name": "Kenner Army Health Clinic",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:55.766031"
+  },
+  {
+    "place_id": "0x89b7cdbb275afb83:0",
+    "name": "Vedic Health",
+    "address": "",
+    "category": "Holistic medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:54.069549"
+  },
+  {
+    "place_id": "0x88569e594cd38107:0",
+    "name": "TESIA LOVE Wellness | Ayurveda",
+    "address": "4900 Park Rd",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:52.797367"
+  },
+  {
+    "place_id": "0x876c7e9c185123ed:0",
+    "name": "Essence Ayurveda",
+    "address": "109 S Fairfax St Ste 3 Fl 2",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:51.523004"
+  },
+  {
+    "place_id": "0x89b65be3b80aa2f1:0",
+    "name": "Life Ayurveda Wellness",
+    "address": "6985 Jeremiah Ct",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:50.365111"
+  },
+  {
+    "place_id": "0x89b3896596988a4b:0",
+    "name": "KALA Ayurveda, LLC",
+    "address": "170 S Pantops Dr",
+    "category": "Massage therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:49.157144"
+  },
+  {
+    "place_id": "0x89b16a9545afffff:0",
+    "name": "AYURVEDA MASSAGE THERAPY YOGA WELLNESS",
+    "address": "",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:47.982263"
+  },
+  {
+    "place_id": "0x89e64d450ad086ed:0",
+    "name": "Ayurveda Consultations",
+    "address": "",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:46.797549"
+  },
+  {
+    "place_id": "0x89b115243e16ff75:0",
+    "name": "Anahatea",
+    "address": "5500 Monument Ave t",
+    "category": "Massage therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:45.438406"
+  },
+  {
+    "place_id": "0x89b24ff532e7949f:0",
+    "name": "Ivy Rehab Physical Therapy",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:44.225499"
+  },
+  {
+    "place_id": "0x89ae17268626b605:0",
+    "name": "Northeastern Carolina Physical Therapy",
+    "address": "114 Professional Dr",
+    "category": "Physical therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:43.065242"
+  },
+  {
+    "place_id": "0x89b1df303796f755:0",
+    "name": "Bon Secours Southern Virginia Regional Medical Center Rehabilitation",
+    "address": "",
+    "category": "Rehabilitation center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:41.733931"
+  },
+  {
+    "place_id": "0x89b22b18a19d24c3:0",
+    "name": "Amelia Physical Therapy",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:40.572349"
+  },
+  {
+    "place_id": "0x89b1a62ebf78163f:0",
+    "name": "Tidewater Physical Therapy, Inc: Colonial Heights Clinic",
+    "address": "",
+    "category": "Physical therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:39.421063"
+  },
+  {
+    "place_id": "0x89b2d104777f40af:0",
+    "name": "Aesthetics by RidgeView Dermatology",
+    "address": "",
+    "category": "Dermatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:37.927503"
+  },
+  {
+    "place_id": "0x89b2d9cd7f75b645:0",
+    "name": "Centra Medical Group Healthy Skin Center",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 17:18:36.786298"
+  },
+  {
     "place_id": "0x3b05bb3e8bff69d3:0",
     "name": "Seventree space",
     "address": "1st floor, anna hotel, GPO Ln",
@@ -8494,509 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 09:07:55.652515"
-  },
-  {
-    "place_id": "0x3b05afe7ae635837:0",
-    "name": "Hindlabs Clinical Laboratory",
-    "address": "C2GR+W8H",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:07:54.418840"
-  },
-  {
-    "place_id": "0x3b05ae882d1d8b15:0",
-    "name": "UNICO GLOBAL - Medical Coding Training",
-    "address": "Court Rd, near Sreekrishna Swamy Temple",
-    "category": "Medical billing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:07:53.174562"
-  },
-  {
-    "place_id": "0x3b05afc5d7fc2353:0",
-    "name": "DDRC Agilus Diagnostics, Balaramapuram",
-    "address": "C2GV+J3",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:07:51.876132"
-  },
-  {
-    "place_id": "0x3b05af2cc08163dd:0",
-    "name": "NIMS Centre for Genomic Medicine",
-    "address": "",
-    "category": "Hospital department",
-    "phone": "+91 80898 93037",
-    "website": null,
-    "discovered_at": "2026-11-14 09:07:50.481943"
-  },
-  {
-    "place_id": "0x3b05ae5c414bbe01:0",
-    "name": "Anamika thyro care centre",
-    "address": "C35G+559",
-    "category": "Medical laboratory",
-    "phone": "+91 96332 81617",
-    "website": null,
-    "discovered_at": "2026-11-14 09:07:49.068229"
-  },
-  {
-    "place_id": "0x3b05af822ab8cab5:0",
-    "name": "DDRC Agilus Diagnostics | Keeliyod, Perumpazhuthoor | Medical Laboratory, Blood Test & Health Checks",
-    "address": "",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:07:47.140666"
-  },
-  {
-    "place_id": "0x3b05af006e2ebef3:0",
-    "name": "SR Speciality Hospital Urology and Orthopedic center",
-    "address": "3/410/5",
-    "category": "Diagnostic center",
-    "phone": "+91 82815 89833",
-    "website": null,
-    "discovered_at": "2026-11-14 09:07:45.839281"
-  },
-  {
-    "place_id": "0x3b05afdec5699fe9:0",
-    "name": "Rollands Ultrasound Scan Centre",
-    "address": "Aralumoodu, Rollands Hospital, PO",
-    "category": "Radiologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:07:44.593301"
-  },
-  {
-    "place_id": "0x3b05ad005b0fa61b:0",
-    "name": "Daya Healthcare Clinic & Lab",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:07:43.402414"
-  },
-  {
-    "place_id": "0x3b05ae6188433e7f:0",
-    "name": "Devi Scans & Labs",
-    "address": "C34M+HRM",
-    "category": "Medical Center",
-    "phone": "+91 80860 01968",
-    "website": null,
-    "discovered_at": "2026-11-14 09:07:42.007502"
-  },
-  {
-    "place_id": "0x3b05ae6151ed387b:0",
-    "name": "Aswathy Computerised Laboratory",
-    "address": "654, TB Junction-Hospital Jct Rd",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 09:07:40.708615"
-  },
-  {
-    "place_id": "0x3ba5dfeff043aa21:0",
-    "name": "Parrot Realty",
-    "address": "II Floor, Amrutheswary Complex, Bus Stand",
-    "category": "Real estate consultant",
-    "phone": "+91 96568 66955",
-    "website": null,
-    "discovered_at": "2026-11-14 09:00:54.681742"
-  },
-  {
-    "place_id": "0x3b05ef2839da9c37:0",
-    "name": "RICHMAX Finvest VARKALA",
-    "address": "VMC XXV/787, PPMF+HMP APEX PLAZA, Temple Rd",
-    "category": "Financial institution",
-    "phone": "+91 97788 64809",
-    "website": null,
-    "discovered_at": "2026-11-14 09:00:53.484296"
-  },
-  {
-    "place_id": "0x3b05efea0579e037:0",
-    "name": "Grandeur Multi Cuisine Restaurant",
-    "address": "",
-    "category": "Eclectic restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:53:35.754601"
-  },
-  {
-    "place_id": "0x3b05efa6fbdaf7ef:0",
-    "name": "Devi Eye Clinic & Opticians",
-    "address": "Mela Junction",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:53:34.298121"
-  },
-  {
-    "place_id": "0x3b05e9c13889c643:0",
-    "name": "Glaze Dent",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": "+91 99955 50703",
-    "website": null,
-    "discovered_at": "2026-11-14 08:53:32.991615"
-  },
-  {
-    "place_id": "0x3b05bf623f812ae9:0",
-    "name": "UNIQUE INFRASTRUCTURE",
-    "address": "Gandhipuram Road",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:53:31.632741"
-  },
-  {
-    "place_id": "0x3b05bfd1891c891b:0",
-    "name": "Capital Realtors, Thiruvananthapuram, kerala",
-    "address": "Sreekariyam - Pothencode Rd",
-    "category": "Industrial real estate agency",
-    "phone": "+91 95446 00655",
-    "website": null,
-    "discovered_at": "2026-11-14 08:53:30.390307"
-  },
-  {
-    "place_id": "0x3b05b940fd8c665d:0",
-    "name": "NO LIMITS FITNESS GYM",
-    "address": "Closes 10:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:53:29.085740"
-  },
-  {
-    "place_id": "0x3b05b957c9d99d15:0",
-    "name": "VMed Pharma",
-    "address": "GWXC+3PQ, Salem - Kochi Hwy",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:53:27.754723"
-  },
-  {
-    "place_id": "0x3b05b92e2f37d6ed:0",
-    "name": "EVENT MAKER",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": "+91 80755 40215",
-    "website": null,
-    "discovered_at": "2026-11-14 08:45:51.269571"
-  },
-  {
-    "place_id": "0x3b05b9573409a585:0",
-    "name": "Mantra Wedding Company",
-    "address": "Closes 5 PM",
-    "category": "Open",
-    "phone": "+91 70126 03254",
-    "website": null,
-    "discovered_at": "2026-11-14 08:45:50.053354"
-  },
-  {
-    "place_id": "0x3b05b94eae4bd205:0",
-    "name": "Leeja Bakers",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:27.442995"
-  },
-  {
-    "place_id": "0x3b05bb0058eb0ed3:0",
-    "name": "Bread factory by Azad at Kumarapuram",
-    "address": "Feroz Building, Medical College Kumarapuram Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:26.176495"
-  },
-  {
-    "place_id": "0x3b05b9f5078deecb:0",
-    "name": "E M I Cafe Trivandrum",
-    "address": "Central building, Pongumood, near SBI Bank",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:24.893468"
-  },
-  {
-    "place_id": "0x8644b55b1b43de5f:0",
-    "name": "The Malin East Austin",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:23.621804"
-  },
-  {
-    "place_id": "0x8658bd667b76d295:0",
-    "name": "Rocksprings",
-    "address": "1791 SD 80300",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:22.348396"
-  },
-  {
-    "place_id": "0x3b05bbb55363e8af:0",
-    "name": "Ekana Homes",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:21.078467"
-  },
-  {
-    "place_id": "0x3b05bb0a21f57c87:0",
-    "name": "Hashbush Wedding Cards | Wedding Cards in Kerala",
-    "address": "",
-    "category": "Invitation printing service",
-    "phone": "+91 81298 21074",
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:19.790815"
-  },
-  {
-    "place_id": "0x3b05bb0a5dab27c7:0",
-    "name": "Maharaja Swathi Thirunal Palace (Kuthira Malika)",
-    "address": "",
-    "category": "Tourist attraction",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:18.546363"
-  },
-  {
-    "place_id": "0x8644cbed777f11a5:0",
-    "name": "Expansive Austin - Highland",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:17.311875"
-  },
-  {
-    "place_id": "0x3b05bbe9b5d35647:0",
-    "name": "Sunil's Wax Museum Trivandrum",
-    "address": "",
-    "category": "Tourist attraction",
-    "phone": "+91 94473 41974",
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:15.868976"
-  },
-  {
-    "place_id": "0x3b05bba046ca26b5:0",
-    "name": "BPC Trivandrum, Fort",
-    "address": "FWMV+J5G",
-    "category": "Shipping and mailing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:14.556121"
-  },
-  {
-    "place_id": "0x3b05bba73e974171:0",
-    "name": "E.K. Nayanar Memorial Park",
-    "address": "FWMX+M78, Central Theatre Rd",
-    "category": "Park",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:13.273998"
-  },
-  {
-    "place_id": "0x886b522607427c41:0",
-    "name": "Refinery46",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:12.007472"
-  },
-  {
-    "place_id": "0x89e655b02222358f:0",
-    "name": "East Hartford Flex Space",
-    "address": "363 Roberts St First Floor",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:10.778283"
-  },
-  {
-    "place_id": "0x3b05bba713ffffff:0",
-    "name": "Putharikandam Ground",
-    "address": "",
-    "category": "Fairground",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:09.449449"
-  },
-  {
-    "place_id": "0x10bd77879ee8699:0",
-    "name": "Neural Nest",
-    "address": "2nd Floor, Heera Chambers, Mahatma Gandhi Rd",
-    "category": "Educational institution",
-    "phone": "+91 97466 24646",
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:08.218854"
-  },
-  {
-    "place_id": "0x3b05bba7aa95cba3:0",
-    "name": "Thiruvananthapuram Corporation Parking Area",
-    "address": "",
-    "category": "Parking lot",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:06.850494"
-  },
-  {
-    "place_id": "0x3b05bb09fe651219:0",
-    "name": "Babas Studio East fort",
-    "address": "",
-    "category": "Photography studio",
-    "phone": "+91 98466 36000",
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:05.412575"
-  },
-  {
-    "place_id": "0x3b05bb0a1d999787:0",
-    "name": "Cell point",
-    "address": "Karimpanal Arcade, Near, Padmanabhaswamy Temple Rd",
-    "category": "Cell phone store",
-    "phone": "+91 92463 76888",
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:04.026764"
-  },
-  {
-    "place_id": "0x80c8bef9e9ac41d7:0",
-    "name": "Tahiti Travel Mate",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:02.664585"
-  },
-  {
-    "place_id": "0x8819bc982c195555:0",
-    "name": "Feenstra Travel INC",
-    "address": "Opens 9 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:01.338138"
-  },
-  {
-    "place_id": "0x808e348cfdf8fd2d:0",
-    "name": "Irene's Travel",
-    "address": "Opens 8 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:38:00.042054"
-  },
-  {
-    "place_id": "0x885399caa1413169:0",
-    "name": "Travels Unlimited",
-    "address": "Opens 10 AM Tue",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:55.880410"
-  },
-  {
-    "place_id": "0x87b235b9635bde95:0",
-    "name": "Tiney Travel",
-    "address": "(405) 613-9387",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:54.667793"
-  },
-  {
-    "place_id": "0x865b4beeaaaaaaab:0",
-    "name": "Excellent Escapes Travel, LLC",
-    "address": "Opens 10 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:53.382644"
-  },
-  {
-    "place_id": "0x89c309aafed0eca1:0",
-    "name": "Denville Travel Company",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:52.123468"
-  },
-  {
-    "place_id": "0x865cf2eb8185604b:0",
-    "name": "Twin Connection Travel, LLC",
-    "address": "Opens 10 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:50.681902"
-  },
-  {
-    "place_id": "0xa78eb77acb91bc75:0",
-    "name": "Now-or-Never-Travel",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:49.233191"
-  },
-  {
-    "place_id": "0x89e37a8ea188960b:0",
-    "name": "AE Events",
-    "address": "60 K St Ste 302",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:47.871033"
-  },
-  {
-    "place_id": "0x8713452fb5c9a779:0",
-    "name": "Storia Interiors & Design",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:46.647806"
-  },
-  {
-    "place_id": "0x864e9981838c4603:0",
-    "name": "Nuance Interiors LLC",
-    "address": "4320 Main St Ste 115",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:45.261544"
-  },
-  {
-    "place_id": "0x876c7d4ec831402f:0",
-    "name": "TAB Interior Designs",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:44.021525"
-  },
-  {
-    "place_id": "0x4d06809d69ea08a5:0",
-    "name": "aleia interiors",
-    "address": "(805) 708-8954",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:42.794925"
-  },
-  {
-    "place_id": "0x87694b30de3c9b8d:0",
-    "name": "K Squared Design Studio",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 08:37:41.522376"
   }
 ]
