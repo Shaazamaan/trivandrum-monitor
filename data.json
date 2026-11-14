@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3ba5dfeff043aa21:0",
+    "name": "Parrot Realty",
+    "address": "II Floor, Amrutheswary Complex, Bus Stand",
+    "category": "Real estate consultant",
+    "phone": "+91 96568 66955",
+    "website": null,
+    "discovered_at": "2026-11-14 09:00:54.681742"
+  },
+  {
+    "place_id": "0x3b05ef2839da9c37:0",
+    "name": "RICHMAX Finvest VARKALA",
+    "address": "VMC XXV/787, PPMF+HMP APEX PLAZA, Temple Rd",
+    "category": "Financial institution",
+    "phone": "+91 97788 64809",
+    "website": null,
+    "discovered_at": "2026-11-14 09:00:53.484296"
+  },
+  {
     "place_id": "0x3b05efea0579e037:0",
     "name": "Grandeur Multi Cuisine Restaurant",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": "+91 94475 77220",
     "website": null,
     "discovered_at": "2026-11-14 03:50:33.570000"
-  },
-  {
-    "place_id": "0x3b05c1006d907d67:0",
-    "name": "FASHION WORLD",
-    "address": "SHOP NO-1, FASHION WORLD",
-    "category": "Clothing store",
-    "phone": "+91 99471 96119",
-    "website": null,
-    "discovered_at": "2026-11-14 03:43:01.968387"
-  },
-  {
-    "place_id": "0x3b05c0a318061199:0",
-    "name": "Jaya Textiles",
-    "address": "JV9X+HC5",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:43:00.712343"
   }
 ]
