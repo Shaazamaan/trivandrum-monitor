@@ -1,5 +1,392 @@
 [
   {
+    "place_id": "0x3b05b98dfa023623:0",
+    "name": "DEEPWISH Designs By Deepika",
+    "address": "Ulloor - Akkulam Rd",
+    "category": "Boutique",
+    "phone": "+91 99473 21122",
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:28.065161"
+  },
+  {
+    "place_id": "0x3b05b90044dbc769:0",
+    "name": "CAKE CRUSHERS",
+    "address": "Paper Mill Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:26.890361"
+  },
+  {
+    "place_id": "0x3b05b957fa6cb051:0",
+    "name": "Susrutha surgicals",
+    "address": "Medical College",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:25.668821"
+  },
+  {
+    "place_id": "0x3b05b957ee5eeb53:0",
+    "name": "Rubicon Pharmaceutical",
+    "address": "Door no: 32, MG Corporate Center, 2437/3, near IDBI BANK",
+    "category": "Pharmaceutical products wholesaler",
+    "phone": "+91 98461 19560",
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:24.513930"
+  },
+  {
+    "place_id": "0x3b05b957ee544f8f:0",
+    "name": "Professional Book House",
+    "address": "",
+    "category": "Medical book store",
+    "phone": "+91 90202 01551",
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:23.246764"
+  },
+  {
+    "place_id": "0x3b05b94a83c7411b:0",
+    "name": "Metro Medicals and Surgicals",
+    "address": "",
+    "category": "Medical supply store",
+    "phone": "+91 86062 54000",
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:22.044141"
+  },
+  {
+    "place_id": "0x3b05bbfd33517f71:0",
+    "name": "Cherukara Medicals & Surgicals",
+    "address": "Medical College",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:20.795512"
+  },
+  {
+    "place_id": "0x3b05b957c21c6749:0",
+    "name": "Thampy Medicals",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:19.613292"
+  },
+  {
+    "place_id": "0x3b05b964c3226949:0",
+    "name": "Himalaya Wellness Store",
+    "address": "Pallotti Plaza, Medical College, No 17/483, opposite Kunnil Margin",
+    "category": "Health and beauty shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:18.415064"
+  },
+  {
+    "place_id": "0x3b05bd000bc3b73f:0",
+    "name": "PM Janaushadhi Medical Store",
+    "address": "GWF7+5GQ, Ulloor - Akkulam Rd, near athira",
+    "category": "Pharmacy",
+    "phone": "+91 99958 15266",
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:17.201792"
+  },
+  {
+    "place_id": "0x89b2cf4df160c269:0",
+    "name": "Paradise Travel Team Dream Vacations - Lynchburg, Va",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:15.929977"
+  },
+  {
+    "place_id": "0x89b16d75da714e8d:0",
+    "name": "Signatours Limited",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:14.515096"
+  },
+  {
+    "place_id": "0x89acf64532763081:0",
+    "name": "Eze2Travel",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:13.295271"
+  },
+  {
+    "place_id": "0x89b1146c67bbe9c5:0",
+    "name": "Tour Plan International Ltd",
+    "address": "11453 Rockville Rd Suite A",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:12.073090"
+  },
+  {
+    "place_id": "0x89ac57fdf6887add:0",
+    "name": "Trip And Sip Travel",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:10.801178"
+  },
+  {
+    "place_id": "0x89b16d444eba1b95:0",
+    "name": "Grand Escapes Travel",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:09.601401"
+  },
+  {
+    "place_id": "0x2b168aefa069ae47:0",
+    "name": "Inspired2Escape Travel Agency",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:08.434580"
+  },
+  {
+    "place_id": "0x3b05bba38a0fe965:0",
+    "name": "Altima Tours And Travels",
+    "address": "Hotel MAS Annexe, Chettikulangara Rd",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:07.226982"
+  },
+  {
+    "place_id": "0x3b05bba03452e47b:0",
+    "name": "Sunnyday Tours & Car Rentals",
+    "address": "SUNNYDAY TOURS, SUNSHINE PLAZA, Airport Rd",
+    "category": "Travel agency",
+    "phone": "+91 94474 50068",
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:06.018121"
+  },
+  {
+    "place_id": "0x89b10ff26283a343:0",
+    "name": "Kreative Event Solutions LLC",
+    "address": "Opens 10 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:04.854632"
+  },
+  {
+    "place_id": "0x3b05bb38b7fb1497:0",
+    "name": "3DSINE SERVICES",
+    "address": "52",
+    "category": "Architectural designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:03.691900"
+  },
+  {
+    "place_id": "0x2a0eb6014e01c81:0",
+    "name": "Creative and Curated, LLC",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:02.467978"
+  },
+  {
+    "place_id": "0x89ad8517d1873ff3:0",
+    "name": "Randy Mulchi, Realtor - Integrity Real Estate, LLC with Real Broker, LLC",
+    "address": "Opens 8 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:01.198076"
+  },
+  {
+    "place_id": "0x6b0bdb5758911651:0",
+    "name": "Horace \"J.R.\" Webster, United Country Virginia Realty",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:34:00.006597"
+  },
+  {
+    "place_id": "0x89b2095eaf15b521:0",
+    "name": "SoVa Realty LLC",
+    "address": "418 E Atlantic St",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:58.754536"
+  },
+  {
+    "place_id": "0x89adfd43d5815555:0",
+    "name": "Lake Gaston Properties",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:57.557383"
+  },
+  {
+    "place_id": "0x89b20975b666ab25:0",
+    "name": "Shannon Rogers- EXIT Town & Lake Realty",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:56.245695"
+  },
+  {
+    "place_id": "0x2af5636608b9886b:0",
+    "name": "Ken Currin - Realtor®",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:55.052283"
+  },
+  {
+    "place_id": "0x89ad847bbf5aeb67:0",
+    "name": "Karin Kuhn Realtor",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:53.456007"
+  },
+  {
+    "place_id": "0x89ad847b036832af:0",
+    "name": "Tammy Brankley Mulchi, Realtor - Integrity Real Estate Team, LLC with Real Broker, LLC",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:52.300597"
+  },
+  {
+    "place_id": "0x403ac1673f673a2f:0",
+    "name": "Kristen Thompson Realtor- EXIT Town & Lake Realty",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:50.755556"
+  },
+  {
+    "place_id": "0x89ad8567044e04dd:0",
+    "name": "Staci Kempo, Realtor®",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:49.601324"
+  },
+  {
+    "place_id": "0x89ad89c71c6e0a7f:0",
+    "name": "Kim Smiley-Pointe Realty Group of South Hill",
+    "address": "408 E Atlantic St",
+    "category": "Property management company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:48.401144"
+  },
+  {
+    "place_id": "0x89ad850aca8aab59:0",
+    "name": "Oak River Realty",
+    "address": "413 Virginia Ave",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:47.222213"
+  },
+  {
+    "place_id": "0x89b2091ff18f772f:0",
+    "name": "Pointe Realty Group",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:46.074284"
+  },
+  {
+    "place_id": "0x89b209918665a64f:0",
+    "name": "Flawless Aesthetics and Wellness",
+    "address": "",
+    "category": "Medical spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:44.785844"
+  },
+  {
+    "place_id": "0x89b22124f0cc32bb:0",
+    "name": "IRIS SPA",
+    "address": "",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:43.534560"
+  },
+  {
+    "place_id": "0x89ae17bffbf7238f:0",
+    "name": "Absolute Strength",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:42.372886"
+  },
+  {
+    "place_id": "0x89b2080807628975:0",
+    "name": "The Fit Club",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:41.130320"
+  },
+  {
+    "place_id": "0x89b2087cbc202f1b:0",
+    "name": "Freedom Life Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:39.956212"
+  },
+  {
+    "place_id": "0x89ad85f297626291:0",
+    "name": "Lakeside Fitness 24/7",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:38.743924"
+  },
+  {
+    "place_id": "0x864e6e277fb70ae5:0",
+    "name": "Canales Furniture / Mueblería Fort Worth",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:37.525317"
+  },
+  {
+    "place_id": "0x3b05bb95567510f3:0",
+    "name": "Mobile Mate",
+    "address": "Kairali Complex, 28/2260",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 90377 79797",
+    "website": null,
+    "discovered_at": "2026-11-14 11:33:36.326264"
+  },
+  {
     "place_id": "0x5499391f9999d3bd:0",
     "name": "Pōra Collections",
     "address": "",
@@ -8611,392 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:36:58.512944"
-  },
-  {
-    "place_id": "0x880e27e4c18c56f9:0",
-    "name": "Family Dental Care - South Chicago",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:57.317932"
-  },
-  {
-    "place_id": "0x880e2cacb14a27b7:0",
-    "name": "Downtown Dental River North",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:56.023711"
-  },
-  {
-    "place_id": "0x880e2c8404705229:0",
-    "name": "Dental Group of Chicago",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:54.850305"
-  },
-  {
-    "place_id": "0x880e2ff758323bd3:0",
-    "name": "NS Family Dental",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:53.647237"
-  },
-  {
-    "place_id": "0x880fd35272c13db7:0",
-    "name": "Delaware Dental",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:52.457872"
-  },
-  {
-    "place_id": "0x880e2ccabcacd485:0",
-    "name": "The Chicago Dental Studio, River North",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:51.081226"
-  },
-  {
-    "place_id": "0x880e2f64b006e4d9:0",
-    "name": "Emergency Dental",
-    "address": "5516 S Justine St",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:49.924273"
-  },
-  {
-    "place_id": "0x880e295f9c74948f:0",
-    "name": "Urgent Care Dentist",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:48.681038"
-  },
-  {
-    "place_id": "0x3b05bb9ff186f093:0",
-    "name": "Fort Dental Clinic",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": "+91 94474 61771",
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:47.494205"
-  },
-  {
-    "place_id": "0x8811d86530dbad43:0",
-    "name": "Family Dental Care - East Side Chicago",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:46.323651"
-  },
-  {
-    "place_id": "0x880e2d6a297f9139:0",
-    "name": "Grand Smiles (We accept Medicaid)",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:45.074165"
-  },
-  {
-    "place_id": "0x880e2c847ad35c75:0",
-    "name": "EZ Dental South Loop",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:43.904005"
-  },
-  {
-    "place_id": "0x880e2cab21a80be9:0",
-    "name": "East Erie Dental",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:42.719909"
-  },
-  {
-    "place_id": "0x880e2cab222d6607:0",
-    "name": "Magnificent Mile Family Dental",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:41.518349"
-  },
-  {
-    "place_id": "0x880e2ca4387b0c7b:0",
-    "name": "East Loop Dental",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:40.314996"
-  },
-  {
-    "place_id": "0x880e2dfa57e81123:0",
-    "name": "Lakeshore East Dental Arts",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:39.119404"
-  },
-  {
-    "place_id": "0x880e2caa760e2385:0",
-    "name": "Dentologie - Streeterville",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:37.959818"
-  },
-  {
-    "place_id": "0x880e2b57ff0b576b:0",
-    "name": "Chicago Dental Boutique",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:36.790347"
-  },
-  {
-    "place_id": "0x880e2da0168f8151:0",
-    "name": "Dentist On The Park",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:35.609763"
-  },
-  {
-    "place_id": "0x880e2ca598944d19:0",
-    "name": "In The Loop Dental",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:34.452264"
-  },
-  {
-    "place_id": "0x880e2ca5a95372bb:0",
-    "name": "Chicago Loop Dentistry",
-    "address": "",
-    "category": "Cosmetic dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:33.103989"
-  },
-  {
-    "place_id": "0x3b05bb38d951bf15:0",
-    "name": "UVA Holidays",
-    "address": "Rm NO-4, 1ST FLOOR, Mahatma Gandhi Rd",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:31.884838"
-  },
-  {
-    "place_id": "0x3b05bbe09a98f9d1:0",
-    "name": "MY YATHRA",
-    "address": "FIRST FLOOR ANNAS ARCADE, Mahatma Gandhi Rd, near SPENCER JN",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:30.710911"
-  },
-  {
-    "place_id": "0x880e2cd8c90e9c25:0",
-    "name": "The Armando Chacon Group | Chicago Real Estate Agent",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:29.538436"
-  },
-  {
-    "place_id": "0x880fd2f45fec6d61:0",
-    "name": "Vesta Preferred Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:28.257886"
-  },
-  {
-    "place_id": "0x880e2cdc987f8d71:0",
-    "name": "Best Chicago Properties",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:26.830977"
-  },
-  {
-    "place_id": "0x880fd3535943edc3:0",
-    "name": "Anne Rossley Real Estate-Downtown Chicago, Loop, Gold Coast, River North, Streeterville",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:25.569549"
-  },
-  {
-    "place_id": "0x880e2cda61a1655d:0",
-    "name": "One Real Estate Chicago",
-    "address": "159 N Sangamon St",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:24.329639"
-  },
-  {
-    "place_id": "0x880e2ccaefcb5973:0",
-    "name": "Laricy Team",
-    "address": "375 W Erie St",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:23.093010"
-  },
-  {
-    "place_id": "0x880fd30e1ce5f633:0",
-    "name": "Central Driving Academy",
-    "address": "1455 W Fullerton Ave",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:21.599781"
-  },
-  {
-    "place_id": "0x880fd29780182269:0",
-    "name": "Nova Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:20.367494"
-  },
-  {
-    "place_id": "0x880e2c4524dfdb65:0",
-    "name": "Citizens Driving School",
-    "address": "2601 S Halsted St #1e",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:19.185521"
-  },
-  {
-    "place_id": "0x880fd338929ebfcb:0",
-    "name": "Get Drivers Ed",
-    "address": "1905 W Division St",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:18.012656"
-  },
-  {
-    "place_id": "0x880e2cc7c3102b49:0",
-    "name": "SpaSpace Chicago",
-    "address": "161 N Canal St",
-    "category": "Day spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:16.793120"
-  },
-  {
-    "place_id": "0x3b05bbb911335067:0",
-    "name": "PlaystorePlay Store",
-    "address": "GW2X+5G8, Annas Arcade",
-    "category": "Cell phone store",
-    "phone": "+91 97460 77777",
-    "website": null,
-    "discovered_at": "2026-11-14 05:36:15.578214"
-  },
-  {
-    "place_id": "0x3b05bbbb76c6e285:0",
-    "name": "Shadows Garments",
-    "address": "Mahatma Gandhi Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:27:49.498302"
-  },
-  {
-    "place_id": "0x3b05bbbb5ad8199f:0",
-    "name": "Allen Solly Store",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:27:48.295167"
-  },
-  {
-    "place_id": "0x3b05bbb868c087a9:0",
-    "name": "Shobha Textiles",
-    "address": "GX32+684, Mahatma Gandhi Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:27:47.006785"
-  },
-  {
-    "place_id": "0x3b05bbb85c3e6a0f:0",
-    "name": "T-Shirt House",
-    "address": "Shop No.G-17, Ground Floor, Saphallyam Commercial Complex, Near V.J.T Hall",
-    "category": "Men's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:27:45.789894"
-  },
-  {
-    "place_id": "0x3b05bb9d8eda7ea1:0",
-    "name": "Go Colors - MG Road, Trivandrum | Women's Bottom Wear Store",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:27:44.388754"
-  },
-  {
-    "place_id": "0x3b05bbbd92efc6c1:0",
-    "name": "Inturciti Garments",
-    "address": "General Hospital Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:27:43.062755"
-  },
-  {
-    "place_id": "0x3b05bbbb05f79f3b:0",
-    "name": "Poorna Family Restaurant",
-    "address": "FWWX+6MW, Purna Lane",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:27:41.820278"
-  },
-  {
-    "place_id": "0x3b05bbbbe88e185f:0",
-    "name": "Statue Medical Stores",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:27:40.435609"
   }
 ]
