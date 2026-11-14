@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05c0a2e9772cbf:0",
+    "name": "Revathy Computers",
+    "address": "",
+    "category": "Computer store",
+    "phone": "+91 98474 39487",
+    "website": null,
+    "discovered_at": "2026-11-14 06:46:44.127395"
+  },
+  {
+    "place_id": "0x3b05c190e3b3fdbd:0",
+    "name": "Sofiya Marginfree Market Pothencode",
+    "address": "JV7W+MPP, Sreekariyam - Pothencode Rd",
+    "category": "Grocery store",
+    "phone": "+91 79948 84740",
+    "website": null,
+    "discovered_at": "2026-11-14 06:46:42.876539"
+  },
+  {
+    "place_id": "0x3b05c129f84f1f5d:0",
+    "name": "D",
+    "address": "JVCP+WX9, Karoor Jn, Star College Building",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:46:41.474781"
+  },
+  {
+    "place_id": "0x3b05bfaa0b518baf:0",
+    "name": "Spursh Dental Clinic | Ayiroopara, Pothencode",
+    "address": "Building no 335/A, Govt. H.S.S, near Ayiroopara",
+    "category": "Dental clinic",
+    "phone": "+91 73063 62546",
+    "website": null,
+    "discovered_at": "2026-11-14 06:46:40.176636"
+  },
+  {
+    "place_id": "0x3b05bf0073ea79db:0",
+    "name": "Arnikas tooth fairy dental clinic",
+    "address": "First Floor, above SP Honda Showroom",
+    "category": "Dental clinic",
+    "phone": "+91 80899 69894",
+    "website": null,
+    "discovered_at": "2026-11-14 06:46:38.942490"
+  },
+  {
+    "place_id": "0x3b05abef4e93bd81:0",
+    "name": "PHONE FIX 4U",
+    "address": "POST OFFICE JUNCTION, near POST OFFICE",
+    "category": "Electronics repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 06:46:36.831391"
+  },
+  {
     "place_id": "0x3b05ab0052197025:0",
     "name": "Colours Cafe",
     "address": "DHARMIS COMPLEX",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 02:49:02.216340"
-  },
-  {
-    "place_id": "0x3b05bb77527706d5:0",
-    "name": "Hotel Gauri Shankar",
-    "address": "Hotel Gauri Shankar, Medical College, Ulloor - Akkulam Rd",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:59.849299"
-  },
-  {
-    "place_id": "0x3b05b9574cb9720d:0",
-    "name": "Adithya Restaurant",
-    "address": "GWJH+3F5",
-    "category": "South Indian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:57.379082"
-  },
-  {
-    "place_id": "0x87ee968a49092317:0",
-    "name": "Complete Weddings + Events",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:56.142475"
-  },
-  {
-    "place_id": "0x87ee99d476bfc56b:0",
-    "name": "515 Events",
-    "address": "200 10th St Ste 606",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:53.852109"
-  },
-  {
-    "place_id": "0x87ee99a105a1e9f7:0",
-    "name": "One Source Events",
-    "address": "",
-    "category": "Wedding planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:51.471818"
-  },
-  {
-    "place_id": "0x87eebdc9cb5838a9:0",
-    "name": "The Perfect Affair",
-    "address": "699 Walnut St 4th Floor",
-    "category": "Wedding planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 02:48:50.178095"
   }
 ]
