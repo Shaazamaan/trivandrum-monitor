@@ -1,5 +1,104 @@
 [
   {
+    "place_id": "0x3b0872c8ed0a59cf:0",
+    "name": "BEYOND COWORKING",
+    "address": "",
+    "category": "Coworking space",
+    "phone": "+91 83300 59544",
+    "website": null,
+    "discovered_at": "2026-11-14 07:20:28.331283"
+  },
+  {
+    "place_id": "0x3b05eb00285ac173:0",
+    "name": "NILAVU",
+    "address": "JRFC+GR",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:20:27.095953"
+  },
+  {
+    "place_id": "0x3b05eae0de7a1f2b:0",
+    "name": "Muthala Pozhi View Point",
+    "address": "Muthala Pozhi Harbor, Veli - Perumathura Rd",
+    "category": "Scenic spot",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:20:25.956054"
+  },
+  {
+    "place_id": "0x3b05eb3bf8841c47:0",
+    "name": "CineMax Weddings",
+    "address": "",
+    "category": "Photography studio",
+    "phone": "+91 99954 00640",
+    "website": null,
+    "discovered_at": "2026-11-14 07:20:23.414258"
+  },
+  {
+    "place_id": "0x3b05ea51fe27f8a7:0",
+    "name": "Station Parking Area",
+    "address": "MQ5P+R8W",
+    "category": "Valet parking service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:20:22.029103"
+  },
+  {
+    "place_id": "0x89b6399772da13a3:0",
+    "name": "Drive Well Driving School",
+    "address": "44297 Pawnee Terrace",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:20:20.610000"
+  },
+  {
+    "place_id": "0x3b05e95fcc4032a1:0",
+    "name": "MANGO TREE JUICE BAR",
+    "address": "near IOB ATM",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:20:19.415282"
+  },
+  {
+    "place_id": "0x3b05ebd4fc91753f:0",
+    "name": "Sajan Opticals Computerised Eye Testing Centre",
+    "address": "sajan Opticals, opposite Govt. Taluq hospital",
+    "category": "Optician",
+    "phone": "+91 93491 09984",
+    "website": null,
+    "discovered_at": "2026-11-14 07:20:18.084357"
+  },
+  {
+    "place_id": "0x3b05eb4064d01f5b:0",
+    "name": "Dr. Shyna's Dental Centre",
+    "address": "Vakkom Main Road",
+    "category": "Dental clinic",
+    "phone": "+91 97444 14148",
+    "website": null,
+    "discovered_at": "2026-11-14 07:20:16.824437"
+  },
+  {
+    "place_id": "0x3b05bb622d276847:0",
+    "name": "SARA'S the beauty& hair studio",
+    "address": "Telugu Chetty St",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:20:15.645508"
+  },
+  {
+    "place_id": "0x3b05bbea5affffff:0",
+    "name": "MERINA UNISEX SALOON",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 07:20:14.498933"
+  },
+  {
     "place_id": "0x3b05bfe2dfd329b9:0",
     "name": "SHE Lounge",
     "address": "Rayyanz Arcade, Road",
@@ -8899,104 +8998,5 @@
     "phone": "+91 94972 03427",
     "website": null,
     "discovered_at": "2026-11-14 03:11:02.807832"
-  },
-  {
-    "place_id": "0x3b05e9006535a267:0",
-    "name": "Jan Aushadhi Medical store",
-    "address": "road, Parvathipuram Temple Rd, behind KSRTC bus stand",
-    "category": "Pharmacy",
-    "phone": "+91 99616 74341",
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:01.546769"
-  },
-  {
-    "place_id": "0x3b05eb9d4d80ae27:0",
-    "name": "Kx Pharma-Attingal",
-    "address": "Moonnumukku",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:11:00.307523"
-  },
-  {
-    "place_id": "0x3b05c1a82953e767:0",
-    "name": "Riya Medicals",
-    "address": "KWA - Attingal Treatment Plant, KWA - Stadium Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:10:59.080055"
-  },
-  {
-    "place_id": "0x3b05e9f8fb9c5425:0",
-    "name": "Nanma Medicals",
-    "address": "MRW9+44P, Palace Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:10:57.825208"
-  },
-  {
-    "place_id": "0x3b05e9ff22377fef:0",
-    "name": "Amy Pharma",
-    "address": "BHS Road, to, Ayilam Rd, near Government College",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:10:56.616846"
-  },
-  {
-    "place_id": "0x3b05ef77d1670a01:0",
-    "name": "Rides and Trips",
-    "address": "south cliff, Temple road, kilithattu junction",
-    "category": "Scooter rental service",
-    "phone": "+91 89218 60288",
-    "website": null,
-    "discovered_at": "2026-11-14 03:04:08.542091"
-  },
-  {
-    "place_id": "0x3b05ef2006ce2909:0",
-    "name": "SEN AUTO AGENCIES",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": "+91 98467 01975",
-    "website": null,
-    "discovered_at": "2026-11-14 03:04:05.018449"
-  },
-  {
-    "place_id": "0x3b05efdcdc52dddd:0",
-    "name": "Nightmare Holidays",
-    "address": "Pullanicode Road, near Juma Masjid",
-    "category": "Tour operator",
-    "phone": "+91 95679 03904",
-    "website": null,
-    "discovered_at": "2026-11-14 03:04:03.702645"
-  },
-  {
-    "place_id": "0x3b05ef9c2fa15573:0",
-    "name": "Gold experience",
-    "address": "TB - Vallakadav Rd",
-    "category": "Travel agency",
-    "phone": "+91 79076 17747",
-    "website": null,
-    "discovered_at": "2026-11-14 03:04:02.370790"
-  },
-  {
-    "place_id": "0x3b05ef6fe3c29c87:0",
-    "name": "Jyothi Gardens",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": "+91 98476 80083",
-    "website": null,
-    "discovered_at": "2026-11-14 03:04:01.161260"
-  },
-  {
-    "place_id": "0x3b05efe1a18aa75d:0",
-    "name": "Mana Ayur Wellness",
-    "address": "HillTop Beach Resort",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 03:03:59.925491"
   }
 ]
