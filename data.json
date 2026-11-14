@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05b9f689301939:0",
+    "name": "Alice bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 15:24:31.311628"
+  },
+  {
+    "place_id": "0x3b05b9046ea0035b:0",
+    "name": "Seva Medicines and surgicals",
+    "address": "HX26+8C4, FIRST FLOOR, MADATHIL TOWERS, Urumbath Building, Pump Junction, Opp Federal Bank, Civil Station Road, nr. BSNL Office",
+    "category": "Pharmacy",
+    "phone": "+91 75610 11419",
+    "website": null,
+    "discovered_at": "2026-11-14 15:24:30.145745"
+  },
+  {
+    "place_id": "0x29cc6f49ca5b128f:0",
+    "name": "Isha physiotherapy Centre",
+    "address": "Closes 12 AM",
+    "category": "Open",
+    "phone": "+91 70120 53421",
+    "website": null,
+    "discovered_at": "2026-11-14 15:24:28.972994"
+  },
+  {
+    "place_id": "0x3b05b9002029cbfb:0",
+    "name": "Dentura oral care",
+    "address": "Dentura Oral Care, MGN3), Vazhayila, opposite St Jude's Roman Catholic Church",
+    "category": "Dental clinic",
+    "phone": "+91 82813 81840",
+    "website": null,
+    "discovered_at": "2026-11-14 15:24:27.808394"
+  },
+  {
+    "place_id": "0x3b05b983b9a528cf:0",
+    "name": "Dental Specialists",
+    "address": "GXM9+66M, Hospital Rd",
+    "category": "Dental clinic",
+    "phone": "+91 98958 81160",
+    "website": null,
+    "discovered_at": "2026-11-14 15:24:26.648138"
+  },
+  {
+    "place_id": "0x3b05b942fee3f3c5:0",
+    "name": "Neethy Dental Clinic",
+    "address": "Pullipra, Mukkolakkal",
+    "category": "Dental clinic",
+    "phone": "+91 95268 77535",
+    "website": null,
+    "discovered_at": "2026-11-14 15:24:25.455397"
+  },
+  {
+    "place_id": "0x3b05ba0006f75eeb:0",
+    "name": "VFIVE DEEPAM",
+    "address": "",
+    "category": "Apartment complex",
+    "phone": "+91 90726 66000",
+    "website": null,
+    "discovered_at": "2026-11-14 15:24:24.247301"
+  },
+  {
     "place_id": "0x3b05bf001fc565ed:0",
     "name": "Plate house",
     "address": "JV9W+JP7",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 06:24:13.146518"
-  },
-  {
-    "place_id": "0x3b05a5a8fd9ced4b:0",
-    "name": "The Tides",
-    "address": "",
-    "category": "Seafood restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:24:11.819846"
-  },
-  {
-    "place_id": "0x3b05af4b844c42ef:0",
-    "name": "San Jeevani medical S",
-    "address": "925H+R8J, Poovar - Vizhinjam Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:24:10.595537"
-  },
-  {
-    "place_id": "0x3b05a5a59f8062f3:0",
-    "name": "Wellness medicals",
-    "address": "9XQM+3X9, Vizhinjam Harbour Rd",
-    "category": "Drug store",
-    "phone": "+91 98959 52338",
-    "website": null,
-    "discovered_at": "2026-11-14 06:24:09.376978"
-  },
-  {
-    "place_id": "0x3b05a5a67458a92b:0",
-    "name": "BEACH MEDICALS",
-    "address": "Beach Rd",
-    "category": "Pharmacy",
-    "phone": "+91 94474 92944",
-    "website": null,
-    "discovered_at": "2026-11-14 06:24:08.128094"
-  },
-  {
-    "place_id": "0x3b05a50a211d0e27:0",
-    "name": "Shivas Medicals",
-    "address": "9XXJ+PPR",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 06:24:06.955443"
-  },
-  {
-    "place_id": "0x3b05a50991aa838b:0",
-    "name": "Sonu Medicals",
-    "address": "Chandragiri Building",
-    "category": "Pharmacy",
-    "phone": "+91 98950 62001",
-    "website": null,
-    "discovered_at": "2026-11-14 06:24:05.778214"
-  },
-  {
-    "place_id": "0x3b05a5ad2d16bd95:0",
-    "name": "Sparsh Medicare, Clinic & Laboratory Services, Mukkola",
-    "address": "opposite to muthoot",
-    "category": "Medical clinic",
-    "phone": "+91 94464 42130",
-    "website": null,
-    "discovered_at": "2026-11-14 06:24:04.610258"
   }
 ]
