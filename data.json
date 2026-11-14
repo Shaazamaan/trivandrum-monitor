@@ -1,5 +1,149 @@
 [
   {
+    "place_id": "0x3b05dd70bbecb5a1:0",
+    "name": "sai's beauty spa & parlour",
+    "address": "Closes 6 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:37.169538"
+  },
+  {
+    "place_id": "0x3b05c31ccf743f0b:0",
+    "name": "LIONS LEGACY",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:35.816482"
+  },
+  {
+    "place_id": "0x3b05dd04781af4b7:0",
+    "name": "Supplyco Maveli Store Thattathumala",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:34.545750"
+  },
+  {
+    "place_id": "0x3b05c3d61d04eb87:0",
+    "name": "Aswathy Stores",
+    "address": "Valyavila, Chenkikunnu",
+    "category": "Indian grocery store",
+    "phone": "+91 90612 40291",
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:33.299870"
+  },
+  {
+    "place_id": "0x3b05c300200a934f:0",
+    "name": "IFIX MOBILES",
+    "address": "QVCJ+M49, QVCJ+P45, SH 1",
+    "category": "Mobile phone repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:31.928347"
+  },
+  {
+    "place_id": "0x3b05c34d370a4cbd:0",
+    "name": "Navavasthra",
+    "address": "QVCH+VX4, Vattappara - Thattathumala Rd",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:30.572117"
+  },
+  {
+    "place_id": "0x3b05c326ebb0ebdf:0",
+    "name": "Cochin Bakery And Cool Bar",
+    "address": "QV8G+JG6",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:29.333003"
+  },
+  {
+    "place_id": "0x3b05c326890c0e0b:0",
+    "name": "Prakash Medicals",
+    "address": "Closes 4:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:27.947910"
+  },
+  {
+    "place_id": "0x3b05c325dfd39953:0",
+    "name": "Binu Medicals",
+    "address": "QV9H+J5M, SH 46",
+    "category": "Pharmacy",
+    "phone": "+91 94472 04991",
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:26.539788"
+  },
+  {
+    "place_id": "0x3b05e9825df9fd4d:0",
+    "name": "Emirates Tours & Travels",
+    "address": "MQXJ+QG6, Alamcode Kadakkavoor Anchuthengu Road",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:25.299584"
+  },
+  {
+    "place_id": "0x3b05ea444f13e859:0",
+    "name": "Infa International Manpower Recruitment Agency",
+    "address": "Sanam Building, Jn",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:23.902237"
+  },
+  {
+    "place_id": "0x3b05ea08128b1f07:0",
+    "name": "Hara Tours and Travels",
+    "address": "National Highway 47",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:19.639503"
+  },
+  {
+    "place_id": "0x3b05ea56d0d2723b:0",
+    "name": "Confident Travels",
+    "address": "MQ3Q+G69",
+    "category": "Travel agency",
+    "phone": "+91 99959 72491",
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:18.406805"
+  },
+  {
+    "place_id": "0x3b05ea4444cd8f13:0",
+    "name": "Royal Air Travels",
+    "address": "MQ7W+83G",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:17.171177"
+  },
+  {
+    "place_id": "0x3b05ea3df60d9ecf:0",
+    "name": "Kilithattil Provisions",
+    "address": "Cheruvallimukku junction, Chirayinkeezhu - Attingal Rd",
+    "category": "Indian grocery store",
+    "phone": "+91 94956 56104",
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:15.806041"
+  },
+  {
+    "place_id": "0x3b05ebc636d489c1:0",
+    "name": "ASHITHA JEWELLERY",
+    "address": "MQF8+5VM",
+    "category": "Jewelry store",
+    "phone": "+91 82816 95069",
+    "website": null,
+    "discovered_at": "2026-11-14 04:26:14.543299"
+  },
+  {
     "place_id": "0x3b05e93f46bd4d37:0",
     "name": "Kiara boutique",
     "address": "Kiara Boutique, T B Junction, near Children’s Park",
@@ -8854,149 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 01:06:22.482107"
-  },
-  {
-    "place_id": "0x3b05bb4ce65679e9:0",
-    "name": "Club 1 Gym Nemom",
-    "address": "Closes 10 AM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:21.306950"
-  },
-  {
-    "place_id": "0x3b05bb86c3ab645d:0",
-    "name": "SR Fitness Yoga and Physical Excersice",
-    "address": "Homeo College Rd",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:20.077803"
-  },
-  {
-    "place_id": "0x3b05bb0066e95aff:0",
-    "name": "SIGMA FITNESS CULT",
-    "address": "F253+V2R, Thattarakkudy Ln",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:18.830805"
-  },
-  {
-    "place_id": "0x880e407510cd2afb:0",
-    "name": "Mari Lou's Fine Jewelry",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:17.068246"
-  },
-  {
-    "place_id": "0x880fd1112c46dbe7:0",
-    "name": "Malabar Gold and Diamonds Chicago",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:15.481687"
-  },
-  {
-    "place_id": "0x3b05b15e75322ea7:0",
-    "name": "Deyn Mens Clothing Store",
-    "address": "Deyn Mens Clothing Store, Pravachambalam - Ooruttambalam Rd",
-    "category": "Men's clothing store",
-    "phone": "+91 94477 32709",
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:14.235634"
-  },
-  {
-    "place_id": "0x3b05baa4f33e303f:0",
-    "name": "Juice Bar",
-    "address": "F242+M7R",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:12.841602"
-  },
-  {
-    "place_id": "0x3b05bb80ce6bde6f:0",
-    "name": "M.J fruits & juice",
-    "address": "F233+8P7",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:11.653562"
-  },
-  {
-    "place_id": "0x880e2d3cd9a531a7:0",
-    "name": "Healthy Juice Bar",
-    "address": "108 N State St Lower Level",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:10.400337"
-  },
-  {
-    "place_id": "0x880e2cc085107675:0",
-    "name": "Jamba",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:09.018602"
-  },
-  {
-    "place_id": "0x880fb3d059fb02e1:0",
-    "name": "JuiceRx Streeterville",
-    "address": "211 E Ontario St",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:07.716048"
-  },
-  {
-    "place_id": "0x880e2cc71baaa339:0",
-    "name": "Jamba",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:06.428234"
-  },
-  {
-    "place_id": "0x880fd2d2b70ba90f:0",
-    "name": "Healthy and Simple Juices",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:05.150805"
-  },
-  {
-    "place_id": "0x880e2d3d36ca6c47:0",
-    "name": "Nekter Juice Bar",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:03.882002"
-  },
-  {
-    "place_id": "0x880e2cad4d1114e3:0",
-    "name": "JOE & THE JUICE",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:02.628616"
-  },
-  {
-    "place_id": "0x880e2cb6976b136d:0",
-    "name": "JOE & THE JUICE",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:06:01.331150"
   }
 ]
