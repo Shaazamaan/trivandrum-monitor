@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bbc7522a4db9:0",
+    "name": "Adarsh Medicals",
+    "address": "KCG TOWERS,T C 26/2602 University Road, Trivandrum 695034",
+    "category": "Pharmacy",
+    "phone": "+91 94464 97014",
+    "website": null,
+    "discovered_at": "2026-11-14 22:42:25.541939"
+  },
+  {
+    "place_id": "0x3b05bba77cd8b517:0",
+    "name": "SRB Jewellery",
+    "address": "Opposite sheematti, Chalai Market Road",
+    "category": "Jeweler",
+    "phone": "+91 79949 55275",
+    "website": null,
+    "discovered_at": "2026-11-14 22:42:24.233171"
+  },
+  {
+    "place_id": "0x3b05bb4d09f6d503:0",
+    "name": "Chayappidika",
+    "address": "GX24+P59, Vazhuthacaud Bakery Jct Rd",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 22:42:22.962762"
+  },
+  {
     "place_id": "0x3b05b91314b47b27:0",
     "name": "SMRITHI DRIVING SCHOOL NEW OFFICE & GROUND",
     "address": "GXJJ+5MW, Kavalloor Ln",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 13:14:41.286506"
-  },
-  {
-    "place_id": "0x3b05c19e22ff6aa9:0",
-    "name": "Perfect Cut Gents Beauty Parlour",
-    "address": "MWC6+PJR",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 13:14:40.091719"
-  },
-  {
-    "place_id": "0x3b05c10a98a9b277:0",
-    "name": "DRITHA DESIGNS",
-    "address": "Attingal road, near Canara bank",
-    "category": "Boutique",
-    "phone": "+91 88915 12905",
-    "website": null,
-    "discovered_at": "2026-11-14 13:14:38.890001"
-  },
-  {
-    "place_id": "0x3b05c13c33ed45c7:0",
-    "name": "BeCare Multi-specialty Dental Clinic",
-    "address": "AR Tower, Velavoor Rd",
-    "category": "Dental clinic",
-    "phone": "+91 98955 92955",
-    "website": null,
-    "discovered_at": "2026-11-14 13:14:37.636579"
   }
 ]
