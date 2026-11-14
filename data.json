@@ -1,5 +1,149 @@
 [
   {
+    "place_id": "0x3b05bb5a1ea0982d:0",
+    "name": "Strawberriies Boutique",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:22.336180"
+  },
+  {
+    "place_id": "0x3b05bb0b41834ed7:0",
+    "name": "SAYURA, The Bridal Luxe",
+    "address": "Junction",
+    "category": "Bridal shop",
+    "phone": "+91 73066 26255",
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:21.123863"
+  },
+  {
+    "place_id": "0x3b05bbe7761bff25:0",
+    "name": "Cotton Point",
+    "address": "",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:18.905534"
+  },
+  {
+    "place_id": "0x3b05bbd8ffffffff:0",
+    "name": "OldSkool Café & Diner",
+    "address": "",
+    "category": "Steak house",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:17.052254"
+  },
+  {
+    "place_id": "0x8889220bb8149d13:0",
+    "name": "Patton Chapel Animal Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:15.787809"
+  },
+  {
+    "place_id": "0x3b05bb2505ca232f:0",
+    "name": "Biowel inc",
+    "address": "2nd Floor, MNL-31, MN Lane, Pattom sivaramakrishna, Ayyar Road",
+    "category": "Distribution service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:14.573174"
+  },
+  {
+    "place_id": "0x3b05bb24a4b09243:0",
+    "name": "Bestdent Dental Solutions",
+    "address": "Christys, Vayal Road, Plamood, Nathancode Road",
+    "category": "Dental clinic",
+    "phone": "+91 80752 40844",
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:13.373571"
+  },
+  {
+    "place_id": "0x865c5f6affc10129:0",
+    "name": "Key Coworking",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:12.206261"
+  },
+  {
+    "place_id": "0x3b05bbd55b9d90ed:0",
+    "name": "Colour Vibes Birthday Planners , Balloon Events & Balloon Shops in Thiruvanathapuram",
+    "address": "University Rd, near AKG Center, next to Hassan Marakkar Hall",
+    "category": "Event planner",
+    "phone": "+91 94969 33065",
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:10.969698"
+  },
+  {
+    "place_id": "0x3b05ba4b52ee9113:0",
+    "name": "Absolut Brand Circle | Event Management Company",
+    "address": "Sahyadri KLRA-34, TC.No 29/2717 Kukkiliya Lane Junction ,Thycadu, Thiruvananthapuram",
+    "category": "Wedding planner",
+    "phone": "+91 98460 98881",
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:09.679278"
+  },
+  {
+    "place_id": "0xaeba8a14c814ec9f:0",
+    "name": "SP Events",
+    "address": "Pattoor - Vanchiyoor Rd, above Canara Bank",
+    "category": "Event planner",
+    "phone": "+91 90378 19570",
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:08.442805"
+  },
+  {
+    "place_id": "0x3b05bbaf969cea67:0",
+    "name": "Aerofit fitness shoppe",
+    "address": "Press Rd, opposite Hotel Residency Tower",
+    "category": "Fitness equipment wholesaler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:07.215639"
+  },
+  {
+    "place_id": "0x3b05bbe56a5f9deb:0",
+    "name": "Styla",
+    "address": "1st Floor, KK Building, adjacent to Ariya Nivaas",
+    "category": "Dress store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:05.909641"
+  },
+  {
+    "place_id": "0x3b05bb002d41f79d:0",
+    "name": "She Cafe",
+    "address": "TC 81/2968-1, S.M.TOWER ,2ND FLOOR NEAR HDFC BANK W& C HOSPITAL ROAD, Railway, Station Road",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:04.682597"
+  },
+  {
+    "place_id": "0x865c5fbcdb7846fb:0",
+    "name": "San Antonio Eye Center",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:03.451218"
+  },
+  {
+    "place_id": "0x865c5f573ed308d7:0",
+    "name": "San Antonio Eye Center",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 05:11:02.090262"
+  },
+  {
     "place_id": "0x89ae9d25fb3947bd:0",
     "name": "Adi Mahajan CPA - North Raleigh, NC Office",
     "address": "",
@@ -8854,149 +8998,5 @@
     "phone": "+91 94956 79987",
     "website": null,
     "discovered_at": "2026-11-14 01:40:17.697405"
-  },
-  {
-    "place_id": "0x3b05c90019a50e71:0",
-    "name": "Kandhari chicken",
-    "address": "M3FV+RC9, SH45",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:40:16.500731"
-  },
-  {
-    "place_id": "0x3a35e300251714d7:0",
-    "name": "Cloud kitchen",
-    "address": "GQJM+VP9, yogasaram back side",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:40:15.361657"
-  },
-  {
-    "place_id": "0x3b05c96df79d1e2f:0",
-    "name": "Anugraha Medicals Vithura",
-    "address": "M3CM+2QW Culvert, Junction",
-    "category": "Drug store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:40:14.079346"
-  },
-  {
-    "place_id": "0x3b05c99b9c63a9db:0",
-    "name": "Viswas Community Pharmacy",
-    "address": "M3FM+33M, Vithura High School Rd",
-    "category": "Drug store",
-    "phone": "+91 94472 03988",
-    "website": null,
-    "discovered_at": "2026-11-14 01:40:12.809407"
-  },
-  {
-    "place_id": "0x3b05c9c12ef95545:0",
-    "name": "Kottakkal Arya Vaidya sala",
-    "address": "Opens 9:30 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:40:11.628300"
-  },
-  {
-    "place_id": "0x3b05c9799601e481:0",
-    "name": "Vithura Ayurvedic hospital",
-    "address": "Chennanpara, Bus Stop, SH45",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:40:10.263399"
-  },
-  {
-    "place_id": "0x3b05c15c3dc2724d:0",
-    "name": "ORYX TOWERS",
-    "address": "Block Office Rd",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:31:50.906276"
-  },
-  {
-    "place_id": "0x3b05c148bef76db7:0",
-    "name": "Pink Lips",
-    "address": "+91 81579 33074",
-    "category": "Temporarily closed",
-    "phone": "+91 81579 33074",
-    "website": null,
-    "discovered_at": "2026-11-14 01:31:49.668157"
-  },
-  {
-    "place_id": "0x3b05c1005e670c13:0",
-    "name": "M3 Unisex Saloon & Spa",
-    "address": "MWP4+6XP, SH 1",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:31:46.067721"
-  },
-  {
-    "place_id": "0x3b05c149abd92a8b:0",
-    "name": "Hotel Safari",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:31:44.852222"
-  },
-  {
-    "place_id": "0x3b05c1c68d7fe151:0",
-    "name": "DEVIKRIPA STORE",
-    "address": "DEVIKRIPA STORE, near ILAMBA",
-    "category": "Supermarket",
-    "phone": "+91 95398 84086",
-    "website": null,
-    "discovered_at": "2026-11-14 01:31:43.462952"
-  },
-  {
-    "place_id": "0x3b05c1e74228cc37:0",
-    "name": "Malabar restaurant",
-    "address": "Aalamthara - Bhoothamadakki Rd",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:31:42.226523"
-  },
-  {
-    "place_id": "0x3b05c11beb4e9439:0",
-    "name": "AL QASR FRIED CHICKEN",
-    "address": "AL QASR FRIED CHICKEN, Venjaramoodu Road, opposite SBI BANK",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:31:40.886182"
-  },
-  {
-    "place_id": "0x3b05c35a2b48b10f:0",
-    "name": "Aarambham Holidays",
-    "address": "Karinjivila, poikakada",
-    "category": "Travel agency",
-    "phone": "+91 85909 49212",
-    "website": null,
-    "discovered_at": "2026-11-14 01:31:39.578186"
-  },
-  {
-    "place_id": "0x3b05c307ad192659:0",
-    "name": "Pittappillil Agencies",
-    "address": "Erattachira, MC Rd, near Indian Oil Petrol Pump",
-    "category": "Appliance store",
-    "phone": "+91 80866 79991",
-    "website": null,
-    "discovered_at": "2026-11-14 01:31:38.204160"
-  },
-  {
-    "place_id": "0x3b05c3b9d0921b01:0",
-    "name": "Mr Cutz",
-    "address": "PP XIV/379, Mahadeveswaram, P O, 695 601",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 01:31:36.819284"
   }
 ]
