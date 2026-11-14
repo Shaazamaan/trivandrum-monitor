@@ -1,5 +1,455 @@
 [
   {
+    "place_id": "0x3b05a908e4d6079f:0",
+    "name": "Alif Bakery",
+    "address": "839C+867",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:34.795656"
+  },
+  {
+    "place_id": "0x3b05a995bd25921b:0",
+    "name": "Dr. KRISHNAKUMAR M , NEPHROLOGIST ,and physician GOVT medical college",
+    "address": "James lab",
+    "category": "Medical group",
+    "phone": "+91 62382 60932",
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:33.011946"
+  },
+  {
+    "place_id": "0x3b05a9f9814f3c95:0",
+    "name": "Ishika Makeovers by Arya",
+    "address": "Kanjiramkulam - Poovar Rd",
+    "category": "Make-up artist",
+    "phone": "+91 91883 91440",
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:31.728406"
+  },
+  {
+    "place_id": "0x3b05a5da417a8005:0",
+    "name": "Trivandrum Taxi - Kovalam Taxi - Arrow Cabs",
+    "address": "Vizhinijam Post, No.22/3,Vizhinjam Trivandrum Mainroad Vizhinjam,Kovalam",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:30.484005"
+  },
+  {
+    "place_id": "0x3b05a50037df8ced:0",
+    "name": "Saba Travel Designers",
+    "address": "Beach Rd",
+    "category": "Tour operator",
+    "phone": "+91 94007 88030",
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:29.261344"
+  },
+  {
+    "place_id": "0x3b05a55b8678a6b7:0",
+    "name": "Lahiz Travels",
+    "address": "Lahiz Complex",
+    "category": "Taxi service",
+    "phone": "+91 97461 61641",
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:28.058719"
+  },
+  {
+    "place_id": "0x3b05af4aee1c355b:0",
+    "name": "Phoenix cabs",
+    "address": "Abhilash nivas",
+    "category": "Tour agency",
+    "phone": "+91 97474 78497",
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:26.808975"
+  },
+  {
+    "place_id": "0x3b05a5360f54642f:0",
+    "name": "Sealine Water Sports and Scuba",
+    "address": "Bus Stand Rd",
+    "category": "SCUBA tour agency",
+    "phone": "+91 98479 90383",
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:25.588830"
+  },
+  {
+    "place_id": "0x3b05a54bfea6ff6d:0",
+    "name": "First choice travel assistant",
+    "address": "Closes 12 AM",
+    "category": "Open",
+    "phone": "+91 90207 05020",
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:24.320336"
+  },
+  {
+    "place_id": "0x3b05a5bb9c250d4d:0",
+    "name": "Kovalam Houseboat Tours - Poovar Backwater Boat Trips",
+    "address": "Light House Rd",
+    "category": "Sightseeing tour agency",
+    "phone": "+91 98478 72028",
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:23.116352"
+  },
+  {
+    "place_id": "0x3b05af70be07d27d:0",
+    "name": "Lallu Cab and Travels",
+    "address": "Anugraha Villa Kottukalkonam",
+    "category": "Travel agency",
+    "phone": "+91 95442 25187",
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:21.719480"
+  },
+  {
+    "place_id": "0x3b05a5000fd2eaf9:0",
+    "name": "Purple Tours & Travels",
+    "address": "9XMJ+8QG, Light House Rd",
+    "category": "Tour operator",
+    "phone": "+91 95677 73392",
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:20.517553"
+  },
+  {
+    "place_id": "0x3b05a5bf21ad599b:0",
+    "name": "PADMANABHA HOLIDAYS",
+    "address": "near UDS Kovalam",
+    "category": "Travel agency",
+    "phone": "+91 98958 28801",
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:19.203134"
+  },
+  {
+    "place_id": "0x3b05bb00070d9f7f:0",
+    "name": "Shastha arts and events Godown",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:17.979369"
+  },
+  {
+    "place_id": "0x3b05afbade757e59:0",
+    "name": "Kattunadayil Cattaring&Events",
+    "address": "C26R+PXQ",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:16.726275"
+  },
+  {
+    "place_id": "0x3b05bbe79c8fea11:0",
+    "name": "Space U Decors by Udaya",
+    "address": "Thennoor Sastha Temple Rd",
+    "category": "Event planner",
+    "phone": "+91 94461 00320",
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:15.421910"
+  },
+  {
+    "place_id": "0x3b05a50067f29eb3:0",
+    "name": "Sunway construction",
+    "address": "9XMR+3RV, Junction",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:14.214746"
+  },
+  {
+    "place_id": "0x3b05a58df48074df:0",
+    "name": "Skytech s Builders",
+    "address": "Opens 9:30 AM Mon",
+    "category": "Closed",
+    "phone": "+91 97466 97795",
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:12.847308"
+  },
+  {
+    "place_id": "0x3b05a5006f5fb9b5:0",
+    "name": "GEETHAKUMAR, Dr Midhun GL",
+    "address": "92P4+VJ2",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:11.625562"
+  },
+  {
+    "place_id": "0x3b05a53ced216c5b:0",
+    "name": "SPRING FIELD HOUSING PROJECT KOVALAM",
+    "address": "9XWW+4JP, Kalluvettankuzhi - Venganoor Rd",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:07.979107"
+  },
+  {
+    "place_id": "0x3b05a5005d8ec389:0",
+    "name": "SN house",
+    "address": "9XMX+4RJ",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:06.627379"
+  },
+  {
+    "place_id": "0x3b05a5006fb42361:0",
+    "name": "JK home",
+    "address": "92Q2+265, Pechottukonam",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:05.123168"
+  },
+  {
+    "place_id": "0x3b05a500624f2ac7:0",
+    "name": "Nikunjam",
+    "address": "Springfield Gated Community, Kalluvettankuzhi - Venganoor Rd",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:03.907148"
+  },
+  {
+    "place_id": "0x3b05a5e137a4da25:0",
+    "name": "Adithyan",
+    "address": "9XPX+VV4",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:02.662144"
+  },
+  {
+    "place_id": "0x3b05a587fa56e139:0",
+    "name": "Adani Vizhinjam Port PVT LTD, Thiruvananthapuram",
+    "address": "9XFW+Q83 Port PVT LTD, Adani",
+    "category": "Port operating company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:01.415775"
+  },
+  {
+    "place_id": "0x3b05af595391db01:0",
+    "name": "Ammu house",
+    "address": "92W9+739",
+    "category": "Home builder",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:11:00.168925"
+  },
+  {
+    "place_id": "0x3b05a5003d2be50f:0",
+    "name": "Grace Villa Venganoor",
+    "address": "92R2+CGR, Pallichal vi",
+    "category": "Apartment building",
+    "phone": "+91 73064 34374",
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:58.976347"
+  },
+  {
+    "place_id": "0x3b05a5000308758f:0",
+    "name": "Sow Parnika,Kaipallikuzhy",
+    "address": "CX2W+397",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:57.719768"
+  },
+  {
+    "place_id": "0x3b05af00064dddb1:0",
+    "name": "ARJUN’s Home",
+    "address": "92Q7+MGX",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:56.341424"
+  },
+  {
+    "place_id": "0x3b05a500336ee83f:0",
+    "name": "Property of SR. KARTHIKEYAN",
+    "address": "CX2W+QGJ, MLA Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:55.054304"
+  },
+  {
+    "place_id": "0x3b05a50001081aab:0",
+    "name": "Sudheer khan's house",
+    "address": "Township colony house, 50, Vizhinjam - Uchakkada Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:53.865847"
+  },
+  {
+    "place_id": "0x3b05a50039f8ed0f:0",
+    "name": "Vattavila junction vizhinjam",
+    "address": "9XPR+CH5",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:48.776485"
+  },
+  {
+    "place_id": "0x3b05a5005b666ac3:0",
+    "name": "Grace villla House 🏠",
+    "address": "9XQV+2MR",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:47.389410"
+  },
+  {
+    "place_id": "0x3b05a50035ef0ae3:0",
+    "name": "CJ’s Home",
+    "address": "92X3+HQ2, Church Road",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:46.176507"
+  },
+  {
+    "place_id": "0x3b05a500600637cf:0",
+    "name": "Kettidathil Veedu, Vizhinjam Street",
+    "address": "9XQV+C4M",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:44.960266"
+  },
+  {
+    "place_id": "0x3b05a5ce07cdd3a7:0",
+    "name": "Future Plus Special Tuition",
+    "address": "Future Plus",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:43.735855"
+  },
+  {
+    "place_id": "0x3b05afbf76b058e9:0",
+    "name": "Trivandrum Sports Club - Multi Turf & Cafe",
+    "address": "C258+244, Pallichal - Vizhinjam Rd",
+    "category": "Sports club",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:42.480624"
+  },
+  {
+    "place_id": "0x3b05a5b34168c8a3:0",
+    "name": "MNCe Academy Vzm",
+    "address": "Mnce Tower, Theater Jn, near International Seaport",
+    "category": "Educational institution",
+    "phone": "+91 90727 20086",
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:41.158455"
+  },
+  {
+    "place_id": "0x3b05af28ca27c07f:0",
+    "name": "Tuition Classes",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:39.940971"
+  },
+  {
+    "place_id": "0x3b05afc8a269f769:0",
+    "name": "Centre for Science",
+    "address": "Balaramapuram Main Rd",
+    "category": "Coaching center",
+    "phone": "+91 94955 55829",
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:38.556527"
+  },
+  {
+    "place_id": "0x3b05afea1916f165:0",
+    "name": "Sree's english tuition",
+    "address": "92CG+6GH, Chappath Rd",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:36.649005"
+  },
+  {
+    "place_id": "0x3b05a542ceebda57:0",
+    "name": "VISUAL PSC ACADEMY",
+    "address": "Closes 10:30 PM",
+    "category": "Open",
+    "phone": "+91 70347 02023",
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:35.454250"
+  },
+  {
+    "place_id": "0x3b05a501686a19bb:0",
+    "name": "VHR Educational Society",
+    "address": "CX2J+FFH, CX2J+FG8 KS Road, Junction, Kovalam Rd",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:34.084193"
+  },
+  {
+    "place_id": "0x3b05afc893cab6db:0",
+    "name": "Focus Physics Special Tuition Centre",
+    "address": "C2FW+XCV, Balaramapuram Main Rd, Near Aafiya fancy",
+    "category": "Education center",
+    "phone": "+91 94461 51084",
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:32.681148"
+  },
+  {
+    "place_id": "0x3b05af00579ddb53:0",
+    "name": "Mahadeva Tuition centre",
+    "address": "Mahadeva Tuition centre",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:31.442158"
+  },
+  {
+    "place_id": "0x3b05a5e109eb7bdd:0",
+    "name": "MISC Campus Kovalam",
+    "address": "Mele Palli Grove Beach, Kovalam",
+    "category": "Education center",
+    "phone": "+91 81579 57618",
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:30.221931"
+  },
+  {
+    "place_id": "0x3b05af880d77fe9b:0",
+    "name": "IASTER",
+    "address": "Closes 8:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:28.983511"
+  },
+  {
+    "place_id": "0x3b05a584c7620925:0",
+    "name": "Hair & Skin Unisex Makeover Studio",
+    "address": "9XMR+QCP, Ambalkulam Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:27.705934"
+  },
+  {
+    "place_id": "0x3b05af00526326f7:0",
+    "name": "KJ Multispeciality Dental Clinic & Implant Centre",
+    "address": "C28R+PPX",
+    "category": "Dental clinic",
+    "phone": "+91 62829 00879",
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:26.491287"
+  },
+  {
+    "place_id": "0x3b05af001d30df2b:0",
+    "name": "Dr Jobin’s Crown Dental Care",
+    "address": "C362+HFP",
+    "category": "Dental clinic",
+    "phone": "+91 80730 42456",
+    "website": null,
+    "discovered_at": "2026-11-14 12:10:25.262519"
+  },
+  {
     "place_id": "0x3b05b92d6be8bbb5:0",
     "name": "S M fashion jewellers",
     "address": "Nedumangad Town Rd",
@@ -8548,455 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 05:38:39.440351"
-  },
-  {
-    "place_id": "0x880e2c9a1584adf5:0",
-    "name": "Burnham Park Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:36.945484"
-  },
-  {
-    "place_id": "0x880e2c86a803c975:0",
-    "name": "Metropolitan Veterinary Center",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:35.714488"
-  },
-  {
-    "place_id": "0x880e2cca9bc99e55:0",
-    "name": "BLVD Vet River North",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:33.539795"
-  },
-  {
-    "place_id": "0x880e2de89675e4f7:0",
-    "name": "VEG ER for Pets",
-    "address": "",
-    "category": "Emergency veterinarian service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:31.443394"
-  },
-  {
-    "place_id": "0x880e2d09f0894ca3:0",
-    "name": "Partners Animal Hospital South Loop",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:29.273322"
-  },
-  {
-    "place_id": "0x880e2cabb096a175:0",
-    "name": "GoodVets Streeterville",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:27.672834"
-  },
-  {
-    "place_id": "0x8815fca80d6d199d:0",
-    "name": "East State Veterinary Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:25.390691"
-  },
-  {
-    "place_id": "0x880e2b4d2af54331:0",
-    "name": "East Side Veterinary Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:22.871843"
-  },
-  {
-    "place_id": "0x880e2d90c6c3fec7:0",
-    "name": "Bond Vet - West Loop",
-    "address": "845 West Madison Street",
-    "category": "Emergency veterinarian service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:21.651571"
-  },
-  {
-    "place_id": "0x880fd262e2733b57:0",
-    "name": "MedVet Chicago",
-    "address": "3305 North California Avenue",
-    "category": "Animal hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:19.479545"
-  },
-  {
-    "place_id": "0x880fd35385afd2a9:0",
-    "name": "Carnegie Sargent's Pharmacy and Health Center",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:17.269125"
-  },
-  {
-    "place_id": "0x880e2b55f37fad75:0",
-    "name": "Walgreens Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:15.370806"
-  },
-  {
-    "place_id": "0x880e2cbb2d725ce5:0",
-    "name": "Walgreens Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:13.649430"
-  },
-  {
-    "place_id": "0x880e2cbae1ece907:0",
-    "name": "Carecenter Pharmacy LLC",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:11.467352"
-  },
-  {
-    "place_id": "0x880e2c8462b85391:0",
-    "name": "Capsule",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:08.967900"
-  },
-  {
-    "place_id": "0x880fc9a56c99b2e5:0",
-    "name": "ALC Diagnostics",
-    "address": "",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:07.754583"
-  },
-  {
-    "place_id": "0x3b05bb0ae99a58bd:0",
-    "name": "Universal Laboratories",
-    "address": "FWJV+64W, S Street Rd",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:05.400684"
-  },
-  {
-    "place_id": "0x880fd352334f4ab1:0",
-    "name": "Diagnostic Imaging Specialists of Chicago",
-    "address": "",
-    "category": "Medical diagnostic imaging center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:02.883789"
-  },
-  {
-    "place_id": "0x880e2cef577aaab3:0",
-    "name": "UIC Science and Engineering Labs East Building",
-    "address": "",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:38:01.682499"
-  },
-  {
-    "place_id": "0x880e2df1ecb31e67:0",
-    "name": "The Northwestern Medicine Diagnostic Center",
-    "address": "",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:59.385351"
-  },
-  {
-    "place_id": "0x880e2d343a8d371d:0",
-    "name": "Northwestern Medicine Laboratory Services and Diagnostic Testing Center Arkes Pavilion",
-    "address": "",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:57.131640"
-  },
-  {
-    "place_id": "0x880e2caaddaf4d5d:0",
-    "name": "Northwestern Medicine Laboratory Services and Diagnostic Center Lavin Pavilion",
-    "address": "",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:55.927698"
-  },
-  {
-    "place_id": "0x880e2c74b3b86035:0",
-    "name": "Illinois Eye Institute B.G.",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:54.716741"
-  },
-  {
-    "place_id": "0x880e2972ab0b8f1f:0",
-    "name": "Rosin Eyecare - Chicago Hyde Park",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:53.419608"
-  },
-  {
-    "place_id": "0x8815e492dd6ca795:0",
-    "name": "Cataract & Laser Institute - Formerly The Eye Center of Fort Wayne",
-    "address": "",
-    "category": "Ophthalmology clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:52.182213"
-  },
-  {
-    "place_id": "0x88160801bf172fe9:0",
-    "name": "Ophthalmology Consultants of Fort Wayne, P.C.",
-    "address": "",
-    "category": "Ophthalmology clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:50.811232"
-  },
-  {
-    "place_id": "0x8815fdceb8175bc1:0",
-    "name": "Northeast Family Eyecare",
-    "address": "",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:49.601608"
-  },
-  {
-    "place_id": "0x880e2c9b24594769:0",
-    "name": "Village Eyecare - South Loop",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:48.414778"
-  },
-  {
-    "place_id": "0x880fd34df674ca1d:0",
-    "name": "Doctors of Optometry - North State Street",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:47.248431"
-  },
-  {
-    "place_id": "0x880fd34893d58deb:0",
-    "name": "MyEyeDr.",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:46.032219"
-  },
-  {
-    "place_id": "0x880e2df9204f1913:0",
-    "name": "Doctors of Optometry - Roosevelt Collection",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:44.780110"
-  },
-  {
-    "place_id": "0x880e2caadda4cb25:0",
-    "name": "Northwestern Memorial Hospital Vision Care Center",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:43.604278"
-  },
-  {
-    "place_id": "0x880e2ca4340b8d93:0",
-    "name": "Millennium Park Eye Center",
-    "address": "",
-    "category": "Ophthalmologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:42.412850"
-  },
-  {
-    "place_id": "0x880e2cab073c4e73:0",
-    "name": "Eye Society",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:41.089521"
-  },
-  {
-    "place_id": "0x880e2caf25d3fb99:0",
-    "name": "MyEyeDr.",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:39.322846"
-  },
-  {
-    "place_id": "0x880e2ca53d0748d9:0",
-    "name": "Eye Physical",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:38.149036"
-  },
-  {
-    "place_id": "0x880fd3a926462927:0",
-    "name": "Ignite Physical Therapy and Sports Performance",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:36.906689"
-  },
-  {
-    "place_id": "0x880e2cc98cce6d7d:0",
-    "name": "Athletico Physical Therapy - River North (East Bank Club)",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:35.730405"
-  },
-  {
-    "place_id": "0x880e2dd044693321:0",
-    "name": "Advantage Physical Therapy Associates & Wellness",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:34.527985"
-  },
-  {
-    "place_id": "0x880e2bfc66efff45:0",
-    "name": "React Physical Therapy - Lakeshore East",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:33.339620"
-  },
-  {
-    "place_id": "0x880e2d0066097349:0",
-    "name": "PS PHYSIO CARE",
-    "address": "W Chicago Ave",
-    "category": "Physical therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:32.086400"
-  },
-  {
-    "place_id": "0x880e2cbb9b91cf3b:0",
-    "name": "Doctors of Physical Therapy (previously known as Metro Spine and Sports Rehabilitation)",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:30.842190"
-  },
-  {
-    "place_id": "0x880e2c9a43ed90e5:0",
-    "name": "Impact Physical Therapy & Sports Recovery - South Loop",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:29.669773"
-  },
-  {
-    "place_id": "0x880e2b558e23301d:0",
-    "name": "Movement Physical Therapy",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:28.448017"
-  },
-  {
-    "place_id": "0x880e2de73052730b:0",
-    "name": "East Erie Street Physical Therapy",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:27.163310"
-  },
-  {
-    "place_id": "0x880e2cbb8ca28d01:0",
-    "name": "Core Physical Therapy - The Loop",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:25.971405"
-  },
-  {
-    "place_id": "0x880e2cbbeb0de14d:0",
-    "name": "Loop Physical Therapy - The Loop",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:24.650730"
-  },
-  {
-    "place_id": "0x8815e3b7f990c75b:0",
-    "name": "Posh Lab LLC",
-    "address": "410 E Dupont Rd Ste 3",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:23.429196"
-  },
-  {
-    "place_id": "0x880e41a8d39ddc0f:0",
-    "name": "Black Skin Institute",
-    "address": "",
-    "category": "Medical spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:22.124098"
-  },
-  {
-    "place_id": "0x8815e3e6c151b2ef:0",
-    "name": "Radiant Dermatology Associates",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 05:37:20.916235"
   }
 ]
