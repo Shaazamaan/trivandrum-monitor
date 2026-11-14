@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05dd0e87fef71d:0",
+    "name": "MS Tea Shop (Oru Yamandan Chaayakkada)",
+    "address": "QVQJ+9VC",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 10:12:05.832307"
+  },
+  {
+    "place_id": "0x3b05dd4b9cfec865:0",
+    "name": "Shami Medicals",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-14 10:12:04.542064"
+  },
+  {
     "place_id": "0x3b05b1f65b3804d9:0",
     "name": "Abhilash B & Associates",
     "address": "Aishwarya, T.C.50/257, JP Ln",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 04:33:49.678244"
-  },
-  {
-    "place_id": "0x3b05cd0fc23756d1:0",
-    "name": "FAISAL RESTAURANT",
-    "address": "Shope No 7 Faisal Restaurant Ponmudi, Road",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:33:48.421126"
-  },
-  {
-    "place_id": "0x87ee84d4a5b55049:0",
-    "name": "Revive Dermatology Clinic and Spa",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 04:33:47.020665"
   }
 ]
