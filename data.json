@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb871548aa8f:0",
+    "name": "FIT FORGE GYM",
+    "address": "Poonthi Rd",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 03:12:52.258176"
+  },
+  {
+    "place_id": "0x3b05bb1d3a11ed53:0",
+    "name": "PassportriX",
+    "address": "",
+    "category": "Passport agent",
+    "phone": "+91 80892 12639",
+    "website": null,
+    "discovered_at": "2026-11-15 03:12:47.966975"
+  },
+  {
+    "place_id": "0x3b05bb74e9097715:0",
+    "name": "Cinderella Beauty Parlour",
+    "address": "Sreevaraham Attakulangara - Enchakkal Rd, Market Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 03:12:46.715133"
+  },
+  {
     "place_id": "0x3b05bb1108b452d7:0",
     "name": "STARCINE MINI PHARMACY",
     "address": "Bhagavathi Temple, opposite KONCHIRAVILA",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 16:45:29.385802"
-  },
-  {
-    "place_id": "0x880e29710933e2f7:0",
-    "name": "Joyce's Event & Party Planning",
-    "address": "5201 S Cornell Ave APT 25B",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:45:27.294194"
-  },
-  {
-    "place_id": "0x880e29825edbeec5:0",
-    "name": "Essence Creations Events LLC",
-    "address": "Closes 7 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:45:25.246272"
-  },
-  {
-    "place_id": "0x880e3566907c5d4b:0",
-    "name": "BW Studio + Events",
-    "address": "2324 Clinton Ave",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:45:22.684164"
   }
 ]
