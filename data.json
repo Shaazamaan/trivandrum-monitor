@@ -1,5 +1,158 @@
 [
   {
+    "place_id": "0x3b05bf2c03f0c3cb:0",
+    "name": "raison d'être - The Residential Library",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 95260 10300",
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:19.964210"
+  },
+  {
+    "place_id": "0x3b05bf032cf1a791:0",
+    "name": "Shaiju Thomas & Associates",
+    "address": "Dhanya Nagar Nehru Junction, DNRA A-27",
+    "category": "Financial consultant",
+    "phone": "+91 77364 68350",
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:18.622340"
+  },
+  {
+    "place_id": "0x3b05befe49ac1037:0",
+    "name": "Traveller's Point",
+    "address": "ATS Destinations and Tours Pvt Ltd, By- Pass Jn",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:17.382253"
+  },
+  {
+    "place_id": "0x3b05bfafdc71418d:0",
+    "name": "Guruji Motor Driving School",
+    "address": "HVV3+WX8",
+    "category": "Driving school",
+    "phone": "+91 94966 49521",
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:16.063451"
+  },
+  {
+    "place_id": "0x3b05bff71766d639:0",
+    "name": "academiQue",
+    "address": "IIITMK Building",
+    "category": "Education center",
+    "phone": "+91 95628 24914",
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:14.711455"
+  },
+  {
+    "place_id": "0x3b05bf00776b319f:0",
+    "name": "MASTERS STUDY CENTRE",
+    "address": "HVQH+FGX, Kazhakoottam - Kilimanoor Rd",
+    "category": "Education center",
+    "phone": "+91 83019 65235",
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:13.510114"
+  },
+  {
+    "place_id": "0x3b05bfb5b0e00389:0",
+    "name": "Beautque Beautyclinic and ladies Salon",
+    "address": "near al saj Hotel",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:12.105267"
+  },
+  {
+    "place_id": "0x3b05bf93b921fc8d:0",
+    "name": "Hair 2 Face Unisex Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:10.665730"
+  },
+  {
+    "place_id": "0x3b05bf1d9e336633:0",
+    "name": "D'Elegance",
+    "address": "opposite AJ Hospital",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:09.459402"
+  },
+  {
+    "place_id": "0x3b05bf419be7d869:0",
+    "name": "Concept3 Salon And Makeover Studio",
+    "address": "Near Kinfra Park, Menamkulam",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:08.221463"
+  },
+  {
+    "place_id": "0x3b05bf97d027f6c9:0",
+    "name": "Taaj Gold Souk",
+    "address": "Opp. KSRTC Bus Stand, Kaniyapuram",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:06.939556"
+  },
+  {
+    "place_id": "0x3b05bf55e93efd7b:0",
+    "name": "Mobile Bazar",
+    "address": "Thumba near kinfra international apparel parks road before arattuvazhy junction",
+    "category": "Cell phone store",
+    "phone": "+91 75109 99678",
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:05.678727"
+  },
+  {
+    "place_id": "0x3b05bf974fe7d9bb:0",
+    "name": "UNIVERSELL DIGITAL LIFE, KAZHAKUTTOM",
+    "address": "HV8F+9QP",
+    "category": "Cell phone store",
+    "phone": "+91 85901 66055",
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:04.381327"
+  },
+  {
+    "place_id": "0x3b05bf0017577f9b:0",
+    "name": "Pravan Mobiles and Forex",
+    "address": "Junction, opposite Bus Stop",
+    "category": "Shopping mall",
+    "phone": "+91 94472 20531",
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:03.109588"
+  },
+  {
+    "place_id": "0x3b05bffb80a9c1f5:0",
+    "name": "Bake Traders",
+    "address": "",
+    "category": "Baking supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:28:00.636482"
+  },
+  {
+    "place_id": "0x3b05bf01f0e28ffd:0",
+    "name": "RAKHEES MEDICALS",
+    "address": "RAKHEES MEDICALS Menamkulam",
+    "category": "Pharmacy",
+    "phone": "+91 96450 87515",
+    "website": null,
+    "discovered_at": "2026-11-15 09:27:59.403684"
+  },
+  {
+    "place_id": "0x3b05e9e08005761f:0",
+    "name": "Birla Opus Paint Gallery - Pallippuram Building Materials",
+    "address": "730/A Pallippuram Building Materials Pulloormukku Karavaram, Grama Panchayath",
+    "category": "Paint store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:27:57.644398"
+  },
+  {
     "place_id": "0x3b05e865d97ffac5:0",
     "name": "Arafa Textiles & Footwear",
     "address": "",
@@ -8845,158 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 00:55:52.937720"
-  },
-  {
-    "place_id": "0x3b05bf000ef0f2a1:0",
-    "name": "DDRC",
-    "address": "HV8J+247, Thripadappuram Rd",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:55:51.788368"
-  },
-  {
-    "place_id": "0x3b05df3324ab53e3:0",
-    "name": "Eye Hospital",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:46:46.751066"
-  },
-  {
-    "place_id": "0x3b05c53b2a3a54a1:0",
-    "name": "SR Eye Clinic & Opticals",
-    "address": "oppo site, SBI ATM(national paint), Sreyas, Jn",
-    "category": "Optician",
-    "phone": "+91 73563 93735",
-    "website": null,
-    "discovered_at": "2026-11-15 00:46:45.442183"
-  },
-  {
-    "place_id": "0x3ba7f4a6b071faf7:0",
-    "name": "Dr. Sidhartha Sankar Pockanchery Eye Care Clinic",
-    "address": "94X2+FW3",
-    "category": "Ophthalmologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:46:44.125995"
-  },
-  {
-    "place_id": "0x865cf517302eac2b:0",
-    "name": "VenturePoint - Broadway",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:37:16.466401"
-  },
-  {
-    "place_id": "0x865c5fab2730e5c5:0",
-    "name": "Venture X San Antonio River Walk",
-    "address": "",
-    "category": "Office space rental agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:37:15.251013"
-  },
-  {
-    "place_id": "0x865c594263f423dd:0",
-    "name": "Project Cowork - Downtown",
-    "address": "200 Main Plaza",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:37:14.009443"
-  },
-  {
-    "place_id": "0x865c5d8915ca83c5:0",
-    "name": "Craft House Interiors",
-    "address": "Opens 10 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:37:12.774495"
-  },
-  {
-    "place_id": "0x865c60233b40e235:0",
-    "name": "JWI - Jana Ward Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:37:11.553418"
-  },
-  {
-    "place_id": "0x865cf57371cbd817:0",
-    "name": "M Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:37:10.109323"
-  },
-  {
-    "place_id": "0x3b05c970a80098cd:0",
-    "name": "TEA BITE",
-    "address": "VITHURA KALUNGE, opposite Vithura",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:37:08.173623"
-  },
-  {
-    "place_id": "0x3b05db801ac81deb:0",
-    "name": "alis Gold Palace Jewellery Kadakkal",
-    "address": "State Highway 64",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:29:53.745510"
-  },
-  {
-    "place_id": "0x3b05ea4133532eed:0",
-    "name": "New Rajasthan Marbles",
-    "address": "",
-    "category": "Tile store",
-    "phone": "+91 92077 66775",
-    "website": null,
-    "discovered_at": "2026-11-15 00:23:15.764852"
-  },
-  {
-    "place_id": "0x3b05bbaeb3dc07c5:0",
-    "name": "Rayaanz Apparels By Remani Harikrishnan's Boutique",
-    "address": "P. O, Edagramam, Amma Gardens Rd",
-    "category": "Clothing store",
-    "phone": "+91 82816 62883",
-    "website": null,
-    "discovered_at": "2026-11-15 00:15:21.602086"
-  },
-  {
-    "place_id": "0x3b05bb007d5f8eb3:0",
-    "name": "Yaashviclothingnailart",
-    "address": "Amritha Nagar Road",
-    "category": "Clothing store",
-    "phone": "+91 94477 24854",
-    "website": null,
-    "discovered_at": "2026-11-15 00:15:20.419042"
-  },
-  {
-    "place_id": "0x3b05bbe87f7c7d29:0",
-    "name": "PRANA Center for Physiotherapy and Rehabilitation",
-    "address": "Near, Pulikkal lane",
-    "category": "Physical therapy clinic",
-    "phone": "+91 97457 18651",
-    "website": null,
-    "discovered_at": "2026-11-15 00:15:19.126681"
-  },
-  {
-    "place_id": "0x3b05bbce1deeda95:0",
-    "name": "DermaJoint Skin & Orthopaedic Clinic, Poojapura",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:15:17.848458"
   }
 ]
