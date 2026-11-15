@@ -1,5 +1,374 @@
 [
   {
+    "place_id": "0xa240a4d5d702ce75:0",
+    "name": "Avighna Travels",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 94460 22663",
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:51.042713"
+  },
+  {
+    "place_id": "0x808fca56b85c74db:0",
+    "name": "Trip Harvest",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:49.817039"
+  },
+  {
+    "place_id": "0x808e31f2f392d7f5:0",
+    "name": "A to Z Travel Planners",
+    "address": "5710 Cahalan Ave Ste 7B",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:48.628297"
+  },
+  {
+    "place_id": "0x808fcabc41d180df:0",
+    "name": "IACE TRAVEL",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:47.384335"
+  },
+  {
+    "place_id": "0x808fcbef1f7028c9:0",
+    "name": "Tripplus Travel Service Inc.",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:45.412223"
+  },
+  {
+    "place_id": "0x152e02337f1f05b5:0",
+    "name": "USA Travel",
+    "address": "",
+    "category": "Sightseeing tour agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:44.220408"
+  },
+  {
+    "place_id": "0x808fcb3f2abe4df1:0",
+    "name": "Aguila Travel Agency",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:42.839554"
+  },
+  {
+    "place_id": "0x808fb50474d3d55f:0",
+    "name": "Corion Travel",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:41.587641"
+  },
+  {
+    "place_id": "0x808fcbf97296f29b:0",
+    "name": "MercuryTrip",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:40.346960"
+  },
+  {
+    "place_id": "0x808e35a35a7f0e8d:0",
+    "name": "Ty Karges Home | Staging + Interior Design",
+    "address": "580 Charcot Ave",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:39.099026"
+  },
+  {
+    "place_id": "0x808fcb235490dab1:0",
+    "name": "Design and More",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:37.873720"
+  },
+  {
+    "place_id": "0x3b05b1c6ab2d5781:0",
+    "name": "EDGE Tuition Centre",
+    "address": "",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:36.618390"
+  },
+  {
+    "place_id": "0x808fb59733cf51ed:0",
+    "name": "Moonlight Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:35.396177"
+  },
+  {
+    "place_id": "0x808fcabbad9cc505:0",
+    "name": "Las Palmas Mercado Y Carniceria",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:34.175133"
+  },
+  {
+    "place_id": "0x808fcbc5eaa4e4cb:0",
+    "name": "Mi Tiendita",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:32.953108"
+  },
+  {
+    "place_id": "0x808fca9253f0ec71:0",
+    "name": "Walmart Neighborhood Market",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:31.521986"
+  },
+  {
+    "place_id": "0x808fb5adf39a29b7:0",
+    "name": "Marina Food",
+    "address": "",
+    "category": "Chinese supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:29.662834"
+  },
+  {
+    "place_id": "0x808fb504e1c98431:0",
+    "name": "H Mart San Jose De Anza",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:28.452946"
+  },
+  {
+    "place_id": "0x808fcb3fdaf5b25b:0",
+    "name": "Smart & Final Extra!",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:27.249595"
+  },
+  {
+    "place_id": "0x808fb44fabbd3495:0",
+    "name": "Shane Co.",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:25.948963"
+  },
+  {
+    "place_id": "0x808fcaed351f2f85:0",
+    "name": "Diva of La Jolla",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:24.728036"
+  },
+  {
+    "place_id": "0x808fb5948d6a79ed:0",
+    "name": "Priya Jewelers",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:22.884712"
+  },
+  {
+    "place_id": "0x808fb5a959200319:0",
+    "name": "Vardy's Jewelers",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:21.652998"
+  },
+  {
+    "place_id": "0x808fb4700000006f:0",
+    "name": "Elegant Jewelers",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:17.299747"
+  },
+  {
+    "place_id": "0x808fcb38a9c99ef1:0",
+    "name": "Esmeralda's Jewelry",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:16.106376"
+  },
+  {
+    "place_id": "0x808fcb1e58041c69:0",
+    "name": "VALLIANI JEWELERS",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:12.273798"
+  },
+  {
+    "place_id": "0x808e334bec06d995:0",
+    "name": "Navarro's Jewelry",
+    "address": "",
+    "category": "Jeweler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:11.085633"
+  },
+  {
+    "place_id": "0x808fcd48af9ad99d:0",
+    "name": "Plaza Jewelers",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:09.870482"
+  },
+  {
+    "place_id": "0x3b05baa8671c2e73:0",
+    "name": "Karthika Textiles",
+    "address": "F225+C6C, Kanyakumari Highway",
+    "category": "Clothing store",
+    "phone": "+91 81292 96224",
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:08.667035"
+  },
+  {
+    "place_id": "0x3b05baa356d89601:0",
+    "name": "Mens World",
+    "address": "FX5X+3R2 Men's world",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:07.454416"
+  },
+  {
+    "place_id": "0x3b05bb8663bb2a0b:0",
+    "name": "Megamart - Emates, Thiruvananthapuram",
+    "address": "Emates, No 183-4, nearby Indian Oil Petrol Pump",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:06.245978"
+  },
+  {
+    "place_id": "0x808fcbe82c4f1017:0",
+    "name": "Vegan Mob Cloud Kitchen - Vegan BBQ & Soulfood",
+    "address": "949 Ruff Dr",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:06.239141"
+  },
+  {
+    "place_id": "0x3b05bb006ceb1af9:0",
+    "name": "Qazwa biriyani",
+    "address": "FXCJ+788",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:05.001650"
+  },
+  {
+    "place_id": "0x6441922d0c21a0f7:0",
+    "name": "Dr Gouri's Diagnostics",
+    "address": "",
+    "category": "Diagnostic center",
+    "phone": "+91 98354 56630",
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:03.653855"
+  },
+  {
+    "place_id": "0x3b05b8d137240c51:0",
+    "name": "MAMMY DIAGNOSTICS LABORATORY",
+    "address": "HWFG+C6X, Opposite DM Hospital",
+    "category": "Diagnostic center",
+    "phone": "+91 94471 45161",
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:01.807336"
+  },
+  {
+    "place_id": "0x3b05b96b3da11fb9:0",
+    "name": "Success tuition centre",
+    "address": "Kurisadi, Junction",
+    "category": "Tutoring service",
+    "phone": "+91 98479 10322",
+    "website": null,
+    "discovered_at": "2026-11-15 08:38:00.391522"
+  },
+  {
+    "place_id": "0x3b05b9a114d2aa89:0",
+    "name": "Online IGCSE Tuition",
+    "address": "TC-19, Krishna Nagar 8th lane, 2446-5, Krishna Nagar Rd",
+    "category": "Private tutor",
+    "phone": "+91 96337 33034",
+    "website": null,
+    "discovered_at": "2026-11-15 08:37:58.966996"
+  },
+  {
+    "place_id": "0x3b05bb55363eb3a9:0",
+    "name": "MATHS TUITION",
+    "address": "ACHUVEEDU VRA 91 A MANNAMOOLA, PO",
+    "category": "Coaching center",
+    "phone": "+91 94967 47840",
+    "website": null,
+    "discovered_at": "2026-11-15 08:37:57.786635"
+  },
+  {
+    "place_id": "0x3b05b97eab282287:0",
+    "name": "NASS Academy, Nalanchira",
+    "address": "MGRA 38",
+    "category": "Educational institution",
+    "phone": "+91 77366 65222",
+    "website": null,
+    "discovered_at": "2026-11-15 08:37:56.579173"
+  },
+  {
+    "place_id": "0x3b05b9b3522e0ad9:0",
+    "name": "Remya's Maths Corner",
+    "address": "Ansia, 1st floor, near Sandwana Hospital",
+    "category": "Education center",
+    "phone": "+91 98461 70075",
+    "website": null,
+    "discovered_at": "2026-11-15 08:37:55.316436"
+  },
+  {
+    "place_id": "0x3b05b9231e417979:0",
+    "name": "Peak center for science",
+    "address": "First floor, TC 13/1761",
+    "category": "Educational institution",
+    "phone": "+91 82815 10050",
+    "website": null,
+    "discovered_at": "2026-11-15 08:37:54.120169"
+  },
+  {
     "place_id": "0x3b05bb0010cf84dd:0",
     "name": "Loaded",
     "address": "",
@@ -8629,374 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 23:28:24.856730"
-  },
-  {
-    "place_id": "0x3b05ab7dd9a5de53:0",
-    "name": "Delta Diagnostic Laboratory",
-    "address": "+91 94433 12433",
-    "category": "Open 24 hours",
-    "phone": "+91 94433 12433",
-    "website": null,
-    "discovered_at": "2026-11-14 23:28:23.630377"
-  },
-  {
-    "place_id": "0x3a52504608691d8d:0",
-    "name": "Dr. Nisha's Vedic Remedies",
-    "address": "5 AM",
-    "category": "Closes soon",
-    "phone": "+91 98956 54470",
-    "website": null,
-    "discovered_at": "2026-11-14 23:28:22.399222"
-  },
-  {
-    "place_id": "0x4c7c2068b2fd6d6b:0",
-    "name": "Scava Interiors",
-    "address": "Opens 9:30 AM Mon",
-    "category": "Closed",
-    "phone": "+91 96333 37199",
-    "website": null,
-    "discovered_at": "2026-11-14 23:28:21.135314"
-  },
-  {
-    "place_id": "0x890f558f588b96af:0",
-    "name": "MEDAYIL INTERIORS PVT LTD",
-    "address": "Opens 9:30 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 23:28:19.858596"
-  },
-  {
-    "place_id": "0xada18925cb02c277:0",
-    "name": "Moses Construction and Interior",
-    "address": "Opens 12 AM Mon",
-    "category": "Closed",
-    "phone": "+91 85928 35881",
-    "website": null,
-    "discovered_at": "2026-11-14 23:28:18.637282"
-  },
-  {
-    "place_id": "0x3b05bbb7a046bc79:0",
-    "name": "Sadguru Ayurveda traditional massage center",
-    "address": "",
-    "category": "Massage therapist",
-    "phone": "+91 99472 45181",
-    "website": null,
-    "discovered_at": "2026-11-14 23:28:17.142567"
-  },
-  {
-    "place_id": "0x3b05b72727b33011:0",
-    "name": "VAYALVAARAM CAR SPA",
-    "address": "Shope No1, Vayalvaram Auto Spa, Aryanad -Vellanad Rd, opposite Rd Vehicle Nedumangad",
-    "category": "Car wash",
-    "phone": "+91 80755 40986",
-    "website": null,
-    "discovered_at": "2026-11-14 23:28:15.638773"
-  },
-  {
-    "place_id": "0x3b05c7e7de2c0159:0",
-    "name": "Medicals kollamkavu",
-    "address": "Opens 8 AM",
-    "category": "Closed",
-    "phone": "+91 96561 73479",
-    "website": null,
-    "discovered_at": "2026-11-14 23:28:14.365158"
-  },
-  {
-    "place_id": "0x3b05e96a9fe3b085:0",
-    "name": "INSIGHT PSC COACHING CENTRE",
-    "address": "MRV9+Q76, Parvathipuram Temple Rd",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 23:21:20.971506"
-  },
-  {
-    "place_id": "0x3b05bfa1408ccfd1:0",
-    "name": "Santhigiri Ayurveda & Siddha Vaidyasala with She- Clinic",
-    "address": "Udaygiri Junction, Chempazhanthy P.O",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 23:06:50.826324"
-  },
-  {
-    "place_id": "0x3b05bec771763869:0",
-    "name": "Garuda Driving School Training Ground",
-    "address": "Kurisadi Road, Manvila, Sreekariyam - Kazhakuttam Rd",
-    "category": "Motorcycle driving school",
-    "phone": "+91 94467 50268",
-    "website": null,
-    "discovered_at": "2026-11-14 23:00:06.620234"
-  },
-  {
-    "place_id": "0x3b05bf8155870631:0",
-    "name": "Lemans Driving And Finishing School",
-    "address": "near Lulu Mall",
-    "category": "Driving school",
-    "phone": "+91 97459 88880",
-    "website": null,
-    "discovered_at": "2026-11-14 23:00:05.358894"
-  },
-  {
-    "place_id": "0x3b05bb6350143adf:0",
-    "name": "MOSES MDS",
-    "address": "Pottakuzhy, Gowreesapattom Rd",
-    "category": "Driving school",
-    "phone": "+91 62385 08887",
-    "website": null,
-    "discovered_at": "2026-11-14 23:00:04.180875"
-  },
-  {
-    "place_id": "0x3b05bfdbd3580873:0",
-    "name": "Orin Heavy and Light Motor Driving School",
-    "address": "Kazhakoottam - Thaikod Rd",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 23:00:02.950734"
-  },
-  {
-    "place_id": "0x3b05bed861b986db:0",
-    "name": "Chandrika Motor Driving School",
-    "address": "",
-    "category": "Drivers license training school",
-    "phone": "+91 98479 42544",
-    "website": null,
-    "discovered_at": "2026-11-14 23:00:01.773322"
-  },
-  {
-    "place_id": "0x3b05bc0c694750af:0",
-    "name": "MURALI DRIVING SCHOOL",
-    "address": "Maharajas, po, near sabine hospital",
-    "category": "Driving school",
-    "phone": "+91 90487 37707",
-    "website": null,
-    "discovered_at": "2026-11-14 23:00:00.404407"
-  },
-  {
-    "place_id": "0x3b05bd6a305feaeb:0",
-    "name": "Chroma Makeover Studio",
-    "address": "Puliyarthala, Sarang Complex, Ulloor Akkulam Road, Pulayanarkotta",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:59:59.102749"
-  },
-  {
-    "place_id": "0x3b05b95794b53361:0",
-    "name": "SUN SURGICAL & PHARMACEUTICALS",
-    "address": "",
-    "category": "Surgical supply store",
-    "phone": "+91 85903 21008",
-    "website": null,
-    "discovered_at": "2026-11-14 22:59:57.891056"
-  },
-  {
-    "place_id": "0x87ee99c4a3a2418d:0",
-    "name": "Gravitate Coworking (East Village)",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:26.370446"
-  },
-  {
-    "place_id": "0x88e7d531a0459d03:0",
-    "name": "Workspace Collective at Fort King",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:25.136880"
-  },
-  {
-    "place_id": "0x87ee995acf59ac49:0",
-    "name": "Elevator Co-Warehousing",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:23.780795"
-  },
-  {
-    "place_id": "0x87ee9ed454fdb1fd:0",
-    "name": "Kathleen Stahl Travel Services Inc.",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:19.638220"
-  },
-  {
-    "place_id": "0x87ee9e0cb8177c81:0",
-    "name": "Agora Events Center",
-    "address": "",
-    "category": "Event venue",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:18.314085"
-  },
-  {
-    "place_id": "0x87ee93c92599f93b:0",
-    "name": "Moments Event Planning",
-    "address": "203 Cedarwood Ct SW",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:17.009547"
-  },
-  {
-    "place_id": "0x87ee937e58d004a5:0",
-    "name": "Enchanted Entertainment LLC",
-    "address": "305 17th Ave SW",
-    "category": "DJ service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:15.703552"
-  },
-  {
-    "place_id": "0x87ee991d742427f9:0",
-    "name": "Bash Events & Catering",
-    "address": "",
-    "category": "Wedding venue",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:14.487435"
-  },
-  {
-    "place_id": "0x87ee9bcaf117fd49:0",
-    "name": "The Bank at The Little Book",
-    "address": "",
-    "category": "Event venue",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:13.184577"
-  },
-  {
-    "place_id": "0x87ee9948a66a357b:0",
-    "name": "The Darlin' Private Beauty Lounge & Micro Event Space",
-    "address": "",
-    "category": "Event venue",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:11.903459"
-  },
-  {
-    "place_id": "0x87ee999de7662239:0",
-    "name": "Chinh Nguyen Realtor",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:10.659374"
-  },
-  {
-    "place_id": "0x87ee99f60e459f1d:0",
-    "name": "Tisha Does Hair at Van Hair Collective",
-    "address": "",
-    "category": "Hairdresser",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:09.227598"
-  },
-  {
-    "place_id": "0x87ee99dcdcb63845:0",
-    "name": "The Hair Space & Gift Botique",
-    "address": "506 E 6th St #300",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:07.916439"
-  },
-  {
-    "place_id": "0x864dd9116c632aa1:0",
-    "name": "Rooms To Go",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:06.668895"
-  },
-  {
-    "place_id": "0x864e72f14da0106b:0",
-    "name": "Arhaus",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:05.451047"
-  },
-  {
-    "place_id": "0x864e0d4964ee3b1d:0",
-    "name": "Simple Things Furniture Company",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:04.005991"
-  },
-  {
-    "place_id": "0x87ee9e03dafaad99:0",
-    "name": "Slumberland Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:02.755609"
-  },
-  {
-    "place_id": "0x87ee9928f9759e77:0",
-    "name": "Silver Fox",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:01.403165"
-  },
-  {
-    "place_id": "0x87ee996df19e817b:0",
-    "name": "Shops In Stuff",
-    "address": "",
-    "category": "Thrift store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:51:00.162933"
-  },
-  {
-    "place_id": "0x87ee99ae75faaaab:0",
-    "name": "Janes - Family Shop",
-    "address": "",
-    "category": "Children's store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:58.919035"
-  },
-  {
-    "place_id": "0x87ee99018171e7b3:0",
-    "name": "Local Bites",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:57.634335"
-  },
-  {
-    "place_id": "0x87ee99d8504b5b5f:0",
-    "name": "Last Call Kitchen",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:56.306398"
-  },
-  {
-    "place_id": "0x87cbb23b2a10e979:0",
-    "name": "Eastside Animal Health Center",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:55.068226"
   }
 ]
