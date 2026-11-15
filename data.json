@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05af0058f2e585:0",
+    "name": "Mobilezone",
+    "address": "92WF+4JM",
+    "category": "Mobile phone repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:29:16.564798"
+  },
+  {
+    "place_id": "0x3b05b9f5f6d81a65:0",
+    "name": "Fathima Store",
+    "address": "133 Karavalavu Nedumangad Muncipality",
+    "category": "Grocery store",
+    "phone": "+91 77368 34307",
+    "website": null,
+    "discovered_at": "2026-11-15 19:29:14.685103"
+  },
+  {
     "place_id": "0x3b05b9e83f376347:0",
     "name": "Shakthi Bakery",
     "address": "J253+55C, Nedumangad Karipoor Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:13:33.872261"
-  },
-  {
-    "place_id": "0x864e7232beccd609:0",
-    "name": "Pop's Gym",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:32.662555"
-  },
-  {
-    "place_id": "0x808e3390450b270b:0",
-    "name": "Anytime Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:31.468576"
   }
 ]
