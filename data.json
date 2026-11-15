@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05c116b098a301:0",
+    "name": "NISWAS COMMUNITY PHARMACY",
+    "address": "MWH5+7R5",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:24:52.864885"
+  },
+  {
+    "place_id": "0x3b05c100285cd99f:0",
+    "name": "JAN AUSHADHI MEDICAL STORE",
+    "address": "MWQ4+G99",
+    "category": "Medical supply store",
+    "phone": "+91 90742 13707",
+    "website": null,
+    "discovered_at": "2026-11-15 23:24:51.684266"
+  },
+  {
+    "place_id": "0x3b05c693fffffffd:0",
+    "name": "Jan Aushadhi Store",
+    "address": "IX/498,Kottaram Vilakam,Venjaramoodu, Thiruvanthapuram",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:24:50.477707"
+  },
+  {
+    "place_id": "0x3b05c1500cccc307:0",
+    "name": "Origin Pharmaceuticals",
+    "address": "Origin House, Sheela Teacher Road",
+    "category": "Manufacturer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:24:49.202242"
+  },
+  {
+    "place_id": "0x3b05c1a34ae96319:0",
+    "name": "SAHAYA pharmacy",
+    "address": "Opens 8:30 AM",
+    "category": "Closed",
+    "phone": "+91 70255 12025",
+    "website": null,
+    "discovered_at": "2026-11-15 23:24:47.891903"
+  },
+  {
+    "place_id": "0x3b05c11420043ef3:0",
+    "name": "Deepu Sankar",
+    "address": "MV9R+F8H",
+    "category": "Pharmacy",
+    "phone": "+91 86064 08438",
+    "website": null,
+    "discovered_at": "2026-11-15 23:24:46.645913"
+  },
+  {
+    "place_id": "0x3b05c7207eedf85b:0",
+    "name": "Saleena medicals",
+    "address": "MWHR+5W2, Vembayam Thalayil Thembamoodu Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:24:45.439674"
+  },
+  {
+    "place_id": "0x4ac7f980ab8951ef:0",
+    "name": "Dr. Reshmi R",
+    "address": "TC.82, URRA 129A, 4832/1, Uppalam Rd",
+    "category": "Dermatologist",
+    "phone": "+91 95672 99219",
+    "website": null,
+    "discovered_at": "2026-11-15 23:24:44.101194"
+  },
+  {
     "place_id": "0x3b05eb9c45535607:0",
     "name": "Kalyan Wedding Studio",
     "address": "Chirayinkeezhu Kaniyapuram Rd",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:55:52.660551"
-  },
-  {
-    "place_id": "0x865c5f83505f244b:0",
-    "name": "Voodoo Doughnut",
-    "address": "",
-    "category": "Donut shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:51.440341"
-  },
-  {
-    "place_id": "0x865c5f54f0b8001d:0",
-    "name": "La Boulangerie",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:49.150416"
-  },
-  {
-    "place_id": "0x865cf5cb20a37089:0",
-    "name": "Starbucks Coffee Company",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:47.966116"
-  },
-  {
-    "place_id": "0x865c58bb11da3409:0",
-    "name": "Halcyon Southtown",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:46.602998"
-  },
-  {
-    "place_id": "0x865c59ff0db50779:0",
-    "name": "Kulture kafe",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:45.433813"
-  },
-  {
-    "place_id": "0x865c58ab9e6b1713:0",
-    "name": "La Villita Cafe",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:44.167935"
-  },
-  {
-    "place_id": "0x865c5f8afc00b66f:0",
-    "name": "kapej",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:41.747328"
-  },
-  {
-    "place_id": "0x865cf711324dd13f:0",
-    "name": "Countdown Cafe",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:40.358590"
   }
 ]
