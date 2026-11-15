@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05abba0b6a48b3:0",
+    "name": "S AND S ENTERPRISES",
+    "address": "45/7",
+    "category": "Supermarket",
+    "phone": "+91 77080 21751",
+    "website": null,
+    "discovered_at": "2026-11-15 19:43:53.425309"
+  },
+  {
+    "place_id": "0x3b05abf6b6a18a35:0",
+    "name": "5 STAR THATTUKKADA",
+    "address": "5 Star Thattukkada Mankuzhi, Urambu Road",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:43:52.029951"
+  },
+  {
+    "place_id": "0x3b05b5a7174305a5:0",
+    "name": "Devunanda upholstery and carttian",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": "+91 81292 47426",
+    "website": null,
+    "discovered_at": "2026-11-15 19:43:50.813109"
+  },
+  {
+    "place_id": "0x3b05bb8ed6dfa8cb:0",
+    "name": "HERMIT DESIGN STUDIO",
+    "address": "VP.15/416, opposite St.Xavier's English medium LP School",
+    "category": "Architecture firm",
+    "phone": "+91 96330 28640",
+    "website": null,
+    "discovered_at": "2026-11-15 19:43:46.925826"
+  },
+  {
+    "place_id": "0x3b05b1cb8ecd9967:0",
+    "name": "Home and Decor Interior",
+    "address": "Pottayil, malayinkil, RS residing",
+    "category": "Interior Decorator",
+    "phone": "+91 99953 88233",
+    "website": null,
+    "discovered_at": "2026-11-15 19:43:45.777401"
+  },
+  {
+    "place_id": "0x3b05b13aa74b1fab:0",
+    "name": "Zenith Entrance Coaching Centre",
+    "address": "Vizhinjam - Balaramapuram - Kattakkada Rd",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:43:44.607594"
+  },
+  {
+    "place_id": "0x3b05b3441e4e4f95:0",
+    "name": "Manthra Tuition Centre",
+    "address": "opposite petrol pump",
+    "category": "Educational institution",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:43:43.431620"
+  },
+  {
+    "place_id": "0x3b05b141df494ca7:0",
+    "name": "Gandhi Psc Coaching Center",
+    "address": "G35M+F94 near, near new KSEB",
+    "category": "Coaching center",
+    "phone": "+91 98473 46671",
+    "website": null,
+    "discovered_at": "2026-11-15 19:43:41.432474"
+  },
+  {
     "place_id": "0x3b05b30c1fbabdb9:0",
     "name": "Heavenly Threads",
     "address": "Heavenly Threads",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:14:06.573674"
-  },
-  {
-    "place_id": "0x3b05bb21c4e21acf:0",
-    "name": "Global India Techno Hub Institute Trivandrum",
-    "address": "III floor, Karimpanal arcade",
-    "category": "Training center",
-    "phone": "+91 90722 33100",
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:03.916658"
-  },
-  {
-    "place_id": "0x808e3500c0c736e9:0",
-    "name": "Think Zone Campbell Learning Center",
-    "address": "",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:02.685488"
-  },
-  {
-    "place_id": "0x808fb0e58c05aa1d:0",
-    "name": "AJ Tutoring",
-    "address": "",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:00.511542"
-  },
-  {
-    "place_id": "0x3b05bb7a0db2491f:0",
-    "name": "Global Academy",
-    "address": "SS Kovil Rd, near Ayappan kovil",
-    "category": "Education center",
-    "phone": "+91 98473 48882",
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:58.156977"
-  },
-  {
-    "place_id": "0x3b05bb212f084a2d:0",
-    "name": "Budget Reading Room Trivandrum",
-    "address": "First Floor, Thinkon Towers, Opp: Ayurveda College Pay Ward, Panamood Lane",
-    "category": "Studying center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:56.784511"
-  },
-  {
-    "place_id": "0x3b05ba2459a96091:0",
-    "name": "REACH",
-    "address": "KSRTC Complex, Ground Floor, Transport Bhavan",
-    "category": "Training center",
-    "phone": "+91 94960 15051",
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:54.526406"
-  },
-  {
-    "place_id": "0x808fb6d7ad502541:0",
-    "name": "The Tutoring Center",
-    "address": "",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:52.143733"
-  },
-  {
-    "place_id": "0x808e33a86855f091:0",
-    "name": "Best in Class Education Center",
-    "address": "",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:50.849687"
   }
 ]
