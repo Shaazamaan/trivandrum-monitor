@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b05bbbe8a20768f:0",
+    "name": "KIMSHEALTH Medical Centre",
+    "address": "",
+    "category": "Medical Center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 14:22:35.052902"
+  },
+  {
+    "place_id": "0x3b05bb09631df059:0",
+    "name": "Asha Medicals",
+    "address": "FWHW+JW3",
+    "category": "Pharmacy",
+    "phone": "+91 94473 09527",
+    "website": null,
+    "discovered_at": "2026-11-15 14:22:33.807867"
+  },
+  {
+    "place_id": "0x3b05bb1ea139bd77:0",
+    "name": "Dev Pharma",
+    "address": "FX85+MX2 dev pharma",
+    "category": "Pharmacy",
+    "phone": "+91 98959 60306",
+    "website": null,
+    "discovered_at": "2026-11-15 14:22:32.343337"
+  },
+  {
+    "place_id": "0x3b05bb11434d2761:0",
+    "name": "K M Medicals",
+    "address": "kamalesawaram, po",
+    "category": "Pharmacy",
+    "phone": "+91 99959 53259",
+    "website": null,
+    "discovered_at": "2026-11-15 14:22:31.076708"
+  },
+  {
+    "place_id": "0x3b05bb204f951207:0",
+    "name": "AMBADY MEDICALS",
+    "address": "SHOP NO.1, DRUGS, opposite DOMESTIC AIRPORT",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 14:22:29.833075"
+  },
+  {
+    "place_id": "0x3b05bbea496fe4bd:0",
+    "name": "Aswas community pharmacy",
+    "address": "Aswas community pharmacy",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 14:22:28.579040"
+  },
+  {
+    "place_id": "0x3b05bb1bd9a7b693:0",
+    "name": "Alpha Homeo Pharmacy",
+    "address": "FX84+QJF",
+    "category": "Homeopathic pharmacy",
+    "phone": "+91 95444 28997",
+    "website": null,
+    "discovered_at": "2026-11-15 14:22:27.253246"
+  },
+  {
+    "place_id": "0x3b05bb70d3beff59:0",
+    "name": "Kottakkal Ayurvedic Authorized Dealer",
+    "address": "FWFX+F58",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 14:22:25.927223"
+  },
+  {
+    "place_id": "0x3b05bb04e4c2931b:0",
+    "name": "Santhwanam Medicals",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 62821 06497",
+    "website": null,
+    "discovered_at": "2026-11-15 14:22:24.658205"
+  },
+  {
     "place_id": "0x872b65bdbe20a00d:0",
     "name": "Posh North Boutique",
     "address": "",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 04:45:43.990223"
-  },
-  {
-    "place_id": "0x880fd2b8bae0f229:0",
-    "name": "Interior Define",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:45:42.765551"
-  },
-  {
-    "place_id": "0x3b05bba1458901c1:0",
-    "name": "Sri Gayathry Mobile & Electronics",
-    "address": "T.C. 28/1569-9, Kamal Building",
-    "category": "Cell phone accessory store",
-    "phone": "+91 98956 61862",
-    "website": null,
-    "discovered_at": "2026-11-15 04:45:41.473376"
-  },
-  {
-    "place_id": "0x872b134300e59ceb:0",
-    "name": "Mon Cherie Boutique Quinceañeras & Gala",
-    "address": "",
-    "category": "Dress store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:35:49.762792"
-  },
-  {
-    "place_id": "0x872b12c1b31fad31:0",
-    "name": "Frances",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:35:47.331282"
-  },
-  {
-    "place_id": "0x872b0d6c0e8f02a5:0",
-    "name": "EVEREVE",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:35:46.096697"
-  },
-  {
-    "place_id": "0x872b0cf0e816cc9d:0",
-    "name": "Alixandra Collections",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:35:43.077626"
-  },
-  {
-    "place_id": "0x872b13310f83b82f:0",
-    "name": "The Styles Shop",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:35:41.820855"
-  },
-  {
-    "place_id": "0x872b13ec4aa65a5b:0",
-    "name": "Cindy's Dove & Sparrow",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:35:39.637549"
-  },
-  {
-    "place_id": "0x872b0cf12061434b:0",
-    "name": "Alixandra Blue",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:35:37.192165"
   }
 ]
