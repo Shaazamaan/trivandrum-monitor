@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05df3324ab53e3:0",
+    "name": "Eye Hospital",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 00:46:46.751066"
+  },
+  {
+    "place_id": "0x3b05c53b2a3a54a1:0",
+    "name": "SR Eye Clinic & Opticals",
+    "address": "oppo site, SBI ATM(national paint), Sreyas, Jn",
+    "category": "Optician",
+    "phone": "+91 73563 93735",
+    "website": null,
+    "discovered_at": "2026-11-15 00:46:45.442183"
+  },
+  {
+    "place_id": "0x3ba7f4a6b071faf7:0",
+    "name": "Dr. Sidhartha Sankar Pockanchery Eye Care Clinic",
+    "address": "94X2+FW3",
+    "category": "Ophthalmologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 00:46:44.125995"
+  },
+  {
     "place_id": "0x865cf517302eac2b:0",
     "name": "VenturePoint - Broadway",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 14:14:38.518203"
-  },
-  {
-    "place_id": "0x87ee991eed92dd75:0",
-    "name": "Gateway Dental Group",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 14:14:37.193824"
-  },
-  {
-    "place_id": "0x87ee9908aa1f7bb7:0",
-    "name": "Capital View Dentistry",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 14:14:35.933898"
-  },
-  {
-    "place_id": "0x87eea2bead94de5b:0",
-    "name": "Southside Dental Clinic",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 14:14:34.569010"
   }
 ]
