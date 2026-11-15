@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c1006f3cfd71:0",
+    "name": "Hajj and Umrah",
+    "address": "JV9W+CVR",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:20:47.726994"
+  },
+  {
+    "place_id": "0x3b05ab47d0e7d1f3:0",
+    "name": "Nyra events",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:20:46.192266"
+  },
+  {
     "place_id": "0x3b05b1862131cb81:0",
     "name": "Emmanuel Travels, Trivandrum",
     "address": "G32M+VX7",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 22:50:53.830687"
-  },
-  {
-    "place_id": "0x87ee7077a4845d7b:0",
-    "name": "All Pets Animal Hospital",
-    "address": "",
-    "category": "Animal hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:52.598260"
-  },
-  {
-    "place_id": "0x87ee9c3676659bd9:0",
-    "name": "Animal Medical Clinic: Heyer M H DVM",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:51.369375"
   }
 ]
