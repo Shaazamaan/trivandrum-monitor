@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bba680ff225f:0",
+    "name": "Southloom Corporate Office & Online Division",
+    "address": "First Floor, Meenakshi Tower Kowdiar, Kuravankonam - Maruthoor Rd, near Malabar Bites, opposite Juice Barrel",
+    "category": "Clothing store",
+    "phone": "+91 81380 77377",
+    "website": null,
+    "discovered_at": "2026-11-15 04:13:29.712585"
+  },
+  {
+    "place_id": "0x3b05bbe7aae883f5:0",
+    "name": "Vegas Beautycare and spa ( Ladies & Kids )",
+    "address": "Near Arya Central School Lane",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:13:28.480236"
+  },
+  {
+    "place_id": "0x3b05bb8cbb583789:0",
+    "name": "Sobha Restoplus",
+    "address": "Museum - Nanthencode Rd",
+    "category": "Mattress store",
+    "phone": "+91 94967 50301",
+    "website": null,
+    "discovered_at": "2026-11-15 04:13:27.295646"
+  },
+  {
+    "place_id": "0x3b05bb9a9b15cf1d:0",
+    "name": "Central phones",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": "+91 99612 34518",
+    "website": null,
+    "discovered_at": "2026-11-15 04:13:26.027335"
+  },
+  {
     "place_id": "0x3b05bbaf6a5db2b7:0",
     "name": "Orange Tours And Travels",
     "address": "Junction",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 17:18:43.065242"
-  },
-  {
-    "place_id": "0x89b1df303796f755:0",
-    "name": "Bon Secours Southern Virginia Regional Medical Center Rehabilitation",
-    "address": "",
-    "category": "Rehabilitation center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 17:18:41.733931"
-  },
-  {
-    "place_id": "0x89b22b18a19d24c3:0",
-    "name": "Amelia Physical Therapy",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 17:18:40.572349"
-  },
-  {
-    "place_id": "0x89b1a62ebf78163f:0",
-    "name": "Tidewater Physical Therapy, Inc: Colonial Heights Clinic",
-    "address": "",
-    "category": "Physical therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 17:18:39.421063"
-  },
-  {
-    "place_id": "0x89b2d104777f40af:0",
-    "name": "Aesthetics by RidgeView Dermatology",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 17:18:37.927503"
   }
 ]
