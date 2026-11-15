@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05aeca7ce7c75d:0",
+    "name": "Amirta Medicals",
+    "address": "936H+CGG, Poovar - Neyyatinkara Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:07:08.680259"
+  },
+  {
+    "place_id": "0x3b05a5947cfb13c1:0",
+    "name": "U Need Real Estate",
+    "address": "Ambedkar Statue, Jn, Vizhinjam Harbour Rd",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:07:07.499898"
+  },
+  {
     "place_id": "0x3b05a52697344ce5:0",
     "name": "Mr. Juice corner",
     "address": "9XRP+7CX, Vizhinjam Harbour Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 22:50:48.524602"
-  },
-  {
-    "place_id": "0x87eea2a399eefb17:0",
-    "name": "Aspen Dental - Des Moines, IA - SE 14th St",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:47.078040"
-  },
-  {
-    "place_id": "0x87ee99ae70ab7743:0",
-    "name": "Dental Associates",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:45.875111"
   }
 ]
