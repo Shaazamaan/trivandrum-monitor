@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x3b05bb8228a37ff5:0",
+    "name": "Minnaa's Boutique",
+    "address": "CRA- 112, chadiyara, junction, Grandhasala Rd",
+    "category": "Boutique",
+    "phone": "+91 97462 61249",
+    "website": null,
+    "discovered_at": "2026-11-15 18:33:32.371976"
+  },
+  {
+    "place_id": "0x3b05bb2c7b4619f7:0",
+    "name": "Fruzo - Fresh mode on",
+    "address": "Tc no. 29, St. Joseph, press building, 2668(1, School, opp. Cotton Hill",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 18:33:31.154022"
+  },
+  {
+    "place_id": "0x3b05bb9fc28012dd:0",
+    "name": "Vazhuthacaud Junction",
+    "address": "GX25+9HV, All India Radio Rd",
+    "category": "Off roading area",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 18:33:29.963755"
+  },
+  {
+    "place_id": "0x3b05bb0001fdd1cf:0",
+    "name": "Malabar Cafe",
+    "address": "GX24+P2Q, Vazhuthacaud Bakery Jct Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 18:33:28.737707"
+  },
+  {
+    "place_id": "0x3b05bb96dd889c65:0",
+    "name": "Ayush Ayurvedic Wellness Centre",
+    "address": "+91 91425 94296",
+    "category": "Open 24 hours",
+    "phone": "+91 91425 94296",
+    "website": null,
+    "discovered_at": "2026-11-15 18:33:26.725952"
+  },
+  {
+    "place_id": "0x3b05ba49e3150aaf:0",
+    "name": "DDRC Agilus Diagnostics, Edapazhanji",
+    "address": "GX3C+R9G",
+    "category": "Laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 18:33:25.444561"
+  },
+  {
+    "place_id": "0x3b05bbd4bd8b956d:0",
+    "name": "Mansions Sharada Madhavam",
+    "address": "KGWS50, Golf Links Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 18:33:24.175435"
+  },
+  {
+    "place_id": "0x3b05bbc5695793b9:0",
+    "name": "Swifcon",
+    "address": "P.O, TC 24/330, ARA-42, Ambalamukku Rd",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 18:33:22.864921"
+  },
+  {
+    "place_id": "0x3b05bbd18ee7cb45:0",
+    "name": "New Grand Bazaar",
+    "address": "Simis, Keston Rd",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 18:33:21.641408"
+  },
+  {
+    "place_id": "0x3b05bb63e7228597:0",
+    "name": "Aswas Community Pharmacy",
+    "address": "GX7C+2JR",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 18:33:20.357535"
+  },
+  {
     "place_id": "0x3b05bb007b81cc95:0",
     "name": "Sign laban Kuravankonam",
     "address": "",
@@ -8908,95 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:11:16.001345"
-  },
-  {
-    "place_id": "0x3b05bb0a1c7725a3:0",
-    "name": "Chemmanur Opticals",
-    "address": "Karimpanal Arcade",
-    "category": "Optician",
-    "phone": "+91 75111 78979",
-    "website": null,
-    "discovered_at": "2026-11-15 10:11:14.604345"
-  },
-  {
-    "place_id": "0x8640a365cba7594f:0",
-    "name": "East Houston Eye Center",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:11:13.396947"
-  },
-  {
-    "place_id": "0x808e345a6aa92e07:0",
-    "name": "EyeC Optometry",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:11:12.153574"
-  },
-  {
-    "place_id": "0x808fca133885d48b:0",
-    "name": "20/20 Eye Club Optometry",
-    "address": "",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:11:10.887682"
-  },
-  {
-    "place_id": "0x808fbe2d1dc21b59:0",
-    "name": "East Bay Vision Center Optometry",
-    "address": "",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:11:09.574762"
-  },
-  {
-    "place_id": "0x808e356aae507db5:0",
-    "name": "Atharvayur",
-    "address": "",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:11:08.062466"
-  },
-  {
-    "place_id": "0x80857e68428407cb:0",
-    "name": "East Bay Ayurveda",
-    "address": "",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:11:06.808243"
-  },
-  {
-    "place_id": "0x808fc64d1098ccd5:0",
-    "name": "Ayu Care Clinic",
-    "address": "Opens 9:30 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:11:05.527804"
-  },
-  {
-    "place_id": "0x808feeb670c66c7d:0",
-    "name": "Ayurway",
-    "address": "Opens 10:30 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:11:04.233286"
-  },
-  {
-    "place_id": "0x808e2d882544d323:0",
-    "name": "Ability Outpatient Physical Therapy Clinic",
-    "address": "",
-    "category": "Physical therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:11:03.000908"
   }
 ]
