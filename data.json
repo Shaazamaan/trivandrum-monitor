@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05e9f62ffb7577:0",
+    "name": "Bharat Bakers",
+    "address": "MRV6+989, G.H.S.S",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:39:04.480470"
+  },
+  {
+    "place_id": "0x3b05ef360bef4b2f:0",
+    "name": "Mission Maths Tuition Centre Varkala",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": "+91 89219 84644",
+    "website": null,
+    "discovered_at": "2026-11-15 10:39:03.250776"
+  },
+  {
     "place_id": "0x3b05bffc0e2557db:0",
     "name": "GANGOTHRI Electronics",
     "address": "Al Amana Gold and diamonds, Market Rd, near SREEKARIYAM",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 01:45:29.831094"
-  },
-  {
-    "place_id": "0x87ee9d394c3fe60b:0",
-    "name": "Wax and Relax Spa",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:28.476228"
-  },
-  {
-    "place_id": "0x87ee9d5def0a914b:0",
-    "name": "Serenity Spa & Facials Des Moines",
-    "address": "",
-    "category": "Facial spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:27.208127"
   }
 ]
