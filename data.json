@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3ba7f4a6b74d3acd:0",
+    "name": "Pockanchery Eye Care Clinic",
+    "address": "Valapad Beach Road",
+    "category": "Eye care center",
+    "phone": "+91 95670 77650",
+    "website": null,
+    "discovered_at": "2026-11-15 03:36:38.980205"
+  },
+  {
     "place_id": "0x3b05c10052e4998d:0",
     "name": "Royal Residency",
     "address": "MWF5+P5W",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 16:54:02.891830"
-  },
-  {
-    "place_id": "0x865c61af8d3a8f15:0",
-    "name": "210 Go Offices - Coworking, Virtual Offices & Executive Suites",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:54:01.626433"
   }
 ]
