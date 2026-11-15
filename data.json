@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05c10073c248e7:0",
+    "name": "Brothers Kitchen",
+    "address": "JV8W+XXG",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:58:55.550772"
+  },
+  {
+    "place_id": "0x3b05ab00423ebbcd:0",
+    "name": "Greentrendz Interiors",
+    "address": "849H+8M7, Parassala - Kollemcode - Poovar - Kovalam Rd",
+    "category": "Interior architect office",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:58:54.293410"
+  },
+  {
+    "place_id": "0x3b05adae927ac5c3:0",
+    "name": "V CONCEPT KITCHEN UNIT & INTERIOR",
+    "address": "Karakkonam, road, near SNDP",
+    "category": "Interior Decorator",
+    "phone": "+91 83003 52371",
+    "website": null,
+    "discovered_at": "2026-11-15 13:58:52.995562"
+  },
+  {
     "place_id": "0x3b05b700362e5a5d:0",
     "name": "D & F Company",
     "address": "Nedumangad Karipoor Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 04:34:13.689467"
-  },
-  {
-    "place_id": "0x872b13005c116fab:0",
-    "name": "Stray Café",
-    "address": "710 E Virginia Ave",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:34:11.039270"
-  },
-  {
-    "place_id": "0x872b133dba779f05:0",
-    "name": "The Thread CAFECITO Eastlake",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:34:09.780144"
-  },
-  {
-    "place_id": "0x872b132e2f36b971:0",
-    "name": "Maleta Cafe",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:34:07.239001"
   }
 ]
