@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b900082562d1:0",
+    "name": "Sreekaryam",
+    "address": "Ekaparnika, SRA-43, Santhi Nagar Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:08:07.374852"
+  },
+  {
+    "place_id": "0x3b05b9ea2dac0425:0",
+    "name": "Physiotherapist Ortho&sports/Home visit",
+    "address": "GWVF+WHM",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:08:06.187919"
+  },
+  {
+    "place_id": "0x3b05bfc02e945127:0",
+    "name": "Prayana Center for Physiotherapy",
+    "address": "PHC, near Pangapara",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:08:04.898874"
+  },
+  {
     "place_id": "0x444a21518daba4e1:0",
     "name": "Epic Sands Travel",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:13:09.904937"
-  },
-  {
-    "place_id": "0x808fcd402e52b98f:0",
-    "name": "Edith Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:08.717798"
-  },
-  {
-    "place_id": "0x808e337653c68c57:0",
-    "name": "Sylvia Huong Giang Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:06.574710"
-  },
-  {
-    "place_id": "0x808fb5e55f422789:0",
-    "name": "Mishal Sahdev Beauty Studio",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:04.331515"
   }
 ]
