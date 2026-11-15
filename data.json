@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb0010cf84dd:0",
+    "name": "Loaded",
+    "address": "",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:28:22.991996"
+  },
+  {
     "place_id": "0x3b05c1006f3cfd71:0",
     "name": "Hajj and Umrah",
     "address": "JV9W+CVR",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 22:50:55.068226"
-  },
-  {
-    "place_id": "0x87cbb2ba6f58d627:0",
-    "name": "Fort Smith Animal Emergency",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:53.830687"
   }
 ]
