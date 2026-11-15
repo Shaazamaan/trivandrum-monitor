@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb69113595e5:0",
+    "name": "Zaira Boutique",
+    "address": "Closes 8 PM",
+    "category": "Open",
+    "phone": "+91 70124 19661",
+    "website": null,
+    "discovered_at": "2026-11-15 13:14:16.313591"
+  },
+  {
     "place_id": "0x549012e76a8501e3:0",
     "name": "Cloud Food Court Restaurant & Burgers Kirkland",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 04:32:29.118101"
-  },
-  {
-    "place_id": "0x872b12981fc18d51:0",
-    "name": "Camelback Animal Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:27.879373"
   }
 ]
