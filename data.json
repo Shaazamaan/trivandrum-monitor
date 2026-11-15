@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05ab115f02459d:0",
+    "name": "Sky Travels",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 05:38:17.476663"
+  },
+  {
+    "place_id": "0x3b04550c4c3f87ef:0",
+    "name": "Suresh Fashion Jewellery",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": "+91 94438 08849",
+    "website": null,
+    "discovered_at": "2026-11-15 05:38:16.241481"
+  },
+  {
+    "place_id": "0x3b05ab724a3975e7:0",
+    "name": "Vishnu Furniture Works",
+    "address": "85V4+7XF",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 05:38:14.591365"
+  },
+  {
+    "place_id": "0x3b05ad7391a82bcf:0",
+    "name": "UTHRADAM FURNITURE MART",
+    "address": "9588+CXC, Parassala Vellarada Rd",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 05:38:13.302115"
+  },
+  {
+    "place_id": "0x3b05abbbb6e40c33:0",
+    "name": "Swasthi Homeo Clinic",
+    "address": "Mannam Memorial Building, Karali",
+    "category": "Homeopath",
+    "phone": "+91 79025 36905",
+    "website": null,
+    "discovered_at": "2026-11-15 05:38:12.027082"
+  },
+  {
     "place_id": "0x3b05adeaae115ba9:0",
     "name": "WeBuild Designers",
     "address": "Closes 5:30 PM",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 20:14:21.361837"
-  },
-  {
-    "place_id": "0x872b72f16282c3cb:0",
-    "name": "Spaces Interior Design, LLC",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:20.120795"
-  },
-  {
-    "place_id": "0x872bacd72cd1f4b3:0",
-    "name": "Designer Blvd.",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:18.821658"
-  },
-  {
-    "place_id": "0x872b77b118e312dd:0",
-    "name": "Hyde Park Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:17.625604"
-  },
-  {
-    "place_id": "0x872b0be47d7fefbb:0",
-    "name": "Alisha Taylor Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:16.322796"
-  },
-  {
-    "place_id": "0x872b770063e461c3:0",
-    "name": "Living with Lolo",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:15.119800"
   }
 ]
