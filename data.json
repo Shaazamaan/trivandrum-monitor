@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b042f9c5b18c06b:0",
+    "name": "Dayal Jewellery",
+    "address": "5/62, Ambai Main Rd",
+    "category": "Jewelry store",
+    "phone": "+91 94435 54262",
+    "website": null,
+    "discovered_at": "2026-11-15 17:56:21.252980"
+  },
+  {
     "place_id": "0x872b4169f738ed43:0",
     "name": "West Valley Coworking",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:10:55.599918"
-  },
-  {
-    "place_id": "0x808fcf3a8c975c77:0",
-    "name": "Center for Dermatology Cosmetic and Laser Surgery",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:10:54.413666"
   }
 ]
