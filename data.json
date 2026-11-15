@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x87ee939415944f1f:0",
+    "name": "Metro EyeCare",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 05:23:44.849060"
+  },
+  {
+    "place_id": "0x3b05a551bd81bf0f:0",
+    "name": "Krishna medicals",
+    "address": "Beach",
+    "category": "Pharmacy",
+    "phone": "+91 90749 07870",
+    "website": null,
+    "discovered_at": "2026-11-15 05:23:43.608589"
+  },
+  {
+    "place_id": "0x3b05a5369aac6ef5:0",
+    "name": "Eye Planet",
+    "address": "TC 58/123 PACHALLOOR, JUNCTION, Pachalloor Punkulam Rd, near JANOUSHADI, opposite ZOLA FASHIONS",
+    "category": "Optician",
+    "phone": "+91 89218 67585",
+    "website": null,
+    "discovered_at": "2026-11-15 05:23:42.363737"
+  },
+  {
     "place_id": "0x3b05b77a8652ff6b:0",
     "name": "BUDDHA THE SHOP - Aroids & Orchids",
     "address": "Manikapuram,uzhamalakkal, PO",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 20:14:08.856745"
-  },
-  {
-    "place_id": "0x872b713eed6ae0ab:0",
-    "name": "Great Way Real Estate | Brittney McGuire and Chad Denke",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:07.593810"
-  },
-  {
-    "place_id": "0x872b0d90da5e2219:0",
-    "name": "Fort Lowell Realty and Property Management",
-    "address": "3020 E Camelback Rd Unit 255",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:06.298096"
-  },
-  {
-    "place_id": "0x872b6f349598c15b:0",
-    "name": "Legacy Driving Academy",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:04.959465"
   }
 ]
