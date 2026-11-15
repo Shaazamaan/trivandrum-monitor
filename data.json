@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb83a0598501:0",
+    "name": "B G saloon and mens spa",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 11:22:40.481905"
+  },
+  {
+    "place_id": "0x3b05b9f993966459:0",
+    "name": "Fair Touch Beauty Parlour AC/nonAC",
+    "address": "Vattiyoorkkav Puliyarakkonam Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 11:22:38.406486"
+  },
+  {
+    "place_id": "0x3b05b90d10f14409:0",
+    "name": "Mobile Gallery",
+    "address": "Vattiyoorkkav Puliyarakkonam Rd",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 96565 15192",
+    "website": null,
+    "discovered_at": "2026-11-15 11:22:37.193403"
+  },
+  {
     "place_id": "0x3b05b90060c655f5:0",
     "name": "Grill Zone",
     "address": "NCC Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 02:01:13.966491"
-  },
-  {
-    "place_id": "0x3b05ef27f2121295:0",
-    "name": "VISHNO MEDICAL STORE",
-    "address": "PPMC+898, Varkala-Thazhevettoor Road",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 02:01:12.587831"
-  },
-  {
-    "place_id": "0x3b05e92b1361960b:0",
-    "name": "Viswas medicals",
-    "address": "PUTHE CHANTHA Near market, Varkala Kallambalam Rd",
-    "category": "Medical supply store",
-    "phone": "+91 90487 00009",
-    "website": null,
-    "discovered_at": "2026-11-15 02:01:11.398889"
-  },
-  {
-    "place_id": "0x3b05e95ba375bffd:0",
-    "name": "procare pharmacy",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 02:01:10.060833"
   }
 ]
