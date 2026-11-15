@@ -1,5 +1,356 @@
 [
   {
+    "place_id": "0x3b05b995cb8c86c5:0",
+    "name": "Malabar Chef",
+    "address": "Prasanth Nagar Pongumoodu Rd",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:43.701204"
+  },
+  {
+    "place_id": "0x3b05bbe2cb668195:0",
+    "name": "Sri Gavuri Nivas",
+    "address": "Closes 10:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:42.399633"
+  },
+  {
+    "place_id": "0x87ee9fcc4c902cff:0",
+    "name": "Lemon Massage Therapy and Skin Care (Massage & Head Spa)",
+    "address": "",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:41.093416"
+  },
+  {
+    "place_id": "0x87ec2155f87e0179:0",
+    "name": "Sedona’s Day Spa & Float Tanks",
+    "address": "",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:39.621396"
+  },
+  {
+    "place_id": "0x87ec21805d15bc9b:0",
+    "name": "ReNew You Spa and Suites",
+    "address": "",
+    "category": "Day spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:38.382470"
+  },
+  {
+    "place_id": "0x87ee934ce9798def:0",
+    "name": "Luxe Medical Spa and Aesthetics",
+    "address": "",
+    "category": "Health spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:36.457609"
+  },
+  {
+    "place_id": "0x87ee9f96969dbf5f:0",
+    "name": "Lympha Spa & Massage",
+    "address": "",
+    "category": "Massage therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:35.128924"
+  },
+  {
+    "place_id": "0x87ee9ff3598155d3:0",
+    "name": "Min Spa",
+    "address": "1239 73rd St e",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:33.659195"
+  },
+  {
+    "place_id": "0x87ee8528c077012f:0",
+    "name": "Spavia",
+    "address": "",
+    "category": "Day spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:32.365538"
+  },
+  {
+    "place_id": "0x87ef1d0215f12101:0",
+    "name": "Charlotte Élan Wellness & Massage Spa",
+    "address": "E 21st St N",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:29.831094"
+  },
+  {
+    "place_id": "0x87ee9d394c3fe60b:0",
+    "name": "Wax and Relax Spa",
+    "address": "",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:28.476228"
+  },
+  {
+    "place_id": "0x87ee9d5def0a914b:0",
+    "name": "Serenity Spa & Facials Des Moines",
+    "address": "",
+    "category": "Facial spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:27.208127"
+  },
+  {
+    "place_id": "0x87ee9d06bebc32af:0",
+    "name": "Mei Spa",
+    "address": "",
+    "category": "Massage therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:25.880613"
+  },
+  {
+    "place_id": "0x87ee93e9105198d5:0",
+    "name": "J & Company Spa",
+    "address": "",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:24.646576"
+  },
+  {
+    "place_id": "0x87ee932e84640f13:0",
+    "name": "Sun Reflexology & Spa",
+    "address": "",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:23.448423"
+  },
+  {
+    "place_id": "0x87ee8940045c5a31:0",
+    "name": "Elkhart Fitness Center",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:22.136152"
+  },
+  {
+    "place_id": "0x87ee993f93c66efd:0",
+    "name": "Lift DSM",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:20.855392"
+  },
+  {
+    "place_id": "0x87eea1f012e6153d:0",
+    "name": "D1 Training Norwalk IA",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:19.550351"
+  },
+  {
+    "place_id": "0x87ee9ffce8c3d235:0",
+    "name": "Anytime Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:18.246911"
+  },
+  {
+    "place_id": "0x864e7a5639002441:0",
+    "name": "Perfec Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:16.994956"
+  },
+  {
+    "place_id": "0x87e6d7e1cdafb521:0",
+    "name": "The Furniture Store",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:15.717923"
+  },
+  {
+    "place_id": "0x87ee9fa5bfe38909:0",
+    "name": "Sassy's",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:14.502815"
+  },
+  {
+    "place_id": "0x87ee8563917aaaab:0",
+    "name": "The Juice Company Cafe",
+    "address": "833 E 1st St",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:13.215721"
+  },
+  {
+    "place_id": "0x87ee99db507197d9:0",
+    "name": "All On Enterprises",
+    "address": "3323 SW 8th St",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:11.886087"
+  },
+  {
+    "place_id": "0x3b05bb0a8d583615:0",
+    "name": "Gauri Shankar Hotel",
+    "address": "",
+    "category": "Vegetarian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:10.593944"
+  },
+  {
+    "place_id": "0x87eee576e4b8636d:0",
+    "name": "Midland Prairie Veterinary Services",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:09.380493"
+  },
+  {
+    "place_id": "0x88d900d167d7191b:0",
+    "name": "Matthew Zarraga, DO",
+    "address": "",
+    "category": "Dermatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:08.113576"
+  },
+  {
+    "place_id": "0x88d9021191a1511d:0",
+    "name": "Facial Peels-Skin Care-Fort Lauderdale",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:06.725371"
+  },
+  {
+    "place_id": "0x88d901ff01fedae7:0",
+    "name": "A & E Paramedical Skin Care",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:05.423420"
+  },
+  {
+    "place_id": "0x88d9026e2580e443:0",
+    "name": "Schweiger Dermatology Group - Ft. Lauderdale",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:04.155795"
+  },
+  {
+    "place_id": "0x88e62d2bdf9806a5:0",
+    "name": "Bare Skin Beautiful",
+    "address": "",
+    "category": "Facial spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:02.814460"
+  },
+  {
+    "place_id": "0x88d901ff0086c3b7:0",
+    "name": "Liquivida Wellness Center | Lauderdale Beach",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:01.557511"
+  },
+  {
+    "place_id": "0x87ee938e93ecef83:0",
+    "name": "Bondurant Dermatology",
+    "address": "",
+    "category": "Dermatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:45:00.332294"
+  },
+  {
+    "place_id": "0x87ee9fc140392eef:0",
+    "name": "Iowa Dermatology Consultants",
+    "address": "",
+    "category": "Dermatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:44:58.970224"
+  },
+  {
+    "place_id": "0x87ef3b558387c001:0",
+    "name": "Skin Apothecary",
+    "address": "",
+    "category": "Medical spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:44:57.651385"
+  },
+  {
+    "place_id": "0x87f276358898490d:0",
+    "name": "UnityPoint Clinic Kenyon Road - Dermatology - Fort Dodge",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:44:54.667508"
+  },
+  {
+    "place_id": "0x87ebd9338222e1b9:0",
+    "name": "Frontline Dermatology",
+    "address": "",
+    "category": "Dermatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:44:53.207874"
+  },
+  {
+    "place_id": "0x87ef1d7bac6355a1:0",
+    "name": "Frontline Dermatology",
+    "address": "",
+    "category": "Dermatologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:44:51.831067"
+  },
+  {
+    "place_id": "0x87eea34152936dcf:0",
+    "name": "A+ IOWA DENTAL MULTI-SPECIALTY",
+    "address": "",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:44:50.458572"
+  },
+  {
     "place_id": "0x3b05bb004544b1c1:0",
     "name": "Rootz Beauty Salon",
     "address": "opp. Saphalyam complex",
@@ -8647,356 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 16:43:44.258180"
-  },
-  {
-    "place_id": "0x880e2544aa4c16a9:0",
-    "name": "DXL Big + Tall",
-    "address": "",
-    "category": "Men's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:43:43.096489"
-  },
-  {
-    "place_id": "0x880e201871b01eed:0",
-    "name": "K&G Fashion Superstore",
-    "address": "7540 S Stony Island Ave",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:43:41.963560"
-  },
-  {
-    "place_id": "0x880e397e4c4564d9:0",
-    "name": "Juice Time | عصير تايم",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:43:40.764149"
-  },
-  {
-    "place_id": "0x880e3933cd731613:0",
-    "name": "Vara Juice (Bridgeview)",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:43:39.604986"
-  },
-  {
-    "place_id": "0x880e251ab0b96069:0",
-    "name": "Bani's Beets Cold-Pressed Juicery",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:43:38.371106"
-  },
-  {
-    "place_id": "0x880e257a143dff75:0",
-    "name": "AndySunflower Café",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:43:37.196690"
-  },
-  {
-    "place_id": "0x880e25d2309d7c1d:0",
-    "name": "Two Mile Coffee Bar",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:43:35.852177"
-  },
-  {
-    "place_id": "0x880e291334d1cf43:0",
-    "name": "Urban Luxe Cafe",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:43:34.671221"
-  },
-  {
-    "place_id": "0x880e27dac243429b:0",
-    "name": "Midwest Eye Center - Chicago",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:43:33.495719"
-  },
-  {
-    "place_id": "0x880e2ca5f029f337:0",
-    "name": "Pinski Dermatology & Cosmetic Surgery - Millennium Park",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:43:32.329500"
-  },
-  {
-    "place_id": "0x880e3a9e149e3255:0",
-    "name": "Winterset Dental Care",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:43:31.123391"
-  },
-  {
-    "place_id": "0x880fd3ca44179e0d:0",
-    "name": "First Dental Center",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:43:29.931450"
-  },
-  {
-    "place_id": "0x880fd1e8e090da77:0",
-    "name": "Clínica Dental Español en Chicago",
-    "address": "5402 N Kenmore Ave",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:43:28.620938"
-  },
-  {
-    "place_id": "0x880e30886d368f65:0",
-    "name": "Scottsdale Dental Clinic",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:43:27.369510"
-  },
-  {
-    "place_id": "0x3b05bfa03dec1677:0",
-    "name": "Trivino Holidays Pvt Ltd",
-    "address": "",
-    "category": "Travel agency",
-    "phone": "+91 98950 33788",
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:32.878393"
-  },
-  {
-    "place_id": "0x3b05bfdf81a5ce03:0",
-    "name": "Kudajadri Guided Tours",
-    "address": "Opens 9 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:31.666920"
-  },
-  {
-    "place_id": "0x3b05bfbe92acdafb:0",
-    "name": "Arctic Wave International Pvt Ltd",
-    "address": "2nd Floor, JJ Tower",
-    "category": "Tour operator",
-    "phone": "+91 90379 37901",
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:30.492924"
-  },
-  {
-    "place_id": "0x3b05beffd1ae5657:0",
-    "name": "Beachwood Holidays",
-    "address": "Technopark Trivandrum, Techno Mall",
-    "category": "Travel agency",
-    "phone": "+91 98475 48790",
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:29.244135"
-  },
-  {
-    "place_id": "0x3b05bf2fcc414f39:0",
-    "name": "ADITHYA TOURS & TRAVELS",
-    "address": "Opens 9 AM Sun",
-    "category": "Closed",
-    "phone": "+91 90203 60910",
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:28.022520"
-  },
-  {
-    "place_id": "0x3b05bf003d432455:0",
-    "name": "Miyukitours",
-    "address": "HRGW+C6M Miyuki Tours Brahmavihara",
-    "category": "Tour agency",
-    "phone": "+91 98461 11380",
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:26.694770"
-  },
-  {
-    "place_id": "0x3b05bef9a1d84789:0",
-    "name": "Self Drive Rent A Car In Technopark | Apple Tours And Travels",
-    "address": "Ananthasayanam, L1, near Technopark Trivandrum",
-    "category": "Travel agency",
-    "phone": "+91 94477 95539",
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:25.534428"
-  },
-  {
-    "place_id": "0x3b05bfeb51fc3cc5:0",
-    "name": "Trinity International",
-    "address": "TC-1/3857, BYPASS ROAD",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:24.174350"
-  },
-  {
-    "place_id": "0x3b05bf006d10f51b:0",
-    "name": "Redbells Holidays",
-    "address": "+91 62829 74581",
-    "category": "Open 24 hours",
-    "phone": "+91 62829 74581",
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:22.857640"
-  },
-  {
-    "place_id": "0x3b05be57711a978d:0",
-    "name": "City Travels - Kazhakuttom",
-    "address": "HV49+9F5, M/s bismi travels, muthoot building, n.h. road",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:21.656867"
-  },
-  {
-    "place_id": "0x3b05bf003913357f:0",
-    "name": "MADEENA TRAVELS",
-    "address": "Madeena Travels, near AJ Hospital",
-    "category": "Travel agency",
-    "phone": "+91 95262 31234",
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:20.407645"
-  },
-  {
-    "place_id": "0x3b05bf4e964baf6d:0",
-    "name": "ELIAH TOURS AND TRAVELS",
-    "address": "10 PM",
-    "category": "Closes soon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:19.163744"
-  },
-  {
-    "place_id": "0x3b05bf0011c012f3:0",
-    "name": "Home kazhakootam",
-    "address": "Toyota Showroom, Asiatic Business Centre, 236/10, Bypass Road, near Nippon",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:18.004464"
-  },
-  {
-    "place_id": "0x3b05bf43d9cfbf43:0",
-    "name": "Aamihomes",
-    "address": "Near Womens ITI, ITI road, PO",
-    "category": "Building consultant",
-    "phone": "+91 99475 06072",
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:16.761106"
-  },
-  {
-    "place_id": "0x3b05bf00351cfaab:0",
-    "name": "ഋഷി സതീഷ്",
-    "address": "HV9F+C7C",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:15.593238"
-  },
-  {
-    "place_id": "0x3b05bf0074b1e901:0",
-    "name": "Vineeth Kazhakuttam",
-    "address": "SREE PADMAM, MRA-50",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:14.299307"
-  },
-  {
-    "place_id": "0x3b05bf6f1e4ca889:0",
-    "name": "Confident Crown Residential Apartment",
-    "address": "",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:12.998769"
-  },
-  {
-    "place_id": "0x3b05bf00615cdbdd:0",
-    "name": "Karthika Sainik Nagar(KSNRA D-4),Kazhakuttom",
-    "address": "HVHC+5FJ",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:11.754688"
-  },
-  {
-    "place_id": "0x3b05bf005f440b8d:0",
-    "name": "Kazhakuttom",
-    "address": "HV7F+HGQ",
-    "category": "Condominium complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:10.560989"
-  },
-  {
-    "place_id": "0x3b05bfa137508579:0",
-    "name": "Heather Ferns, Trivandrum",
-    "address": "",
-    "category": "Apartment complex",
-    "phone": "+91 85908 00400",
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:09.261647"
-  },
-  {
-    "place_id": "0x3b05bf8a964b52a9:0",
-    "name": "Babu S Document Writing Office",
-    "address": "near Kazhakootam - Karode Bypass",
-    "category": "Construction company",
-    "phone": "+91 94467 03821",
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:08.093177"
-  },
-  {
-    "place_id": "0x3b05bf004efa0457:0",
-    "name": "Home",
-    "address": "HV9G+67V",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:06.872904"
-  },
-  {
-    "place_id": "0x3b05bef9a36d8d85:0",
-    "name": "Royal Saloon Technopark",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:05.476853"
-  },
-  {
-    "place_id": "0x3b05bf0c30538d53:0",
-    "name": "Aashh Signature Unisex Salon Technopark, Trivandrum",
-    "address": "NK Plaza, opp. Technopark Phase 1, near B6 Hotel",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:04.278643"
-  },
-  {
-    "place_id": "0x3b05bf923117dd09:0",
-    "name": "SWITCH ON MOBILE'S SALES & services",
-    "address": "10 PM",
-    "category": "Closes soon",
-    "phone": "+91 81290 60705",
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:03.056516"
   }
 ]
