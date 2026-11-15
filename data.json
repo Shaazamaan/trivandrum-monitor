@@ -1,5 +1,158 @@
 [
   {
+    "place_id": "0x3b05e90058a35b9d:0",
+    "name": "RILLAS FASHION",
+    "address": "PPCR+3MP, Varkala-Kadakkavoor Road, near Kayattaffice",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:01:13.966491"
+  },
+  {
+    "place_id": "0x3b05ef27f2121295:0",
+    "name": "VISHNO MEDICAL STORE",
+    "address": "PPMC+898, Varkala-Thazhevettoor Road",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:01:12.587831"
+  },
+  {
+    "place_id": "0x3b05e92b1361960b:0",
+    "name": "Viswas medicals",
+    "address": "PUTHE CHANTHA Near market, Varkala Kallambalam Rd",
+    "category": "Medical supply store",
+    "phone": "+91 90487 00009",
+    "website": null,
+    "discovered_at": "2026-11-15 02:01:11.398889"
+  },
+  {
+    "place_id": "0x3b05e95ba375bffd:0",
+    "name": "procare pharmacy",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:01:10.060833"
+  },
+  {
+    "place_id": "0x3b05ef2839c7fc67:0",
+    "name": "POPULAR MEDICAL STORE",
+    "address": "PPMF+HMF, Varkala-Thazhevettoor Road",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:01:08.885401"
+  },
+  {
+    "place_id": "0x3b05e90d8a7cbb8b:0",
+    "name": "Jan Aushadhi Medical Store, Varkala, Opposite SN Mission Hospital",
+    "address": "Karthikeyan Building, Varkala Kallambalam Rd, opposite SN Mission Hospital",
+    "category": "Pharmacy",
+    "phone": "+91 99951 12472",
+    "website": null,
+    "discovered_at": "2026-11-15 02:01:07.670214"
+  },
+  {
+    "place_id": "0x3b05e9511b5450ef:0",
+    "name": "kairali medicals",
+    "address": "PPHP+GC3, Cherunniyoor Road",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:01:06.485596"
+  },
+  {
+    "place_id": "0x3b05e5b31d11cc13:0",
+    "name": "K R CLINICAL LABORATORY",
+    "address": "near Catholic Syrian Bank",
+    "category": "Medical laboratory",
+    "phone": "+91 99951 11692",
+    "website": null,
+    "discovered_at": "2026-11-15 02:01:05.196232"
+  },
+  {
+    "place_id": "0x3b05ef0d6d5f60b1:0",
+    "name": "LOKAH AYURVEDA",
+    "address": "Closes 4 PM",
+    "category": "Open",
+    "phone": "+91 88486 09740",
+    "website": null,
+    "discovered_at": "2026-11-15 02:01:03.997992"
+  },
+  {
+    "place_id": "0x3b05ef1a9103824d:0",
+    "name": "Siby's HIMA SAGAR Ayurveda Center located Varkala beach",
+    "address": "north cliff, Beach Resort, Cliff Garden, Thiruvambadi Rd",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:01:02.767833"
+  },
+  {
+    "place_id": "0x3b05bbfb521f9b1f:0",
+    "name": "Rangamani Associates",
+    "address": "C/17, Elankom Gardens C St, behind DCB Bank",
+    "category": "Chartered accountant",
+    "phone": "+91 95264 74324",
+    "website": null,
+    "discovered_at": "2026-11-15 02:01:01.567018"
+  },
+  {
+    "place_id": "0x3b05bf003a771957:0",
+    "name": "Big bytes tution center",
+    "address": "Our Nest, CVNRA 13, CV Nagar",
+    "category": "Tutoring service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:00:59.935875"
+  },
+  {
+    "place_id": "0x3b05b915f6f36b0d:0",
+    "name": "Vismaya Beauty Care",
+    "address": "Vismaya Beauty Care",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:00:58.706240"
+  },
+  {
+    "place_id": "0x3b05becedcfa8a91:0",
+    "name": "Trivandrum CORPORATION VETINARY HOSPITAL",
+    "address": "HW26+V3F, 13, Gandhipuram Road",
+    "category": "Emergency veterinarian service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:00:57.513609"
+  },
+  {
+    "place_id": "0x3b05bd014d888047:0",
+    "name": "Government Animal Hospital",
+    "address": "GW73+9Q3",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:00:56.265434"
+  },
+  {
+    "place_id": "0x3b05b8cb143d7063:0",
+    "name": "Government Veterinary Hospital",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:00:54.937796"
+  },
+  {
+    "place_id": "0x3b05bf0015457107:0",
+    "name": "DDRC Agilus Diagnostics, Chenkottukonam",
+    "address": "HWH3+VWR, Sreekariyam - Pothencode Rd",
+    "category": "Laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:00:52.249534"
+  },
+  {
     "place_id": "0x3b05bd946eee976d:0",
     "name": "Tesla tuition Academy",
     "address": "Erumala appupan temple",
@@ -8845,158 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 16:44:20.481325"
-  },
-  {
-    "place_id": "0x880e390e0cc6ce4d:0",
-    "name": "Elite Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:19.242893"
-  },
-  {
-    "place_id": "0x880fd323fe229675:0",
-    "name": "west elm",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:18.053117"
-  },
-  {
-    "place_id": "0x880fd2cf8267272b:0",
-    "name": "Affordable Furniture & Carpet",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:16.811592"
-  },
-  {
-    "place_id": "0x880e36c39fa41be1:0",
-    "name": "Adam Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:15.652678"
-  },
-  {
-    "place_id": "0x880fd2c586ee41ab:0",
-    "name": "Milwaukee Furniture of Chicago",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:14.388895"
-  },
-  {
-    "place_id": "0x880e31d562f8e5dd:0",
-    "name": "Azteca Furniture",
-    "address": "2952 W 63rd St",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:13.169564"
-  },
-  {
-    "place_id": "0x880fd204bdab189b:0",
-    "name": "Decorium Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:11.948293"
-  },
-  {
-    "place_id": "0x880e308e6c753355:0",
-    "name": "Bob’s Discount Furniture and Mattress Store",
-    "address": "7760 S Cicero Ave",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:10.779509"
-  },
-  {
-    "place_id": "0x880e4192644e1e93:0",
-    "name": "The Furniture Place",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:09.615198"
-  },
-  {
-    "place_id": "0x880e36ce7e3474f7:0",
-    "name": "John's Furniture Store",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:08.478366"
-  },
-  {
-    "place_id": "0x880e31c8fb2cc9cf:0",
-    "name": "The Furniture Place",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:07.297330"
-  },
-  {
-    "place_id": "0x880e1737920d04cb:0",
-    "name": "Factory Furniture Outlet",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:06.153473"
-  },
-  {
-    "place_id": "0x880e250de2c43f97:0",
-    "name": "IATA | Clothing Brand",
-    "address": "2144 W 95th St",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:05.000988"
-  },
-  {
-    "place_id": "0x880e2441f9a950c5:0",
-    "name": "Citi Trends",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:03.760534"
-  },
-  {
-    "place_id": "0x880e33adc2755689:0",
-    "name": "DTLR",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:02.535437"
-  },
-  {
-    "place_id": "0x880e2e7b1e8f46c5:0",
-    "name": "Rainbow Shops",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:01.318837"
-  },
-  {
-    "place_id": "0x880e2f57e1d86f75:0",
-    "name": "Rainbow Shops",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:00.149681"
   }
 ]
