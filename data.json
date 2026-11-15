@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bebb92545661:0",
+    "name": "Mar Dioscorus College of Pharmacy",
+    "address": "GWQ2+M37, Alathara Rd",
+    "category": "College",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:53:21.934175"
+  },
+  {
+    "place_id": "0x3b05b9004151b527:0",
+    "name": "Swastha Ayurveda Clinic",
+    "address": "ANRA 179",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:53:20.741275"
+  },
+  {
+    "place_id": "0x3b05b95e8cda3a25:0",
+    "name": "Kedharam Mobile Shop",
+    "address": "kedaram shopping complex",
+    "category": "Cell phone store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:53:19.579907"
+  },
+  {
     "place_id": "0x89b5effc7e3908e7:0",
     "name": "At The Hub LLC",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:54:02.868889"
-  },
-  {
-    "place_id": "0x865b49ccad64003d:0",
-    "name": "Ayurveda by Antonia",
-    "address": "",
-    "category": "Holistic medicine practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:54:01.651052"
-  },
-  {
-    "place_id": "0x865c59911f80b0e7:0",
-    "name": "FYZICAL Therapy & Balance Centers South San Antonio",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:54:00.431045"
-  },
-  {
-    "place_id": "0x865cf5b4d5672165:0",
-    "name": "Physical therapy",
-    "address": "",
-    "category": "Physical therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:59.106210"
   }
 ]
