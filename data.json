@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b9e83f376347:0",
+    "name": "Shakthi Bakery",
+    "address": "J253+55C, Nedumangad Karipoor Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:22:05.293709"
+  },
+  {
+    "place_id": "0x3b05ae5b22905303:0",
+    "name": "Rollands Hospital",
+    "address": "",
+    "category": "Private hospital",
+    "phone": "+91 98958 43711",
+    "website": null,
+    "discovered_at": "2026-11-15 19:22:04.047044"
+  },
+  {
     "place_id": "0x3b05c1a053a0edcf:0",
     "name": "JM Engineering Works",
     "address": "Bridge, Near Old NH, Mamom Road",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:13:31.468576"
-  },
-  {
-    "place_id": "0x808e35cb8da51c5d:0",
-    "name": "Vim + Vigor Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:26.531735"
-  },
-  {
-    "place_id": "0x808fb55a8cf798af:0",
-    "name": "24 Hour Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:24.048051"
   }
 ]
