@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bb1108b452d7:0",
+    "name": "STARCINE MINI PHARMACY",
+    "address": "Bhagavathi Temple, opposite KONCHIRAVILA",
+    "category": "Pharmacy",
+    "phone": "+91 82812 21133",
+    "website": null,
+    "discovered_at": "2026-11-15 03:01:05.928449"
+  },
+  {
+    "place_id": "0x3b05bba1bd51cf53:0",
+    "name": "Aster Pharmacy - Ambalathara",
+    "address": "TC67/2791, Bhadradeepam Building, near Al Arif Hospital",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 03:01:04.710607"
+  },
+  {
+    "place_id": "0x3b05b1c34dcbaa09:0",
+    "name": "Melt Fitness Studio",
+    "address": "2nd Floor, JJ Building, Pravachambalam Junction Near Mottamoodu Melamcodu Devi Temple, Road, JN",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 03:01:03.527771"
+  },
+  {
+    "place_id": "0x3b05bb00172329fd:0",
+    "name": "AR Traders",
+    "address": "F252+P3X",
+    "category": "General store",
+    "phone": "+91 95678 45587",
+    "website": null,
+    "discovered_at": "2026-11-15 03:01:02.343192"
+  },
+  {
+    "place_id": "0x3b05bb84c7e639ff:0",
+    "name": "S.N furniture mart",
+    "address": "FX9J+PPC",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 03:01:01.095950"
+  },
+  {
+    "place_id": "0x3b05bb83018dd797:0",
+    "name": "Suguna Delfrez Nemom",
+    "address": "",
+    "category": "Chicken shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 03:00:59.825569"
+  },
+  {
+    "place_id": "0x3b05b10ace8788d9:0",
+    "name": "Sidha Sevamritham Medicity",
+    "address": "Pallichal Mottamoodu Road",
+    "category": "Pharmacy",
+    "phone": "+91 88913 25819",
+    "website": null,
+    "discovered_at": "2026-11-15 03:00:58.531081"
+  },
+  {
+    "place_id": "0x3b05bbaf93eec4e7:0",
+    "name": "Dr Prem's Eye Hospital",
+    "address": "",
+    "category": "Eye care center",
+    "phone": "+91 93425 84907",
+    "website": null,
+    "discovered_at": "2026-11-15 03:00:57.231770"
+  },
+  {
     "place_id": "0x3b05b9c1e70583df:0",
     "name": "Adorn U Beauty Parlour",
     "address": "Trivandrum",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 16:45:22.684164"
-  },
-  {
-    "place_id": "0x880e2c9ce1ad7ced:0",
-    "name": "Michigan Avenue Events",
-    "address": "917 W Washington Blvd Ste 200",
-    "category": "Wedding planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:45:21.491502"
-  },
-  {
-    "place_id": "0x880fd230953aaaab:0",
-    "name": "An Event Less Ordinary",
-    "address": "1448 W Montrose Ave",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:45:19.302062"
-  },
-  {
-    "place_id": "0x880fa50c2a7b4c05:0",
-    "name": "Interior Design Studio",
-    "address": "4319 Regency Dr",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:45:17.198568"
-  },
-  {
-    "place_id": "0x880e3935796156af:0",
-    "name": "Chesterfield Interior Designs",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:45:14.635310"
-  },
-  {
-    "place_id": "0x880e4e260dcf09bf:0",
-    "name": "Core Interior Design & Boutique LLC",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:45:13.460754"
-  },
-  {
-    "place_id": "0x880e399e61372b81:0",
-    "name": "NZ Design & Construction Inc",
-    "address": "12517 91st Ave",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:45:11.408978"
-  },
-  {
-    "place_id": "0x880e5d868542ba1b:0",
-    "name": "Interiors by Diane DeCero",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:45:09.172275"
-  },
-  {
-    "place_id": "0x880e35e668551ac7:0",
-    "name": "Safe + Sound Design Build",
-    "address": "250 Lawton Rd",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:45:07.932964"
   }
 ]
