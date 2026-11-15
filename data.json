@@ -1,5 +1,158 @@
 [
   {
+    "place_id": "0x3b05bba4ac927b15:0",
+    "name": "Jockey Exclusive Store",
+    "address": "",
+    "category": "Clothing store",
+    "phone": "+91 88910 00701",
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:54.244328"
+  },
+  {
+    "place_id": "0x3b05bbb1b5ceff51:0",
+    "name": "Dr. Rajagopal's Dental Home",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": "+91 94471 35064",
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:53.026867"
+  },
+  {
+    "place_id": "0xdde4d2b27a3a31f:0",
+    "name": "DRDS CPAs & Consultants",
+    "address": "",
+    "category": "Accounting firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:51.797101"
+  },
+  {
+    "place_id": "0x87ee9ed6efa77dd7:0",
+    "name": "Community CPA - Des Moines",
+    "address": "",
+    "category": "Accounting firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:50.598114"
+  },
+  {
+    "place_id": "0x87ec213a1a76aecb:0",
+    "name": "Leisure Tours",
+    "address": "(515) 223-1468",
+    "category": "Temporarily closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:49.340588"
+  },
+  {
+    "place_id": "0x87ee9bd2f1fddbc7:0",
+    "name": "Open Window Travel",
+    "address": "5853 NW 3rd Ct",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:48.069609"
+  },
+  {
+    "place_id": "0x87ec274daf24f0e1:0",
+    "name": "Allure Travel by CTM",
+    "address": "2955 100th St",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:46.850194"
+  },
+  {
+    "place_id": "0x87ec21ecbb430085:0",
+    "name": "BWK Travel",
+    "address": "(515) 556-9933",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:45.556026"
+  },
+  {
+    "place_id": "0x87ec2111d3dd7d81:0",
+    "name": "Kendra Scott",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:44.198832"
+  },
+  {
+    "place_id": "0x87ec209916e08793:0",
+    "name": "Prysm Jewelry & Piercing",
+    "address": "",
+    "category": "Body piercing shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:42.991148"
+  },
+  {
+    "place_id": "0x87ee852889516255:0",
+    "name": "Mainstream Boutique Ankeny",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:41.758504"
+  },
+  {
+    "place_id": "0x87ec21a9292e8089:0",
+    "name": "Vetco Total Care",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:40.479441"
+  },
+  {
+    "place_id": "0x87ec294bad0a1b43:0",
+    "name": "Veterinary Medical Associates",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:39.259412"
+  },
+  {
+    "place_id": "0x87ee9e42838223c1:0",
+    "name": "Hy-Vee Pharmacy",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:38.069849"
+  },
+  {
+    "place_id": "0x406785fdfd04147f:0",
+    "name": "Medicap Pharmacy",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:36.809853"
+  },
+  {
+    "place_id": "0x87ee9e6008fc8f85:0",
+    "name": "Iowa Dental Group",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:35.491092"
+  },
+  {
+    "place_id": "0x87ee9ddd16c705c9:0",
+    "name": "Cedar Ridge Esthetic and Family Dentistry",
+    "address": "",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:38:34.264611"
+  },
+  {
     "place_id": "0x3b05bf2c03f0c3cb:0",
     "name": "raison d'être - The Residential Library",
     "address": "Trivandrum",
@@ -8845,158 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 00:56:13.880379"
-  },
-  {
-    "place_id": "0x3b05bf211fa85e71:0",
-    "name": "Vasudhara Wellness Center",
-    "address": "R K Towers",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:12.734024"
-  },
-  {
-    "place_id": "0x3b05bff9e12af5a3:0",
-    "name": "Empire Building Berrys ayur spa",
-    "address": "HV7J+XW4, NH 47",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:11.561677"
-  },
-  {
-    "place_id": "0x3b05bf0019de04d3:0",
-    "name": "Sindhur Beauty Care and Spa",
-    "address": "HV9F+38H, Kazhakootam, near Techno Park",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:10.416095"
-  },
-  {
-    "place_id": "0x3b05bf005864e471:0",
-    "name": "Abhichu's Villa",
-    "address": "GVXP+63V",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:09.250249"
-  },
-  {
-    "place_id": "0x3b05bf9b7ea2cadb:0",
-    "name": "Roopanivas",
-    "address": "Neerazhi Ln",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:08.116119"
-  },
-  {
-    "place_id": "0x3b05bf5692d9e311:0",
-    "name": "Nice Touch Family Salon and Spa",
-    "address": "Attinkuzhi Rd",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:06.756326"
-  },
-  {
-    "place_id": "0x3b05bf6596de0a29:0",
-    "name": "Tulips_Atelier",
-    "address": "near Madhavavilasom sahakarana bank",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:04.861580"
-  },
-  {
-    "place_id": "0x3b05bfa1a7b7dfc7:0",
-    "name": "Tharavadu Restaurant",
-    "address": "opposite Sainik School",
-    "category": "Non vegetarian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:03.701834"
-  },
-  {
-    "place_id": "0x3b05bf9543e1d305:0",
-    "name": "Star Medicals",
-    "address": "HVQ2+333",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:02.492672"
-  },
-  {
-    "place_id": "0x3b05bfc77b8640b1:0",
-    "name": "Pharmacy",
-    "address": "HRHX+HFR, Padinjattumukku - Channankara Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:01.345900"
-  },
-  {
-    "place_id": "0x3b05bf001130b999:0",
-    "name": "Souparnika Medicals",
-    "address": "GVWH+92V, Kulathoor Bypass Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:00.157250"
-  },
-  {
-    "place_id": "0x3b05bf1cd8bb19c1:0",
-    "name": "Asharaya Community Pharmacy",
-    "address": "Asharaya Community Pharmacy",
-    "category": "Pharmacy",
-    "phone": "+91 81299 40195",
-    "website": null,
-    "discovered_at": "2026-11-15 00:55:58.981563"
-  },
-  {
-    "place_id": "0x3b05bf0946532a29:0",
-    "name": "Pradhanmantri Bharatia Jan Oushadi Kendram",
-    "address": "HV8F+V4Q",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:55:57.790644"
-  },
-  {
-    "place_id": "0x3b05bfa49524202f:0",
-    "name": "Aswaas Medicals",
-    "address": "GVRJ+57V, Sreekariyam - Kazhakuttam Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:55:56.598619"
-  },
-  {
-    "place_id": "0x3b05bf52b7e9f28b:0",
-    "name": "palakkal medicals",
-    "address": "1370, Nehru Junction Nehru Junction",
-    "category": "Pharmacy",
-    "phone": "+91 85474 80801",
-    "website": null,
-    "discovered_at": "2026-11-15 00:55:55.284980"
-  },
-  {
-    "place_id": "0x3b05be4e40000067:0",
-    "name": "Janaseva Medicals",
-    "address": "HV55+FJG, Menamkulam",
-    "category": "Pharmacy",
-    "phone": "+91 99476 80604",
-    "website": null,
-    "discovered_at": "2026-11-15 00:55:54.073887"
-  },
-  {
-    "place_id": "0x3b05bf006b5f0553:0",
-    "name": "Medplus Pharmacy",
-    "address": "HVQ5+J5G",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:55:52.937720"
   }
 ]
