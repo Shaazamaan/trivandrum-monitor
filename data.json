@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x3b05ba1e138e0b33:0",
+    "name": "Jiva Medicals",
+    "address": "GXGR+8VM",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:45:07.116700"
+  },
+  {
+    "place_id": "0x3b05ba1955494fd5:0",
+    "name": "Ayurveda Mix Plus",
+    "address": "Sanjeevani Herbals T.C 6, 277(1, Netaji Rd",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 98470 32188",
+    "website": null,
+    "discovered_at": "2026-11-15 02:45:05.904331"
+  },
+  {
+    "place_id": "0x3b05b90f663da365:0",
+    "name": "SANTHIGIRI AYURVEDA & SIDDHA VAIDYASALA, MOONNAMMOODU, VATTIYOORKAVU",
+    "address": "TC 34/1446, Vattiyoorkkav Puliyarakkonam Rd",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 94462 07248",
+    "website": null,
+    "discovered_at": "2026-11-15 02:45:04.673608"
+  },
+  {
+    "place_id": "0x3b05b941e8962989:0",
+    "name": "Amrita Ayurveda Medical Center-Trivandrum",
+    "address": "opposite SBI Bank, near by Trivandrum Co-Operative Urban Bank Limited",
+    "category": "Skin care clinic",
+    "phone": "+91 95678 66204",
+    "website": null,
+    "discovered_at": "2026-11-15 02:45:03.481530"
+  },
+  {
+    "place_id": "0x3b05b90cb801bd25:0",
+    "name": "Prana Ayurvedsala",
+    "address": "Ayurvedic Clinic underKottakal Ayurveda Pharmacy, Junction, Vattiyoorkavu - Kulasekharam Rd, near to Nettayam Road",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 90486 92711",
+    "website": null,
+    "discovered_at": "2026-11-15 02:45:02.176554"
+  },
+  {
+    "place_id": "0x3b05bbe217a47379:0",
+    "name": "Ayushyam Ayurveda Clinic",
+    "address": "Sabhalyam, Swagath Nagar",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 94470 59380",
+    "website": null,
+    "discovered_at": "2026-11-15 02:45:00.973543"
+  },
+  {
+    "place_id": "0x3b05b98fb2fa32eb:0",
+    "name": "RHEVA AESTHETICS SKIN AND HAIR CLINIC TRIVANDRUM",
+    "address": "Hp petrol pump, VK 22139, Pulikhavila lane, opposite Vattiyoorkavu",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:44:59.694883"
+  },
+  {
+    "place_id": "0x3b05bf005af7e48b:0",
+    "name": "Happy Weddings Events & Wedding Planners",
+    "address": "HWW5+6MC, Sri Rama Dasa Asramam Rd",
+    "category": "Corporate office",
+    "phone": "+91 70129 75423",
+    "website": null,
+    "discovered_at": "2026-11-15 02:44:58.307799"
+  },
+  {
+    "place_id": "0x3b05c7330614e66b:0",
+    "name": "International interior",
+    "address": "Vembayam",
+    "category": "Interior Decorator",
+    "phone": "+91 98951 88442",
+    "website": null,
+    "discovered_at": "2026-11-15 02:44:57.023535"
+  },
+  {
+    "place_id": "0x3b05bfc0fe295005:0",
+    "name": "UNIQUE CLINICAL LABORATORY & X-Ray",
+    "address": "Kattayikonam, Sreekariyam - Pothencode Rd",
+    "category": "Laboratory",
+    "phone": "+91 94977 23012",
+    "website": null,
+    "discovered_at": "2026-11-15 02:44:55.748477"
+  },
+  {
     "place_id": "0x3b05ab5123448997:0",
     "name": "Moonlight Super Market",
     "address": "84W3+C9W",
@@ -8908,95 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 16:44:54.743261"
-  },
-  {
-    "place_id": "0x880e39a7aad8b50d:0",
-    "name": "Boutique Home Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:53.580903"
-  },
-  {
-    "place_id": "0x880e307436df1d4b:0",
-    "name": "Shield Real Estate",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:52.428813"
-  },
-  {
-    "place_id": "0x880e288f013aaaab:0",
-    "name": "Village Realty - Chicago",
-    "address": "8100 S Stony Island Ave",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:51.240784"
-  },
-  {
-    "place_id": "0x880e24ddec3c299f:0",
-    "name": "26.2 Realty, Inc.",
-    "address": "2261 W 111th St #1",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:50.033716"
-  },
-  {
-    "place_id": "0x880fcb23555b8b0b:0",
-    "name": "World One Realty",
-    "address": "1839 N Harlem Ave",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:48.875624"
-  },
-  {
-    "place_id": "0x8811d87a4f40a381:0",
-    "name": "G&R Realty, Inc",
-    "address": "3725 E 106th St",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:47.460427"
-  },
-  {
-    "place_id": "0x880e306940440a05:0",
-    "name": "YUB Realty Inc. - Your Ultimate Brokers",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:46.245785"
-  },
-  {
-    "place_id": "0x880e29740f11fa0d:0",
-    "name": "The Space 4.0, Functional Training and Sports Performance",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:45.057895"
-  },
-  {
-    "place_id": "0x880e27e29cb1a0b3:0",
-    "name": "Esperanza Salon De Belleza",
-    "address": "8839 S Commercial Ave",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:43.929876"
-  },
-  {
-    "place_id": "0x880e2f7e0fca90d9:0",
-    "name": "Mzz. Tish Personal Touch Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:42.741885"
   }
 ]
