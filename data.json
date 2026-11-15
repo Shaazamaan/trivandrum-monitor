@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05af44b96e991d:0",
+    "name": "FALCON PET CARE HOSPITAL",
+    "address": "93RV+PM8",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 22:22:12.708573"
+  },
+  {
+    "place_id": "0x3b05a909bb75afe9:0",
+    "name": "KJN Tours and Travels - Taxi servies",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 73563 92502",
+    "website": null,
+    "discovered_at": "2026-11-15 22:22:11.474927"
+  },
+  {
+    "place_id": "0x3b05a5004dc08be7:0",
+    "name": "VIJAYA PANTHAL WORK'S.",
+    "address": "+91 94008 80023",
+    "category": "Open 24 hours",
+    "phone": "+91 94008 80023",
+    "website": null,
+    "discovered_at": "2026-11-15 22:22:09.919967"
+  },
+  {
+    "place_id": "0x3b05af9a74225859:0",
+    "name": "STYLO THE QUALITY EXTERIORS",
+    "address": "STYLO THE QUALITY EXTERIORS KAPPIVILA PULIYARAKONAM P O TRIVANDRUM -695573",
+    "category": "Interior designer",
+    "phone": "+91 95671 84007",
+    "website": null,
+    "discovered_at": "2026-11-15 22:22:08.705980"
+  },
+  {
+    "place_id": "0x3b05a50025bef819:0",
+    "name": "M M house",
+    "address": "92M2+VH7, Mukkola-Thennoorkonam Rd",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 22:22:07.486988"
+  },
+  {
+    "place_id": "0x3b05af0050a43365:0",
+    "name": "Cure Point",
+    "address": "C28C+W79",
+    "category": "Pharmacy",
+    "phone": "+91 97464 22600",
+    "website": null,
+    "discovered_at": "2026-11-15 22:22:06.177792"
+  },
+  {
+    "place_id": "0x3b05af549a254109:0",
+    "name": "Ideal Ayurvedic Resort Kerala, Kovalam, Trivandrum",
+    "address": "",
+    "category": "3-star hotel",
+    "phone": "+91 98957 34005",
+    "website": null,
+    "discovered_at": "2026-11-15 22:22:04.924815"
+  },
+  {
+    "place_id": "0x3b05a5f733cd6895:0",
+    "name": "Dr Unni's Prittwi Resort",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 95674 04028",
+    "website": null,
+    "discovered_at": "2026-11-15 22:22:03.412903"
+  },
+  {
     "place_id": "0x3b05b90015ddc501:0",
     "name": "Mizpha wedding events",
     "address": "31",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:54:20.406422"
-  },
-  {
-    "place_id": "0x865cf5fa368bed67:0",
-    "name": "River City Eye Associates, PLLC",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:54:19.208200"
-  },
-  {
-    "place_id": "0x865cf4f9ce33d387:0",
-    "name": "National Vision",
-    "address": "",
-    "category": "Optician",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:54:18.027398"
-  },
-  {
-    "place_id": "0x865cf7001fe8004f:0",
-    "name": "San Antonio Eye Center",
-    "address": "",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:54:16.783712"
-  },
-  {
-    "place_id": "0x865cf7b5476d1e59:0",
-    "name": "Bright Eyecare PLLC",
-    "address": "",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:54:15.532240"
-  },
-  {
-    "place_id": "0x865cf7e0d7106981:0",
-    "name": "Southern Eye Care PLLC",
-    "address": "",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:54:14.306596"
-  },
-  {
-    "place_id": "0x865c5847e7bfdf6f:0",
-    "name": "San Antonio Eye Center",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:54:13.027297"
-  },
-  {
-    "place_id": "0x865cf670f365d2f7:0",
-    "name": "UIW Bowden Eye Care & Health Institute",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:54:11.788771"
-  },
-  {
-    "place_id": "0x865cf541f6ecac17:0",
-    "name": "San Antonio Eye Center",
-    "address": "",
-    "category": "Ophthalmology clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:54:10.580790"
   }
 ]
