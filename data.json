@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05af18194e547b:0",
+    "name": "Attham Clinical Laboratory",
+    "address": "Kannaravila junction M. M building, near Akshaya E Kendram",
+    "category": "Medical laboratory",
+    "phone": "+91 75102 38098",
+    "website": null,
+    "discovered_at": "2026-11-15 16:32:49.058159"
+  },
+  {
+    "place_id": "0x3b05c704a3858b05:0",
+    "name": "Amritha A S",
+    "address": "",
+    "category": "Psychologist",
+    "phone": "+91 88917 94892",
+    "website": null,
+    "discovered_at": "2026-11-15 16:32:47.770066"
+  },
+  {
+    "place_id": "0x3b05c7ea21af82d3:0",
+    "name": "Changathy Events office",
+    "address": "Souparnika,kundarakuzhy,iriyanad",
+    "category": "Event management company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 16:32:46.504019"
+  },
+  {
+    "place_id": "0x3b05c93a941e7507:0",
+    "name": "BR EVENTS",
+    "address": "near, Main road",
+    "category": "Event management company",
+    "phone": "+91 94974 46713",
+    "website": null,
+    "discovered_at": "2026-11-15 16:32:45.235824"
+  },
+  {
     "place_id": "0x3b05af60b2f5b6ef:0",
     "name": "Diyan Motor Driving Schoool",
     "address": "Trivandrum",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 09:11:37.957980"
-  },
-  {
-    "place_id": "0x3b05c96cfaa3581d:0",
-    "name": "SUBI ASSOCIATES",
-    "address": "M3FJ+7MJ",
-    "category": "Real estate agency",
-    "phone": "+91 94478 61890",
-    "website": null,
-    "discovered_at": "2026-11-15 09:11:36.728186"
-  },
-  {
-    "place_id": "0x3b05c92820317ba9:0",
-    "name": "V S Farms",
-    "address": "M3GP+43Q",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 09:11:35.437625"
-  },
-  {
-    "place_id": "0x3b05c9bd7b27a369:0",
-    "name": "Grace motors vithura",
-    "address": "M3GP+43Q",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 09:11:34.109192"
-  },
-  {
-    "place_id": "0x3b05c1004d3d9f09:0",
-    "name": "Shoeden Thiruvananthapuram",
-    "address": "MVHX+CXH, MWH2+94R, SH 47",
-    "category": "Furniture store",
-    "phone": "+91 82810 32015",
-    "website": null,
-    "discovered_at": "2026-11-15 09:11:32.744031"
   }
 ]
