@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b060b363ec4c7cb:0",
+    "name": "AMIGO ANIMAL CARE",
+    "address": "Jadayankavu road, near railway station",
+    "category": "Veterinarian",
+    "phone": "+91 79077 49745",
+    "website": null,
+    "discovered_at": "2026-11-15 14:53:42.692354"
+  },
+  {
+    "place_id": "0x3b05c917c5b5fbcf:0",
+    "name": "Royal group Caters & Event management",
+    "address": "M3FJ+7JV",
+    "category": "Event planner",
+    "phone": "+91 99465 94151",
+    "website": null,
+    "discovered_at": "2026-11-15 14:53:41.431863"
+  },
+  {
+    "place_id": "0x3b05c95a243f1143:0",
+    "name": "Wedbee Wedding Films",
+    "address": "Wednee Wedding Film",
+    "category": "Wedding planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 14:53:40.150986"
+  },
+  {
     "place_id": "0x3b05e90017f8ab0b:0",
     "name": "ZAF TRAVELS",
     "address": "PQ6R+4RX",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 04:45:48.914297"
-  },
-  {
-    "place_id": "0x880e30d8be0309d9:0",
-    "name": "Margie's Furniture",
-    "address": "5627 W 63rd St",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:45:47.755712"
-  },
-  {
-    "place_id": "0x8811d8741dab961d:0",
-    "name": "Muebleria Jalisco Furniture",
-    "address": "10214 S Ewing Ave",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:45:46.572545"
-  },
-  {
-    "place_id": "0x880e2db0fe3b22c5:0",
-    "name": "New Chicago Century Furniture",
-    "address": "3034 S Wentworth Ave",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:45:45.188681"
   }
 ]
