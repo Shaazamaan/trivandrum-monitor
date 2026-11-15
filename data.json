@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bf84886a158b:0",
+    "name": "SPECS PLUS OPTICALS & EYE CLINIC",
+    "address": "HVQ4+G7H, Railway Station Rd",
+    "category": "Optician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 06:40:30.494609"
+  },
+  {
+    "place_id": "0x3b05bf2ce483fd91:0",
+    "name": "Lenscraft Opticals",
+    "address": "near, Station Kadavu Rd",
+    "category": "Optometrist",
+    "phone": "+91 62354 19553",
+    "website": null,
+    "discovered_at": "2026-11-15 06:40:29.216056"
+  },
+  {
+    "place_id": "0x3b05e989de1d1703:0",
+    "name": "Kx Pharma-Varkala",
+    "address": "KIMS MEDICAL CENTRE, Palachira - Karathala -Thettikulam Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 06:40:27.928258"
+  },
+  {
     "place_id": "0x3b05c5853c36b975:0",
     "name": "VAIDHYARMANDHIRAM HOSPITAL LLP Sidha-Ayurveda-Unani-Kalari Marma Thirummu-Yoga-Nattuvaidya Chikithsalayam-Oushadhashala",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 20:15:42.138370"
-  },
-  {
-    "place_id": "0x2db7cbc071e2b621:0",
-    "name": "Clever Adventures",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:15:40.869267"
-  },
-  {
-    "place_id": "0x24a15b1e8ffaf76d:0",
-    "name": "Endless Horizons Travel Company, LLC",
-    "address": "3120 W Carefree Hwy",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:15:39.603677"
-  },
-  {
-    "place_id": "0x872b988eb7c3b961:0",
-    "name": "AZ Trails Travel",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:15:38.379808"
   }
 ]
