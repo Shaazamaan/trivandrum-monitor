@@ -1,5 +1,284 @@
 [
   {
+    "place_id": "0x89b5effc7e3908e7:0",
+    "name": "At The Hub LLC",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:46:03.447251"
+  },
+  {
+    "place_id": "0x89b7b11f9a54aa6d:0",
+    "name": "Del Ray Cowork",
+    "address": "2210 Mt Vernon Ave",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:46:02.123012"
+  },
+  {
+    "place_id": "0x89b63782f41da839:0",
+    "name": "AKG Design Studio",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:46:00.888594"
+  },
+  {
+    "place_id": "0x89b653c4bcc1f7cd:0",
+    "name": "Shea Studio Interiors, Inc",
+    "address": "9113 Silver Pointe Way",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:59.720428"
+  },
+  {
+    "place_id": "0x91c99a1280e06dd:0",
+    "name": "Joy Edwards Design",
+    "address": "6011 Captain Marr Ct",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:58.576121"
+  },
+  {
+    "place_id": "0x89b6495f59389891:0",
+    "name": "Thereron Design Studio, LLC.",
+    "address": "2967 Chain Bridge Rd",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:57.434890"
+  },
+  {
+    "place_id": "0x89b6499d9e0f9963:0",
+    "name": "KBJ Interiors",
+    "address": "10908 Watermill Ct",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:56.187415"
+  },
+  {
+    "place_id": "0x89b6411817bb9c6d:0",
+    "name": "Blush Medi Spa",
+    "address": "",
+    "category": "Medical spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:55.026117"
+  },
+  {
+    "place_id": "0x89b6394059f95e47:0",
+    "name": "The NOW Massage Ashburn",
+    "address": "",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:53.766201"
+  },
+  {
+    "place_id": "0x89b63bf93216c07b:0",
+    "name": "Amenity Esthetics & Day Spa - Laser, Injectables, Hormones, and Weight Management Center",
+    "address": "",
+    "category": "Medical spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:51.895406"
+  },
+  {
+    "place_id": "0x89b63bfe9de6ea25:0",
+    "name": "Power Train Sports & Fitness",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:50.620372"
+  },
+  {
+    "place_id": "0x89b637785ad92e4b:0",
+    "name": "Elegant Beauty Salon",
+    "address": "165 Seneca Ridge Dr",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:49.436188"
+  },
+  {
+    "place_id": "0x89b6384839cf929b:0",
+    "name": "Artisan Hair & Beauty By Design",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:48.245387"
+  },
+  {
+    "place_id": "0x89b63d73d0f9de77:0",
+    "name": "Dream Salon",
+    "address": "",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:47.053944"
+  },
+  {
+    "place_id": "0x89b647400de24fd9:0",
+    "name": "Plum Market",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:45.859742"
+  },
+  {
+    "place_id": "0x89c80349218e3f7d:0",
+    "name": "Giant Food",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:44.180508"
+  },
+  {
+    "place_id": "0x89b7b4062defb9b3:0",
+    "name": "Casa Furniture - Arlington",
+    "address": "",
+    "category": "Mattress store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:42.815189"
+  },
+  {
+    "place_id": "0x89b65b200e3da301:0",
+    "name": "Marco Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:41.394954"
+  },
+  {
+    "place_id": "0x89b7b68666d32115:0",
+    "name": "Ethan Allen",
+    "address": "2900 Wilson Blvd Ste 102",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:40.200688"
+  },
+  {
+    "place_id": "0x89b7b2ecbf5621e5:0",
+    "name": "Z Modern Furniture Store",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:39.046277"
+  },
+  {
+    "place_id": "0x89b65b8892934923:0",
+    "name": "Furniture House Galleries",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:37.823650"
+  },
+  {
+    "place_id": "0x89b7bbe19c42c1c5:0",
+    "name": "MD Discount Furniture and Mattress",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:36.609647"
+  },
+  {
+    "place_id": "0x89b65b7403416f17:0",
+    "name": "The Furniture House",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:34.785847"
+  },
+  {
+    "place_id": "0x89b64427dff8746b:0",
+    "name": "Real Wood Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:33.590410"
+  },
+  {
+    "place_id": "0x89b7bfb048b73221:0",
+    "name": "Bargain Furniture Warehouse",
+    "address": "8531 Walker Mill Rd",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:32.420860"
+  },
+  {
+    "place_id": "0x884d0d95bee020fd:0",
+    "name": "Bassett Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:31.268709"
+  },
+  {
+    "place_id": "0x89b65de4af9152dd:0",
+    "name": "Bob's Discount Furniture and Mattress Store",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:30.064814"
+  },
+  {
+    "place_id": "0x89b7b6900fc0c0f3:0",
+    "name": "Gala Futons and Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:28.843443"
+  },
+  {
+    "place_id": "0x89b63845bc378d0d:0",
+    "name": "Home Value Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:27.720444"
+  },
+  {
+    "place_id": "0x88582ef0129f1e43:0",
+    "name": "Bassett Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:26.562731"
+  },
+  {
+    "place_id": "0x3b05bba13674537f:0",
+    "name": "Aymen",
+    "address": "28/1685, Shop No, ABAD Towers, 3 & 6, near Ayyappas",
+    "category": "Cell phone store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:45:25.344271"
+  },
+  {
     "place_id": "0x3b05bb3d5e530781:0",
     "name": "Nainika Designer Boutique",
     "address": "Nainika designer boutique, CV Raman Pillai Rd, opp. Thycaud house",
@@ -8719,284 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:53:59.106210"
-  },
-  {
-    "place_id": "0x865c59befdf91089:0",
-    "name": "Liberty Rehabilitation Specialists - San Antonio",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:57.871012"
-  },
-  {
-    "place_id": "0x865c93eb9a425e81:0",
-    "name": "CHRISTUS Health | PT Solutions of Cibolo",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:56.669848"
-  },
-  {
-    "place_id": "0x865cf44d7451e5e7:0",
-    "name": "Service Members In Training Physical Therapy Clinic",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:55.472289"
-  },
-  {
-    "place_id": "0x865c65455fabbe1b:0",
-    "name": "Results Physiotherapy Leon Springs, Texas",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:54.245115"
-  },
-  {
-    "place_id": "0x865c8bbcd5c463d1:0",
-    "name": "FYZICAL Therapy & Balance Centers",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:53.024221"
-  },
-  {
-    "place_id": "0x865c586b43d0a67b:0",
-    "name": "Select Physical Therapy - SW Military",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:51.632667"
-  },
-  {
-    "place_id": "0x865c675032c63ac9:0",
-    "name": "Phase 4 Physiotherapy",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:50.384816"
-  },
-  {
-    "place_id": "0x865cf31213759b99:0",
-    "name": "Mission Physical Rehabilitation and Sports Medicine",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:49.176219"
-  },
-  {
-    "place_id": "0x865c597af26ca6bf:0",
-    "name": "Injury 2 Wellness Clinic - Federal Worker's Comp MedClinics & Therapy",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:47.888594"
-  },
-  {
-    "place_id": "0x865c590025f77063:0",
-    "name": "Clinic cody Jones neuromuscular therapy",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:46.653793"
-  },
-  {
-    "place_id": "0x865cf7718b7ff577:0",
-    "name": "Texas Physical Therapy Specialists",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:45.096623"
-  },
-  {
-    "place_id": "0x865c5f50f71d0345:0",
-    "name": "Healthlink Physical Therapy - Downtown",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:43.741769"
-  },
-  {
-    "place_id": "0x865c5fee8e63717d:0",
-    "name": "Olmos Park Physio",
-    "address": "",
-    "category": "Physical therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:42.545380"
-  },
-  {
-    "place_id": "0x865cf518f4e2832b:0",
-    "name": "Essential Physiotherapy and Wellness Clinic LLC",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:41.251540"
-  },
-  {
-    "place_id": "0x865cf54236854f93:0",
-    "name": "Results Physiotherapy Alamo Heights, Texas",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:40.011998"
-  },
-  {
-    "place_id": "0x865cf71a6a7715f1:0",
-    "name": "Results Physiotherapy Brooks City Base, Texas",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:38.802190"
-  },
-  {
-    "place_id": "0x865c595a293a81a3:0",
-    "name": "Positive Action Rehab & Performance",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:37.590538"
-  },
-  {
-    "place_id": "0x865c67558a4ff769:0",
-    "name": "San Antonio Skin & Cancer Clinic",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:36.012334"
-  },
-  {
-    "place_id": "0x865cf778f77346ed:0",
-    "name": "Texas Dermatology - Brooks Mission Trail",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:34.727324"
-  },
-  {
-    "place_id": "0x865cf501551a5483:0",
-    "name": "Skin Laundry - Alamo Heights",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:33.524040"
-  },
-  {
-    "place_id": "0x865cc3fa24c050b3:0",
-    "name": "Gj Skin Clinic",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:32.275000"
-  },
-  {
-    "place_id": "0x865c5f74b0f93d2f:0",
-    "name": "Westlake Dermatology & Cosmetic Surgery - Olmos Park",
-    "address": "3910 McCullough Avenue",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:30.473279"
-  },
-  {
-    "place_id": "0x865c61f9aeab7065:0",
-    "name": "Zhin Beauty",
-    "address": "8746 Wurzbach Road",
-    "category": "Eyebrow bar",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:29.238725"
-  },
-  {
-    "place_id": "0x865c59261a401811:0",
-    "name": "Urgent Dental Care",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:28.029255"
-  },
-  {
-    "place_id": "0x865cf7b539e305a9:0",
-    "name": "Monarch Dental & Orthodontics - San Antonio, TX (Highlands)",
-    "address": "3800 S New Braunfels Ave Ste 100",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:26.780849"
-  },
-  {
-    "place_id": "0x865c5ecf72c0aab7:0",
-    "name": "24th Street Dental Care",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:25.527767"
-  },
-  {
-    "place_id": "0x865cf64b788b1861:0",
-    "name": "Hernandez Dental Center",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:24.345230"
-  },
-  {
-    "place_id": "0x865cf7b6a88b71ad:0",
-    "name": "The Dental Doc",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:23.055617"
-  },
-  {
-    "place_id": "0x865cf58d5a845a57:0",
-    "name": "Great White Dental",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:21.863931"
-  },
-  {
-    "place_id": "0x865cf5ff9a6b74b9:0",
-    "name": "S A Christian Dental Clinic",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:20.634144"
-  },
-  {
-    "place_id": "0x865cf776e6f5523d:0",
-    "name": "City Base Dental Care",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:19.269641"
   }
 ]
