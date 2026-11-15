@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05a500125416db:0",
+    "name": "SUREE",
+    "address": "GV Raja Rd",
+    "category": "Bag shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 16:40:01.369297"
+  },
+  {
     "place_id": "0x3b05af18194e547b:0",
     "name": "Attham Clinical Laboratory",
     "address": "Kannaravila junction M. M building, near Akshaya E Kendram",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 09:20:36.673993"
-  },
-  {
-    "place_id": "0x3b05c9002dfeecc3:0",
-    "name": "Manali, Vithura",
-    "address": "M3VW+G7W, Thavakkal Rd",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 09:11:37.957980"
   }
 ]
