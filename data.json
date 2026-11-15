@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb007b81cc95:0",
+    "name": "Sign laban Kuravankonam",
+    "address": "",
+    "category": "Dessert shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 18:26:15.360246"
+  },
+  {
+    "place_id": "0x3b05bbb6ad1b4751:0",
+    "name": "Blue Net Driving School",
+    "address": "FX7J+VWQ, Madhathil Temple Rd",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 18:26:14.084085"
+  },
+  {
     "place_id": "0x3b05bb003f536d75:0",
     "name": "ALAMRIN JUICE HUB",
     "address": "Vignesh Tyres, junction",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:11:03.000908"
-  },
-  {
-    "place_id": "0x808fb14c9b27cba3:0",
-    "name": "PhysioFit Physical Therapy & Wellness",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:11:01.754142"
-  },
-  {
-    "place_id": "0x808fa540de3df7c5:0",
-    "name": "Stanford General Dermatology Clinic at Portola Valley",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:11:00.495164"
   }
 ]
