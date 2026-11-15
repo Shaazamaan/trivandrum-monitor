@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b080d1f6776ed77:0",
+    "name": "ZEESH CLOTHING STORE",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 96336 45123",
+    "website": null,
+    "discovered_at": "2026-11-15 08:49:14.426784"
+  },
+  {
+    "place_id": "0x3b05bf888449e50f:0",
+    "name": "The little baker home delight",
+    "address": "SMRA 337, Manvila, kulathoor p.o",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:49:13.242866"
+  },
+  {
+    "place_id": "0x3b05b900010c4709:0",
+    "name": "Ayurvedic Treatment Centre",
+    "address": "GWWM+PF5, near NSS karayogam Hall",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:49:11.984749"
+  },
+  {
+    "place_id": "0x3b05bb006b6a65c3:0",
+    "name": "Bliss Full Bay Spa & Wellness Beauty Care",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:49:10.715658"
+  },
+  {
+    "place_id": "0x3b05bba7dfd67663:0",
+    "name": "DUMLY BIRIYANI",
+    "address": "Attakulangara, near CSB Bank",
+    "category": "Takeout Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:49:08.868276"
+  },
+  {
+    "place_id": "0x641a1ec999da6381:0",
+    "name": "Ajinas Physio DNA | Orthopedic | Neurological | Rehabilitation | Physiotherapy Clinic Trivandrum",
+    "address": "TC 49/46, MANACAUD.P.O, near New Medicals",
+    "category": "Physical therapy clinic",
+    "phone": "+91 96339 30095",
+    "website": null,
+    "discovered_at": "2026-11-15 08:49:07.426531"
+  },
+  {
     "place_id": "0xa240a4d5d702ce75:0",
     "name": "Avighna Travels",
     "address": "Trivandrum",
@@ -8944,59 +8998,5 @@
     "phone": "+91 88917 95867",
     "website": null,
     "discovered_at": "2026-11-14 23:42:45.160735"
-  },
-  {
-    "place_id": "0x3b05b300037bb893:0",
-    "name": "Vysakh Ayurveda",
-    "address": "Mylakkara UP School Rd",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 23:42:43.778475"
-  },
-  {
-    "place_id": "0x3b05b07b91dde005:0",
-    "name": "Govt. Ayurveda Dispensary, Vilavoorkal",
-    "address": "F2H9+F6R, Malayam Malavila Rd",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 23:42:42.547268"
-  },
-  {
-    "place_id": "0x3b05b3002c43ae63:0",
-    "name": "Vaidyadham Ayurveda Chikitsalayam",
-    "address": "G4JF+963, Kallikkadu Mylakkara",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 62821 84152",
-    "website": null,
-    "discovered_at": "2026-11-14 23:42:41.275562"
-  },
-  {
-    "place_id": "0x3b05b500218c0c7f:0",
-    "name": "Kottur Govt. Ayurveda Hospital",
-    "address": "G. H",
-    "category": "Community center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 23:42:40.018658"
-  },
-  {
-    "place_id": "0x3b05af5167004579:0",
-    "name": "Kailasam Physical Center",
-    "address": "C22G+8X8",
-    "category": "Physical fitness program",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 23:35:49.457550"
-  },
-  {
-    "place_id": "0x3b05a52e0d131905:0",
-    "name": "FRUIT BEE JUICE SHOP",
-    "address": "FRUIT BEE JUICE SHOP",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 23:28:24.856730"
   }
 ]
