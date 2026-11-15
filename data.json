@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05b11dcaf69fc9:0",
+    "name": "Wellness Pharma (Medical Store)",
+    "address": "Closes 2 PM",
+    "category": "Open",
+    "phone": "+91 62383 80494",
+    "website": null,
+    "discovered_at": "2026-11-15 02:30:51.101412"
+  },
+  {
+    "place_id": "0x3b05b749d52d26db:0",
+    "name": "J S Micro Lab",
+    "address": "M S Building, Hospital Rd",
+    "category": "Diagnostic center",
+    "phone": "+91 79070 10800",
+    "website": null,
+    "discovered_at": "2026-11-15 02:30:49.832505"
+  },
+  {
+    "place_id": "0x3b05b70047ba40fb:0",
+    "name": "Arunima Clinical Laboratory & ECG",
+    "address": "G3PP+4JQ, Kattakkada Kottoor Rd",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:30:48.535525"
+  },
+  {
+    "place_id": "0x3b05a978cbef3bd7:0",
+    "name": "Ayillyam Aviary",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": "+91 96459 23376",
+    "website": null,
+    "discovered_at": "2026-11-15 02:30:47.196056"
+  },
+  {
     "place_id": "0x3b05afd1438e434f:0",
     "name": "Salala mobiles Nms Balaramapuram",
     "address": "near SBI Bank",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 16:44:40.433508"
-  },
-  {
-    "place_id": "0x880fd1df981eeb65:0",
-    "name": "New Taj Emporium",
-    "address": "2639 W Devon Ave",
-    "category": "Jewelry repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:39.263114"
-  },
-  {
-    "place_id": "0x880fd12a2d5c6947:0",
-    "name": "Kalyan Jewellers - Chicago",
-    "address": "2658 W Devon Ave",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:38.084874"
-  },
-  {
-    "place_id": "0x880fd1df9691e987:0",
-    "name": "N P Jewelers, Inc.",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:36.182864"
-  },
-  {
-    "place_id": "0x880fd387dea00f31:0",
-    "name": "gorjana",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:34.393124"
   }
 ]
