@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b05b30c1fbabdb9:0",
+    "name": "Heavenly Threads",
+    "address": "Heavenly Threads",
+    "category": "Boutique",
+    "phone": "+91 91889 63614",
+    "website": null,
+    "discovered_at": "2026-11-15 19:36:37.547583"
+  },
+  {
+    "place_id": "0x3b05b2456ccd7fbf:0",
+    "name": "Kripa Medicals",
+    "address": "F4GP+M2W, Nedumangad - Kattakkada - Vellarada Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:36:36.292512"
+  },
+  {
+    "place_id": "0x3b05b3d0e18d283b:0",
+    "name": "Lilly Medicals",
+    "address": "F4W6+C2R",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:36:35.123543"
+  },
+  {
+    "place_id": "0x3b05b1dd458f1f2f:0",
+    "name": "SREYAS NYAYAVILA PHARMACY",
+    "address": "Brothers arcade, Kattuvila, Peyad - Vellanad Rd",
+    "category": "Pharmacy",
+    "phone": "+91 88917 97695",
+    "website": null,
+    "discovered_at": "2026-11-15 19:36:33.910961"
+  },
+  {
+    "place_id": "0x3b05b1818897817b:0",
+    "name": "Aswas Community Pharmacy",
+    "address": "Aswas Community Pharmacy",
+    "category": "Pharmacy",
+    "phone": "+91 98956 28406",
+    "website": null,
+    "discovered_at": "2026-11-15 19:36:32.745004"
+  },
+  {
+    "place_id": "0x3b05b5ad4c5d8a3f:0",
+    "name": "vedvaidya ayurveda clinic",
+    "address": "Neyyar Dam",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 97445 59799",
+    "website": null,
+    "discovered_at": "2026-11-15 19:36:31.581533"
+  },
+  {
+    "place_id": "0x3b05b19585e160d9:0",
+    "name": "Esha Ayurveda",
+    "address": "Esha Ayurveda, Vilavoorkal",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:36:30.284355"
+  },
+  {
+    "place_id": "0x3b05a94af5f6f375:0",
+    "name": "DAY 1 SUPERMARKET",
+    "address": "DAY 1 SUPER MARKET THIRUPURAM, Road",
+    "category": "Supermarket",
+    "phone": "+91 99956 96125",
+    "website": null,
+    "discovered_at": "2026-11-15 19:36:29.037148"
+  },
+  {
+    "place_id": "0x3b05a9006165ab47:0",
+    "name": "ALBIN BHAVAN",
+    "address": "839M+5X7, Vizhinjam - Uchakkada Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:36:27.856716"
+  },
+  {
     "place_id": "0x3b05af0058f2e585:0",
     "name": "Mobilezone",
     "address": "92WF+4JM",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:13:50.849687"
-  },
-  {
-    "place_id": "0x808e338487cb1cb5:0",
-    "name": "Engenius Learning Center of Willow Glen",
-    "address": "1445 Foxworthy Ave #50",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:48.521367"
-  },
-  {
-    "place_id": "0x808e2d68cd880b23:0",
-    "name": "JEI Learning Center",
-    "address": "",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:45.918232"
-  },
-  {
-    "place_id": "0x808fc65b79da4789:0",
-    "name": "MT Learning Center",
-    "address": "",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:44.719415"
-  },
-  {
-    "place_id": "0x808e2e2e5e652fdb:0",
-    "name": "24 Hour Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:42.539244"
-  },
-  {
-    "place_id": "0x808e2e0c3b2d730d:0",
-    "name": "The Plex Athletic Club",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:39.888268"
-  },
-  {
-    "place_id": "0x808e34660d14f913:0",
-    "name": "24 Hour Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:38.654049"
-  },
-  {
-    "place_id": "0x864e7f06e46c2013:0",
-    "name": "CrossFit Fort Worth East",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:36.354291"
-  },
-  {
-    "place_id": "0x808e317fa0d1236d:0",
-    "name": "Focus Fitness Club",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:35.151012"
-  },
-  {
-    "place_id": "0x864e713f91d7cf35:0",
-    "name": "Vigor Active",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:33.872261"
   }
 ]
