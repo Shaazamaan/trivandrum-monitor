@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05c326e84da0a5:0",
+    "name": "Mangalathu Medicals",
+    "address": "QV8G+J89, SH 46",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 06:16:42.283566"
+  },
+  {
+    "place_id": "0x3b05c32f7b0723af:0",
+    "name": "Janaki Medicals",
+    "address": "QVCJ+C3F",
+    "category": "Pharmacy",
+    "phone": "+91 96453 84262",
+    "website": null,
+    "discovered_at": "2026-11-15 06:16:41.007937"
+  },
+  {
+    "place_id": "0x3b05e9000ab02db3:0",
+    "name": "AKHIL MT Associates Alamcode",
+    "address": "PRF7+F4W",
+    "category": "Certified public accountant",
+    "phone": "+91 95443 66699",
+    "website": null,
+    "discovered_at": "2026-11-15 06:16:39.732676"
+  },
+  {
+    "place_id": "0x3b05dd641f3cc353:0",
+    "name": "Tax Pro Solution",
+    "address": "Opens 10 AM Mon",
+    "category": "Closed",
+    "phone": "+91 72934 63618",
+    "website": null,
+    "discovered_at": "2026-11-15 06:16:38.485785"
+  },
+  {
     "place_id": "0x3b05ebc6f7c48d6f:0",
     "name": "PANGALI",
     "address": "Shop No 1, Pankali Mens Hub Near Market Junction Kadakkavoor Chirayinkeezh, Road",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 20:15:23.307547"
-  },
-  {
-    "place_id": "0x872b15d22f7b0a7d:0",
-    "name": "Maca Events",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:15:20.872198"
-  },
-  {
-    "place_id": "0x872b4166adff681f:0",
-    "name": "Pop Life Events",
-    "address": "9920 W Camelback Rd Apt 1084",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:15:19.527661"
-  },
-  {
-    "place_id": "0x872b6d99b4c031e9:0",
-    "name": "Orchard Events & Catering",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:15:17.255777"
-  },
-  {
-    "place_id": "0x872b6fe20f0c77b3:0",
-    "name": "Monarch Events",
-    "address": "Opens 9 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:15:14.559173"
   }
 ]
