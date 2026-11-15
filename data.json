@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05b9c1e70583df:0",
+    "name": "Adorn U Beauty Parlour",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:52:36.713017"
+  },
+  {
+    "place_id": "0x3b05b984d39a819f:0",
+    "name": "S.P General Store",
+    "address": "",
+    "category": "General store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:52:35.509710"
+  },
+  {
+    "place_id": "0x3b05b96e0ad31acf:0",
+    "name": "Kappi & Benne",
+    "address": "Narmada shopping complex",
+    "category": "Vegetarian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:52:34.198358"
+  },
+  {
+    "place_id": "0x3b05b93db12d0c11:0",
+    "name": "Kx Pharma-Kudappanakunnu",
+    "address": "TC 21/193(1, Kailas Tower",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:52:32.512751"
+  },
+  {
+    "place_id": "0x3b05b988a708d44b:0",
+    "name": "Sreya Medicals",
+    "address": "Closes 11 PM",
+    "category": "Open",
+    "phone": "+91 97472 62728",
+    "website": null,
+    "discovered_at": "2026-11-15 02:52:31.277821"
+  },
+  {
+    "place_id": "0x3b05b9fe3a556c39:0",
+    "name": "Bestdent Dental Solutions",
+    "address": "CHIRAYIL BOOK HOUSE, NEAR, KURISHADI JUNCTION",
+    "category": "Dental clinic",
+    "phone": "+91 94004 39783",
+    "website": null,
+    "discovered_at": "2026-11-15 02:52:29.513233"
+  },
+  {
+    "place_id": "0x3b05b937ccb05aab:0",
+    "name": "Crescent 432 Dental and Implant Centre",
+    "address": "TC 14, 3200, near Mar Ivanios College Road",
+    "category": "Dental clinic",
+    "phone": "+91 75919 18899",
+    "website": null,
+    "discovered_at": "2026-11-15 02:52:28.291470"
+  },
+  {
+    "place_id": "0x3b05b9fea75b6e8b:0",
+    "name": "Dr Vinayak's DENTOLOGY. Multispeciality Dental Clinic and Implant Center",
+    "address": "Aishwarya Nagar, opposite Bharat Petrol Pump",
+    "category": "Dental clinic",
+    "phone": "+91 90740 77803",
+    "website": null,
+    "discovered_at": "2026-11-15 02:52:26.949104"
+  },
+  {
     "place_id": "0x3b05ba1e138e0b33:0",
     "name": "Jiva Medicals",
     "address": "GXGR+8VM",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 16:45:07.932964"
-  },
-  {
-    "place_id": "0x880e3586ea03bb6d:0",
-    "name": "R Titus Designs",
-    "address": "143 S Oak Park Ave",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:45:06.762165"
-  },
-  {
-    "place_id": "0x880e41332d8adb65:0",
-    "name": "Dramatix Decor",
-    "address": "14352 Lake Ridge Rd",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:45:05.512656"
-  },
-  {
-    "place_id": "0x880fd31edae29a87:0",
-    "name": "CM Studio Interiors - Chicago Interior Designer",
-    "address": "4809 N Ravenswood Ave Ste 413",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:45:01.016914"
-  },
-  {
-    "place_id": "0xadbe75be7d8e9279:0",
-    "name": "Tint Interior Design",
-    "address": "6556 W Roscoe St",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:59.812527"
-  },
-  {
-    "place_id": "0x880e2952f884db39:0",
-    "name": "LNZ DECOR HOME STAGING & DESIGN SERVICES",
-    "address": "6127 S University Ave",
-    "category": "Interior Decorator",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:58.614253"
-  },
-  {
-    "place_id": "0x880e30a2b31685f9:0",
-    "name": "NANCY & ASSOCIATES REALTY",
-    "address": "5425 W 79th St",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:57.432161"
-  },
-  {
-    "place_id": "0x880e3b5dcde13f29:0",
-    "name": "Lorenz Realty Group",
-    "address": "3636 W 111th St 2nd Floor",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:55.952241"
-  },
-  {
-    "place_id": "0x880fd2c00398fc41:0",
-    "name": "Sohail Real Estate Team, eXp Realty | Chicago and NorthShore Realtor",
-    "address": "6348 N Cicero Ave #202",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:54.743261"
   }
 ]
