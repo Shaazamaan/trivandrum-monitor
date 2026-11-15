@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb4c6a79b103:0",
+    "name": "Salem & Associates",
+    "address": "First Floor, T C 4/1883-1, Pandit Colony Road, PO",
+    "category": "Certified public accountant",
+    "phone": "+91 98476 11800",
+    "website": null,
+    "discovered_at": "2026-11-15 20:29:59.995919"
+  },
+  {
+    "place_id": "0x3b05dd871059bb29:0",
+    "name": "Talrop's Village Park at Nilamel",
+    "address": "Talrop's Village Park, near HP petrol Pumb",
+    "category": "Business center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 20:29:58.751256"
+  },
+  {
+    "place_id": "0x98a67903f7b96c5:0",
+    "name": "Milan Travels",
+    "address": "RWG7+29J, Road, opp. Vyapara Bhavan",
+    "category": "Travel agency",
+    "phone": "+91 80787 90333",
+    "website": null,
+    "discovered_at": "2026-11-15 20:29:57.602061"
+  },
+  {
     "place_id": "0x3b05e92fd5bcddb1:0",
     "name": "Sachu's Wedding Company",
     "address": "Sachu's Wedding Company, Pallimukku-Thinavila-Vilayilmoola Road",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:15:16.553738"
-  },
-  {
-    "place_id": "0x2626eb230827fca1:0",
-    "name": "Aakruti Designers Event Planner",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:15:13.978943"
-  },
-  {
-    "place_id": "0x2adb4d210f5d3f09:0",
-    "name": "Three Wishes Planning",
-    "address": "(626) 264-2470",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:15:12.752093"
-  },
-  {
-    "place_id": "0x808fc17a9e72ba1f:0",
-    "name": "The Blue Door Events",
-    "address": "38885 Matson Pl",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:15:10.546680"
   }
 ]
