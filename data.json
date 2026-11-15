@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b90015ddc501:0",
+    "name": "Mizpha wedding events",
+    "address": "31",
+    "category": "Interior Decorator",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 22:14:34.522226"
+  },
+  {
+    "place_id": "0x3b05b91913b5b9cf:0",
+    "name": "Adharva Homes",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 85470 33507",
+    "website": null,
+    "discovered_at": "2026-11-15 22:14:33.351049"
+  },
+  {
+    "place_id": "0x3b05ae6117e972f5:0",
+    "name": "Naseeb Essence Mart",
+    "address": "C34M+376, TB Junction",
+    "category": "Grocery store",
+    "phone": "+91 99448 21243",
+    "website": null,
+    "discovered_at": "2026-11-15 22:14:32.101181"
+  },
+  {
     "place_id": "0x3b05b934017c9059:0",
     "name": "Time Travelers",
     "address": "Sri Vidyadhiraja Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:54:10.580790"
-  },
-  {
-    "place_id": "0x865c5f54aa61f96f:0",
-    "name": "Ophthalmology Associates of San Antonio",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:54:06.609450"
-  },
-  {
-    "place_id": "0x865cf5812f3ab6e1:0",
-    "name": "Vista Optical inside Select Military Exchanges",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:54:05.330191"
-  },
-  {
-    "place_id": "0x87220ca2ef452b2f:0",
-    "name": "Debby Andersen Ayurveda and Yoga",
-    "address": "Opens 11 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:54:04.096987"
   }
 ]
