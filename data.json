@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b0439a9ac99ab1d:0",
+    "name": "Fast Fitness Gym",
+    "address": "13/377, Rice Mill St",
+    "category": "Gym",
+    "phone": "+91 98943 64343",
+    "website": null,
+    "discovered_at": "2026-11-15 03:45:39.209639"
+  },
+  {
     "place_id": "0x3ba7f4a6b74d3acd:0",
     "name": "Pockanchery Eye Care Clinic",
     "address": "Valapad Beach Road",
@@ -8989,14 +8998,5 @@
     "phone": "+91 97784 67700",
     "website": null,
     "discovered_at": "2026-11-14 16:54:04.164813"
-  },
-  {
-    "place_id": "0x865c5fcd6814aecf:0",
-    "name": "Root",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:54:02.891830"
   }
 ]
