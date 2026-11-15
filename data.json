@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bffc0e2557db:0",
+    "name": "GANGOTHRI Electronics",
+    "address": "Al Amana Gold and diamonds, Market Rd, near SREEKARIYAM",
+    "category": "Electronics store",
+    "phone": "+91 98953 24910",
+    "website": null,
+    "discovered_at": "2026-11-15 10:31:40.371004"
+  },
+  {
     "place_id": "0x3b05bb38a7657d67:0",
     "name": "Dama Cafe Trivandrum (Cloud Kitchen - No dine in)",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 01:45:27.208127"
-  },
-  {
-    "place_id": "0x87ee9d06bebc32af:0",
-    "name": "Mei Spa",
-    "address": "",
-    "category": "Massage therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:25.880613"
   }
 ]
