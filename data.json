@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb003f536d75:0",
+    "name": "ALAMRIN JUICE HUB",
+    "address": "Vignesh Tyres, junction",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 18:18:32.246246"
+  },
+  {
+    "place_id": "0x87ec211b5a321f5d:0",
+    "name": "Revived Interiors",
+    "address": "",
+    "category": "Remodeler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 18:18:30.773147"
+  },
+  {
+    "place_id": "0x87ee9b2f5d365541:0",
+    "name": "Melrose Fashion",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 18:18:29.372091"
+  },
+  {
     "place_id": "0x3b05bf56b948674f:0",
     "name": "Keralista",
     "address": "1st Floor, Valiya Veedu, Kallingal Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:11:00.495164"
-  },
-  {
-    "place_id": "0x808e350b67c025d7:0",
-    "name": "Los Gatos Dermatology",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:10:59.259268"
-  },
-  {
-    "place_id": "0x808fbb7f52b2ebd5:0",
-    "name": "Berman Skin Institute | Medical & Cosmetic Dermatology",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:10:57.997944"
-  },
-  {
-    "place_id": "0x808fb0aa0874e217:0",
-    "name": "Clear Skin Clinic",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:10:56.790106"
   }
 ]
