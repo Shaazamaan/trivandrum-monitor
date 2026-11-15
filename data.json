@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb32c61a28a7:0",
+    "name": "Istanbul Rolls and Grills",
+    "address": "",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 12:37:26.604173"
+  },
+  {
+    "place_id": "0x3b05bb98cf1a7c91:0",
+    "name": "S Path Labs And scan",
+    "address": "Tc27/1522 1, Ip Complex, opp. General Hospital Road",
+    "category": "Diagnostic center",
+    "phone": "+91 77367 47333",
+    "website": null,
+    "discovered_at": "2026-11-15 12:37:25.287400"
+  },
+  {
     "place_id": "0x89b2b59dbeadd189:0",
     "name": "Spark Innovation Center",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": "+91 82812 21133",
     "website": null,
     "discovered_at": "2026-11-15 03:01:05.928449"
-  },
-  {
-    "place_id": "0x3b05bba1bd51cf53:0",
-    "name": "Aster Pharmacy - Ambalathara",
-    "address": "TC67/2791, Bhadradeepam Building, near Al Arif Hospital",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 03:01:04.710607"
-  },
-  {
-    "place_id": "0x3b05b1c34dcbaa09:0",
-    "name": "Melt Fitness Studio",
-    "address": "2nd Floor, JJ Building, Pravachambalam Junction Near Mottamoodu Melamcodu Devi Temple, Road, JN",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 03:01:03.527771"
   }
 ]
