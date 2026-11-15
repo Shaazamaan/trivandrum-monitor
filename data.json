@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x54987ac4f1ec021d:0",
+    "name": "PorterKinney, PC",
+    "address": "",
+    "category": "Accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:53:15.447828"
+  },
+  {
+    "place_id": "0x3b05bbc43daf39bb:0",
+    "name": "Seeglob Services LLP",
+    "address": "1D.Carnival technopark",
+    "category": "Travel agency",
+    "phone": "+91 93870 93872",
+    "website": null,
+    "discovered_at": "2026-11-15 23:53:14.153070"
+  },
+  {
+    "place_id": "0x410e652583b8fdf1:0",
+    "name": "LivGray Designs",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:53:12.842184"
+  },
+  {
+    "place_id": "0x54bd4d1f93cd4285:0",
+    "name": "The Apothecary.hair.y Hair Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:53:11.373898"
+  },
+  {
+    "place_id": "0x54bd4d63be727619:0",
+    "name": "Nicks Electronics Cell Phone Repair",
+    "address": "202 N Main St",
+    "category": "Cell phone accessory store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:53:10.148044"
+  },
+  {
     "place_id": "0x3b05bfb2c756c1a7:0",
     "name": "Waiz Designer Studio",
     "address": "Railway Station Rd",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:56:26.491789"
-  },
-  {
-    "place_id": "0x865cf7706b9c8d83:0",
-    "name": "Freshmood.satx",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:25.295580"
-  },
-  {
-    "place_id": "0x865c8bbcbc83507b:0",
-    "name": "Queen Bee Juicery",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:23.071355"
-  },
-  {
-    "place_id": "0x865c8bff329e22af:0",
-    "name": "Just Smash'Em",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:21.812108"
-  },
-  {
-    "place_id": "0x865cf5b0e8cf72cf:0",
-    "name": "Glowers",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:20.529681"
-  },
-  {
-    "place_id": "0x865c59914a674f81:0",
-    "name": "Squeezers Juice Bar",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:19.250804"
   }
 ]
