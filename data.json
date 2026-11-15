@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bf56b948674f:0",
+    "name": "Keralista",
+    "address": "1st Floor, Valiya Veedu, Kallingal Rd",
+    "category": "Tour operator",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 18:04:24.855257"
+  },
+  {
     "place_id": "0x3b042f9c5b18c06b:0",
     "name": "Dayal Jewellery",
     "address": "5/62, Ambai Main Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:10:56.790106"
-  },
-  {
-    "place_id": "0x808fca2178ad469d:0",
-    "name": "Suzy’s skin care",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:10:55.599918"
   }
 ]
