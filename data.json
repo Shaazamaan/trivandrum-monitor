@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x89adc3412e41affb:0",
+    "name": "Travelandplanningmadesimple",
+    "address": "127 Grannys Dr",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 15:15:34.300176"
+  },
+  {
+    "place_id": "0x89b1ff5cf8cafea1:0",
+    "name": "Lake Gaston Realty, Inc.",
+    "address": "143 N Hicks St",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 15:15:32.957569"
+  },
+  {
+    "place_id": "0x3b05bf7b29aaa22d:0",
+    "name": "Hyrecabs-Selfdrive rent a car service",
+    "address": "First floor, paradise building",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 15:15:31.686025"
+  },
+  {
+    "place_id": "0x3b05bf5b35ac69ef:0",
+    "name": "Golden Signature Event & Caterers",
+    "address": "2nd Floor, SS Arcade, near Block Office",
+    "category": "Event management company",
+    "phone": "+91 91889 38541",
+    "website": null,
+    "discovered_at": "2026-11-15 15:15:30.434856"
+  },
+  {
+    "place_id": "0x3b05bd004820f7b7:0",
+    "name": "Simple Events & Caters",
+    "address": "FWR3+MGJ",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 15:15:29.020613"
+  },
+  {
     "place_id": "0x3b060b363ec4c7cb:0",
     "name": "AMIGO ANIMAL CARE",
     "address": "Jadayankavu road, near railway station",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 04:45:55.856335"
-  },
-  {
-    "place_id": "0x880e39df73a2e927:0",
-    "name": "Dream home furniture inc",
-    "address": "8405 S Harlem Ave",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:45:54.473036"
-  },
-  {
-    "place_id": "0x880e29e0d7e3dddb:0",
-    "name": "Best furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:45:52.577895"
-  },
-  {
-    "place_id": "0x880e271fa5f04b21:0",
-    "name": "Ultimate Furniture & Mattress",
-    "address": "9133 S Commercial Ave",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:45:51.354630"
-  },
-  {
-    "place_id": "0x880e6b59902ace2b:0",
-    "name": "Avanti Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:45:50.127619"
-  },
-  {
-    "place_id": "0x880e4acd6d2b3417:0",
-    "name": "Furniture A Outlet Llc",
-    "address": "1521 Mannheim Rd",
-    "category": "Kitchen furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:45:48.914297"
   }
 ]
