@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b934017c9059:0",
+    "name": "Time Travelers",
+    "address": "Sri Vidyadhiraja Rd",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 22:00:46.252941"
+  },
+  {
     "place_id": "0x3b05bebb92545661:0",
     "name": "Mar Dioscorus College of Pharmacy",
     "address": "GWQ2+M37, Alathara Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:54:04.096987"
-  },
-  {
-    "place_id": "0x8644b5c07fd217a5:0",
-    "name": "Rosewood Acupuncture & Ayurveda",
-    "address": "",
-    "category": "Acupuncturist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:54:02.868889"
   }
 ]
