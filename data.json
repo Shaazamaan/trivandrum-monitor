@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05c1a053a0edcf:0",
+    "name": "JM Engineering Works",
+    "address": "Bridge, Near Old NH, Mamom Road",
+    "category": "Laser cutting service",
+    "phone": "+91 99953 32850",
+    "website": null,
+    "discovered_at": "2026-11-15 19:15:19.511884"
+  },
+  {
+    "place_id": "0x3b05e953943c1c91:0",
+    "name": "Eyelandeyewear",
+    "address": "Juma masjid, Mananakku",
+    "category": "Eye care center",
+    "phone": "+91 98959 28273",
+    "website": null,
+    "discovered_at": "2026-11-15 19:15:18.214940"
+  },
+  {
+    "place_id": "0x3b05e94041c3c61f:0",
+    "name": "Thekkans Travel Hub",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:15:16.999694"
+  },
+  {
+    "place_id": "0x3b05e935038a33cf:0",
+    "name": "Saranya, Cherukunnam, Varkala",
+    "address": "PPJP+WQ8",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:15:15.800419"
+  },
+  {
+    "place_id": "0x3b05ef0065545e0f:0",
+    "name": "Geethanjali, Kilithattumukku, Varkala PO Varkala",
+    "address": "PPH7+4QR",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:15:14.098404"
+  },
+  {
+    "place_id": "0x3b05ef87c0942873:0",
+    "name": "Cliff Way Apartments",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 80785 52222",
+    "website": null,
+    "discovered_at": "2026-11-15 19:15:12.924743"
+  },
+  {
+    "place_id": "0x3b05e9e681c1d66f:0",
+    "name": "MAHALEKSHMI TUITION CENTRE",
+    "address": "PPVP+GG5",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:15:11.675661"
+  },
+  {
     "place_id": "0x3b05b900082562d1:0",
     "name": "Sreekaryam",
     "address": "Ekaparnika, SRA-43, Santhi Nagar Rd",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:13:24.048051"
-  },
-  {
-    "place_id": "0x808fb14bc8ee0cc5:0",
-    "name": "Snap Fitness Los Altos",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:22.637804"
-  },
-  {
-    "place_id": "0x808e33d44bf605b3:0",
-    "name": "Forma Gym - 40,000 Sq. Ft. Facility - All Inclusive Membership -15+ Amenities",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:20.487285"
-  },
-  {
-    "place_id": "0x808fcdb146ecb693:0",
-    "name": "24 Hour Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:17.910668"
-  },
-  {
-    "place_id": "0x864e73cb9c0d7331:0",
-    "name": "Westfork Fitness",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:16.033868"
-  },
-  {
-    "place_id": "0x864e6d1e029a2c73:0",
-    "name": "Absolute Recomp Fort Worth",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:14.830793"
-  },
-  {
-    "place_id": "0x808e32a11070d717:0",
-    "name": "24 Hour Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:12.593048"
-  },
-  {
-    "place_id": "0x808e329601fb8479:0",
-    "name": "H&T Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:13:09.904937"
   }
 ]
