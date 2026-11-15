@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05ea52846c48e5:0",
+    "name": "Dindon",
+    "address": "MQ5J+JRQ, Pandakasala-Keleshwaram Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 17:32:23.033488"
+  },
+  {
     "place_id": "0x3b05bfebde40c78f:0",
     "name": "Astra Fashions",
     "address": "ASTRA FASHION'S CHANANKARA, opp. Sree durga Bhagavathi temple",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:10:53.162217"
-  },
-  {
-    "place_id": "0x864e6d7c2f5d20ad:0",
-    "name": "Fort Dental",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:10:51.862502"
   }
 ]
