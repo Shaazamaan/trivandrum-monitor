@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb9841ff01bf:0",
+    "name": "The Lyceum Academy",
+    "address": "KERA-51, Saidarsan, Thampanoor, Kannettumukku Rd",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:46:09.406348"
+  },
+  {
+    "place_id": "0x3b05bb795c0ee301:0",
+    "name": "Sreevalsam Margin Free Market",
+    "address": "FWQQ+C8V",
+    "category": "Grocery store",
+    "phone": "+91 91882 29968",
+    "website": null,
+    "discovered_at": "2026-11-15 09:46:08.215318"
+  },
+  {
     "place_id": "0x3b05bba4ac927b15:0",
     "name": "Jockey Exclusive Store",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": "+91 95390 20598",
     "website": null,
     "discovered_at": "2026-11-15 00:56:16.360789"
-  },
-  {
-    "place_id": "0x841fd7c24d820ed7:0",
-    "name": "Cactus Salon & Spa",
-    "address": "Under Overbridge, near TVS Showroom & Johns Hypermarket",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:15.188899"
-  },
-  {
-    "place_id": "0x3b05bf5be237b9fb:0",
-    "name": "Call boy home massage",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:13.880379"
   }
 ]
