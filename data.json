@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x872b0d61bc2a9af7:0",
+    "name": "Marshalls",
+    "address": "1801 E Camelback Rd",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 03:56:03.284221"
+  },
+  {
+    "place_id": "0x872b130b3a353dc5:0",
+    "name": "Bakery at Brasserie Melrose",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 03:55:59.572714"
+  },
+  {
+    "place_id": "0x872b13b286d45c6d:0",
+    "name": "Paris Baguette",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 03:55:58.281891"
+  },
+  {
+    "place_id": "0x872b6daa28550891:0",
+    "name": "Arizona Humane Society Veterinary Clinic at Sunnyslope Campus",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 03:55:56.881798"
+  },
+  {
+    "place_id": "0x3b05bf92333e0ca3:0",
+    "name": "GREEN TRENDS UNISEX HAIR & STYLE SALON",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 03:55:55.643479"
+  },
+  {
+    "place_id": "0x3b05bf3d37accde7:0",
+    "name": "ABUDHABI MOBILES-AMBALLOOR,KAZHAKKUTTOM",
+    "address": "Kazhakoottam - Thaikod Rd",
+    "category": "Electronics store",
+    "phone": "+91 75111 68732",
+    "website": null,
+    "discovered_at": "2026-11-15 03:55:54.195516"
+  },
+  {
+    "place_id": "0x3b05bf0021554a59:0",
+    "name": "Mobile Plus",
+    "address": "near Cooperarative Bank",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 62383 97366",
+    "website": null,
+    "discovered_at": "2026-11-15 03:55:52.849813"
+  },
+  {
+    "place_id": "0x3b05bf00379ddb2f:0",
+    "name": "AMAL MOBILES",
+    "address": "",
+    "category": "Cell phone store",
+    "phone": "+91 98469 83651",
+    "website": null,
+    "discovered_at": "2026-11-15 03:55:51.551702"
+  },
+  {
+    "place_id": "0x3b05bf002559769f:0",
+    "name": "Orbit Mobiles",
+    "address": "",
+    "category": "Cell phone store",
+    "phone": "+91 99471 75309",
+    "website": null,
+    "discovered_at": "2026-11-15 03:55:50.084879"
+  },
+  {
     "place_id": "0x3b0439a9ac99ab1d:0",
     "name": "Fast Fitness Gym",
     "address": "13/377, Rice Mill St",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 17:01:31.130341"
-  },
-  {
-    "place_id": "0x3b05bbac62291a2d:0",
-    "name": "AGARTTA BOUTIQUE INTERIOR Nandancode",
-    "address": "SAROJ SANCTUM TC11/638(3) MUSEUM, YMR Nanthancode Rd",
-    "category": "Interior Decorator",
-    "phone": "+91 80890 00033",
-    "website": null,
-    "discovered_at": "2026-11-14 17:01:29.894486"
-  },
-  {
-    "place_id": "0x3b05bbd402862dc3:0",
-    "name": "Srijit Srinivas Architects",
-    "address": "1, Belhaven Road",
-    "category": "Architect",
-    "phone": "+91 94470 92404",
-    "website": null,
-    "discovered_at": "2026-11-14 17:01:28.559861"
-  },
-  {
-    "place_id": "0x3b05bba200836f81:0",
-    "name": "A N Design Studio",
-    "address": "TC 23/1603 (2, Golf Links Rd",
-    "category": "Architecture firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 17:01:27.389141"
-  },
-  {
-    "place_id": "0x3b05bb1b65e31fcf:0",
-    "name": "Kowdiar Hub",
-    "address": "Heera Velmont Palace, Junction, POST",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 17:01:26.139498"
-  },
-  {
-    "place_id": "0x3b05ba33c8a3e5d7:0",
-    "name": "Mangalath Medicals",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": "+91 90741 55813",
-    "website": null,
-    "discovered_at": "2026-11-14 17:01:24.958709"
-  },
-  {
-    "place_id": "0x865c6183f709156f:0",
-    "name": "VenturePoint - Stone Oak",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:54:08.124860"
-  },
-  {
-    "place_id": "0x865c89fbae249d1f:0",
-    "name": "Venture X San Antonio - Stone Oak",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:54:06.673725"
-  },
-  {
-    "place_id": "0x865c613dff40ac29:0",
-    "name": "Urban Office - Century Heights",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:54:05.433546"
-  },
-  {
-    "place_id": "0x3b05bb063b11aa43:0",
-    "name": "Guruthwa Study Café",
-    "address": "URR 14, Uppalam Rd",
-    "category": "Coworking space",
-    "phone": "+91 97784 67700",
-    "website": null,
-    "discovered_at": "2026-11-14 16:54:04.164813"
   }
 ]
