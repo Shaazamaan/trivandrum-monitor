@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bb004544b1c1:0",
+    "name": "Rootz Beauty Salon",
+    "address": "opp. Saphalyam complex",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:36:38.675955"
+  },
+  {
+    "place_id": "0x3b05bbdff0c8bbcb:0",
+    "name": "A. S. Motor Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": "+91 94959 01608",
+    "website": null,
+    "discovered_at": "2026-11-15 01:36:37.417088"
+  },
+  {
+    "place_id": "0x3b05bb264584dc85:0",
+    "name": "Nirmala Motor Driving School",
+    "address": "Valiyathura - Beemapally - Poonthura Rd",
+    "category": "Driving school",
+    "phone": "+91 97461 05868",
+    "website": null,
+    "discovered_at": "2026-11-15 01:36:36.200208"
+  },
+  {
+    "place_id": "0x3b05ba504dbc056f:0",
+    "name": "Kripa Driving School",
+    "address": "Besides the, ground, Grandhasala Rd",
+    "category": "Driving school",
+    "phone": "+91 93876 10871",
+    "website": null,
+    "discovered_at": "2026-11-15 01:36:34.965331"
+  },
+  {
+    "place_id": "0x3b05bbffd5511f87:0",
+    "name": "Harisree driving academy",
+    "address": "Opens 8 AM Mon",
+    "category": "Closed",
+    "phone": "+91 98953 45808",
+    "website": null,
+    "discovered_at": "2026-11-15 01:36:33.571107"
+  },
+  {
     "place_id": "0x3b05bb50735501e3:0",
     "name": "BRAVO WELLNESS CARE AND BEAUTY STUDIO",
     "address": "E8A, CARLS, E St",
@@ -8953,50 +8998,5 @@
     "phone": "+91 81290 60705",
     "website": null,
     "discovered_at": "2026-11-14 16:30:03.056516"
-  },
-  {
-    "place_id": "0x3b05beffe07c5649:0",
-    "name": "Hello Mobiles",
-    "address": "Government, High School Rd",
-    "category": "Cell phone store",
-    "phone": "+91 98956 69894",
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:01.773925"
-  },
-  {
-    "place_id": "0x3b05bf899b65d9fb:0",
-    "name": "ZAYL Women Clothing Store",
-    "address": "10 PM",
-    "category": "Closes soon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:30:00.559314"
-  },
-  {
-    "place_id": "0x3b05bf09147584ab:0",
-    "name": "Malaz Restaurant",
-    "address": "Malaz Restaurant Kazhakuttam Service Road, Technopark Rd, near udhaya electronics",
-    "category": "Biryani restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:29:59.349188"
-  },
-  {
-    "place_id": "0x3b05bb001139deb7:0",
-    "name": "Hector Gym Thirumala",
-    "address": "Second floor, above SBI bank",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:22:07.822824"
-  },
-  {
-    "place_id": "0x3b05c71a06679591:0",
-    "name": "Praveen Ponnoli Jewellers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:22:06.526329"
   }
 ]
