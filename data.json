@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05ef29cb9ae3f7:0",
+    "name": "Raj Communications",
+    "address": "PPMG+G3P",
+    "category": "Cell phone store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 05:02:06.794525"
+  },
+  {
+    "place_id": "0x3b05efa961529371:0",
+    "name": "BRAND’S KART",
+    "address": "Temple Rd, near Gmhss Varkala",
+    "category": "Men's clothing store",
+    "phone": "+91 85903 48823",
+    "website": null,
+    "discovered_at": "2026-11-15 05:02:05.549905"
+  },
+  {
+    "place_id": "0x3b05efe1bcd72567:0",
+    "name": "Mujeeb'S Juice & Brew Cafe",
+    "address": "Kurakkanni - Odayam Rd, near CHUPRI CAFE",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 05:02:04.307691"
+  },
+  {
+    "place_id": "0x3b05ef6fcc4bd5c1:0",
+    "name": "Thoppil Dental Clinic",
+    "address": "High School Rd, near Railway gate",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 05:02:02.947363"
+  },
+  {
+    "place_id": "0x3b05bf9b6d5f48e7:0",
+    "name": "VARNAM AUDIOS & EVENTZ",
+    "address": "Monvila alumkuzhivila",
+    "category": "Event management company",
+    "phone": "+91 75590 58504",
+    "website": null,
+    "discovered_at": "2026-11-15 05:02:01.601367"
+  },
+  {
     "place_id": "0x3b05bec7c37f0965:0",
     "name": "Merriments Reporographic Center",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 20:13:27.254488"
-  },
-  {
-    "place_id": "0x872b6d855e9b9105:0",
-    "name": "Zen garden spa",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:26.014307"
-  },
-  {
-    "place_id": "0x872b6d424f609a5d:0",
-    "name": "EōS Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:24.782820"
-  },
-  {
-    "place_id": "0x872b71e00462c805:0",
-    "name": "Randa Beauty Salon",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:23.464740"
-  },
-  {
-    "place_id": "0x872b716e6e3975d9:0",
-    "name": "Laura Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:22.168863"
-  },
-  {
-    "place_id": "0x872b0d104fa7fb6d:0",
-    "name": "Mane Attraction Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:20.940909"
   }
 ]
