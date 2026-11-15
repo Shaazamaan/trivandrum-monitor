@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x549bcd6829ecfdfb:0",
+    "name": "Wenatchee Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 11:30:33.278474"
+  },
+  {
+    "place_id": "0x54995c2ee14471a7:0",
+    "name": "Safeway",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 11:30:31.824273"
+  },
+  {
+    "place_id": "0x54995dad05f4c36f:0",
+    "name": "Mi Casa Market",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 11:30:30.613234"
+  },
+  {
+    "place_id": "0x54995d6a8f4401c9:0",
+    "name": "Grocery Outlet",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 11:30:29.395306"
+  },
+  {
+    "place_id": "0x5498e1ebdc814f13:0",
+    "name": "Heavenly Fresh LLC",
+    "address": "126 E Hemlock St",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 11:30:28.108030"
+  },
+  {
+    "place_id": "0x54986d8f64b075c3:0",
+    "name": "Cafenated",
+    "address": "",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 11:30:26.770367"
+  },
+  {
+    "place_id": "0x549971005b5c7df9:0",
+    "name": "Murphy's Corner Coffee Co.",
+    "address": "1099 WA-283",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 11:30:25.416537"
+  },
+  {
     "place_id": "0x3b05bb83a0598501:0",
     "name": "B G saloon and mens spa",
     "address": "Trivandrum",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 02:15:51.410163"
-  },
-  {
-    "place_id": "0x3b05afa3608172e1:0",
-    "name": "Health Care Community pharmacy",
-    "address": "Kumaraserry, Athiyannoor",
-    "category": "Pharmacy",
-    "phone": "+91 90376 42647",
-    "website": null,
-    "discovered_at": "2026-11-15 02:15:50.169503"
-  },
-  {
-    "place_id": "0x3b05eb0040706b6f:0",
-    "name": "Redzon travel hub",
-    "address": "MRHF+VQM",
-    "category": "Bus tour agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 02:08:33.689856"
-  },
-  {
-    "place_id": "0x3b05e9d7815c41b1:0",
-    "name": "Commerce Info Tech Attingal",
-    "address": "SK Plaza, near Gokulam Medical centre",
-    "category": "Educational institution",
-    "phone": "+91 85478 71616",
-    "website": null,
-    "discovered_at": "2026-11-15 02:08:32.436154"
-  },
-  {
-    "place_id": "0x3b05e9f8f87b0e6b:0",
-    "name": "Selvam",
-    "address": "",
-    "category": "Household goods wholesaler",
-    "phone": "+91 98475 27305",
-    "website": null,
-    "discovered_at": "2026-11-15 02:08:30.744744"
-  },
-  {
-    "place_id": "0x3b05ef627606e019:0",
-    "name": "NANA MINI SUPERMARKET",
-    "address": "",
-    "category": "Supermarket",
-    "phone": "+91 62827 88608",
-    "website": null,
-    "discovered_at": "2026-11-15 02:08:29.465835"
-  },
-  {
-    "place_id": "0x3b05ef1fc4db3a0d:0",
-    "name": "Arya's Spices&Shopping",
-    "address": "Varkala Beach Rd",
-    "category": "Grocery store",
-    "phone": "+91 99466 43345",
-    "website": null,
-    "discovered_at": "2026-11-15 02:08:27.869290"
-  },
-  {
-    "place_id": "0x3b05e90058a35b9d:0",
-    "name": "RILLAS FASHION",
-    "address": "PPCR+3MP, Varkala-Kadakkavoor Road, near Kayattaffice",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 02:01:13.966491"
   }
 ]
