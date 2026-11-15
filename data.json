@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb4cf9b0971f:0",
+    "name": "Traya wellness centre",
+    "address": "Treya wellness, near, MP Appan Rd, near SFS Fairmont",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:01:08.842123"
+  },
+  {
     "place_id": "0x3b05bb00078c7035:0",
     "name": "Vaigapriya supermarket",
     "address": "DBRA92",
@@ -8989,14 +8998,5 @@
     "phone": "+91 98460 10461",
     "website": null,
     "discovered_at": "2026-11-15 00:56:18.686113"
-  },
-  {
-    "place_id": "0x3b05bf11aa9248b7:0",
-    "name": "V&V Production Company",
-    "address": "Kazhakuttom Rd",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:17.505750"
   }
 ]
