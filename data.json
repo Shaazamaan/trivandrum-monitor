@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bb8a0f305b77:0",
+    "name": "Disa Couture",
+    "address": "Saranga A-3",
+    "category": "Boutique",
+    "phone": "+91 98466 06551",
+    "website": null,
+    "discovered_at": "2026-11-15 05:52:57.859314"
+  },
+  {
+    "place_id": "0x3b05bb22297fc18b:0",
+    "name": "Niharika Designs",
+    "address": "77, near Vanitha samajam",
+    "category": "Boutique",
+    "phone": "+91 79944 95045",
+    "website": null,
+    "discovered_at": "2026-11-15 05:52:56.708381"
+  },
+  {
+    "place_id": "0x3b05b978d59d612d:0",
+    "name": "Golden Bakers",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 05:52:55.555124"
+  },
+  {
+    "place_id": "0x3b05bb31eb54dcf5:0",
+    "name": "Optimum multi speciality dental clinic",
+    "address": "Near federal bank",
+    "category": "Dental clinic",
+    "phone": "+91 89434 35267",
+    "website": null,
+    "discovered_at": "2026-11-15 05:52:54.411869"
+  },
+  {
     "place_id": "0x3b05bb96b3c0f889:0",
     "name": "Trivandrum Birthday decorations",
     "address": "Domestic Airport junction Second street",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 20:14:33.523914"
-  },
-  {
-    "place_id": "0x872da139eb2dd1df:0",
-    "name": "Stephanie Larsen Interior Design",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:31.194934"
-  },
-  {
-    "place_id": "0x872b75d48884ac73:0",
-    "name": "IMI Design",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:28.744845"
-  },
-  {
-    "place_id": "0x872ba36d635be17f:0",
-    "name": "Jason Longo Interior Design",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:27.452076"
-  },
-  {
-    "place_id": "0x872b0bbbb406aaab:0",
-    "name": "Britany Simon Design House",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:25.247640"
   }
 ]
