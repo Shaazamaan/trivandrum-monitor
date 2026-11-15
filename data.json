@@ -1,5 +1,104 @@
 [
   {
+    "place_id": "0x3b05bb0e1f9fec2f:0",
+    "name": "Shifa clinic",
+    "address": "k k, Manacaud Nallamthanni Rd",
+    "category": "Doctor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:01:08.000870"
+  },
+  {
+    "place_id": "0x3b05bbec19da082d:0",
+    "name": "Dental-care123",
+    "address": "FXC2+PMQ",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:01:06.700093"
+  },
+  {
+    "place_id": "0x3b05bb4fb36f6aef:0",
+    "name": "Sivam Dental Clinic",
+    "address": "NH 66",
+    "category": "Dental clinic",
+    "phone": "+91 94009 48200",
+    "website": null,
+    "discovered_at": "2026-11-15 23:01:05.430600"
+  },
+  {
+    "place_id": "0x3b05bb650e04095b:0",
+    "name": "GRACE DENTAL SPECIALTY CLINIC",
+    "address": "No.142, 142, Vidya Gardens",
+    "category": "Dental clinic",
+    "phone": "+91 97468 47772",
+    "website": null,
+    "discovered_at": "2026-11-15 23:01:04.085614"
+  },
+  {
+    "place_id": "0x3b05bd8db353084f:0",
+    "name": "Dr. Deepu’s Ferns Dental Clinic",
+    "address": "near FCI Godown",
+    "category": "Dental clinic",
+    "phone": "+91 79070 51375",
+    "website": null,
+    "discovered_at": "2026-11-15 23:01:02.859221"
+  },
+  {
+    "place_id": "0x3b05bb0004e22059:0",
+    "name": "32TalesDentalStudio",
+    "address": "Attakulangara - Enchakkal Rd",
+    "category": "Dental clinic",
+    "phone": "+91 79073 60904",
+    "website": null,
+    "discovered_at": "2026-11-15 23:01:01.226318"
+  },
+  {
+    "place_id": "0x3b05bb5692b95317:0",
+    "name": "Dr. ASIF'S Multispeciality Dental Clinic | Clear Aligners & Braces",
+    "address": "Puthenroad Junction, Vallakadavu Road",
+    "category": "Dental clinic",
+    "phone": "+91 70344 56176",
+    "website": null,
+    "discovered_at": "2026-11-15 23:00:59.856624"
+  },
+  {
+    "place_id": "0x872babc079060557:0",
+    "name": "Co-manity Coworking",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:00:58.626634"
+  },
+  {
+    "place_id": "0x872b0f3091948947:0",
+    "name": "MAC6 Coworking Space",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:00:57.382483"
+  },
+  {
+    "place_id": "0x872b63cd2fb0f313:0",
+    "name": "Quintess Travels",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:00:56.169643"
+  },
+  {
+    "place_id": "0x3b05bbe3bde61cb9:0",
+    "name": "AV HOME TUITION CENTRE",
+    "address": "Anugraha Ave, near Neduncaud road",
+    "category": "Education center",
+    "phone": "+91 86065 58742",
+    "website": null,
+    "discovered_at": "2026-11-15 23:00:54.900838"
+  },
+  {
     "place_id": "0x3b05b9192e1e1639:0",
     "name": "KS EVENT",
     "address": "GXHW+JM7, Puliyarakonam...Rd",
@@ -8899,104 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:55:29.213546"
-  },
-  {
-    "place_id": "0x865cf5b9b518d4df:0",
-    "name": "Sarku Japan",
-    "address": "",
-    "category": "Japanese restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:27.913839"
-  },
-  {
-    "place_id": "0x865c5f54a0e296af:0",
-    "name": "La Panadería Bakery Café",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:24.643074"
-  },
-  {
-    "place_id": "0x865cf59e77007cd7:0",
-    "name": "SNOW ISLAND & What You Want Southern Foods",
-    "address": "",
-    "category": "Soul food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:23.356023"
-  },
-  {
-    "place_id": "0x865cf5c9d269f7c7:0",
-    "name": "AAFES Food Court",
-    "address": "",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:21.164210"
-  },
-  {
-    "place_id": "0x865c5f05874e5555:0",
-    "name": "Four Brothers",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:19.935474"
-  },
-  {
-    "place_id": "0x865c58ab495c52e1:0",
-    "name": "Rainforest Cafe",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:17.152422"
-  },
-  {
-    "place_id": "0x865c597368b4013b:0",
-    "name": "Tokyo Cowboy",
-    "address": "",
-    "category": "Fusion restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:14.772303"
-  },
-  {
-    "place_id": "0x865cf6c565c1180d:0",
-    "name": "Dodd Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:13.240470"
-  },
-  {
-    "place_id": "0x865c61e656762679:0",
-    "name": "CityVet | Castle Hills Veterinary Clinic & Urgent Care",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:10.474984"
-  },
-  {
-    "place_id": "0x865cf132ceda5309:0",
-    "name": "Rigsby Veterinary Clinic",
-    "address": "",
-    "category": "Animal hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:09.257431"
-  },
-  {
-    "place_id": "0x865cf51aa6810465:0",
-    "name": "Terrell Heights Veterinary Hospital",
-    "address": "",
-    "category": "Animal hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:06.604567"
   }
 ]
