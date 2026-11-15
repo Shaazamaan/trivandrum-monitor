@@ -1,5 +1,122 @@
 [
   {
+    "place_id": "0x876f3a569cd5064d:0",
+    "name": "JCPenney",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:02:11.921250"
+  },
+  {
+    "place_id": "0x876f3aeb65d2a647:0",
+    "name": "Buckle",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:02:10.646990"
+  },
+  {
+    "place_id": "0x876f3a512a550401:0",
+    "name": "Zumiez",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:02:09.360697"
+  },
+  {
+    "place_id": "0x876f3baad4fe5a51:0",
+    "name": "Ross Dress for Less",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:02:07.916436"
+  },
+  {
+    "place_id": "0x876f3cab5b3d5b27:0",
+    "name": "Sierra",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:02:06.682308"
+  },
+  {
+    "place_id": "0x876f3b5d2c86be47:0",
+    "name": "Murdoch's Ranch & Home Supply",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:02:05.375716"
+  },
+  {
+    "place_id": "0x876f3a559ef99b2d:0",
+    "name": "Plato's Closet",
+    "address": "",
+    "category": "Used clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:02:04.123342"
+  },
+  {
+    "place_id": "0x876f3a56eca1c915:0",
+    "name": "T.J. Maxx",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:02:02.826121"
+  },
+  {
+    "place_id": "0x876f3ac3e7a8bcf5:0",
+    "name": "The Wrangler",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:02:01.429963"
+  },
+  {
+    "place_id": "0x876f3ac17f7b744f:0",
+    "name": "Just Dandy",
+    "address": "",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:02:00.221170"
+  },
+  {
+    "place_id": "0x3b05bf00651bfc55:0",
+    "name": "Spice Retreat",
+    "address": "Carnival Building, Technopark Rd",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:01:58.923687"
+  },
+  {
+    "place_id": "0x3b05bef6c318d995:0",
+    "name": "Cloud Technologies & Solutions",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:01:54.896048"
+  },
+  {
+    "place_id": "0x3b05bf37c28e6371:0",
+    "name": "CloudQ IT Services Private Limited",
+    "address": "Module No: 241, 2nd Floor, Technopark Trivandrum, Nila Building, Main Campus",
+    "category": "Software company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:01:53.652504"
+  },
+  {
     "place_id": "0x3b0623beecefa69f:0",
     "name": "Libin Mathew & Associates,Chartered Accountants",
     "address": "Nandavanam junction, opposite Federal Bank",
@@ -8881,122 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:16:26.560109"
-  },
-  {
-    "place_id": "0x808f8730cfe7daed:0",
-    "name": "CloudKitchens - Oakland Fruitvale",
-    "address": "",
-    "category": "Shared-use commercial kitchen",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:16:25.254131"
-  },
-  {
-    "place_id": "0x808fb7c18bd6d853:0",
-    "name": "CloudKitchens - Sunnyvale - Commercial Kitchen",
-    "address": "",
-    "category": "Shared-use commercial kitchen",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:16:21.881517"
-  },
-  {
-    "place_id": "0x808fa3b19a157ed3:0",
-    "name": "CloudKitchens - Redwood City",
-    "address": "",
-    "category": "Shared-use commercial kitchen",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:16:20.693514"
-  },
-  {
-    "place_id": "0x808fcb7833bd52b5:0",
-    "name": "CloudKitchens - San Jose Ruff Dr",
-    "address": "",
-    "category": "Shared-use commercial kitchen",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:16:18.523363"
-  },
-  {
-    "place_id": "0x3b05b98574103261:0",
-    "name": "Farsi Laban",
-    "address": "SM Plaza, near Ulloor Bridge",
-    "category": "Dessert shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:16:16.057457"
-  },
-  {
-    "place_id": "0x808fcb38b4922b6d:0",
-    "name": "Burbank Pet Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:16:14.857770"
-  },
-  {
-    "place_id": "0x808fb560392903e5:0",
-    "name": "South Bay Animal Hospital & Emergency",
-    "address": "",
-    "category": "Emergency veterinarian service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:16:13.506657"
-  },
-  {
-    "place_id": "0x3b05b938c5572a61:0",
-    "name": "Shajahans Eye Care & Speciality Clinic",
-    "address": "near Bus stop, opp. Rema Fashions",
-    "category": "Medical Center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:16:12.293577"
-  },
-  {
-    "place_id": "0x808e32a497b483bb:0",
-    "name": "Mango Tours - San Jose, CA",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:16:08.610394"
-  },
-  {
-    "place_id": "0x808e2c4cba805461:0",
-    "name": "Vulcan Trips",
-    "address": "3203 Falls Creek Dr",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:16:07.400566"
-  },
-  {
-    "place_id": "0x80857e78bb8403a5:0",
-    "name": "Santini Tours & Tropical Travel LLC",
-    "address": "6575 Shattuck Ave.",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:16:04.542265"
-  },
-  {
-    "place_id": "0x808f91591bc0c147:0",
-    "name": "San Lorenzo Travel Agency",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:16:01.959017"
-  },
-  {
-    "place_id": "0x49c3f9676adc950f:0",
-    "name": "AJT Travel Group",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:16:00.595795"
   }
 ]
