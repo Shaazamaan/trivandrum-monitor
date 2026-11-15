@@ -1,5 +1,833 @@
 [
   {
+    "place_id": "0x3b05bbfa9e60f3b9:0",
+    "name": "Sauparnika Spa And Saloon",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:45.684799"
+  },
+  {
+    "place_id": "0x880e2cb094cec919:0",
+    "name": "Greaves Tours LLC",
+    "address": "1098 S Milwaukee Ave #200",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:43.456757"
+  },
+  {
+    "place_id": "0x880fcd9aaaaaaaab:0",
+    "name": "Sunset Travel & Cruise",
+    "address": "732 W Fullerton Ave",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:41.121403"
+  },
+  {
+    "place_id": "0x880fd1bd6e06b78b:0",
+    "name": "Pleasant Travel",
+    "address": "6257 N Clark St",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:39.491479"
+  },
+  {
+    "place_id": "0x881196d5d72eaaab:0",
+    "name": "CS ELEMENTS TRAVEL",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:37.328707"
+  },
+  {
+    "place_id": "0x8811e1f4eff49d27:0",
+    "name": "Destinations Travel Global",
+    "address": "1832 Hart St",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:34.844654"
+  },
+  {
+    "place_id": "0x880e3a0936677ac7:0",
+    "name": "Jett Travel",
+    "address": "5716 W 87th St C",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:33.581929"
+  },
+  {
+    "place_id": "0x880fcbe121249edd:0",
+    "name": "Vincent Vacations-Travel Agency Chicago",
+    "address": "5222 N Oakview Ave #2e",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:31.392608"
+  },
+  {
+    "place_id": "0x880e251c5314356d:0",
+    "name": "Travel Adventures and Tours",
+    "address": "10061 S Wood St",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:29.046102"
+  },
+  {
+    "place_id": "0x880e3752731c8aa1:0",
+    "name": "Cosmos Travel Inc.",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:27.853833"
+  },
+  {
+    "place_id": "0x880e31415e42ce4f:0",
+    "name": "Oasis Travel",
+    "address": "8311 S Pulaski Rd",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:26.636105"
+  },
+  {
+    "place_id": "0x880e2ccb6bf13b69:0",
+    "name": "Down Under Endeavours",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:25.434594"
+  },
+  {
+    "place_id": "0x880e5d869cddbb5b:0",
+    "name": "Cornolo Travel",
+    "address": "829 S State St",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:24.230044"
+  },
+  {
+    "place_id": "0x880e39be7b0c36f5:0",
+    "name": "Express Tours",
+    "address": "8233 S Harlem Ave",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:23.071625"
+  },
+  {
+    "place_id": "0x880e564d4630db83:0",
+    "name": "Signature Travel Planners",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:21.837014"
+  },
+  {
+    "place_id": "0x880e4ea2c192c83f:0",
+    "name": "Viking Travel",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:20.657453"
+  },
+  {
+    "place_id": "0x880e527c05d0de23:0",
+    "name": "Discount Travel",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:19.429127"
+  },
+  {
+    "place_id": "0x880fce1cda895555:0",
+    "name": "House Of Travel Company",
+    "address": "6129 N Claremont Ave",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:18.235650"
+  },
+  {
+    "place_id": "0x8815fc7e74e42899:0",
+    "name": "Advance Travel",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:17.022264"
+  },
+  {
+    "place_id": "0x880fca17bd666dc3:0",
+    "name": "Marchela Travel",
+    "address": "4830 N Cumberland Ave Fl 2, Ste 7",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:15.810779"
+  },
+  {
+    "place_id": "0x880e31b4dbf8b2c9:0",
+    "name": "Golden Travel Agency Chicago",
+    "address": "3854 W 63rd St",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:14.589430"
+  },
+  {
+    "place_id": "0x880e3243990936fb:0",
+    "name": "Agencia De Viajes Mexico",
+    "address": "3946 W 26th St",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:13.390002"
+  },
+  {
+    "place_id": "0x880e324e9baa8b23:0",
+    "name": "Universal Travel Chicago",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:12.187635"
+  },
+  {
+    "place_id": "0x880e30886d3438cf:0",
+    "name": "BARAKEH TRAVEL",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:10.879342"
+  },
+  {
+    "place_id": "0x880e4d81b1d7bf27:0",
+    "name": "M I Travel Inc",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:09.709408"
+  },
+  {
+    "place_id": "0x880fd2baaf69e7eb:0",
+    "name": "Revel Decor",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:08.532659"
+  },
+  {
+    "place_id": "0x880e31adc53b552b:0",
+    "name": "Edy Ramirez, Chicago Realtor with Keller Williams ONEChicago",
+    "address": "5400 S Pulaski Rd 2nd floor",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:07.326772"
+  },
+  {
+    "place_id": "0x880e353147283735:0",
+    "name": "Jesmely Gonzalez || Chicago Realtor",
+    "address": "6507 Cermak Rd",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:05.997943"
+  },
+  {
+    "place_id": "0x880e336ebb377fa7:0",
+    "name": "LUXE REALTY STUDIO",
+    "address": "4852 W 30th St",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:04.842818"
+  },
+  {
+    "place_id": "0x880f737ec8f5c2eb:0",
+    "name": "Tony Garcia, Bilingual Chicago Realtor with Keller Williams ONEChicago",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:03.597043"
+  },
+  {
+    "place_id": "0x880fcc20909e9b83:0",
+    "name": "Entourage Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:02.424826"
+  },
+  {
+    "place_id": "0x880fcb0070079cd1:0",
+    "name": "Auto Metro Driving School",
+    "address": "7452 W Belmont Ave",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:01.206930"
+  },
+  {
+    "place_id": "0x880fcd3158da4e41:0",
+    "name": "Nova Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:47:00.030877"
+  },
+  {
+    "place_id": "0x880fcdfad6d24cb5:0",
+    "name": "Master Driving School Chicago",
+    "address": "3123 W Lawrence Ave",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:58.831671"
+  },
+  {
+    "place_id": "0x880fc11833a04ec5:0",
+    "name": "CDL Expert Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:57.577799"
+  },
+  {
+    "place_id": "0x880e290d52a609d7:0",
+    "name": "Nova Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:56.381381"
+  },
+  {
+    "place_id": "0x880e31dac332575b:0",
+    "name": "Nova Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:55.215912"
+  },
+  {
+    "place_id": "0x880e31686eb2e58d:0",
+    "name": "Alamo Truck Driving School",
+    "address": "5264 W 47th St",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:54.060999"
+  },
+  {
+    "place_id": "0x880e319722bef2f9:0",
+    "name": "CDL Columbia Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:52.914016"
+  },
+  {
+    "place_id": "0x880e2e7190a029e5:0",
+    "name": "Chicago Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:51.611279"
+  },
+  {
+    "place_id": "0x880e33a8e4ed3e25:0",
+    "name": "Acapulco Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:50.411891"
+  },
+  {
+    "place_id": "0x880e2e2ae66aaaab:0",
+    "name": "Ruiz Driving School",
+    "address": "2857 W 63rd St",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:49.035910"
+  },
+  {
+    "place_id": "0x880e334fed6c8fb3:0",
+    "name": "My Drive Academy",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:47.791278"
+  },
+  {
+    "place_id": "0x880e33cdd82593c7:0",
+    "name": "Progressive Truck Driving School Inc.",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:46.576325"
+  },
+  {
+    "place_id": "0x880e33976ce696c9:0",
+    "name": "Nova Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:45.346965"
+  },
+  {
+    "place_id": "0x880e2de0d85c92e9:0",
+    "name": "Archer Spa",
+    "address": "3181 S Archer Ave",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:44.174513"
+  },
+  {
+    "place_id": "0x880fd39f80d5b965:0",
+    "name": "TouYuanTang Spa",
+    "address": "3347 N Clark St",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:42.996725"
+  },
+  {
+    "place_id": "0x880e39543f2077bb:0",
+    "name": "Luna Spa",
+    "address": "",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:41.811574"
+  },
+  {
+    "place_id": "0x880e2d54dafd45a3:0",
+    "name": "Sister Lavender Spa",
+    "address": "2706 W Chicago Ave",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:40.623337"
+  },
+  {
+    "place_id": "0x880e2db1059314fb:0",
+    "name": "UM1 BEAUTY SPA",
+    "address": "1505 S State St",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:39.222790"
+  },
+  {
+    "place_id": "0x880e296ddb329c4d:0",
+    "name": "Bettye O Day Spa",
+    "address": "",
+    "category": "Day spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:38.013566"
+  },
+  {
+    "place_id": "0x880e3f15caf51aad:0",
+    "name": "MK Head and Scalp Spa",
+    "address": "",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:36.819184"
+  },
+  {
+    "place_id": "0x880e2dbf905ff99b:0",
+    "name": "Sapphire Spa",
+    "address": "3227 S Archer Ave #1e",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:35.290301"
+  },
+  {
+    "place_id": "0x880e2deb99a3eb97:0",
+    "name": "Jin Ding Spa",
+    "address": "2232 S Archer Ave",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:34.113361"
+  },
+  {
+    "place_id": "0x880e2d7b47898965:0",
+    "name": "Purple Rainbow Spa",
+    "address": "3476 S Archer Ave",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:32.927588"
+  },
+  {
+    "place_id": "0x880e351868c76bff:0",
+    "name": "Wellness spa",
+    "address": "3922 S Harlem Ave",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:31.139636"
+  },
+  {
+    "place_id": "0x880e2dce92269225:0",
+    "name": "Cozy Wellness Spa",
+    "address": "3045 S Archer Ave",
+    "category": "Day spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:29.721266"
+  },
+  {
+    "place_id": "0x880e31e88ac90163:0",
+    "name": "Diamond health spa",
+    "address": "4247 S Archer Ave",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:28.553995"
+  },
+  {
+    "place_id": "0x880e330415579715:0",
+    "name": "Wells spa",
+    "address": "3803 S Kedzie Ave",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:27.325541"
+  },
+  {
+    "place_id": "0x880e2d7270d744b3:0",
+    "name": "LIFT HOUSE GYM",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:26.078991"
+  },
+  {
+    "place_id": "0x8815fdb4b32641ed:0",
+    "name": "OPS Fitness Club",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:24.865578"
+  },
+  {
+    "place_id": "0x880e31fd390ae927:0",
+    "name": "Lockout Fitness",
+    "address": "4028 S Archer Ave",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:23.614075"
+  },
+  {
+    "place_id": "0x880e325e66711b77:0",
+    "name": "Lawndale Christian Fitness Center",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:22.371470"
+  },
+  {
+    "place_id": "0x880e3193088a85e1:0",
+    "name": "Handle Bars Gym",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:20.297750"
+  },
+  {
+    "place_id": "0x880e31896bb7c0db:0",
+    "name": "Planet Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:19.004905"
+  },
+  {
+    "place_id": "0x880e31b4df7dd8fb:0",
+    "name": "Brick Yard Gym",
+    "address": "4051 W 47th St",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:17.666642"
+  },
+  {
+    "place_id": "0x880e33035071d3a1:0",
+    "name": "Connected Fitness",
+    "address": "2211 S St Louis Ave",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:16.478290"
+  },
+  {
+    "place_id": "0x8815fb3270d18fed:0",
+    "name": "Curl Creation Salon",
+    "address": "",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:15.180944"
+  },
+  {
+    "place_id": "0x880e33bd9ecd5d07:0",
+    "name": "Emmy's Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:13.979449"
+  },
+  {
+    "place_id": "0x8815e4e5f1f04c1d:0",
+    "name": "Hair Studio Evolution LLC",
+    "address": "427 E Pontiac St",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:10.829744"
+  },
+  {
+    "place_id": "0x8811d879f169bd15:0",
+    "name": "East Side Beauty Salon",
+    "address": "10535 S Ewing Ave",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:09.546408"
+  },
+  {
+    "place_id": "0x880e3199bab1ca41:0",
+    "name": "Styleaire Beauty Salon by Ruben",
+    "address": "5096 S Archer Ave",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:08.289594"
+  },
+  {
+    "place_id": "0x880e3237f1588df7:0",
+    "name": "Luz En Tu Pelo",
+    "address": "4115 W 31st St",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:07.100430"
+  },
+  {
+    "place_id": "0x8815fc7b229c31d7:0",
+    "name": "Tangles Salon & Spa",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:05.787684"
+  },
+  {
+    "place_id": "0x880e347601abb7f7:0",
+    "name": "Glamour Beauty Salon",
+    "address": "6106 W 26th St",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:04.584576"
+  },
+  {
+    "place_id": "0x880e334a2f6d9a13:0",
+    "name": "BETTY'S BEAUTY SALON AND HAIR DESIGN",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:03.219818"
+  },
+  {
+    "place_id": "0x880e32424e8e4915:0",
+    "name": "Dreamy Hair Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:46:00.896365"
+  },
+  {
+    "place_id": "0x880e319ed57a7311:0",
+    "name": "Supermercado Rivera",
+    "address": "4334 W 51st St",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:59.487981"
+  },
+  {
+    "place_id": "0x880e31ae9d203153:0",
+    "name": "Target Grocery",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:58.302200"
+  },
+  {
+    "place_id": "0x3b05bbdde657e4b5:0",
+    "name": "Kollam Supreme",
+    "address": "Mahatma Gandhi Rd, near Sun View Hotel, near East Fort",
+    "category": "Jewelry store",
+    "phone": "+91 81389 99821",
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:57.056935"
+  },
+  {
+    "place_id": "0x880e2efcf1d6d6dd:0",
+    "name": "M and Z Furniture and Mattress 1",
+    "address": "1008 W 63rd St",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:55.856335"
+  },
+  {
+    "place_id": "0x880e39df73a2e927:0",
+    "name": "Dream home furniture inc",
+    "address": "8405 S Harlem Ave",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:54.473036"
+  },
+  {
+    "place_id": "0x880e29e0d7e3dddb:0",
+    "name": "Best furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:52.577895"
+  },
+  {
+    "place_id": "0x880e271fa5f04b21:0",
+    "name": "Ultimate Furniture & Mattress",
+    "address": "9133 S Commercial Ave",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:51.354630"
+  },
+  {
+    "place_id": "0x880e6b59902ace2b:0",
+    "name": "Avanti Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:50.127619"
+  },
+  {
+    "place_id": "0x880e4acd6d2b3417:0",
+    "name": "Furniture A Outlet Llc",
+    "address": "1521 Mannheim Rd",
+    "category": "Kitchen furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:48.914297"
+  },
+  {
+    "place_id": "0x880e30d8be0309d9:0",
+    "name": "Margie's Furniture",
+    "address": "5627 W 63rd St",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:47.755712"
+  },
+  {
+    "place_id": "0x8811d8741dab961d:0",
+    "name": "Muebleria Jalisco Furniture",
+    "address": "10214 S Ewing Ave",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:46.572545"
+  },
+  {
+    "place_id": "0x880e2db0fe3b22c5:0",
+    "name": "New Chicago Century Furniture",
+    "address": "3034 S Wentworth Ave",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:45.188681"
+  },
+  {
+    "place_id": "0x880e1dbaf5dbb459:0",
+    "name": "COMFORT FURNITURE",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:43.990223"
+  },
+  {
+    "place_id": "0x880fd2b8bae0f229:0",
+    "name": "Interior Define",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:42.765551"
+  },
+  {
+    "place_id": "0x3b05bba1458901c1:0",
+    "name": "Sri Gayathry Mobile & Electronics",
+    "address": "T.C. 28/1569-9, Kamal Building",
+    "category": "Cell phone accessory store",
+    "phone": "+91 98956 61862",
+    "website": null,
+    "discovered_at": "2026-11-15 04:45:41.473376"
+  },
+  {
     "place_id": "0x872b134300e59ceb:0",
     "name": "Mon Cherie Boutique Quinceañeras & Gala",
     "address": "",
@@ -8170,833 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 20:13:04.408735"
-  },
-  {
-    "place_id": "0x872b0db971208629:0",
-    "name": "El Super",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:03.032712"
-  },
-  {
-    "place_id": "0x872b0da0f2d97c05:0",
-    "name": "Sprouts Farmers Market",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:01.746083"
-  },
-  {
-    "place_id": "0x872b6cff61d3b9bb:0",
-    "name": "El Rancho Market - Phoenix AZ",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:00.509516"
-  },
-  {
-    "place_id": "0x872b6e4083593abb:0",
-    "name": "Sprouts Farmers Market",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:59.258506"
-  },
-  {
-    "place_id": "0x872b6e44440ca431:0",
-    "name": "WinCo Foods",
-    "address": "",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:57.846340"
-  },
-  {
-    "place_id": "0x3b05bba6ca5d3b9d:0",
-    "name": "Royal Furniture",
-    "address": "FWPW+HWM",
-    "category": "Furniture store",
-    "phone": "+91 94472 71786",
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:56.592410"
-  },
-  {
-    "place_id": "0x3b05bba035aa53e9:0",
-    "name": "Nilkamal Furniture Margin Free Market",
-    "address": "FWMV+W2M",
-    "category": "Furniture store",
-    "phone": "+91 94001 85252",
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:55.362614"
-  },
-  {
-    "place_id": "0x872bade84bc9f85d:0",
-    "name": "American Furniture Warehouse",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:54.069947"
-  },
-  {
-    "place_id": "0x86d67aba9c2053ed:0",
-    "name": "Copenhagen Service and Clearance Center",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:52.829550"
-  },
-  {
-    "place_id": "0x872bac6db20ce2c1:0",
-    "name": "Living Spaces",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:51.524707"
-  },
-  {
-    "place_id": "0x872b0d6180a50a9f:0",
-    "name": "Copenhagen Imports",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:50.268195"
-  },
-  {
-    "place_id": "0x872ba71b8ba781dd:0",
-    "name": "Mesa Furniture Outlet",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:49.045908"
-  },
-  {
-    "place_id": "0x872b0db9ce9e295b:0",
-    "name": "Del Sol Furniture & Mattress",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:47.737388"
-  },
-  {
-    "place_id": "0x86d671e55ef2fcc9:0",
-    "name": "Copenhagen Imports",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:46.475926"
-  },
-  {
-    "place_id": "0x864e6e24533b97c1:0",
-    "name": "J C Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:45.000673"
-  },
-  {
-    "place_id": "0x872b0c3564a5dd55:0",
-    "name": "Mega Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:43.769384"
-  },
-  {
-    "place_id": "0x872b0d5c23896993:0",
-    "name": "Mor Furniture for Less",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:42.549319"
-  },
-  {
-    "place_id": "0x872b0d77c940b571:0",
-    "name": "Global Home",
-    "address": "",
-    "category": "Rustic furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:12:41.234700"
-  },
-  {
-    "place_id": "0x864e73e3a524a8c5:0",
-    "name": "Elle Maxine",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:04:16.951162"
-  },
-  {
-    "place_id": "0x864e73a7c1d75b25:0",
-    "name": "Hale House",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:04:15.669822"
-  },
-  {
-    "place_id": "0x549939af88568e05:0",
-    "name": "Gorgeous Bae Boutique",
-    "address": "210 W 3rd Ave",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:04:14.383837"
-  },
-  {
-    "place_id": "0x549a4d8ca8993199:0",
-    "name": "Pine Hill Mercantile",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:04:12.962744"
-  },
-  {
-    "place_id": "0x549a4d8caf5b7cf5:0",
-    "name": "Leavenworth Boutiques",
-    "address": "715 Front St",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:04:11.757205"
-  },
-  {
-    "place_id": "0x54906d892a2b38eb:0",
-    "name": "OAK + FORT",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:04:10.511697"
-  },
-  {
-    "place_id": "0x864e71c7c3fd895d:0",
-    "name": "Southtown Shopping Center",
-    "address": "",
-    "category": "Shopping mall",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:04:09.287860"
-  },
-  {
-    "place_id": "0x864dd916ea52d619:0",
-    "name": "Versona",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:04:08.075198"
-  },
-  {
-    "place_id": "0x864e71dac3fc87e9:0",
-    "name": "Rainbow Shops",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:04:06.814132"
-  },
-  {
-    "place_id": "0x864e706b01d2faeb:0",
-    "name": "Rainbow Shops",
-    "address": "2700 Renaissance Dr",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:04:05.548533"
-  },
-  {
-    "place_id": "0x864e72f6bb7e02c1:0",
-    "name": "Apricot Lane Boutique",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:04:04.041834"
-  },
-  {
-    "place_id": "0x864e73063353a169:0",
-    "name": "You Are Here",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:04:02.831307"
-  },
-  {
-    "place_id": "0x864e73e9c083193b:0",
-    "name": "Esther Penn",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:04:01.595348"
-  },
-  {
-    "place_id": "0x54993900082aa13b:0",
-    "name": "Hello Nature",
-    "address": "312a S Division St",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:04:00.238686"
-  },
-  {
-    "place_id": "0x549938afe8dfd361:0",
-    "name": "THE BOUTIQUE moses lake",
-    "address": "",
-    "category": "Gift shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:58.996455"
-  },
-  {
-    "place_id": "0x549939aacb55bc25:0",
-    "name": "CONCH COLLECTION",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:57.604978"
-  },
-  {
-    "place_id": "0x80d1f36f1280a249:0",
-    "name": "Hotoveli Boutique",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:56.375799"
-  },
-  {
-    "place_id": "0x864e73de13c2cb2f:0",
-    "name": "Juice Junkies",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:55.133508"
-  },
-  {
-    "place_id": "0x549939e3cf174eed:0",
-    "name": "Corner St. Donuts",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:53.888139"
-  },
-  {
-    "place_id": "0x5499390022cbb171:0",
-    "name": "The way café",
-    "address": "319 S Cedar St",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:52.651032"
-  },
-  {
-    "place_id": "0x549938af8b00067d:0",
-    "name": "Red Door Cafe, LLC",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:50.048375"
-  },
-  {
-    "place_id": "0x3b05bbef48854b53:0",
-    "name": "WakeCup Takeaway",
-    "address": "Power House Rd, opposite Railway Station",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:48.528977"
-  },
-  {
-    "place_id": "0x3b05bbc4c513f4a3:0",
-    "name": "Shri Arya Bhavan (Finest VEG naturally) Restaurant",
-    "address": "Bypass",
-    "category": "Vegetarian restaurant",
-    "phone": "+91 73069 90142",
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:47.249390"
-  },
-  {
-    "place_id": "0x3b05bb80695bbb7d:0",
-    "name": "Hotel Sree Balaji",
-    "address": "",
-    "category": "Vegetarian restaurant",
-    "phone": "+91 98953 19946",
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:45.931016"
-  },
-  {
-    "place_id": "0x3b05bb288aa7352b:0",
-    "name": "Kumar Idally Kada",
-    "address": "FWMR+7Q7, Anakottil St",
-    "category": "Vegetarian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:44.694081"
-  },
-  {
-    "place_id": "0x549938a34c702ad1:0",
-    "name": "Jack in the Box",
-    "address": "",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:43.474651"
-  },
-  {
-    "place_id": "0x549938d792efdbcb:0",
-    "name": "Denny's Restaurant",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:42.173739"
-  },
-  {
-    "place_id": "0x549938a335d14fc1:0",
-    "name": "El Charro Expresso",
-    "address": "611 E 5th Ave",
-    "category": "Mexican restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:40.965258"
-  },
-  {
-    "place_id": "0x54993961d0272cef:0",
-    "name": "Taqueria Mazatlan #4 LLC",
-    "address": "507 E 3rd Ave",
-    "category": "Mexican restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:39.599268"
-  },
-  {
-    "place_id": "0x549938a50bee6f01:0",
-    "name": "J's Teriyaki Grill",
-    "address": "",
-    "category": "Yakiniku restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:38.246626"
-  },
-  {
-    "place_id": "0x549939ba2cfa6dcf:0",
-    "name": "Bob's Cafe",
-    "address": "",
-    "category": "Diner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:37.029676"
-  },
-  {
-    "place_id": "0x549938a387dcfb09:0",
-    "name": "Sporty's Bar & Grill",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:35.559628"
-  },
-  {
-    "place_id": "0x549938a50015f861:0",
-    "name": "Animal Medical Center",
-    "address": "223 E Broadway Ave",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:34.275669"
-  },
-  {
-    "place_id": "0x549938d1cd3f0243:0",
-    "name": "Moses Lake Professional Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:32.974236"
-  },
-  {
-    "place_id": "0x549938c787a7ca15:0",
-    "name": "Dr. Matt E. Yawney",
-    "address": "",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:31.713919"
-  },
-  {
-    "place_id": "0x549938c789a21ee3:0",
-    "name": "Yawney Matt OD",
-    "address": "",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:30.444843"
-  },
-  {
-    "place_id": "0x549015d77a3cf0cf:0",
-    "name": "Neuroveda Health",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:29.178312"
-  },
-  {
-    "place_id": "0x549014543bc8ff31:0",
-    "name": "Embrace Ayurveda",
-    "address": "",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:27.844585"
-  },
-  {
-    "place_id": "0x54906cec41e48be9:0",
-    "name": "Ayurvedic and Naturopathic Medical Clinic",
-    "address": "",
-    "category": "Naturopathic practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:26.570721"
-  },
-  {
-    "place_id": "0x549939fff7991253:0",
-    "name": "Moses Lake Sports Physical Therapy",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:25.273956"
-  },
-  {
-    "place_id": "0x56c897a7e3b00001:0",
-    "name": "Dr. Jayne Fortson",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:24.047669"
-  },
-  {
-    "place_id": "0x54993f1415bc25df:0",
-    "name": "Essentials Skin & Wellness Center",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:22.836688"
-  },
-  {
-    "place_id": "0x54990b533dd9c15b:0",
-    "name": "Kris' Skincare",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:19.545411"
-  },
-  {
-    "place_id": "0x5361ff1fc848c47b:0",
-    "name": "Deer Park Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:18.294188"
-  },
-  {
-    "place_id": "0x3b05bbb98933e781:0",
-    "name": "Keltron Knowledge Centre",
-    "address": "",
-    "category": "Education center",
-    "phone": "+91 85906 05271",
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:17.029732"
-  },
-  {
-    "place_id": "0x3b05bbb86ac2b119:0",
-    "name": "Palayam Vegetable And Fruits",
-    "address": "GX32+4WQ",
-    "category": "Indian grocery store",
-    "phone": "+91 80892 82835",
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:14.706868"
-  },
-  {
-    "place_id": "0x54993f1415b97251:0",
-    "name": "Lep-Re-Kon Harvest Foods",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:13.472203"
-  },
-  {
-    "place_id": "0x5499475e067e1d83:0",
-    "name": "Grocery Outlet",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:12.258480"
-  },
-  {
-    "place_id": "0x3b05bb0007dd6ecf:0",
-    "name": "Palayam",
-    "address": "FWWP+R8V, Palayam Airport Rd",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:10.969089"
-  },
-  {
-    "place_id": "0x3b05bbae9e71da4d:0",
-    "name": "Oh My Tea",
-    "address": "Press Rd",
-    "category": "Juice shop",
-    "phone": "+91 90742 48735",
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:09.603728"
-  },
-  {
-    "place_id": "0x3b05bbfcd4e78f3b:0",
-    "name": "SREE DEVI LAB & SCANS",
-    "address": "",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:03:08.266861"
-  },
-  {
-    "place_id": "0x3b05bba9acd800af:0",
-    "name": "Athul Sankaran & Associates - Chartered Accountants",
-    "address": "KORAS, K132, Kochar Rd",
-    "category": "Certified public accountant",
-    "phone": "+91 99950 76519",
-    "website": null,
-    "discovered_at": "2026-11-14 19:53:43.756314"
-  },
-  {
-    "place_id": "0x3b05bb181e119ebb:0",
-    "name": "SARANYA DRIVING SCHOOL H PRACTICE GROUND",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:39:02.053982"
-  },
-  {
-    "place_id": "0x3b05bb22f76c2897:0",
-    "name": "RAFIE BOUTIQUE",
-    "address": "SS Kovil Rd",
-    "category": "Boutique",
-    "phone": "+91 90258 72366",
-    "website": null,
-    "discovered_at": "2026-11-14 19:39:00.795926"
-  },
-  {
-    "place_id": "0x3b05bbcf87bddf7b:0",
-    "name": "UpHeal.Labs",
-    "address": "Anayidavazhi Junction",
-    "category": "Diagnostic center",
-    "phone": "+91 77364 47644",
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:59.516806"
-  },
-  {
-    "place_id": "0x3b05bbb3d8045a5b:0",
-    "name": "Spineveda - Spine Speciality Ayurveda Hospital",
-    "address": "",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 70124 74476",
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:58.209092"
-  },
-  {
-    "place_id": "0x54995db7aed0ca39:0",
-    "name": "Taylor Business Solutions, CPA",
-    "address": "",
-    "category": "Bookkeeping service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:56.878542"
-  },
-  {
-    "place_id": "0x549938c7f7865e91:0",
-    "name": "Thompson & Kreitzberg",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:55.530042"
-  },
-  {
-    "place_id": "0x549938a57746500f:0",
-    "name": "Sutter Kunkle & Thompson PS",
-    "address": "1006 W Ivy Ave",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:54.159297"
-  },
-  {
-    "place_id": "0x549938a50967c6a1:0",
-    "name": "Accounting & Tax Services",
-    "address": "214 S Alder St",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:52.847618"
-  },
-  {
-    "place_id": "0x549938ae09f17f83:0",
-    "name": "J R Newhouse & Co",
-    "address": "",
-    "category": "Tax preparation service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:51.514582"
-  },
-  {
-    "place_id": "0x3b05befa55555555:0",
-    "name": "Amazing Homes",
-    "address": "+91 79092 44287",
-    "category": "Permanently closed",
-    "phone": "+91 79092 44287",
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:49.668350"
-  },
-  {
-    "place_id": "0x54906c6512ed5f4f:0",
-    "name": "Ariana Designs & Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:48.393098"
-  },
-  {
-    "place_id": "0x5499473b2f3ba8e3:0",
-    "name": "Realty Executives Grant County - Closed",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:46.272263"
-  },
-  {
-    "place_id": "0x5499393b8d4e94c9:0",
-    "name": "Nest Realty Company",
-    "address": "107 Legacy Ln",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:45.004277"
-  },
-  {
-    "place_id": "0x5499396e169b8f5f:0",
-    "name": "Unlock Moses Lake Real Estate",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:43.585512"
-  },
-  {
-    "place_id": "0x549939b577757b39:0",
-    "name": "Finca Real Estate",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:42.328203"
-  },
-  {
-    "place_id": "0x549938ae48492b75:0",
-    "name": "CENTURY 21 Alsted Real Estate",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:41.098943"
-  },
-  {
-    "place_id": "0x549938adf89b8875:0",
-    "name": "The Cutting EdgeSalon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:39.742292"
-  },
-  {
-    "place_id": "0x5499392ac09ab8e7:0",
-    "name": "M K HairStudio and Spa LLC",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:38.528535"
-  },
-  {
-    "place_id": "0x549938b02585c20b:0",
-    "name": "Studio 4 Hair Design",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:37.286943"
-  },
-  {
-    "place_id": "0x54905ce2f77240f3:0",
-    "name": "Mor Furniture for Less",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:36.061005"
-  },
-  {
-    "place_id": "0x549e197dd2467a1b:0",
-    "name": "Ashley Store + Outlet",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:34.854475"
-  },
-  {
-    "place_id": "0x549a119b2e886da3:0",
-    "name": "Urban Interiors Outdoor Living & Outlet",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 19:38:33.555212"
   }
 ]
