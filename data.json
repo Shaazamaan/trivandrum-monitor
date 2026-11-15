@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb38a7657d67:0",
+    "name": "Dama Cafe Trivandrum (Cloud Kitchen - No dine in)",
+    "address": "",
+    "category": "Takeout Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:24:09.904470"
+  },
+  {
     "place_id": "0x3b05bb2569b6cf55:0",
     "name": "Parshi - Stiching center & Botique",
     "address": "Parshi, KNRA-26, Karthika Nagar, Crime Branch Office, near Pettah",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 01:45:25.880613"
-  },
-  {
-    "place_id": "0x87ee93e9105198d5:0",
-    "name": "J & Company Spa",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:24.646576"
   }
 ]
