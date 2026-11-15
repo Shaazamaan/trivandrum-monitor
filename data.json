@@ -1,5 +1,167 @@
 [
   {
+    "place_id": "0x3b05af64909131ad:0",
+    "name": "Nadan Food",
+    "address": "93VR+JR7",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 05:09:08.120936"
+  },
+  {
+    "place_id": "0x3b05af3b668d26a1:0",
+    "name": "Ayurveda Neethi Store",
+    "address": "Bus Stop, Salem - Kochi Hwy",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 05:09:06.938136"
+  },
+  {
+    "place_id": "0x3b05af614c619e87:0",
+    "name": "CityChoice Medicals",
+    "address": "KSRTC Shopping complex",
+    "category": "Pharmacy",
+    "phone": "+91 77365 34422",
+    "website": null,
+    "discovered_at": "2026-11-15 05:09:05.738753"
+  },
+  {
+    "place_id": "0x3b05afbac9cdbe7b:0",
+    "name": "Diya Eye Clinic",
+    "address": "BP 8/253, opposite Thykappali",
+    "category": "Eye care center",
+    "phone": "+91 80898 47011",
+    "website": null,
+    "discovered_at": "2026-11-15 05:09:04.586906"
+  },
+  {
+    "place_id": "0x3b05e928f3e956e3:0",
+    "name": "Sree Sathya Consultants,Attingal",
+    "address": "Market Rd",
+    "category": "Tax consultant",
+    "phone": "+91 90370 10986",
+    "website": null,
+    "discovered_at": "2026-11-15 05:09:03.386135"
+  },
+  {
+    "place_id": "0x3b05e95f6f67497f:0",
+    "name": "RBR FITLIFE EQUIPMENTS",
+    "address": "LMS Junction, near Qrs",
+    "category": "Fitness equipment wholesaler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 05:09:02.209493"
+  },
+  {
+    "place_id": "0x3b05e9f9a51bda1f:0",
+    "name": "Bhagya Jewellery",
+    "address": "MRW8+HMW",
+    "category": "Jewelry store",
+    "phone": "+91 98469 21665",
+    "website": null,
+    "discovered_at": "2026-11-15 05:09:00.880445"
+  },
+  {
+    "place_id": "0x3b05e947db811ec5:0",
+    "name": "RAJA JEWELLERY",
+    "address": "BTS Rd",
+    "category": "Jewelry store",
+    "phone": "+91 94461 20088",
+    "website": null,
+    "discovered_at": "2026-11-15 05:08:59.724870"
+  },
+  {
+    "place_id": "0x3b05e95a3cb9e381:0",
+    "name": "myG Future Attingal",
+    "address": "INNU PLAZA, Kacheri Junction, Chirayinkeezhu Rd",
+    "category": "Cell phone store",
+    "phone": "+91 90618 89911",
+    "website": null,
+    "discovered_at": "2026-11-15 05:08:58.488305"
+  },
+  {
+    "place_id": "0x3b05e9a8fb74d3c3:0",
+    "name": "Fixpoint mobile accessories and repair",
+    "address": "Old NH",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 79940 70898",
+    "website": null,
+    "discovered_at": "2026-11-15 05:08:57.294804"
+  },
+  {
+    "place_id": "0x3b05e947b703d2df:0",
+    "name": "FONES GARAGE",
+    "address": "Fones Garage, near City opticals",
+    "category": "Cell phone store",
+    "phone": "+91 89071 46329",
+    "website": null,
+    "discovered_at": "2026-11-15 05:08:56.123680"
+  },
+  {
+    "place_id": "0x3b05e97f6f7a42b1:0",
+    "name": "Thanza Broast Hub",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 05:08:54.974410"
+  },
+  {
+    "place_id": "0x3b05e9f9b28eaec3:0",
+    "name": "BEENA CHICKEN CORNER",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 05:08:53.718511"
+  },
+  {
+    "place_id": "0x3b05e9f905f01427:0",
+    "name": "Asharaf Medicals",
+    "address": "Attingal Junction, Thiruvananthapuram, NH-47, Kanyakumari Salem Highway, Attingal",
+    "category": "Medical supply store",
+    "phone": "+91 94477 16447",
+    "website": null,
+    "discovered_at": "2026-11-15 05:08:52.563793"
+  },
+  {
+    "place_id": "0x3b05e9f088125cb5:0",
+    "name": "Snv Medical Hall",
+    "address": "Kacheri Junction, Thiruvananthapuram, NH-47, Kanyakumari Salem Highway, Attingal",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 05:08:50.820692"
+  },
+  {
+    "place_id": "0x3b05e900487f7751:0",
+    "name": "Niraamaya Dental Lounge - Smile Correction Studio and Root Canal Centre",
+    "address": "Closes 2 PM",
+    "category": "Open",
+    "phone": "+91 73561 37576",
+    "website": null,
+    "discovered_at": "2026-11-15 05:08:49.614130"
+  },
+  {
+    "place_id": "0x3b05c18f26d2117f:0",
+    "name": "Dr Smile J care",
+    "address": "Closes 7:30 PM",
+    "category": "Open",
+    "phone": "+91 94961 60008",
+    "website": null,
+    "discovered_at": "2026-11-15 05:08:48.414093"
+  },
+  {
+    "place_id": "0x3b05e9c497c71cf7:0",
+    "name": "S.V. Dental Clinic",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 98951 62606",
+    "website": null,
+    "discovered_at": "2026-11-15 05:08:47.201218"
+  },
+  {
     "place_id": "0x3b05ef29cb9ae3f7:0",
     "name": "Raj Communications",
     "address": "PPMG+G3P",
@@ -8836,167 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 20:13:50.245861"
-  },
-  {
-    "place_id": "0x872b71859c57ea73:0",
-    "name": "Best Brains Learning Center - Phoenix North",
-    "address": "",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:49.002520"
-  },
-  {
-    "place_id": "0x872b0f201e043c65:0",
-    "name": "Positive Tutors",
-    "address": "4949 E Van Buren St Ste 60144",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:47.693019"
-  },
-  {
-    "place_id": "0x872b6e3e784199e3:0",
-    "name": "Sylvan Learning of Phoenix",
-    "address": "",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:46.459544"
-  },
-  {
-    "place_id": "0x872b6e3eac0493b7:0",
-    "name": "Elements Massage",
-    "address": "",
-    "category": "Massage therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:45.235050"
-  },
-  {
-    "place_id": "0x872b6d0c87c55555:0",
-    "name": "Indigenous Massage & Wellness, PLLC",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:43.880780"
-  },
-  {
-    "place_id": "0x872b691582198cb3:0",
-    "name": "D Best Massage & Head Spa",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:42.646801"
-  },
-  {
-    "place_id": "0x872b73ceff0cc973:0",
-    "name": "Luxe Spa",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:41.427185"
-  },
-  {
-    "place_id": "0x872b0d901b33c9d9:0",
-    "name": "The NOW Massage Phoenix Camelback",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:40.131383"
-  },
-  {
-    "place_id": "0x872b0da7654f8adf:0",
-    "name": "The Scratch Spa - Arcadia",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:38.888653"
-  },
-  {
-    "place_id": "0x872b0b59ac77238d:0",
-    "name": "Salt and Sugar Massage & Head Spa",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:37.624011"
-  },
-  {
-    "place_id": "0x872b6b002dd09e77:0",
-    "name": "Good Day Spa",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:36.383637"
-  },
-  {
-    "place_id": "0x872b6d64d5d94a5b:0",
-    "name": "Paris Knights Massage and Hair",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:35.155410"
-  },
-  {
-    "place_id": "0x872b6f9b7ce22625:0",
-    "name": "Bell Spa - Massage and Reflexology",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:33.664626"
-  },
-  {
-    "place_id": "0x872b6d889d784961:0",
-    "name": "Hand & Stone Massage and Facial Spa",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:32.393588"
-  },
-  {
-    "place_id": "0x872b6da5b39962a5:0",
-    "name": "Heavenly Clair Hands Spa",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:31.119621"
-  },
-  {
-    "place_id": "0x872b1178abd474f5:0",
-    "name": "Earthly Essence spa",
-    "address": "3226 W Pollack St",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:29.883198"
-  },
-  {
-    "place_id": "0x872b6770efc2b231:0",
-    "name": "Indulgence Head Spa and Wellness",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:28.650287"
-  },
-  {
-    "place_id": "0x872b6b85f434096b:0",
-    "name": "Heaven Spa",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:27.254488"
   }
 ]
