@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05eb0040706b6f:0",
+    "name": "Redzon travel hub",
+    "address": "MRHF+VQM",
+    "category": "Bus tour agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:08:33.689856"
+  },
+  {
+    "place_id": "0x3b05e9d7815c41b1:0",
+    "name": "Commerce Info Tech Attingal",
+    "address": "SK Plaza, near Gokulam Medical centre",
+    "category": "Educational institution",
+    "phone": "+91 85478 71616",
+    "website": null,
+    "discovered_at": "2026-11-15 02:08:32.436154"
+  },
+  {
+    "place_id": "0x3b05e9f8f87b0e6b:0",
+    "name": "Selvam",
+    "address": "",
+    "category": "Household goods wholesaler",
+    "phone": "+91 98475 27305",
+    "website": null,
+    "discovered_at": "2026-11-15 02:08:30.744744"
+  },
+  {
+    "place_id": "0x3b05ef627606e019:0",
+    "name": "NANA MINI SUPERMARKET",
+    "address": "",
+    "category": "Supermarket",
+    "phone": "+91 62827 88608",
+    "website": null,
+    "discovered_at": "2026-11-15 02:08:29.465835"
+  },
+  {
+    "place_id": "0x3b05ef1fc4db3a0d:0",
+    "name": "Arya's Spices&Shopping",
+    "address": "Varkala Beach Rd",
+    "category": "Grocery store",
+    "phone": "+91 99466 43345",
+    "website": null,
+    "discovered_at": "2026-11-15 02:08:27.869290"
+  },
+  {
     "place_id": "0x3b05e90058a35b9d:0",
     "name": "RILLAS FASHION",
     "address": "PPCR+3MP, Varkala-Kadakkavoor Road, near Kayattaffice",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 16:44:26.613454"
-  },
-  {
-    "place_id": "0x880fd1df98d71dc7:0",
-    "name": "Joyalukkas Jewelry Chicago, USA",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:25.477819"
-  },
-  {
-    "place_id": "0x880fce3d34c6e60f:0",
-    "name": "Yasini Jewelers 21k & 22k Gold",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:24.279477"
-  },
-  {
-    "place_id": "0x880fcb07c6b860b1:0",
-    "name": "Arezzo Jewelers",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:22.913735"
-  },
-  {
-    "place_id": "0x880e398cb51f2a0d:0",
-    "name": "KAY Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:21.696937"
-  },
-  {
-    "place_id": "0x880fd33ca5ac54a1:0",
-    "name": "Fey & Co. Jewelers | Lincoln Park",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:20.481325"
   }
 ]
