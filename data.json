@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05ab5123448997:0",
+    "name": "Moonlight Super Market",
+    "address": "84W3+C9W",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:37:43.707053"
+  },
+  {
+    "place_id": "0x3b05ab17aad2ac75:0",
+    "name": "Near Ups Kozhivilai",
+    "address": "85J9+MGC, Kaliakavilai-Kolamkode-Poovar-Kovalam Rd",
+    "category": "Supermarket",
+    "phone": "+91 96005 69100",
+    "website": null,
+    "discovered_at": "2026-11-15 02:37:42.485799"
+  },
+  {
     "place_id": "0x3b05b11dcaf69fc9:0",
     "name": "Wellness Pharma (Medical Store)",
     "address": "Closes 2 PM",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 16:44:42.741885"
-  },
-  {
-    "place_id": "0x880e28b40c00351f:0",
-    "name": "Dazja'Vu Salon / Dazjavu Styling Studio",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:41.572447"
-  },
-  {
-    "place_id": "0x880fd312c042a4b3:0",
-    "name": "Holtzmann's",
-    "address": "2304 N Clark St",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:40.433508"
   }
 ]
