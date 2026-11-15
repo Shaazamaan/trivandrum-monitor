@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b70b2eefb13b:0",
+    "name": "Suhana juice bar",
+    "address": "Closes 12 AM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 16:47:16.351888"
+  },
+  {
     "place_id": "0x3b05a500125416db:0",
     "name": "SUREE",
     "address": "GV Raja Rd",
@@ -8989,14 +8998,5 @@
     "phone": "+91 99468 64168",
     "website": null,
     "discovered_at": "2026-11-15 09:20:37.893303"
-  },
-  {
-    "place_id": "0x80817bc40891de69:0",
-    "name": "Valley Veterinary Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 09:20:36.673993"
   }
 ]
