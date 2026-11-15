@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05e865d97ffac5:0",
+    "name": "Arafa Textiles & Footwear",
+    "address": "",
+    "category": "Clothing store",
+    "phone": "+91 99468 64168",
+    "website": null,
+    "discovered_at": "2026-11-15 09:20:37.893303"
+  },
+  {
+    "place_id": "0x80817bc40891de69:0",
+    "name": "Valley Veterinary Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 09:20:36.673993"
+  },
+  {
     "place_id": "0x3b05c9002dfeecc3:0",
     "name": "Manali, Vithura",
     "address": "M3VW+G7W, Thavakkal Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 00:15:17.848458"
-  },
-  {
-    "place_id": "0x3b05bbae12110465:0",
-    "name": "Berry crush",
-    "address": "FWHX+5GC Daarul amaan, Attakulangara - Enchakkal Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 00:15:16.538308"
-  },
-  {
-    "place_id": "0x3b05bb77153cd0c3:0",
-    "name": "Kairali Siddha",
-    "address": "Karaali Road",
-    "category": "Hospital",
-    "phone": "+91 90613 82227",
-    "website": null,
-    "discovered_at": "2026-11-15 00:15:15.296026"
   }
 ]
