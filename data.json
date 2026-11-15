@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x54bd4d648a8a6e23:0",
+    "name": "Boardman Jumpstart Java",
+    "address": "103 SE Front St",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 06:24:08.417305"
+  },
+  {
+    "place_id": "0x3b05c14915d0bfff:0",
+    "name": "Supplyco Market",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 06:24:07.189891"
+  },
+  {
+    "place_id": "0x3b05b8d16a929db9:0",
+    "name": "Indeevaram Ayurveda Clinic",
+    "address": "Closes 1 PM",
+    "category": "Open",
+    "phone": "+91 70127 21046",
+    "website": null,
+    "discovered_at": "2026-11-15 06:24:05.894861"
+  },
+  {
     "place_id": "0x3b05c326e84da0a5:0",
     "name": "Mangalathu Medicals",
     "address": "QV8G+J89, SH 46",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 20:15:29.456908"
-  },
-  {
-    "place_id": "0x872b68ff11626003:0",
-    "name": "Rawhide Travel & Tours Inc",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:15:27.259279"
-  },
-  {
-    "place_id": "0x872bab5ca16a7a4d:0",
-    "name": "My Magical Travels",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:15:24.569037"
-  },
-  {
-    "place_id": "0x872b0b1fac45edc5:0",
-    "name": "Private Events Management",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:15:23.307547"
   }
 ]
