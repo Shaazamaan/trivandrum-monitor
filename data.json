@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bbdb550637b7:0",
+    "name": "Baskin Robbins Bakery Junction",
+    "address": "",
+    "category": "Ice cream shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 15:37:18.336244"
+  },
+  {
+    "place_id": "0x3b05ba716beb36bf:0",
+    "name": "maharaja motor driving school",
+    "address": "F2X3+Q52",
+    "category": "Driving school",
+    "phone": "+91 93883 39991",
+    "website": null,
+    "discovered_at": "2026-11-15 15:37:17.082696"
+  },
+  {
+    "place_id": "0x3b05bbaa39e48861:0",
+    "name": "Taksha Jewels Rental Jewellery",
+    "address": "Kochar Rd, opp. VS Aluminium Fabrication",
+    "category": "Jewelry store",
+    "phone": "+91 96563 43494",
+    "website": null,
+    "discovered_at": "2026-11-15 15:37:15.815100"
+  },
+  {
     "place_id": "0x3b05bb003eaa4ea7:0",
     "name": "Display fashion",
     "address": "GXF6+C7Q",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 04:46:00.896365"
-  },
-  {
-    "place_id": "0x880e319ed57a7311:0",
-    "name": "Supermercado Rivera",
-    "address": "4334 W 51st St",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:45:59.487981"
-  },
-  {
-    "place_id": "0x880e31ae9d203153:0",
-    "name": "Target Grocery",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:45:58.302200"
-  },
-  {
-    "place_id": "0x3b05bbdde657e4b5:0",
-    "name": "Kollam Supreme",
-    "address": "Mahatma Gandhi Rd, near Sun View Hotel, near East Fort",
-    "category": "Jewelry store",
-    "phone": "+91 81389 99821",
-    "website": null,
-    "discovered_at": "2026-11-15 04:45:57.056935"
   }
 ]
