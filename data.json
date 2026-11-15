@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c0a33c0464fb:0",
+    "name": "Ayman Bakery & Fresh Juice",
+    "address": "JV9X+QJH",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 16:54:08.100126"
+  },
+  {
+    "place_id": "0x3b05c1ea31f4dae1:0",
+    "name": "Tiabi Sugarcane Juice Hut - Pothencode",
+    "address": "AR Tower, Mangalapuram Rd, opp. Muthoot Fincorp",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 16:54:06.903133"
+  },
+  {
     "place_id": "0x3b05b70b2eefb13b:0",
     "name": "Suhana juice bar",
     "address": "Closes 12 AM",
@@ -8980,23 +8998,5 @@
     "phone": "+91 96450 87515",
     "website": null,
     "discovered_at": "2026-11-15 09:27:59.403684"
-  },
-  {
-    "place_id": "0x3b05e9e08005761f:0",
-    "name": "Birla Opus Paint Gallery - Pallippuram Building Materials",
-    "address": "730/A Pallippuram Building Materials Pulloormukku Karavaram, Grama Panchayath",
-    "category": "Paint store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 09:27:57.644398"
-  },
-  {
-    "place_id": "0x3b05e865d97ffac5:0",
-    "name": "Arafa Textiles & Footwear",
-    "address": "",
-    "category": "Clothing store",
-    "phone": "+91 99468 64168",
-    "website": null,
-    "discovered_at": "2026-11-15 09:20:37.893303"
   }
 ]
