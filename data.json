@@ -1,5 +1,320 @@
 [
   {
+    "place_id": "0x549012e76a8501e3:0",
+    "name": "Cloud Food Court Restaurant & Burgers Kirkland",
+    "address": "",
+    "category": "Hamburger restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:23.162113"
+  },
+  {
+    "place_id": "0x3b05bf95393f737d:0",
+    "name": "Pizzeria Toto",
+    "address": "Adithya Building Near KWA Pump House Pongummoodu",
+    "category": "Pizza restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:21.895485"
+  },
+  {
+    "place_id": "0x3b05b9a4b766b971:0",
+    "name": "Lotus On Wheels",
+    "address": "Lotus On Wheels LLP, Sree Padmanabha Swamy Temple, 8, North Nada, opp. Mathilakam Office Fort",
+    "category": "Travel agency",
+    "phone": "+91 96457 11602",
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:20.664400"
+  },
+  {
+    "place_id": "0x22f15c167109a42d:0",
+    "name": "Luxus Trips To Paradise",
+    "address": "Harrison Ct",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:19.174866"
+  },
+  {
+    "place_id": "0x864e7190ae9532a1:0",
+    "name": "LaunchBox Collective",
+    "address": "",
+    "category": "Event management company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:17.826517"
+  },
+  {
+    "place_id": "0x864e6bfd13299925:0",
+    "name": "Château Joli Venue",
+    "address": "",
+    "category": "Event venue",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:16.570523"
+  },
+  {
+    "place_id": "0x549bcd8ab37a63c3:0",
+    "name": "Viva Creative Studio",
+    "address": "",
+    "category": "Event venue",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:14.542593"
+  },
+  {
+    "place_id": "0x549e1889e288b76d:0",
+    "name": "Soiree Event Design",
+    "address": "114 W Pacific Ave #205",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:13.326273"
+  },
+  {
+    "place_id": "0x860ea6108065f5a7:0",
+    "name": "NCW Event Rentals",
+    "address": "",
+    "category": "Wedding service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:12.028343"
+  },
+  {
+    "place_id": "0x549a4d885635cb91:0",
+    "name": "The Local Event Co.",
+    "address": "Opens 8 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:10.810304"
+  },
+  {
+    "place_id": "0x54910bc09d59a9d9:0",
+    "name": "Events by Genevieve",
+    "address": "Opens 9 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:09.537557"
+  },
+  {
+    "place_id": "0x6fd186d3060c61bb:0",
+    "name": "Coalescence Event Services LLC",
+    "address": "Opens 6 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:08.298051"
+  },
+  {
+    "place_id": "0x29368efc8c09843d:0",
+    "name": "Eventful Events",
+    "address": "Closes 11:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:07.051895"
+  },
+  {
+    "place_id": "0x549938af8e39458f:0",
+    "name": "Leslie Ramsden Design",
+    "address": "207 S Ash St",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:05.793320"
+  },
+  {
+    "place_id": "0x5498e1d493e81b59:0",
+    "name": "The Brian Gentry Team, RE/MAX Northwest Realtors",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:04.563133"
+  },
+  {
+    "place_id": "0x549938adfb6bffff:0",
+    "name": "Moses Lake Realty Group: Lorene Fitterer",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:03.320070"
+  },
+  {
+    "place_id": "0x549939e4e74d3aa1:0",
+    "name": "Blake Rollins, Realtor - Nest Realty Company",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:02.017484"
+  },
+  {
+    "place_id": "0x5499399b525c7799:0",
+    "name": "Brandon Douglass Windermere Real Estate",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:07:00.783809"
+  },
+  {
+    "place_id": "0x54995996109ac88f:0",
+    "name": "Solstice BioSpa",
+    "address": "236 Main Ave E",
+    "category": "Health spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:59.359336"
+  },
+  {
+    "place_id": "0x549909a355cb6913:0",
+    "name": "Royal Fitness 24/7",
+    "address": "336 Camelia St NE",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:58.032229"
+  },
+  {
+    "place_id": "0x54997d61fcc0f671:0",
+    "name": "She's Strong Studio",
+    "address": "406 Central Ave S",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:56.692516"
+  },
+  {
+    "place_id": "0x5498e1002d696813:0",
+    "name": "FT-Power",
+    "address": "1490 E Main St",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:55.494294"
+  },
+  {
+    "place_id": "0x5498e15966b34d07:0",
+    "name": "Pillar Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:54.119819"
+  },
+  {
+    "place_id": "0x549938c4b1786df7:0",
+    "name": "South Campus Athletic Club",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:52.877672"
+  },
+  {
+    "place_id": "0x549938ae3e953713:0",
+    "name": "The Complex",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:51.551887"
+  },
+  {
+    "place_id": "0x549938a207e0bf75:0",
+    "name": "Evolve Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:47.669211"
+  },
+  {
+    "place_id": "0x549bcc943a27aed7:0",
+    "name": "Elements Salon & Spa",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:46.261878"
+  },
+  {
+    "place_id": "0x5498e1aa32ec2747:0",
+    "name": "Islasluxury",
+    "address": "391 E Main St",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:44.915413"
+  },
+  {
+    "place_id": "0x5499475ee47f6219:0",
+    "name": "WinCo Foods",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:43.616301"
+  },
+  {
+    "place_id": "0x3b05bbb408decf1b:0",
+    "name": "Exclusive Dealer - Exclusive Premium Luxury Mattress Showroom and Shop in Thiruvananthapuram",
+    "address": "Ullash Nagar",
+    "category": "Mattress store",
+    "phone": "+91 94964 78879",
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:41.569131"
+  },
+  {
+    "place_id": "0x3b05bb321ded0019:0",
+    "name": "Santhoshkumar",
+    "address": "FWJX+QFM, Vrindavan Ln",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:40.095444"
+  },
+  {
+    "place_id": "0x3b05bb0078930253:0",
+    "name": "J m marketing",
+    "address": "Padmavilasam Rd",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:38.781973"
+  },
+  {
+    "place_id": "0x549bcd1e5e27ec8d:0",
+    "name": "Walker's Furniture & Mattress East Wenatchee",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:37.551697"
+  },
+  {
+    "place_id": "0x54994703b3c7e0e9:0",
+    "name": "BoxDrop Furniture & Mattress Moses Lake",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:36.122954"
+  },
+  {
+    "place_id": "0x549938ae0f989259:0",
+    "name": "The Home Center",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:06:34.646931"
+  },
+  {
     "place_id": "0x865c61ca0657315f:0",
     "name": "Elysia Collective",
     "address": "",
@@ -8683,320 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 04:32:27.879373"
-  },
-  {
-    "place_id": "0x872b0cff035f97ed:0",
-    "name": "Arcadia Animal Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:25.655968"
-  },
-  {
-    "place_id": "0x872b0c38ce1839b5:0",
-    "name": "Desert View Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:23.348293"
-  },
-  {
-    "place_id": "0x872b0c3e20115431:0",
-    "name": "Ingleside Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:22.111346"
-  },
-  {
-    "place_id": "0x872b117b6dbc53e3:0",
-    "name": "Vida Vet Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:19.700780"
-  },
-  {
-    "place_id": "0x872b0db30104449b:0",
-    "name": "VEG ER for Pets",
-    "address": "",
-    "category": "Emergency veterinarian service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:17.248366"
-  },
-  {
-    "place_id": "0x872b6d4b54043aa1:0",
-    "name": "East Maryland Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:15.955991"
-  },
-  {
-    "place_id": "0x872b0654338ff2d5:0",
-    "name": "McClintock Animal Care Center",
-    "address": "1836 East Elliot Road",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:13.700254"
-  },
-  {
-    "place_id": "0x872b9f6797fae439:0",
-    "name": "Hillside Animal Hospital",
-    "address": "11495 North 136th Street",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:10.990247"
-  },
-  {
-    "place_id": "0x872b0fc830dd4cbb:0",
-    "name": "PillPack",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:09.741866"
-  },
-  {
-    "place_id": "0x872b123e70ca106f:0",
-    "name": "Optum Specialty Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:07.526070"
-  },
-  {
-    "place_id": "0x872b0d88608bb6c9:0",
-    "name": "Phoenix Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:06.187766"
-  },
-  {
-    "place_id": "0x872b1221cfee2615:0",
-    "name": "Fry's Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:03.138542"
-  },
-  {
-    "place_id": "0x872b13987723a429:0",
-    "name": "Genoa Healthcare",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:01.841687"
-  },
-  {
-    "place_id": "0x872b12210a521071:0",
-    "name": "CVS Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:59.475767"
-  },
-  {
-    "place_id": "0x872b131a0dd79513:0",
-    "name": "Circle the City Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:58.224825"
-  },
-  {
-    "place_id": "0x872b1214cf42f779:0",
-    "name": "Safeway Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:56.317482"
-  },
-  {
-    "place_id": "0x872b134497da98f3:0",
-    "name": "Genoa Healthcare",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:53.222383"
-  },
-  {
-    "place_id": "0x872b13a0ff59e4eb:0",
-    "name": "Capsule",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:51.842427"
-  },
-  {
-    "place_id": "0x872b120c00000001:0",
-    "name": "Banner Family Pharmacy | Phoenix, AZ | McDowell Rd.",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:50.578133"
-  },
-  {
-    "place_id": "0x81453d8c7f666cc5:0",
-    "name": "DESERT PHLEBOTOMY, LLC. 🌵",
-    "address": "",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:47.733380"
-  },
-  {
-    "place_id": "0x872b11f217f5f92d:0",
-    "name": "Patient's Choice Lab Testing & Blood Draw Services",
-    "address": "",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:45.178034"
-  },
-  {
-    "place_id": "0x872b134aeb62e6d1:0",
-    "name": "Sonora Quest Laboratories",
-    "address": "",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:43.947396"
-  },
-  {
-    "place_id": "0x872b13e6d6f529bf:0",
-    "name": "Rapid Test Laboratories",
-    "address": "",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:41.624284"
-  },
-  {
-    "place_id": "0x872b0da991b37487:0",
-    "name": "Clear Vision Ophthalmology",
-    "address": "",
-    "category": "Ophthalmology clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:39.036727"
-  },
-  {
-    "place_id": "0x872b719a652a41c7:0",
-    "name": "Eye Doctors of Arizona - North Phoenix",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:37.737545"
-  },
-  {
-    "place_id": "0x872b0d615ca2ca7d:0",
-    "name": "Pearson Eyecare Group, now part of MyEyeDr.",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:35.121004"
-  },
-  {
-    "place_id": "0x872b0d50689098cd:0",
-    "name": "Desert Vista Eye Specialists",
-    "address": "",
-    "category": "Ophthalmology clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:33.894095"
-  },
-  {
-    "place_id": "0x872b0d6fbc73fb6d:0",
-    "name": "Eye Surgery Center At The Biltmore",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:31.749373"
-  },
-  {
-    "place_id": "0x872b126074383de1:0",
-    "name": "Phoenix Eye Clinic",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:28.997051"
-  },
-  {
-    "place_id": "0x872b11339fd49819:0",
-    "name": "Complete Vision Care, PLLC",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:27.735616"
-  },
-  {
-    "place_id": "0x872b6cd9c357b215:0",
-    "name": "Valley Eyecare Center",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:25.453730"
-  },
-  {
-    "place_id": "0x872b1240b85c4daf:0",
-    "name": "Optical Expressions",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:23.859521"
-  },
-  {
-    "place_id": "0x872b1261d4358b9d:0",
-    "name": "Arizona Eye Specialists",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:21.070486"
-  },
-  {
-    "place_id": "0x872b1213974ad9e7:0",
-    "name": "ABC Children's Eye Specialists",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:19.718221"
-  },
-  {
-    "place_id": "0x872b12417c2c606d:0",
-    "name": "Horizon Eye Specialists & LASIK Center | Eye Care Center in Central Phoenix AZ",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:31:17.451194"
   }
 ]
