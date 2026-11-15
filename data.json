@@ -1,5 +1,104 @@
 [
   {
+    "place_id": "0x3b05bbd850902c41:0",
+    "name": "SSA Caters,Trivandrum",
+    "address": "",
+    "category": "Party planner",
+    "phone": "+91 97459 44447",
+    "website": null,
+    "discovered_at": "2026-11-15 01:21:00.439578"
+  },
+  {
+    "place_id": "0x3b05bb97872d2291:0",
+    "name": "JJ Royals Weddings & Events",
+    "address": "Charachira Road",
+    "category": "Event planner",
+    "phone": "+91 70126 16515",
+    "website": null,
+    "discovered_at": "2026-11-15 01:20:59.162718"
+  },
+  {
+    "place_id": "0x3b05bb1f154bad7d:0",
+    "name": "EINS learning",
+    "address": "Chalakuzhy Rd",
+    "category": "Education center",
+    "phone": "+91 98950 87200",
+    "website": null,
+    "discovered_at": "2026-11-15 01:20:57.878527"
+  },
+  {
+    "place_id": "0x876f3b42d0733371:0",
+    "name": "Cheyenne Pet Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:20:56.626539"
+  },
+  {
+    "place_id": "0x3b05bbaf740e0995:0",
+    "name": "ATT HOLIDAYS",
+    "address": "TC 25/1073-1, Sitara Tower",
+    "category": "Travel agency",
+    "phone": "+91 94460 05852",
+    "website": null,
+    "discovered_at": "2026-11-15 01:20:55.218095"
+  },
+  {
+    "place_id": "0x3b05bb2c5511fe83:0",
+    "name": "Anaan Holidays",
+    "address": "music collage, Tc812556, Sangeeth Nagar",
+    "category": "Bus tour agency",
+    "phone": "+91 96050 80792",
+    "website": null,
+    "discovered_at": "2026-11-15 01:20:53.991452"
+  },
+  {
+    "place_id": "0x3b05bb6ae3aa7c17:0",
+    "name": "EpicEscapes Tours And Packages",
+    "address": "Epicescapes Tower",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:20:52.700591"
+  },
+  {
+    "place_id": "0x3b05bbaf946b7475:0",
+    "name": "A1 Vigneswara Tours &Travels",
+    "address": "Tour And Travels, Manorama Rd",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:20:51.450951"
+  },
+  {
+    "place_id": "0x3b05bb005982e931:0",
+    "name": "Ichayanzz Travel Hub",
+    "address": "opposite Railway Station",
+    "category": "Travel agency",
+    "phone": "+91 97463 04428",
+    "website": null,
+    "discovered_at": "2026-11-15 01:20:50.171800"
+  },
+  {
+    "place_id": "0x3b05bb9a7efd7915:0",
+    "name": "Dream Line Travel Hub",
+    "address": "sanggetha college junction, Tc25/641, Aristo Rd",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:20:48.961497"
+  },
+  {
+    "place_id": "0x3b05bbaf4184b199:0",
+    "name": "Sivasakthi Travels",
+    "address": "Tc 25/1003, Sivasakthi Travels, Jn",
+    "category": "Travel agency",
+    "phone": "+91 98472 15008",
+    "website": null,
+    "discovered_at": "2026-11-15 01:20:47.586739"
+  },
+  {
     "place_id": "0x3b05bba42836a0bb:0",
     "name": "Kitchen Thalassery Restaurant",
     "address": "Gandhari Amman Kovil Rd",
@@ -8899,104 +8998,5 @@
     "phone": "+91 95676 50701",
     "website": null,
     "discovered_at": "2026-11-14 16:22:01.650845"
-  },
-  {
-    "place_id": "0x3b0685cbaf92dc79:0",
-    "name": "Cloud Kitchen Kadayanallur",
-    "address": "9, th street",
-    "category": "Indian Muslim restaurant",
-    "phone": "+91 90471 52454",
-    "website": null,
-    "discovered_at": "2026-11-14 16:22:00.460288"
-  },
-  {
-    "place_id": "0x3b06152d0992f781:0",
-    "name": "Pawsitive Pet Clinic ( Pathanamthitta Veterinary Hospital)",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": "+91 87142 95316",
-    "website": null,
-    "discovered_at": "2026-11-14 16:21:59.269540"
-  },
-  {
-    "place_id": "0x808fcbdfbd640229:0",
-    "name": "Premier Workspaces",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:12:24.475639"
-  },
-  {
-    "place_id": "0x808fb5a6aa1ebae9:0",
-    "name": "Pacific Workplaces - Office Space Cupertino",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:12:23.212459"
-  },
-  {
-    "place_id": "0x808fca96733a36e7:0",
-    "name": "ZED Coworking - Office Space - Cupertino & San Jose",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:12:21.977321"
-  },
-  {
-    "place_id": "0x808fcadf57871f6b:0",
-    "name": "Spaces Santana Row",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:12:20.787813"
-  },
-  {
-    "place_id": "0x808fcbb296aa225b:0",
-    "name": "Expansive North First",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:12:19.516064"
-  },
-  {
-    "place_id": "0x3be7c92645e92cc5:0",
-    "name": "N D Savla & Associates - Chartered Accountant | CA in BKC | CA in Bandra | CA in Mumbai",
-    "address": "20, G Block Rd",
-    "category": "Chartered accountant",
-    "phone": "+91 98190 00511",
-    "website": null,
-    "discovered_at": "2026-11-14 16:12:18.076479"
-  },
-  {
-    "place_id": "0x808e33dad476ffef:0",
-    "name": "Blissful Travel Escapes LLC",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:12:16.685036"
-  },
-  {
-    "place_id": "0xa59b0862d4909889:0",
-    "name": "Roman Event",
-    "address": "",
-    "category": "Party planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:12:15.466118"
-  },
-  {
-    "place_id": "0x808fcdfa01b2f8bf:0",
-    "name": "Retreat Beauty - Head Spa and Microblading San Jose",
-    "address": "",
-    "category": "Health spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:12:14.154488"
   }
 ]
