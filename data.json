@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b1862131cb81:0",
+    "name": "Emmanuel Travels, Trivandrum",
+    "address": "G32M+VX7",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:14:04.273401"
+  },
+  {
+    "place_id": "0x3b05b1001e2e4b9f:0",
+    "name": "Xiya designer boutique",
+    "address": "F29P+CF7, Madanpara - Olippunada Rd",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 08:14:02.881993"
+  },
+  {
     "place_id": "0x3b05aeca7ce7c75d:0",
     "name": "Amirta Medicals",
     "address": "936H+CGG, Poovar - Neyyatinkara Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 22:50:51.369375"
-  },
-  {
-    "place_id": "0x87ee99b1b97c6c17:0",
-    "name": "Hammer Pharmacy",
-    "address": "600 E Grand Ave",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:49.955293"
-  },
-  {
-    "place_id": "0x87ee991e89c5e46f:0",
-    "name": "Integrated Physical Therapy & Sports Medicine",
-    "address": "",
-    "category": "Physical therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:48.524602"
   }
 ]
