@@ -1,5 +1,104 @@
 [
   {
+    "place_id": "0x2c52ac37e6d6814d:0",
+    "name": "Ananthapuri_Taxi",
+    "address": "C2R2+RV6, NRWA-40",
+    "category": "Taxi service",
+    "phone": "+91 82810 17091",
+    "website": null,
+    "discovered_at": "2026-11-15 20:07:09.150697"
+  },
+  {
+    "place_id": "0x3b05bb5419048de3:0",
+    "name": "Kannaki travel vibes",
+    "address": "Karunakaram TRA184",
+    "category": "Tour agency",
+    "phone": "+91 73569 28365",
+    "website": null,
+    "discovered_at": "2026-11-15 20:07:07.981900"
+  },
+  {
+    "place_id": "0x3b05af08c63fd619:0",
+    "name": "Western taravels",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 20:07:06.764806"
+  },
+  {
+    "place_id": "0x3b05bb1dba5ce857:0",
+    "name": "F J Consultants",
+    "address": "TC 77/521",
+    "category": "Tour agency",
+    "phone": "+91 73734 68810",
+    "website": null,
+    "discovered_at": "2026-11-15 20:07:05.495890"
+  },
+  {
+    "place_id": "0x3b05bbcaa0792acb:0",
+    "name": "Gandharva Holidays",
+    "address": "",
+    "category": "Travel agency",
+    "phone": "+91 97458 78039",
+    "website": null,
+    "discovered_at": "2026-11-15 20:07:04.337497"
+  },
+  {
+    "place_id": "0x3b05a95ceb986839:0",
+    "name": "Delone Travel World",
+    "address": "FXGF+8MQ",
+    "category": "Travel agency",
+    "phone": "+91 92071 22334",
+    "website": null,
+    "discovered_at": "2026-11-15 20:07:03.166274"
+  },
+  {
+    "place_id": "0x3b05bbe1db580b17:0",
+    "name": "Nihara Beauty Lounge",
+    "address": "NIHARA BEAUTY LOUNGE, BUS STAND, Road, opposite PAPPANAMCODU",
+    "category": "Beauty salon",
+    "phone": "+91 77366 00112",
+    "website": null,
+    "discovered_at": "2026-11-15 20:07:01.930226"
+  },
+  {
+    "place_id": "0x3b05bb26476bc793:0",
+    "name": "Ranju’s Beauty Lounge",
+    "address": "Opens 9:30 AM",
+    "category": "Closed",
+    "phone": "+91 82815 08132",
+    "website": null,
+    "discovered_at": "2026-11-15 20:07:00.609967"
+  },
+  {
+    "place_id": "0x3b05bb00381ce00f:0",
+    "name": "Dj community pharmacy and surgicals",
+    "address": "FX8Q+G8M",
+    "category": "Pharmacy",
+    "phone": "+91 79944 08651",
+    "website": null,
+    "discovered_at": "2026-11-15 20:06:59.397799"
+  },
+  {
+    "place_id": "0x3b05bbf8d23e96fd:0",
+    "name": "Raksha Medicals",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 20:06:58.191483"
+  },
+  {
+    "place_id": "0x3b05b00771b41297:0",
+    "name": "K.K.R. MEDICALS",
+    "address": "C2X6+V7H",
+    "category": "Pharmacy",
+    "phone": "+91 94467 60209",
+    "website": null,
+    "discovered_at": "2026-11-15 20:06:57.005119"
+  },
+  {
     "place_id": "0x3b05bbdfd424d4dd:0",
     "name": "Kaivalya Margin Free",
     "address": "",
@@ -8899,104 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:14:36.718178"
-  },
-  {
-    "place_id": "0x808fc93c9cb61de7:0",
-    "name": "Star plus driving school",
-    "address": "323 Smithwood St",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:34.526950"
-  },
-  {
-    "place_id": "0x864ddfcbb1932be3:0",
-    "name": "Fort Worth Driving Academy",
-    "address": "1112 Belsay Ln",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:31.882384"
-  },
-  {
-    "place_id": "0x808e2f4b4fc94093:0",
-    "name": "Forward Driving School",
-    "address": "6203 San Ignacio Ave",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:30.696083"
-  },
-  {
-    "place_id": "0x808fb0b52b1ed9f9:0",
-    "name": "Deluxe Driving School",
-    "address": "229 Polaris Ave #7",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:28.555926"
-  },
-  {
-    "place_id": "0x808e33d5ced21377:0",
-    "name": "Advantage Driving School, Inc",
-    "address": "5440 Thornwood Dr F",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:25.965049"
-  },
-  {
-    "place_id": "0x454e9dba02f8b9d1:0",
-    "name": "Susan Driving Training",
-    "address": "Opens 8 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:24.767871"
-  },
-  {
-    "place_id": "0x808fc154d3258e3b:0",
-    "name": "Pass 4 Less Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:22.489574"
-  },
-  {
-    "place_id": "0x864e7cc4ccc797e5:0",
-    "name": "Coastline Academy Driving School - Fort Worth",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:21.242171"
-  },
-  {
-    "place_id": "0x808e35cad5bf8d3d:0",
-    "name": "Frank’s Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:19.923508"
-  },
-  {
-    "place_id": "0x808fb5df7dab0c61:0",
-    "name": "Forward Driving School",
-    "address": "773 E El Camino Real #1030",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:18.724779"
-  },
-  {
-    "place_id": "0x808fc70880e16195:0",
-    "name": "Bay Pass Driving School, LLC.",
-    "address": "44240 Fremont Blvd",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:13.903150"
   }
 ]
