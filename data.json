@@ -1,5 +1,140 @@
 [
   {
+    "place_id": "0x3b05bb944c645ae7:0",
+    "name": "Eidolon Designers- Architects",
+    "address": "3rd floor, S.P.Heights Western Wing, S.P. Lane, Vallakadavu Road",
+    "category": "Interior designer",
+    "phone": "+91 99610 10003",
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:24.506221"
+  },
+  {
+    "place_id": "0x3b05bbeb82085a89:0",
+    "name": "Thiruvananthapuram Real Estate",
+    "address": "Ekerala D71 , Chitra Nagar Pangode Chitra Nagar Thirumala, PO",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:23.317067"
+  },
+  {
+    "place_id": "0x3b05bfd854de8e67:0",
+    "name": "Leansa beauty unisex saloon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:22.136893"
+  },
+  {
+    "place_id": "0x3b05bdae2b73d1b7:0",
+    "name": "Raymond Ready to Wear",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:20.979056"
+  },
+  {
+    "place_id": "0x3b05bb2c4751aa71:0",
+    "name": "HANGER CLOTHING STORE",
+    "address": "opp. SNSS library",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:19.761958"
+  },
+  {
+    "place_id": "0x3b05bd836fc97097:0",
+    "name": "Bewakoof Clothing Store - Lullu Mall Thiruvananthapuram",
+    "address": "First Floor, Shop No F15, GV8X+2F3 Lullu mall",
+    "category": "Clothing store",
+    "phone": "+91 89562 09702",
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:18.533248"
+  },
+  {
+    "place_id": "0x3b05bdb9e8488629:0",
+    "name": "MyDesignation",
+    "address": "",
+    "category": "Clothing store",
+    "phone": "+91 77360 80042",
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:17.365942"
+  },
+  {
+    "place_id": "0x3b05eb1378b3bacd:0",
+    "name": "FREEKERZ",
+    "address": "Near Puthucurichy Muslim Jamathu",
+    "category": "Men's clothing store",
+    "phone": "+91 99954 69297",
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:15.991612"
+  },
+  {
+    "place_id": "0x3b05bffbec7aa0f7:0",
+    "name": "Ubora Clothing Store",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:14.822519"
+  },
+  {
+    "place_id": "0x3b05bb029ad7f983:0",
+    "name": "Aether clothing store",
+    "address": "Opens 10 AM",
+    "category": "Closed",
+    "phone": "+91 90722 72323",
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:13.636250"
+  },
+  {
+    "place_id": "0x3b05bf095c2ffa05:0",
+    "name": "Latte & Tales",
+    "address": "Cyan Hills",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:12.219676"
+  },
+  {
+    "place_id": "0x3b05c1729dce9a69:0",
+    "name": "Sevamrutham Community Pharmacy",
+    "address": "SVS Building",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:10.968119"
+  },
+  {
+    "place_id": "0x3b05c13573b5ffdf:0",
+    "name": "Smart care Dental clinic",
+    "address": "1st floor, Naadh Building, Saigramam Rd",
+    "category": "Dental clinic",
+    "phone": "+91 97471 05020",
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:09.742347"
+  },
+  {
+    "place_id": "0x3b05c1ea73e31b91:0",
+    "name": "Dentora Dentalclinic",
+    "address": "NH 66",
+    "category": "Dental clinic",
+    "phone": "+91 99464 26997",
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:08.439665"
+  },
+  {
+    "place_id": "0x3b05bf3fb716154d:0",
+    "name": "Dr Keerthi's ADORE Multi speciality Dental Clinic & Root canal center, Clear aligner",
+    "address": "Gov LP School, Near, Kariyavattom - Chenkottukonam Rd",
+    "category": "Dental clinic",
+    "phone": "+91 81130 40600",
+    "website": null,
+    "discovered_at": "2026-11-15 20:15:07.262134"
+  },
+  {
     "place_id": "0x2c52ac37e6d6814d:0",
     "name": "Ananthapuri_Taxi",
     "address": "C2R2+RV6, NRWA-40",
@@ -8863,140 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:15:06.707505"
-  },
-  {
-    "place_id": "0x864e73feb215863b:0",
-    "name": "The Ashton Agency",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:15:04.512364"
-  },
-  {
-    "place_id": "0x808e1570a5249a2f:0",
-    "name": "Loredo Group - eXp Realty Santa Cruz",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:15:01.974647"
-  },
-  {
-    "place_id": "0x808e336f86f017bf:0",
-    "name": "Darlene Perry Bay Area Real Estate",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:15:00.760405"
-  },
-  {
-    "place_id": "0x6861a8917329f1b9:0",
-    "name": "Black Real Estate Team",
-    "address": "(408) 921-1711",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:58.546846"
-  },
-  {
-    "place_id": "0x808fb5b22902063d:0",
-    "name": "The Reyes Homeselling Team",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:56.212081"
-  },
-  {
-    "place_id": "0x808e35f1e2c7f7bf:0",
-    "name": "Real Estate Experts",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:54.815091"
-  },
-  {
-    "place_id": "0x808e2d1792842283:0",
-    "name": "THE VILLAGES REALTY - Rodda Realty Team - Suzanne Rodda",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:52.638188"
-  },
-  {
-    "place_id": "0x808e3281847c5d27:0",
-    "name": "Pacificwide Real Estate & Mortgage",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:49.957388"
-  },
-  {
-    "place_id": "0x808fcc0c17c2b7ed:0",
-    "name": "PRG Real Estate | EXP",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:48.770144"
-  },
-  {
-    "place_id": "0x28273887e13dace9:0",
-    "name": "Base Real Estate",
-    "address": "(408) 987-8888",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:46.542094"
-  },
-  {
-    "place_id": "0x808e46a2a7a42dc1:0",
-    "name": "ROOM Real Estate",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:43.968537"
-  },
-  {
-    "place_id": "0x808e2c4942458473:0",
-    "name": "Infiniti Real Estate",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:42.746839"
-  },
-  {
-    "place_id": "0x808fc085c7c68f4d:0",
-    "name": "SUNIL SETHI REAL ESTATE",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:40.506088"
-  },
-  {
-    "place_id": "0x6e7fe7e6304407db:0",
-    "name": "The Fort Real Estate",
-    "address": "Opens 7 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:38.037434"
-  },
-  {
-    "place_id": "0x808fc9cd9ebddecd:0",
-    "name": "US Driving School",
-    "address": "4701 Patrick Henry Dr Bldg 6 office P",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:36.718178"
   }
 ]
