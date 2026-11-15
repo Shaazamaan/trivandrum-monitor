@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05a52697344ce5:0",
+    "name": "Mr. Juice corner",
+    "address": "9XRP+7CX, Vizhinjam Harbour Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 07:59:30.807596"
+  },
+  {
+    "place_id": "0x3b05a5971bfee053:0",
+    "name": "S.M Fresh Juice & Coolbar",
+    "address": "9XPR+2GP",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 07:59:29.580396"
+  },
+  {
+    "place_id": "0x3b05bbcabfdaf5ff:0",
+    "name": "Purple Yali",
+    "address": "Gayathri Palayathinmughal, Venkode P O",
+    "category": "Interior Decorator",
+    "phone": "+91 75919 29332",
+    "website": null,
+    "discovered_at": "2026-11-15 07:59:28.363088"
+  },
+  {
+    "place_id": "0x3b05b8043e4bee35:0",
+    "name": "Manisa trade links",
+    "address": "Closes 3 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 07:59:27.085207"
+  },
+  {
+    "place_id": "0x3b05b9139626ee5b:0",
+    "name": "KFC",
+    "address": "SH 2, 11th Stone Junction, near Bus Stop",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 07:59:25.842371"
+  },
+  {
     "place_id": "0x3b05af4ce972c0fb:0",
     "name": "Ajantha Fashion Jewellery",
     "address": "Closes 7 PM",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 22:50:45.875111"
-  },
-  {
-    "place_id": "0x87ee974a0171d09f:0",
-    "name": "Fuller Associates Family Dentistry",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:44.548946"
-  },
-  {
-    "place_id": "0x87ee990104e0511b:0",
-    "name": "Downtown Dental Care PLLC",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:43.248740"
-  },
-  {
-    "place_id": "0x87ee98127de652ad:0",
-    "name": "Park Avenue Family Dental",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:42.010092"
-  },
-  {
-    "place_id": "0x87ee9ec53eb8a275:0",
-    "name": "dsm salon",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 22:50:40.746757"
-  },
-  {
-    "place_id": "0x3b05bbc7522a4db9:0",
-    "name": "Adarsh Medicals",
-    "address": "KCG TOWERS,T C 26/2602 University Road, Trivandrum 695034",
-    "category": "Pharmacy",
-    "phone": "+91 94464 97014",
-    "website": null,
-    "discovered_at": "2026-11-14 22:42:25.541939"
   }
 ]
