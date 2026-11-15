@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05bb3d5e530781:0",
+    "name": "Nainika Designer Boutique",
+    "address": "Nainika designer boutique, CV Raman Pillai Rd, opp. Thycaud house",
+    "category": "Boutique",
+    "phone": "+91 97784 96205",
+    "website": null,
+    "discovered_at": "2026-11-15 21:36:18.370701"
+  },
+  {
+    "place_id": "0x3b05bbcf3bc9f02b:0",
+    "name": "Hers boutique",
+    "address": "Ramachandran textiles, opposite Attakulangara",
+    "category": "Clothing store",
+    "phone": "+91 73561 30294",
+    "website": null,
+    "discovered_at": "2026-11-15 21:36:17.156303"
+  },
+  {
+    "place_id": "0x3b05bb3dce7cc3d7:0",
+    "name": "SARG Couture",
+    "address": "Dharmalayam Rd",
+    "category": "Boutique",
+    "phone": "+91 94978 46898",
+    "website": null,
+    "discovered_at": "2026-11-15 21:36:15.548046"
+  },
+  {
+    "place_id": "0x3b05ba5eeeb763ab:0",
+    "name": "ALIKA FASHION STORE",
+    "address": "",
+    "category": "Boutique",
+    "phone": "+91 81570 25332",
+    "website": null,
+    "discovered_at": "2026-11-15 21:36:12.374216"
+  },
+  {
+    "place_id": "0x87ee9d8c27fbae87:0",
+    "name": "Value Vet",
+    "address": "8851 Northpark Drive",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:36:11.078702"
+  },
+  {
+    "place_id": "0x3b05bbc7924f6a7f:0",
+    "name": "Narayana Bhavan Restaurant and Caters(NB)",
+    "address": "",
+    "category": "South Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:36:09.752558"
+  },
+  {
+    "place_id": "0x87ee98a1b24bf61b:0",
+    "name": "Pet Supplies Plus Des Moines",
+    "address": "4211 Fleur Drive",
+    "category": "Pet supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:36:08.522787"
+  },
+  {
     "place_id": "0x3b05bbfca60592d9:0",
     "name": "AMER BAKERS",
     "address": "AMER, Nanthancodu Central Rd",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:53:19.269641"
-  },
-  {
-    "place_id": "0x865cf78568b7bd69:0",
-    "name": "Primo Dental",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:18.031704"
-  },
-  {
-    "place_id": "0x865cf51c81301a99:0",
-    "name": "Dental Health Activity (Dentac)",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:16.847005"
-  },
-  {
-    "place_id": "0x865cf774b4c626af:0",
-    "name": "The Dental Space",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:15.626707"
-  },
-  {
-    "place_id": "0x865cf67782a60a11:0",
-    "name": "Eastside Christian Dental",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:14.384704"
-  },
-  {
-    "place_id": "0x865cf469dc955db5:0",
-    "name": "Ft Sam Houston Oral Surgery",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:13.226234"
-  },
-  {
-    "place_id": "0x865cf44b3b1e6191:0",
-    "name": "Budge Dental Clinic - Fort Sam",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:11.975694"
-  },
-  {
-    "place_id": "0x865cf5c778e32cd1:0",
-    "name": "Rhoades Dental Clinic",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:10.746274"
   }
 ]
