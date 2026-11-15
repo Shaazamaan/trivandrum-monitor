@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bbdfd424d4dd:0",
+    "name": "Kaivalya Margin Free",
+    "address": "",
+    "category": "Supermarket",
+    "phone": "+91 62384 43092",
+    "website": null,
+    "discovered_at": "2026-11-15 19:58:27.711525"
+  },
+  {
+    "place_id": "0x3b05b99f938b5b7b:0",
+    "name": "Sh Shop",
+    "address": "SH Lucky Center, Masjid Ln",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:58:26.380621"
+  },
+  {
+    "place_id": "0x3b05ba4cdab9f2ef:0",
+    "name": "VINAYAKA STAGE DECORATION",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": "+91 97461 28880",
+    "website": null,
+    "discovered_at": "2026-11-15 19:58:25.053235"
+  },
+  {
+    "place_id": "0x2bbdea2284124e27:0",
+    "name": "Taryn Kilty Design",
+    "address": "1807 Capitol Ave Ste 101G",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 19:58:23.733940"
+  },
+  {
     "place_id": "0x3b05abba0b6a48b3:0",
     "name": "S AND S ENTERPRISES",
     "address": "45/7",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:14:13.903150"
-  },
-  {
-    "place_id": "0x808fc6176d5ea299:0",
-    "name": "All Season Driving School",
-    "address": "47978 Warm Springs Blvd # E5",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:12.698640"
-  },
-  {
-    "place_id": "0x808fc6170f44b75b:0",
-    "name": "Success Driving School（Driving School, Bay Area Driving School， South Bay Driving School，Fremont Driving School",
-    "address": "47912 Warm Springs Blvd",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:10.520983"
-  },
-  {
-    "place_id": "0x808fb602d6d48541:0",
-    "name": "Forward Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:07.858092"
-  },
-  {
-    "place_id": "0x808feddc86843441:0",
-    "name": "East Bay Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:14:06.573674"
   }
 ]
