@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb003eaa4ea7:0",
+    "name": "Display fashion",
+    "address": "GXF6+C7Q",
+    "category": "Clothing store",
+    "phone": "+91 98953 36103",
+    "website": null,
+    "discovered_at": "2026-11-15 15:30:06.310791"
+  },
+  {
     "place_id": "0x89adc3412e41affb:0",
     "name": "Travelandplanningmadesimple",
     "address": "127 Grannys Dr",
@@ -8989,14 +8998,5 @@
     "phone": "+91 81389 99821",
     "website": null,
     "discovered_at": "2026-11-15 04:45:57.056935"
-  },
-  {
-    "place_id": "0x880e2efcf1d6d6dd:0",
-    "name": "M and Z Furniture and Mattress 1",
-    "address": "1008 W 63rd St",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:45:55.856335"
   }
 ]
