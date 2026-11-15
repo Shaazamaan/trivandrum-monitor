@@ -1,5 +1,122 @@
 [
   {
+    "place_id": "0x3b05bec7c37f0965:0",
+    "name": "Merriments Reporographic Center",
+    "address": "",
+    "category": "Internet cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:54:45.418231"
+  },
+  {
+    "place_id": "0x3b05bffcc2a73145:0",
+    "name": "Chechinde Mess",
+    "address": "HW24+2CP",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:54:44.141993"
+  },
+  {
+    "place_id": "0x3b05b94eae8e3019:0",
+    "name": "Shaji Medicals",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:54:42.938461"
+  },
+  {
+    "place_id": "0x3b05b9bc85323f37:0",
+    "name": "SOUTH ROUTE TOURS AND TRAVELS",
+    "address": "",
+    "category": "Taxi service",
+    "phone": "+91 98461 28684",
+    "website": null,
+    "discovered_at": "2026-11-15 04:54:41.720877"
+  },
+  {
+    "place_id": "0x3b05bbe597dea169:0",
+    "name": "I.Y. TOURS & TRAVELS",
+    "address": "KJK Hospital, near Amset",
+    "category": "Travel agency",
+    "phone": "+91 94474 87850",
+    "website": null,
+    "discovered_at": "2026-11-15 04:54:40.421820"
+  },
+  {
+    "place_id": "0xd4a0f732609c28f:0",
+    "name": "Desert Safari Tours Thiruvananthapuram",
+    "address": "14, Elite Gardens Rd",
+    "category": "Tour agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:54:39.186039"
+  },
+  {
+    "place_id": "0x3b05bb5440668507:0",
+    "name": "onepiece expeditons tours and travels",
+    "address": "TC 17/2268, Pottakuzhy Rd",
+    "category": "Travel agency",
+    "phone": "+91 94004 81821",
+    "website": null,
+    "discovered_at": "2026-11-15 04:54:37.962807"
+  },
+  {
+    "place_id": "0x3b05bb007f05b467:0",
+    "name": "Arrow",
+    "address": "GWFP+MM3",
+    "category": "Bus tour agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:54:36.759069"
+  },
+  {
+    "place_id": "0x3b05bbc4696bbbb9:0",
+    "name": "Wheelman Cabs : Wedding Car, Urbania Rental in Trivandrum",
+    "address": "",
+    "category": "Van rental agency",
+    "phone": "+91 99477 87057",
+    "website": null,
+    "discovered_at": "2026-11-15 04:54:34.871917"
+  },
+  {
+    "place_id": "0x3b05bd18860dac23:0",
+    "name": "MJ Travel and tourism",
+    "address": "TC 90, 1527(3, Church Rd",
+    "category": "Travel agency",
+    "phone": "+91 82818 41183",
+    "website": null,
+    "discovered_at": "2026-11-15 04:54:33.234101"
+  },
+  {
+    "place_id": "0x3b05b95e8bed60a1:0",
+    "name": "Fit N Fit",
+    "address": "Shop No: 76",
+    "category": "Tailor",
+    "phone": "+91 98953 55696",
+    "website": null,
+    "discovered_at": "2026-11-15 04:54:31.795199"
+  },
+  {
+    "place_id": "0x3b05b95e8b7a1bc3:0",
+    "name": "Srinidhi sarees",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:54:30.481071"
+  },
+  {
+    "place_id": "0x3b05bbe32afe33fb:0",
+    "name": "Amirtha Fresh Juice",
+    "address": "Medical College",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 04:54:29.254946"
+  },
+  {
     "place_id": "0x3b05bbfa9e60f3b9:0",
     "name": "Sauparnika Spa And Saloon",
     "address": "Closes 7 PM",
@@ -8881,122 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 20:13:20.940909"
-  },
-  {
-    "place_id": "0x872b6ee77397c2df:0",
-    "name": "Shear Paradise Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:19.669736"
-  },
-  {
-    "place_id": "0x872b0d07858a75a3:0",
-    "name": "Glow & Mane Hair Studio",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:18.453981"
-  },
-  {
-    "place_id": "0x872b0d79d057d5c3:0",
-    "name": "AURA Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:17.041938"
-  },
-  {
-    "place_id": "0x872b6fb6b17fbc05:0",
-    "name": "J&S Beauty Bar",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:15.827712"
-  },
-  {
-    "place_id": "0x86d6712cbc9455c1:0",
-    "name": "Mirelle Beauty Co. LLC",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:14.542591"
-  },
-  {
-    "place_id": "0x86d6718d1f7c69d1:0",
-    "name": "Bang - A Hair Salon",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:13.317149"
-  },
-  {
-    "place_id": "0x872b6d55fc1180c5:0",
-    "name": "Salon Surreal",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:12.082315"
-  },
-  {
-    "place_id": "0x872b6dac386901b3:0",
-    "name": "The Salon at Mima's Beauty College",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:10.723333"
-  },
-  {
-    "place_id": "0x86d671858f6be1c1:0",
-    "name": "Salon de Nouveau",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:09.494129"
-  },
-  {
-    "place_id": "0x872b6eae5ab118d1:0",
-    "name": "C & C Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:08.168178"
-  },
-  {
-    "place_id": "0x872b72aa40b113d1:0",
-    "name": "Sprouts Farmers Market",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:06.882177"
-  },
-  {
-    "place_id": "0x872b68fe868e086b:0",
-    "name": "WinCo Foods",
-    "address": "",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:05.683164"
-  },
-  {
-    "place_id": "0x872b0d6455e4efdb:0",
-    "name": "Whole Foods Market",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:13:04.408735"
   }
 ]
