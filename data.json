@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05a9003b8f1c47:0",
+    "name": "ARA MEDICAL DIAGNOSTIC LABORATORY",
+    "address": "923M+RGP",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:28:43.817872"
+  },
+  {
+    "place_id": "0x3b05e92a8f28408d:0",
+    "name": "INTERNATIONAL MARTIAL ARTS ACADEMY",
+    "address": "opposite Kalyan sliks, Kacherinada",
+    "category": "Martial arts school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:28:42.565811"
+  },
+  {
     "place_id": "0x3b05ef031ffafe83:0",
     "name": "AN associates",
     "address": "+91 94474 26506",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 04:32:49.204654"
-  },
-  {
-    "place_id": "0x872b0e860b147467:0",
-    "name": "AAWL Community Vet Clinic",
-    "address": "",
-    "category": "Veterinary care",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:47.938694"
-  },
-  {
-    "place_id": "0x872b12f76177ef8d:0",
-    "name": "Phoenix Dog Cat Bird Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:45.590528"
   }
 ]
