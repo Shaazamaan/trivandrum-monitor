@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b9c2c8ff6271:0",
+    "name": "FRESH BAKES",
+    "address": "near krishibhavan",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 16:03:43.792117"
+  },
+  {
     "place_id": "0x89c8039966236621:0",
     "name": "Mindhub",
     "address": "1215 E Fort Ave Ste 200",
@@ -8989,14 +8998,5 @@
     "phone": "+91 85909 57104",
     "website": null,
     "discovered_at": "2026-11-15 08:57:19.154318"
-  },
-  {
-    "place_id": "0x3b05950017e3cc7d:0",
-    "name": "Panakal House",
-    "address": "Panakal House",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 08:57:17.926351"
   }
 ]
