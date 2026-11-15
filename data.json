@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x872b4169f738ed43:0",
+    "name": "West Valley Coworking",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 17:46:48.640043"
+  },
+  {
     "place_id": "0x3b05ea52846c48e5:0",
     "name": "Dindon",
     "address": "MQ5J+JRQ, Pandakasala-Keleshwaram Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:10:54.413666"
-  },
-  {
-    "place_id": "0x808f8730e6b36f83:0",
-    "name": "Eastlake Family Dentistry",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:10:53.162217"
   }
 ]
