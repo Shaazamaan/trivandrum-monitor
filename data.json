@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05afd1438e434f:0",
+    "name": "Salala mobiles Nms Balaramapuram",
+    "address": "near SBI Bank",
+    "category": "Cell phone store",
+    "phone": "+91 90487 05555",
+    "website": null,
+    "discovered_at": "2026-11-15 02:23:09.293642"
+  },
+  {
+    "place_id": "0x3b05a5b8196ac931:0",
+    "name": "Jmj Vizhinjam",
+    "address": "8287",
+    "category": "Florist",
+    "phone": "+91 98951 96861",
+    "website": null,
+    "discovered_at": "2026-11-15 02:23:08.056216"
+  },
+  {
     "place_id": "0x3b05b9e807cb0ae5:0",
     "name": "Anugraha diagnostic centre",
     "address": "HXW9+PXQ, Vencode - SUT AMS Road",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 16:44:34.393124"
-  },
-  {
-    "place_id": "0x880fd2f9140502cb:0",
-    "name": "Jan Dee Custom Jewelry",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:33.218346"
-  },
-  {
-    "place_id": "0x880e4cda4912a923:0",
-    "name": "The Jewelry Exchange in Villa Park",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:32.018772"
   }
 ]
