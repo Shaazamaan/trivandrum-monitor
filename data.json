@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bfebde40c78f:0",
+    "name": "Astra Fashions",
+    "address": "ASTRA FASHION'S CHANANKARA, opp. Sree durga Bhagavathi temple",
+    "category": "Dress store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 17:24:14.828895"
+  },
+  {
+    "place_id": "0x3b059500663f9f63:0",
+    "name": "PRS Stores Kadinamkulam",
+    "address": "Road",
+    "category": "General store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 17:24:13.166573"
+  },
+  {
+    "place_id": "0x3b05a5079a41c8ab:0",
+    "name": "Curry Leaf Restaurant",
+    "address": "Kovalam Near Leela Hotel",
+    "category": "Seafood restaurant",
+    "phone": "+91 97463 16102",
+    "website": null,
+    "discovered_at": "2026-11-15 17:24:11.184824"
+  },
+  {
+    "place_id": "0x3b05baff97d08fef:0",
+    "name": "Kochannan Sahib's Restaurant",
+    "address": "",
+    "category": "Kerala restaurant",
+    "phone": "+91 94477 84840",
+    "website": null,
+    "discovered_at": "2026-11-15 17:24:09.921485"
+  },
+  {
+    "place_id": "0x3b05bf4f4312d261:0",
+    "name": "Shababaik Restaurant",
+    "address": "",
+    "category": "Shawarma restaurant",
+    "phone": "+91 79022 33301",
+    "website": null,
+    "discovered_at": "2026-11-15 17:24:08.690976"
+  },
+  {
     "place_id": "0x886389682b864a95:0",
     "name": "Premiere Luxury Travel LLC",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:10:51.862502"
-  },
-  {
-    "place_id": "0x809012ab8489d1df:0",
-    "name": "Fremont Health Dental Group",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:10:50.551659"
-  },
-  {
-    "place_id": "0x808fc084c72e9ab3:0",
-    "name": "East Bay Dental - Dental Implants, Orthodontist Dentist",
-    "address": "",
-    "category": "Cosmetic dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:10:46.951074"
-  },
-  {
-    "place_id": "0x3b05bb4cf9b0971f:0",
-    "name": "Traya wellness centre",
-    "address": "Treya wellness, near, MP Appan Rd, near SFS Fairmont",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:01:08.842123"
-  },
-  {
-    "place_id": "0x3b05bb00078c7035:0",
-    "name": "Vaigapriya supermarket",
-    "address": "DBRA92",
-    "category": "Grocery store",
-    "phone": "+91 98957 77354",
-    "website": null,
-    "discovered_at": "2026-11-15 09:53:15.334884"
-  },
-  {
-    "place_id": "0x3b05bb9841ff01bf:0",
-    "name": "The Lyceum Academy",
-    "address": "KERA-51, Saidarsan, Thampanoor, Kannettumukku Rd",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 09:46:09.406348"
   }
 ]
