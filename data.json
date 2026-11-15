@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05db801ac81deb:0",
+    "name": "alis Gold Palace Jewellery Kadakkal",
+    "address": "State Highway 64",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 00:29:53.745510"
+  },
+  {
     "place_id": "0x3b05ea4133532eed:0",
     "name": "New Rajasthan Marbles",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 14:06:31.907904"
-  },
-  {
-    "place_id": "0x3b05bbaa4dbf51e3:0",
-    "name": "Balaji Scan Centre",
-    "address": "Kochar Rd",
-    "category": "Diagnostic center",
-    "phone": "+91 95260 61288",
-    "website": null,
-    "discovered_at": "2026-11-14 14:06:30.680896"
   }
 ]
