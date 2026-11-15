@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b05bf832a5eb7fd:0",
+    "name": "Experience Centre by ATRIUM - Interior Designers | Decor | Curtain | Blinds | Furniture",
+    "address": "First Floor, Kuzhivila",
+    "category": "Interior designer",
+    "phone": "+91 62353 11100",
+    "website": null,
+    "discovered_at": "2026-11-15 11:39:05.074893"
+  },
+  {
+    "place_id": "0x3b05b95b083b5d77:0",
+    "name": "Utterly Butterly Bakes",
+    "address": "Ambaalayam,VRAK 216",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 11:39:03.895328"
+  },
+  {
+    "place_id": "0x3b05eb2d4da3c9ad:0",
+    "name": "Madina Medicals",
+    "address": "JQCW+RWR",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 11:39:02.457555"
+  },
+  {
+    "place_id": "0x3b05c19e7d004ed9:0",
+    "name": "SANTHWANAM MEDICARE AND SURGICALS",
+    "address": "P O, MANGALAPURAM",
+    "category": "Pharmacy",
+    "phone": "+91 91883 82735",
+    "website": null,
+    "discovered_at": "2026-11-15 11:39:01.115746"
+  },
+  {
+    "place_id": "0x3b05bc01b867c717:0",
+    "name": "HindLabs Laboratory",
+    "address": "695011",
+    "category": "Diagnostic center",
+    "phone": "+91 94000 27977",
+    "website": null,
+    "discovered_at": "2026-11-15 11:38:59.904608"
+  },
+  {
+    "place_id": "0x3b05b90e71ef9977:0",
+    "name": "Priya Dental Care",
+    "address": "TC 10, 271",
+    "category": "Dental clinic",
+    "phone": "+91 80861 52026",
+    "website": null,
+    "discovered_at": "2026-11-15 11:38:58.747316"
+  },
+  {
+    "place_id": "0x3b05bbea90abeb09:0",
+    "name": "Natura Wellness Spa",
+    "address": "",
+    "category": "Spa",
+    "phone": "+91 88481 85373",
+    "website": null,
+    "discovered_at": "2026-11-15 11:38:57.555327"
+  },
+  {
+    "place_id": "0x3b05bbe77b3e733b:0",
+    "name": "Infinity Unisex Spa & Saloon",
+    "address": "FXJ8+PRP, Oppsite Karamana Marke, karamanat",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 11:38:56.017358"
+  },
+  {
+    "place_id": "0x3b05bb03fd0da3f1:0",
+    "name": "Petal wellness spa",
+    "address": "Yoga academy Sastri nagar, Mudavanmugal Rd",
+    "category": "Massage spa",
+    "phone": "+91 62828 42750",
+    "website": null,
+    "discovered_at": "2026-11-15 11:38:54.700316"
+  },
+  {
     "place_id": "0x549bcd6829ecfdfb:0",
     "name": "Wenatchee Driving School",
     "address": "",
@@ -8917,86 +8998,5 @@
     "phone": "+91 96005 69100",
     "website": null,
     "discovered_at": "2026-11-15 02:37:42.485799"
-  },
-  {
-    "place_id": "0x3b05b11dcaf69fc9:0",
-    "name": "Wellness Pharma (Medical Store)",
-    "address": "Closes 2 PM",
-    "category": "Open",
-    "phone": "+91 62383 80494",
-    "website": null,
-    "discovered_at": "2026-11-15 02:30:51.101412"
-  },
-  {
-    "place_id": "0x3b05b749d52d26db:0",
-    "name": "J S Micro Lab",
-    "address": "M S Building, Hospital Rd",
-    "category": "Diagnostic center",
-    "phone": "+91 79070 10800",
-    "website": null,
-    "discovered_at": "2026-11-15 02:30:49.832505"
-  },
-  {
-    "place_id": "0x3b05b70047ba40fb:0",
-    "name": "Arunima Clinical Laboratory & ECG",
-    "address": "G3PP+4JQ, Kattakkada Kottoor Rd",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 02:30:48.535525"
-  },
-  {
-    "place_id": "0x3b05a978cbef3bd7:0",
-    "name": "Ayillyam Aviary",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": "+91 96459 23376",
-    "website": null,
-    "discovered_at": "2026-11-15 02:30:47.196056"
-  },
-  {
-    "place_id": "0x3b05afd1438e434f:0",
-    "name": "Salala mobiles Nms Balaramapuram",
-    "address": "near SBI Bank",
-    "category": "Cell phone store",
-    "phone": "+91 90487 05555",
-    "website": null,
-    "discovered_at": "2026-11-15 02:23:09.293642"
-  },
-  {
-    "place_id": "0x3b05a5b8196ac931:0",
-    "name": "Jmj Vizhinjam",
-    "address": "8287",
-    "category": "Florist",
-    "phone": "+91 98951 96861",
-    "website": null,
-    "discovered_at": "2026-11-15 02:23:08.056216"
-  },
-  {
-    "place_id": "0x3b05b9e807cb0ae5:0",
-    "name": "Anugraha diagnostic centre",
-    "address": "HXW9+PXQ, Vencode - SUT AMS Road",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 02:15:53.974165"
-  },
-  {
-    "place_id": "0x3b05c7007d3887e5:0",
-    "name": "Agasthya Hill Siddha Ayurveda Hospital",
-    "address": "Panavoor P.O",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 02:15:52.701057"
-  },
-  {
-    "place_id": "0x3b05ae6272cf07a9:0",
-    "name": "Girikrishna Restaurant",
-    "address": "Junction, Srinagar - Kanyakumari Highway",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 02:15:51.410163"
   }
 ]
