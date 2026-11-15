@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05b9e807cb0ae5:0",
+    "name": "Anugraha diagnostic centre",
+    "address": "HXW9+PXQ, Vencode - SUT AMS Road",
+    "category": "Diagnostic center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:15:53.974165"
+  },
+  {
+    "place_id": "0x3b05c7007d3887e5:0",
+    "name": "Agasthya Hill Siddha Ayurveda Hospital",
+    "address": "Panavoor P.O",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:15:52.701057"
+  },
+  {
+    "place_id": "0x3b05ae6272cf07a9:0",
+    "name": "Girikrishna Restaurant",
+    "address": "Junction, Srinagar - Kanyakumari Highway",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 02:15:51.410163"
+  },
+  {
+    "place_id": "0x3b05afa3608172e1:0",
+    "name": "Health Care Community pharmacy",
+    "address": "Kumaraserry, Athiyannoor",
+    "category": "Pharmacy",
+    "phone": "+91 90376 42647",
+    "website": null,
+    "discovered_at": "2026-11-15 02:15:50.169503"
+  },
+  {
     "place_id": "0x3b05eb0040706b6f:0",
     "name": "Redzon travel hub",
     "address": "MRHF+VQM",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 16:44:32.018772"
-  },
-  {
-    "place_id": "0x880fd2052be331f5:0",
-    "name": "Stanley Brown Jewelist",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:30.770491"
-  },
-  {
-    "place_id": "0x880e691bdc56c519:0",
-    "name": "Zembar Jewelers",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:29.574159"
-  },
-  {
-    "place_id": "0x880fd1dfb00570b9:0",
-    "name": "Regal Jewels Inc.",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:28.394882"
-  },
-  {
-    "place_id": "0x880ef90aea4a243d:0",
-    "name": "Tanishq Jewelers - Chicago",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 16:44:26.613454"
   }
 ]
