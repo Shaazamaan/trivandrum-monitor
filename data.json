@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb00078c7035:0",
+    "name": "Vaigapriya supermarket",
+    "address": "DBRA92",
+    "category": "Grocery store",
+    "phone": "+91 98957 77354",
+    "website": null,
+    "discovered_at": "2026-11-15 09:53:15.334884"
+  },
+  {
     "place_id": "0x3b05bb9841ff01bf:0",
     "name": "The Lyceum Academy",
     "address": "KERA-51, Saidarsan, Thampanoor, Kannettumukku Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 00:56:17.505750"
-  },
-  {
-    "place_id": "0x3b05bf2bdc8f47c5:0",
-    "name": "Sana Motor Driving School",
-    "address": "Opens 6 AM Mon",
-    "category": "Closed",
-    "phone": "+91 95390 20598",
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:16.360789"
   }
 ]
