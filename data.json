@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05e92fd5bcddb1:0",
+    "name": "Sachu's Wedding Company",
+    "address": "Sachu's Wedding Company, Pallimukku-Thinavila-Vilayilmoola Road",
+    "category": "Wedding photographer",
+    "phone": "+91 73064 70368",
+    "website": null,
+    "discovered_at": "2026-11-15 20:22:51.919874"
+  },
+  {
+    "place_id": "0x3b05eb00438812bb:0",
+    "name": "AngelWings Montessori International Early Learning Centre",
+    "address": "Closes 3:30 AM",
+    "category": "Open",
+    "phone": "+91 88918 78884",
+    "website": null,
+    "discovered_at": "2026-11-15 20:22:50.300487"
+  },
+  {
     "place_id": "0x3b05bb944c645ae7:0",
     "name": "Eidolon Designers- Architects",
     "address": "3rd floor, S.P.Heights Western Wing, S.P. Lane, Vallakadavu Road",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 10:15:10.546680"
-  },
-  {
-    "place_id": "0x808e35e51123174d:0",
-    "name": "HAYLEN Real Estate",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:15:07.937101"
-  },
-  {
-    "place_id": "0x808fb523ddfdba7f:0",
-    "name": "Roxy Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 10:15:06.707505"
   }
 ]
