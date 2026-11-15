@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bf3ae9d25a97:0",
+    "name": "Duthens super mart",
+    "address": "",
+    "category": "Supermarket",
+    "phone": "+91 85473 90917",
+    "website": null,
+    "discovered_at": "2026-11-15 23:10:33.882258"
+  },
+  {
+    "place_id": "0x3b05c15b3f6d6c0b:0",
+    "name": "Devi scans Tamam laboratories",
+    "address": "JRGX+FC7",
+    "category": "Medical laboratory",
+    "phone": "+91 80860 01217",
+    "website": null,
+    "discovered_at": "2026-11-15 23:10:32.536180"
+  },
+  {
+    "place_id": "0x3b05bfdf0edf5efd:0",
+    "name": "Smile right dental clinic",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:10:31.229114"
+  },
+  {
     "place_id": "0x3b05bb0e1f9fec2f:0",
     "name": "Shifa clinic",
     "address": "k k, Manacaud Nallamthanni Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:55:35.307561"
-  },
-  {
-    "place_id": "0x865cf5f258eac157:0",
-    "name": "Mila Coffee",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:33.109868"
-  },
-  {
-    "place_id": "0x865c598fe6f9013d:0",
-    "name": "Kafe Krave",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:30.647347"
-  },
-  {
-    "place_id": "0x865c597dfe486b6b:0",
-    "name": "Por Vida Coffee",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:29.213546"
   }
 ]
