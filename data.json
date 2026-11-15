@@ -1,5 +1,1823 @@
 [
   {
+    "place_id": "0x3b05bb2569b6cf55:0",
+    "name": "Parshi - Stiching center & Botique",
+    "address": "Parshi, KNRA-26, Karthika Nagar, Crime Branch Office, near Pettah",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:33.022531"
+  },
+  {
+    "place_id": "0x3b05b950893a2db7:0",
+    "name": "Firstcry.com Store Trivandrum Ulloor",
+    "address": "",
+    "category": "Baby store",
+    "phone": "+91 95672 87366",
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:31.812610"
+  },
+  {
+    "place_id": "0x808f7eff140fffff:0",
+    "name": "CloudKitchens - San Francisco Bayview",
+    "address": "",
+    "category": "Shared-use commercial kitchen",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:28.721859"
+  },
+  {
+    "place_id": "0x808f93d8033da61d:0",
+    "name": "CloudKitchens - Hayward - Commercial kitchen",
+    "address": "",
+    "category": "Shared-use commercial kitchen",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:26.560109"
+  },
+  {
+    "place_id": "0x808f8730cfe7daed:0",
+    "name": "CloudKitchens - Oakland Fruitvale",
+    "address": "",
+    "category": "Shared-use commercial kitchen",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:25.254131"
+  },
+  {
+    "place_id": "0x808fb7c18bd6d853:0",
+    "name": "CloudKitchens - Sunnyvale - Commercial Kitchen",
+    "address": "",
+    "category": "Shared-use commercial kitchen",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:21.881517"
+  },
+  {
+    "place_id": "0x808fa3b19a157ed3:0",
+    "name": "CloudKitchens - Redwood City",
+    "address": "",
+    "category": "Shared-use commercial kitchen",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:20.693514"
+  },
+  {
+    "place_id": "0x808fcb7833bd52b5:0",
+    "name": "CloudKitchens - San Jose Ruff Dr",
+    "address": "",
+    "category": "Shared-use commercial kitchen",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:18.523363"
+  },
+  {
+    "place_id": "0x3b05b98574103261:0",
+    "name": "Farsi Laban",
+    "address": "SM Plaza, near Ulloor Bridge",
+    "category": "Dessert shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:16.057457"
+  },
+  {
+    "place_id": "0x808fcb38b4922b6d:0",
+    "name": "Burbank Pet Hospital",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:14.857770"
+  },
+  {
+    "place_id": "0x808fb560392903e5:0",
+    "name": "South Bay Animal Hospital & Emergency",
+    "address": "",
+    "category": "Emergency veterinarian service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:13.506657"
+  },
+  {
+    "place_id": "0x3b05b938c5572a61:0",
+    "name": "Shajahans Eye Care & Speciality Clinic",
+    "address": "near Bus stop, opp. Rema Fashions",
+    "category": "Medical Center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:12.293577"
+  },
+  {
+    "place_id": "0x808e32a497b483bb:0",
+    "name": "Mango Tours - San Jose, CA",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:08.610394"
+  },
+  {
+    "place_id": "0x808e2c4cba805461:0",
+    "name": "Vulcan Trips",
+    "address": "3203 Falls Creek Dr",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:07.400566"
+  },
+  {
+    "place_id": "0x80857e78bb8403a5:0",
+    "name": "Santini Tours & Tropical Travel LLC",
+    "address": "6575 Shattuck Ave.",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:04.542265"
+  },
+  {
+    "place_id": "0x808f91591bc0c147:0",
+    "name": "San Lorenzo Travel Agency",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:01.959017"
+  },
+  {
+    "place_id": "0x49c3f9676adc950f:0",
+    "name": "AJT Travel Group",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:16:00.595795"
+  },
+  {
+    "place_id": "0x808fbf675ec3b6e7:0",
+    "name": "Tri City Travel",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:57.970432"
+  },
+  {
+    "place_id": "0x808fcd37f7c3c06b:0",
+    "name": "Azteca Travel",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:56.745242"
+  },
+  {
+    "place_id": "0x808e2d7dd2ed3d59:0",
+    "name": "Discount Travel",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:54.551400"
+  },
+  {
+    "place_id": "0x808e33312e0fdf2d:0",
+    "name": "Signature Events by Christina Romero, LLC",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:52.271402"
+  },
+  {
+    "place_id": "0x808fcb734d2ee699:0",
+    "name": "Amazáe Events Inc",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:50.745546"
+  },
+  {
+    "place_id": "0x89c43e78d0b44b35:0",
+    "name": "Beauty Marked Events",
+    "address": "Opens 9 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:48.576905"
+  },
+  {
+    "place_id": "0x8824c5bb65062187:0",
+    "name": "Infinity Events LLC",
+    "address": "Opens 9 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:45.909443"
+  },
+  {
+    "place_id": "0x3b05bb88e588e8dd:0",
+    "name": "MANIVEENA EVENTS",
+    "address": "Mupparavilakam Road",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:44.703704"
+  },
+  {
+    "place_id": "0x808fc7cdb2237fff:0",
+    "name": "Muse Luxe Events",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:41.968537"
+  },
+  {
+    "place_id": "0x864e7bcef37d756b:0",
+    "name": "Wedding Event Design",
+    "address": "Opens 9 AM Tue",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:40.735334"
+  },
+  {
+    "place_id": "0x808f9366c3ff7bad:0",
+    "name": "Magnetic Magnificent Events & Incentives, LLC",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:38.549751"
+  },
+  {
+    "place_id": "0x808e32bcac96e967:0",
+    "name": "Xclusive Events Decor",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:35.892015"
+  },
+  {
+    "place_id": "0x808fbfdaae7518ab:0",
+    "name": "Eventbyshimmers",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:34.712736"
+  },
+  {
+    "place_id": "0x808fb5d30410f90f:0",
+    "name": "Baramdaa Events",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:32.481080"
+  },
+  {
+    "place_id": "0x808fcce812b77099:0",
+    "name": "Gala Events",
+    "address": "",
+    "category": "Wedding planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:30.803672"
+  },
+  {
+    "place_id": "0x808fcda6505653a3:0",
+    "name": "J Floral and Event Designs",
+    "address": "1617 Whitton Ave",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:28.538243"
+  },
+  {
+    "place_id": "0x808fca4a84afd48d:0",
+    "name": "The Great Event",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:25.985129"
+  },
+  {
+    "place_id": "0x808e2d118a9a0f93:0",
+    "name": "Le Rêve Event LLC",
+    "address": "2684 Glen Doon Ct",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:24.774985"
+  },
+  {
+    "place_id": "0x808e336aa8e3172f:0",
+    "name": "Elegance Event Planner",
+    "address": "Opens 12 PM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:22.548004"
+  },
+  {
+    "place_id": "0x808fbfa4e91ee33f:0",
+    "name": "N Factor Events",
+    "address": "Papaya St",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:19.926892"
+  },
+  {
+    "place_id": "0x864e85905eb695e5:0",
+    "name": "My Elite Events",
+    "address": "Opens 8 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:18.738068"
+  },
+  {
+    "place_id": "0xaae92db43171e445:0",
+    "name": "Occasia Events",
+    "address": "38540 Royal Ann Common",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:16.553738"
+  },
+  {
+    "place_id": "0x2626eb230827fca1:0",
+    "name": "Aakruti Designers Event Planner",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:13.978943"
+  },
+  {
+    "place_id": "0x2adb4d210f5d3f09:0",
+    "name": "Three Wishes Planning",
+    "address": "(626) 264-2470",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:12.752093"
+  },
+  {
+    "place_id": "0x808fc17a9e72ba1f:0",
+    "name": "The Blue Door Events",
+    "address": "38885 Matson Pl",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:10.546680"
+  },
+  {
+    "place_id": "0x808e35e51123174d:0",
+    "name": "HAYLEN Real Estate",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:07.937101"
+  },
+  {
+    "place_id": "0x808fb523ddfdba7f:0",
+    "name": "Roxy Realty",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:06.707505"
+  },
+  {
+    "place_id": "0x864e73feb215863b:0",
+    "name": "The Ashton Agency",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:04.512364"
+  },
+  {
+    "place_id": "0x808e1570a5249a2f:0",
+    "name": "Loredo Group - eXp Realty Santa Cruz",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:01.974647"
+  },
+  {
+    "place_id": "0x808e336f86f017bf:0",
+    "name": "Darlene Perry Bay Area Real Estate",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:15:00.760405"
+  },
+  {
+    "place_id": "0x6861a8917329f1b9:0",
+    "name": "Black Real Estate Team",
+    "address": "(408) 921-1711",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:58.546846"
+  },
+  {
+    "place_id": "0x808fb5b22902063d:0",
+    "name": "The Reyes Homeselling Team",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:56.212081"
+  },
+  {
+    "place_id": "0x808e35f1e2c7f7bf:0",
+    "name": "Real Estate Experts",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:54.815091"
+  },
+  {
+    "place_id": "0x808e2d1792842283:0",
+    "name": "THE VILLAGES REALTY - Rodda Realty Team - Suzanne Rodda",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:52.638188"
+  },
+  {
+    "place_id": "0x808e3281847c5d27:0",
+    "name": "Pacificwide Real Estate & Mortgage",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:49.957388"
+  },
+  {
+    "place_id": "0x808fcc0c17c2b7ed:0",
+    "name": "PRG Real Estate | EXP",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:48.770144"
+  },
+  {
+    "place_id": "0x28273887e13dace9:0",
+    "name": "Base Real Estate",
+    "address": "(408) 987-8888",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:46.542094"
+  },
+  {
+    "place_id": "0x808e46a2a7a42dc1:0",
+    "name": "ROOM Real Estate",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:43.968537"
+  },
+  {
+    "place_id": "0x808e2c4942458473:0",
+    "name": "Infiniti Real Estate",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:42.746839"
+  },
+  {
+    "place_id": "0x808fc085c7c68f4d:0",
+    "name": "SUNIL SETHI REAL ESTATE",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:40.506088"
+  },
+  {
+    "place_id": "0x6e7fe7e6304407db:0",
+    "name": "The Fort Real Estate",
+    "address": "Opens 7 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:38.037434"
+  },
+  {
+    "place_id": "0x808fc9cd9ebddecd:0",
+    "name": "US Driving School",
+    "address": "4701 Patrick Henry Dr Bldg 6 office P",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:36.718178"
+  },
+  {
+    "place_id": "0x808fc93c9cb61de7:0",
+    "name": "Star plus driving school",
+    "address": "323 Smithwood St",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:34.526950"
+  },
+  {
+    "place_id": "0x864ddfcbb1932be3:0",
+    "name": "Fort Worth Driving Academy",
+    "address": "1112 Belsay Ln",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:31.882384"
+  },
+  {
+    "place_id": "0x808e2f4b4fc94093:0",
+    "name": "Forward Driving School",
+    "address": "6203 San Ignacio Ave",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:30.696083"
+  },
+  {
+    "place_id": "0x808fb0b52b1ed9f9:0",
+    "name": "Deluxe Driving School",
+    "address": "229 Polaris Ave #7",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:28.555926"
+  },
+  {
+    "place_id": "0x808e33d5ced21377:0",
+    "name": "Advantage Driving School, Inc",
+    "address": "5440 Thornwood Dr F",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:25.965049"
+  },
+  {
+    "place_id": "0x454e9dba02f8b9d1:0",
+    "name": "Susan Driving Training",
+    "address": "Opens 8 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:24.767871"
+  },
+  {
+    "place_id": "0x808fc154d3258e3b:0",
+    "name": "Pass 4 Less Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:22.489574"
+  },
+  {
+    "place_id": "0x864e7cc4ccc797e5:0",
+    "name": "Coastline Academy Driving School - Fort Worth",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:21.242171"
+  },
+  {
+    "place_id": "0x808e35cad5bf8d3d:0",
+    "name": "Frank’s Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:19.923508"
+  },
+  {
+    "place_id": "0x808fb5df7dab0c61:0",
+    "name": "Forward Driving School",
+    "address": "773 E El Camino Real #1030",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:18.724779"
+  },
+  {
+    "place_id": "0x808fc70880e16195:0",
+    "name": "Bay Pass Driving School, LLC.",
+    "address": "44240 Fremont Blvd",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:13.903150"
+  },
+  {
+    "place_id": "0x808fc6176d5ea299:0",
+    "name": "All Season Driving School",
+    "address": "47978 Warm Springs Blvd # E5",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:12.698640"
+  },
+  {
+    "place_id": "0x808fc6170f44b75b:0",
+    "name": "Success Driving School（Driving School, Bay Area Driving School， South Bay Driving School，Fremont Driving School",
+    "address": "47912 Warm Springs Blvd",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:10.520983"
+  },
+  {
+    "place_id": "0x808fb602d6d48541:0",
+    "name": "Forward Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:07.858092"
+  },
+  {
+    "place_id": "0x808feddc86843441:0",
+    "name": "East Bay Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:06.573674"
+  },
+  {
+    "place_id": "0x3b05bb21c4e21acf:0",
+    "name": "Global India Techno Hub Institute Trivandrum",
+    "address": "III floor, Karimpanal arcade",
+    "category": "Training center",
+    "phone": "+91 90722 33100",
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:03.916658"
+  },
+  {
+    "place_id": "0x808e3500c0c736e9:0",
+    "name": "Think Zone Campbell Learning Center",
+    "address": "",
+    "category": "Tutoring service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:02.685488"
+  },
+  {
+    "place_id": "0x808fb0e58c05aa1d:0",
+    "name": "AJ Tutoring",
+    "address": "",
+    "category": "Tutoring service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:14:00.511542"
+  },
+  {
+    "place_id": "0x3b05bb7a0db2491f:0",
+    "name": "Global Academy",
+    "address": "SS Kovil Rd, near Ayappan kovil",
+    "category": "Education center",
+    "phone": "+91 98473 48882",
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:58.156977"
+  },
+  {
+    "place_id": "0x3b05bb212f084a2d:0",
+    "name": "Budget Reading Room Trivandrum",
+    "address": "First Floor, Thinkon Towers, Opp: Ayurveda College Pay Ward, Panamood Lane",
+    "category": "Studying center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:56.784511"
+  },
+  {
+    "place_id": "0x3b05ba2459a96091:0",
+    "name": "REACH",
+    "address": "KSRTC Complex, Ground Floor, Transport Bhavan",
+    "category": "Training center",
+    "phone": "+91 94960 15051",
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:54.526406"
+  },
+  {
+    "place_id": "0x808fb6d7ad502541:0",
+    "name": "The Tutoring Center",
+    "address": "",
+    "category": "Tutoring service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:52.143733"
+  },
+  {
+    "place_id": "0x808e33a86855f091:0",
+    "name": "Best in Class Education Center",
+    "address": "",
+    "category": "Tutoring service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:50.849687"
+  },
+  {
+    "place_id": "0x808e338487cb1cb5:0",
+    "name": "Engenius Learning Center of Willow Glen",
+    "address": "1445 Foxworthy Ave #50",
+    "category": "Tutoring service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:48.521367"
+  },
+  {
+    "place_id": "0x808e2d68cd880b23:0",
+    "name": "JEI Learning Center",
+    "address": "",
+    "category": "Tutoring service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:45.918232"
+  },
+  {
+    "place_id": "0x808fc65b79da4789:0",
+    "name": "MT Learning Center",
+    "address": "",
+    "category": "Tutoring service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:44.719415"
+  },
+  {
+    "place_id": "0x808e2e2e5e652fdb:0",
+    "name": "24 Hour Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:42.539244"
+  },
+  {
+    "place_id": "0x808e2e0c3b2d730d:0",
+    "name": "The Plex Athletic Club",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:39.888268"
+  },
+  {
+    "place_id": "0x808e34660d14f913:0",
+    "name": "24 Hour Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:38.654049"
+  },
+  {
+    "place_id": "0x864e7f06e46c2013:0",
+    "name": "CrossFit Fort Worth East",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:36.354291"
+  },
+  {
+    "place_id": "0x808e317fa0d1236d:0",
+    "name": "Focus Fitness Club",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:35.151012"
+  },
+  {
+    "place_id": "0x864e713f91d7cf35:0",
+    "name": "Vigor Active",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:33.872261"
+  },
+  {
+    "place_id": "0x864e7232beccd609:0",
+    "name": "Pop's Gym",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:32.662555"
+  },
+  {
+    "place_id": "0x808e3390450b270b:0",
+    "name": "Anytime Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:31.468576"
+  },
+  {
+    "place_id": "0x808e35cb8da51c5d:0",
+    "name": "Vim + Vigor Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:26.531735"
+  },
+  {
+    "place_id": "0x808fb55a8cf798af:0",
+    "name": "24 Hour Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:24.048051"
+  },
+  {
+    "place_id": "0x808fb14bc8ee0cc5:0",
+    "name": "Snap Fitness Los Altos",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:22.637804"
+  },
+  {
+    "place_id": "0x808e33d44bf605b3:0",
+    "name": "Forma Gym - 40,000 Sq. Ft. Facility - All Inclusive Membership -15+ Amenities",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:20.487285"
+  },
+  {
+    "place_id": "0x808fcdb146ecb693:0",
+    "name": "24 Hour Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:17.910668"
+  },
+  {
+    "place_id": "0x864e73cb9c0d7331:0",
+    "name": "Westfork Fitness",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:16.033868"
+  },
+  {
+    "place_id": "0x864e6d1e029a2c73:0",
+    "name": "Absolute Recomp Fort Worth",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:14.830793"
+  },
+  {
+    "place_id": "0x808e32a11070d717:0",
+    "name": "24 Hour Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:12.593048"
+  },
+  {
+    "place_id": "0x808e329601fb8479:0",
+    "name": "H&T Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:09.904937"
+  },
+  {
+    "place_id": "0x808fcd402e52b98f:0",
+    "name": "Edith Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:08.717798"
+  },
+  {
+    "place_id": "0x808e337653c68c57:0",
+    "name": "Sylvia Huong Giang Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:06.574710"
+  },
+  {
+    "place_id": "0x808fb5e55f422789:0",
+    "name": "Mishal Sahdev Beauty Studio",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:04.331515"
+  },
+  {
+    "place_id": "0x808fb561bde3ecf7:0",
+    "name": "NAŌRU Korean & Japanese Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:03.064500"
+  },
+  {
+    "place_id": "0x808fb65d08048c09:0",
+    "name": "Sunny Beauty Salon & Spa, Inc.",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:13:01.183770"
+  },
+  {
+    "place_id": "0x808e2d742685a605:0",
+    "name": "A -1 Beauty Parlor",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:58.232105"
+  },
+  {
+    "place_id": "0x808fb6dd7184b9f7:0",
+    "name": "F&G Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:56.959241"
+  },
+  {
+    "place_id": "0x808e2db59d4ed26f:0",
+    "name": "MY SALON Suite",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:55.648366"
+  },
+  {
+    "place_id": "0x808e2de5d874ec17:0",
+    "name": "Aman Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:54.392444"
+  },
+  {
+    "place_id": "0x808fbb6ff17986f3:0",
+    "name": "Siry's Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:50.773646"
+  },
+  {
+    "place_id": "0x808e2d7dd1fa21c7:0",
+    "name": "La Beaute Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:48.545093"
+  },
+  {
+    "place_id": "0x808e2d5d6eee254b:0",
+    "name": "Hera Hair Beauty",
+    "address": "",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:46.067358"
+  },
+  {
+    "place_id": "0x808fcce716a6a0c9:0",
+    "name": "Luis Hair Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:44.802056"
+  },
+  {
+    "place_id": "0x808e2da11150e4df:0",
+    "name": "The Beauty Spot",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:42.548427"
+  },
+  {
+    "place_id": "0x808fb13a579ab3bf:0",
+    "name": "Andronico's Community Markets",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:40.010141"
+  },
+  {
+    "place_id": "0x808fcce7309aa0a7:0",
+    "name": "Kumar’s Island Market",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:38.781352"
+  },
+  {
+    "place_id": "0x808fcd07dd51532d:0",
+    "name": "Grocery Outlet",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:36.555528"
+  },
+  {
+    "place_id": "0x864e718e816816ad:0",
+    "name": "Fiesta Mart #61",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:34.207245"
+  },
+  {
+    "place_id": "0x864e73ac6e209e11:0",
+    "name": "Central Market",
+    "address": "",
+    "category": "Gourmet grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:32.768370"
+  },
+  {
+    "place_id": "0x808fcce834d1c7df:0",
+    "name": "Chaparral Supermarket",
+    "address": "",
+    "category": "Mexican grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:30.504533"
+  },
+  {
+    "place_id": "0x808fb586afae58b7:0",
+    "name": "MEGA MART",
+    "address": "",
+    "category": "Korean grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:29.242486"
+  },
+  {
+    "place_id": "0x808fbbdfc0c02993:0",
+    "name": "MEGA MART",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:28.043991"
+  },
+  {
+    "place_id": "0x3b05bb0a1009513f:0",
+    "name": "Chemmanur Jewellers",
+    "address": "Closes 7:45 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:26.637471"
+  },
+  {
+    "place_id": "0x808e32a1af07c913:0",
+    "name": "VALLIANI JEWELERS",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:25.366175"
+  },
+  {
+    "place_id": "0x808fc9a355e2233d:0",
+    "name": "NorCal Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:24.172713"
+  },
+  {
+    "place_id": "0x808e333465a52bc3:0",
+    "name": "San Jose Warehouse Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:22.959577"
+  },
+  {
+    "place_id": "0x808fcc0ec67af0f3:0",
+    "name": "What A Room Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:21.769377"
+  },
+  {
+    "place_id": "0x808fca83bf33a723:0",
+    "name": "Direct Factory Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:20.501880"
+  },
+  {
+    "place_id": "0x808fcb44807e118b:0",
+    "name": "Direct Factory Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:19.277360"
+  },
+  {
+    "place_id": "0x808e32e005d6c02f:0",
+    "name": "Sure U Save Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:17.919889"
+  },
+  {
+    "place_id": "0x808fa2146a7ec8e3:0",
+    "name": "Furniture Outlet",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:16.531914"
+  },
+  {
+    "place_id": "0x808e32e39ae2f7d3:0",
+    "name": "Best Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:15.336842"
+  },
+  {
+    "place_id": "0x808fcd9d574581bf:0",
+    "name": "Julie furniture bargains",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:14.087210"
+  },
+  {
+    "place_id": "0x808e336ba4cfac55:0",
+    "name": "Home Interiors Furniture",
+    "address": "",
+    "category": "Home goods store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:12.830511"
+  },
+  {
+    "place_id": "0x808fc748ea2b8631:0",
+    "name": "Mor Furniture for Less Outlet",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:11.464968"
+  },
+  {
+    "place_id": "0x3b05bba148772bfd:0",
+    "name": "Mobile Shoppee",
+    "address": "Main Road, near Appolo Tyres, opp. Samrat Hotel",
+    "category": "Cell phone store",
+    "phone": "+91 98959 99079",
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:10.210064"
+  },
+  {
+    "place_id": "0x3b05bba6cacb8b97:0",
+    "name": "Sana mobiles",
+    "address": "",
+    "category": "Cell phone store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:08.981689"
+  },
+  {
+    "place_id": "0x3b05bb611ac4de77:0",
+    "name": "4G WORLD ,MOBILE SERVICE CENTER",
+    "address": "Thakaraparambu Rd",
+    "category": "Cell phone store",
+    "phone": "+91 98093 33631",
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:07.740950"
+  },
+  {
+    "place_id": "0x3b05bb157f441fab:0",
+    "name": "Xpromobiles&service",
+    "address": "Mahatma Gandhi Rd",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 85900 82559",
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:06.469580"
+  },
+  {
+    "place_id": "0x808fb75882e7a8c3:0",
+    "name": "Unique Boutique Sunnyvale",
+    "address": "550 E Remington Dr",
+    "category": "Gift shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:05.126152"
+  },
+  {
+    "place_id": "0x808e35faa200a211:0",
+    "name": "Kismet Boutique",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:03.835495"
+  },
+  {
+    "place_id": "0x808e34de63d18ec1:0",
+    "name": "Besties Boutique",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:02.647012"
+  },
+  {
+    "place_id": "0x808f8ca99af24fd5:0",
+    "name": "Elisa Wen Boutique",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:12:01.398994"
+  },
+  {
+    "place_id": "0x808e34defe6021fb:0",
+    "name": "Bombshell Boutique",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:59.998829"
+  },
+  {
+    "place_id": "0x3b05bb7ad7bd0445:0",
+    "name": "Sri sakthi textile",
+    "address": "FWPW+GCF, Thakaraparambu Rd",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:58.812739"
+  },
+  {
+    "place_id": "0x3b05bb09d5d66f8d:0",
+    "name": "Mehraj Textiles",
+    "address": "CHALA BAZAAR",
+    "category": "Clothing store",
+    "phone": "+91 94470 77086",
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:57.554614"
+  },
+  {
+    "place_id": "0x3b05bba0d723bf3d:0",
+    "name": "Surat Textiles & Garments",
+    "address": "",
+    "category": "Clothing store",
+    "phone": "+91 85940 00780",
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:56.356857"
+  },
+  {
+    "place_id": "0x808fb746c4e329b9:0",
+    "name": "WeFashion Sample Sale CA",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:55.027527"
+  },
+  {
+    "place_id": "0x864e7159b0a800b5:0",
+    "name": "Nekter Juice Bar",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:53.618908"
+  },
+  {
+    "place_id": "0x864dd9892bb688bf:0",
+    "name": "Nekter Juice Bar",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:52.376407"
+  },
+  {
+    "place_id": "0x864dd9a785ec309d:0",
+    "name": "JuiceLand",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:51.144444"
+  },
+  {
+    "place_id": "0x808f95e84a1f2215:0",
+    "name": "Fresh Fuel Juicery",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:49.892287"
+  },
+  {
+    "place_id": "0x864e72f6ae09eb95:0",
+    "name": "Clean Juice",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:48.611463"
+  },
+  {
+    "place_id": "0x808fcf321c4444a7:0",
+    "name": "TH Sugarcane & Fruit Juice",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:47.413082"
+  },
+  {
+    "place_id": "0x808fc700e8de171f:0",
+    "name": "Paris Baguette",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:46.237276"
+  },
+  {
+    "place_id": "0x808fcd069b8ca34b:0",
+    "name": "111 Bakery Inc.",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:45.027764"
+  },
+  {
+    "place_id": "0x808fcb111ce975f1:0",
+    "name": "Paris Baguette",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:43.830430"
+  },
+  {
+    "place_id": "0x808fb67abdac6453:0",
+    "name": "Bay Area Hot Breads",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:42.633388"
+  },
+  {
+    "place_id": "0x808fcd23919758c3:0",
+    "name": "Panaderia La Estrella",
+    "address": "158 S Jackson Ave",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:41.235929"
+  },
+  {
+    "place_id": "0x808fbb2cf35cfc1b:0",
+    "name": "Nahita Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:40.034764"
+  },
+  {
+    "place_id": "0x808fc6436fe6ce39:0",
+    "name": "Tous les Jours Bakery Café - Fremont",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:38.804825"
+  },
+  {
+    "place_id": "0x808fb1dd7a498005:0",
+    "name": "GK Pastry",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:37.612165"
+  },
+  {
+    "place_id": "0x808e33d9aa32e115:0",
+    "name": "Q Baking Corner",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:36.355252"
+  },
+  {
+    "place_id": "0x808fb79613aab673:0",
+    "name": "Arwa Yemeni Coffee",
+    "address": "",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:35.156002"
+  },
+  {
+    "place_id": "0x864e725f6221cf2d:0",
+    "name": "Press Café",
+    "address": "",
+    "category": "American restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:33.855520"
+  },
+  {
+    "place_id": "0x808e2d003cda3687:0",
+    "name": "Arome Cafe",
+    "address": "",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:32.646675"
+  },
+  {
+    "place_id": "0x808fcd0044d8eb55:0",
+    "name": "Window Cafe",
+    "address": "",
+    "category": "Asian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:31.251503"
+  },
+  {
+    "place_id": "0x808fc96e58fbea07:0",
+    "name": "Coffee & Chai",
+    "address": "",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:30.043525"
+  },
+  {
+    "place_id": "0x808fcb4e8ba032ab:0",
+    "name": "The Coffee Shop",
+    "address": "",
+    "category": "Diner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:28.838018"
+  },
+  {
+    "place_id": "0x808e2d619ef23123:0",
+    "name": "Con Azucar Cafe",
+    "address": "",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:27.648845"
+  },
+  {
+    "place_id": "0x808e32e5d53246cf:0",
+    "name": "Dáng Xưa Cafe",
+    "address": "",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:26.437441"
+  },
+  {
+    "place_id": "0x3b05bba6a6781a7f:0",
+    "name": "Ramji bhojanalaya Punjabi dhaba",
+    "address": "Mahatma Gandhi Rd",
+    "category": "Punjabi restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:25.120129"
+  },
+  {
+    "place_id": "0x808439ae87b7198b:0",
+    "name": "VCA PetCare East Veterinary Hospital",
+    "address": "2425 Mendocino Ave",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:23.821175"
+  },
+  {
+    "place_id": "0x808e3551c51edb7d:0",
+    "name": "Kirkwood Animal Hospital",
+    "address": "1820 West Campbell Avenue",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:22.465722"
+  },
+  {
+    "place_id": "0x808e35c6944dd7c9:0",
+    "name": "Adobe Animal Hospital South Bay",
+    "address": "15965 Los Gatos Boulevard",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:21.285368"
+  },
+  {
+    "place_id": "0x808e331a0abeb145:0",
+    "name": "Bay Rx Pharmacy",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:19.796997"
+  },
+  {
+    "place_id": "0x808fcd32390b8011:0",
+    "name": "Farmacia DOÑA REMEDIOS",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:18.479819"
+  },
+  {
+    "place_id": "0x808fcd6e707a5429:0",
+    "name": "City Care Pharmacy",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:17.227958"
+  },
+  {
+    "place_id": "0x7c00646baa0a7f2b:0",
+    "name": "Diagnostic Laboratory Services, Inc.",
+    "address": "",
+    "category": "Diagnostic center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:16.001345"
+  },
+  {
+    "place_id": "0x3b05bb0a1c7725a3:0",
+    "name": "Chemmanur Opticals",
+    "address": "Karimpanal Arcade",
+    "category": "Optician",
+    "phone": "+91 75111 78979",
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:14.604345"
+  },
+  {
+    "place_id": "0x8640a365cba7594f:0",
+    "name": "East Houston Eye Center",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:13.396947"
+  },
+  {
+    "place_id": "0x808e345a6aa92e07:0",
+    "name": "EyeC Optometry",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:12.153574"
+  },
+  {
+    "place_id": "0x808fca133885d48b:0",
+    "name": "20/20 Eye Club Optometry",
+    "address": "",
+    "category": "Optometrist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:10.887682"
+  },
+  {
+    "place_id": "0x808fbe2d1dc21b59:0",
+    "name": "East Bay Vision Center Optometry",
+    "address": "",
+    "category": "Optometrist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:09.574762"
+  },
+  {
+    "place_id": "0x808e356aae507db5:0",
+    "name": "Atharvayur",
+    "address": "",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:08.062466"
+  },
+  {
+    "place_id": "0x80857e68428407cb:0",
+    "name": "East Bay Ayurveda",
+    "address": "",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:06.808243"
+  },
+  {
+    "place_id": "0x808fc64d1098ccd5:0",
+    "name": "Ayu Care Clinic",
+    "address": "Opens 9:30 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:05.527804"
+  },
+  {
+    "place_id": "0x808feeb670c66c7d:0",
+    "name": "Ayurway",
+    "address": "Opens 10:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:04.233286"
+  },
+  {
+    "place_id": "0x808e2d882544d323:0",
+    "name": "Ability Outpatient Physical Therapy Clinic",
+    "address": "",
+    "category": "Physical therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:03.000908"
+  },
+  {
+    "place_id": "0x808fb14c9b27cba3:0",
+    "name": "PhysioFit Physical Therapy & Wellness",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:01.754142"
+  },
+  {
+    "place_id": "0x808fa540de3df7c5:0",
+    "name": "Stanford General Dermatology Clinic at Portola Valley",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:11:00.495164"
+  },
+  {
+    "place_id": "0x808e350b67c025d7:0",
+    "name": "Los Gatos Dermatology",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:10:59.259268"
+  },
+  {
+    "place_id": "0x808fbb7f52b2ebd5:0",
+    "name": "Berman Skin Institute | Medical & Cosmetic Dermatology",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:10:57.997944"
+  },
+  {
+    "place_id": "0x808fb0aa0874e217:0",
+    "name": "Clear Skin Clinic",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:10:56.790106"
+  },
+  {
+    "place_id": "0x808fca2178ad469d:0",
+    "name": "Suzy’s skin care",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:10:55.599918"
+  },
+  {
+    "place_id": "0x808fcf3a8c975c77:0",
+    "name": "Center for Dermatology Cosmetic and Laser Surgery",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:10:54.413666"
+  },
+  {
+    "place_id": "0x808f8730e6b36f83:0",
+    "name": "Eastlake Family Dentistry",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:10:53.162217"
+  },
+  {
+    "place_id": "0x864e6d7c2f5d20ad:0",
+    "name": "Fort Dental",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:10:51.862502"
+  },
+  {
+    "place_id": "0x809012ab8489d1df:0",
+    "name": "Fremont Health Dental Group",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:10:50.551659"
+  },
+  {
+    "place_id": "0x808fc084c72e9ab3:0",
+    "name": "East Bay Dental - Dental Implants, Orthodontist Dentist",
+    "address": "",
+    "category": "Cosmetic dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 10:10:46.951074"
+  },
+  {
     "place_id": "0x3b05bb4cf9b0971f:0",
     "name": "Traya wellness centre",
     "address": "Treya wellness, near, MP Appan Rd, near SFS Fairmont",
@@ -7180,1823 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 01:45:24.646576"
-  },
-  {
-    "place_id": "0x87ee932e84640f13:0",
-    "name": "Sun Reflexology & Spa",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:23.448423"
-  },
-  {
-    "place_id": "0x87ee8940045c5a31:0",
-    "name": "Elkhart Fitness Center",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:22.136152"
-  },
-  {
-    "place_id": "0x87ee993f93c66efd:0",
-    "name": "Lift DSM",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:20.855392"
-  },
-  {
-    "place_id": "0x87eea1f012e6153d:0",
-    "name": "D1 Training Norwalk IA",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:19.550351"
-  },
-  {
-    "place_id": "0x87ee9ffce8c3d235:0",
-    "name": "Anytime Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:18.246911"
-  },
-  {
-    "place_id": "0x864e7a5639002441:0",
-    "name": "Perfec Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:16.994956"
-  },
-  {
-    "place_id": "0x87e6d7e1cdafb521:0",
-    "name": "The Furniture Store",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:15.717923"
-  },
-  {
-    "place_id": "0x87ee9fa5bfe38909:0",
-    "name": "Sassy's",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:14.502815"
-  },
-  {
-    "place_id": "0x87ee8563917aaaab:0",
-    "name": "The Juice Company Cafe",
-    "address": "833 E 1st St",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:13.215721"
-  },
-  {
-    "place_id": "0x87ee99db507197d9:0",
-    "name": "All On Enterprises",
-    "address": "3323 SW 8th St",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:11.886087"
-  },
-  {
-    "place_id": "0x3b05bb0a8d583615:0",
-    "name": "Gauri Shankar Hotel",
-    "address": "",
-    "category": "Vegetarian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:10.593944"
-  },
-  {
-    "place_id": "0x87eee576e4b8636d:0",
-    "name": "Midland Prairie Veterinary Services",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:09.380493"
-  },
-  {
-    "place_id": "0x88d900d167d7191b:0",
-    "name": "Matthew Zarraga, DO",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:08.113576"
-  },
-  {
-    "place_id": "0x88d9021191a1511d:0",
-    "name": "Facial Peels-Skin Care-Fort Lauderdale",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:06.725371"
-  },
-  {
-    "place_id": "0x88d901ff01fedae7:0",
-    "name": "A & E Paramedical Skin Care",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:05.423420"
-  },
-  {
-    "place_id": "0x88d9026e2580e443:0",
-    "name": "Schweiger Dermatology Group - Ft. Lauderdale",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:04.155795"
-  },
-  {
-    "place_id": "0x88e62d2bdf9806a5:0",
-    "name": "Bare Skin Beautiful",
-    "address": "",
-    "category": "Facial spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:02.814460"
-  },
-  {
-    "place_id": "0x88d901ff0086c3b7:0",
-    "name": "Liquivida Wellness Center | Lauderdale Beach",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:01.557511"
-  },
-  {
-    "place_id": "0x87ee938e93ecef83:0",
-    "name": "Bondurant Dermatology",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:45:00.332294"
-  },
-  {
-    "place_id": "0x87ee9fc140392eef:0",
-    "name": "Iowa Dermatology Consultants",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:44:58.970224"
-  },
-  {
-    "place_id": "0x87ef3b558387c001:0",
-    "name": "Skin Apothecary",
-    "address": "",
-    "category": "Medical spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:44:57.651385"
-  },
-  {
-    "place_id": "0x87f276358898490d:0",
-    "name": "UnityPoint Clinic Kenyon Road - Dermatology - Fort Dodge",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:44:54.667508"
-  },
-  {
-    "place_id": "0x87ebd9338222e1b9:0",
-    "name": "Frontline Dermatology",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:44:53.207874"
-  },
-  {
-    "place_id": "0x87ef1d7bac6355a1:0",
-    "name": "Frontline Dermatology",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:44:51.831067"
-  },
-  {
-    "place_id": "0x87eea34152936dcf:0",
-    "name": "A+ IOWA DENTAL MULTI-SPECIALTY",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:44:50.458572"
-  },
-  {
-    "place_id": "0x3b05bb004544b1c1:0",
-    "name": "Rootz Beauty Salon",
-    "address": "opp. Saphalyam complex",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:36:38.675955"
-  },
-  {
-    "place_id": "0x3b05bbdff0c8bbcb:0",
-    "name": "A. S. Motor Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": "+91 94959 01608",
-    "website": null,
-    "discovered_at": "2026-11-15 01:36:37.417088"
-  },
-  {
-    "place_id": "0x3b05bb264584dc85:0",
-    "name": "Nirmala Motor Driving School",
-    "address": "Valiyathura - Beemapally - Poonthura Rd",
-    "category": "Driving school",
-    "phone": "+91 97461 05868",
-    "website": null,
-    "discovered_at": "2026-11-15 01:36:36.200208"
-  },
-  {
-    "place_id": "0x3b05ba504dbc056f:0",
-    "name": "Kripa Driving School",
-    "address": "Besides the, ground, Grandhasala Rd",
-    "category": "Driving school",
-    "phone": "+91 93876 10871",
-    "website": null,
-    "discovered_at": "2026-11-15 01:36:34.965331"
-  },
-  {
-    "place_id": "0x3b05bbffd5511f87:0",
-    "name": "Harisree driving academy",
-    "address": "Opens 8 AM Mon",
-    "category": "Closed",
-    "phone": "+91 98953 45808",
-    "website": null,
-    "discovered_at": "2026-11-15 01:36:33.571107"
-  },
-  {
-    "place_id": "0x3b05bb50735501e3:0",
-    "name": "BRAVO WELLNESS CARE AND BEAUTY STUDIO",
-    "address": "E8A, CARLS, E St",
-    "category": "Health spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:28:20.453109"
-  },
-  {
-    "place_id": "0x3b05b97e37ea32d3:0",
-    "name": "Ashima Fashion Store",
-    "address": "1st Floor, Narmada Shopping Complex, Pipeline Rd",
-    "category": "Clothing store",
-    "phone": "+91 98953 55800",
-    "website": null,
-    "discovered_at": "2026-11-15 01:28:19.184645"
-  },
-  {
-    "place_id": "0x3b05bb41ac4416af:0",
-    "name": "Honeycomb The Bakeshop",
-    "address": "M5",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:28:17.772597"
-  },
-  {
-    "place_id": "0x3b05bb8fc63c9b85:0",
-    "name": "Cafe Devour - 1950 The London cafe",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:28:16.538725"
-  },
-  {
-    "place_id": "0x3b05bbd850902c41:0",
-    "name": "SSA Caters,Trivandrum",
-    "address": "",
-    "category": "Party planner",
-    "phone": "+91 97459 44447",
-    "website": null,
-    "discovered_at": "2026-11-15 01:21:00.439578"
-  },
-  {
-    "place_id": "0x3b05bb97872d2291:0",
-    "name": "JJ Royals Weddings & Events",
-    "address": "Charachira Road",
-    "category": "Event planner",
-    "phone": "+91 70126 16515",
-    "website": null,
-    "discovered_at": "2026-11-15 01:20:59.162718"
-  },
-  {
-    "place_id": "0x3b05bb1f154bad7d:0",
-    "name": "EINS learning",
-    "address": "Chalakuzhy Rd",
-    "category": "Education center",
-    "phone": "+91 98950 87200",
-    "website": null,
-    "discovered_at": "2026-11-15 01:20:57.878527"
-  },
-  {
-    "place_id": "0x876f3b42d0733371:0",
-    "name": "Cheyenne Pet Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:20:56.626539"
-  },
-  {
-    "place_id": "0x3b05bbaf740e0995:0",
-    "name": "ATT HOLIDAYS",
-    "address": "TC 25/1073-1, Sitara Tower",
-    "category": "Travel agency",
-    "phone": "+91 94460 05852",
-    "website": null,
-    "discovered_at": "2026-11-15 01:20:55.218095"
-  },
-  {
-    "place_id": "0x3b05bb2c5511fe83:0",
-    "name": "Anaan Holidays",
-    "address": "music collage, Tc812556, Sangeeth Nagar",
-    "category": "Bus tour agency",
-    "phone": "+91 96050 80792",
-    "website": null,
-    "discovered_at": "2026-11-15 01:20:53.991452"
-  },
-  {
-    "place_id": "0x3b05bb6ae3aa7c17:0",
-    "name": "EpicEscapes Tours And Packages",
-    "address": "Epicescapes Tower",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:20:52.700591"
-  },
-  {
-    "place_id": "0x3b05bbaf946b7475:0",
-    "name": "A1 Vigneswara Tours &Travels",
-    "address": "Tour And Travels, Manorama Rd",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:20:51.450951"
-  },
-  {
-    "place_id": "0x3b05bb005982e931:0",
-    "name": "Ichayanzz Travel Hub",
-    "address": "opposite Railway Station",
-    "category": "Travel agency",
-    "phone": "+91 97463 04428",
-    "website": null,
-    "discovered_at": "2026-11-15 01:20:50.171800"
-  },
-  {
-    "place_id": "0x3b05bb9a7efd7915:0",
-    "name": "Dream Line Travel Hub",
-    "address": "sanggetha college junction, Tc25/641, Aristo Rd",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:20:48.961497"
-  },
-  {
-    "place_id": "0x3b05bbaf4184b199:0",
-    "name": "Sivasakthi Travels",
-    "address": "Tc 25/1003, Sivasakthi Travels, Jn",
-    "category": "Travel agency",
-    "phone": "+91 98472 15008",
-    "website": null,
-    "discovered_at": "2026-11-15 01:20:47.586739"
-  },
-  {
-    "place_id": "0x3b05bba42836a0bb:0",
-    "name": "Kitchen Thalassery Restaurant",
-    "address": "Gandhari Amman Kovil Rd",
-    "category": "Biryani restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:13:13.584570"
-  },
-  {
-    "place_id": "0x3b05bb08279279d9:0",
-    "name": "DDRC Agilus Diagnostics, Kuravankonam",
-    "address": "GXF3+8H",
-    "category": "Laboratory",
-    "phone": "+91 93334 93334",
-    "website": null,
-    "discovered_at": "2026-11-15 01:13:11.446367"
-  },
-  {
-    "place_id": "0x3b05baee83f0d9e5:0",
-    "name": "DDRC Agilus Diagnostics, Pappanamcode",
-    "address": "",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:13:08.793999"
-  },
-  {
-    "place_id": "0x3b05bb005b5dc9dd:0",
-    "name": "DDC Pathlabs Karamana",
-    "address": "Kailas Tower, near QRS",
-    "category": "Laboratory",
-    "phone": "+91 96454 11191",
-    "website": null,
-    "discovered_at": "2026-11-15 01:13:07.606648"
-  },
-  {
-    "place_id": "0x4cb897c53c641fb5:0",
-    "name": "Le cowork",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:13:04.781396"
-  },
-  {
-    "place_id": "0x4cb8a658f905df0d:0",
-    "name": "monCPAenligne.ca",
-    "address": "271 Chemin St Peters suite 101",
-    "category": "Accounting firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:13:03.569730"
-  },
-  {
-    "place_id": "0x4cb897acb3076b0d:0",
-    "name": "Crescendo CPA inc",
-    "address": "1255 Bd Lebourgneuf #200",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:13:01.428452"
-  },
-  {
-    "place_id": "0x4cbeadbb89772529:0",
-    "name": "Raymond Chabot Grant Thornton - Services comptables et conseils en fiscalité",
-    "address": "35 Rte Elgin S Bureau 204",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:58.808542"
-  },
-  {
-    "place_id": "0x4cb897af853bfae7:0",
-    "name": "Benjamin Richard CPA - Ville de Québec",
-    "address": "725 Bd Lebourgneuf Ste 310",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:57.613712"
-  },
-  {
-    "place_id": "0x4cb889effcf3b9d3:0",
-    "name": "Alliance CPA inc.",
-    "address": "57 Rang Bois Joly",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:55.424689"
-  },
-  {
-    "place_id": "0x4cb891598eec6e3f:0",
-    "name": "SR CPA inc.",
-    "address": "2560 Rue William-Wood",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:53.139087"
-  },
-  {
-    "place_id": "0x4cb89761bcc212a1:0",
-    "name": "Jean Lelièvre CPA Auditor",
-    "address": "3700 Rue du Campanile Bur 115",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:51.988034"
-  },
-  {
-    "place_id": "0x4cbe47386c1da6b7:0",
-    "name": "Raymond Chabot Grant Thornton - Services comptables et conseils en fiscalité",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:49.391275"
-  },
-  {
-    "place_id": "0x4cb897166d7ab69f:0",
-    "name": "Lapointe CPA inc.",
-    "address": "2900 Chem. des Quatre-Bourgeois Bur 309",
-    "category": "Accounting firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:46.768704"
-  },
-  {
-    "place_id": "0x4cb896d8dfafe6e9:0",
-    "name": "Aubier St-Laurent Inc.",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:45.537857"
-  },
-  {
-    "place_id": "0x4cb896ed256a0317:0",
-    "name": "Crescendo CPA inc",
-    "address": "1535 Ch Ste-Foy bureau 050",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:43.061540"
-  },
-  {
-    "place_id": "0x4cb897c7958a43ab:0",
-    "name": "Burt Brassard CPA inc",
-    "address": "837 Av. des Grenats",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:41.600296"
-  },
-  {
-    "place_id": "0x4cc77e9e8871317f:0",
-    "name": "Galarneau CPA inc.",
-    "address": "325 Rue de l'Église",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:40.434095"
-  },
-  {
-    "place_id": "0x4cb831036c829693:0",
-    "name": "Gestion Dendi Inc",
-    "address": "215 Rue Labbé",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:38.297021"
-  },
-  {
-    "place_id": "0x4cb89737d92fc987:0",
-    "name": "Stamped CPA / Stamped Technologies",
-    "address": "2383 Ch Ste-Foy Bur 305",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:37.076803"
-  },
-  {
-    "place_id": "0x4cb8fcbfad386aef:0",
-    "name": "Onyx CPA inc.",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:35.893566"
-  },
-  {
-    "place_id": "0x4cb891df27f106f5:0",
-    "name": "Impôts Pierre-André Gagnon, CPA",
-    "address": "3342 Rue Clérin",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:32.710784"
-  },
-  {
-    "place_id": "0x4cb897ad9b3339df:0",
-    "name": "Optimise & Co. (9537-6299 Quebec Inc)",
-    "address": "1020 Rue Bouvier",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:29.380002"
-  },
-  {
-    "place_id": "0x4b87a3bb2281adb1:0",
-    "name": "Cabinet Benard Inc.",
-    "address": "3220 Av. Watt #101",
-    "category": "Bookkeeping service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:27.126066"
-  },
-  {
-    "place_id": "0x4cb89699dcf3e307:0",
-    "name": "Voyages Inter-Pays Inc",
-    "address": "1584 Chem. Saint-Louis",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:25.940008"
-  },
-  {
-    "place_id": "0x4cb8970691596951:0",
-    "name": "Alpha Travels and Tours",
-    "address": "Canadian office ::::, 1173 Bd Charest O",
-    "category": "Visa consulting service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:23.422886"
-  },
-  {
-    "place_id": "0x4cb89a00c6b1644b:0",
-    "name": "Voyages Transat",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:21.008086"
-  },
-  {
-    "place_id": "0x4cb897933e1321a3:0",
-    "name": "Voyages Transat",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:19.765658"
-  },
-  {
-    "place_id": "0x4cc7c92107b0f8c9:0",
-    "name": "Tours Amérique",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:17.513265"
-  },
-  {
-    "place_id": "0x4cb896795261f0b5:0",
-    "name": "Voyages Globe-Trotter",
-    "address": "605 Ch Ste-Foy",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:14.861418"
-  },
-  {
-    "place_id": "0x4cb8972c99300cab:0",
-    "name": "Voyages 737",
-    "address": "3600 Bd de Monaco",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:13.581154"
-  },
-  {
-    "place_id": "0x4cb896e973155a5f:0",
-    "name": "Voyages Lambert",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:11.402506"
-  },
-  {
-    "place_id": "0x4cb8a5ffcf331251:0",
-    "name": "Voyages AZZA",
-    "address": "1030 Bd du Lac",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:08.889499"
-  },
-  {
-    "place_id": "0x8d290a850bcab5ab:0",
-    "name": "le plus BO jour",
-    "address": "Opens 12 p.m. Sun",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:07.696576"
-  },
-  {
-    "place_id": "0x8530325aacfbcb9b:0",
-    "name": "Les événements Wedding Keys",
-    "address": "1833 Rue Hallé",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:05.507003"
-  },
-  {
-    "place_id": "0x2a40cf9a6a152c0f:0",
-    "name": "Louv Événementiel",
-    "address": "Opens 9 a.m. Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:02.890680"
-  },
-  {
-    "place_id": "0x4cb8973991c2a8c7:0",
-    "name": "Événement EnCadré",
-    "address": "815 Bd Lebourgneuf local 206",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:12:01.668812"
-  },
-  {
-    "place_id": "0x8cd39d8d41c82c1:0",
-    "name": "Signé AR - Wedding planner",
-    "address": "Opens 8:30 a.m. Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:59.535753"
-  },
-  {
-    "place_id": "0x208d13b8b37959fd:0",
-    "name": "Les événements ciel",
-    "address": "650 Rue Francis Byrne #207",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:57.411910"
-  },
-  {
-    "place_id": "0x4cb89636af964e41:0",
-    "name": "Groupe Est Inc",
-    "address": "866 Rue Jacques-Bédard",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:54.791069"
-  },
-  {
-    "place_id": "0x4cb8bd9a6b756c8d:0",
-    "name": "VisionConcept",
-    "address": "8501 Rue de la Comtoise #211",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:53.561130"
-  },
-  {
-    "place_id": "0x4cb8952cc4169f61:0",
-    "name": "Monarque Événements",
-    "address": "50 Rue du Marché-Champlain",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:51.428198"
-  },
-  {
-    "place_id": "0x4cb8bd36579892b1:0",
-    "name": "Dékora Événements",
-    "address": "440 Av. des Cordillères local 102",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:48.789559"
-  },
-  {
-    "place_id": "0x4cb89089212c1a99:0",
-    "name": "Elisabeth B. Mariages & Événements",
-    "address": "11 Rue Elgin #405",
-    "category": "Wedding planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:47.577656"
-  },
-  {
-    "place_id": "0x4cb8977f73dea843:0",
-    "name": "Eventek",
-    "address": "710 Rue Bouvier",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:45.429062"
-  },
-  {
-    "place_id": "0x4cb8970d49e20d15:0",
-    "name": "Productions master events",
-    "address": "1122 Rue de la Lune",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:42.767427"
-  },
-  {
-    "place_id": "0x7954b49d16d6691:0",
-    "name": "Rivages Évènementiel",
-    "address": "174 Grande Allée O",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:41.593434"
-  },
-  {
-    "place_id": "0x4cb8be900419aec1:0",
-    "name": "Évènements Glamour",
-    "address": "601 Rue Marius-Fortier",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:39.417862"
-  },
-  {
-    "place_id": "0x4cb89575866a44e3:0",
-    "name": "Agence J.M Expérience",
-    "address": "6991 Rue Louise Carrier",
-    "category": "Event management company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:36.823263"
-  },
-  {
-    "place_id": "0x4cb8a367bfdfba87:0",
-    "name": "Mariages et Événements ME",
-    "address": "2272 Rue de l'Alliance",
-    "category": "Wedding planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:35.619858"
-  },
-  {
-    "place_id": "0x4cb8bd1995a7968f:0",
-    "name": "PourquoiPas - Événements Beauport",
-    "address": "692 Rue du Douvain",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:33.425112"
-  },
-  {
-    "place_id": "0x4e21c7629cf3a643:0",
-    "name": "Malam Design Intérieur",
-    "address": "Opens 8 a.m. Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:30.958880"
-  },
-  {
-    "place_id": "0x4cc7750f3f448fdf:0",
-    "name": "Style Décor Et Tendance",
-    "address": "1348 Boul. Bona-Dussault",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:29.732074"
-  },
-  {
-    "place_id": "0x4cb8957c0f5db369:0",
-    "name": "Atelier Bold - Designer d'intérieur Lévis",
-    "address": "14A Av. Bégin",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:27.515845"
-  },
-  {
-    "place_id": "0x57347f0e1868c7f:0",
-    "name": "MENDES design",
-    "address": "1020 Rue Bouvier",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:25.390131"
-  },
-  {
-    "place_id": "0x4cb8967080b23d7d:0",
-    "name": "Cyr Cathcart designers d'intérieur inc",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:22.799472"
-  },
-  {
-    "place_id": "0x4cb897c2d06183b1:0",
-    "name": "LOCA Design",
-    "address": "3680 Wilfrid-Hamel Blvd",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:21.601590"
-  },
-  {
-    "place_id": "0x4cb89915fce77f61:0",
-    "name": "Nadamé design d'intérieur inc",
-    "address": "5300 Rue Armand-Viau",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:18.847395"
-  },
-  {
-    "place_id": "0x2d89abde0090ed35:0",
-    "name": "Dimanche. Design d'Intérieur",
-    "address": "Opens 8 a.m. Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:17.560948"
-  },
-  {
-    "place_id": "0x4cb899bbf587943d:0",
-    "name": "Parici design",
-    "address": "5181 Ave Royale",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:15.376428"
-  },
-  {
-    "place_id": "0x4cbf17b2020bfb63:0",
-    "name": "Les Elles du Design",
-    "address": "2 Rue de l'Usine local 102",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:12.958870"
-  },
-  {
-    "place_id": "0x4cb896a36c290001:0",
-    "name": "Authentique Design",
-    "address": "1414 Av. Maguire",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:11.699770"
-  },
-  {
-    "place_id": "0x4cb896755c790221:0",
-    "name": "le design studio",
-    "address": "125 Ch Ste-Foy Bur 2",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:09.455261"
-  },
-  {
-    "place_id": "0x4cb8976419785ee1:0",
-    "name": "Version III Design",
-    "address": "9155 Av. du Patrimoine-Mondial",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:07.172436"
-  },
-  {
-    "place_id": "0x4cb8919210651865:0",
-    "name": "Morin et co",
-    "address": "398, rue du Jusant, Lévis",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:05.968571"
-  },
-  {
-    "place_id": "0x4cb8bd17c83d8b17:0",
-    "name": "Atemporel Design",
-    "address": "7494 Av. Grignon",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:03.013523"
-  },
-  {
-    "place_id": "0x4cb89708d0e3e4f1:0",
-    "name": "Mino Design - Designer d'intérieur et architecture à Québec et Lévis",
-    "address": "1400 Ave Saint-Jean-Baptiste Bur 204",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:11:01.844461"
-  },
-  {
-    "place_id": "0x4cb89687fbcd4747:0",
-    "name": "atelier filz",
-    "address": "875 Bd Charest O Ste 220",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:59.497926"
-  },
-  {
-    "place_id": "0x4cb89815cccb98d1:0",
-    "name": "Atelier C3 Design | Designer d'intérieur | Armoires sur mesure | Québec",
-    "address": "72 Rue Bernier E",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:56.951489"
-  },
-  {
-    "place_id": "0x4cb89708d0540001:0",
-    "name": "L&M Design",
-    "address": "1400 Ave Saint-Jean-Baptiste Bur 204",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:55.744696"
-  },
-  {
-    "place_id": "0xa62165a81a1abf1b:0",
-    "name": "CaliKo Design",
-    "address": "121 18e Rue",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:53.569971"
-  },
-  {
-    "place_id": "0x4cb89755c27f5bdb:0",
-    "name": "RE/MAX ACCÈS",
-    "address": "",
-    "category": "Real Estate Agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:52.238069"
-  },
-  {
-    "place_id": "0x4cb8972ecf6dd541:0",
-    "name": "Royal LePage Blanc & Noir, Agence immobilière",
-    "address": "",
-    "category": "Real Estate Agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:49.392201"
-  },
-  {
-    "place_id": "0x4cb895dd83cc3d49:0",
-    "name": "Peladeau Real Estate Agency",
-    "address": "83 Rue Saint-Pierre",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:46.960513"
-  },
-  {
-    "place_id": "0x4cb890d693f1b749:0",
-    "name": "Équipe Étienne Lessard | REMAX Courtiers immobiliers à Québec",
-    "address": "3075 Chem. des Quatre-Bourgeois",
-    "category": "Real Estate Agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:45.736062"
-  },
-  {
-    "place_id": "0x4cb8bdbf00df9edf:0",
-    "name": "RE/MAX RÉFÉRENCE 2000",
-    "address": "",
-    "category": "Real Estate Agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:44.351849"
-  },
-  {
-    "place_id": "0x4cb897eb47c55559:0",
-    "name": "RE/MAX 1ER CHOIX : PATRICK ALARIE",
-    "address": "5300 Bd des Galeries Local 110",
-    "category": "Real Estate Agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:43.072089"
-  },
-  {
-    "place_id": "0x4cb8bc34d9caad45:0",
-    "name": "School Driving Tecnic Beauport",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:41.808372"
-  },
-  {
-    "place_id": "0x4cb898b4e9a63603:0",
-    "name": "Tecnic Val-Bélair Driving School",
-    "address": "1451 Rue de l'Etna Local 103",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:40.622112"
-  },
-  {
-    "place_id": "0x4cb891d8538d72cb:0",
-    "name": "Ecole De Conduite Du Quebec / Quebec Driving School",
-    "address": "3700 Rue du Campanile local117",
-    "category": "Drivers license training school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:39.427486"
-  },
-  {
-    "place_id": "0x4cb891944c6cf8cd:0",
-    "name": "Kf Conduite",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:38.224281"
-  },
-  {
-    "place_id": "0x4cb8915d541f157b:0",
-    "name": "School Driving Pointe-Lévy",
-    "address": "573 Rue de Bernières",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:36.951491"
-  },
-  {
-    "place_id": "0x4cb898b410581b05:0",
-    "name": "School Driving Parcours Val-Bélair",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:35.394267"
-  },
-  {
-    "place_id": "0x4cb8988c0e567727:0",
-    "name": "Parcours School Driving Course",
-    "address": "l'Ormière Place, 9550 Bd de l'Ormière",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:34.233085"
-  },
-  {
-    "place_id": "0x4cb8977184cd11e7:0",
-    "name": "Tecnic Les Saules driving school",
-    "address": "1400 Ave Saint-Jean-Baptiste Local 119",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:33.024081"
-  },
-  {
-    "place_id": "0x4cb8972c4f948e1b:0",
-    "name": "Chemin Des Pilotes; Ecole De Conduite",
-    "address": "2900 Chem. des Quatre-Bourgeois Local 300",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:31.780934"
-  },
-  {
-    "place_id": "0x4cb897072cce070b:0",
-    "name": "School Driving Permis Nova – Lebourgneuf",
-    "address": "1170 Bd Lebourgneuf Suite 320-17 3ème Étage",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:30.582398"
-  },
-  {
-    "place_id": "0x4cb8987ce22bbc8f:0",
-    "name": "Form O Max Him & Her",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:29.398682"
-  },
-  {
-    "place_id": "0x4cb898790b53ef85:0",
-    "name": "Signature Passion Beauté",
-    "address": "2675 Bd Bastien",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:27.639562"
-  },
-  {
-    "place_id": "0x4cb89fb64c37bd95:0",
-    "name": "Wissam Beauty Inc. | Spécialiste Lissage, Coloration végétale, Extensions capillaires, Microblading, Microshading.",
-    "address": "1737 Rue du Grand Bourg",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:26.342189"
-  },
-  {
-    "place_id": "0x4cb896ceaf67cbdb:0",
-    "name": "Pandora Jewellery",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:24.955366"
-  },
-  {
-    "place_id": "0x4cb8979330b94ad3:0",
-    "name": "Pandora",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:23.677814"
-  },
-  {
-    "place_id": "0x4cb897b65d8ca5f1:0",
-    "name": "Paul A Langlois Bijouterie",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:22.472193"
-  },
-  {
-    "place_id": "0x4cb897eda18d90a7:0",
-    "name": "Bouclair Lebourgneuf, QC",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:21.189772"
-  },
-  {
-    "place_id": "0x4cb8982adb7555f9:0",
-    "name": "Tanguay Les Saules",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:19.859488"
-  },
-  {
-    "place_id": "0x4cb897cfc4823115:0",
-    "name": "Jardin de Ville Québec",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:18.653823"
-  },
-  {
-    "place_id": "0x4cb897b7e76b3e89:0",
-    "name": "LUSINE mobilier design - Boutique Pierre-Bertrand",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:17.474796"
-  },
-  {
-    "place_id": "0x4cb8966790eff569:0",
-    "name": "Sofa Unique",
-    "address": "616 Rue Saint-Vallier O",
-    "category": "Sofa store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:16.155623"
-  },
-  {
-    "place_id": "0x4cb89738a3924ceb:0",
-    "name": "Meubles Léon - Ste Foy",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:14.977073"
-  },
-  {
-    "place_id": "0x4cb896cc5e272d37:0",
-    "name": "Urban Planet",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:13.746437"
-  },
-  {
-    "place_id": "0x4cb8964855dfe9f9:0",
-    "name": "Mode Choc",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:12.476700"
-  },
-  {
-    "place_id": "0x4cb896777a62389f:0",
-    "name": "La Cie Carmichael Homme",
-    "address": "425 Rue Saint-Jean",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:11.212747"
-  },
-  {
-    "place_id": "0x4cb8bd4ba5289129:0",
-    "name": "Explicit Shop",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:09.964041"
-  },
-  {
-    "place_id": "0x4cb89671d1447f0d:0",
-    "name": "Friperie BABELOU",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:08.723513"
-  },
-  {
-    "place_id": "0x4cb89673c385bc09:0",
-    "name": "Urban Outfitters",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:07.462181"
-  },
-  {
-    "place_id": "0x4cc91b0044c69759:0",
-    "name": "Café Paper Hill",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:06.058204"
-  },
-  {
-    "place_id": "0x4cc91bb13a6470f5:0",
-    "name": "Café Orr",
-    "address": "5368 Av. Papineau",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:04.481124"
-  },
-  {
-    "place_id": "0x4cc91b0032098dd9:0",
-    "name": "Spedzira Caffè",
-    "address": "3419 Ontario St E",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:02.427996"
-  },
-  {
-    "place_id": "0x4cc91a49cebc44db:0",
-    "name": "Café St-Barth - Breakfast",
-    "address": "3498 Av. du Parc",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:01.203703"
-  },
-  {
-    "place_id": "0x4cc91b39ed690fa7:0",
-    "name": "Café Olimpico - Centre-Ville",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:10:00.029233"
-  },
-  {
-    "place_id": "0x4cc91b025e1d53ab:0",
-    "name": "Onna Café",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:58.811585"
-  },
-  {
-    "place_id": "0x4cc919fd66aa7f6b:0",
-    "name": "Saison des pluies",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:57.635854"
-  },
-  {
-    "place_id": "0x4cc91a6aa10b0933:0",
-    "name": "Cafe Aunja",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:56.268113"
-  },
-  {
-    "place_id": "0x4cc91b007f7c83c5:0",
-    "name": "Café 2nd Gen",
-    "address": "717 Rue William",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:55.061534"
-  },
-  {
-    "place_id": "0x4cc9197949885067:0",
-    "name": "Café Olimpico",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:53.887694"
-  },
-  {
-    "place_id": "0x4cc91b0075b4950f:0",
-    "name": "Café Nook",
-    "address": "4123A R. Saint-Denis",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:52.719840"
-  },
-  {
-    "place_id": "0x4cb8998ecbc7a7d9:0",
-    "name": "Origine Cafe",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:51.551415"
-  },
-  {
-    "place_id": "0x4cb8a47ef04850d5:0",
-    "name": "Café Noisette",
-    "address": "",
-    "category": "General store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:50.271473"
-  },
-  {
-    "place_id": "0x4cc911e92858e5af:0",
-    "name": "MTLVET",
-    "address": "Bd Monk",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:48.974321"
-  },
-  {
-    "place_id": "0x4cb891237555df73:0",
-    "name": "Hôpital Vétérinaire Lachapelle",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:47.754824"
-  },
-  {
-    "place_id": "0x4cb890ce80854043:0",
-    "name": "Clinique vétérinaire Duplessis",
-    "address": "3314 Ch Ste-Foy",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:46.565072"
-  },
-  {
-    "place_id": "0x4cc9186a4713875f:0",
-    "name": "Hôpital Vétérinaire Ville St-Laurent - Vet et Nous",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:45.382717"
-  },
-  {
-    "place_id": "0x4cc76172fd4ba3d9:0",
-    "name": "Clinique Vétérinaire Fossambault",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:44.095935"
-  },
-  {
-    "place_id": "0x4cc91949fbdc6bdb:0",
-    "name": "Hôpital Vétérinaire Métro Iberville",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:42.891264"
-  },
-  {
-    "place_id": "0x4cb8a318bb2a6075:0",
-    "name": "Hôpital Vétérinaire des Laurentides - Vet et Nous",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:41.693382"
-  },
-  {
-    "place_id": "0x4cb896d582bd0505:0",
-    "name": "Clinique Vétérinaire Féline de Ste-Foy - Vet et Nous",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:40.433819"
-  },
-  {
-    "place_id": "0x4107599e7833bebf:0",
-    "name": "Globalvet - Veterinary Clinic St-Nicolas",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:39.228190"
-  },
-  {
-    "place_id": "0x4cb8985cf077c039:0",
-    "name": "Veterinary Hospital Ormière",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:38.037864"
-  },
-  {
-    "place_id": "0x4cb896a328c0d17f:0",
-    "name": "Maguire Veterinary Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:36.678104"
-  },
-  {
-    "place_id": "0x4cc9197f6d3f58eb:0",
-    "name": "Hôpital vétérinaire du Parc",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:35.284470"
-  },
-  {
-    "place_id": "0x4cb8968d60a0ae7b:0",
-    "name": "Clinique Veterinaire",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:33.956325"
-  },
-  {
-    "place_id": "0x4cc910b0552ac3a3:0",
-    "name": "Animal Health Clinic / Clinique de Santé Animale - Vet et Nous",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:32.725841"
-  },
-  {
-    "place_id": "0x4cc910b434a1fa8f:0",
-    "name": "Hôpital vétérinaire pour oiseaux et animaux exotiques de Montréal inc.",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:31.270670"
-  },
-  {
-    "place_id": "0x4cb897731b337cef:0",
-    "name": "Centre vétérinaire Daubigny",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:30.086363"
-  },
-  {
-    "place_id": "0x4cc90f7c291e72e7:0",
-    "name": "Centre Vétérinaire Rive-Sud",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:28.732959"
-  },
-  {
-    "place_id": "0x4cc91bbab497a791:0",
-    "name": "Centre Vétérinaire Montréal",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:27.403909"
-  },
-  {
-    "place_id": "0x4cb8974bc7c1dced:0",
-    "name": "Pharmacie Grégoire Arakelian (Costco)",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:26.092192"
-  },
-  {
-    "place_id": "0x4cc91e898449e04f:0",
-    "name": "Accès pharma",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:24.877106"
-  },
-  {
-    "place_id": "0x4cc91ec0865ca757:0",
-    "name": "Accès pharma chez Walmart - Pharmacie Rocky Zomparelli & Jimmy Dorcélus",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:23.709363"
-  },
-  {
-    "place_id": "0x4cc91a416888cf3b:0",
-    "name": "Familiprix Santé",
-    "address": "1588 Boul. Saint-Laurent",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:22.461312"
-  },
-  {
-    "place_id": "0x4cc9191c018e865f:0",
-    "name": "Shoppers Drug Mart",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:21.215678"
-  },
-  {
-    "place_id": "0x4cc9191c016335f1:0",
-    "name": "Pharmaprix",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:19.964397"
-  },
-  {
-    "place_id": "0x4cb89452592c4fdf:0",
-    "name": "Dynacare Centre de services de santé et de laboratoire",
-    "address": "",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:18.669494"
-  },
-  {
-    "place_id": "0x4cc919fe7746a65b:0",
-    "name": "Centre VitaLab - Rosemont",
-    "address": "",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:17.400569"
-  },
-  {
-    "place_id": "0x4cc91b06030b9207:0",
-    "name": "Centre VitaLab - Griffintown",
-    "address": "",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:16.219456"
-  },
-  {
-    "place_id": "0x4cc91b5f63308cd1:0",
-    "name": "Lilium Diagnostics",
-    "address": "1538 Sherbrooke St W Suite 200",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:14.457703"
-  },
-  {
-    "place_id": "0x4cb8972d42c83411:0",
-    "name": "PCN Physiothérapie Ste-Foy",
-    "address": "",
-    "category": "Physiotherapy Center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:13.277884"
-  },
-  {
-    "place_id": "0x4cb896d961b0b8eb:0",
-    "name": "Physiothérapie Biokin (Ste-Foy)",
-    "address": "",
-    "category": "Physiotherapy Center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:12.067148"
-  },
-  {
-    "place_id": "0x4cb890c12b8d21a3:0",
-    "name": "Physio Interactive Campanile-Articula",
-    "address": "",
-    "category": "Physiotherapy Center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:10.858039"
-  },
-  {
-    "place_id": "0x4cb8913b42ac31ab:0",
-    "name": "Physio St-Louis | Clinique de physiothérapie à Sainte Foy - Québec",
-    "address": "",
-    "category": "Physiotherapy Center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:09.602901"
-  },
-  {
-    "place_id": "0x4cc91a5cb0bcd01f:0",
-    "name": "Kinatex Gare Centrale",
-    "address": "",
-    "category": "Physiotherapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:08.412821"
-  },
-  {
-    "place_id": "0x4cb89b42dd1c7d53:0",
-    "name": "Physio Interactive St-Augustin",
-    "address": "",
-    "category": "Physiotherapy Center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:07.182160"
-  },
-  {
-    "place_id": "0x4cc91a6ac682c3d5:0",
-    "name": "Kinatex Sports Physio Downtown",
-    "address": "",
-    "category": "Physiotherapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:05.958703"
-  },
-  {
-    "place_id": "0x4cc91a7326aced5f:0",
-    "name": "Action Sport Physio Centre-ville",
-    "address": "",
-    "category": "Physiotherapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:04.740069"
-  },
-  {
-    "place_id": "0x4cc91bd7e6dfbb9b:0",
-    "name": "Physio Plateau",
-    "address": "",
-    "category": "Physiotherapy Center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 01:09:03.558506"
-  },
-  {
-    "place_id": "0x3b05bf718da94b53:0",
-    "name": "Vengeance travel hub",
-    "address": "+91 97442 02050",
-    "category": "Open 24 hours",
-    "phone": "+91 97442 02050",
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:19.985274"
-  },
-  {
-    "place_id": "0x3b05bf63403725f7:0",
-    "name": "Decon Infratech Pvt Ltd",
-    "address": "Engg College, Decon Infratech Pvt Ltd, 1st Floor, Central Building, PO",
-    "category": "Interior designer",
-    "phone": "+91 98460 10461",
-    "website": null,
-    "discovered_at": "2026-11-15 00:56:18.686113"
   }
 ]
