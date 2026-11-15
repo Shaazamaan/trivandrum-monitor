@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bfb2c756c1a7:0",
+    "name": "Waiz Designer Studio",
+    "address": "Railway Station Rd",
+    "category": "Boutique",
+    "phone": "+91 99953 42111",
+    "website": null,
+    "discovered_at": "2026-11-15 23:41:58.164079"
+  },
+  {
     "place_id": "0x3b05fdbab3f5ce31:0",
     "name": "Sky high fitness studio",
     "address": "WJV5+33M, Kanjiramkuzhi Junction",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:56:19.250804"
-  },
-  {
-    "place_id": "0x865cf5e42c4c1371:0",
-    "name": "Southwest Elixirs",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:17.556536"
   }
 ]
