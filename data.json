@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x872b65bdbe20a00d:0",
+    "name": "Posh North Boutique",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 14:14:54.833651"
+  },
+  {
+    "place_id": "0x872b63d9e1d5f1c7:0",
+    "name": "Nekter Juice Bar",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 14:14:53.624286"
+  },
+  {
+    "place_id": "0x872b71bad288d795:0",
+    "name": "Cortado BC",
+    "address": "",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 14:14:52.373311"
+  },
+  {
+    "place_id": "0x3b05b1694e2e484d:0",
+    "name": "Care Plus Medicals",
+    "address": "Shiyas Tower, Pravachambalam - Ooruttambalam Rd, next to Aanandhas hotel",
+    "category": "Pharmacy",
+    "phone": "+91 77369 45666",
+    "website": null,
+    "discovered_at": "2026-11-15 14:14:51.092358"
+  },
+  {
     "place_id": "0x3b05bb739b2e73b9:0",
     "name": "vidhu builders",
     "address": "+91 70255 69233",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 04:35:37.192165"
-  },
-  {
-    "place_id": "0x872b133fb971fc0d:0",
-    "name": "ModPop",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:35:35.875415"
-  },
-  {
-    "place_id": "0x872b138707c99bb3:0",
-    "name": "Princess Fashion Store",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:35:33.665942"
-  },
-  {
-    "place_id": "0x872b0fea92fe6571:0",
-    "name": "AZ LIFE APPAREL",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:35:31.239782"
-  },
-  {
-    "place_id": "0x872b139e0993b011:0",
-    "name": "Time Bomb Vintage Clothing",
-    "address": "4632 N 7th Ave",
-    "category": "Vintage clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:35:29.987356"
   }
 ]
