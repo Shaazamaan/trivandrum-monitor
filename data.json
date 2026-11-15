@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05af60b2f5b6ef:0",
+    "name": "Diyan Motor Driving Schoool",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 16:25:45.598404"
+  },
+  {
+    "place_id": "0x3b05af4414a615ab:0",
+    "name": "Juice & Burger Cafe",
+    "address": "Chothi nivas mekke thatt puthanveed, Tannivila Balaramapuram Road",
+    "category": "Fried chicken takeaway",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 16:25:44.411449"
+  },
+  {
+    "place_id": "0x3b05aef13f72ecc7:0",
+    "name": "Binu BAKERY",
+    "address": "Closes 11 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 16:25:43.197124"
+  },
+  {
     "place_id": "0x3b05e9c234ff1bc9:0",
     "name": "Louis Philippe - Attingal",
     "address": "No. 224/2-3, NH 66, near HDFC Bank",
@@ -8971,32 +8998,5 @@
     "phone": "+91 82810 32015",
     "website": null,
     "discovered_at": "2026-11-15 09:11:32.744031"
-  },
-  {
-    "place_id": "0x3b060f80e2673113:0",
-    "name": "CA PAVITHRA K V , SUNNY JOSEPH AND ASSOCIATES , CHARTERED ACCOUNTANTS",
-    "address": "Kattuvila veedu",
-    "category": "Chartered accountant",
-    "phone": "+91 77369 03294",
-    "website": null,
-    "discovered_at": "2026-11-15 08:57:29.221206"
-  },
-  {
-    "place_id": "0x3b05eb0044aca209:0",
-    "name": "Chirayinkeezhu",
-    "address": "Aswathy Kuttiyattumukku, Sarkara Bypass Rd",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 08:57:27.958838"
-  },
-  {
-    "place_id": "0x3b05eb00517228a9:0",
-    "name": "TECH WORLD MOBILE SHOPE",
-    "address": "MRG3+X5Q, Cheruvallimukku Mamomkshetram Rd",
-    "category": "Mobile phone repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 08:57:26.670850"
   }
 ]
