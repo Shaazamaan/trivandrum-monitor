@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b90060c655f5:0",
+    "name": "Grill Zone",
+    "address": "NCC Rd",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 11:15:23.084954"
+  },
+  {
+    "place_id": "0x3b05bf651fb24429:0",
+    "name": "Asian Paints Colour Cube - Bharath Paints",
+    "address": "No X353, 1 & 2",
+    "category": "Painter",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 11:15:21.896478"
+  },
+  {
+    "place_id": "0x3b05c1108b118c09:0",
+    "name": "Neon Medicals & Petscare",
+    "address": "Mangalapuram Mangalapuram - Pothencode, Road",
+    "category": "Pharmacy",
+    "phone": "+91 88910 62101",
+    "website": null,
+    "discovered_at": "2026-11-15 11:15:20.698220"
+  },
+  {
     "place_id": "0x3b05b1dc9e38f41d:0",
     "name": "BhajanamadamTravels",
     "address": "Vadakekkara building, opp. malacal sawmill",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 02:01:10.060833"
-  },
-  {
-    "place_id": "0x3b05ef2839c7fc67:0",
-    "name": "POPULAR MEDICAL STORE",
-    "address": "PPMF+HMF, Varkala-Thazhevettoor Road",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 02:01:08.885401"
-  },
-  {
-    "place_id": "0x3b05e90d8a7cbb8b:0",
-    "name": "Jan Aushadhi Medical Store, Varkala, Opposite SN Mission Hospital",
-    "address": "Karthikeyan Building, Varkala Kallambalam Rd, opposite SN Mission Hospital",
-    "category": "Pharmacy",
-    "phone": "+91 99951 12472",
-    "website": null,
-    "discovered_at": "2026-11-15 02:01:07.670214"
-  },
-  {
-    "place_id": "0x3b05e9511b5450ef:0",
-    "name": "kairali medicals",
-    "address": "PPHP+GC3, Cherunniyoor Road",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 02:01:06.485596"
   }
 ]
