@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bb50735501e3:0",
+    "name": "BRAVO WELLNESS CARE AND BEAUTY STUDIO",
+    "address": "E8A, CARLS, E St",
+    "category": "Health spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:28:20.453109"
+  },
+  {
+    "place_id": "0x3b05b97e37ea32d3:0",
+    "name": "Ashima Fashion Store",
+    "address": "1st Floor, Narmada Shopping Complex, Pipeline Rd",
+    "category": "Clothing store",
+    "phone": "+91 98953 55800",
+    "website": null,
+    "discovered_at": "2026-11-15 01:28:19.184645"
+  },
+  {
+    "place_id": "0x3b05bb41ac4416af:0",
+    "name": "Honeycomb The Bakeshop",
+    "address": "M5",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:28:17.772597"
+  },
+  {
+    "place_id": "0x3b05bb8fc63c9b85:0",
+    "name": "Cafe Devour - 1950 The London cafe",
+    "address": "",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 01:28:16.538725"
+  },
+  {
     "place_id": "0x3b05bbd850902c41:0",
     "name": "SSA Caters,Trivandrum",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 16:22:06.526329"
-  },
-  {
-    "place_id": "0x3b05c76a6a562e41:0",
-    "name": "SANA JEWELLERY GOLD AND DIAMOND",
-    "address": "Opens 9 AM Sun",
-    "category": "Closed",
-    "phone": "+91 91691 69567",
-    "website": null,
-    "discovered_at": "2026-11-14 16:22:05.226953"
-  },
-  {
-    "place_id": "0x3b05e330b0b0c491:0",
-    "name": "CHAMAYAM GOLD & DIAMONDS",
-    "address": "CHAMAYAM JEWELLERY, 932, PO",
-    "category": "Jewelry store",
-    "phone": "+91 99953 66460",
-    "website": null,
-    "discovered_at": "2026-11-14 16:22:04.078878"
-  },
-  {
-    "place_id": "0x3b05c3c140cfd145:0",
-    "name": "Parinaya Boutique",
-    "address": "Parinaya boutique, near VHSS Mulamana oonnampara",
-    "category": "Boutique",
-    "phone": "+91 62825 32238",
-    "website": null,
-    "discovered_at": "2026-11-14 16:22:02.816933"
-  },
-  {
-    "place_id": "0x3b05c9b6d3dc510d:0",
-    "name": "Cherry red fancy & boutique",
-    "address": "Town/Village:, SREE SAILAM DAS PLAZA Road/Street: NANNIYODE Locality/Sub Locality:",
-    "category": "Boutique",
-    "phone": "+91 95676 50701",
-    "website": null,
-    "discovered_at": "2026-11-14 16:22:01.650845"
   }
 ]
