@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bb3a43e357f9:0",
+    "name": "Fone Zone",
+    "address": "shop no 9, Trida Complex, Thakaraparambu Rd",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 70120 24730",
+    "website": null,
+    "discovered_at": "2026-11-15 06:00:37.566591"
+  },
+  {
+    "place_id": "0x3b05bb704a039fc5:0",
+    "name": "Feastary",
+    "address": "FXC2+5JX, Chithra Nager, near Big Masjid",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 06:00:36.403247"
+  },
+  {
+    "place_id": "0x3b05bb0053cbf6a9:0",
+    "name": "Manacadu",
+    "address": "FXF2+JMJ, Ammankovil Junction",
+    "category": "Veterinary pharmacy",
+    "phone": "+91 79027 26765",
+    "website": null,
+    "discovered_at": "2026-11-15 06:00:35.200820"
+  },
+  {
+    "place_id": "0x3b05afc0e8122b03:0",
+    "name": "Naturals Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 06:00:34.010354"
+  },
+  {
+    "place_id": "0x3b05baa5b568a96b:0",
+    "name": "QRS Retail Ltd",
+    "address": "MGN Plaza, Trivandrum - Nagercoil Hwy, opp. Post Office",
+    "category": "Electronics store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 06:00:32.848576"
+  },
+  {
+    "place_id": "0x3b05bb41a16bc24f:0",
+    "name": "Gadget Garages",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": "+91 73561 54448",
+    "website": null,
+    "discovered_at": "2026-11-15 06:00:31.628802"
+  },
+  {
+    "place_id": "0x3b05baa5c4e0f35f:0",
+    "name": "Nandilath G-Mart Nemom",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": "+91 62829 02978",
+    "website": null,
+    "discovered_at": "2026-11-15 06:00:30.356805"
+  },
+  {
+    "place_id": "0x3b05bbf4216c53f7:0",
+    "name": "Phone Hub",
+    "address": "near mayoori furniture",
+    "category": "Electronics store",
+    "phone": "+91 99467 33298",
+    "website": null,
+    "discovered_at": "2026-11-15 06:00:29.180555"
+  },
+  {
     "place_id": "0x3b05bb8a0f305b77:0",
     "name": "Disa Couture",
     "address": "Saranga A-3",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-14 20:14:49.419348"
-  },
-  {
-    "place_id": "0x82fa4a00d0f6cbc9:0",
-    "name": "Eternal Events AZ | Celebration of Life Services",
-    "address": "",
-    "category": "Funeral celebrant service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:47.179712"
-  },
-  {
-    "place_id": "0x872b07d1d2a4c9c1:0",
-    "name": "Laki Events + Design",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:44.798076"
-  },
-  {
-    "place_id": "0x872b0ae023e5e32f:0",
-    "name": "The Destination Manager",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:43.486583"
-  },
-  {
-    "place_id": "0x24090019f1cf3bbb:0",
-    "name": "Soul Agave Proposal + Wedding Planner",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:41.097585"
-  },
-  {
-    "place_id": "0x872b744f874ef72f:0",
-    "name": "Emily's Events",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:39.433912"
-  },
-  {
-    "place_id": "0x872b0adaac8cfed7:0",
-    "name": "Party Masters Events + Services",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:37.190268"
-  },
-  {
-    "place_id": "0x872b7b926b05b25f:0",
-    "name": "Changes Interior Design LLC",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:34.779845"
-  },
-  {
-    "place_id": "0x872b75b13cdf1281:0",
-    "name": "ModaScapes Interior Design",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-14 20:14:33.523914"
   }
 ]
