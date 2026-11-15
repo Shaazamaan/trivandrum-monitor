@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbfca60592d9:0",
+    "name": "AMER BAKERS",
+    "address": "AMER, Nanthancodu Central Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:20:45.165227"
+  },
+  {
+    "place_id": "0x3b05bb0d1bc644c1:0",
+    "name": "Choco Hut Bakery",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 21:20:41.356182"
+  },
+  {
     "place_id": "0x3b05bba544f03993:0",
     "name": "District Animal Husbandry Office",
     "address": "FXV2+2Q7",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:53:10.746274"
-  },
-  {
-    "place_id": "0x865cf510d23c5b97:0",
-    "name": "Docs Dental: JBSA Fort Sam Houston",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:09.551373"
-  },
-  {
-    "place_id": "0x865cf7e8d684b05b:0",
-    "name": "Foster's & Co. Workspaces",
-    "address": "215 Coca-Cola Pl #306",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:53:08.313609"
   }
 ]
