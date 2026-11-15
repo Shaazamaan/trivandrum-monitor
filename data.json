@@ -1,5 +1,104 @@
 [
   {
+    "place_id": "0x3b05fdbab3f5ce31:0",
+    "name": "Sky high fitness studio",
+    "address": "WJV5+33M, Kanjiramkuzhi Junction",
+    "category": "Gym",
+    "phone": "+91 95672 36799",
+    "website": null,
+    "discovered_at": "2026-11-15 23:32:38.407820"
+  },
+  {
+    "place_id": "0x3b05cbe4d440265b:0",
+    "name": "ANNA'S ENTERPRISES",
+    "address": "ANNAS ENTERPRISES, near GOVT HIGH SCHOOL",
+    "category": "Grocery store",
+    "phone": "+91 94466 14541",
+    "website": null,
+    "discovered_at": "2026-11-15 23:32:37.147211"
+  },
+  {
+    "place_id": "0x3b05dec155555555:0",
+    "name": "Govt. Veterinary Hospital",
+    "address": "VWW2+49F",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:32:35.740784"
+  },
+  {
+    "place_id": "0x3b0429e5ad42f675:0",
+    "name": "Veterinary Dispensary",
+    "address": "Tenkasi, Tirunelveli, NH-208, Kollam Thirumangalam Road, Tirunelveli",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:32:34.614890"
+  },
+  {
+    "place_id": "0x3b05df205d874fb5:0",
+    "name": "Government Veterinary Dispensary, Anadu, Vayakkal.",
+    "address": "WVJ2+VJP",
+    "category": "Government office",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:32:33.381635"
+  },
+  {
+    "place_id": "0x3b05de50c25df0bd:0",
+    "name": "Govt Veterinary Hospital Ayoor",
+    "address": "Ayoor School, SH48",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:32:32.122238"
+  },
+  {
+    "place_id": "0x3b05c710ebb36ecd:0",
+    "name": "Dr Akhila , Veterinary Surgeon",
+    "address": "Opens 6 PM",
+    "category": "Closed",
+    "phone": "+91 98470 22342",
+    "website": null,
+    "discovered_at": "2026-11-15 23:32:30.986021"
+  },
+  {
+    "place_id": "0x3b05dd9972202669:0",
+    "name": "Vet World",
+    "address": "near Hillway Bar",
+    "category": "Veterinary pharmacy",
+    "phone": "+91 90480 04105",
+    "website": null,
+    "discovered_at": "2026-11-15 23:32:29.826031"
+  },
+  {
+    "place_id": "0x3b05c35a55c173f1:0",
+    "name": "Govt. Veterinary Hospital",
+    "address": "PRGW+X7W, Vellamkolli, SH 46",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:32:28.671046"
+  },
+  {
+    "place_id": "0x3ba7cfcee57c27fb:0",
+    "name": "SREEKANTH NETHRALAYA",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": "+91 94959 63217",
+    "website": null,
+    "discovered_at": "2026-11-15 23:32:27.530391"
+  },
+  {
+    "place_id": "0x3b05b98205654267:0",
+    "name": "CA CR GOPAKUMAR AND CO CHARTERED ACCOUNTANTS",
+    "address": "Opens 9:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 23:32:26.351487"
+  },
+  {
     "place_id": "0x3b05c116b098a301:0",
     "name": "NISWAS COMMUNITY PHARMACY",
     "address": "MWH5+7R5",
@@ -8899,104 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:56:17.556536"
-  },
-  {
-    "place_id": "0x865c5f19ddd3e7e1:0",
-    "name": "Cali Bear Juices",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:15.371415"
-  },
-  {
-    "place_id": "0x865cf57bb76803dd:0",
-    "name": "Bangkok Bar",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:13.887210"
-  },
-  {
-    "place_id": "0x865c5f966ca0e5b1:0",
-    "name": "Extra Fine Monte Vista",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:12.679366"
-  },
-  {
-    "place_id": "0x865c5f844fc21933:0",
-    "name": "Oh Yeah Cakes",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:07.125764"
-  },
-  {
-    "place_id": "0x865cf61a7e0083dd:0",
-    "name": "Las Palmas Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:04.509074"
-  },
-  {
-    "place_id": "0x865cf6301df08a6b:0",
-    "name": "El Folklor Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:03.311352"
-  },
-  {
-    "place_id": "0x865c58b13f89d7cb:0",
-    "name": "Tastykake Bakery Outlet",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:01.123598"
-  },
-  {
-    "place_id": "0x865c5891194e865d:0",
-    "name": "Fiesta Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:58.621203"
-  },
-  {
-    "place_id": "0x865cf5006df08d1b:0",
-    "name": "Chiefs Corner Bakery",
-    "address": "",
-    "category": "Ice cream shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:57.434866"
-  },
-  {
-    "place_id": "0x865c5fc1d83b949d:0",
-    "name": "Pashina Pastry",
-    "address": "205 E Hildebrand Ave",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:55.111988"
-  },
-  {
-    "place_id": "0x865cf7ec400cea65:0",
-    "name": "Cake Thieves Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:55:52.660551"
   }
 ]
