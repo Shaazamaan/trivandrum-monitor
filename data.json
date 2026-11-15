@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05ef031ffafe83:0",
+    "name": "AN associates",
+    "address": "+91 94474 26506",
+    "category": "Permanently closed",
+    "phone": "+91 94474 26506",
+    "website": null,
+    "discovered_at": "2026-11-15 13:21:46.889282"
+  },
+  {
+    "place_id": "0x3b05ef20d5a67c09:0",
+    "name": "Ace Real Estate",
+    "address": "Raj Bhavan Road",
+    "category": "Commercial real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:21:45.656024"
+  },
+  {
+    "place_id": "0x209bd8396913f0d7:0",
+    "name": "Nesta Family Salon",
+    "address": "Closes 8 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:21:44.406569"
+  },
+  {
+    "place_id": "0x3b05ef0063db8fe5:0",
+    "name": "Sattva ayurveda",
+    "address": "PPQ2+GQV",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:21:43.047970"
+  },
+  {
+    "place_id": "0x3b05ef005dc97e59:0",
+    "name": "PRANAMRITHA AYURVEDA",
+    "address": "N Cliff Rd",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:21:41.738943"
+  },
+  {
+    "place_id": "0x3b05efa6310d6f81:0",
+    "name": "VYAS Ayurveda Retreat",
+    "address": "Arattu road",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-15 13:21:40.510538"
+  },
+  {
+    "place_id": "0x3b05efa29d461207:0",
+    "name": "Vayodha Herbal Beauty Clinic",
+    "address": "N Cliff Rd",
+    "category": "Beauty salon",
+    "phone": "+91 94963 27135",
+    "website": null,
+    "discovered_at": "2026-11-15 13:21:39.267902"
+  },
+  {
+    "place_id": "0x3b05efa259d6aa35:0",
+    "name": "Das Dental care",
+    "address": "QM6X+PVF",
+    "category": "Dental clinic",
+    "phone": "+91 98090 37510",
+    "website": null,
+    "discovered_at": "2026-11-15 13:21:37.867154"
+  },
+  {
     "place_id": "0x3b05bb69113595e5:0",
     "name": "Zaira Boutique",
     "address": "Closes 8 PM",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 04:32:45.590528"
-  },
-  {
-    "place_id": "0x872b107dadc262b5:0",
-    "name": "Arizona Humane Society Veterinary Clinic at South Mountain Campus",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:43.700521"
-  },
-  {
-    "place_id": "0x872b116743d61063:0",
-    "name": "Dobbins Village Veterinary Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:41.345988"
-  },
-  {
-    "place_id": "0x872b9fdf95646e65:0",
-    "name": "Valley Vet Care",
-    "address": "3040 E Madison St",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:39.870163"
-  },
-  {
-    "place_id": "0x872b125c3a746009:0",
-    "name": "Central Phoenix Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:37.657622"
-  },
-  {
-    "place_id": "0x86d671e4c90c1d7b:0",
-    "name": "Catalina Pet Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:35.206780"
-  },
-  {
-    "place_id": "0x872b6d040bd307dd:0",
-    "name": "Northern Regional Veterinary Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:33.891098"
-  },
-  {
-    "place_id": "0x872b0be62275cebd:0",
-    "name": "Low Cost Veterinary Surgery Clinic of Scottsdale",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:31.629153"
-  },
-  {
-    "place_id": "0x872b0db9bb933f6d:0",
-    "name": "Animal Care Hospital of Phoenix",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 04:32:29.118101"
   }
 ]
