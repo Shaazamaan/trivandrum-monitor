@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05b90115d4a253:0",
+    "name": "Meghus Skincare",
+    "address": "puthuval puthenveedu",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:01:13.763577"
+  },
+  {
+    "place_id": "0x3b05b95fae5ae3fd:0",
+    "name": "Western by Haze",
+    "address": "NH 66",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:01:12.579253"
+  },
+  {
+    "place_id": "0x3b05bd2c2783ec73:0",
+    "name": "Viswas Community Pharmacy",
+    "address": "LP School, PO, near Valiyaudeswaram",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:01:11.420357"
+  },
+  {
+    "place_id": "0x3b05bbe255d54321:0",
+    "name": "Amma Scan",
+    "address": "GWFM+24W, Unnamed Road",
+    "category": "Diagnostic center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:01:09.984092"
+  },
+  {
     "place_id": "0x3b05b97c03916f85:0",
     "name": "Dr N Vijayakumar's Institute of Ayurveda",
     "address": "Doctors Garden",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 02:40:37.465369"
-  },
-  {
-    "place_id": "0x87eda7ab0ed0da07:0",
-    "name": "Pastor MeLinda Maria Antoinette Madison Ordained Minister",
-    "address": "105 N Walnut St",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:36.254082"
-  },
-  {
-    "place_id": "0x87eb55da98564995:0",
-    "name": "SBC Event Services",
-    "address": "1005 E 7th St Ste 203",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:34.985632"
-  },
-  {
-    "place_id": "0x8793f35e78478247:0",
-    "name": "LimeLight Expressions - Event Design Firm",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:33.685793"
-  },
-  {
-    "place_id": "0x87e667993b5de275:0",
-    "name": "JCHC Therapy Services",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:32.437439"
   }
 ]
