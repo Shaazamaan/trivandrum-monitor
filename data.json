@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bffbeea345dd:0",
+    "name": "Motoos Restaurant",
+    "address": "GVRP+W6Q, Sreekariyam - Kazhakuttam Rd",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:40:32.757160"
+  },
+  {
+    "place_id": "0x3b05bb001bc874db:0",
+    "name": "We Store Trivandrum",
+    "address": "TC 95/469 (2, Sinduhu Tower, Poonthi Rd",
+    "category": "Cell phone store",
+    "phone": "+91 62388 18184",
+    "website": null,
+    "discovered_at": "2026-11-16 00:40:31.494527"
+  },
+  {
     "place_id": "0x3b05b94990c6cd19:0",
     "name": "Swagat Dental Centre",
     "address": "behind Car Palace",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 13:06:34.646931"
-  },
-  {
-    "place_id": "0x865c61ca0657315f:0",
-    "name": "Elysia Collective",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:35.702890"
-  },
-  {
-    "place_id": "0x865ce1c136657c43:0",
-    "name": "Boho Blooms Boutique",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:34.476084"
   }
 ]
