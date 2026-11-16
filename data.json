@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bbc8f20deda3:0",
+    "name": "Vr realtors",
+    "address": "Keston Enclave Rd, opp. Raj Bhavan Road",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:53:49.716994"
+  },
+  {
+    "place_id": "0x3b05bbf3acec4d41:0",
+    "name": "Cordon Constructors & Realtors Pvt. Ltd.",
+    "address": "Ground Floor, Cordon Sreevalsam, Cordon Builders, opp. Gain Town Fitness Club",
+    "category": "Construction company",
+    "phone": "+91 91889 20020",
+    "website": null,
+    "discovered_at": "2026-11-16 22:53:48.534528"
+  },
+  {
+    "place_id": "0x3b05bbd790bab2b3:0",
+    "name": "Windsor Mansions",
+    "address": "",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:53:47.355495"
+  },
+  {
+    "place_id": "0x3b05b97eac46cbaf:0",
+    "name": "Arcon Home Builders",
+    "address": "",
+    "category": "Construction company",
+    "phone": "+91 97442 33000",
+    "website": null,
+    "discovered_at": "2026-11-16 22:53:46.178983"
+  },
+  {
     "place_id": "0x3b05bba8912c1e0f:0",
     "name": "Auxano Pharmacy Tvm",
     "address": "murinjapalam , medical college, Pazhaya Rd, opposite Pankayam Restaurant",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 08:21:20.371881"
-  },
-  {
-    "place_id": "0x3b05bba4d45f70b3:0",
-    "name": "Krishna Nayagam & Associates",
-    "address": "FWVX+7V4, Gandhari Amman Kovil Rd",
-    "category": "Chartered accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:21:19.157594"
-  },
-  {
-    "place_id": "0x3b05bb85008146b3:0",
-    "name": "Chothys Builders Pvt Ltd",
-    "address": "Chothys Builders, TC:71/2575(1) Opposite vyapara bhavan",
-    "category": "Construction company",
-    "phone": "+91 90482 55599",
-    "website": null,
-    "discovered_at": "2026-11-16 08:21:17.878193"
-  },
-  {
-    "place_id": "0x549819aa9449a4b5:0",
-    "name": "Garza Accounting",
-    "address": "223 Wine Country Rd",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:14:08.069676"
-  },
-  {
-    "place_id": "0x54a2b955a1638547:0",
-    "name": "Anderson Boylan Ramos, P.C.",
-    "address": "",
-    "category": "Accounting firm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:14:06.796147"
   }
 ]
