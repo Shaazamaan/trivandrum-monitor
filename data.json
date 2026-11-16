@@ -1,5 +1,212 @@
 [
   {
+    "place_id": "0x880fcd622078de2d:0",
+    "name": "Design Inside",
+    "address": "910 W Van Buren St",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:58.246106"
+  },
+  {
+    "place_id": "0x3b05bb006a46458d:0",
+    "name": "Blush Makeover",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:56.893693"
+  },
+  {
+    "place_id": "0x3b05ba6bb5e871e9:0",
+    "name": "ZAMAJYA MAKEUP STUDIO",
+    "address": "opposite Rajan textiles",
+    "category": "Beauty salon",
+    "phone": "+91 70259 52964",
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:55.695770"
+  },
+  {
+    "place_id": "0x3b05df339ef97b89:0",
+    "name": "HITLER Hair&Beauty Bar",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": "+91 86064 93612",
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:54.456501"
+  },
+  {
+    "place_id": "0x3b05dff3ae3c9a59:0",
+    "name": "Fair Beauty salon & Makeup Studio",
+    "address": "First floor, Oposite to K.S.R.T.C, bus station",
+    "category": "Beauty salon",
+    "phone": "+91 91691 78918",
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:53.182623"
+  },
+  {
+    "place_id": "0xcf8a2668ca24387:0",
+    "name": "Shearbella Nail Academy & Makeover Studio",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:51.932885"
+  },
+  {
+    "place_id": "0x3b0675f676ee0be1:0",
+    "name": "Aaa-sh Unisex Beauty And Spa",
+    "address": "Aaa-sh Building, 230, Kokkadu Mathra Road",
+    "category": "Hair salon",
+    "phone": "+91 90374 33699",
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:50.722475"
+  },
+  {
+    "place_id": "0x3b05c1077508d30f:0",
+    "name": "P360 Unisex Salon and beauty Lounge",
+    "address": "Page 3, sixty unisex salon, opposite LPS school",
+    "category": "Beauty salon",
+    "phone": "+91 96333 43318",
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:49.467748"
+  },
+  {
+    "place_id": "0x3b05bbe32e22147b:0",
+    "name": "Curves & Curls Ladies Beauty Parlour",
+    "address": "Shop No: GF-3 & FF-1, Medical College, Pazhaya Rd",
+    "category": "Beauty salon",
+    "phone": "+91 97448 02022",
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:48.223583"
+  },
+  {
+    "place_id": "0x3b080daed9a11a77:0",
+    "name": "Ashtamudi Wellness",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": "+91 91362 22444",
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:46.243917"
+  },
+  {
+    "place_id": "0x3b05e30078c510ff:0",
+    "name": "Ashtamudi Wellness",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": "+91 91362 22444",
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:44.367536"
+  },
+  {
+    "place_id": "0x3b05fc575c55abe9:0",
+    "name": "Ashtamudi Unisex Beauty Salon",
+    "address": "S6, Residency Rd, opp. QRS",
+    "category": "Beauty salon",
+    "phone": "+91 91362 22444",
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:43.180297"
+  },
+  {
+    "place_id": "0x880fd36ad2678c4b:0",
+    "name": "Two Thirty",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:41.852591"
+  },
+  {
+    "place_id": "0x880e2d122225de0f:0",
+    "name": "620 North LaSalle Office Spaces",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:39.633654"
+  },
+  {
+    "place_id": "0x880e2cbc74d9448f:0",
+    "name": "Carr Workplaces The Loop - Coworking & Office Space",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:38.392569"
+  },
+  {
+    "place_id": "0x880e2dba249d99af:0",
+    "name": "Expansive Superior",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:37.157735"
+  },
+  {
+    "place_id": "0x880e2d60a263c6cd:0",
+    "name": "WeWork Office Space & Coworking",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:35.930944"
+  },
+  {
+    "place_id": "0x880e2dbbb0e223d7:0",
+    "name": "Workbox Chicago - The Loop",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:34.546301"
+  },
+  {
+    "place_id": "0x880e2d5ca6f41687:0",
+    "name": "Events by Shaun Rajah",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:33.159369"
+  },
+  {
+    "place_id": "0x880e2cb4c6c3ef8b:0",
+    "name": "CI DESIGN + BUILD",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:31.922433"
+  },
+  {
+    "place_id": "0x880e2dc007cfbce5:0",
+    "name": "Spavia Day Spa - West Loop",
+    "address": "773 W Adams St",
+    "category": "Day spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:30.569724"
+  },
+  {
+    "place_id": "0x880fd35335ccbd63:0",
+    "name": "The Peninsula Spa & Wellness Center",
+    "address": "",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:29.294660"
+  },
+  {
+    "place_id": "0x880fd3885c260ce1:0",
+    "name": "Divine Beauty Lab",
+    "address": "460 W Chicago Ave Ste 106",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:40:27.966717"
+  },
+  {
     "place_id": "0x3b05c3273a8c885f:0",
     "name": "Bake house",
     "address": "QV8F+7JP, Kilimanoor Madavoor Rd",
@@ -8791,212 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 04:21:50.528407"
-  },
-  {
-    "place_id": "0x3b05b96088777fe5:0",
-    "name": "Diya Dental Care",
-    "address": "HX5H+WFF, SH45",
-    "category": "Dental clinic",
-    "phone": "+91 94003 22300",
-    "website": null,
-    "discovered_at": "2026-11-16 04:21:49.064226"
-  },
-  {
-    "place_id": "0x3b05b9034d7a942d:0",
-    "name": "SABARI DENTAL CLINIC & Implant Centre",
-    "address": "Mukkolaka Rd, opposite Artech Metropolis Between Mukkola",
-    "category": "Dental clinic",
-    "phone": "+91 98951 40523",
-    "website": null,
-    "discovered_at": "2026-11-16 04:21:47.799671"
-  },
-  {
-    "place_id": "0x3b05aba09a6e97b1:0",
-    "name": "Colarc Interiors",
-    "address": "Aalumoodu JN",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 04:06:46.627665"
-  },
-  {
-    "place_id": "0x3b05b719a8bf4a23:0",
-    "name": "Edam Design Studio",
-    "address": "Vattiyoorkkav Puliyarakkonam Rd",
-    "category": "Interior designer",
-    "phone": "+91 91883 30605",
-    "website": null,
-    "discovered_at": "2026-11-16 04:06:45.336699"
-  },
-  {
-    "place_id": "0x3b080d477fb74145:0",
-    "name": "VBV & Associates | Chartered Accountants in Kochi, Kerala | Audit Firm in Kochi, Kerala",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": "+91 95449 12123",
-    "website": null,
-    "discovered_at": "2026-11-16 03:59:55.700647"
-  },
-  {
-    "place_id": "0x3b05a53d1f1fdba1:0",
-    "name": "RANI FASHION JEWELLERY, റാണി ഫാഷൻ ജ്വല്ലറി",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": "+91 94465 40534",
-    "website": null,
-    "discovered_at": "2026-11-16 03:51:52.731508"
-  },
-  {
-    "place_id": "0x3b05a9f0be79392f:0",
-    "name": "Salala mobiles",
-    "address": "Salala mobiles oposite children’s palace kochupally juction Kochupally pulluvila p o",
-    "category": "Cell phone store",
-    "phone": "+91 94001 76880",
-    "website": null,
-    "discovered_at": "2026-11-16 03:51:51.533023"
-  },
-  {
-    "place_id": "0x3b05afb0d0cf3e43:0",
-    "name": "Cafe @ Day",
-    "address": "C289+7P4, Pallichal - Vizhinjam Rd",
-    "category": "Cafeteria",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:51:50.283545"
-  },
-  {
-    "place_id": "0x3b05ad45ec9965d9:0",
-    "name": "Golden Palace International Convention Centre",
-    "address": "",
-    "category": "Convention center",
-    "phone": "+91 81119 60005",
-    "website": null,
-    "discovered_at": "2026-11-16 03:44:34.647896"
-  },
-  {
-    "place_id": "0x3b05adfc7604e053:0",
-    "name": "Beauty Brides Makeover Studio",
-    "address": "MSN Plaza, NH Road",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:44:33.421643"
-  },
-  {
-    "place_id": "0x3b05c366402ea81b:0",
-    "name": "Mezla caterers and event’s",
-    "address": "+91 97455 14565",
-    "category": "Open 24 hours",
-    "phone": "+91 97455 14565",
-    "website": null,
-    "discovered_at": "2026-11-16 03:37:03.847411"
-  },
-  {
-    "place_id": "0x3b05c150b9476275:0",
-    "name": "PLAN HOUSE",
-    "address": "Closes 6 PM",
-    "category": "Open",
-    "phone": "+91 90747 97967",
-    "website": null,
-    "discovered_at": "2026-11-16 03:37:02.697222"
-  },
-  {
-    "place_id": "0x3b05e9ca11796b23:0",
-    "name": "Sagma fashion jewellery",
-    "address": "MRV7+VQX",
-    "category": "Jeweler",
-    "phone": "+91 98959 45302",
-    "website": null,
-    "discovered_at": "2026-11-16 03:37:01.516642"
-  },
-  {
-    "place_id": "0x3b05e9f902cfd96b:0",
-    "name": "Chandrika Textiles",
-    "address": "MRW9+C3R",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:37:00.295606"
-  },
-  {
-    "place_id": "0x3b05e96df303ba71:0",
-    "name": "FIZA Mens & Boys,Palace Road, Attingal",
-    "address": "Palace Rd",
-    "category": "Clothing store",
-    "phone": "+91 90727 11177",
-    "website": null,
-    "discovered_at": "2026-11-16 03:36:59.092032"
-  },
-  {
-    "place_id": "0x3b05ef29e9cf56fd:0",
-    "name": "Nayan Beauty Parlour",
-    "address": "Thachankonam Road, near HDFC Bank",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:36:57.863779"
-  },
-  {
-    "place_id": "0x3b05ef29ae136233:0",
-    "name": "Super Bakery & Cool Bar",
-    "address": "PPMG+X57, Madathara Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:29:55.430636"
-  },
-  {
-    "place_id": "0x3b05b95efe18a193:0",
-    "name": "ELANZA CAR SPA",
-    "address": "near Dr Giris Clinic, opp. J P medicals",
-    "category": "Car wash",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:29:54.264408"
-  },
-  {
-    "place_id": "0x3b05be9b6845ca15:0",
-    "name": "Fresh Juice",
-    "address": "Road",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:29:53.111278"
-  },
-  {
-    "place_id": "0x3b05bf005657e14f:0",
-    "name": "Chavadimukku",
-    "address": "Manvila Industrial Estate, Sreekaryam - Kulathoor Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:29:51.820830"
-  },
-  {
-    "place_id": "0x3b05bbd75e413181:0",
-    "name": "PATHU'S KITCHEN",
-    "address": "KPRA 65(A, TKD Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:22:02.268165"
-  },
-  {
-    "place_id": "0x864c113cf220e15f:0",
-    "name": "Lovely Event Co. (Formerly RK Weddings & Events)",
-    "address": "Opens 9 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:14:08.146572"
-  },
-  {
-    "place_id": "0x832443b6c3fb4e1b:0",
-    "name": "A1 Event Planners",
-    "address": "Opens 8 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:14:06.924985"
   }
 ]
