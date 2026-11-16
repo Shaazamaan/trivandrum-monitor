@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05c649cef15bf7:0",
+    "name": "Adnan Medicals",
+    "address": "MX7P+9HF, Panavoor - Chullimanoor Rd",
+    "category": "Pharmacy",
+    "phone": "+91 94965 47286",
+    "website": null,
+    "discovered_at": "2026-11-16 11:19:56.964136"
+  },
+  {
+    "place_id": "0x3b05cf6a0d3053ab:0",
+    "name": "Nandana Medicals",
+    "address": "AA Auditorium, Near, Gulzar buildingPacha",
+    "category": "Pharmacy",
+    "phone": "+91 99464 86621",
+    "website": null,
+    "discovered_at": "2026-11-16 11:19:55.273119"
+  },
+  {
+    "place_id": "0x3b05cf6a4741bf35:0",
+    "name": "Neethi Medical Store",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 11:19:53.988017"
+  },
+  {
+    "place_id": "0x3b05c51be6fd7bb7:0",
+    "name": "Samaswas Medical store",
+    "address": "College Road",
+    "category": "Pharmacy",
+    "phone": "+91 96458 07216",
+    "website": null,
+    "discovered_at": "2026-11-16 11:19:52.725773"
+  },
+  {
     "place_id": "0x88e82126dba57cad:0",
     "name": "Vacationishta LLC, Travel Agent.",
     "address": "Opens 9 AM",
@@ -8962,41 +8998,5 @@
     "phone": "+91 89076 34900",
     "website": null,
     "discovered_at": "2026-11-15 17:02:25.873300"
-  },
-  {
-    "place_id": "0x3b05bbcd54134e41:0",
-    "name": "MOKSHA",
-    "address": "B9(1), TC 35/2569(1), B Street, Chitra Nagar",
-    "category": "Tour agency",
-    "phone": "+91 85476 51883",
-    "website": null,
-    "discovered_at": "2026-11-15 17:02:24.731500"
-  },
-  {
-    "place_id": "0x3b05bb0bc4acf2f5:0",
-    "name": "SMASH N' DROP indoor sports",
-    "address": "Eswari amman temple road, Vattiyoorkkav-Arappura Rd",
-    "category": "Badminton court",
-    "phone": "+91 85472 78177",
-    "website": null,
-    "discovered_at": "2026-11-15 17:02:23.533580"
-  },
-  {
-    "place_id": "0x3b05b9f015ec564d:0",
-    "name": "DREAM SPACE HOMES AND INTERIORS",
-    "address": "Maruthankuzhy junction",
-    "category": "Home builder",
-    "phone": "+91 85898 85198",
-    "website": null,
-    "discovered_at": "2026-11-15 17:02:22.343408"
-  },
-  {
-    "place_id": "0x3b05bb26f449447d:0",
-    "name": "Weeny Whiz Kindergarten, Vattiyoorkavu",
-    "address": "near SFS Church",
-    "category": "Educational institution",
-    "phone": "+91 95447 04040",
-    "website": null,
-    "discovered_at": "2026-11-15 17:02:20.931268"
   }
 ]
