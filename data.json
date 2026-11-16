@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbd75e413181:0",
+    "name": "PATHU'S KITCHEN",
+    "address": "KPRA 65(A, TKD Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 03:22:02.268165"
+  },
+  {
     "place_id": "0x864c113cf220e15f:0",
     "name": "Lovely Event Co. (Formerly RK Weddings & Events)",
     "address": "Opens 9 AM Mon",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:45:41.048026"
-  },
-  {
-    "place_id": "0x89b63d4ea57c3191:0",
-    "name": "The Skinstitute",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:45:39.825229"
   }
 ]
