@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bb079b9dd733:0",
+    "name": "Kumar Medicals",
+    "address": "TC 38/2467,Puthenchalai, po.,",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 11:39:08.033698"
+  },
+  {
+    "place_id": "0x3b05bb001ec032ff:0",
+    "name": "Shamim's Physio Care",
+    "address": "FW6W+5CV",
+    "category": "Physical therapist",
+    "phone": "+91 98959 09094",
+    "website": null,
+    "discovered_at": "2026-11-16 11:39:06.822067"
+  },
+  {
+    "place_id": "0x3b05b1702089d7b5:0",
+    "name": "Aura advanced physiotherapy clinic",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": "+91 95678 51656",
+    "website": null,
+    "discovered_at": "2026-11-16 11:39:04.840458"
+  },
+  {
+    "place_id": "0x3b05bb07f02eeda5:0",
+    "name": "Dr. N.T Pillai's Dental Clinic",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 98470 62065",
+    "website": null,
+    "discovered_at": "2026-11-16 11:39:03.626010"
+  },
+  {
+    "place_id": "0x87ee9b7c880db5c5:0",
+    "name": "BoxDrop Des Moines, IA",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 11:39:02.300062"
+  },
+  {
+    "place_id": "0x87ee9b2cd55f7227:0",
+    "name": "Blady Fashion",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 11:39:01.101707"
+  },
+  {
+    "place_id": "0x87ec21a2981e4c91:0",
+    "name": "Dry Goods",
+    "address": "",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 11:38:59.860305"
+  },
+  {
+    "place_id": "0x87ec86ee66f957f7:0",
+    "name": "Rock Valley Physical Therapy - Adair",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 11:38:58.538409"
+  },
+  {
     "place_id": "0x3b05c649cef15bf7:0",
     "name": "Adnan Medicals",
     "address": "MX7P+9HF, Panavoor - Chullimanoor Rd",
@@ -8926,77 +8998,5 @@
     "phone": "+91 95446 51209",
     "website": null,
     "discovered_at": "2026-11-15 17:15:45.145245"
-  },
-  {
-    "place_id": "0x8864434a6d2fb1f9:0",
-    "name": "Panaderia & Pasteleria Lopez",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:15:43.906901"
-  },
-  {
-    "place_id": "0x886442e6bd9b5ddb:0",
-    "name": "La Conchita Bakery - Madison",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:15:42.609654"
-  },
-  {
-    "place_id": "0x3b05b9d283ee23af:0",
-    "name": "Anil Kumar Physics Classes",
-    "address": "Santhalayam, House, 157, Survey School Rd",
-    "category": "Coaching center",
-    "phone": "+91 94474 77725",
-    "website": null,
-    "discovered_at": "2026-11-15 17:15:41.275864"
-  },
-  {
-    "place_id": "0x3b05bb00547bbf21:0",
-    "name": "VR Pharmacy",
-    "address": "FWXF+FWG, near Panchami Devi Temple",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:02:30.583751"
-  },
-  {
-    "place_id": "0x3b05bb0062539abd:0",
-    "name": "VR Pharmacy",
-    "address": "19, Anayara Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:02:29.436453"
-  },
-  {
-    "place_id": "0x3b05b9005dff7493:0",
-    "name": "GG Meds- Ambalamukku",
-    "address": "Tc 5 2456-3, Peroorkada Rd, near SBI bank",
-    "category": "Medical supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:02:28.195148"
-  },
-  {
-    "place_id": "0x3b05b90bb049c157:0",
-    "name": "LEKSHMY PHARMACY AYURVEDA DISPENSARY",
-    "address": "HX26+C9M",
-    "category": "Business related",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:02:27.053763"
-  },
-  {
-    "place_id": "0x3b05bb3682df7b0b:0",
-    "name": "Misc Archive",
-    "address": "Rohini, MRA E34, Mele kuzhivila lane, Maruthankuzhy Brg",
-    "category": "Advertising agency",
-    "phone": "+91 89076 34900",
-    "website": null,
-    "discovered_at": "2026-11-15 17:02:25.873300"
   }
 ]
