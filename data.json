@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bdae7bf13bd3:0",
+    "name": "Vaidyasala Sri Dhanwanthari Ayurveda Hospital and Child Development Centre",
+    "address": "",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 79940 74440",
+    "website": null,
+    "discovered_at": "2026-11-16 06:56:32.624638"
+  },
+  {
+    "place_id": "0x3b05abbec5bf6677:0",
+    "name": "Rohini’s Home Bakes",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 06:56:31.388066"
+  },
+  {
+    "place_id": "0x3b05a9a29b6c0e13:0",
+    "name": "Smile dent Multi Speciality Dental Clinic",
+    "address": "karakkattil plaza,uchakkada.jn poovar",
+    "category": "Dental clinic",
+    "phone": "+91 99954 69424",
+    "website": null,
+    "discovered_at": "2026-11-16 06:56:30.238436"
+  },
+  {
     "place_id": "0x3b05a98150a5f8eb:0",
     "name": "M5 Mens And Kids Wear",
     "address": "83CC+5X6",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:51:59.341156"
-  },
-  {
-    "place_id": "0x89b63f2490ac87db:0",
-    "name": "Asian Magic Health",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:51:57.891760"
-  },
-  {
-    "place_id": "0x89b63871c3ba522f:0",
-    "name": "Jiafu Spa",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:51:55.855126"
-  },
-  {
-    "place_id": "0x89b647c6951ddea7:0",
-    "name": "Worldgate Spa",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:51:53.787899"
   }
 ]
