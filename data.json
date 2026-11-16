@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb962d598209:0",
+    "name": "Maheen & Associates",
+    "address": "Near, Residency Rd Over Brg",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:21:20.371881"
+  },
+  {
+    "place_id": "0x3b05bba4d45f70b3:0",
+    "name": "Krishna Nayagam & Associates",
+    "address": "FWVX+7V4, Gandhari Amman Kovil Rd",
+    "category": "Chartered accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:21:19.157594"
+  },
+  {
+    "place_id": "0x3b05bb85008146b3:0",
+    "name": "Chothys Builders Pvt Ltd",
+    "address": "Chothys Builders, TC:71/2575(1) Opposite vyapara bhavan",
+    "category": "Construction company",
+    "phone": "+91 90482 55599",
+    "website": null,
+    "discovered_at": "2026-11-16 08:21:17.878193"
+  },
+  {
     "place_id": "0x549819aa9449a4b5:0",
     "name": "Garza Accounting",
     "address": "223 Wine Country Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:54:27.910170"
-  },
-  {
-    "place_id": "0x871f109fa3b49ae3:0",
-    "name": "Inspired Home Design",
-    "address": "6750 Gravel Ave",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:25.807667"
-  },
-  {
-    "place_id": "0x89b6410c746a3ac7:0",
-    "name": "Impressa Home Decor",
-    "address": "Taylor Cres Dr",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:23.701788"
-  },
-  {
-    "place_id": "0x89b6431d68c67241:0",
-    "name": "JCC Interior Designs | Just Call Crystal",
-    "address": "14230 Sullyfield Cir Ste J",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:21.057636"
   }
 ]
