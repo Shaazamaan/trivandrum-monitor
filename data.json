@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x54a2ad0042fb4c49:0",
+    "name": "Boardman elevator",
+    "address": "71010 Rail Loop Drive",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 23:57:23.402649"
+  },
+  {
     "place_id": "0x3b05af189ebde6f3:0",
     "name": "celltech mobiles",
     "address": "92VF+QFW, Chappath Punnakkulam Rd",
@@ -8989,14 +8998,5 @@
     "phone": "+91 70120 81603",
     "website": null,
     "discovered_at": "2026-11-16 12:00:46.032526"
-  },
-  {
-    "place_id": "0x3b05bbbbefca7187:0",
-    "name": "Kottakkal Arya Vaidya Sala",
-    "address": "General Hospital Rd",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:00:44.750569"
   }
 ]
