@@ -1,5 +1,410 @@
 [
   {
+    "place_id": "0x3b05b97eb2071521:0",
+    "name": "VINOD V S AND CO",
+    "address": "",
+    "category": "Chartered accountant",
+    "phone": "+91 98462 66699",
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:36.367029"
+  },
+  {
+    "place_id": "0x3b05bb3732cc70a3:0",
+    "name": "S B ASSOCIATES",
+    "address": "Punnen Rd",
+    "category": "Tax preparation service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:35.117850"
+  },
+  {
+    "place_id": "0x3b05bb959947f4c5:0",
+    "name": "RHA & ASSOCIATES",
+    "address": "GPO, CRA 67, Convent Rd, opposite H&C Books",
+    "category": "Association / Organization",
+    "phone": "+91 95676 86852",
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:33.794745"
+  },
+  {
+    "place_id": "0x8a9b1d14f80a959f:0",
+    "name": "Lasting Impression Events",
+    "address": "(210) 556-4189",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:32.322636"
+  },
+  {
+    "place_id": "0x44a99b7a24be4253:0",
+    "name": "Realtor Kelly Gonzalez",
+    "address": "Opens 8:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:31.078823"
+  },
+  {
+    "place_id": "0x7cf781ac993de75:0",
+    "name": "Ashley Brockman, A&T Home Group Realtor, San Antonio",
+    "address": "Opens 8 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:29.847083"
+  },
+  {
+    "place_id": "0x865c43b970bbc897:0",
+    "name": "55 Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:28.560073"
+  },
+  {
+    "place_id": "0x145e82f50c0cdb5f:0",
+    "name": "Roadworthy Driving Academy Inc",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:27.380061"
+  },
+  {
+    "place_id": "0x865c4314e19822eb:0",
+    "name": "Rhodes Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:26.106036"
+  },
+  {
+    "place_id": "0x865c65038198745f:0",
+    "name": "Double G Driving Academy",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:24.681848"
+  },
+  {
+    "place_id": "0x865cf52d6e0457ad:0",
+    "name": "Texas Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:23.395543"
+  },
+  {
+    "place_id": "0x865c66d04ac1b919:0",
+    "name": "Ayala & Associates Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:22.068093"
+  },
+  {
+    "place_id": "0x3b05bb7a16e6a8e3:0",
+    "name": "Wayvida",
+    "address": "",
+    "category": "Education center",
+    "phone": "+91 90728 67878",
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:20.737314"
+  },
+  {
+    "place_id": "0x865c6047a812ea45:0",
+    "name": "Fitness Connection",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:19.423176"
+  },
+  {
+    "place_id": "0x865cf5fcdddcc4c1:0",
+    "name": "The Yard Gym Broadway",
+    "address": "1101 Broadway",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:18.195593"
+  },
+  {
+    "place_id": "0x3b07cdcc368f1e3d:0",
+    "name": "Reliance SMART Superstore",
+    "address": "",
+    "category": "Hypermarket",
+    "phone": "+91 99950 63092",
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:16.928294"
+  },
+  {
+    "place_id": "0x865cf5006b9a89a7:0",
+    "name": "Pullman Market",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:15.727419"
+  },
+  {
+    "place_id": "0x3b05bbce3e3554ef:0",
+    "name": "Reliance Centro",
+    "address": "",
+    "category": "Shopping mall",
+    "phone": "+91 82689 03058",
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:14.499674"
+  },
+  {
+    "place_id": "0x3b05bb001f7ae5e7:0",
+    "name": "Laurel Ladies Collections",
+    "address": "General Hospital Rd",
+    "category": "Fashion accessories store",
+    "phone": "+91 97445 52324",
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:13.120570"
+  },
+  {
+    "place_id": "0x3ba659e67f222b53:0",
+    "name": "Sankaran Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:11.848872"
+  },
+  {
+    "place_id": "0x865cf54bd94f8d25:0",
+    "name": "La Panadería Bakery Café",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:09.874131"
+  },
+  {
+    "place_id": "0x865c5f0b32f321db:0",
+    "name": "Bedoy's Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:07.705639"
+  },
+  {
+    "place_id": "0x865c5fb3035e9f07:0",
+    "name": "La Popular Bakery & Cake Shop",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:06.498478"
+  },
+  {
+    "place_id": "0x865c61729fe16e83:0",
+    "name": "Bon Dia Panaderia Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:05.304509"
+  },
+  {
+    "place_id": "0x865c89314271da05:0",
+    "name": "La Panadería Bakery Café",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:04.042858"
+  },
+  {
+    "place_id": "0x3b05bb24da157ebd:0",
+    "name": "Buttons & Brews",
+    "address": "AKG Center, Palayam Airport Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:02.829436"
+  },
+  {
+    "place_id": "0x865c5f729c9b08eb:0",
+    "name": "PhiloÇoffee",
+    "address": "",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:01.599392"
+  },
+  {
+    "place_id": "0x865c5f81244724ab:0",
+    "name": "El Café On the Go",
+    "address": "4215 McCullough Ave",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:01:00.079037"
+  },
+  {
+    "place_id": "0x865cf5ffbb58c875:0",
+    "name": "The Newstand Coffee",
+    "address": "",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:58.760405"
+  },
+  {
+    "place_id": "0x3b05bb875fbb56dd:0",
+    "name": "Madras Majestic 1963",
+    "address": "opp. MLA Hostel",
+    "category": "South Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:57.464355"
+  },
+  {
+    "place_id": "0x865cf5b928590b21:0",
+    "name": "CityVet | Alamo Heights Veterinary Clinic & Urgent Care",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:56.095031"
+  },
+  {
+    "place_id": "0x865c5fb4db6d24ef:0",
+    "name": "Low Cost Pet Vet",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:54.833197"
+  },
+  {
+    "place_id": "0x865c6336bce21e8b:0",
+    "name": "San Antonio Eye Center",
+    "address": "",
+    "category": "Ophthalmology clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:53.598263"
+  },
+  {
+    "place_id": "0x865c5f0029c30169:0",
+    "name": "San Antonio Eye Center",
+    "address": "",
+    "category": "Ophthalmologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:52.334188"
+  },
+  {
+    "place_id": "0x865c8a70b41f5c21:0",
+    "name": "San Antonio Eye Center",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:51.127713"
+  },
+  {
+    "place_id": "0x865c5f734b452197:0",
+    "name": "San Antonio Eye Center",
+    "address": "",
+    "category": "Surgical center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:49.835590"
+  },
+  {
+    "place_id": "0x3b05b97d376760f7:0",
+    "name": "Dr Arun Pratap MD(Ay) - Senior Ayurveda Doctor",
+    "address": "opposite to Secretariat, near Arul Jyothi Restaurant",
+    "category": "Doctor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:48.613620"
+  },
+  {
+    "place_id": "0x3b05bb000579f70d:0",
+    "name": "Kottakkal Arya Vaidyasala",
+    "address": "Tc 26, 502(1",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 88481 10817",
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:47.299675"
+  },
+  {
+    "place_id": "0x3b05bbb3f1141677:0",
+    "name": "Amrit Kalash Ayurveda Clinic",
+    "address": "Venus Garden, 50L, CIT Rd",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 70120 81603",
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:46.032526"
+  },
+  {
+    "place_id": "0x3b05bbbbefca7187:0",
+    "name": "Kottakkal Arya Vaidya Sala",
+    "address": "General Hospital Rd",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:44.750569"
+  },
+  {
+    "place_id": "0x3ba856f2051635a9:0",
+    "name": "DEV PHYSIOTHERAPY CLINIC",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": "+91 99946 69354",
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:43.534773"
+  },
+  {
+    "place_id": "0x3b05bb00631e10e9:0",
+    "name": "CASA Design Concepts , Vazhuthacaud",
+    "address": "Anugraham , Ground Floor, USRA 151, Udarasiromani Rd",
+    "category": "Interior designer",
+    "phone": "+91 98953 93626",
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:42.283041"
+  },
+  {
+    "place_id": "0x3b05bbe2f7e6090f:0",
+    "name": "Foxgreen Consulting LLP",
+    "address": "TC 29/2580, \"Karthika\", F-4,, Tagore Nagar Lane 2 , Cottonhill Road,, Vazhuthacaud",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:41.027111"
+  },
+  {
+    "place_id": "0x3b05bbbbbd034ec3:0",
+    "name": "Marvel Gym | Ladies & Gents",
+    "address": "near SK Hospital, Vazhuthacaud- Pangode, Road",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:39.771680"
+  },
+  {
+    "place_id": "0x3b05ba4a73444387:0",
+    "name": "Saar dream edapazhinji",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:00:38.470920"
+  },
+  {
     "place_id": "0x3b05bbd5a4ff9e37:0",
     "name": "Divya Medicals",
     "address": "GXF6+M78, SH 2",
@@ -8593,410 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 18:51:40.745889"
-  },
-  {
-    "place_id": "0x54997d0056584f37:0",
-    "name": "Los hermanos Mexican restaurant",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:51:39.337556"
-  },
-  {
-    "place_id": "0x54997b552b6a18b3:0",
-    "name": "Timeout Pizza",
-    "address": "",
-    "category": "Pizza restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:51:38.093501"
-  },
-  {
-    "place_id": "0x549959806f725bd9:0",
-    "name": "Mi Cocinita | Mexico Grill & Cantina",
-    "address": "",
-    "category": "Mexican restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:51:36.846419"
-  },
-  {
-    "place_id": "0x54997b57b4343e4d:0",
-    "name": "XALOS TACOS MARISCOS BAR",
-    "address": "",
-    "category": "Mexican restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:51:35.334816"
-  },
-  {
-    "place_id": "0x86e75ad294f7883b:0",
-    "name": "East El Paso Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:51:33.350812"
-  },
-  {
-    "place_id": "0x5499475f763cf385:0",
-    "name": "Petco",
-    "address": "911 North Stratford Road",
-    "category": "Pet store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:51:32.064235"
-  },
-  {
-    "place_id": "0x3b05bba023f8d6bb:0",
-    "name": "Neethi Medicals",
-    "address": "FWMR+JM6",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:51:30.789674"
-  },
-  {
-    "place_id": "0xdc233f36ae676d7:0",
-    "name": "Uplift with Ayurveda",
-    "address": "21719 8th Ave SE",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:51:29.509886"
-  },
-  {
-    "place_id": "0x54a1ca99b0033631:0",
-    "name": "Dermatology & Skin Cancer Center",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:51:28.242408"
-  },
-  {
-    "place_id": "0x549e1cfede7dfec5:0",
-    "name": "Dermatology Clinic of Spokane",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:51:26.864186"
-  },
-  {
-    "place_id": "0x3b05bb8228a37ff5:0",
-    "name": "Minnaa's Boutique",
-    "address": "CRA- 112, chadiyara, junction, Grandhasala Rd",
-    "category": "Boutique",
-    "phone": "+91 97462 61249",
-    "website": null,
-    "discovered_at": "2026-11-15 18:33:32.371976"
-  },
-  {
-    "place_id": "0x3b05bb2c7b4619f7:0",
-    "name": "Fruzo - Fresh mode on",
-    "address": "Tc no. 29, St. Joseph, press building, 2668(1, School, opp. Cotton Hill",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:33:31.154022"
-  },
-  {
-    "place_id": "0x3b05bb9fc28012dd:0",
-    "name": "Vazhuthacaud Junction",
-    "address": "GX25+9HV, All India Radio Rd",
-    "category": "Off roading area",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:33:29.963755"
-  },
-  {
-    "place_id": "0x3b05bb0001fdd1cf:0",
-    "name": "Malabar Cafe",
-    "address": "GX24+P2Q, Vazhuthacaud Bakery Jct Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:33:28.737707"
-  },
-  {
-    "place_id": "0x3b05bb96dd889c65:0",
-    "name": "Ayush Ayurvedic Wellness Centre",
-    "address": "+91 91425 94296",
-    "category": "Open 24 hours",
-    "phone": "+91 91425 94296",
-    "website": null,
-    "discovered_at": "2026-11-15 18:33:26.725952"
-  },
-  {
-    "place_id": "0x3b05ba49e3150aaf:0",
-    "name": "DDRC Agilus Diagnostics, Edapazhanji",
-    "address": "GX3C+R9G",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:33:25.444561"
-  },
-  {
-    "place_id": "0x3b05bbd4bd8b956d:0",
-    "name": "Mansions Sharada Madhavam",
-    "address": "KGWS50, Golf Links Rd",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:33:24.175435"
-  },
-  {
-    "place_id": "0x3b05bbc5695793b9:0",
-    "name": "Swifcon",
-    "address": "P.O, TC 24/330, ARA-42, Ambalamukku Rd",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:33:22.864921"
-  },
-  {
-    "place_id": "0x3b05bbd18ee7cb45:0",
-    "name": "New Grand Bazaar",
-    "address": "Simis, Keston Rd",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:33:21.641408"
-  },
-  {
-    "place_id": "0x3b05bb63e7228597:0",
-    "name": "Aswas Community Pharmacy",
-    "address": "GX7C+2JR",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:33:20.357535"
-  },
-  {
-    "place_id": "0x3b05bb007b81cc95:0",
-    "name": "Sign laban Kuravankonam",
-    "address": "",
-    "category": "Dessert shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:26:15.360246"
-  },
-  {
-    "place_id": "0x3b05bbb6ad1b4751:0",
-    "name": "Blue Net Driving School",
-    "address": "FX7J+VWQ, Madhathil Temple Rd",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:26:14.084085"
-  },
-  {
-    "place_id": "0x3b05bb003f536d75:0",
-    "name": "ALAMRIN JUICE HUB",
-    "address": "Vignesh Tyres, junction",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:18:32.246246"
-  },
-  {
-    "place_id": "0x87ec211b5a321f5d:0",
-    "name": "Revived Interiors",
-    "address": "",
-    "category": "Remodeler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:18:30.773147"
-  },
-  {
-    "place_id": "0x87ee9b2f5d365541:0",
-    "name": "Melrose Fashion",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:18:29.372091"
-  },
-  {
-    "place_id": "0x3b05bf56b948674f:0",
-    "name": "Keralista",
-    "address": "1st Floor, Valiya Veedu, Kallingal Rd",
-    "category": "Tour operator",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 18:04:24.855257"
-  },
-  {
-    "place_id": "0x3b042f9c5b18c06b:0",
-    "name": "Dayal Jewellery",
-    "address": "5/62, Ambai Main Rd",
-    "category": "Jewelry store",
-    "phone": "+91 94435 54262",
-    "website": null,
-    "discovered_at": "2026-11-15 17:56:21.252980"
-  },
-  {
-    "place_id": "0x872b4169f738ed43:0",
-    "name": "West Valley Coworking",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:46:48.640043"
-  },
-  {
-    "place_id": "0x3b05ea52846c48e5:0",
-    "name": "Dindon",
-    "address": "MQ5J+JRQ, Pandakasala-Keleshwaram Rd",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:32:23.033488"
-  },
-  {
-    "place_id": "0x3b05bfebde40c78f:0",
-    "name": "Astra Fashions",
-    "address": "ASTRA FASHION'S CHANANKARA, opp. Sree durga Bhagavathi temple",
-    "category": "Dress store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:24:14.828895"
-  },
-  {
-    "place_id": "0x3b059500663f9f63:0",
-    "name": "PRS Stores Kadinamkulam",
-    "address": "Road",
-    "category": "General store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:24:13.166573"
-  },
-  {
-    "place_id": "0x3b05a5079a41c8ab:0",
-    "name": "Curry Leaf Restaurant",
-    "address": "Kovalam Near Leela Hotel",
-    "category": "Seafood restaurant",
-    "phone": "+91 97463 16102",
-    "website": null,
-    "discovered_at": "2026-11-15 17:24:11.184824"
-  },
-  {
-    "place_id": "0x3b05baff97d08fef:0",
-    "name": "Kochannan Sahib's Restaurant",
-    "address": "",
-    "category": "Kerala restaurant",
-    "phone": "+91 94477 84840",
-    "website": null,
-    "discovered_at": "2026-11-15 17:24:09.921485"
-  },
-  {
-    "place_id": "0x3b05bf4f4312d261:0",
-    "name": "Shababaik Restaurant",
-    "address": "",
-    "category": "Shawarma restaurant",
-    "phone": "+91 79022 33301",
-    "website": null,
-    "discovered_at": "2026-11-15 17:24:08.690976"
-  },
-  {
-    "place_id": "0x886389682b864a95:0",
-    "name": "Premiere Luxury Travel LLC",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:16:06.315453"
-  },
-  {
-    "place_id": "0x88646694fcf5c261:0",
-    "name": "Herron Travel Agency",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:16:05.061265"
-  },
-  {
-    "place_id": "0x886431b0b69387df:0",
-    "name": "You Can Fly Travels, LLC",
-    "address": "Opens 9 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:16:03.745200"
-  },
-  {
-    "place_id": "0x886441822b551065:0",
-    "name": "Brandywine Travel Agency",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:16:02.431539"
-  },
-  {
-    "place_id": "0x8864697cdd991b09:0",
-    "name": "Dove Travel & Cruises International",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:16:00.976795"
-  },
-  {
-    "place_id": "0x88646910685af083:0",
-    "name": "Southwestern Travel",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:15:59.750733"
-  },
-  {
-    "place_id": "0x8864159f26eb645b:0",
-    "name": "Come and See Travel",
-    "address": "(615) 754-0445",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:15:58.509339"
-  },
-  {
-    "place_id": "0x886461b7dff4dda3:0",
-    "name": "Erica James Travel",
-    "address": "2245 Rosa L Parks Blvd",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 17:15:57.250392"
-  },
-  {
-    "place_id": "0x3b05afdff6accf95:0",
-    "name": "Guys and dolls beauty lounge",
-    "address": "Opens 10 AM Mon",
-    "category": "Closed",
-    "phone": "+91 97473 45719",
-    "website": null,
-    "discovered_at": "2026-11-15 17:15:55.933087"
-  },
-  {
-    "place_id": "0x3b05b11193980355:0",
-    "name": "Trends Spa And Saloon",
-    "address": "Machael Road",
-    "category": "Hair salon",
-    "phone": "+91 81294 60908",
-    "website": null,
-    "discovered_at": "2026-11-15 17:15:54.699807"
-  },
-  {
-    "place_id": "0x3b05a52d59d6b93d:0",
-    "name": "VINY's MAKEUP STUDIO AND SALOON",
-    "address": "Viny’s makeup studio & salon, Dhwani,Punkulam, AGC Road Vellayani po Punkulam AGC Road, Agricultural College Road",
-    "category": "Beauty salon",
-    "phone": "+91 82818 28153",
-    "website": null,
-    "discovered_at": "2026-11-15 17:15:53.470324"
   }
 ]
