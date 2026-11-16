@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x88d9006955555555:0",
+    "name": "SpaJuiceBar | SoGo Pure",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:56:38.543931"
+  },
+  {
+    "place_id": "0x873ff39ceee2014f:0",
+    "name": "Mules Ear Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:56:37.356585"
+  },
+  {
+    "place_id": "0x87400100466fdd93:0",
+    "name": "Memo Fırın",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:56:36.143125"
+  },
+  {
+    "place_id": "0x3b05bb8ddd6cebef:0",
+    "name": "Sun Infrastructure Private Limited",
+    "address": "Shop No. 17, Sri, Narasimha shopping complex, opposite YMCA Road",
+    "category": "Construction company",
+    "phone": "+91 96050 41222",
+    "website": null,
+    "discovered_at": "2026-11-16 05:56:34.931672"
+  },
+  {
+    "place_id": "0x3b05bb8f6dec8669:0",
+    "name": "Best Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:56:33.654954"
+  },
+  {
+    "place_id": "0x3b05bbcee2dd832f:0",
+    "name": "Zoo Hospital",
+    "address": "GX64+J8F",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:56:32.442569"
+  },
+  {
     "place_id": "0x3b05b97e4356c291:0",
     "name": "HK Biology classes",
     "address": "GXH6+544, Toll jn kowdiar, Peroorkada Rd",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:48:57.030497"
-  },
-  {
-    "place_id": "0x89b7b1a40e4ecde1:0",
-    "name": "Toastique",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:55.879361"
-  },
-  {
-    "place_id": "0x89b7b9c73d8351eb:0",
-    "name": "Turning Natural",
-    "address": "2025 Martin Luther King Jr Ave SE",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:53.670614"
-  },
-  {
-    "place_id": "0x89c803f1d5237c13:0",
-    "name": "Pure Raw Juice",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:51.058844"
-  },
-  {
-    "place_id": "0x89b63fdea7417915:0",
-    "name": "Rush Bowls",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:49.927852"
-  },
-  {
-    "place_id": "0x89b63d7f8e583eb1:0",
-    "name": "Rush Bowls",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:47.689528"
-  },
-  {
-    "place_id": "0x89b639593e199b51:0",
-    "name": "Tropical Smoothie Cafe",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:45.290390"
   }
 ]
