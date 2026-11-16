@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05ad005cd968af:0",
+    "name": "Sana family restaurant",
+    "address": "C58R+3XV, Parassala Vellarada Rd",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 01:19:09.613848"
+  },
+  {
+    "place_id": "0x3b05b1dfc58cc745:0",
+    "name": "MEHFIL Travels, Kattakada",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 01:19:08.406137"
+  },
+  {
+    "place_id": "0x3b05bbd0754c0c29:0",
+    "name": "Phoenix Tour and Travels",
+    "address": "",
+    "category": "Travel agency",
+    "phone": "+91 93877 57347",
+    "website": null,
+    "discovered_at": "2026-11-16 01:19:07.173968"
+  },
+  {
     "place_id": "0x3b05a906438e326f:0",
     "name": "Eden Backwaters Poovar - A Journey Through Paradise",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 13:36:26.849341"
-  },
-  {
-    "place_id": "0x3b05b7f74d861fa1:0",
-    "name": "Coffee Cakes",
-    "address": "GAYATHRY ARCADE",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:36:25.634325"
-  },
-  {
-    "place_id": "0x3b05b9270d01c5b3:0",
-    "name": "Chez By Coffee Cakes",
-    "address": "near coffee cakes",
-    "category": "Chinese restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:36:24.492627"
-  },
-  {
-    "place_id": "0x3b05b9007b488d33:0",
-    "name": "NATTURUCHI THATTUKADA",
-    "address": "Shop No 1, Natturuchi Thattukada, Nedumangad Karipoor Rd, near Bevco Outlet",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:36:23.315657"
   }
 ]
