@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05c366402ea81b:0",
+    "name": "Mezla caterers and event’s",
+    "address": "+91 97455 14565",
+    "category": "Open 24 hours",
+    "phone": "+91 97455 14565",
+    "website": null,
+    "discovered_at": "2026-11-16 03:37:03.847411"
+  },
+  {
+    "place_id": "0x3b05c150b9476275:0",
+    "name": "PLAN HOUSE",
+    "address": "Closes 6 PM",
+    "category": "Open",
+    "phone": "+91 90747 97967",
+    "website": null,
+    "discovered_at": "2026-11-16 03:37:02.697222"
+  },
+  {
+    "place_id": "0x3b05e9ca11796b23:0",
+    "name": "Sagma fashion jewellery",
+    "address": "MRV7+VQX",
+    "category": "Jeweler",
+    "phone": "+91 98959 45302",
+    "website": null,
+    "discovered_at": "2026-11-16 03:37:01.516642"
+  },
+  {
+    "place_id": "0x3b05e9f902cfd96b:0",
+    "name": "Chandrika Textiles",
+    "address": "MRW9+C3R",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 03:37:00.295606"
+  },
+  {
+    "place_id": "0x3b05e96df303ba71:0",
+    "name": "FIZA Mens & Boys,Palace Road, Attingal",
+    "address": "Palace Rd",
+    "category": "Clothing store",
+    "phone": "+91 90727 11177",
+    "website": null,
+    "discovered_at": "2026-11-16 03:36:59.092032"
+  },
+  {
+    "place_id": "0x3b05ef29e9cf56fd:0",
+    "name": "Nayan Beauty Parlour",
+    "address": "Thachankonam Road, near HDFC Bank",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 03:36:57.863779"
+  },
+  {
     "place_id": "0x3b05ef29ae136233:0",
     "name": "Super Bakery & Cool Bar",
     "address": "PPMG+X57, Madathara Rd",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:45:53.388860"
-  },
-  {
-    "place_id": "0x89b63f35d7c4b3dd:0",
-    "name": "BenchMark Physical Therapy",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:45:52.192144"
-  },
-  {
-    "place_id": "0x89b641396393feab:0",
-    "name": "1st Americare PT Clinic",
-    "address": "",
-    "category": "Physical therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:45:51.040267"
-  },
-  {
-    "place_id": "0x89b637957103285d:0",
-    "name": "Alliance Physical Therapy",
-    "address": "950 Herndon Parkway",
-    "category": "Physical therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:45:49.791997"
-  },
-  {
-    "place_id": "0x89b641c647802269:0",
-    "name": "Acne Clinic, Stone Springs MedSpa by LMG",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:45:48.583798"
-  },
-  {
-    "place_id": "0x89b63c0b5805dde1:0",
-    "name": "Skin Cancer Center of Northern Virginia",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:45:47.432722"
-  },
-  {
-    "place_id": "0x89b617d14b278d51:0",
-    "name": "Be Luminous Acne Clinic & Skin Therapy",
-    "address": "101 Loudoun St SE #200",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:45:46.193392"
   }
 ]
