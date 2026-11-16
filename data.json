@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbaf44400001:0",
+    "name": "Lawson Travel & Tours India Pvt. Ltd.",
+    "address": "1st Floor, KK Building",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 11:46:36.116928"
+  },
+  {
     "place_id": "0x3b05bb079b9dd733:0",
     "name": "Kumar Medicals",
     "address": "TC 38/2467,Puthenchalai, po.,",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 17:15:46.407415"
-  },
-  {
-    "place_id": "0x3b05baa60f305cbb:0",
-    "name": "BHADRA BAKERY",
-    "address": "F234+626",
-    "category": "Bakery",
-    "phone": "+91 95446 51209",
-    "website": null,
-    "discovered_at": "2026-11-15 17:15:45.145245"
   }
 ]
