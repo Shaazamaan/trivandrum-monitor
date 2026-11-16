@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05afcba8e34dd1:0",
+    "name": "Nagarjuna Ayurveda",
+    "address": "Nagarjuna Ayurveda, Vizhinjam Rd",
+    "category": "Physician referral service",
+    "phone": "+91 94464 04253",
+    "website": null,
+    "discovered_at": "2026-11-16 20:23:31.745589"
+  },
+  {
+    "place_id": "0x3b05af014bdd16c1:0",
+    "name": "Diya Dental clinic",
+    "address": "92HW+5H9, Post",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 20:23:30.534415"
+  },
+  {
+    "place_id": "0x3b05afa2a0be09b7:0",
+    "name": "Nellimoodu Dental Clinic",
+    "address": "92JW+6GM, Uchakkada - Nellimoodu Rd",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 20:23:29.283010"
+  },
+  {
+    "place_id": "0x3b05af671d65e781:0",
+    "name": "O MY TEETH Dental Care",
+    "address": "Ahamed plaza, 1075, Vizhinjam Rd, near Anjuvannam muslim Jamath",
+    "category": "Dental clinic",
+    "phone": "+91 79091 23987",
+    "website": null,
+    "discovered_at": "2026-11-16 20:23:27.847877"
+  },
+  {
+    "place_id": "0x3b05b90055cced4f:0",
+    "name": "SELVA CAFE",
+    "address": "Saranya Shop",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 20:23:26.625577"
+  },
+  {
     "place_id": "0x3b05ad0065da89db:0",
     "name": "Aasraya community pharmacy",
     "address": "PARK JUNCTION, near GOVT GIRLS HIGHSCHOOL",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 06:06:12.102269"
-  },
-  {
-    "place_id": "0x880e2eb2f807002b:0",
-    "name": "Mettle Fitness, LLC",
-    "address": "",
-    "category": "Physical fitness program",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:10.895637"
-  },
-  {
-    "place_id": "0x8811dec5ce15f065:0",
-    "name": "East Chicago Fitness Center",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:09.646712"
-  },
-  {
-    "place_id": "0x880e290380442d15:0",
-    "name": "South Side YMCA",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:08.440889"
-  },
-  {
-    "place_id": "0x880e2c08eef42e3d:0",
-    "name": "ProFit Studio",
-    "address": "3700 S Indiana Ave",
-    "category": "Physical fitness program",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:07.238431"
-  },
-  {
-    "place_id": "0x880e29045c0b9d77:0",
-    "name": "Fit Konnekt Gym Boxville",
-    "address": "5044 S Calumet Ave",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:06.067310"
   }
 ]
