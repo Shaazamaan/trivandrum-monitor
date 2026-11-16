@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bbdd4f3c12e9:0",
+    "name": "Limraz chai",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:55:42.960793"
+  },
+  {
+    "place_id": "0x3b05bbbfb9c075a9:0",
+    "name": "Milano Ice Cream",
+    "address": "FXX6+M3R, All India Radio Rd",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:55:41.712198"
+  },
+  {
+    "place_id": "0x3b05bb0041207c43:0",
+    "name": "Pangode Arogya Medicals",
+    "address": "GX3C+W9F, SK Hospital Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:55:40.488517"
+  },
+  {
+    "place_id": "0x3b05bbdd0a1f75c9:0",
+    "name": "Florid Your Mattress Store",
+    "address": "SH45, opposite Income Tax Office",
+    "category": "Mattress store",
+    "phone": "+91 98465 22292",
+    "website": null,
+    "discovered_at": "2026-11-16 02:55:38.255691"
+  },
+  {
+    "place_id": "0x3b05bb5fdf466deb:0",
+    "name": "APPA KADA",
+    "address": "APPA KADA, near SALVATION ARMY SCHOOL",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:55:36.493326"
+  },
+  {
+    "place_id": "0x3b05bb550a816ae9:0",
+    "name": "Nayanas kitchen",
+    "address": "SH45",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:55:35.295558"
+  },
+  {
+    "place_id": "0x3b05bb003341dff5:0",
+    "name": "Arabian Palace Trivandrum",
+    "address": "Kowdiar.p.o, Shyja Plaza",
+    "category": "Arab restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:55:34.041339"
+  },
+  {
+    "place_id": "0x3b05bba5c157f601:0",
+    "name": "New building of regional eye hospital, tvml",
+    "address": "FWXR+R8C, Palayam Airport Rd",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:55:32.696463"
+  },
+  {
     "place_id": "0x876f3a8ad82bd047:0",
     "name": "REMAX Capitol Properties",
     "address": "",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 14:22:28.579040"
-  },
-  {
-    "place_id": "0x3b05bb1bd9a7b693:0",
-    "name": "Alpha Homeo Pharmacy",
-    "address": "FX84+QJF",
-    "category": "Homeopathic pharmacy",
-    "phone": "+91 95444 28997",
-    "website": null,
-    "discovered_at": "2026-11-15 14:22:27.253246"
-  },
-  {
-    "place_id": "0x3b05bb70d3beff59:0",
-    "name": "Kottakkal Ayurvedic Authorized Dealer",
-    "address": "FWFX+F58",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 14:22:25.927223"
-  },
-  {
-    "place_id": "0x3b05bb04e4c2931b:0",
-    "name": "Santhwanam Medicals",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": "+91 62821 06497",
-    "website": null,
-    "discovered_at": "2026-11-15 14:22:24.658205"
-  },
-  {
-    "place_id": "0x872b65bdbe20a00d:0",
-    "name": "Posh North Boutique",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 14:14:54.833651"
-  },
-  {
-    "place_id": "0x872b63d9e1d5f1c7:0",
-    "name": "Nekter Juice Bar",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 14:14:53.624286"
-  },
-  {
-    "place_id": "0x872b71bad288d795:0",
-    "name": "Cortado BC",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 14:14:52.373311"
-  },
-  {
-    "place_id": "0x3b05b1694e2e484d:0",
-    "name": "Care Plus Medicals",
-    "address": "Shiyas Tower, Pravachambalam - Ooruttambalam Rd, next to Aanandhas hotel",
-    "category": "Pharmacy",
-    "phone": "+91 77369 45666",
-    "website": null,
-    "discovered_at": "2026-11-15 14:14:51.092358"
-  },
-  {
-    "place_id": "0x3b05bb739b2e73b9:0",
-    "name": "vidhu builders",
-    "address": "+91 70255 69233",
-    "category": "Temporarily closed",
-    "phone": "+91 70255 69233",
-    "website": null,
-    "discovered_at": "2026-11-15 14:07:11.066369"
   }
 ]
