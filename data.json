@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c1ca25f63ef5:0",
+    "name": "Palliyara Bakery",
+    "address": "Palliyara Bakery, opposite Gokulam Medical College",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:05:31.682992"
+  },
+  {
     "place_id": "0x3b05eb9669efc3cb:0",
     "name": "SM Traders (Grocery and Cattle Feeds)",
     "address": "MQ5M+H7P",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 13:36:37.710012"
-  },
-  {
-    "place_id": "0x3b05b76cf725903f:0",
-    "name": "Legacy gym",
-    "address": "Manvika building",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:36:36.532492"
   }
 ]
