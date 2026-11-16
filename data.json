@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x87ee999e53fd1c71:0",
+    "name": "Double Dragon Food Market",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:43:12.611625"
+  },
+  {
+    "place_id": "0x87ee9921b4c333cf:0",
+    "name": "Rock Valley Physical Therapy - Des Moines - Ingersoll",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:43:11.376906"
+  },
+  {
+    "place_id": "0x87ee99d5e129c0c9:0",
+    "name": "DMU Clinic — Physical Therapy",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:43:10.149629"
+  },
+  {
+    "place_id": "0x87ee994980bdfe7f:0",
+    "name": "UnityPoint Health Physical Therapy and Rehabilitation Services – Methodist",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:43:08.878053"
+  },
+  {
     "place_id": "0x3b05bb962d598209:0",
     "name": "Maheen & Associates",
     "address": "Near, Residency Rd Over Brg",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:54:35.797182"
-  },
-  {
-    "place_id": "0x89b639a714bf9e19:0",
-    "name": "CMI Home Design Studio",
-    "address": "43760 Trade Center Pl Ste 155",
-    "category": "General contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:33.710851"
-  },
-  {
-    "place_id": "0x89b63c4335975c25:0",
-    "name": "FIA Designs, LLC",
-    "address": "43364 Vestals Pl",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:31.641509"
-  },
-  {
-    "place_id": "0x89b7b74d4a8dc8b7:0",
-    "name": "Manlove and Company Interiors",
-    "address": "46 S Glebe Rd Unit 202",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:29.099712"
-  },
-  {
-    "place_id": "0x89b630cc817451d7:0",
-    "name": "Suzy Smith Interiors",
-    "address": "20544 Willoughby Square",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:27.910170"
   }
 ]
