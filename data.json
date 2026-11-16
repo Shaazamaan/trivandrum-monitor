@@ -1,5 +1,509 @@
 [
   {
+    "place_id": "0x549819aa9449a4b5:0",
+    "name": "Garza Accounting",
+    "address": "223 Wine Country Rd",
+    "category": "Accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:14:08.069676"
+  },
+  {
+    "place_id": "0x54a2b955a1638547:0",
+    "name": "Anderson Boylan Ramos, P.C.",
+    "address": "",
+    "category": "Accounting firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:14:06.796147"
+  },
+  {
+    "place_id": "0x54986db7daf89f9f:0",
+    "name": "All Aspects Bookkeeping, LLC",
+    "address": "33106 Hummingbird PR NE",
+    "category": "Accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:14:05.580245"
+  },
+  {
+    "place_id": "0x549879063a83ca23:0",
+    "name": "Owen & Roth",
+    "address": "",
+    "category": "Tax preparation service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:14:04.205120"
+  },
+  {
+    "place_id": "0x54987b007b3a28ab:0",
+    "name": "In Balance CPA Group PLLC",
+    "address": "",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:14:02.963951"
+  },
+  {
+    "place_id": "0x549879ed84477b15:0",
+    "name": "Oswalt-Jisa CPA's PLLC",
+    "address": "",
+    "category": "Accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:14:01.739994"
+  },
+  {
+    "place_id": "0x54987b083737445d:0",
+    "name": "Baker & Giles PS",
+    "address": "",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:14:00.464702"
+  },
+  {
+    "place_id": "0x54a2b904d2a1a5db:0",
+    "name": "Connell & Associates, LLC",
+    "address": "",
+    "category": "Accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:59.206550"
+  },
+  {
+    "place_id": "0x54987a3c8dc272ed:0",
+    "name": "Northwest CPA Group PLLC",
+    "address": "",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:57.970014"
+  },
+  {
+    "place_id": "0x54987ad03e48abd5:0",
+    "name": "Christensen King PC CPA's & Financial Advisors",
+    "address": "",
+    "category": "Tax preparation service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:56.747268"
+  },
+  {
+    "place_id": "0x54a2b91e960ab9cb:0",
+    "name": "Barnett & Moro, P.C.",
+    "address": "",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:55.511450"
+  },
+  {
+    "place_id": "0x549879a373d5dee5:0",
+    "name": "Account Sense PLLC",
+    "address": "Opens 8 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:54.254462"
+  },
+  {
+    "place_id": "0x54987a256b22d2bb:0",
+    "name": "Oord Douglas CPA",
+    "address": "",
+    "category": "Accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:53.056959"
+  },
+  {
+    "place_id": "0x5498791af39e4d65:0",
+    "name": "Insight Business & Accounting Solutions",
+    "address": "",
+    "category": "Accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:51.849477"
+  },
+  {
+    "place_id": "0x207fc91b95e7cecf:0",
+    "name": "Tru Accounting Services LLC",
+    "address": "",
+    "category": "Bookkeeping service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:50.582608"
+  },
+  {
+    "place_id": "0x54987a248aa4620f:0",
+    "name": "Nilson & Oord PLLC",
+    "address": "",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:49.329652"
+  },
+  {
+    "place_id": "0x54987de246c547e5:0",
+    "name": "Now or Never Travels",
+    "address": "(509) 851-7140",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:48.024328"
+  },
+  {
+    "place_id": "0x5498790463f67413:0",
+    "name": "Your Travel Experts",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:46.776055"
+  },
+  {
+    "place_id": "0x54a2830db603d72d:0",
+    "name": "Vacations with Steph",
+    "address": "205204 E Bowles Rd",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:45.442717"
+  },
+  {
+    "place_id": "0x9c6e9e2acd1084f:0",
+    "name": "Precision Travel Agency",
+    "address": "(509) 440-0769",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:44.172392"
+  },
+  {
+    "place_id": "0x54987aea4a76474f:0",
+    "name": "Rambling Rovers Senior Travel",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:42.910366"
+  },
+  {
+    "place_id": "0x54987bd908330f7f:0",
+    "name": "Compass Seas Travel Agency",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:41.634231"
+  },
+  {
+    "place_id": "0xdec850a804e325b:0",
+    "name": "Stargazer Deluxe Travel",
+    "address": "(509) 720-7857",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:40.372583"
+  },
+  {
+    "place_id": "0x54987aed7e14c4ef:0",
+    "name": "Berkshire Hathaway HomeServices Central Washington Real Estate Tri-Cities",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:39.115380"
+  },
+  {
+    "place_id": "0x54987ebccfb7de69:0",
+    "name": "Tri Cities Realty Group LLC",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:37.901994"
+  },
+  {
+    "place_id": "0x549879bd8ab7ca25:0",
+    "name": "Retter & Company Sotheby's International Realty",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:36.639593"
+  },
+  {
+    "place_id": "0x549879f69f52adc9:0",
+    "name": "CENTURY 21 Tri-Cities",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:35.357332"
+  },
+  {
+    "place_id": "0x54987a1cc8cc01f1:0",
+    "name": "Kenmore Team LLC",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:34.142684"
+  },
+  {
+    "place_id": "0x54987986da5d76ff:0",
+    "name": "Analexis Manjares-Diaz, REALTOR",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:32.930661"
+  },
+  {
+    "place_id": "0x54987992b4c94a3f:0",
+    "name": "Krista Hopkins Homes",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:31.704061"
+  },
+  {
+    "place_id": "0x54987a1e8133d3a1:0",
+    "name": "Berkshire Hathaway HomeServices Tri Cities Real Estate",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:30.369988"
+  },
+  {
+    "place_id": "0x54a2b96df05eed45:0",
+    "name": "Alex Arroyo, Real Estate Agent - Real Broker",
+    "address": "405 N 1st St Unit 101",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:29.158406"
+  },
+  {
+    "place_id": "0x54a2b9268937f8ff:0",
+    "name": "Planet Fitness",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:27.875169"
+  },
+  {
+    "place_id": "0x54a2bbe8ce41c0bf:0",
+    "name": "Hermiston Athletic Club",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:26.639796"
+  },
+  {
+    "place_id": "0x54a2b91b81f41ab1:0",
+    "name": "Sunrise Hair Studio and Suites",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:21.804449"
+  },
+  {
+    "place_id": "0x549871744def9a4d:0",
+    "name": "Salon Bellarosa",
+    "address": "",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:20.555227"
+  },
+  {
+    "place_id": "0x54987b3aa1772159:0",
+    "name": "Atlas Beauty",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:19.281500"
+  },
+  {
+    "place_id": "0x54a2b9a7e4238e63:0",
+    "name": "Lucy's Beauty Salon",
+    "address": "200 SW 11th St",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:18.050332"
+  },
+  {
+    "place_id": "0x54987b50cc0cecd7:0",
+    "name": "Resilience Beauty Studio LLC",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:16.829890"
+  },
+  {
+    "place_id": "0x54987b0bf03c3beb:0",
+    "name": "Muse Salon & Spa",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:15.567687"
+  },
+  {
+    "place_id": "0x54a2c7691d366145:0",
+    "name": "Wildflower Salon and Spa",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:14.368253"
+  },
+  {
+    "place_id": "0x54a2b91b87fbceef:0",
+    "name": "Goss Family Jewelers",
+    "address": "215 E Main St Ste A",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:12.925380"
+  },
+  {
+    "place_id": "0x54a2b91c75a2e25d:0",
+    "name": "Alexander Daniel Jewelry Works",
+    "address": "",
+    "category": "Jeweler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:11.708860"
+  },
+  {
+    "place_id": "0xe9ec592b267dd49:0",
+    "name": "XOCHI Jewelry LLC",
+    "address": "",
+    "category": "Jewelry designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:10.451179"
+  },
+  {
+    "place_id": "0x5498798aadfc4f9f:0",
+    "name": "Harry Ritchie's Jewelers Kennewick",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:09.220492"
+  },
+  {
+    "place_id": "0x54a2b91b231474ab:0",
+    "name": "Ochoa's Jewelers",
+    "address": "",
+    "category": "Jeweler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:07.911249"
+  },
+  {
+    "place_id": "0x54987a1e14248b93:0",
+    "name": "Jewelry Design Center",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:06.635642"
+  },
+  {
+    "place_id": "0x549879a326223773:0",
+    "name": "Touchstone Jewelers",
+    "address": "",
+    "category": "Jeweler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:05.312756"
+  },
+  {
+    "place_id": "0x54a2b93fd15cffa9:0",
+    "name": "Aaron's Rent To Own",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:04.083388"
+  },
+  {
+    "place_id": "0x54a2e15ae2a209bf:0",
+    "name": "Courtesy Easy-2-Own Home Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:02.873505"
+  },
+  {
+    "place_id": "0x549787a1b2864dcb:0",
+    "name": "Tony's Home Furnishings",
+    "address": "105 S Toppenish Ave",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:01.654130"
+  },
+  {
+    "place_id": "0x54a2b91b2db1aac9:0",
+    "name": "Walker's Furniture & Mattress - Hermiston",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:13:00.308360"
+  },
+  {
+    "place_id": "0x54987aea10da21a5:0",
+    "name": "Richland Bell Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:12:58.966952"
+  },
+  {
+    "place_id": "0x54987a1e54496a71:0",
+    "name": "Phone Shop Tri-Cities",
+    "address": "",
+    "category": "Mobile phone repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:12:57.745092"
+  },
+  {
+    "place_id": "0x54986fef790179b7:0",
+    "name": "TSP Bakeshop",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:12:54.860212"
+  },
+  {
+    "place_id": "0x54987b76a47a83ef:0",
+    "name": "Mid-Columbia Pet Emergency Services",
+    "address": "",
+    "category": "Emergency veterinarian service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 08:12:53.589708"
+  },
+  {
     "place_id": "0x3b05c649b81d3e49:0",
     "name": "JEELANI DRIVING SCHOOL",
     "address": "Panavoor - Puthenpalam Rd",
@@ -8494,509 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:54:21.057636"
-  },
-  {
-    "place_id": "0x89b650fe8acd488d:0",
-    "name": "J&J Designs",
-    "address": "11114 Devereux Station Ln",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:19.892792"
-  },
-  {
-    "place_id": "0x89c3ab6651ca40c9:0",
-    "name": "Corinne Victoria Design",
-    "address": "5967 Wilton Rd",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:17.820978"
-  },
-  {
-    "place_id": "0x89b641b4ddf2dda5:0",
-    "name": "AZAR DESIGN & BUILD",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:15.731643"
-  },
-  {
-    "place_id": "0x89b7c72738315385:0",
-    "name": "Fabulous Interior Designs LLC",
-    "address": "3248 Colvin St",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:13.223227"
-  },
-  {
-    "place_id": "0x89b63c4329e4a11f:0",
-    "name": "SK Interiors LLC",
-    "address": "43481-43499 Millwright Terrace",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:12.018795"
-  },
-  {
-    "place_id": "0x89b64d25cfe76f17:0",
-    "name": "Ann Gottlieb Design - McLean & Great Falls Interior Designer",
-    "address": "3060 Williams Dr Ste 3009",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:09.675323"
-  },
-  {
-    "place_id": "0x89b636127458689d:0",
-    "name": "Leslie Anderson Interiors - Great Falls & McLean VA Interior Designer",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:07.236289"
-  },
-  {
-    "place_id": "0x89b648a335e77aeb:0",
-    "name": "Pamela Harvey Interiors",
-    "address": "12191 Goldenchain Ct",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:06.025909"
-  },
-  {
-    "place_id": "0x89b63c400264d645:0",
-    "name": "Voila Staging & Design",
-    "address": "504 Shaw Rd #220",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:03.861753"
-  },
-  {
-    "place_id": "0x89b653d49c90bbe7:0",
-    "name": "B Decor Airbnb and Interior Design Virginia & Maryland",
-    "address": "8821 Ridge Hollow Ct",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:01.788429"
-  },
-  {
-    "place_id": "0x89b6441cf571551f:0",
-    "name": "Staged Interior",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:59.632224"
-  },
-  {
-    "place_id": "0x89b6380a6a7f8709:0",
-    "name": "Signature Design Interiors",
-    "address": "1039 Sterling Rd #104",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:57.316605"
-  },
-  {
-    "place_id": "0x89b6530d63611cbf:0",
-    "name": "Statement Design Concepts",
-    "address": "1765 Greensboro Station Pl Ste 900",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:56.013548"
-  },
-  {
-    "place_id": "0x89b63be15972790d:0",
-    "name": "The Spear Realty Group",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:53.796187"
-  },
-  {
-    "place_id": "0x89b63be15b3935b3:0",
-    "name": "TEAM CRUZ Real Estate",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:51.096265"
-  },
-  {
-    "place_id": "0x89b63fbbdc91d389:0",
-    "name": "Terri Robinson, Real Estate Agent/RE/MAX Distinctive",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:49.933322"
-  },
-  {
-    "place_id": "0x89b6395f572091cb:0",
-    "name": "Debra Hall Real Estate",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:47.666381"
-  },
-  {
-    "place_id": "0x89b63eb8b1eca317:0",
-    "name": "The Bob Caines Team - REMAX Distinctive",
-    "address": "",
-    "category": "Real estate consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:45.352599"
-  },
-  {
-    "place_id": "0x89b63f5474f56ab3:0",
-    "name": "Erika Potter, RE/MAX Distinctive",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:43.946620"
-  },
-  {
-    "place_id": "0x89b63be16bc00001:0",
-    "name": "eXp Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:42.767158"
-  },
-  {
-    "place_id": "0x89b63eb94977af69:0",
-    "name": "Jack Lawlor Realty Co",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:39.714425"
-  },
-  {
-    "place_id": "0x89b64fa5da20e94d:0",
-    "name": "Old Town Driving School",
-    "address": "6631 Wakefield Dr APT 610",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:37.239736"
-  },
-  {
-    "place_id": "0x89b63900cb685d15:0",
-    "name": "Potomac Driving School",
-    "address": "22648 Glenn Dr Office #204",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:35.975210"
-  },
-  {
-    "place_id": "0x89b7b4b82a835555:0",
-    "name": "Falls Church Driving School",
-    "address": "900 S Washington St",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:33.812777"
-  },
-  {
-    "place_id": "0x89b7ad81b844376d:0",
-    "name": "Sultan Driving School",
-    "address": "6542 Lee Valley Dr Apt 101",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:31.662409"
-  },
-  {
-    "place_id": "0x89b65b00ae31fc6f:0",
-    "name": "ANEES Driving School LLC",
-    "address": "4015 Chain Bridge Rd Suites #34",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:29.073342"
-  },
-  {
-    "place_id": "0x89b7b37f2cadb7a5:0",
-    "name": "EXIT DRIVING SCHOOL",
-    "address": "5100 Leesburg Pike suit 305",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:27.947709"
-  },
-  {
-    "place_id": "0x89b7b3d416e7357d:0",
-    "name": "Level Up Driving Academy",
-    "address": "11166 Fairfax Blvd Suite 500 Unit F3",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:25.771008"
-  },
-  {
-    "place_id": "0x89b6391b8a73be45:0",
-    "name": "Dynamics Driving School",
-    "address": "207 E Holly Ave Ste 100",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:23.735967"
-  },
-  {
-    "place_id": "0x89b64433eaf5262b:0",
-    "name": "Virginia Driving Institute - Driving School Fairfax Chantilly Centreville Herndon Reston Tysons",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:21.529907"
-  },
-  {
-    "place_id": "0x42946b4eb4a69d89:0",
-    "name": "Horizon Driving School",
-    "address": "21900 Muirfield Cir Apt 302",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:20.365768"
-  },
-  {
-    "place_id": "0x89b637d02d3b60fd:0",
-    "name": "EZ Driving School - Sterling VA",
-    "address": "21900 Muirfield Cir Apt 302",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:17.637490"
-  },
-  {
-    "place_id": "0x42bbfa857cec1efd:0",
-    "name": "Gum Spring Driving School",
-    "address": "24482 Amherst Frst Ter",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:15.059856"
-  },
-  {
-    "place_id": "0x89b63d332317bb91:0",
-    "name": "Horizon Driving School",
-    "address": "910 Buttonwood Terrace NE",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:13.894056"
-  },
-  {
-    "place_id": "0x89b63bff9c79295b:0",
-    "name": "The Star Driving School",
-    "address": "23038 Brooksbank Square",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:11.774693"
-  },
-  {
-    "place_id": "0x8e791f8355ca0ce7:0",
-    "name": "Skills Driving School",
-    "address": "411 N Sterling Blvd",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:09.622392"
-  },
-  {
-    "place_id": "0x89b66bbfc727171b:0",
-    "name": "EZ Driving School - Aldie VA",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:07.484907"
-  },
-  {
-    "place_id": "0x89b6416f1d6592fb:0",
-    "name": "ZEE DRIVING SCHOOL VA",
-    "address": "24926 Helms Terrace",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:05.816907"
-  },
-  {
-    "place_id": "0x89b7b435f4766a55:0",
-    "name": "Instructor's Choice Driving",
-    "address": "118 E Broad St",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:03.693180"
-  },
-  {
-    "place_id": "0x89b639e6bb68cf55:0",
-    "name": "Xpert Driving School",
-    "address": "46660 Clearview Terrace",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:53:01.524664"
-  },
-  {
-    "place_id": "0x852ee960f5669a5b:0",
-    "name": "Kids First Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:59.702538"
-  },
-  {
-    "place_id": "0x89b7b30dd8e9771d:0",
-    "name": "EZ Driving School - Alexandria VA",
-    "address": "4921 Seminary Rd Apt 1502",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:57.661241"
-  },
-  {
-    "place_id": "0x89b7b387e73ba9c9:0",
-    "name": "AR Driving School",
-    "address": "375 S Reynolds St",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:55.309046"
-  },
-  {
-    "place_id": "0x89b6390bf0ba2d3d:0",
-    "name": "Horizon Driving School",
-    "address": "44519 Potter Terrace",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:54.016417"
-  },
-  {
-    "place_id": "0x89b6411590976563:0",
-    "name": "U DRIVE School of Motoring",
-    "address": "23430 Rock Haven Way #250",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:51.809273"
-  },
-  {
-    "place_id": "0x89b63d940b3831b9:0",
-    "name": "Crescent Driving School",
-    "address": "866 MacAlister Dr SE",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:49.747431"
-  },
-  {
-    "place_id": "0x89b6380a3aa3a26f:0",
-    "name": "AA Driving Academy, Inc.",
-    "address": "1043 Sterling Rd #101",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:47.697164"
-  },
-  {
-    "place_id": "0x42a440c040055569:0",
-    "name": "Nova Driving School",
-    "address": "44330 Mercure Cir",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:45.182978"
-  },
-  {
-    "place_id": "0x89b63d3f5e74329d:0",
-    "name": "Street SMART Driving Academy, LLC",
-    "address": "161 Fort Evans Rd NE suit 250",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:44.012259"
-  },
-  {
-    "place_id": "0x89b63dc88db92ecb:0",
-    "name": "Safe Road Driving Academy",
-    "address": "722 E Market St",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:41.847087"
-  },
-  {
-    "place_id": "0x89b637683f94dfc7:0",
-    "name": "Huntington Learning Center Herndon",
-    "address": "366 Elden St",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:39.776701"
-  },
-  {
-    "place_id": "0x89b6410eb3cddd0b:0",
-    "name": "Best Brains Learning Center - South Riding",
-    "address": "",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:37.709551"
-  },
-  {
-    "place_id": "0x89b641e0063bb117:0",
-    "name": "GeniusInYou - AOS/AET/TJ prep + youth public speaking",
-    "address": "43251 Hattontown Woods Terrace",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:35.227846"
-  },
-  {
-    "place_id": "0x89b6377c8441f2d3:0",
-    "name": "C2 Education of Sterling",
-    "address": "",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:33.967661"
-  },
-  {
-    "place_id": "0x89b63ed6ca65cde5:0",
-    "name": "MyExamsPrep",
-    "address": "44075 Pipeline Plaza #105",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:31.867827"
-  },
-  {
-    "place_id": "0x89b63f2a0409b743:0",
-    "name": "Best Brains Learning Center - Ashburn",
-    "address": "",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:29.714386"
   }
 ]
