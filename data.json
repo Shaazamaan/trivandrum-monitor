@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05e847d0f814bd:0",
+    "name": "Kaduvayil super bazar",
+    "address": "Closes 11 PM",
+    "category": "Open",
+    "phone": "+91 89211 54088",
+    "website": null,
+    "discovered_at": "2026-11-16 14:53:45.242564"
+  },
+  {
+    "place_id": "0x3b05e9adcb238b0f:0",
+    "name": "Next Home Appliances Service and Second Sales",
+    "address": "Attingal",
+    "category": "Second hand store",
+    "phone": "+91 95264 24643",
+    "website": null,
+    "discovered_at": "2026-11-16 14:53:43.999075"
+  },
+  {
+    "place_id": "0x3b05e9cf0d8271ff:0",
+    "name": "NEW WORLD FURNISHING",
+    "address": "Opens 8:30 AM Tue",
+    "category": "Closed",
+    "phone": "+91 99477 32123",
+    "website": null,
+    "discovered_at": "2026-11-16 14:53:42.733051"
+  },
+  {
+    "place_id": "0x3b05e83435a09d5d:0",
+    "name": "Jain Chakra Furniture Enterprises LLP",
+    "address": "8:30 PM",
+    "category": "Closes soon",
+    "phone": "+91 92071 29944",
+    "website": null,
+    "discovered_at": "2026-11-16 14:53:41.419032"
+  },
+  {
+    "place_id": "0x3b05e8119733ec4f:0",
+    "name": "MOULDED FURNITURE",
+    "address": "QR85+FV9, Kallambalam - Nagaroor Rd",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 14:53:40.144095"
+  },
+  {
+    "place_id": "0x3ba7cdbb47da47cd:0",
+    "name": "CSWA : CA & CS Asaripadi, Angadipuram,",
+    "address": "CSWA BHAVAN",
+    "category": "Certified public accountant",
+    "phone": "+91 85903 11304",
+    "website": null,
+    "discovered_at": "2026-11-16 14:53:38.878884"
+  },
+  {
     "place_id": "0x3b05c1d88ce00da1:0",
     "name": "BuildHUB",
     "address": "",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 21:12:49.451253"
-  },
-  {
-    "place_id": "0x872b6c6c7e0168f1:0",
-    "name": "XZ CPA PLLC",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:47.225410"
-  },
-  {
-    "place_id": "0x872b6d562c784053:0",
-    "name": "Larry B. Betts, CPA",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:44.759329"
-  },
-  {
-    "place_id": "0x872b090227bfce7f:0",
-    "name": "The Accounting & Tax Firm",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:43.491317"
-  },
-  {
-    "place_id": "0x872b0d57865ce58d:0",
-    "name": "Harlan Schneider & Associates, CPA",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:41.200659"
-  },
-  {
-    "place_id": "0x872b74157ebfffff:0",
-    "name": "Tudor Financial Group, LLC",
-    "address": "",
-    "category": "Tax consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:38.680912"
-  },
-  {
-    "place_id": "0x872b05c108852b5d:0",
-    "name": "Heidenreich & Heidenreich, CPAs, PLLC",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:37.364980"
   }
 ]
