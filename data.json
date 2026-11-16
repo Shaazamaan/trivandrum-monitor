@@ -1,5 +1,311 @@
 [
   {
+    "place_id": "0x3b05b97c03916f85:0",
+    "name": "Dr N Vijayakumar's Institute of Ayurveda",
+    "address": "Doctors Garden",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 94470 12754",
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:43.115757"
+  },
+  {
+    "place_id": "0x880e2da582fdf2fd:0",
+    "name": "Fabulous Weddings/ Events",
+    "address": "306 W Erie St",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:41.910013"
+  },
+  {
+    "place_id": "0x880e2d48acb17bef:0",
+    "name": "Ivan Carlson Event Design",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:40.639748"
+  },
+  {
+    "place_id": "0x880e2d47d3abbdc1:0",
+    "name": "Kehoe Designs",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:39.426449"
+  },
+  {
+    "place_id": "0x880fd2d8fd2672b1:0",
+    "name": "Engaging Events by Ali",
+    "address": "1467 N Elston Ave",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:38.255464"
+  },
+  {
+    "place_id": "0x880e2df04138eb0f:0",
+    "name": "PartySlate",
+    "address": "351 W Hubbard St Ste 400",
+    "category": "Event technology service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:37.081873"
+  },
+  {
+    "place_id": "0x880fd31c47c7e0d5:0",
+    "name": "K & K Celebrates",
+    "address": "509 W Armitage Ave",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:33.737162"
+  },
+  {
+    "place_id": "0x880e2dfb22ed9441:0",
+    "name": "PC Events and Experiences LLC",
+    "address": "216 S Jefferson St Ste 102",
+    "category": "Event management company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:32.548867"
+  },
+  {
+    "place_id": "0x880e1de8cf9831bd:0",
+    "name": "Classy Creations By Catrina",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:30.967828"
+  },
+  {
+    "place_id": "0x880e2ca49c988073:0",
+    "name": "DS Events",
+    "address": "27 E Monroe St",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:29.207749"
+  },
+  {
+    "place_id": "0x880fd3178732ff4b:0",
+    "name": "mPower Residential Brokerage",
+    "address": "1901 S Calumet Ave Unit 1607",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:27.202846"
+  },
+  {
+    "place_id": "0x880e2c7955a31a27:0",
+    "name": "Centurion Realty & Estates",
+    "address": "1932 S Wabash Ave C1",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:25.975676"
+  },
+  {
+    "place_id": "0x880e2b582e81aba5:0",
+    "name": "Urban Real Estate",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:24.514082"
+  },
+  {
+    "place_id": "0x880e2de9f0d800bf:0",
+    "name": "Blue Door Dave Real Estate",
+    "address": "58 E 26th St",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:23.282313"
+  },
+  {
+    "place_id": "0x880e2c81b81bab33:0",
+    "name": "Tom Campone Real Estate | South Loop",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:22.113168"
+  },
+  {
+    "place_id": "0x880e2da23d7c7157:0",
+    "name": "MediCar Safety",
+    "address": "2058 N Western Ave",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:20.846324"
+  },
+  {
+    "place_id": "0x880e2d26a1813007:0",
+    "name": "INNOVATION DRIVING SCHOOL",
+    "address": "3637 S Halsted St",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:19.657339"
+  },
+  {
+    "place_id": "0x880e2c9981c6f69f:0",
+    "name": "Fit Results",
+    "address": "",
+    "category": "Personal trainer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:18.402252"
+  },
+  {
+    "place_id": "0x880e2c9701e75e49:0",
+    "name": "Clark Street Community Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:17.129328"
+  },
+  {
+    "place_id": "0x880e2c9a8aec701f:0",
+    "name": "FFC South Loop",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:15.928650"
+  },
+  {
+    "place_id": "0x880e2d84baa2b131:0",
+    "name": "GeeFit Training Club",
+    "address": "2127 S Wabash Ave",
+    "category": "Personal trainer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:14.738251"
+  },
+  {
+    "place_id": "0x880e2c8466ac5b89:0",
+    "name": "Phenomenal Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:13.554373"
+  },
+  {
+    "place_id": "0x8815fc80a2add2b3:0",
+    "name": "6002 The Salon @ Professional Village",
+    "address": "",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:12.226771"
+  },
+  {
+    "place_id": "0x8815e3107955fef7:0",
+    "name": "First Impressions Salon",
+    "address": "",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:10.996107"
+  },
+  {
+    "place_id": "0x880e2d00721731bd:0",
+    "name": "Mary Beauty Salon & Spa",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:09.733858"
+  },
+  {
+    "place_id": "0x880e2c8473b7ce2f:0",
+    "name": "Salon Heaven & Spa",
+    "address": "1505 S Michigan Ave 2nd floor",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:08.517703"
+  },
+  {
+    "place_id": "0x880e2fd571465a8d:0",
+    "name": "Opulence Beauty Co.",
+    "address": "68 E 21st St",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:07.324253"
+  },
+  {
+    "place_id": "0x880e2de5c2e9d07b:0",
+    "name": "Ann’s Beauty House LLC",
+    "address": "2248 S Canal St #1st",
+    "category": "Eyelash salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:06.143187"
+  },
+  {
+    "place_id": "0x880e2c977b82b951:0",
+    "name": "Totto’s Market",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:04.947252"
+  },
+  {
+    "place_id": "0x880e2c9adf41af97:0",
+    "name": "Jewel-Osco",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:03.395867"
+  },
+  {
+    "place_id": "0x880e2c9b069a3169:0",
+    "name": "Trader Joe's",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:02.202771"
+  },
+  {
+    "place_id": "0x880e2d65815c56fd:0",
+    "name": "South Loop Market",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:53:00.785607"
+  },
+  {
+    "place_id": "0x880e2c9b506b61e5:0",
+    "name": "Go Grocer",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:52:59.616206"
+  },
+  {
+    "place_id": "0x880e31468f14545d:0",
+    "name": "Fort Pitt Hotel Furniture Liquidators",
+    "address": "",
+    "category": "Used furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:52:58.336213"
+  },
+  {
     "place_id": "0x865cf78be0d0c4f9:0",
     "name": "Cindy’s Chic Boutique",
     "address": "",
@@ -8692,311 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 02:40:32.437439"
-  },
-  {
-    "place_id": "0x87ecb386cca90d21:0",
-    "name": "Nishna Valley Dental",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:31.149888"
-  },
-  {
-    "place_id": "0x87e5e1944ed7d051:0",
-    "name": "Lifetime Dental Solutions",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:29.886193"
-  },
-  {
-    "place_id": "0x87ec86929f4450b9:0",
-    "name": "Greenfield Dental",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:28.549103"
-  },
-  {
-    "place_id": "0x40fe66110ab7d8d1:0",
-    "name": "SOULCASA",
-    "address": "Closes 10 PM",
-    "category": "Open",
-    "phone": "+91 87677 92690",
-    "website": null,
-    "discovered_at": "2026-11-16 02:30:42.231525"
-  },
-  {
-    "place_id": "0x3b05bf9ffde3c07d:0",
-    "name": "Amballoor Ayurvedics & Vaidyaratnam Agency",
-    "address": "Sainik School, P.O",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:30:40.965146"
-  },
-  {
-    "place_id": "0x3b05cf6a43072ae3:0",
-    "name": "King Of Design Interior",
-    "address": "P2FH+9V7",
-    "category": "Interior designer",
-    "phone": "+91 99475 55222",
-    "website": null,
-    "discovered_at": "2026-11-16 02:22:34.758370"
-  },
-  {
-    "place_id": "0x3b05c52ca348d063:0",
-    "name": "Mobile Care",
-    "address": "Pangode Near rose medicals Pangode",
-    "category": "Mobile phone repair shop",
-    "phone": "+91 80868 08686",
-    "website": null,
-    "discovered_at": "2026-11-16 02:22:33.494079"
-  },
-  {
-    "place_id": "0x3b05c48fa10954f3:0",
-    "name": "Greens Mobiles",
-    "address": "Vamanapuram - Chittar Rd",
-    "category": "Cell phone store",
-    "phone": "+91 95395 92932",
-    "website": null,
-    "discovered_at": "2026-11-16 02:22:32.276399"
-  },
-  {
-    "place_id": "0x3b05cf6a0c61eb53:0",
-    "name": "J.R. Medicals",
-    "address": "P2CH+WH7, Palode - Peringammala Rd",
-    "category": "Pharmacy",
-    "phone": "+91 94470 24781",
-    "website": null,
-    "discovered_at": "2026-11-16 02:22:30.995579"
-  },
-  {
-    "place_id": "0x3b05bf0b7619a0eb:0",
-    "name": "Sibi Kasim & Associates",
-    "address": "CASA IRIS, 3/859/2",
-    "category": "Chartered accountant",
-    "phone": "+91 81368 18020",
-    "website": null,
-    "discovered_at": "2026-11-16 02:13:16.568109"
-  },
-  {
-    "place_id": "0x3b05b9000d87991b:0",
-    "name": "Renuka K and Associates",
-    "address": "GXP9+R97",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:13:15.343748"
-  },
-  {
-    "place_id": "0x89b63f41154f8db7:0",
-    "name": "DecorbyRadhya",
-    "address": "20251 Millstead Dr",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:13:14.029842"
-  },
-  {
-    "place_id": "0x3b062b09aaaaaaab:0",
-    "name": "Interio interiors",
-    "address": "opposite Eden Eye Hospital Thekkumgopuram near boat jetty, Thirunakkara S Rd",
-    "category": "Interior designer",
-    "phone": "+91 89213 21750",
-    "website": null,
-    "discovered_at": "2026-11-16 02:13:12.871202"
-  },
-  {
-    "place_id": "0x3b05c1007aaefddb:0",
-    "name": "Niya's Provisional Stores",
-    "address": "MWH4+CJH, Attingal Rd",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:13:11.683780"
-  },
-  {
-    "place_id": "0x3b05c1ca25f63ef5:0",
-    "name": "Palliyara Bakery",
-    "address": "Palliyara Bakery, opposite Gokulam Medical College",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:05:31.682992"
-  },
-  {
-    "place_id": "0x3b05eb9669efc3cb:0",
-    "name": "SM Traders (Grocery and Cattle Feeds)",
-    "address": "MQ5M+H7P",
-    "category": "Convenience store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 01:58:31.880666"
-  },
-  {
-    "place_id": "0x3b05bb782f436ebf:0",
-    "name": "Babu Store Wholesale and Retail",
-    "address": "28",
-    "category": "Grocery store",
-    "phone": "+91 88483 21053",
-    "website": null,
-    "discovered_at": "2026-11-16 01:50:15.272747"
-  },
-  {
-    "place_id": "0x3b05bb09bccb1f1d:0",
-    "name": "Prime Hypermarket",
-    "address": "Arattuvazhi, Junction",
-    "category": "Convenience store",
-    "phone": "+91 90723 05260",
-    "website": null,
-    "discovered_at": "2026-11-16 01:50:14.121619"
-  },
-  {
-    "place_id": "0x3b05bb19c8d79be9:0",
-    "name": "Bismi Restaurant",
-    "address": "",
-    "category": "Biryani restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 01:50:12.861703"
-  },
-  {
-    "place_id": "0x3b05b90a628d7365:0",
-    "name": "Tuition for English - Anjana S",
-    "address": "Anjana', VNRA A2, Mannarakonam - Thoppumukku Rd, opposite Nirmithi kendra",
-    "category": "Education center",
-    "phone": "+91 99464 44326",
-    "website": null,
-    "discovered_at": "2026-11-16 01:42:02.927563"
-  },
-  {
-    "place_id": "0x3b05bb0a21029e99:0",
-    "name": "Parakkat Jewels Trivandrum",
-    "address": "Opens 9:30 AM",
-    "category": "Closed",
-    "phone": "+91 88481 30338",
-    "website": null,
-    "discovered_at": "2026-11-16 01:33:45.351530"
-  },
-  {
-    "place_id": "0x3b05c18bd4b1073d:0",
-    "name": "RJ MINI SUPER MARKET",
-    "address": "JVCH+47Q, Pachira Keezhavoor Rd",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 01:26:16.119749"
-  },
-  {
-    "place_id": "0x3b05bf973af04061:0",
-    "name": "T.Sat diagnostic centre",
-    "address": "Closes 5:30 PM",
-    "category": "Open",
-    "phone": "+91 62388 24161",
-    "website": null,
-    "discovered_at": "2026-11-16 01:26:14.886396"
-  },
-  {
-    "place_id": "0x3b05ad005cd968af:0",
-    "name": "Sana family restaurant",
-    "address": "C58R+3XV, Parassala Vellarada Rd",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 01:19:09.613848"
-  },
-  {
-    "place_id": "0x3b05b1dfc58cc745:0",
-    "name": "MEHFIL Travels, Kattakada",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 01:19:08.406137"
-  },
-  {
-    "place_id": "0x3b05bbd0754c0c29:0",
-    "name": "Phoenix Tour and Travels",
-    "address": "",
-    "category": "Travel agency",
-    "phone": "+91 93877 57347",
-    "website": null,
-    "discovered_at": "2026-11-16 01:19:07.173968"
-  },
-  {
-    "place_id": "0x3b05a906438e326f:0",
-    "name": "Eden Backwaters Poovar - A Journey Through Paradise",
-    "address": "",
-    "category": "Boat club",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 01:12:05.940871"
-  },
-  {
-    "place_id": "0x3b05a94589c5679b:0",
-    "name": "Poovar Holidays - Plan a day in poovar",
-    "address": "",
-    "category": "Boat club",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 01:12:04.766888"
-  },
-  {
-    "place_id": "0x3b080d9226ce9791:0",
-    "name": "Event Bowtie",
-    "address": "34/691, N H Road",
-    "category": "Event management company",
-    "phone": "+91 96331 56156",
-    "website": null,
-    "discovered_at": "2026-11-16 01:12:03.556611"
-  },
-  {
-    "place_id": "0x3ba637d53c2d85fd:0",
-    "name": "Exponic Events- Hindu Wedding Planner",
-    "address": "",
-    "category": "Event planner",
-    "phone": "+91 99469 21999",
-    "website": null,
-    "discovered_at": "2026-11-16 01:12:02.385972"
-  },
-  {
-    "place_id": "0x3b080ddad501ac7f:0",
-    "name": "Floral Wedding Stage Decoration & Event Planner",
-    "address": "+91 89070 06655",
-    "category": "Open 24 hours",
-    "phone": "+91 89070 06655",
-    "website": null,
-    "discovered_at": "2026-11-16 01:12:01.228281"
-  },
-  {
-    "place_id": "0x3b05a9000000131d:0",
-    "name": "Dews Graphics & Signage",
-    "address": "Poovar - Vizhinjam Rd, near Angel's High School",
-    "category": "Graphic designer",
-    "phone": "+91 86100 84022",
-    "website": null,
-    "discovered_at": "2026-11-16 01:12:00.073227"
-  },
-  {
-    "place_id": "0x3b0810807738896f:0",
-    "name": "Surya Event",
-    "address": "Nandhikulangara vaniyakkad road",
-    "category": "Event planner",
-    "phone": "+91 99474 82774",
-    "website": null,
-    "discovered_at": "2026-11-16 01:11:58.768255"
-  },
-  {
-    "place_id": "0x3ba7f03a4fb531b7:0",
-    "name": "DECORAY DESIGNS",
-    "address": "48/1716, Thattil Arcade, Olarikkara",
-    "category": "Interior construction contractor",
-    "phone": "+91 91881 55870",
-    "website": null,
-    "discovered_at": "2026-11-16 01:11:57.615731"
   }
 ]
