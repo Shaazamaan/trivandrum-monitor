@@ -1,5 +1,230 @@
 [
   {
+    "place_id": "0x808fcaab9c12e725:0",
+    "name": "Gap Factory",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:38.904635"
+  },
+  {
+    "place_id": "0x808fcd086b5ebd23:0",
+    "name": "Marshalls",
+    "address": "330 N Capitol Ave",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:37.689004"
+  },
+  {
+    "place_id": "0x808e32a15386a0d1:0",
+    "name": "Aéropostale",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:36.461323"
+  },
+  {
+    "place_id": "0x808fcd086cb23485:0",
+    "name": "Ross Dress for Less",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:35.184864"
+  },
+  {
+    "place_id": "0x808fcd5d1e33ed0f:0",
+    "name": "dd's DISCOUNTS",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:33.982161"
+  },
+  {
+    "place_id": "0x808fcec970147b11:0",
+    "name": "Banana Republic Factory Store",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:32.722112"
+  },
+  {
+    "place_id": "0x808e33d60a416b3b:0",
+    "name": "iCustom Oakridge",
+    "address": "",
+    "category": "Custom t-shirt store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:31.507073"
+  },
+  {
+    "place_id": "0x808fcb1f93589c81:0",
+    "name": "Gap",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:30.181740"
+  },
+  {
+    "place_id": "0x808e33d6047ac985:0",
+    "name": "Hidden Hype",
+    "address": "",
+    "category": "Men's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:28.986501"
+  },
+  {
+    "place_id": "0x808e33d601b2fc31:0",
+    "name": "Windsor",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:27.677821"
+  },
+  {
+    "place_id": "0x808fcd6e7790aa5b:0",
+    "name": "El Rodeó Menswear",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:26.368171"
+  },
+  {
+    "place_id": "0x808fcb1e377a50b9:0",
+    "name": "Nokwal",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:25.054066"
+  },
+  {
+    "place_id": "0x808fcd245bc32b27:0",
+    "name": "El Ranchero Western Wear",
+    "address": "",
+    "category": "Western apparel store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:23.791792"
+  },
+  {
+    "place_id": "0x808fcd5ce199a87f:0",
+    "name": "Hammer & Lewis",
+    "address": "",
+    "category": "Men's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:22.516266"
+  },
+  {
+    "place_id": "0x808fcb46edc0fcab:0",
+    "name": "Jeans Palace",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:20.888402"
+  },
+  {
+    "place_id": "0x808fcd323f3e3021:0",
+    "name": "Ella",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:19.622142"
+  },
+  {
+    "place_id": "0x808e33d5ca02b313:0",
+    "name": "Oakridge Veterinary Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:18.418910"
+  },
+  {
+    "place_id": "0x808fcb48e3038dd7:0",
+    "name": "ARCHVET Emergency Hospital",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:17.204755"
+  },
+  {
+    "place_id": "0x808e2fa527ad148b:0",
+    "name": "MedVet Silicon Valley",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:15.955961"
+  },
+  {
+    "place_id": "0x808fba0558b2a12f:0",
+    "name": "Costco Pharmacy",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:14.507555"
+  },
+  {
+    "place_id": "0x808fc9085354bc7b:0",
+    "name": "Tony Lau, PharmD (for Cisco employees only)",
+    "address": "3571 N First St #201",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:13.304662"
+  },
+  {
+    "place_id": "0x808fcbf7f75a99df:0",
+    "name": "Pharmacy | Kaiser Permanente Skyport Medical Offices",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:12.111612"
+  },
+  {
+    "place_id": "0x3b05bfc18efceb67:0",
+    "name": "NAASS ASSOCIATES TRAVELS & TOURS",
+    "address": "HRMV+RF3, Padinjattumukku - Channankara Rd",
+    "category": "Travel agency",
+    "phone": "+91 95629 95251",
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:10.898803"
+  },
+  {
+    "place_id": "0x3b05bfd44fc53d21:0",
+    "name": "Pavans Fashion Jewellers",
+    "address": "HV76+H3H",
+    "category": "Jewelry store",
+    "phone": "+91 99473 00385",
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:09.662715"
+  },
+  {
+    "place_id": "0x3b05bfc10d3e88f5:0",
+    "name": "whizz cafe",
+    "address": "Technopark Trivandrum, Ibs Campus",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:22:08.424450"
+  },
+  {
     "place_id": "0x3ba6378ac53b78cf:0",
     "name": "Mows - Office Space & Coworking",
     "address": "PP TOWER, Bapputty by pass",
@@ -8773,230 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:48:39.632393"
-  },
-  {
-    "place_id": "0x89b63efb97ac751d:0",
-    "name": "Robeks Fresh Juices & Smoothies",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:37.178393"
-  },
-  {
-    "place_id": "0x89b639bde28e7b1b:0",
-    "name": "South Block",
-    "address": "20327 Exchange St",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:35.925218"
-  },
-  {
-    "place_id": "0x89b7b9c5abd41a59:0",
-    "name": "CloudKitchens - Washington DC Union Market - Commercial kitchens",
-    "address": "2000 5th St NE",
-    "category": "Shared-use commercial kitchen",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:33.165247"
-  },
-  {
-    "place_id": "0x89b7b1ee46786f43:0",
-    "name": "CloudKitchens - Alexandria - Commercial kitchens",
-    "address": "1033 W Glebe Rd Rm 1",
-    "category": "Shared-use commercial kitchen",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:31.927058"
-  },
-  {
-    "place_id": "0x89b63847dada2abd:0",
-    "name": "El Paso Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:29.866403"
-  },
-  {
-    "place_id": "0x89b63f0338b10471:0",
-    "name": "TheCakeLab",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:27.763593"
-  },
-  {
-    "place_id": "0x89b6174a269c9dd7:0",
-    "name": "Dolce & Ciabatta Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:25.625840"
-  },
-  {
-    "place_id": "0x89b63f8037690efb:0",
-    "name": "Crumbl Cookies",
-    "address": "",
-    "category": "Cookie shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:23.222252"
-  },
-  {
-    "place_id": "0x89b63d7e708c3dc9:0",
-    "name": "Crumb and Clover Bake Shop",
-    "address": "641 Nathan Pl NE",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:21.982611"
-  },
-  {
-    "place_id": "0x89b639fd9b57b63d:0",
-    "name": "Dulce Tentacion Bakery, Sterling, VA",
-    "address": "126 Edds Ln",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:19.816546"
-  },
-  {
-    "place_id": "0x89b6410046791f83:0",
-    "name": "Paris Baguette",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:17.640972"
-  },
-  {
-    "place_id": "0x89b63df297244c39:0",
-    "name": "503 Bakery",
-    "address": "703 E Market St Apt B",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:15.196326"
-  },
-  {
-    "place_id": "0x89b6394e9645595f:0",
-    "name": "TOUS les JOURS Bakery Café - Sterling",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:14.011875"
-  },
-  {
-    "place_id": "0x89b639043accbe1d:0",
-    "name": "Woodman Bakery Co",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:12.832328"
-  },
-  {
-    "place_id": "0x89c80303dc572f93:0",
-    "name": "La Cosette - French Artisan Pastry Shop",
-    "address": "745 E Fort Ave",
-    "category": "Pastry shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:09.096711"
-  },
-  {
-    "place_id": "0x89b6390030f87e65:0",
-    "name": "Tatte Bakery & Cafe | Ashburn",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:07.860055"
-  },
-  {
-    "place_id": "0x89b63fd8a50bce69:0",
-    "name": "Ferry's Homemade",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:05.781471"
-  },
-  {
-    "place_id": "0x89b6398d974727f9:0",
-    "name": "Chimney Cake Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:03.740050"
-  },
-  {
-    "place_id": "0x4a2418c527af1cb1:0",
-    "name": "Fleen's",
-    "address": "20937 Ashburn Rd Ste 150",
-    "category": "Dessert shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:01.280550"
-  },
-  {
-    "place_id": "0x89b63d006c308447:0",
-    "name": "TOUS les JOURS Bakery Café - Ashburn",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:59.884539"
-  },
-  {
-    "place_id": "0x89b63f458b12eecd:0",
-    "name": "Four Season Pastry",
-    "address": "",
-    "category": "Pastry shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:57.741881"
-  },
-  {
-    "place_id": "0x864e71c0d9722f65:0",
-    "name": "Bread & Better Life Café",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:55.681451"
-  },
-  {
-    "place_id": "0x864e711b6863bb45:0",
-    "name": "Pax & Beneficia Coffee - Fort Worth",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:53.258696"
-  },
-  {
-    "place_id": "0x864e75af203af52f:0",
-    "name": "Portico Coffee",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:51.825825"
-  },
-  {
-    "place_id": "0x89b63deab28771e7:0",
-    "name": "SR Coffee Co",
-    "address": "940 Sycolin Rd Ste 145",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:49.671454"
   }
 ]
