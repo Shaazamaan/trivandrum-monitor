@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x876f3a8ad82bd047:0",
+    "name": "REMAX Capitol Properties",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:48:52.750931"
+  },
+  {
+    "place_id": "0x876f3ac3c8c59619:0",
+    "name": "Paramount Cafe",
+    "address": "",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:48:51.492741"
+  },
+  {
+    "place_id": "0x876f3b672b81ebaf:0",
+    "name": "Broadmoor East Veterinary Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:48:49.895195"
+  },
+  {
+    "place_id": "0x876f3a6c6b141ab7:0",
+    "name": "Avenues Pet Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:48:48.551913"
+  },
+  {
+    "place_id": "0x876f30a76838082d:0",
+    "name": "Cottonwood Veterinary Clinic LLC",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:48:47.305630"
+  },
+  {
+    "place_id": "0x876f3b1fa4744a9b:0",
+    "name": "Tri-State Veterinary Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:48:46.011441"
+  },
+  {
+    "place_id": "0x3b05bbaf6dedbaf7:0",
+    "name": "SS TRAVEL HUB",
+    "address": "",
+    "category": "Travel agency",
+    "phone": "+91 82898 94946",
+    "website": null,
+    "discovered_at": "2026-11-16 02:48:44.740858"
+  },
+  {
+    "place_id": "0x3b05bb0534bc38bd:0",
+    "name": "CR Builders",
+    "address": "CR Builders, Souparnika, CIT Rd",
+    "category": "Interior designer",
+    "phone": "+91 81294 27289",
+    "website": null,
+    "discovered_at": "2026-11-16 02:48:43.422001"
+  },
+  {
+    "place_id": "0x3b05bb00704b1589:0",
+    "name": "N K N STORE (Retail Merchant) SINCE 1959",
+    "address": "Closes 9:45 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:48:41.971800"
+  },
+  {
+    "place_id": "0x3b05bb77189ed2c7:0",
+    "name": "Fresh Ora",
+    "address": "Kochar Rd",
+    "category": "Produce market",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:48:40.694455"
+  },
+  {
     "place_id": "0x3b05ba505f0667c5:0",
     "name": "Govt Ayurveda College Panchakarma Hospital",
     "address": "",
@@ -8908,95 +8998,5 @@
     "phone": "+91 70255 69233",
     "website": null,
     "discovered_at": "2026-11-15 14:07:11.066369"
-  },
-  {
-    "place_id": "0x3b05bba32ef3d3f1:0",
-    "name": "Property For Sale trivandrum",
-    "address": "ambuja vilasom, road",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 14:07:09.882445"
-  },
-  {
-    "place_id": "0x3b05b096039ce66d:0",
-    "name": "Lady Max Beauty Parlour",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 14:07:08.400518"
-  },
-  {
-    "place_id": "0x3b05bb0ab04d1e61:0",
-    "name": "PARVATHY BEAUTY SALON & MAKEUP STUDIO",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 14:07:07.248936"
-  },
-  {
-    "place_id": "0x3b05bb520663e8bb:0",
-    "name": "Classic touch makeover studio karamana",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 14:07:06.097523"
-  },
-  {
-    "place_id": "0x3b05ba6b7d0f802d:0",
-    "name": "Bonita Beauty Care",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 14:07:04.924652"
-  },
-  {
-    "place_id": "0x3b05b94b867e1905:0",
-    "name": "Chalai Store",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 14:07:03.787117"
-  },
-  {
-    "place_id": "0x3b05ba504b3f34eb:0",
-    "name": "Margin Free Supermarket",
-    "address": "CRA276",
-    "category": "Supermarket",
-    "phone": "+91 94970 04020",
-    "website": null,
-    "discovered_at": "2026-11-15 14:07:02.640117"
-  },
-  {
-    "place_id": "0x3b05ba1f786a11c3:0",
-    "name": "City Light Selections",
-    "address": "GXFQ+J58",
-    "category": "Gift shop",
-    "phone": "+91 94461 41177",
-    "website": null,
-    "discovered_at": "2026-11-15 14:07:01.452781"
-  },
-  {
-    "place_id": "0x3b05bb002803839d:0",
-    "name": "Parsha Western Wear",
-    "address": "Tc no 22, 1897, Sasthamangalam - Pipinmoodu Rd",
-    "category": "Women's clothing store",
-    "phone": "+91 73565 10959",
-    "website": null,
-    "discovered_at": "2026-11-15 14:07:00.308198"
-  },
-  {
-    "place_id": "0x3b05bb4e5db11235:0",
-    "name": "Mithi'S Kitchen Homely Foods",
-    "address": "Opens 8 AM Mon",
-    "category": "Closed",
-    "phone": "+91 80752 31328",
-    "website": null,
-    "discovered_at": "2026-11-15 14:06:59.156070"
   }
 ]
