@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x40fe66110ab7d8d1:0",
+    "name": "SOULCASA",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": "+91 87677 92690",
+    "website": null,
+    "discovered_at": "2026-11-16 02:30:42.231525"
+  },
+  {
+    "place_id": "0x3b05bf9ffde3c07d:0",
+    "name": "Amballoor Ayurvedics & Vaidyaratnam Agency",
+    "address": "Sainik School, P.O",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:30:40.965146"
+  },
+  {
     "place_id": "0x3b05cf6a43072ae3:0",
     "name": "King Of Design Interior",
     "address": "P2FH+9V7",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 14:06:31.764531"
-  },
-  {
-    "place_id": "0x3b05bf916ee1ed55:0",
-    "name": "SUDHIN'S GYM",
-    "address": "Andoorkonam - Kattayikonam Rd",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 14:06:30.588700"
-  },
-  {
-    "place_id": "0x3b05c014ab50665f:0",
-    "name": "Champion International Gym",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 14:06:29.368153"
   }
 ]
