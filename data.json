@@ -1,5 +1,374 @@
 [
   {
+    "place_id": "0x3b05aff5ae4093db:0",
+    "name": "Zam Zam Thattukada",
+    "address": "C35F+V46 ZAM ZAM THATTUKADA, ARALIMOODU THIRUVANATHAPURAM ROAD, near ROLLANDS HOSPITAL",
+    "category": "Tea store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:29.776762"
+  },
+  {
+    "place_id": "0x3b05adde276e8bb1:0",
+    "name": "Abhi Store and Bakery",
+    "address": "C4F4+8GC",
+    "category": "Fruit parlor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:28.580561"
+  },
+  {
+    "place_id": "0x3b05af0011fcac99:0",
+    "name": "Loaf oaf bakers",
+    "address": "near csi church",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:27.351086"
+  },
+  {
+    "place_id": "0x3b05ad849c8866b5:0",
+    "name": "Cozy Cup",
+    "address": "Thulakkara Road",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:25.836799"
+  },
+  {
+    "place_id": "0x3b05afc89284dfa1:0",
+    "name": "SPR Family Restaurant",
+    "address": "NH, Main Rd",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:24.630077"
+  },
+  {
+    "place_id": "0x3b05afb4fa02ff21:0",
+    "name": "Rafi Multi Cuisine",
+    "address": "Balaramapuram - Poovar Rd",
+    "category": "Biryani restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:23.382036"
+  },
+  {
+    "place_id": "0x3b05b1b97237cb97:0",
+    "name": "Apollo Pharmacy Maranalloor",
+    "address": "Neyyattinkara Kattakkada Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:22.127298"
+  },
+  {
+    "place_id": "0x3b05ade22f915bf5:0",
+    "name": "Apollo Pharmacy Perumkadavila",
+    "address": "515, Savitha Building, Amaravila Ottasekharamangalam Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:20.920888"
+  },
+  {
+    "place_id": "0x3b05afabecc8c3f3:0",
+    "name": "Apollo Pharmacy Perumpazhuthoor",
+    "address": "13/21-2, Neyyattinkara Kattakkada Rd, near Indian Bank",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:19.714494"
+  },
+  {
+    "place_id": "0x3b05aeca779fb7d5:0",
+    "name": "Pallavi Hospital",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:17.773263"
+  },
+  {
+    "place_id": "0x3b05afc5fd22cd0d:0",
+    "name": "ANAND EYE HOSPITAL- CLEAR VISION CENTRE",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 88913 95895",
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:16.534142"
+  },
+  {
+    "place_id": "0x3b05e755d327a38d:0",
+    "name": "JJ Constructions & Consultancy",
+    "address": "Chathanpara",
+    "category": "Interior designer",
+    "phone": "+91 81291 56240",
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:15.301809"
+  },
+  {
+    "place_id": "0x3b05c11331cba1a5:0",
+    "name": "INDRAPRASTHA BUILDERS",
+    "address": "18, th Stone, NH Road",
+    "category": "Interior designer",
+    "phone": "+91 98476 11574",
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:14.086002"
+  },
+  {
+    "place_id": "0x3b05e9200e46ed8f:0",
+    "name": "REVEAL BUILDERS & DEVELOPERS (REJI)",
+    "address": "",
+    "category": "Construction company",
+    "phone": "+91 70126 74393",
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:12.872648"
+  },
+  {
+    "place_id": "0x3b05ebffaa47eaa5:0",
+    "name": "Enlight Special Tuition",
+    "address": "Angavila Junction",
+    "category": "Education center",
+    "phone": "+91 99460 04126",
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:11.665971"
+  },
+  {
+    "place_id": "0x3b05e9b60b9c523f:0",
+    "name": "LOGICS TUITION CENTRE",
+    "address": "Opens 7 AM Tue",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:10.287499"
+  },
+  {
+    "place_id": "0x3b05e9000479a761:0",
+    "name": "Elegant tution center",
+    "address": "MRVC+X43, BHS Road",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:09.067510"
+  },
+  {
+    "place_id": "0x3b05e9f7709e74bf:0",
+    "name": "Brains Academy",
+    "address": "Shop No 12, RJ Complex, BTS Rd",
+    "category": "Education center",
+    "phone": "+91 94953 18448",
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:07.840456"
+  },
+  {
+    "place_id": "0x3b05c13e5a8ab227:0",
+    "name": "STUDY ROOM : HOME NO-1(Guided by KARTHIK) Home Tuition & online Classes",
+    "address": "Saj, Tolmukku Rd",
+    "category": "Tutoring service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:06.292177"
+  },
+  {
+    "place_id": "0x3b05e9f8e789ed15:0",
+    "name": "UTEK EDUCATION",
+    "address": "",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:05.004877"
+  },
+  {
+    "place_id": "0x3b05e90006496a85:0",
+    "name": "Mist Makeup Studio",
+    "address": "PR48+Q57",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:03.560451"
+  },
+  {
+    "place_id": "0x3b05c1d7b10dbda9:0",
+    "name": "Marga Bazar",
+    "address": "Closes 11 PM",
+    "category": "Open",
+    "phone": "+91 75101 99990",
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:02.093202"
+  },
+  {
+    "place_id": "0x3b05e9c5170fb887:0",
+    "name": "Happy Mart",
+    "address": "Kochuvila jn",
+    "category": "Supermarket",
+    "phone": "+91 97468 98547",
+    "website": null,
+    "discovered_at": "2026-11-16 16:16:00.831410"
+  },
+  {
+    "place_id": "0x3b05e9594df141c7:0",
+    "name": "raza market @ AR PLAZA 2",
+    "address": "",
+    "category": "Supermarket",
+    "phone": "+91 88919 82263",
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:59.455189"
+  },
+  {
+    "place_id": "0x3b05e9f633de36a1:0",
+    "name": "Rose Jewels",
+    "address": "Ghss Junction, Palace Rd",
+    "category": "Jewelry store",
+    "phone": "+91 94475 84366",
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:58.223807"
+  },
+  {
+    "place_id": "0x3b05c3bf87d05661:0",
+    "name": "CELL FIX SERVICE HUB JEELANIYYA MOBILEs",
+    "address": "Cell Fix Service Hub, Geelaniyya Mobiles, Kilimanoor - Alamcode Rd",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 99954 09233",
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:56.948469"
+  },
+  {
+    "place_id": "0x3b05e9c3ac9bb88d:0",
+    "name": "Nath Communications Attingal",
+    "address": "AMC 11/837,Prathibha Trade centre, ,Nath Communications opp: private bus stand",
+    "category": "Electronics store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:55.631852"
+  },
+  {
+    "place_id": "0x3b05e9913d0dd62d:0",
+    "name": "Milana Apparels",
+    "address": "PR48+C52",
+    "category": "Women's clothing store",
+    "phone": "+91 80891 47998",
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:54.296473"
+  },
+  {
+    "place_id": "0x288b15f7d3815d97:0",
+    "name": "LABEL ISHIKA",
+    "address": "Opens 10:30 AM Tue",
+    "category": "Closed",
+    "phone": "+91 95444 36475",
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:53.004034"
+  },
+  {
+    "place_id": "0x3b05e90027106ddb:0",
+    "name": "PJJ FRUITS WHOLESALE & RETAIL",
+    "address": "PRH6+JPG",
+    "category": "Fruit parlor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:51.642408"
+  },
+  {
+    "place_id": "0x3b05e90025a196e5:0",
+    "name": "Aadhi's pathayapura organic juice & shakes",
+    "address": "Elappuram, Bus Stop, Mananakku-Kollampuzha-Attingal Rd",
+    "category": "Ice cream shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:50.389257"
+  },
+  {
+    "place_id": "0x3b05c1cf54a524d5:0",
+    "name": "JRS FRUITS & JUICE",
+    "address": "JRS FRUITS AND JUICE",
+    "category": "Fruit and vegetable store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:49.199607"
+  },
+  {
+    "place_id": "0x3b05ea1c31bc4509:0",
+    "name": "Aadis Pathayapura",
+    "address": "",
+    "category": "Organic shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:48.002072"
+  },
+  {
+    "place_id": "0x3b05eb005e4c3ac3:0",
+    "name": "Scoopso attingal",
+    "address": "MRMF+XMH",
+    "category": "Ice cream shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:46.699142"
+  },
+  {
+    "place_id": "0x3b05e939bfb93197:0",
+    "name": "Posh Bakers Attingal",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:45.404229"
+  },
+  {
+    "place_id": "0x3b05eb006a4dc24d:0",
+    "name": "Momsy bakes",
+    "address": "MRMF+FR2, Mamom Road",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:44.161885"
+  },
+  {
+    "place_id": "0x3b05e9b43e3605cb:0",
+    "name": "ALBAIK FEASTO EXPRESS",
+    "address": "Junction, opposite LPSchool",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:42.924809"
+  },
+  {
+    "place_id": "0x3b05e9487c4ee5d3:0",
+    "name": "OLD CENTRE HOTEL",
+    "address": "",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:41.705527"
+  },
+  {
+    "place_id": "0x3b05c13c28588d5f:0",
+    "name": "Grandeur Multicuisine Restaurant",
+    "address": "Closes 11 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:40.497593"
+  },
+  {
+    "place_id": "0x3b05e9f9e881266f:0",
+    "name": "RayMedi Clinic",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:39.084289"
+  },
+  {
+    "place_id": "0x3b05e94ae826ccd7:0",
+    "name": "Health Hub Medical center",
+    "address": "",
+    "category": "Medical Center",
+    "phone": "+91 77363 96263",
+    "website": null,
+    "discovered_at": "2026-11-16 16:15:37.850888"
+  },
+  {
     "place_id": "0x3b05efc01a4cef3b:0",
     "name": "Cliff Vista By Saash Hotels",
     "address": "Trivandrum",
@@ -8629,374 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 03:13:46.683194"
-  },
-  {
-    "place_id": "0x5498798ea906066b:0",
-    "name": "At Home",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:13:45.276946"
-  },
-  {
-    "place_id": "0x3b05bbf10ea9169d:0",
-    "name": "Captain Fix",
-    "address": "Kairali Complex",
-    "category": "Mobile phone repair shop",
-    "phone": "+91 99951 51202",
-    "website": null,
-    "discovered_at": "2026-11-16 03:13:43.998426"
-  },
-  {
-    "place_id": "0x3b05bb6bc0c564c3:0",
-    "name": "Fab Fort",
-    "address": "FWPR+8P5",
-    "category": "Textile exporter",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:13:42.700203"
-  },
-  {
-    "place_id": "0x549bcd1d1d0a963d:0",
-    "name": "VALLEY EYE & VISION",
-    "address": "",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:13:41.319611"
-  },
-  {
-    "place_id": "0x54995c2f2c379a35:0",
-    "name": "Ephrata Eye Care",
-    "address": "",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:13:40.003781"
-  },
-  {
-    "place_id": "0x3b086d4a5c00e3cb:0",
-    "name": "Fort Ayurveda",
-    "address": "Calvathy Rd, near Coast Gaurd",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 99617 72270",
-    "website": null,
-    "discovered_at": "2026-11-16 03:13:38.645506"
-  },
-  {
-    "place_id": "0x3b05bb242a607101:0",
-    "name": "star mobiles",
-    "address": "TC 12, 1381, RC St",
-    "category": "Mobile phone repair shop",
-    "phone": "+91 89212 27436",
-    "website": null,
-    "discovered_at": "2026-11-16 03:03:51.329958"
-  },
-  {
-    "place_id": "0x87ee9e553cba42eb:0",
-    "name": "Grand Avenue Veterinary Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:03:50.015271"
-  },
-  {
-    "place_id": "0x3b05bbbe62a8e6d1:0",
-    "name": "Suraj Medicals",
-    "address": "TC 27/2387",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:03:48.739305"
-  },
-  {
-    "place_id": "0x3b05bb7acca75ec5:0",
-    "name": "SK PRESTIGE AYURVEDA & SPA",
-    "address": "",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:03:47.025464"
-  },
-  {
-    "place_id": "0x3b05bbdd4f3c12e9:0",
-    "name": "Limraz chai",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:55:42.960793"
-  },
-  {
-    "place_id": "0x3b05bbbfb9c075a9:0",
-    "name": "Milano Ice Cream",
-    "address": "FXX6+M3R, All India Radio Rd",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:55:41.712198"
-  },
-  {
-    "place_id": "0x3b05bb0041207c43:0",
-    "name": "Pangode Arogya Medicals",
-    "address": "GX3C+W9F, SK Hospital Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:55:40.488517"
-  },
-  {
-    "place_id": "0x3b05bbdd0a1f75c9:0",
-    "name": "Florid Your Mattress Store",
-    "address": "SH45, opposite Income Tax Office",
-    "category": "Mattress store",
-    "phone": "+91 98465 22292",
-    "website": null,
-    "discovered_at": "2026-11-16 02:55:38.255691"
-  },
-  {
-    "place_id": "0x3b05bb5fdf466deb:0",
-    "name": "APPA KADA",
-    "address": "APPA KADA, near SALVATION ARMY SCHOOL",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:55:36.493326"
-  },
-  {
-    "place_id": "0x3b05bb550a816ae9:0",
-    "name": "Nayanas kitchen",
-    "address": "SH45",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:55:35.295558"
-  },
-  {
-    "place_id": "0x3b05bb003341dff5:0",
-    "name": "Arabian Palace Trivandrum",
-    "address": "Kowdiar.p.o, Shyja Plaza",
-    "category": "Arab restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:55:34.041339"
-  },
-  {
-    "place_id": "0x3b05bba5c157f601:0",
-    "name": "New building of regional eye hospital, tvml",
-    "address": "FWXR+R8C, Palayam Airport Rd",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:55:32.696463"
-  },
-  {
-    "place_id": "0x876f3a8ad82bd047:0",
-    "name": "REMAX Capitol Properties",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:48:52.750931"
-  },
-  {
-    "place_id": "0x876f3ac3c8c59619:0",
-    "name": "Paramount Cafe",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:48:51.492741"
-  },
-  {
-    "place_id": "0x876f3b672b81ebaf:0",
-    "name": "Broadmoor East Veterinary Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:48:49.895195"
-  },
-  {
-    "place_id": "0x876f3a6c6b141ab7:0",
-    "name": "Avenues Pet Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:48:48.551913"
-  },
-  {
-    "place_id": "0x876f30a76838082d:0",
-    "name": "Cottonwood Veterinary Clinic LLC",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:48:47.305630"
-  },
-  {
-    "place_id": "0x876f3b1fa4744a9b:0",
-    "name": "Tri-State Veterinary Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:48:46.011441"
-  },
-  {
-    "place_id": "0x3b05bbaf6dedbaf7:0",
-    "name": "SS TRAVEL HUB",
-    "address": "",
-    "category": "Travel agency",
-    "phone": "+91 82898 94946",
-    "website": null,
-    "discovered_at": "2026-11-16 02:48:44.740858"
-  },
-  {
-    "place_id": "0x3b05bb0534bc38bd:0",
-    "name": "CR Builders",
-    "address": "CR Builders, Souparnika, CIT Rd",
-    "category": "Interior designer",
-    "phone": "+91 81294 27289",
-    "website": null,
-    "discovered_at": "2026-11-16 02:48:43.422001"
-  },
-  {
-    "place_id": "0x3b05bb00704b1589:0",
-    "name": "N K N STORE (Retail Merchant) SINCE 1959",
-    "address": "Closes 9:45 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:48:41.971800"
-  },
-  {
-    "place_id": "0x3b05bb77189ed2c7:0",
-    "name": "Fresh Ora",
-    "address": "Kochar Rd",
-    "category": "Produce market",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:48:40.694455"
-  },
-  {
-    "place_id": "0x3b05ba505f0667c5:0",
-    "name": "Govt Ayurveda College Panchakarma Hospital",
-    "address": "",
-    "category": "Hospital department",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:53.957549"
-  },
-  {
-    "place_id": "0x87eea3e6af5bcfcb:0",
-    "name": "Davis CPA Solutions LLC",
-    "address": "1033 Green Hills Dr",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:52.662789"
-  },
-  {
-    "place_id": "0x8824b7a5f408cb8d:0",
-    "name": "Jaya Travel & Tours",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:51.363980"
-  },
-  {
-    "place_id": "0x87eebfbc90cbe9c7:0",
-    "name": "Sea-nic Adventures Travel & Tours",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:50.152031"
-  },
-  {
-    "place_id": "0x87ec2385ebf35867:0",
-    "name": "HM Events",
-    "address": "Opens 9 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:48.918902"
-  },
-  {
-    "place_id": "0x6102c5adbee46ec9:0",
-    "name": "Daisy Events Decor",
-    "address": "Opens 8 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:47.686047"
-  },
-  {
-    "place_id": "0x52b33272feee5ac9:0",
-    "name": "Rocket Science Events",
-    "address": "Opens 10 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:46.391562"
-  },
-  {
-    "place_id": "0x864c25f160f7b633:0",
-    "name": "Styled in White Events",
-    "address": "Opens 9 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:45.164998"
-  },
-  {
-    "place_id": "0x61d5e4d3b5254b01:0",
-    "name": "Ten Fifteen Events",
-    "address": "Opens 9 AM Tue",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:43.914077"
-  },
-  {
-    "place_id": "0x8f23f9e72fca36bb:0",
-    "name": "Alora Party Planning",
-    "address": "Opens 9 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:42.673032"
-  },
-  {
-    "place_id": "0xfaa4384a48dbad7:0",
-    "name": "ASPIRE Event Management",
-    "address": "Opens 8:30 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:41.229192"
-  },
-  {
-    "place_id": "0x87ac914fae4b531b:0",
-    "name": "Events by Jenna",
-    "address": "Opens 8 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:39.981263"
-  },
-  {
-    "place_id": "0x87eea1cebb358f4f:0",
-    "name": "Midwest Meets Design",
-    "address": "Opens 9 AM Mon",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 02:40:38.772853"
   }
 ]
