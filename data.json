@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x808fcb1e50555555:0",
+    "name": "Westfield Valley Fair",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:04:50.861666"
+  },
+  {
+    "place_id": "0x808fcdb55544b111:0",
+    "name": "Jeans Palace",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 15:04:49.637391"
+  },
+  {
+    "place_id": "0x3b05bef6b333cf89:0",
+    "name": "ABUDHABI MOBILES-BRANCH -1",
+    "address": "Technopark, Attinkuzhi Rd",
+    "category": "Electronics store",
+    "phone": "+91 90483 84891",
+    "website": null,
+    "discovered_at": "2026-11-16 15:04:48.388629"
+  },
+  {
+    "place_id": "0x3b05bf97e1017ac7:0",
+    "name": "Dent Inn Dental Clinic , Near Bismi Poultry Farm,Kaniyapuram - Chirayinkeezhu Road,Kaniyapuram P.O",
+    "address": "Near Bismi Poultry Farm, Kaniyapuram Kaniyapuram - Chirayinkeezhu Road (Approx: 150 meters",
+    "category": "Dental clinic",
+    "phone": "+91 99469 69576",
+    "website": null,
+    "discovered_at": "2026-11-16 15:04:47.014222"
+  },
+  {
     "place_id": "0x3b05e847d0f814bd:0",
     "name": "Kaduvayil super bazar",
     "address": "Closes 11 PM",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 21:12:58.530009"
-  },
-  {
-    "place_id": "0x872b7328171f9ad1:0",
-    "name": "FACET CPA PLC",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:57.266194"
-  },
-  {
-    "place_id": "0x872b12c71861eba5:0",
-    "name": "Aprio",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:54.778521"
-  },
-  {
-    "place_id": "0x872b0ad3fe64eda7:0",
-    "name": "Haga Kommer LTD",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:50.697919"
-  },
-  {
-    "place_id": "0x872b743ef94b89c1:0",
-    "name": "CFO on Call's",
-    "address": "",
-    "category": "Tax consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:49.451253"
   }
 ]
