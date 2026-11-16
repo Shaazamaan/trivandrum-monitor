@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05c649b81d3e49:0",
+    "name": "JEELANI DRIVING SCHOOL",
+    "address": "Panavoor - Puthenpalam Rd",
+    "category": "Driving school",
+    "phone": "+91 99956 66108",
+    "website": null,
+    "discovered_at": "2026-11-16 07:51:10.426732"
+  },
+  {
+    "place_id": "0x3b05bb03d4120f03:0",
+    "name": "Vivid Foods & Events",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": "+91 70129 77225",
+    "website": null,
+    "discovered_at": "2026-11-16 07:51:09.273222"
+  },
+  {
+    "place_id": "0x3b05c92ad0af1757:0",
+    "name": "Eventmanagement",
+    "address": "+91 95397 77847",
+    "category": "Temporarily closed",
+    "phone": "+91 95397 77847",
+    "website": null,
+    "discovered_at": "2026-11-16 07:51:08.026399"
+  },
+  {
+    "place_id": "0x3b05c90019589fb9:0",
+    "name": "Roadarikathu Veedu",
+    "address": "M3GP+43Q",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 07:51:06.872288"
+  },
+  {
     "place_id": "0x3b05c1ae8ff2ef2b:0",
     "name": "Art world",
     "address": "first floor, Atlas building, Attingal Rd, near Harsha paints",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:52:29.714386"
-  },
-  {
-    "place_id": "0x89b6392b4fb29b4d:0",
-    "name": "C2 Education of Ashburn",
-    "address": "",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:27.617076"
-  },
-  {
-    "place_id": "0x89b641a6b9b4c205:0",
-    "name": "Huntington Learning Center South Riding",
-    "address": "",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:26.459220"
-  },
-  {
-    "place_id": "0x89b63bfc1bf60ddb:0",
-    "name": "Eye Level Learning Center of Ashburn-North",
-    "address": "",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:23.276574"
-  },
-  {
-    "place_id": "0x89b63eb178fd5655:0",
-    "name": "Huntington Learning Center Ashburn",
-    "address": "44031 Ashburn Shopping Plaza",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:22.006108"
   }
 ]
