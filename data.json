@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bb242a607101:0",
+    "name": "star mobiles",
+    "address": "TC 12, 1381, RC St",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 89212 27436",
+    "website": null,
+    "discovered_at": "2026-11-16 03:03:51.329958"
+  },
+  {
+    "place_id": "0x87ee9e553cba42eb:0",
+    "name": "Grand Avenue Veterinary Hospital",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 03:03:50.015271"
+  },
+  {
+    "place_id": "0x3b05bbbe62a8e6d1:0",
+    "name": "Suraj Medicals",
+    "address": "TC 27/2387",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 03:03:48.739305"
+  },
+  {
+    "place_id": "0x3b05bb7acca75ec5:0",
+    "name": "SK PRESTIGE AYURVEDA & SPA",
+    "address": "",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 03:03:47.025464"
+  },
+  {
     "place_id": "0x3b05bbdd4f3c12e9:0",
     "name": "Limraz chai",
     "address": "Opens 9 AM",
@@ -8962,41 +8998,5 @@
     "phone": "+91 94473 09527",
     "website": null,
     "discovered_at": "2026-11-15 14:22:33.807867"
-  },
-  {
-    "place_id": "0x3b05bb1ea139bd77:0",
-    "name": "Dev Pharma",
-    "address": "FX85+MX2 dev pharma",
-    "category": "Pharmacy",
-    "phone": "+91 98959 60306",
-    "website": null,
-    "discovered_at": "2026-11-15 14:22:32.343337"
-  },
-  {
-    "place_id": "0x3b05bb11434d2761:0",
-    "name": "K M Medicals",
-    "address": "kamalesawaram, po",
-    "category": "Pharmacy",
-    "phone": "+91 99959 53259",
-    "website": null,
-    "discovered_at": "2026-11-15 14:22:31.076708"
-  },
-  {
-    "place_id": "0x3b05bb204f951207:0",
-    "name": "AMBADY MEDICALS",
-    "address": "SHOP NO.1, DRUGS, opposite DOMESTIC AIRPORT",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 14:22:29.833075"
-  },
-  {
-    "place_id": "0x3b05bbea496fe4bd:0",
-    "name": "Aswas community pharmacy",
-    "address": "Aswas community pharmacy",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 14:22:28.579040"
   }
 ]
