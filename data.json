@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c18bd4b1073d:0",
+    "name": "RJ MINI SUPER MARKET",
+    "address": "JVCH+47Q, Pachira Keezhavoor Rd",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 01:26:16.119749"
+  },
+  {
+    "place_id": "0x3b05bf973af04061:0",
+    "name": "T.Sat diagnostic centre",
+    "address": "Closes 5:30 PM",
+    "category": "Open",
+    "phone": "+91 62388 24161",
+    "website": null,
+    "discovered_at": "2026-11-16 01:26:14.886396"
+  },
+  {
     "place_id": "0x3b05ad005cd968af:0",
     "name": "Sana family restaurant",
     "address": "C58R+3XV, Parassala Vellarada Rd",
@@ -8980,23 +8998,5 @@
     "phone": "+91 94467 94565",
     "website": null,
     "discovered_at": "2026-11-15 13:36:29.277687"
-  },
-  {
-    "place_id": "0x3b05b9ac0905e8db:0",
-    "name": "Fashion Textiles",
-    "address": "Market junction",
-    "category": "Clothing store",
-    "phone": "+91 96452 31027",
-    "website": null,
-    "discovered_at": "2026-11-15 13:36:28.100461"
-  },
-  {
-    "place_id": "0x3b05b9133cce04fb:0",
-    "name": "AARON",
-    "address": "JX3W+2G2",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:36:26.849341"
   }
 ]
