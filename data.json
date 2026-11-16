@@ -1,5 +1,104 @@
 [
   {
+    "place_id": "0x3b059500141ff497:0",
+    "name": "G Designer Boutique",
+    "address": "Veli - Perumathura Rd",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 21:43:08.699009"
+  },
+  {
+    "place_id": "0x3b05bf001a816bc1:0",
+    "name": "Hueman Clothing store",
+    "address": "HVQ5+W2F",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 21:43:07.533238"
+  },
+  {
+    "place_id": "0x3b05a527f64d2611:0",
+    "name": "The Butter Cup",
+    "address": "Pachalloor Punkulam Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 21:43:06.309429"
+  },
+  {
+    "place_id": "0x3b05b90013909a69:0",
+    "name": "Pink petals physiotheraphy clinic",
+    "address": "HX3V+GQM",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 21:43:05.122219"
+  },
+  {
+    "place_id": "0x3b05b92b4b8e95d5:0",
+    "name": "FORTIS physiotherapy clinic vattapara",
+    "address": "",
+    "category": "Physical therapist",
+    "phone": "+91 79027 72585",
+    "website": null,
+    "discovered_at": "2026-11-16 21:43:03.918592"
+  },
+  {
+    "place_id": "0x3b05bbae24f064c3:0",
+    "name": "Forward Brain & Spine Rehab",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": "+91 79944 66226",
+    "website": null,
+    "discovered_at": "2026-11-16 21:43:02.667782"
+  },
+  {
+    "place_id": "0x3b05bb228f31c1d7:0",
+    "name": "Paravankunnu, nilamaroad, manacaud p o",
+    "address": "FX64+W5X, Kalippankulam Rd",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 21:43:01.431738"
+  },
+  {
+    "place_id": "0x3b05bb0066375581:0",
+    "name": "Chemprampurhoor house",
+    "address": "Tc42/67-1, CLRA-73,74, Cheppil lane, po",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 21:43:00.259266"
+  },
+  {
+    "place_id": "0x3b05bb69f0425a7d:0",
+    "name": "Club Fitness",
+    "address": "Opens 5:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 21:42:58.971893"
+  },
+  {
+    "place_id": "0x3b05bb4777847e9f:0",
+    "name": "Jus' Bake by Rameesa",
+    "address": "NKRA 11, Neelatinkara Kallattumukku",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 21:42:57.828451"
+  },
+  {
+    "place_id": "0x3b05bb763f53fa31:0",
+    "name": "DENTISTREE DENTAL CLINIC & IMPLANT CENTER",
+    "address": "Jn, Attakulangara - Enchakkal Rd, near vayalil hotel",
+    "category": "Dental clinic",
+    "phone": "+91 81379 22935",
+    "website": null,
+    "discovered_at": "2026-11-16 21:42:56.673697"
+  },
+  {
     "place_id": "0x89b645ff09eb60ed:0",
     "name": "VASH Vacations - Cruise Planners",
     "address": "",
@@ -8899,104 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 06:07:19.081427"
-  },
-  {
-    "place_id": "0x880e2cbf216b5fe7:0",
-    "name": "Expansive West Loop",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:07:17.893342"
-  },
-  {
-    "place_id": "0x880e2cbc9d4207af:0",
-    "name": "Expansive The Loop",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:07:15.825602"
-  },
-  {
-    "place_id": "0x880e49833d334c07:0",
-    "name": "Enclave Coworking",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:07:14.650107"
-  },
-  {
-    "place_id": "0x880e2cb741b10f6f:0",
-    "name": "Expansive Wacker",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:07:13.474337"
-  },
-  {
-    "place_id": "0x880e2d98383b0851:0",
-    "name": "Hera Hub Chicago",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:07:12.290722"
-  },
-  {
-    "place_id": "0x880e2fe63c0b1753:0",
-    "name": "New City Co-Working",
-    "address": "709 W 47th St",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:07:11.101804"
-  },
-  {
-    "place_id": "0x880e2dd71592aa9f:0",
-    "name": "Expansive Pru",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:07:09.888297"
-  },
-  {
-    "place_id": "0x880fd23c4438ff1b:0",
-    "name": "Platform Coworking",
-    "address": "4422 N Ravenswood Ave",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:07:08.522323"
-  },
-  {
-    "place_id": "0x880fd3f3fbfe9c19:0",
-    "name": "Expansive - North Center",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:07:07.316844"
-  },
-  {
-    "place_id": "0x880fd1f95c7acbcf:0",
-    "name": "Office805",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:07:06.088477"
-  },
-  {
-    "place_id": "0x880e291957b7d1d5:0",
-    "name": "Luster Legacy Travel Agency",
-    "address": "1507 E 53rd St",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:07:04.896147"
   }
 ]
