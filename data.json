@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c9d5c3fa978f:0",
+    "name": "Chempakasserry House",
+    "address": "Kottiyathara Rd, near Govt Hospital",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:05:10.242549"
+  },
+  {
     "place_id": "0x3b059500141ff497:0",
     "name": "G Designer Boutique",
     "address": "Veli - Perumathura Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 06:07:20.322179"
-  },
-  {
-    "place_id": "0x880fd3a878563373:0",
-    "name": "DeskLabs",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:07:19.081427"
   }
 ]
