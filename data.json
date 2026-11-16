@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x865c5d629a9c31dd:0",
+    "name": "Austin Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 23:02:13.730851"
+  },
+  {
+    "place_id": "0x3b05b95795a5e14b:0",
+    "name": "Desire Medi Spa",
+    "address": "luxury suits, 8th Floor, Casa in, Chirakkulam Rd",
+    "category": "Spa",
+    "phone": "+91 62829 29853",
+    "website": null,
+    "discovered_at": "2026-11-16 23:02:12.520330"
+  },
+  {
+    "place_id": "0x3b05bb630c338dc5:0",
+    "name": "OLE SPA",
+    "address": "GX23+88G Branch Office, Bakery Jct Rd, opp. Reserve Bank of India",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 23:02:11.260790"
+  },
+  {
+    "place_id": "0x865cf5e558c1e65f:0",
+    "name": "Hiatus Day Spa • Med Spa",
+    "address": "",
+    "category": "Medical spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 23:02:09.969116"
+  },
+  {
+    "place_id": "0x865cf5f69fc7a383:0",
+    "name": "Hiatus Day Spa • Med Spa",
+    "address": "",
+    "category": "Day spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 23:02:08.677041"
+  },
+  {
+    "place_id": "0x865c5f78e542c0b5:0",
+    "name": "Anytime Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 23:02:07.456665"
+  },
+  {
+    "place_id": "0x865c599bcae975b9:0",
+    "name": "La Popular Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 23:02:06.158064"
+  },
+  {
     "place_id": "0x3b05bbc8f20deda3:0",
     "name": "Vr realtors",
     "address": "Keston Enclave Rd, opp. Raj Bhavan Road",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 09:14:43.720806"
-  },
-  {
-    "place_id": "0x3b05ef1681a287d7:0",
-    "name": "Threads and Gems by Zan",
-    "address": "Parayil school road, near joshis super market",
-    "category": "Dress store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 09:14:42.491713"
-  },
-  {
-    "place_id": "0x3b080d0b17f3151f:0",
-    "name": "CommAce Commerce Tuition Trivandrum",
-    "address": "",
-    "category": "Education center",
-    "phone": "+91 62824 52833",
-    "website": null,
-    "discovered_at": "2026-11-16 08:51:47.879296"
-  },
-  {
-    "place_id": "0x87ee999e53fd1c71:0",
-    "name": "Double Dragon Food Market",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:43:12.611625"
-  },
-  {
-    "place_id": "0x87ee9921b4c333cf:0",
-    "name": "Rock Valley Physical Therapy - Des Moines - Ingersoll",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:43:11.376906"
-  },
-  {
-    "place_id": "0x87ee99d5e129c0c9:0",
-    "name": "DMU Clinic — Physical Therapy",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:43:10.149629"
-  },
-  {
-    "place_id": "0x87ee994980bdfe7f:0",
-    "name": "UnityPoint Health Physical Therapy and Rehabilitation Services – Methodist",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:43:08.878053"
-  },
-  {
-    "place_id": "0x3b05bb962d598209:0",
-    "name": "Maheen & Associates",
-    "address": "Near, Residency Rd Over Brg",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:21:20.371881"
   }
 ]
