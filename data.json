@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05ef29ae136233:0",
+    "name": "Super Bakery & Cool Bar",
+    "address": "PPMG+X57, Madathara Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 03:29:55.430636"
+  },
+  {
+    "place_id": "0x3b05b95efe18a193:0",
+    "name": "ELANZA CAR SPA",
+    "address": "near Dr Giris Clinic, opp. J P medicals",
+    "category": "Car wash",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 03:29:54.264408"
+  },
+  {
+    "place_id": "0x3b05be9b6845ca15:0",
+    "name": "Fresh Juice",
+    "address": "Road",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 03:29:53.111278"
+  },
+  {
+    "place_id": "0x3b05bf005657e14f:0",
+    "name": "Chavadimukku",
+    "address": "Manvila Industrial Estate, Sreekaryam - Kulathoor Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 03:29:51.820830"
+  },
+  {
     "place_id": "0x3b05bbd75e413181:0",
     "name": "PATHU'S KITCHEN",
     "address": "KPRA 65(A, TKD Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:45:46.193392"
-  },
-  {
-    "place_id": "0x89b644e3332217d3:0",
-    "name": "U.S. Dermatology Partners Sterling VA",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:45:44.793205"
-  },
-  {
-    "place_id": "0x89b6460088eb9cd3:0",
-    "name": "Clinical Skin Center",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:45:43.554580"
-  },
-  {
-    "place_id": "0x89b63c0616a50585:0",
-    "name": "Ashburn Laser & Skincare MedSpa",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:45:42.244892"
-  },
-  {
-    "place_id": "0x89b63c0b5b7c06eb:0",
-    "name": "Nova Derm Institute™",
-    "address": "",
-    "category": "Medical spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:45:41.048026"
   }
 ]
