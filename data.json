@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb2d072ae317:0",
+    "name": "KL 01 Restaurant",
+    "address": "Hospital Rd",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:00:44.296824"
+  },
+  {
     "place_id": "0x54987ac4f1ec021d:0",
     "name": "PorterKinney, PC",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:56:29.215912"
-  },
-  {
-    "place_id": "0x865c8d5d372fdb27:0",
-    "name": "Texas Smoothies and Wraps",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:26.491789"
   }
 ]
