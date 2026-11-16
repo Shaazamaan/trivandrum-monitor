@@ -1,5 +1,248 @@
 [
   {
+    "place_id": "0x87ee99652ee9a927:0",
+    "name": "Pink Pineapple Travel Co",
+    "address": "5715 Rose Ave",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:51.121187"
+  },
+  {
+    "place_id": "0x878dfbfb76900001:0",
+    "name": "Extra Touch Tours",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:49.602806"
+  },
+  {
+    "place_id": "0x8793235d67de5967:0",
+    "name": "Four Seasons Travel",
+    "address": "1119 7th St",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:48.377416"
+  },
+  {
+    "place_id": "0x4fb3e6435cebd987:0",
+    "name": "Flawless Spaces Interior Design",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:47.134383"
+  },
+  {
+    "place_id": "0x886b53a62f34e397:0",
+    "name": "Hoskins Interior Design",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:45.934339"
+  },
+  {
+    "place_id": "0x864c111a3126fcad:0",
+    "name": "LD Design Co",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:44.550078"
+  },
+  {
+    "place_id": "0x8811a5482e2c874f:0",
+    "name": "Blanket Fort Project",
+    "address": "1 E Dunes Hwy",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:43.322485"
+  },
+  {
+    "place_id": "0x864e73bf63620e73:0",
+    "name": "Maven",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:42.078929"
+  },
+  {
+    "place_id": "0x864e7d7097a6a5b5:0",
+    "name": "Jessica McIntyre Interiors",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:40.821675"
+  },
+  {
+    "place_id": "0x864e7d00efaf3441:0",
+    "name": "Adrienne Morgan Interior Design",
+    "address": "Opens 9 AM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:39.579976"
+  },
+  {
+    "place_id": "0xa27a4c6e9c5ef97:0",
+    "name": "J. House & Co.",
+    "address": "2421 W 7th St #350",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:38.317471"
+  },
+  {
+    "place_id": "0x864dd636323bd8dd:0",
+    "name": "Urbanology Designs",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:37.032936"
+  },
+  {
+    "place_id": "0x864e0d39f7062a63:0",
+    "name": "Pressley Design & Co - Decorating Den Interiors",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:35.813213"
+  },
+  {
+    "place_id": "0x8814b339f35e19ff:0",
+    "name": "Home & Willow Design",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:34.587835"
+  },
+  {
+    "place_id": "0x87ee9fd8ea52baa5:0",
+    "name": "Des Moines Prenatal Massage",
+    "address": "850 18th St Ste B",
+    "category": "Medical spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:33.325594"
+  },
+  {
+    "place_id": "0x87ee9eba8c265961:0",
+    "name": "Look young be Fit Iowa",
+    "address": "",
+    "category": "Facial spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:32.069719"
+  },
+  {
+    "place_id": "0x87ee9ec522d014fb:0",
+    "name": "Transformations",
+    "address": "908 42nd St",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:30.813551"
+  },
+  {
+    "place_id": "0x87ee9f57470e8d6b:0",
+    "name": "The Parlor DSM",
+    "address": "213 4th St",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:29.486168"
+  },
+  {
+    "place_id": "0x87eea2128ef9b48b:0",
+    "name": "Chu Hairstyling & Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:28.281797"
+  },
+  {
+    "place_id": "0x87ee9ed6914b374d:0",
+    "name": "Axis Salon Studio of Des Moines.",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:27.005611"
+  },
+  {
+    "place_id": "0x87ee98fd6be93473:0",
+    "name": "Elevencherry Salon",
+    "address": "",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:25.780558"
+  },
+  {
+    "place_id": "0x87ee9bbac57737ff:0",
+    "name": "Adeya Renea Hair And Beauty Bar",
+    "address": "",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:24.526670"
+  },
+  {
+    "place_id": "0x87ee99746520a12b:0",
+    "name": "Latino's Beauty Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:23.112739"
+  },
+  {
+    "place_id": "0x87eea2eaf4e5fdc5:0",
+    "name": "Marshalls",
+    "address": "1111 E Army Post Rd",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:21.889862"
+  },
+  {
+    "place_id": "0x87cbb3edec096ff1:0",
+    "name": "Fort Smith Veterinary Wellness and Urgent Care",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:20.371947"
+  },
+  {
+    "place_id": "0x87ca4d6ad79143d3:0",
+    "name": "Fort Smith Veterinary Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:19.108075"
+  },
+  {
+    "place_id": "0x864dd92b0f630237:0",
+    "name": "Azure Eye Center",
+    "address": "",
+    "category": "Ophthalmologist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:24:17.834495"
+  },
+  {
     "place_id": "0x3b05bbccc56fb7a1:0",
     "name": "Fascino Fitness",
     "address": "",
@@ -8755,248 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:57:28.468537"
-  },
-  {
-    "place_id": "0x865c5f4ca9cb2acf:0",
-    "name": "Maruka Fashion Boutique",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:27.228343"
-  },
-  {
-    "place_id": "0x865cf5a477981a17:0",
-    "name": "Capri by Sunset & Co.",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:24.725924"
-  },
-  {
-    "place_id": "0x865cf57309c0a269:0",
-    "name": "Penny Lane Boutique",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:23.485054"
-  },
-  {
-    "place_id": "0x865cf513ab8acb77:0",
-    "name": "Adelante Boutique",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:21.113222"
-  },
-  {
-    "place_id": "0x865cf5f2580b8a0f:0",
-    "name": "La Casa Frida",
-    "address": "2202 Broadway",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:18.762719"
-  },
-  {
-    "place_id": "0x865c61f039017b2b:0",
-    "name": "The Collective Boutiques San Antonio",
-    "address": "522 Northwest Loop 410 Ste 211",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:17.559009"
-  },
-  {
-    "place_id": "0x865cf74bdc0b3f51:0",
-    "name": "forget me not",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:15.177845"
-  },
-  {
-    "place_id": "0x865c593628fe60f3:0",
-    "name": "Bohemian Gemme",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:12.526287"
-  },
-  {
-    "place_id": "0x865cf5a0343c2897:0",
-    "name": "Scout and Molly's Boutique Quarry Village",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:11.288369"
-  },
-  {
-    "place_id": "0x865cf55e07d9f637:0",
-    "name": "Hemline San Antonio",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:08.680906"
-  },
-  {
-    "place_id": "0x865c5b88c55dfaf5:0",
-    "name": "Pretty Little Gems Boutique",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:07.481685"
-  },
-  {
-    "place_id": "0x865cf59ee41220a5:0",
-    "name": "Defiant Boutique",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:06.288838"
-  },
-  {
-    "place_id": "0x865c59bfb67a1171:0",
-    "name": "Villa Tesoros",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:02.598040"
-  },
-  {
-    "place_id": "0x865c5f5acb22bc6b:0",
-    "name": "606",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:01.347012"
-  },
-  {
-    "place_id": "0x865cf675323ba1d3:0",
-    "name": "Melrose Family Fashions",
-    "address": "",
-    "category": "Department store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:59.110652"
-  },
-  {
-    "place_id": "0x865c58aa91580159:0",
-    "name": "Buckle",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:56.822673"
-  },
-  {
-    "place_id": "0x865c58aa9dad2cbd:0",
-    "name": "francesca's",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:55.570059"
-  },
-  {
-    "place_id": "0x865cf6767c2d3c45:0",
-    "name": "Tall Tees N More",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:52.638411"
-  },
-  {
-    "place_id": "0x865c58aa981694d3:0",
-    "name": "H&M",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:51.410425"
-  },
-  {
-    "place_id": "0x865c590a4f1ec227:0",
-    "name": "Rainbow Shops",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:49.102706"
-  },
-  {
-    "place_id": "0x865c5f4d4d9580af:0",
-    "name": "Penner's",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:46.664311"
-  },
-  {
-    "place_id": "0x865c61fa087ffcc1:0",
-    "name": "Famous Juice Company",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:45.425259"
-  },
-  {
-    "place_id": "0x865cf5c05f19ccfd:0",
-    "name": "Tropical Smoothie Cafe",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:43.138338"
-  },
-  {
-    "place_id": "0x865c8d2dd8dc1c71:0",
-    "name": "Tropical Smoothie Cafe",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:40.483548"
-  },
-  {
-    "place_id": "0x865c89f5f5d51e4b:0",
-    "name": "Smoothies Extreme Nutrition & Oxygen Bar",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:39.228133"
-  },
-  {
-    "place_id": "0x865c6722e148e29b:0",
-    "name": "Juice",
-    "address": "11745 I-10 #118",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:36.957502"
-  },
-  {
-    "place_id": "0x865c610a595b5111:0",
-    "name": "Jugo Acai & Juice Bar",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:35.720170"
   }
 ]
