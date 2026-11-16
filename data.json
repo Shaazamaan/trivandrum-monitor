@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x808fc9df949fcba5:0",
+    "name": "Sai Travels",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:29:52.888621"
+  },
+  {
+    "place_id": "0x808e351955555555:0",
+    "name": "Amiri Travel Services.",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:29:50.613283"
+  },
+  {
+    "place_id": "0x808e327d3003aea7:0",
+    "name": "Let's Travel",
+    "address": "",
+    "category": "Cruise agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:29:49.410919"
+  },
+  {
+    "place_id": "0x808fb65ee67040a3:0",
+    "name": "Sunnyvale Travel",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:29:48.172489"
+  },
+  {
+    "place_id": "0x808fc9884ce27a2b:0",
+    "name": "Marisan Travel Ltd",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:29:46.972595"
+  },
+  {
+    "place_id": "0x808e34cc67c6e2c1:0",
+    "name": "Cyrus Travel",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:29:45.785279"
+  },
+  {
+    "place_id": "0x3b05bb3bb502dfa1:0",
+    "name": "Smart supermarket",
+    "address": "",
+    "category": "Supermarket",
+    "phone": "+91 86067 21564",
+    "website": null,
+    "discovered_at": "2026-11-16 13:29:44.535395"
+  },
+  {
     "place_id": "0x3b05b99d6c9f7e4f:0",
     "name": "Chempaka Gymnasium",
     "address": "",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 21:02:11.921250"
-  },
-  {
-    "place_id": "0x876f3aeb65d2a647:0",
-    "name": "Buckle",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:02:10.646990"
-  },
-  {
-    "place_id": "0x876f3a512a550401:0",
-    "name": "Zumiez",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:02:09.360697"
-  },
-  {
-    "place_id": "0x876f3baad4fe5a51:0",
-    "name": "Ross Dress for Less",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:02:07.916436"
-  },
-  {
-    "place_id": "0x876f3cab5b3d5b27:0",
-    "name": "Sierra",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:02:06.682308"
-  },
-  {
-    "place_id": "0x876f3b5d2c86be47:0",
-    "name": "Murdoch's Ranch & Home Supply",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:02:05.375716"
-  },
-  {
-    "place_id": "0x876f3a559ef99b2d:0",
-    "name": "Plato's Closet",
-    "address": "",
-    "category": "Used clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:02:04.123342"
-  },
-  {
-    "place_id": "0x876f3a56eca1c915:0",
-    "name": "T.J. Maxx",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:02:02.826121"
   }
 ]
