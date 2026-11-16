@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb782f436ebf:0",
+    "name": "Babu Store Wholesale and Retail",
+    "address": "28",
+    "category": "Grocery store",
+    "phone": "+91 88483 21053",
+    "website": null,
+    "discovered_at": "2026-11-16 01:50:15.272747"
+  },
+  {
+    "place_id": "0x3b05bb09bccb1f1d:0",
+    "name": "Prime Hypermarket",
+    "address": "Arattuvazhi, Junction",
+    "category": "Convenience store",
+    "phone": "+91 90723 05260",
+    "website": null,
+    "discovered_at": "2026-11-16 01:50:14.121619"
+  },
+  {
+    "place_id": "0x3b05bb19c8d79be9:0",
+    "name": "Bismi Restaurant",
+    "address": "",
+    "category": "Biryani restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 01:50:12.861703"
+  },
+  {
     "place_id": "0x3b05b90a628d7365:0",
     "name": "Tuition for English - Anjana S",
     "address": "Anjana', VNRA A2, Mannarakonam - Thoppumukku Rd, opposite Nirmithi kendra",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 13:36:35.347495"
-  },
-  {
-    "place_id": "0x3b05b93a4b3f5665:0",
-    "name": "World Market",
-    "address": "J222+FG3, Unnamed Road",
-    "category": "Market",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:36:34.036418"
-  },
-  {
-    "place_id": "0x3b05b8045cfc00d3:0",
-    "name": "Prince Hallmark jewellery",
-    "address": "J243+85X",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:36:32.851980"
-  },
-  {
-    "place_id": "0x3b05b8104af75099:0",
-    "name": "Life Phone",
-    "address": "8 PM",
-    "category": "Closes soon",
-    "phone": "+91 97469 30220",
-    "website": null,
-    "discovered_at": "2026-11-15 13:36:31.641311"
   }
 ]
