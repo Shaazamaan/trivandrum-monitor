@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bbf3f9aa3873:0",
+    "name": "insta cafe aristo",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 19:21:34.171557"
+  },
+  {
+    "place_id": "0x3b05baee8f3e9f01:0",
+    "name": "Sight Opticals",
+    "address": "FX9J+W7H",
+    "category": "Eye care center",
+    "phone": "+91 98474 09096",
+    "website": null,
+    "discovered_at": "2026-11-16 19:21:32.981726"
+  },
+  {
+    "place_id": "0x3b05bb02465b9c47:0",
+    "name": "Chaithanya eye care main gate",
+    "address": "Kunjalumoodu Jn, To, Karamana Main Road, opp. Star Auditorium, near Chelsa Hospital",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 19:21:31.748894"
+  },
+  {
     "place_id": "0x872b73d3bd562d71:0",
     "name": "McAvoy & Toel Tax Advisors",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 05:22:14.507555"
-  },
-  {
-    "place_id": "0x808fc9085354bc7b:0",
-    "name": "Tony Lau, PharmD (for Cisco employees only)",
-    "address": "3571 N First St #201",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 05:22:13.304662"
-  },
-  {
-    "place_id": "0x808fcbf7f75a99df:0",
-    "name": "Pharmacy | Kaiser Permanente Skyport Medical Offices",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 05:22:12.111612"
-  },
-  {
-    "place_id": "0x3b05bfc18efceb67:0",
-    "name": "NAASS ASSOCIATES TRAVELS & TOURS",
-    "address": "HRMV+RF3, Padinjattumukku - Channankara Rd",
-    "category": "Travel agency",
-    "phone": "+91 95629 95251",
-    "website": null,
-    "discovered_at": "2026-11-16 05:22:10.898803"
   }
 ]
