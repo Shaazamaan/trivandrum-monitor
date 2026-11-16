@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b94990c6cd19:0",
+    "name": "Swagat Dental Centre",
+    "address": "behind Car Palace",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:33:27.296756"
+  },
+  {
+    "place_id": "0x54986dbc655fb03d:0",
+    "name": "Sunrise Veterinary Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:33:25.995848"
+  },
+  {
     "place_id": "0x87ee99652ee9a927:0",
     "name": "Pink Pineapple Travel Co",
     "address": "5715 Rose Ave",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:57:34.476084"
-  },
-  {
-    "place_id": "0x865c58a8dc6d7825:0",
-    "name": "Fiesta Couture",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:31.086002"
-  },
-  {
-    "place_id": "0x865c89beae1c1563:0",
-    "name": "Ms Chievious Boutique",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:57:28.468537"
   }
 ]
