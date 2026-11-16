@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c1ae8ff2ef2b:0",
+    "name": "Art world",
+    "address": "first floor, Atlas building, Attingal Rd, near Harsha paints",
+    "category": "Picture frame shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 07:43:28.472487"
+  },
+  {
     "place_id": "0x3b05c31cd2c78ac9:0",
     "name": "Revive Construction Hot mix Asphalt Plant",
     "address": "Njavelikonam Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:52:22.006108"
-  },
-  {
-    "place_id": "0x89b64687610c4d1f:0",
-    "name": "Sana Day Spa",
-    "address": "",
-    "category": "Facial spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:19.858775"
   }
 ]
