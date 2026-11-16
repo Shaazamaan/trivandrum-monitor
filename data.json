@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b701f4b751a7:0",
+    "name": "TURBO Travel Hub",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 01:02:52.729629"
+  },
+  {
     "place_id": "0x3b05ad408c0a6659:0",
     "name": "Golden Castle Restaurant",
     "address": "Golden Castle Restaurant Golden Palace, Junction, Amaravila-Karakonam Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 13:06:59.359336"
-  },
-  {
-    "place_id": "0x549909a355cb6913:0",
-    "name": "Royal Fitness 24/7",
-    "address": "336 Camelia St NE",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:58.032229"
   }
 ]
