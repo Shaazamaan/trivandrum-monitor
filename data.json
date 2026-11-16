@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05b97f456232e9:0",
+    "name": "Zebx Pharmaceuticals",
+    "address": "Medical College -P.O, Rk Donjon pongumoodu, Sreekaryam Road, near PHED Pump house",
+    "category": "Pharmaceutical company",
+    "phone": "+91 87141 08527",
+    "website": null,
+    "discovered_at": "2026-11-16 12:30:19.542723"
+  },
+  {
+    "place_id": "0x3b05b9034d3cc7e7:0",
+    "name": "Krishna medicals",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 98474 18585",
+    "website": null,
+    "discovered_at": "2026-11-16 12:30:18.242349"
+  },
+  {
+    "place_id": "0x3b05b946f83b58af:0",
+    "name": "V Care Walk-In Pharmacy",
+    "address": "TC 20/3598/3 Ground floor, Sarada Avenue, bus stop, near kottamugal",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:30:16.746121"
+  },
+  {
+    "place_id": "0x3b05becb41af06e3:0",
+    "name": "Nagarjuna Ayurveda Oushadhasala",
+    "address": "",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 12:30:15.377314"
+  },
+  {
+    "place_id": "0x3b05beadc5234e03:0",
+    "name": "Dr Jayahari's Ayurwealth Ayurveda Clinic",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": "+91 94472 43754",
+    "website": null,
+    "discovered_at": "2026-11-16 12:30:14.065267"
+  },
+  {
     "place_id": "0x3b05b923d596622b:0",
     "name": "Geosys IT Solution Pvt. Ltd.,",
     "address": "Mosque Lane",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 20:40:18.410125"
-  },
-  {
-    "place_id": "0x865c8d9a280118fd:0",
-    "name": "Scarlet Rose Events",
-    "address": "(517) 677-3452",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 20:40:17.120428"
-  },
-  {
-    "place_id": "0x865cf73656266acb:0",
-    "name": "VIP Event Planning",
-    "address": "3007 Rigsby Ave Ste 1401",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 20:40:15.835212"
-  },
-  {
-    "place_id": "0x6f25a6fb9dafea15:0",
-    "name": "Wedding Whisperer",
-    "address": "821 Evans Rd",
-    "category": "Wedding planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 20:40:14.559606"
-  },
-  {
-    "place_id": "0x865c8b371145643d:0",
-    "name": "Sweet Gardenia Weddings - San Antonio Wedding Planner",
-    "address": "10530 Starcrest Dr",
-    "category": "Wedding planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 20:40:13.298295"
-  },
-  {
-    "place_id": "0x865c7b56a2633ff9:0",
-    "name": "Savvy Southern Events",
-    "address": "6075 De Zavala Rd Ste. K",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 20:40:12.091274"
   }
 ]
