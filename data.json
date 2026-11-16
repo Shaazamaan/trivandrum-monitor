@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05b923d596622b:0",
+    "name": "Geosys IT Solution Pvt. Ltd.,",
+    "address": "Mosque Lane",
+    "category": "Software company",
+    "phone": "+91 99461 00059",
+    "website": null,
+    "discovered_at": "2026-11-16 12:22:35.961168"
+  },
+  {
+    "place_id": "0x3b05b984e5454311:0",
+    "name": "COMMERCE HUB by RESHMI PM",
+    "address": "opposite PUNJAB BANK",
+    "category": "Education center",
+    "phone": "+91 88489 38721",
+    "website": null,
+    "discovered_at": "2026-11-16 12:22:34.654244"
+  },
+  {
+    "place_id": "0x3b05b908a4a7c615:0",
+    "name": "Nanma Margin Free Medicals and surgicals store",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 62824 46003",
+    "website": null,
+    "discovered_at": "2026-11-16 12:22:33.398756"
+  },
+  {
+    "place_id": "0x3b05bdb7ae4b44b9:0",
+    "name": "Multy Supermarket",
+    "address": "GWC7+X7J",
+    "category": "Grocery store",
+    "phone": "+91 73066 84434",
+    "website": null,
+    "discovered_at": "2026-11-16 12:22:32.159475"
+  },
+  {
     "place_id": "0x808e32bdde62a61f:0",
     "name": "International Travel San Jose",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 20:40:12.091274"
-  },
-  {
-    "place_id": "0x865c610a30b24bf9:0",
-    "name": "All In The Details Events",
-    "address": "16845 Blanco Rd #205",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 20:40:10.780612"
-  },
-  {
-    "place_id": "0x865c5f0ab2227643:0",
-    "name": "A Better Fete",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 20:40:09.399811"
-  },
-  {
-    "place_id": "0x865cf5f6d1ce7a7f:0",
-    "name": "Something About Turquoise Event Planning",
-    "address": "522 Avenue A",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 20:40:08.160143"
-  },
-  {
-    "place_id": "0x865c8d74fc0bc32d:0",
-    "name": "Eyes On Texas Vision Care",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 20:40:06.855248"
   }
 ]
