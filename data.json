@@ -1,5 +1,680 @@
 [
   {
+    "place_id": "0x3b0615fa8ae0e1c3:0",
+    "name": "Wenyu Event Planners private limited",
+    "address": "",
+    "category": "Event planner",
+    "phone": "+91 80864 36207",
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:23.330423"
+  },
+  {
+    "place_id": "0x3b0675267de3b273:0",
+    "name": "Unique Wedding’s Event Planners",
+    "address": "",
+    "category": "Event management company",
+    "phone": "+91 80862 53151",
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:21.404496"
+  },
+  {
+    "place_id": "0x3b05bf000302191f:0",
+    "name": "Channankara Kandavila",
+    "address": "HRVH+QH2",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:20.232570"
+  },
+  {
+    "place_id": "0x3b0595da771555c7:0",
+    "name": "Kandavila, kadinamkulam",
+    "address": "HRXF+CMW My Home, kandavila",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:18.872299"
+  },
+  {
+    "place_id": "0x3b05eb004accabd3:0",
+    "name": "Mahesh Ponnittuvilakom House",
+    "address": "Kadinamkulam Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:17.710413"
+  },
+  {
+    "place_id": "0x3b04f17a8951d817:0",
+    "name": "Mahara jothi Real Estate In Nagercoil, Kanyakumari",
+    "address": "5CHF+CJW, Opposite to collectorate, 169C, Kottar-Parvathipuram Rd, opposite to Collectorate, above Sastha Studio",
+    "category": "Real estate agency",
+    "phone": "+91 78118 77522",
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:16.556368"
+  },
+  {
+    "place_id": "0x3b0595d49ac76daf:0",
+    "name": "Kochukodumkalloor road, kadinamkulam",
+    "address": "SHAH manzil, kochukodungalloor road",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:15.243281"
+  },
+  {
+    "place_id": "0x3b05eb007f894edd:0",
+    "name": "Adhersh house",
+    "address": "JR66+R32, St Michael's Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:14.077099"
+  },
+  {
+    "place_id": "0x3b0595007732588d:0",
+    "name": "NN HOUSE, KADINAMKULAM",
+    "address": "JR46+CVW, Puthucurichy Convent Road",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:12.855244"
+  },
+  {
+    "place_id": "0x3b0595006542f739:0",
+    "name": "Smiles Land",
+    "address": "JR27+P9Q, Veli - Perumathura Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:11.653186"
+  },
+  {
+    "place_id": "0x3b04f12c5dc68c7b:0",
+    "name": "REAL ESTATE IN NAGERCOIL --- LPPROMOTERS",
+    "address": "9/10 THERKU",
+    "category": "Real estate agency",
+    "phone": "+91 94868 76543",
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:10.493362"
+  },
+  {
+    "place_id": "0x3b059530f09648cb:0",
+    "name": "Choorakkuzhy",
+    "address": "JR37+JMW",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:08.173231"
+  },
+  {
+    "place_id": "0x3b05950079ea6593:0",
+    "name": "Jjas Villa",
+    "address": "JR45+MP5, Puthukurichy Beach Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:06.971094"
+  },
+  {
+    "place_id": "0x3b0603b654e96951:0",
+    "name": "Acora Real Estate",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:05.814434"
+  },
+  {
+    "place_id": "0x3b059500001ce0c7:0",
+    "name": "Saphalyam house",
+    "address": "JR47+79F, Mundanchira Road",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:04.591630"
+  },
+  {
+    "place_id": "0x3b0595c6e0a18b4d:0",
+    "name": "A.L.D House Shanthipuram",
+    "address": "HRRC+V9J",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:03.289683"
+  },
+  {
+    "place_id": "0x3b059538c7593731:0",
+    "name": "Blossom,Marianad,Kadinamkulam",
+    "address": "JR29+5CF",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:02.130842"
+  },
+  {
+    "place_id": "0x3b05bb003d3e7003:0",
+    "name": "Lifestyle Reset Fitness Studio and gym",
+    "address": "Tc 16/1776(3, Poonthi Road, Medical College Kumarapuram Rd",
+    "category": "Gym",
+    "phone": "+91 79941 11212",
+    "website": null,
+    "discovered_at": "2026-11-16 13:39:00.927390"
+  },
+  {
+    "place_id": "0x3b05eb0012ffa279:0",
+    "name": "Findon ck fitness centre",
+    "address": "JR73+6RG, Convent Road, near muthoot bank",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:59.783323"
+  },
+  {
+    "place_id": "0x3b05b9a19ceea52f:0",
+    "name": "Daily Bazar",
+    "address": "",
+    "category": "Supermarket",
+    "phone": "+91 85900 77878",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:58.612639"
+  },
+  {
+    "place_id": "0x3b05bfed34106539:0",
+    "name": "BAKE & FLAKE SUPERMARKET",
+    "address": "JR2V+MF8 Cane Work Co Operative Society, Chirayinkeezhu Kaniyapuram Rd",
+    "category": "Grocery store",
+    "phone": "+91 62387 47339",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:57.269453"
+  },
+  {
+    "place_id": "0x3b05ba3b4bb5e805:0",
+    "name": "Dhanya Supermarket Maruthankuzhi",
+    "address": "",
+    "category": "Supermarket",
+    "phone": "+91 94000 09196",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:55.816830"
+  },
+  {
+    "place_id": "0x3b05b9b5b476fc17:0",
+    "name": "Thachappallil Bakery & Supermarket",
+    "address": "Closes 11 PM",
+    "category": "Open",
+    "phone": "+91 94972 22168",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:54.594911"
+  },
+  {
+    "place_id": "0x3b05c1cf45af0df3:0",
+    "name": "Divine Supermarket",
+    "address": "Closes 8:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:53.312887"
+  },
+  {
+    "place_id": "0x3b05dd01705a21a7:0",
+    "name": "REGALIA GOLD&DIAMONDS",
+    "address": "RWG9+J7Q, Kadakkal Main Rd, near panchayath office",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:52.092490"
+  },
+  {
+    "place_id": "0x3b0595504c0d90bb:0",
+    "name": "EVERSHINE GOLD LOAN",
+    "address": "Veli - Perumathura Rd",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:50.888436"
+  },
+  {
+    "place_id": "0x3b05bdb16f9ba77b:0",
+    "name": "Mobile Connect",
+    "address": "01, Kannathura",
+    "category": "Cell phone store",
+    "phone": "+91 90201 37145",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:49.608513"
+  },
+  {
+    "place_id": "0x3b05eb00560dc96d:0",
+    "name": "10th May Bakers",
+    "address": "JR83+44Q",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:48.452081"
+  },
+  {
+    "place_id": "0x3b05bbc20887bf29:0",
+    "name": "Cafe Hangover",
+    "address": "Near, Karamana - Poojapura Rd",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:47.270658"
+  },
+  {
+    "place_id": "0x3b05bf06cc63c6ff:0",
+    "name": "Chanus CUP_CAFE",
+    "address": "",
+    "category": "Food court",
+    "phone": "+91 88910 46963",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:46.099587"
+  },
+  {
+    "place_id": "0x3b05bf711035570d:0",
+    "name": "TAB - Taste And Bites",
+    "address": "HVM9+M4Q",
+    "category": "Cafe",
+    "phone": "+91 90746 78372",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:44.855102"
+  },
+  {
+    "place_id": "0x3b05c10076a1c791:0",
+    "name": "BeCafe",
+    "address": "JRRV+P9R",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:43.648054"
+  },
+  {
+    "place_id": "0x3b05bf42372ce3d1:0",
+    "name": "CAFE PROTIANO",
+    "address": "CAFE PROTIANO ARATTUVAZHI, Kazhakuttom Rd",
+    "category": "Restaurant",
+    "phone": "+91 96333 08968",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:42.421507"
+  },
+  {
+    "place_id": "0x3b05eb08f2880ed5:0",
+    "name": "Shake House",
+    "address": "JR92+37H, Chilakkoor - Vallakkadavu Rd",
+    "category": "Ice cream shop",
+    "phone": "+91 97464 47677",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:41.266651"
+  },
+  {
+    "place_id": "0x3b05be4dca0d619f:0",
+    "name": "S Cafe",
+    "address": "HV64+9QX, Menamkulam Junction, Kazhakoottam",
+    "category": "Eatery",
+    "phone": "+91 99476 80604",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:40.094910"
+  },
+  {
+    "place_id": "0x3b05ebbe3650e937:0",
+    "name": "POZHIKKARA RESTAURANT",
+    "address": "Closes 10:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:38.869273"
+  },
+  {
+    "place_id": "0x3b05c70351ef5bdf:0",
+    "name": "Bismillah Pallikkal Restaurant",
+    "address": "",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:36.925925"
+  },
+  {
+    "place_id": "0x3b05e9c4982499d7:0",
+    "name": "Centre Hotel",
+    "address": "",
+    "category": "Family restaurant",
+    "phone": "+91 97479 10551",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:35.748057"
+  },
+  {
+    "place_id": "0x3b05e975131086f3:0",
+    "name": "Thottinkara Family Restaurant",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": "+91 96451 54144",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:34.461962"
+  },
+  {
+    "place_id": "0x3b05bb9891632cd3:0",
+    "name": "Balan's Kamalam Restaurant",
+    "address": "",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:33.301602"
+  },
+  {
+    "place_id": "0x3b05bf53cd39b643:0",
+    "name": "Hotel Safa",
+    "address": "HRJX+33V",
+    "category": "Kerala restaurant",
+    "phone": "+91 85478 36488",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:32.077856"
+  },
+  {
+    "place_id": "0x3b05bfdab859a02d:0",
+    "name": "MANDI MANZIL",
+    "address": "",
+    "category": "Yemeni restaurant",
+    "phone": "+91 85920 22055",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:30.871873"
+  },
+  {
+    "place_id": "0x3b05bfa993cdeb3b:0",
+    "name": "Crunchy Town",
+    "address": "Vadayilmukku Pallinada Rd, opp. Kaniyapuram Muslim Jamaath Masjid, near MGM College Of Arts and Science",
+    "category": "Fried chicken takeaway",
+    "phone": "+91 88485 60975",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:29.687725"
+  },
+  {
+    "place_id": "0x3b05c1907a93e08f:0",
+    "name": "SV diagnostic laboratory",
+    "address": "JRXV+H9F, Thonnakkal Vengode Malamukal Chempoor Rd",
+    "category": "Laboratory",
+    "phone": "+91 97454 83692",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:27.885025"
+  },
+  {
+    "place_id": "0x3b05bf70f604629b:0",
+    "name": "DDRC Agilus Diagnostics, Thampuranmukku",
+    "address": "GVJP+53",
+    "category": "Laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:26.662102"
+  },
+  {
+    "place_id": "0x3b05c007c103195b:0",
+    "name": "EV Diagnostic Laboratory",
+    "address": "Closes 5 AM Tue",
+    "category": "Open",
+    "phone": "+91 98462 00599",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:25.422406"
+  },
+  {
+    "place_id": "0x3b05eb0aeb41b24f:0",
+    "name": "Palliative Clinic and Diagnostics",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:24.170927"
+  },
+  {
+    "place_id": "0x3b063d8784e653df:0",
+    "name": "THE SKIN PALACE - Skin.Hair.Nail & Laser Medical Center- MD Dermatologist",
+    "address": "",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:22.972883"
+  },
+  {
+    "place_id": "0x3b05bb0f22de2dd9:0",
+    "name": "S S Travels, Manacaud",
+    "address": "FXG2+C6F, Attukal Rd",
+    "category": "Corporate office",
+    "phone": "+91 95448 88239",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:21.781344"
+  },
+  {
+    "place_id": "0x3b05bb0c24854b47:0",
+    "name": "Sanora Holidays",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:20.617083"
+  },
+  {
+    "place_id": "0x23e4729074025f8f:0",
+    "name": "Fly Kerala Holidays",
+    "address": "TC 40, Shamsu & Sons Tower 1508 Branch, 1* Floor, SBI",
+    "category": "Travel agency",
+    "phone": "+91 98953 40055",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:19.129347"
+  },
+  {
+    "place_id": "0x3b05bb7c340c4b7b:0",
+    "name": "MUZAFIR TRAVEL & HOLIDAYS PVT LTD",
+    "address": "P O, G1, TC 48/493-4, 4 SQUARE BUILDING NEAR ALIF SCHOOL",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:17.919745"
+  },
+  {
+    "place_id": "0x3b05bb2111671753:0",
+    "name": "Dream Air Travel and Tours",
+    "address": "Dream Air Travel and Tours, Shop no.8, First Floor, Ambadi Apartments, Manacaud",
+    "category": "Travel agency",
+    "phone": "+91 99950 66788",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:16.684951"
+  },
+  {
+    "place_id": "0x3b05bba7d48ff901:0",
+    "name": "RK TRAVELS",
+    "address": "Tc 43/1226 (3) Sreekrishnabhavan vaduvathu muttathara vallakadavu, po",
+    "category": "Taxi service",
+    "phone": "+91 89213 63957",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:15.510081"
+  },
+  {
+    "place_id": "0x3b05bb49c83e660d:0",
+    "name": "Linear India Pvt Ltd",
+    "address": "Post office, AMMA Building, TC 73/1837(2, P O, Junction",
+    "category": "Engineering consultant",
+    "phone": "+91 90480 29992",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:14.178806"
+  },
+  {
+    "place_id": "0x3b05bb0024bee3f5:0",
+    "name": "Harisree, Manacaud",
+    "address": "Harisree",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:12.957915"
+  },
+  {
+    "place_id": "0x3b05bb001013b741:0",
+    "name": "MRA/204 Krishna Kripa House",
+    "address": "TC 41/1819, P.O, Krishna Kripa, MRA 204, Attukal Rd, near Amman Kovil",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:10.669870"
+  },
+  {
+    "place_id": "0x3b05bb005ea58a09:0",
+    "name": "Rakeeyam house",
+    "address": "Post Office Junction",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:09.465806"
+  },
+  {
+    "place_id": "0x3b05bbb9c8788b0b:0",
+    "name": "Unni's Rentals",
+    "address": "40/1506 , Harsham, behind Sabu Bakery",
+    "category": "Student dormitory",
+    "phone": "+91 97451 80035",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:08.253732"
+  },
+  {
+    "place_id": "0x3b05bb00447aaaa9:0",
+    "name": "Pinky's Villa",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:07.089442"
+  },
+  {
+    "place_id": "0x3b05bb00729db411:0",
+    "name": "Surya narayanan house",
+    "address": "FXH4+838",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:05.919254"
+  },
+  {
+    "place_id": "0x3b05bb003d7aae73:0",
+    "name": "Noor Jahan's House",
+    "address": "FWCX+4PW",
+    "category": "Housing complex",
+    "phone": "+91 90615 66790",
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:04.630388"
+  },
+  {
+    "place_id": "0x3b05bb001aefd5db:0",
+    "name": "MANACAUD SACHIVOTHAMA RESIDENCE",
+    "address": "FXC2+PMQ",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:03.449411"
+  },
+  {
+    "place_id": "0x3b05bb0020bdda57:0",
+    "name": "GHR Building",
+    "address": "FWFW+WCX, Kutticaud Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:02.247543"
+  },
+  {
+    "place_id": "0x3b05bb005a578089:0",
+    "name": "Nandhu manacaud",
+    "address": "55, KRWA-47",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:38:01.039630"
+  },
+  {
+    "place_id": "0x3b05bb005aaf54fd:0",
+    "name": "Mrwa 12 DHARUL FALAH",
+    "address": "HOME, Darul, falah, muslim jama ath, Tc. 49, 643/3, Manacaud Valiyapalli Rd, near munna times and perfumes, near TC 49",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:37:59.741953"
+  },
+  {
+    "place_id": "0x3b05bb005bd61281:0",
+    "name": "SRA 3 , TC 41/2675, MAKAM, MANACAUD",
+    "address": "SRA/3, Manacaud - Muttathara Rd",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:37:58.572861"
+  },
+  {
+    "place_id": "0x3b05bb0014a31d5b:0",
+    "name": "vamini mukk",
+    "address": "SRA/25B, Sachivothama Rd",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:37:57.358190"
+  },
+  {
+    "place_id": "0x3b05bb0046aeae35:0",
+    "name": "Devi Nagar",
+    "address": "SRA, Sachivothama Rd",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:37:56.149939"
+  },
+  {
+    "place_id": "0x3b05bb0077b77c87:0",
+    "name": "Sree Vinayakam",
+    "address": "FWGW+H78 ALRA98, Aruvikkara Ln",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:37:54.896020"
+  },
+  {
+    "place_id": "0x3b05bb006eb99349:0",
+    "name": "Duros",
+    "address": "TRA-72",
+    "category": "Housing society",
+    "phone": "+91 94474 54388",
+    "website": null,
+    "discovered_at": "2026-11-16 13:37:53.706301"
+  },
+  {
+    "place_id": "0x3b05bb3ccd4f30e7:0",
+    "name": "Midcity Fitness Center",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:37:52.369431"
+  },
+  {
+    "place_id": "0x3b05bafe27dd43d3:0",
+    "name": "Everyouth Gym",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 13:37:51.204475"
+  },
+  {
+    "place_id": "0x3b05bb0805cf500f:0",
+    "name": "PAVITHRA GOLD - Chalai Trivandum",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": "+91 94975 27916",
+    "website": null,
+    "discovered_at": "2026-11-16 13:37:49.941365"
+  },
+  {
+    "place_id": "0x3b05bb933a102667:0",
+    "name": "eva's signature unique gold creation",
+    "address": "kamaleswaram road",
+    "category": "Jewelry store",
+    "phone": "+91 99953 24916",
+    "website": null,
+    "discovered_at": "2026-11-16 13:37:48.726724"
+  },
+  {
     "place_id": "0x808fc9df949fcba5:0",
     "name": "Sai Travels",
     "address": "",
@@ -8323,680 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 21:12:19.494558"
-  },
-  {
-    "place_id": "0x6d35dd4eec68dde7:0",
-    "name": "Perfect Party Planner",
-    "address": "",
-    "category": "Party planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:18.266067"
-  },
-  {
-    "place_id": "0x872b704c4dbc8749:0",
-    "name": "Ernesto Garcia Interior Design, LLC",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:16.930712"
-  },
-  {
-    "place_id": "0x872b0ebddc097661:0",
-    "name": "Ideation Design Group",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:15.670324"
-  },
-  {
-    "place_id": "0x872b0d8d30c1a17b:0",
-    "name": "JL Coates Interior Design Studio",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:14.291541"
-  },
-  {
-    "place_id": "0x872b77b1fcaff797:0",
-    "name": "Janet Brooks Design",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:13.071957"
-  },
-  {
-    "place_id": "0x54956b7fcf6ef72d:0",
-    "name": "LW Home Interiors",
-    "address": "14221 N Bolivar Dr",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:11.736396"
-  },
-  {
-    "place_id": "0x872ba5e5b6f283bf:0",
-    "name": "P. Emerson Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:10.363918"
-  },
-  {
-    "place_id": "0x872b0d9c02520f8b:0",
-    "name": "RC Interior Design Group, Inc.",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:09.024621"
-  },
-  {
-    "place_id": "0x872ba796d77982bb:0",
-    "name": "Ashley Luxury Design",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:06.946438"
-  },
-  {
-    "place_id": "0x872b0d9abe9d532f:0",
-    "name": "MARA Interior Design",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:05.699108"
-  },
-  {
-    "place_id": "0x49ddd3a10851f5a9:0",
-    "name": "Alva Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:04.469554"
-  },
-  {
-    "place_id": "0x872b7546fd7f1a93:0",
-    "name": "Studio Artise",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:03.119250"
-  },
-  {
-    "place_id": "0x872b746d48eeca3f:0",
-    "name": "Blue Desert Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:01.856708"
-  },
-  {
-    "place_id": "0x872b08b3c3210ad5:0",
-    "name": "Interior Solutions",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:00.631011"
-  },
-  {
-    "place_id": "0x24392c757dbcd66f:0",
-    "name": "Piece by Peace Designs",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:59.267133"
-  },
-  {
-    "place_id": "0x872b6ebd25c15555:0",
-    "name": "Blooming Daisy Interior Design",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:58.065477"
-  },
-  {
-    "place_id": "0x872a558dc563e551:0",
-    "name": "Maya Design - Interior Designer",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:56.800363"
-  },
-  {
-    "place_id": "0x872b445ac4afffff:0",
-    "name": "Ivoree Interiors Home Staging",
-    "address": "",
-    "category": "Interior Decorator",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:55.106513"
-  },
-  {
-    "place_id": "0x872b7386ec41a647:0",
-    "name": "S Interior Design - Scottsdale",
-    "address": "12429 N 58th St",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:53.844737"
-  },
-  {
-    "place_id": "0x872b6fedc1ae06d1:0",
-    "name": "Attractive Interiors - Phoenix Home Staging",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:52.555833"
-  },
-  {
-    "place_id": "0x872b5d4e568a6e05:0",
-    "name": "EPIC Home Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:51.351084"
-  },
-  {
-    "place_id": "0x872b6963898aedc9:0",
-    "name": "Alex Li eXp Realty",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:50.150334"
-  },
-  {
-    "place_id": "0x872b6888e6bb3629:0",
-    "name": "Parker Realty LLC",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:48.927325"
-  },
-  {
-    "place_id": "0x872b73d72053f335:0",
-    "name": "Urban Luxe Real Estate",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:47.726997"
-  },
-  {
-    "place_id": "0x872b77afd8026599:0",
-    "name": "Danielle Paluscio - AZ Premier Real Estate Group",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:46.353681"
-  },
-  {
-    "place_id": "0x872b730abc130c59:0",
-    "name": "Eric Karlene Real Estate",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:45.063184"
-  },
-  {
-    "place_id": "0x872b74ed8714b5a5:0",
-    "name": "Real Estate",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:43.682766"
-  },
-  {
-    "place_id": "0x872b75221189e4b3:0",
-    "name": "My Az Realty Team - West USA Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:42.411631"
-  },
-  {
-    "place_id": "0x872b0465dca1bf1d:0",
-    "name": "The Goodman Taylor Team",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:41.119308"
-  },
-  {
-    "place_id": "0x872b64598856c8e3:0",
-    "name": "The Sakala Group - Phoenix Real Estate Team",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:39.878083"
-  },
-  {
-    "place_id": "0x872b68293ef05835:0",
-    "name": "My Home Group",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:38.684026"
-  },
-  {
-    "place_id": "0x872b684973060e85:0",
-    "name": "Jesse Abarca - AZ & Associates",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:37.446995"
-  },
-  {
-    "place_id": "0x872b7bb143165441:0",
-    "name": "The Riddle Group",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:36.093936"
-  },
-  {
-    "place_id": "0x872ba914db22da7d:0",
-    "name": "Discount Traffic Survival School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:34.872555"
-  },
-  {
-    "place_id": "0x872b6da843176e9f:0",
-    "name": "Jasmin's Hair Design",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:33.490496"
-  },
-  {
-    "place_id": "0x872b65fbbe64d60d:0",
-    "name": "Iris Elysian Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:32.164743"
-  },
-  {
-    "place_id": "0x8242c1420c716ea1:0",
-    "name": "The Cycle of Beauty by Arlet",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:30.943476"
-  },
-  {
-    "place_id": "0x872b6f82ef069ab3:0",
-    "name": "Trends Salon & Suites",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:28.906012"
-  },
-  {
-    "place_id": "0x872b718874f11741:0",
-    "name": "Radiance Beauty (Formerly Magdalena’s Beauty Salon)",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:27.679841"
-  },
-  {
-    "place_id": "0x872b075e0aafbadd:0",
-    "name": "Innovation Salon Spa - Hair Extensions Phoenix",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:26.393421"
-  },
-  {
-    "place_id": "0x872b7120198c72e3:0",
-    "name": "The Beauty District Salon Suites at Desert Ridge Marketplace",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:25.106681"
-  },
-  {
-    "place_id": "0x872b6f3fc60e8845:0",
-    "name": "Wilds Salon 24",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:23.887340"
-  },
-  {
-    "place_id": "0x872b73c0f7db2c49:0",
-    "name": "Phenix Salon Suites - Paradise Valley",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:22.661171"
-  },
-  {
-    "place_id": "0x872b0da7a95ffe73:0",
-    "name": "Salon Boutique - Arcadia",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:21.354812"
-  },
-  {
-    "place_id": "0x872b65d550340fd9:0",
-    "name": "The Beauty District",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:20.070590"
-  },
-  {
-    "place_id": "0x872b0d7b41fc76e5:0",
-    "name": "The Watch Repair Company",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:17.673643"
-  },
-  {
-    "place_id": "0x872ba7e850278ed9:0",
-    "name": "Muralts Custom Jewelers",
-    "address": "",
-    "category": "Jewelry designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:16.342447"
-  },
-  {
-    "place_id": "0x872b11f1b5172e13:0",
-    "name": "Don Pablo jewelry",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:15.100434"
-  },
-  {
-    "place_id": "0x872ba7e823c502a3:0",
-    "name": "Dickson's Jewelers",
-    "address": "",
-    "category": "Jewelry repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:13.855533"
-  },
-  {
-    "place_id": "0x872ba7d59a9b0aff:0",
-    "name": "Skystone Creations",
-    "address": "",
-    "category": "Jewelry designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:12.603530"
-  },
-  {
-    "place_id": "0x872b04471b74979f:0",
-    "name": "Michael's Creative Jewelry",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:11.316565"
-  },
-  {
-    "place_id": "0x872b0bbf0ba732eb:0",
-    "name": "Silver Kiva Inc",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:10.079768"
-  },
-  {
-    "place_id": "0x872b155a308ef4e5:0",
-    "name": "Koras Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:08.702633"
-  },
-  {
-    "place_id": "0x872b15ded3c1f51f:0",
-    "name": "Joyeria Monarca",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:07.474547"
-  },
-  {
-    "place_id": "0x872b65bdeb84e04b:0",
-    "name": "Braidy Jewelers",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:06.092221"
-  },
-  {
-    "place_id": "0x872b7697aa9a3df1:0",
-    "name": "Ganem Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:04.802739"
-  },
-  {
-    "place_id": "0x872b70df82ee7edb:0",
-    "name": "KAY Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:03.559958"
-  },
-  {
-    "place_id": "0x872b0d8fc916b1ab:0",
-    "name": "Yvette's Jewelry",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:02.315852"
-  },
-  {
-    "place_id": "0x80d9548b02883889:0",
-    "name": "Presley & Co. Fine Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:11:01.017957"
-  },
-  {
-    "place_id": "0x872b0f59e1444903:0",
-    "name": "Capri Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:59.772971"
-  },
-  {
-    "place_id": "0x872b154cb8b8dc51:0",
-    "name": "Del Sol Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:58.580839"
-  },
-  {
-    "place_id": "0x872b6c685af8f969:0",
-    "name": "Phoenix Sofa Factory",
-    "address": "3547 W Thunderbird Rd",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:57.368958"
-  },
-  {
-    "place_id": "0x872b04236289b1c1:0",
-    "name": "Woodbridge Interiors Outlet",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:56.147920"
-  },
-  {
-    "place_id": "0x872bab2c87256e9b:0",
-    "name": "Spice Up Your Home Furniture & Staging",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:54.923361"
-  },
-  {
-    "place_id": "0x872bab0adc9a419d:0",
-    "name": "RH Outlet Chandler",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:53.660567"
-  },
-  {
-    "place_id": "0x872b719869d0ba8d:0",
-    "name": "Bob's Discount Furniture and Mattress Store",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:52.214269"
-  },
-  {
-    "place_id": "0x872b043cdd2de9cf:0",
-    "name": "Bassett Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:50.963760"
-  },
-  {
-    "place_id": "0x872b743da433c36d:0",
-    "name": "Bassett Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:49.694357"
-  },
-  {
-    "place_id": "0x872b684dbd7ec8e1:0",
-    "name": "Living Spaces",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:48.316057"
-  },
-  {
-    "place_id": "0x872b682ff9ad08cd:0",
-    "name": "Ethan Allen",
-    "address": "7375 W Bell Rd Ste 100",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:47.068921"
-  },
-  {
-    "place_id": "0x872b0816b319ca67:0",
-    "name": "Model Home Furniture Outlet",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:44.968410"
-  },
-  {
-    "place_id": "0x872b05cdce0c73f7:0",
-    "name": "Salt Creek Furniture Outlet",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:43.760738"
-  },
-  {
-    "place_id": "0x872b39726faed281:0",
-    "name": "Cellphone repair by mobile tech",
-    "address": "",
-    "category": "Cell phone store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:42.541648"
-  },
-  {
-    "place_id": "0x872b1568fa353bc3:0",
-    "name": "Nexcell & Repair",
-    "address": "",
-    "category": "Mobile phone repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:10:41.305720"
-  },
-  {
-    "place_id": "0x876f3a569cd5064d:0",
-    "name": "JCPenney",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:02:11.921250"
   }
 ]
