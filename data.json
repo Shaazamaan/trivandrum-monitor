@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05ad408c0a6659:0",
+    "name": "Golden Castle Restaurant",
+    "address": "Golden Castle Restaurant Golden Palace, Junction, Amaravila-Karakonam Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:55:27.365282"
+  },
+  {
+    "place_id": "0x3b05af0316f1cfcf:0",
+    "name": "Govt pharmacy",
+    "address": "C34P+P5Q General Hospital",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:55:26.133206"
+  },
+  {
+    "place_id": "0x3b05af00073e9a35:0",
+    "name": "Zpluspharmacy",
+    "address": "C39H+GR5",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:55:24.850598"
+  },
+  {
+    "place_id": "0x3b05ae66ab480435:0",
+    "name": "Aambady Medicals",
+    "address": "Hospital Junction-Railway Station Rd",
+    "category": "Store",
+    "phone": "+91 94001 84809",
+    "website": null,
+    "discovered_at": "2026-11-16 00:55:23.493372"
+  },
+  {
+    "place_id": "0x3b05ae88e5022de1:0",
+    "name": "Kottakkal Aryavyadyashala",
+    "address": "Bus stand, Junction",
+    "category": "Medical supply store",
+    "phone": "+91 94475 55217",
+    "website": null,
+    "discovered_at": "2026-11-16 00:55:22.242573"
+  },
+  {
+    "place_id": "0x3b05ae63f83f4c73:0",
+    "name": "Pharmacy",
+    "address": "General hospital",
+    "category": "Hospital department",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:55:20.988355"
+  },
+  {
+    "place_id": "0x3b05ae671581548b:0",
+    "name": "Nta Medicines",
+    "address": "C35J+4FF NTA medicines, TB Junction-Hospital Jct Rd",
+    "category": "Pharmacy",
+    "phone": "+91 88911 12904",
+    "website": null,
+    "discovered_at": "2026-11-16 00:55:19.707060"
+  },
+  {
     "place_id": "0x3b05c17432c2ada9:0",
     "name": "Dr Krishnakumar 'Sooryakanthi'",
     "address": "MRRV+X6M",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 13:06:58.032229"
-  },
-  {
-    "place_id": "0x54997d61fcc0f671:0",
-    "name": "She's Strong Studio",
-    "address": "406 Central Ave S",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:56.692516"
-  },
-  {
-    "place_id": "0x5498e1002d696813:0",
-    "name": "FT-Power",
-    "address": "1490 E Main St",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:55.494294"
-  },
-  {
-    "place_id": "0x5498e15966b34d07:0",
-    "name": "Pillar Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:54.119819"
-  },
-  {
-    "place_id": "0x549938c4b1786df7:0",
-    "name": "South Campus Athletic Club",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:52.877672"
-  },
-  {
-    "place_id": "0x549938ae3e953713:0",
-    "name": "The Complex",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:51.551887"
-  },
-  {
-    "place_id": "0x549938a207e0bf75:0",
-    "name": "Evolve Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:47.669211"
-  },
-  {
-    "place_id": "0x549bcc943a27aed7:0",
-    "name": "Elements Salon & Spa",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:46.261878"
   }
 ]
