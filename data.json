@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b04ff798f6ef4fd:0",
+    "name": "S'MART Home Interiors",
+    "address": "Tholayavattam Killiyoor",
+    "category": "Interior designer",
+    "phone": "+91 90879 84451",
+    "website": null,
+    "discovered_at": "2026-11-16 20:30:55.482045"
+  },
+  {
+    "place_id": "0x3b05a9179504d7f7:0",
+    "name": "Annas Beauty Parlor",
+    "address": "near Mavilakadav Bridge",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 20:30:54.254584"
+  },
+  {
+    "place_id": "0x3b05a932e71f8897:0",
+    "name": "AV FRESHMART",
+    "address": "AV FRESHMART",
+    "category": "Fruit and vegetable store",
+    "phone": "+91 97441 54816",
+    "website": null,
+    "discovered_at": "2026-11-16 20:30:52.978418"
+  },
+  {
+    "place_id": "0x3b05a90011d65ddd:0",
+    "name": "Poovar",
+    "address": "922M+W7X, Vizhinjam - Uchakkada Road",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 20:30:51.807330"
+  },
+  {
+    "place_id": "0x3b05a909e9ec5bc7:0",
+    "name": "RASIYA A",
+    "address": "M M Vegetables",
+    "category": "Fruit and vegetable store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 20:30:50.486759"
+  },
+  {
+    "place_id": "0x3b05a903dae4ec47:0",
+    "name": "Al Shifa Medicals",
+    "address": "83C9+4J2",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 20:30:49.139144"
+  },
+  {
+    "place_id": "0x3b05a9b6f95935c9:0",
+    "name": "VINOD PHYSIOTHERAPY AND SIDDHA VARMA",
+    "address": "839C+38J",
+    "category": "Physical therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 20:30:47.631815"
+  },
+  {
+    "place_id": "0x3b05a95324a1459d:0",
+    "name": "Poovar Beauty Parlour",
+    "address": "83CC+5XC Lady Cool Hearbal Beauty Care & SPA, Post Office Jn",
+    "category": "Health and beauty shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 20:30:46.275792"
+  },
+  {
+    "place_id": "0x3b05aa36c81515dd:0",
+    "name": "Dr.Geno's Dental Hair and Face Clinic",
+    "address": "845C+W5R, Oorabu Junction, Road, Dist",
+    "category": "Dental clinic",
+    "phone": "+91 94458 14705",
+    "website": null,
+    "discovered_at": "2026-11-16 20:30:43.613453"
+  },
+  {
     "place_id": "0x3b05afcba8e34dd1:0",
     "name": "Nagarjuna Ayurveda",
     "address": "Nagarjuna Ayurveda, Vizhinjam Rd",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 06:06:23.062597"
-  },
-  {
-    "place_id": "0x880e29126ecb1a41:0",
-    "name": "Ultimate Realty Group",
-    "address": "5653 S Blackstone Ave",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:21.876152"
-  },
-  {
-    "place_id": "0x880e2ede9c760107:0",
-    "name": "Englewood High Drivers Education",
-    "address": "305 W Englewood Ave",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:20.635897"
-  },
-  {
-    "place_id": "0x880e2d98da698b0b:0",
-    "name": "Massage Empathy",
-    "address": "2812 S Wentworth Ave",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:19.401824"
-  },
-  {
-    "place_id": "0x65aac7e324c2200b:0",
-    "name": "Massage Life™",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:18.125939"
-  },
-  {
-    "place_id": "0x880e2bb864efb9c1:0",
-    "name": "Next Man Up LLC",
-    "address": "",
-    "category": "Day spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:16.969584"
-  },
-  {
-    "place_id": "0x880e291e25f20f23:0",
-    "name": "The Orbit Spa",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:15.796456"
-  },
-  {
-    "place_id": "0x880e2d0b49cbf499:0",
-    "name": "Chinatown spa",
-    "address": "2306 S Wentworth Ave",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:14.571521"
-  },
-  {
-    "place_id": "0x880e2dcac9fa4129:0",
-    "name": "Oriental Massage & Spa",
-    "address": "2163 S China Pl 2nd fl",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:13.336376"
-  },
-  {
-    "place_id": "0x880e2d7ac93bd9a7:0",
-    "name": "Tokyo ginza spa",
-    "address": "1926 S Canalport Ave",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:12.102269"
   }
 ]
