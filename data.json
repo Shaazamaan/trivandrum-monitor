@@ -1,5 +1,374 @@
 [
   {
+    "place_id": "0x3b05bbbf2c95b299:0",
+    "name": "EasyBuy",
+    "address": "Rd Malabar Commercial Plaza, 2nd Flr, Mall of Travancore, near International Airport Road",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:02:01.053311"
+  },
+  {
+    "place_id": "0x3b06070efd84a32f:0",
+    "name": "Maalukuli Art Cafe Munroe Island",
+    "address": "10/269, Neetumthuruthu Rd",
+    "category": "Art cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:59.729575"
+  },
+  {
+    "place_id": "0x3b05cb003f14de21:0",
+    "name": "Aiswaya Restaurant Anappara",
+    "address": "M4V4+QPP, SH45",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:58.483640"
+  },
+  {
+    "place_id": "0x3b05cd29e2fb3e9f:0",
+    "name": "Nithin Thattukada",
+    "address": "Thiruvananthapuram - Ponmudi Rd",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:57.188609"
+  },
+  {
+    "place_id": "0x3b05c9446d2e6eff:0",
+    "name": "D D CAFE",
+    "address": "Bus Stop, Panavoor Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:55.968216"
+  },
+  {
+    "place_id": "0x3b05cb00776b9eb7:0",
+    "name": "SNOW WHITE CAFE RESTAURANT",
+    "address": "SNOW WHITE CAFE RESTAURANT",
+    "category": "Restaurant",
+    "phone": "+91 80862 89746",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:54.605795"
+  },
+  {
+    "place_id": "0x3b05cd86e65318ab:0",
+    "name": "Amma Restaurant",
+    "address": "P46H+9PG, Thiruvananthapuram - Ponmudi Rd",
+    "category": "Fast food restaurant",
+    "phone": "+91 90749 86154",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:53.346022"
+  },
+  {
+    "place_id": "0x3b05cf17465da0fd:0",
+    "name": "AL SHEIKH'S kitchen",
+    "address": "pearl residence, nedumangad road",
+    "category": "Restaurant",
+    "phone": "+91 80865 61714",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:52.096088"
+  },
+  {
+    "place_id": "0x3b05cdb85f02ff93:0",
+    "name": "Hill View Stay Inn Ponmudi",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 70125 43006",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:50.854012"
+  },
+  {
+    "place_id": "0x3b05c98d5249ad2d:0",
+    "name": "Achayans Restaurent",
+    "address": "Thiruvananthapuram - Ponmudi Rd",
+    "category": "Fast food restaurant",
+    "phone": "+91 95446 24684",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:49.650465"
+  },
+  {
+    "place_id": "0x3b05cf57433b9805:0",
+    "name": "CENTRE POINT",
+    "address": "+91 90481 34159",
+    "category": "Open 24 hours",
+    "phone": "+91 90481 34159",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:48.437894"
+  },
+  {
+    "place_id": "0x3ba667ca75efbb21:0",
+    "name": "Healthy Pets Vet Clinic",
+    "address": "bus stop, 19, Balussery Main Road, near Ponoor",
+    "category": "Veterinarian",
+    "phone": "+91 70128 86910",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:47.224117"
+  },
+  {
+    "place_id": "0x3b06adedce52249b:0",
+    "name": "Excellent Veterinary Care Pet Clinic",
+    "address": "road, near Liberty",
+    "category": "Veterinarian",
+    "phone": "+91 79040 78551",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:45.929638"
+  },
+  {
+    "place_id": "0x3b05c48b1a075579:0",
+    "name": "Karunya Community Pharmacy",
+    "address": "PWVQ+CQJ, Kallara Muthuvila Road",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:44.721942"
+  },
+  {
+    "place_id": "0x3b05dbcdf186b731:0",
+    "name": "PHARMA POINT",
+    "address": "Junction, SH 64",
+    "category": "Pharmacy",
+    "phone": "+91 86063 34250",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:43.516053"
+  },
+  {
+    "place_id": "0x3b0649f13b2bd955:0",
+    "name": "Chamundi Hill Palace Ayurveda Treatment Centre",
+    "address": "",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 94478 70346",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:42.292071"
+  },
+  {
+    "place_id": "0x3b08a079fa3c46ff:0",
+    "name": "Krishnendu Ayurveda Hospital",
+    "address": "",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 95444 88333",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:40.216762"
+  },
+  {
+    "place_id": "0x3ba7b3072655eebf:0",
+    "name": "Skinpase Skin Clinic Kottakkal",
+    "address": "Kavarodi Arcade, SH 71, near BPCL Petrol Pump",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:38.961657"
+  },
+  {
+    "place_id": "0x3ba7b743032fea8b:0",
+    "name": "Skinta Skin and Aesthetics",
+    "address": "Calicut Rd, near Yara Mall",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:35.015190"
+  },
+  {
+    "place_id": "0x3b080bb7d2488bcf:0",
+    "name": "SKIN CARE Holy Cross Hospital (by Dr. Nikitha Babu)",
+    "address": "Double Paalam - Pattimattom Rd",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:33.672438"
+  },
+  {
+    "place_id": "0x54a2b9acb823b90b:0",
+    "name": "Boylan Realty LLC",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:32.402476"
+  },
+  {
+    "place_id": "0x3b05c9bb6dcc2489:0",
+    "name": "Royal Wellness",
+    "address": "Mary Cottage",
+    "category": "Wellness program",
+    "phone": "+91 80861 46980",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:31.166021"
+  },
+  {
+    "place_id": "0x3b05c97640f598a5:0",
+    "name": "Mr.cut",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:29.948525"
+  },
+  {
+    "place_id": "0x3b05c939cc0df0ff:0",
+    "name": "Retro Fade",
+    "address": "Shop No 1, Retro Fade, Vithura Palode Road, opposite PWD Rest House",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:28.697884"
+  },
+  {
+    "place_id": "0x3b05df33a1d3412f:0",
+    "name": "Margin Free Supermarket",
+    "address": "WWG8+P3Q, SH 59",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:27.382889"
+  },
+  {
+    "place_id": "0x3b08736ddca722e3:0",
+    "name": "Vilangadan Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": "+91 93886 00883",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:26.135837"
+  },
+  {
+    "place_id": "0x3b05c96dfdf3f1eb:0",
+    "name": "Fabi boutique vithura",
+    "address": "Closes 8 PM",
+    "category": "Open",
+    "phone": "+91 95264 32248",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:24.887249"
+  },
+  {
+    "place_id": "0x54a2c756e3e81499:0",
+    "name": "Java Junkies",
+    "address": "",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:23.582309"
+  },
+  {
+    "place_id": "0x54a2bdf959ff4d23:0",
+    "name": "McNary Java Junkies",
+    "address": "99 Lewis St",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:22.342744"
+  },
+  {
+    "place_id": "0x54a380056237a97b:0",
+    "name": "RattleTale Coffee & Such",
+    "address": "",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:20.973534"
+  },
+  {
+    "place_id": "0x54a377d19cbfb317:0",
+    "name": "Foxfire Café",
+    "address": "1124 Adams Ave",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:19.696315"
+  },
+  {
+    "place_id": "0x3b05cbce79b93f9f:0",
+    "name": "RED CAFE RESTAURANT",
+    "address": "RED CAFE RESTAURANT, IISER Junction, Iiser Road",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:18.179478"
+  },
+  {
+    "place_id": "0x3b05c94deac83539:0",
+    "name": "Mukthi Community Pharmacy",
+    "address": "Schenkotta Road",
+    "category": "Pharmacy",
+    "phone": "+91 85479 13037",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:16.937996"
+  },
+  {
+    "place_id": "0x3b05c90057d47779:0",
+    "name": "Pooram Medicals",
+    "address": "M3CM+X64, Vithura High School Rd",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:15.647293"
+  },
+  {
+    "place_id": "0x3b05c9b334d787cf:0",
+    "name": "ZAHRA Medicals",
+    "address": "J3W4+329",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:14.437297"
+  },
+  {
+    "place_id": "0x3b05c9488952e959:0",
+    "name": "AMRIT Pharmacy|ISRO Valiamala|Thiruvananthapuram",
+    "address": "AMRIT PHARMACY, LPSC VALIAMALAADDRESS: B1, NEAR CISF QUARTERS, LIQUID PROPULSION SYSTEMS CENTRE (LPSC), VALIAMALA",
+    "category": "Pharmacy",
+    "phone": "+91 88489 65384",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:13.125409"
+  },
+  {
+    "place_id": "0x3b05b75b20c48617:0",
+    "name": "Apollo Pharmacy Vellanad",
+    "address": "12/502, Aryanad - Parandode Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:11.895017"
+  },
+  {
+    "place_id": "0x3b05c9a68c907d6d:0",
+    "name": "Aswas community pharmacy, tholicode",
+    "address": "Closes 10:30 PM",
+    "category": "Open",
+    "phone": "+91 99958 87653",
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:10.662742"
+  },
+  {
+    "place_id": "0x3b05c96cfa32b2a5:0",
+    "name": "Prabhath Homeo Hospital, Vithura",
+    "address": "M3FJ+6QQ",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:09.425852"
+  },
+  {
+    "place_id": "0x3b03efd0d06b1fcb:0",
+    "name": "DR TAMILS A PLUS SKIN AND HAIR CENTER",
+    "address": "7, 7th St",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:08.187205"
+  },
+  {
+    "place_id": "0x54a2bb6f2ef00b73:0",
+    "name": "Advantage Dental+",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:01:06.953288"
+  },
+  {
     "place_id": "0x3b05bbe34299ee19:0",
     "name": "Saphalyam Tours & Travels",
     "address": "51/3362(1), Plavila",
@@ -8629,374 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:47:43.773563"
-  },
-  {
-    "place_id": "0x89b639c500ca26c7:0",
-    "name": "Midway Cafe",
-    "address": "",
-    "category": "American restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:41.722958"
-  },
-  {
-    "place_id": "0x89b638f920a23ddd:0",
-    "name": "Joe's Cafe",
-    "address": "",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:39.660253"
-  },
-  {
-    "place_id": "0x89b63fed43e2946d:0",
-    "name": "Gold Tree Coffee",
-    "address": "20820 Century Corner Dr",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:37.228801"
-  },
-  {
-    "place_id": "0x89b639be82a63f5b:0",
-    "name": "Ridgetop Coffee and Tea",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:36.060829"
-  },
-  {
-    "place_id": "0x89b641003d2ccb7d:0",
-    "name": "Eluzai",
-    "address": "42628 Emperor Dr",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:33.710180"
-  },
-  {
-    "place_id": "0x89b639e94fd4aec7:0",
-    "name": "The Human Bean",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:31.640153"
-  },
-  {
-    "place_id": "0x89b63f2a9b2eee2f:0",
-    "name": "SR Coffee Co.",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:30.494542"
-  },
-  {
-    "place_id": "0x89b639ec37b05027:0",
-    "name": "Blazin Treatz",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:27.637019"
-  },
-  {
-    "place_id": "0x89b63f001da68201:0",
-    "name": "Chai Caafi",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:25.073844"
-  },
-  {
-    "place_id": "0x89b63f00396a7c33:0",
-    "name": "Haraz Coffee House",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:23.897267"
-  },
-  {
-    "place_id": "0x89b6417451a1a85b:0",
-    "name": "Aldie Veterinary Hospital",
-    "address": "",
-    "category": "Animal hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:21.810029"
-  },
-  {
-    "place_id": "0x89b617d1984efddd:0",
-    "name": "Catoctin Veterinary Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:19.761046"
-  },
-  {
-    "place_id": "0x89b63eb3a5822f1f:0",
-    "name": "Ashburn Village Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:17.483006"
-  },
-  {
-    "place_id": "0x89b63fa96f7c3f29:0",
-    "name": "Stream Valley Veterinary Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:16.263826"
-  },
-  {
-    "place_id": "0x89b6374a338771a9:0",
-    "name": "Animal Medical Center of Cascades",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:13.849498"
-  },
-  {
-    "place_id": "0x89b63963be29a283:0",
-    "name": "Church Road Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:11.718125"
-  },
-  {
-    "place_id": "0x89b63eec4dd27999:0",
-    "name": "Animal Medical Centers of Loudoun - Ashburn",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:09.628317"
-  },
-  {
-    "place_id": "0x89b63d772661f3a9:0",
-    "name": "Towne Animal Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:07.476781"
-  },
-  {
-    "place_id": "0x89b63ebc6ef73067:0",
-    "name": "Ashburn Veterinary Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:06.350637"
-  },
-  {
-    "place_id": "0x89b641c9fcca565d:0",
-    "name": "Family Veterinary Hospital of Stone Ridge",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:05.203439"
-  },
-  {
-    "place_id": "0x89b6398ffe7f49f1:0",
-    "name": "Countryside Animal Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:04.050816"
-  },
-  {
-    "place_id": "0x89b6416ccff28033:0",
-    "name": "Dulles South Veterinary Center",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:02.908666"
-  },
-  {
-    "place_id": "0x89b63ebb7b7a9411:0",
-    "name": "Wholistic Paws Veterinary Services",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:59.093324"
-  },
-  {
-    "place_id": "0x89b63e60b670ac5b:0",
-    "name": "Goose Creek Veterinary Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:57.928258"
-  },
-  {
-    "place_id": "0x89b63d8ddd7c9e0b:0",
-    "name": "Loudoun Urgent Vet",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:56.728112"
-  },
-  {
-    "place_id": "0x89b63dcd7dd5ba9b:0",
-    "name": "VEG ER for Pets",
-    "address": "",
-    "category": "Emergency veterinarian service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:55.191072"
-  },
-  {
-    "place_id": "0x89b63f0047840a3d:0",
-    "name": "Broadlands Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:54.026698"
-  },
-  {
-    "place_id": "0x89b61043eb33c557:0",
-    "name": "Blue Ridge Veterinary Associates",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:52.900712"
-  },
-  {
-    "place_id": "0x89b63fd0b3297865:0",
-    "name": "Nova Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:51.581512"
-  },
-  {
-    "place_id": "0x89b6399a7c5810b1:0",
-    "name": "Sunrise Medical Laboratories",
-    "address": "",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:50.438596"
-  },
-  {
-    "place_id": "0x89b638957c72ac6b:0",
-    "name": "Dea Special Testing & Res Lab",
-    "address": "",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:49.136187"
-  },
-  {
-    "place_id": "0x89b638d831268863:0",
-    "name": "Inova Laboratories - Filigree",
-    "address": "",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:47.951833"
-  },
-  {
-    "place_id": "0x89b645a1f8f75d2f:0",
-    "name": "Any Lab Test Now",
-    "address": "",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:46.761345"
-  },
-  {
-    "place_id": "0x89b640a3a8528db3:0",
-    "name": "Pace Analytical Building Sciences",
-    "address": "",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:45.626522"
-  },
-  {
-    "place_id": "0x89b63861d14e34a9:0",
-    "name": "Experimental Pathology Labs",
-    "address": "",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:44.424434"
-  },
-  {
-    "place_id": "0x89b63fb659ff0175:0",
-    "name": "Any Lab Test Now",
-    "address": "",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:43.042611"
-  },
-  {
-    "place_id": "0x89b639908b0ff88f:0",
-    "name": "Quest Diagnostics",
-    "address": "",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:41.772856"
-  },
-  {
-    "place_id": "0x89b63bd9f822a739:0",
-    "name": "Clinical Diagnostic Laboratories",
-    "address": "",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:40.628901"
-  },
-  {
-    "place_id": "0x89b639c19db4cfa9:0",
-    "name": "The Eye Center, Sterling Clinic, Loudoun Medical Group",
-    "address": "",
-    "category": "Ophthalmology clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:39.448962"
-  },
-  {
-    "place_id": "0x89b6395ebe45b421:0",
-    "name": "MyEyeDr.",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:38.268193"
-  },
-  {
-    "place_id": "0x89b7cdc3cce671cb:0",
-    "name": "Dr. Mandana Nasiri Manesh, OD",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:37.110710"
   }
 ]
