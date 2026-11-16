@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05eb83ab66ecfd:0",
+    "name": "N.Sudhakaran,Rohini furnitures",
+    "address": "812, Pallimukku-Thinavila-Vilayilmoola Road",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 10:55:30.374211"
+  },
+  {
+    "place_id": "0x3b05ea00d1d8be89:0",
+    "name": "DECART FURNITURE & LIGHTS",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 10:55:29.171244"
+  },
+  {
+    "place_id": "0x3b05bf318d58f93b:0",
+    "name": "PARK TOURS AND TRAVELS",
+    "address": "ALUMOODU",
+    "category": "Travel agency",
+    "phone": "+91 99956 67663",
+    "website": null,
+    "discovered_at": "2026-11-16 10:55:27.936584"
+  },
+  {
+    "place_id": "0x3b05ebaee341d343:0",
+    "name": "Laksham Veedu",
+    "address": "JR56+4W3",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 10:55:24.462187"
+  },
+  {
     "place_id": "0x3b05ba6bb33903ad:0",
     "name": "P R DENTAL SPECIALITY CENTRE",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": "+91 88918 08806",
     "website": null,
     "discovered_at": "2026-11-15 16:18:30.566229"
-  },
-  {
-    "place_id": "0x3b05b987307749b3:0",
-    "name": "ASA UNANI AYURVEDA HOSPITAL CELLAMANGALAM VATTAVILA JN.",
-    "address": "",
-    "category": "Hospital",
-    "phone": "+91 90616 13377",
-    "website": null,
-    "discovered_at": "2026-11-15 16:10:46.928937"
-  },
-  {
-    "place_id": "0x3b05b9c2c8ff6271:0",
-    "name": "FRESH BAKES",
-    "address": "near krishibhavan",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 16:03:43.792117"
-  },
-  {
-    "place_id": "0x89c8039966236621:0",
-    "name": "Mindhub",
-    "address": "1215 E Fort Ave Ste 200",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:55:37.836003"
-  },
-  {
-    "place_id": "0x89b7b686905878ef:0",
-    "name": "Carr Workplaces Clarendon - Coworking & Office Space",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:55:35.641722"
   }
 ]
