@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05efb623c232fd:0",
+    "name": "HAYA MEDICALS",
+    "address": "Maithanam, opp. Police station",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 06:21:41.818311"
+  },
+  {
+    "place_id": "0x3b05ef6fe0c49c73:0",
+    "name": "Kanjana Medical Store",
+    "address": "QM7X+5PM",
+    "category": "Pharmacy",
+    "phone": "+91 96452 58030",
+    "website": null,
+    "discovered_at": "2026-11-16 06:21:40.612571"
+  },
+  {
+    "place_id": "0x3b05ef5085490b27:0",
+    "name": "Dr. Sarika's Sātmya Ayur Clinic & Oushadhi Pharmacy",
+    "address": "Ayiroor-Paripally Rd",
+    "category": "Pharmacy",
+    "phone": "+91 80780 68978",
+    "website": null,
+    "discovered_at": "2026-11-16 06:21:39.421027"
+  },
+  {
+    "place_id": "0x3b05ef27fcf84a11:0",
+    "name": "Hahnemann's Homoeopathic Centre",
+    "address": "12:30 PM",
+    "category": "Closes soon",
+    "phone": "+91 87144 98150",
+    "website": null,
+    "discovered_at": "2026-11-16 06:21:38.206046"
+  },
+  {
     "place_id": "0x3b05b95e84ca81a1:0",
     "name": "ASUS Exclusive Store - Logtech Infoway",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:51:39.994690"
-  },
-  {
-    "place_id": "0x89b647722296a20d:0",
-    "name": "The Head Space",
-    "address": "13894 Metrotech Dr",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:51:37.825227"
-  },
-  {
-    "place_id": "0x89b63fcfd30e7daf:0",
-    "name": "Summersweet Massage Spa and Wellness",
-    "address": "42785 Generation Dr",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:51:35.788254"
-  },
-  {
-    "place_id": "0x89b63d1eb673c0b3:0",
-    "name": "Zyla Head Spa",
-    "address": "Salon Lofts, 1601 Village Market Blvd SE Suite 100, Loft 12",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:51:33.729838"
-  },
-  {
-    "place_id": "0x89b63ebc7fdc5d37:0",
-    "name": "Zenith Massage Center",
-    "address": "20605 Gordon Pk Sq #150",
-    "category": "Massage therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:51:31.076441"
   }
 ]
