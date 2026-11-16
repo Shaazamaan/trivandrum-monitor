@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05eb9669efc3cb:0",
+    "name": "SM Traders (Grocery and Cattle Feeds)",
+    "address": "MQ5M+H7P",
+    "category": "Convenience store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 01:58:31.880666"
+  },
+  {
     "place_id": "0x3b05bb782f436ebf:0",
     "name": "Babu Store Wholesale and Retail",
     "address": "28",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 13:36:36.532492"
-  },
-  {
-    "place_id": "0x3b05b892969a58ff:0",
-    "name": "Fair Face Unisex Salon & Makeover Studio",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:36:35.347495"
   }
 ]
