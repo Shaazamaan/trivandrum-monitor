@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05efeb2007d82b:0",
+    "name": "Chhurpi Cafe",
+    "address": "KGP Building, 33/147",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 20:09:34.407353"
+  },
+  {
     "place_id": "0x3b05b959e4c5e809:0",
     "name": "Asian Paints Colourideas - Thayillam Paints",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 06:06:03.603703"
-  },
-  {
-    "place_id": "0x880e2bfd391639b9:0",
-    "name": "Amour Salon Suites",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:02.419903"
   }
 ]
