@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05ef6fea66bbaf:0",
+    "name": "A One Furniture",
+    "address": "QM6X+HW5",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 09:14:43.720806"
+  },
+  {
+    "place_id": "0x3b05ef1681a287d7:0",
+    "name": "Threads and Gems by Zan",
+    "address": "Parayil school road, near joshis super market",
+    "category": "Dress store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 09:14:42.491713"
+  },
+  {
     "place_id": "0x3b080d0b17f3151f:0",
     "name": "CommAce Commerce Tuition Trivandrum",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:54:41.670953"
-  },
-  {
-    "place_id": "0x89b63b7b4f3478d7:0",
-    "name": "Dreams and Destinations Travel",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:39.124237"
-  },
-  {
-    "place_id": "0x89b7b7ef9a559a87:0",
-    "name": "Lorla Studio - Interior Design Washington DC",
-    "address": "1717 N St NW #1",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:54:37.931988"
   }
 ]
