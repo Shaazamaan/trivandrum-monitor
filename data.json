@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb4f06ff8a63:0",
+    "name": "MEN CITY",
+    "address": "Trivandrum Vizhinjam Rd",
+    "category": "Clothing store",
+    "phone": "+91 95670 97754",
+    "website": null,
+    "discovered_at": "2026-11-16 17:09:17.841531"
+  },
+  {
+    "place_id": "0x880e2dd0cfa5216f:0",
+    "name": "Virginia Ray Designs and Events",
+    "address": "730 W Lake St #204",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 17:09:16.599752"
+  },
+  {
     "place_id": "0x3b05b9c9326839db:0",
     "name": "SOORAJ TOUR'S & TRAVELS",
     "address": "Trivandrum",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 03:13:55.258583"
-  },
-  {
-    "place_id": "0x5499395e9531b903:0",
-    "name": "Fanning Realtors",
-    "address": "",
-    "category": "Commercial real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:13:53.880358"
-  },
-  {
-    "place_id": "0x54993f38af764c19:0",
-    "name": "RE/MAX The Collective Grant County",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:13:52.638145"
   }
 ]
