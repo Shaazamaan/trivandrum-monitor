@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b970c1317693:0",
+    "name": "Central Plaza Hotel",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:23:45.685568"
+  },
+  {
     "place_id": "0x3b05aff5ae4093db:0",
     "name": "Zam Zam Thattukada",
     "address": "C35F+V46 ZAM ZAM THATTUKADA, ARALIMOODU THIRUVANATHAPURAM ROAD, near ROLLANDS HOSPITAL",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 03:13:48.857484"
-  },
-  {
-    "place_id": "0x54906da5d1d3fa01:0",
-    "name": "Firaash Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:13:46.683194"
   }
 ]
