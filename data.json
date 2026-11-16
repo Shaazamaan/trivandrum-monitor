@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05c17432c2ada9:0",
+    "name": "Dr Krishnakumar 'Sooryakanthi'",
+    "address": "MRRV+X6M",
+    "category": "Veterinarian",
+    "phone": "+91 94477 72164",
+    "website": null,
+    "discovered_at": "2026-11-16 00:48:11.164147"
+  },
+  {
+    "place_id": "0x3b05e962d8d6fbd5:0",
+    "name": "Bright Care Dental Clinic",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 95673 61908",
+    "website": null,
+    "discovered_at": "2026-11-16 00:48:09.794844"
+  },
+  {
+    "place_id": "0x3b05ef32189224e1:0",
+    "name": "Beach House Varkala by Palmyra",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 95621 56699",
+    "website": null,
+    "discovered_at": "2026-11-16 00:48:08.533074"
+  },
+  {
+    "place_id": "0x3b05ef6073e6c093:0",
+    "name": "Vibes Beach House",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 98950 12430",
+    "website": null,
+    "discovered_at": "2026-11-16 00:48:07.289878"
+  },
+  {
+    "place_id": "0x3b05e950e4486089:0",
+    "name": "A R FITNESS STUDIO WOMEN’S ONLY",
+    "address": "Vadasserikonam, Clavara",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:48:06.072052"
+  },
+  {
+    "place_id": "0x3b05ef001ee7ac37:0",
+    "name": "Blinkit Varkala",
+    "address": "PPV4+6C5",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:48:04.831743"
+  },
+  {
+    "place_id": "0x3b05ef70a8e5bd89:0",
+    "name": "Kerala Cafe Restaurant Varkala",
+    "address": "Thiruvambadi road near varkala cliff, Varkala",
+    "category": "South Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:48:02.981744"
+  },
+  {
+    "place_id": "0x3b05ef195be91503:0",
+    "name": "IHA Ayurveda Resort",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 87141 03099",
+    "website": null,
+    "discovered_at": "2026-11-16 00:48:01.663339"
+  },
+  {
     "place_id": "0x3b05bffbeea345dd:0",
     "name": "Motoos Restaurant",
     "address": "GVRP+W6Q, Sreekariyam - Kazhakuttam Rd",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 13:06:46.261878"
-  },
-  {
-    "place_id": "0x5498e1aa32ec2747:0",
-    "name": "Islasluxury",
-    "address": "391 E Main St",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:44.915413"
-  },
-  {
-    "place_id": "0x5499475ee47f6219:0",
-    "name": "WinCo Foods",
-    "address": "",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:43.616301"
-  },
-  {
-    "place_id": "0x3b05bbb408decf1b:0",
-    "name": "Exclusive Dealer - Exclusive Premium Luxury Mattress Showroom and Shop in Thiruvananthapuram",
-    "address": "Ullash Nagar",
-    "category": "Mattress store",
-    "phone": "+91 94964 78879",
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:41.569131"
-  },
-  {
-    "place_id": "0x3b05bb321ded0019:0",
-    "name": "Santhoshkumar",
-    "address": "FWJX+QFM, Vrindavan Ln",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:40.095444"
-  },
-  {
-    "place_id": "0x3b05bb0078930253:0",
-    "name": "J m marketing",
-    "address": "Padmavilasam Rd",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:38.781973"
-  },
-  {
-    "place_id": "0x549bcd1e5e27ec8d:0",
-    "name": "Walker's Furniture & Mattress East Wenatchee",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:37.551697"
-  },
-  {
-    "place_id": "0x54994703b3c7e0e9:0",
-    "name": "BoxDrop Furniture & Mattress Moses Lake",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:36.122954"
-  },
-  {
-    "place_id": "0x549938ae0f989259:0",
-    "name": "The Home Center",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:06:34.646931"
   }
 ]
