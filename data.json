@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x89acf6682b983b71:0",
+    "name": "Grant Thornton",
+    "address": "",
+    "category": "Accounting firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:32:18.629178"
+  },
+  {
     "place_id": "0x808fcaab9c12e725:0",
     "name": "Gap Factory",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:48:41.826510"
-  },
-  {
-    "place_id": "0x89b63d6b2473b71d:0",
-    "name": "Robeks Fresh Juices & Smoothies",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:48:39.632393"
   }
 ]
