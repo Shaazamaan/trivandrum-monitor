@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bb164dc2f1c7:0",
+    "name": "Happy Tooth Multispeciality Dental Clinic",
+    "address": "P.O, opp. to ESAF BANK",
+    "category": "Dental clinic",
+    "phone": "+91 79091 34502",
+    "website": null,
+    "discovered_at": "2026-11-16 07:19:34.260506"
+  },
+  {
+    "place_id": "0x3b05bb75f1d62f3b:0",
+    "name": "Rysa Dental Clinic - Best Dental Clinic In Trivandrum",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 86062 11119",
+    "website": null,
+    "discovered_at": "2026-11-16 07:19:33.019623"
+  },
+  {
+    "place_id": "0x549879ea9fb11dcb:0",
+    "name": "Travel Leaders",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 07:19:31.792004"
+  },
+  {
+    "place_id": "0x26c03b2349bae911:0",
+    "name": "Amri & Co.",
+    "address": "(253) 880-8928",
+    "category": "Open 24 hours",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 07:19:30.569312"
+  },
+  {
+    "place_id": "0x54a2e146861bb005:0",
+    "name": "Grocery Outlet",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 07:19:29.130287"
+  },
+  {
     "place_id": "0x3b05bdae7bf13bd3:0",
     "name": "Vaidyasala Sri Dhanwanthari Ayurveda Hospital and Child Development Centre",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:52:09.603401"
-  },
-  {
-    "place_id": "0x89b639934e1bd901:0",
-    "name": "Origins Thai Spa",
-    "address": "",
-    "category": "Massage therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:08.443504"
-  },
-  {
-    "place_id": "0x89b6374a321453ed:0",
-    "name": "Health Relax",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:06.448839"
-  },
-  {
-    "place_id": "0x89b637602f07ca7f:0",
-    "name": "Crystal Spa - Massage, Facial & Head Spa",
-    "address": "150 Elden St #150",
-    "category": "Massage therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:05.148118"
-  },
-  {
-    "place_id": "0x89b6399cce8fec27:0",
-    "name": "Meridian Massage Spa",
-    "address": "",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:03.975748"
-  },
-  {
-    "place_id": "0x89b63c73f97d700b:0",
-    "name": "Spa Minérale",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:51:59.341156"
   }
 ]
