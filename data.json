@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05ad45ec9965d9:0",
+    "name": "Golden Palace International Convention Centre",
+    "address": "",
+    "category": "Convention center",
+    "phone": "+91 81119 60005",
+    "website": null,
+    "discovered_at": "2026-11-16 03:44:34.647896"
+  },
+  {
+    "place_id": "0x3b05adfc7604e053:0",
+    "name": "Beauty Brides Makeover Studio",
+    "address": "MSN Plaza, NH Road",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 03:44:33.421643"
+  },
+  {
     "place_id": "0x3b05c366402ea81b:0",
     "name": "Mezla caterers and event’s",
     "address": "+91 97455 14565",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:45:55.733174"
-  },
-  {
-    "place_id": "0x89b639a2c71d4487:0",
-    "name": "Loudoun Sports Therapy Center",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:45:54.540678"
-  },
-  {
-    "place_id": "0x89b63bde3dc84c29:0",
-    "name": "Restore PT & Wellness / FYZICAL Ashburn",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:45:53.388860"
   }
 ]
