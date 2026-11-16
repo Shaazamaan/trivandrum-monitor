@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3ba6378ac53b78cf:0",
+    "name": "Mows - Office Space & Coworking",
+    "address": "PP TOWER, Bapputty by pass",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:11:12.710199"
+  },
+  {
+    "place_id": "0x3b05c909f2c60dff:0",
+    "name": "PS MOTO SPA",
+    "address": "PS MOTO SPA",
+    "category": "Car wash",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:11:11.565939"
+  },
+  {
+    "place_id": "0x3b05cf0049c4ac41:0",
+    "name": "Gains Fitness",
+    "address": "M K Building, NP 6/126 D, Road",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 05:11:10.382428"
+  },
+  {
     "place_id": "0x3b05bbbf2c95b299:0",
     "name": "EasyBuy",
     "address": "Rd Malabar Commercial Plaza, 2nd Flr, Mall of Travancore, near International Airport Road",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:47:49.671454"
-  },
-  {
-    "place_id": "0x89b63ffd550236bf:0",
-    "name": "Dulles Cafe express & catering",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:47.124218"
-  },
-  {
-    "place_id": "0x89b641b5d83b8c9d:0",
-    "name": "Another Broken Egg Cafe",
-    "address": "",
-    "category": "Brunch restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:45.889024"
-  },
-  {
-    "place_id": "0x89b64116d2adb5bd:0",
-    "name": "Brew Birds",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:47:43.773563"
   }
 ]
