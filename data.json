@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x3b05bb3533151c3d:0",
+    "name": "KABEEZ FOOD PRODUCTS",
+    "address": "Closes 2:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 04:30:26.847428"
+  },
+  {
+    "place_id": "0x3b05bb8662cf71c3:0",
+    "name": "Spicy Hub",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 04:30:25.605039"
+  },
+  {
+    "place_id": "0x3b05bb0edf79ffd1:0",
+    "name": "Hotel Vishnu",
+    "address": "near Manacaud Market",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 04:30:24.338742"
+  },
+  {
+    "place_id": "0x3b05bb1a7cac6b09:0",
+    "name": "Attukal Hotel",
+    "address": "FX93+JCH, Medamukku Rd",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 04:30:23.043862"
+  },
+  {
+    "place_id": "0x3b05bbdb170dbdd3:0",
+    "name": "Noora Restaurant",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 96562 95726",
+    "website": null,
+    "discovered_at": "2026-11-16 04:30:21.789379"
+  },
+  {
+    "place_id": "0x3b05bbbc8ba1cdcf:0",
+    "name": "Mesfin Zacharias Abraham, FCA, DISA",
+    "address": "2nd Floor, Devinandanam, Uppalam Rd",
+    "category": "Chartered accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 04:30:20.562255"
+  },
+  {
+    "place_id": "0x3b05bfb65ecbe3f1:0",
+    "name": "Noor Boutique",
+    "address": "HVGV+PC9, Kariyavattom - Chenkottukonam Rd",
+    "category": "Clothing store",
+    "phone": "+91 62824 20559",
+    "website": null,
+    "discovered_at": "2026-11-16 04:30:19.247112"
+  },
+  {
+    "place_id": "0x3b05bf22af4a5b97:0",
+    "name": "ABC Cakess",
+    "address": "Mukkolakal, P.O, Service Rd, near Baskin Robbins",
+    "category": "Cake shop",
+    "phone": "+91 79074 77576",
+    "website": null,
+    "discovered_at": "2026-11-16 04:30:17.933445"
+  },
+  {
+    "place_id": "0x880e4567f22c6349:0",
+    "name": "Neima Coffee & Cafe",
+    "address": "",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 04:30:16.694188"
+  },
+  {
+    "place_id": "0x3b05af847305a5f9:0",
+    "name": "Aswas Diagnostics Nellimoodu",
+    "address": "Nandhanam complex, opposite petrol pump",
+    "category": "Diagnostic center",
+    "phone": "+91 87146 14022",
+    "website": null,
+    "discovered_at": "2026-11-16 04:30:15.442250"
+  },
+  {
     "place_id": "0x3b05bb7cc72c2557:0",
     "name": "Nehrins World",
     "address": "Oolanpara",
@@ -8908,95 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:46:19.773659"
-  },
-  {
-    "place_id": "0x89c9dbfd43395dfd:0",
-    "name": "Prabhava Ayurvedic Herbals",
-    "address": "178 Thomas Johnson Dr #104",
-    "category": "Holistic medicine practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:18.637849"
-  },
-  {
-    "place_id": "0x89b6368bf00fffff:0",
-    "name": "Dr. Ranjana Chawla",
-    "address": "6700 Old McLean Village Dr",
-    "category": "Doctor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:17.355102"
-  },
-  {
-    "place_id": "0x89b63b31e3123eb3:0",
-    "name": "Ayurgene",
-    "address": "",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:16.176583"
-  },
-  {
-    "place_id": "0x89b64f0d70fc6e8d:0",
-    "name": "Prayosham Ayurveda",
-    "address": "",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:14.966513"
-  },
-  {
-    "place_id": "0x89b64bb424c4bf2d:0",
-    "name": "Ayurway Wellness",
-    "address": "346 Maple Ave E",
-    "category": "Wellness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:13.791025"
-  },
-  {
-    "place_id": "0x89b63ed12a3851b3:0",
-    "name": "AID Performance Physical Therapy Ashburn",
-    "address": "",
-    "category": "Physical therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:12.621837"
-  },
-  {
-    "place_id": "0x89b63c0ab5fa0289:0",
-    "name": "PT Solutions of Lansdowne - VHC Health",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:11.384527"
-  },
-  {
-    "place_id": "0x89b63b2fab862cf5:0",
-    "name": "Core Health Pelvic Health Physical Therapy",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:10.227010"
-  },
-  {
-    "place_id": "0x89b63f1809eb71c9:0",
-    "name": "The Jackson Clinics, Physical Therapy",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:09.066171"
-  },
-  {
-    "place_id": "0x89b638d830d73a9d:0",
-    "name": "Select Physical Therapy - Ashburn",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:07.855908"
   }
 ]
