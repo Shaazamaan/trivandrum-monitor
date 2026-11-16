@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05aba09a6e97b1:0",
+    "name": "Colarc Interiors",
+    "address": "Aalumoodu JN",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 04:06:46.627665"
+  },
+  {
+    "place_id": "0x3b05b719a8bf4a23:0",
+    "name": "Edam Design Studio",
+    "address": "Vattiyoorkkav Puliyarakkonam Rd",
+    "category": "Interior designer",
+    "phone": "+91 91883 30605",
+    "website": null,
+    "discovered_at": "2026-11-16 04:06:45.336699"
+  },
+  {
     "place_id": "0x3b080d477fb74145:0",
     "name": "VBV & Associates | Chartered Accountants in Kochi, Kerala | Audit Firm in Kochi, Kerala",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:46:03.174275"
-  },
-  {
-    "place_id": "0x89b63bde3e7a6e7f:0",
-    "name": "Accelerate Physical Therapy",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:01.864613"
-  },
-  {
-    "place_id": "0x89b63fe084eb4337:0",
-    "name": "Pivot PT - Ashburn, an Athletico company",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:00.660392"
   }
 ]
