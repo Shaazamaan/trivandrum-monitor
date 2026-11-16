@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bf00a032a061:0",
+    "name": "M.I Apartments",
+    "address": "Swathy Nagar Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:24:11.236523"
+  },
+  {
+    "place_id": "0x3b05bf982042e929:0",
+    "name": "Women's Day Fashion Boutique & Tailoring",
+    "address": "Stationkadavu",
+    "category": "Boutique",
+    "phone": "+91 98462 21907",
+    "website": null,
+    "discovered_at": "2026-11-16 22:24:09.880883"
+  },
+  {
     "place_id": "0x3b05e982122c63cf:0",
     "name": "sahaya community pharmacy",
     "address": "puthusherimukku",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 06:42:43.426822"
-  },
-  {
-    "place_id": "0x865c67c3450c8cc7:0",
-    "name": "Primal Juice & Smoothies",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:42:40.916185"
-  },
-  {
-    "place_id": "0x865c66d1e9092cf3:0",
-    "name": "DeZavala-Shavano Veterinary Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:42:39.689566"
   }
 ]
