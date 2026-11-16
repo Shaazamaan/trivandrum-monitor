@@ -1,5 +1,104 @@
 [
   {
+    "place_id": "0x3b05c1d88ce00da1:0",
+    "name": "BuildHUB",
+    "address": "",
+    "category": "Furniture manufacturer",
+    "phone": "+91 97445 59557",
+    "website": null,
+    "discovered_at": "2026-11-16 14:36:25.086657"
+  },
+  {
+    "place_id": "0x3b05bf0c5a5f4319:0",
+    "name": "KINFRA Film and IT Park",
+    "address": "",
+    "category": "Technology park",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 14:36:23.820815"
+  },
+  {
+    "place_id": "0x3b05b949c2a70e59:0",
+    "name": "FIAN Group Oil Mill",
+    "address": "Kesavadasapuram - Venjaramoodu Rd",
+    "category": "Store",
+    "phone": "+91 89214 22177",
+    "website": null,
+    "discovered_at": "2026-11-16 14:36:22.530416"
+  },
+  {
+    "place_id": "0x3b080d1e957633f9:0",
+    "name": "InQ Innovation",
+    "address": "",
+    "category": "Coworking space",
+    "phone": "+91 95393 55510",
+    "website": null,
+    "discovered_at": "2026-11-16 14:36:21.201091"
+  },
+  {
+    "place_id": "0x3b05c1005b359c49:0",
+    "name": "Sealand Poultry Farm Mylakuzhi Valiyakattakkal Venjaramoodu",
+    "address": "MVJP+R4X",
+    "category": "Farm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 14:36:19.953053"
+  },
+  {
+    "place_id": "0x3b05c149b72b8b5b:0",
+    "name": "Best Consultancy",
+    "address": "MWG6+H33",
+    "category": "Real estate agency",
+    "phone": "+91 73563 66933",
+    "website": null,
+    "discovered_at": "2026-11-16 14:36:18.700365"
+  },
+  {
+    "place_id": "0x3b05c1fe78ce5513:0",
+    "name": "Life Consultancy Service, Opposite Sindhu Theatre, Thiruvonam Towers, Venjaramoodu",
+    "address": "MWF6+5HG",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 14:36:17.452031"
+  },
+  {
+    "place_id": "0x3b05c17342fbeffb:0",
+    "name": "Meembattu Villa, Deepanagar, Alamthara venjaramoodu",
+    "address": "MVRX+59M",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 14:36:16.242875"
+  },
+  {
+    "place_id": "0x3b05c1007390f727:0",
+    "name": "Nikunjam",
+    "address": "MW68+W6Q, Kesavadasapuram - Venjaramoodu Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 14:36:14.931877"
+  },
+  {
+    "place_id": "0x3b05c1001e5e52c3:0",
+    "name": "AparnaSree",
+    "address": "MWG7+749",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 14:36:13.436018"
+  },
+  {
+    "place_id": "0x3b05c12523ff94b3:0",
+    "name": "DARUL AJWA FAMILY FURNISHED APARTMENTS",
+    "address": "DARUL AJWA, near GOKULAM MEDICAL COLLEGE",
+    "category": "Furnished apartment building",
+    "phone": "+91 79025 98410",
+    "website": null,
+    "discovered_at": "2026-11-16 14:36:12.143369"
+  },
+  {
     "place_id": "0x3b05c30009ad9431:0",
     "name": "Shantigiri Vaidyasala junction",
     "address": "QV9G+5V9 Santhigiri vaidyasala, SH 46Kilimanoor",
@@ -8899,104 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 21:12:37.364980"
-  },
-  {
-    "place_id": "0x872b12a093fb5ee7:0",
-    "name": "Epic Private Wealth",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:35.107038"
-  },
-  {
-    "place_id": "0x872b0d16c09a2e87:0",
-    "name": "CPA Tax Accountant",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:33.866294"
-  },
-  {
-    "place_id": "0x872b12a0d7183a73:0",
-    "name": "Accountants Unlimited",
-    "address": "2211 E Highland Ave #208",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:32.549975"
-  },
-  {
-    "place_id": "0x3b05befb88c7b915:0",
-    "name": "Chandragiri Building",
-    "address": "",
-    "category": "Tour operator",
-    "phone": "+91 94460 62493",
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:31.288068"
-  },
-  {
-    "place_id": "0x3b05bf4c415a2ffd:0",
-    "name": "Travel With Nelson",
-    "address": "Technopark Trivandrum, Techno Mall",
-    "category": "Tour operator",
-    "phone": "+91 79946 26915",
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:30.017137"
-  },
-  {
-    "place_id": "0x872b0abc1b0d4967:0",
-    "name": "Must Do Travels",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:28.621792"
-  },
-  {
-    "place_id": "0x872b450f8d5892ab:0",
-    "name": "Dream Vacations - WeLove2Cruise - Susan Norman",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:27.231962"
-  },
-  {
-    "place_id": "0x6de9945fbaddb97f:0",
-    "name": "Tropic Arrow Travel",
-    "address": "Closes 5 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:25.936735"
-  },
-  {
-    "place_id": "0x872b0bb988377ba1:0",
-    "name": "Travel Destinations Inc.",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:24.576270"
-  },
-  {
-    "place_id": "0x872b71b16536aaab:0",
-    "name": "DennyP Travel",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:23.366194"
-  },
-  {
-    "place_id": "0x872b420d1c28cb59:0",
-    "name": "Great Travel Dealz by Sam",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:22.102306"
   }
 ]
