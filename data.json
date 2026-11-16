@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c30009ad9431:0",
+    "name": "Shantigiri Vaidyasala junction",
+    "address": "QV9G+5V9 Santhigiri vaidyasala, SH 46Kilimanoor",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 14:28:40.510514"
+  },
+  {
+    "place_id": "0x42a18145ce6be6a3:0",
+    "name": "CA Aathira Anil",
+    "address": "Matruka Nagar, 163",
+    "category": "Chartered accountant",
+    "phone": "+91 92070 47791",
+    "website": null,
+    "discovered_at": "2026-11-16 14:28:39.248355"
+  },
+  {
     "place_id": "0x3b0615fa8ae0e1c3:0",
     "name": "Wenyu Event Planners private limited",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 21:12:22.102306"
-  },
-  {
-    "place_id": "0x872bab585734b827:0",
-    "name": "Apropos Creations",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:20.743461"
-  },
-  {
-    "place_id": "0x872b0d10056d2277:0",
-    "name": "Second Level Event Planning",
-    "address": "",
-    "category": "Event management company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 21:12:19.494558"
   }
 ]
