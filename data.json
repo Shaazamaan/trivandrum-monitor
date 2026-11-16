@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b95e84ca81a1:0",
+    "name": "ASUS Exclusive Store - Logtech Infoway",
+    "address": "",
+    "category": "Computer store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 06:14:05.150007"
+  },
+  {
     "place_id": "0x3b05b950914f8cbf:0",
     "name": "M.G. Corporate Center",
     "address": "2nd Floor, MG Corporate Center",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:51:31.076441"
-  },
-  {
-    "place_id": "0x89b63f42de770301:0",
-    "name": "Healing Harmony Spa",
-    "address": "44075 Pipeline Plaza Ste 220",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:51:29.938017"
   }
 ]
