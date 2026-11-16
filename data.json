@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bf0b7619a0eb:0",
+    "name": "Sibi Kasim & Associates",
+    "address": "CASA IRIS, 3/859/2",
+    "category": "Chartered accountant",
+    "phone": "+91 81368 18020",
+    "website": null,
+    "discovered_at": "2026-11-16 02:13:16.568109"
+  },
+  {
+    "place_id": "0x3b05b9000d87991b:0",
+    "name": "Renuka K and Associates",
+    "address": "GXP9+R97",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:13:15.343748"
+  },
+  {
+    "place_id": "0x89b63f41154f8db7:0",
+    "name": "DecorbyRadhya",
+    "address": "20251 Millstead Dr",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:13:14.029842"
+  },
+  {
+    "place_id": "0x3b062b09aaaaaaab:0",
+    "name": "Interio interiors",
+    "address": "opposite Eden Eye Hospital Thekkumgopuram near boat jetty, Thirunakkara S Rd",
+    "category": "Interior designer",
+    "phone": "+91 89213 21750",
+    "website": null,
+    "discovered_at": "2026-11-16 02:13:12.871202"
+  },
+  {
+    "place_id": "0x3b05c1007aaefddb:0",
+    "name": "Niya's Provisional Stores",
+    "address": "MWH4+CJH, Attingal Rd",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 02:13:11.683780"
+  },
+  {
     "place_id": "0x3b05c1ca25f63ef5:0",
     "name": "Palliyara Bakery",
     "address": "Palliyara Bakery, opposite Gokulam Medical College",
@@ -8953,50 +8998,5 @@
     "phone": "+91 73568 87789",
     "website": null,
     "discovered_at": "2026-11-15 14:06:24.624149"
-  },
-  {
-    "place_id": "0x3b05c10073c248e7:0",
-    "name": "Brothers Kitchen",
-    "address": "JV8W+XXG",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:58:55.550772"
-  },
-  {
-    "place_id": "0x3b05ab00423ebbcd:0",
-    "name": "Greentrendz Interiors",
-    "address": "849H+8M7, Parassala - Kollemcode - Poovar - Kovalam Rd",
-    "category": "Interior architect office",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:58:54.293410"
-  },
-  {
-    "place_id": "0x3b05adae927ac5c3:0",
-    "name": "V CONCEPT KITCHEN UNIT & INTERIOR",
-    "address": "Karakkonam, road, near SNDP",
-    "category": "Interior Decorator",
-    "phone": "+91 83003 52371",
-    "website": null,
-    "discovered_at": "2026-11-15 13:58:52.995562"
-  },
-  {
-    "place_id": "0x3b05b700362e5a5d:0",
-    "name": "D & F Company",
-    "address": "Nedumangad Karipoor Rd",
-    "category": "Interior architect office",
-    "phone": "+91 90486 80693",
-    "website": null,
-    "discovered_at": "2026-11-15 13:36:38.936752"
-  },
-  {
-    "place_id": "0x3b05b91031eb7f4b:0",
-    "name": "HEAVEN BUILDERS",
-    "address": "Heaven builders, near canara bank",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 13:36:37.710012"
   }
 ]
