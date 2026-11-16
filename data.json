@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbccc56fb7a1:0",
+    "name": "Fascino Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:15:46.585758"
+  },
+  {
     "place_id": "0x3b05bb007492b96f:0",
     "name": "ORAL D KOWDIAR (THIRUVANANTHAPURAM)",
     "address": "GXG6+29X, SH 2",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:56:35.720170"
-  },
-  {
-    "place_id": "0x865cf560b011045b:0",
-    "name": "Jamba",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:34.430082"
   }
 ]
