@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x678a5d11d5a1d3b3:0",
+    "name": "haja travels",
+    "address": "Closes 6:30 PM",
+    "category": "Open",
+    "phone": "+91 95447 03800",
+    "website": null,
+    "discovered_at": "2026-11-16 04:46:41.276194"
+  },
+  {
+    "place_id": "0x3b05ebe3945ccc01:0",
+    "name": "ADITHYS MEDICALS(അദിതീസ് മെഡിക്കൽസ്)",
+    "address": "Muttappalam, Azhoor - Sasthavattom Rd",
+    "category": "Pharmacy",
+    "phone": "+91 81579 87923",
+    "website": null,
+    "discovered_at": "2026-11-16 04:46:39.961528"
+  },
+  {
+    "place_id": "0x3b05eb4d4e33a227:0",
+    "name": "Kottakkal Aryavaidya Sala, Valiyakada, Chirayinkeezhu",
+    "address": "MQ6R+X26",
+    "category": "Drug store",
+    "phone": "+91 98467 17271",
+    "website": null,
+    "discovered_at": "2026-11-16 04:46:38.717772"
+  },
+  {
+    "place_id": "0x3b05ea4e74ae5739:0",
+    "name": "supplyco Medical Store Chirayinkeezhu",
+    "address": "MQ6P+88Q, near Swamiji Clinic",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 04:46:37.002550"
+  },
+  {
+    "place_id": "0x3b05ebba263005b5:0",
+    "name": "S S Care Medicals",
+    "address": "Market, Junction",
+    "category": "Pharmacy",
+    "phone": "+91 97444 89070",
+    "website": null,
+    "discovered_at": "2026-11-16 04:46:35.803267"
+  },
+  {
+    "place_id": "0x3b05eb2892f18c85:0",
+    "name": "Secure Veterinary Medical Shop",
+    "address": "Railway Over Bridge",
+    "category": "Veterinary pharmacy",
+    "phone": "+91 98951 97977",
+    "website": null,
+    "discovered_at": "2026-11-16 04:46:34.573005"
+  },
+  {
+    "place_id": "0x3b05ef5f9cd32149:0",
+    "name": "TATWAMASI AYURYOGA",
+    "address": "Kurakkanni - Odayam Rd",
+    "category": "Yoga retreat center",
+    "phone": "+91 75949 11210",
+    "website": null,
+    "discovered_at": "2026-11-16 04:46:33.302289"
+  },
+  {
+    "place_id": "0x3b05bf4c111755b7:0",
+    "name": "For health ayurvedic clinic",
+    "address": "near ajmal restaurant",
+    "category": "Health consultant",
+    "phone": "+91 75588 22566",
+    "website": null,
+    "discovered_at": "2026-11-16 04:46:32.080534"
+  },
+  {
+    "place_id": "0x3b05eb007453cd1d:0",
+    "name": "Siddha Varma Clinic",
+    "address": "MQ6P+9MP, near HDFC Bank",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 04:46:30.085942"
+  },
+  {
     "place_id": "0x3b05bff44303f95b:0",
     "name": "MIRAA CLOTHING",
     "address": "opposite karichara mosque",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:46:35.871017"
-  },
-  {
-    "place_id": "0x89b63c0098afe27d:0",
-    "name": "Clarity Eyecare",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:34.613429"
-  },
-  {
-    "place_id": "0x89b63b6d5f661c89:0",
-    "name": "Ashbrook EyeCare",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:33.408657"
-  },
-  {
-    "place_id": "0x89b63975105ee951:0",
-    "name": "Eyedocdulles- Dr. Joanna Barnett",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:32.150648"
-  },
-  {
-    "place_id": "0x89b63c09be22e829:0",
-    "name": "The Eye Center",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:31.006785"
-  },
-  {
-    "place_id": "0x89b63efbb93b4263:0",
-    "name": "Optics&EYECARE",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:29.837734"
-  },
-  {
-    "place_id": "0x89b63c12a458eb5b:0",
-    "name": "Virginia Eye Center PC",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:28.670820"
-  },
-  {
-    "place_id": "0x89b639168543de1d:0",
-    "name": "Your Eye Doctor P.C.",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:27.357310"
-  },
-  {
-    "place_id": "0x89b63eb3ad6eb315:0",
-    "name": "MyEyeDr.",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:26.227822"
-  },
-  {
-    "place_id": "0x89b63ebc7a4c4115:0",
-    "name": "Acuity Vision Care",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:24.964006"
   }
 ]
