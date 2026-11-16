@@ -1,5 +1,104 @@
 [
   {
+    "place_id": "0x3b05e982122c63cf:0",
+    "name": "sahaya community pharmacy",
+    "address": "puthusherimukku",
+    "category": "Medical Center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:15:33.665382"
+  },
+  {
+    "place_id": "0x64dfc9f51bbbdd07:0",
+    "name": "Saju Sanjeev",
+    "address": "Opens 9:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:15:32.418895"
+  },
+  {
+    "place_id": "0x3b05e7dce8180ab9:0",
+    "name": "Alivio Homoeo Clinic",
+    "address": "Varkala Kallambalam Rd Njekkad",
+    "category": "Homeopath",
+    "phone": "+91 70123 77466",
+    "website": null,
+    "discovered_at": "2026-11-16 22:15:31.187110"
+  },
+  {
+    "place_id": "0x3b05e9367e20d1b7:0",
+    "name": "Sriba Homeo Clinic - ശ്രീബ ഹോമിയോ ക്ലിനിക്",
+    "address": "Kallambalam Cherunniyoor Road Cherunniyoor (P.O Cherunniyoor, Junction",
+    "category": "Homeopath",
+    "phone": "+91 98956 05848",
+    "website": null,
+    "discovered_at": "2026-11-16 22:15:29.973174"
+  },
+  {
+    "place_id": "0x808fc968e88e3a51:0",
+    "name": "HQ Trimble Business Area",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:15:28.737510"
+  },
+  {
+    "place_id": "0x808fc9d2f3fd6177:0",
+    "name": "Silicon Valley Driving School",
+    "address": "4701 Patrick Henry Dr Bldg 25 suite 138",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:15:27.402680"
+  },
+  {
+    "place_id": "0x808fb63c21d6e327:0",
+    "name": "Premier Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:15:26.206381"
+  },
+  {
+    "place_id": "0x808fcbac4c65342d:0",
+    "name": "Bay Area Driving Academy",
+    "address": "",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:15:24.970109"
+  },
+  {
+    "place_id": "0x808e345cd95271cf:0",
+    "name": "Daily Drivers Driving School",
+    "address": "2116 Walsh Ave Ste C-5",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:15:23.776124"
+  },
+  {
+    "place_id": "0x3b05af306b0d63df:0",
+    "name": "SN HealthCare - Hospital & Laboratory",
+    "address": "",
+    "category": "Medical laboratory",
+    "phone": "+91 89217 00125",
+    "website": null,
+    "discovered_at": "2026-11-16 22:15:22.474398"
+  },
+  {
+    "place_id": "0x3b05df007c213d4b:0",
+    "name": "Lenskart Anchal Kollam",
+    "address": "Bharkath Villa, Chadayamangalam",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:15:21.248935"
+  },
+  {
     "place_id": "0x3b05c9d5c3fa978f:0",
     "name": "Chempakasserry House",
     "address": "Kottiyathara Rd, near Govt Hospital",
@@ -8899,104 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 06:42:39.689566"
-  },
-  {
-    "place_id": "0x865c6787b3b100fd:0",
-    "name": "Vetco Total Care",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:42:38.472663"
-  },
-  {
-    "place_id": "0x3b05af39704eff37:0",
-    "name": "Homey BAKERY & COOLBAR",
-    "address": "92CQ+78Q",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:42:37.215722"
-  },
-  {
-    "place_id": "0x3b05af9a33093b19:0",
-    "name": "GREATE COMMUNICATION",
-    "address": "Mini Civil Station, opp. Motor Vechicle Department Hospital Junction",
-    "category": "Internet cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:28:43.409147"
-  },
-  {
-    "place_id": "0x3b05e9c5d87304cf:0",
-    "name": "Concept Academy - Spoken English | The English Language Training Institute in Attingal",
-    "address": "KM building, Main Rd, opposite Aswathy Studio, near Private Bus stand",
-    "category": "English language school",
-    "phone": "+91 97455 00052",
-    "website": null,
-    "discovered_at": "2026-11-16 06:28:42.030404"
-  },
-  {
-    "place_id": "0x3b05efb623c232fd:0",
-    "name": "HAYA MEDICALS",
-    "address": "Maithanam, opp. Police station",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:21:41.818311"
-  },
-  {
-    "place_id": "0x3b05ef6fe0c49c73:0",
-    "name": "Kanjana Medical Store",
-    "address": "QM7X+5PM",
-    "category": "Pharmacy",
-    "phone": "+91 96452 58030",
-    "website": null,
-    "discovered_at": "2026-11-16 06:21:40.612571"
-  },
-  {
-    "place_id": "0x3b05ef5085490b27:0",
-    "name": "Dr. Sarika's Sātmya Ayur Clinic & Oushadhi Pharmacy",
-    "address": "Ayiroor-Paripally Rd",
-    "category": "Pharmacy",
-    "phone": "+91 80780 68978",
-    "website": null,
-    "discovered_at": "2026-11-16 06:21:39.421027"
-  },
-  {
-    "place_id": "0x3b05ef27fcf84a11:0",
-    "name": "Hahnemann's Homoeopathic Centre",
-    "address": "12:30 PM",
-    "category": "Closes soon",
-    "phone": "+91 87144 98150",
-    "website": null,
-    "discovered_at": "2026-11-16 06:21:38.206046"
-  },
-  {
-    "place_id": "0x3b05b95e84ca81a1:0",
-    "name": "ASUS Exclusive Store - Logtech Infoway",
-    "address": "",
-    "category": "Computer store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:14:05.150007"
-  },
-  {
-    "place_id": "0x3b05b950914f8cbf:0",
-    "name": "M.G. Corporate Center",
-    "address": "2nd Floor, MG Corporate Center",
-    "category": "Office space rental agency",
-    "phone": "+91 95675 09457",
-    "website": null,
-    "discovered_at": "2026-11-16 06:07:21.583305"
-  },
-  {
-    "place_id": "0x880fc9fa78c50c81:0",
-    "name": "Office Evolution - Chicago-O'Hare",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:07:20.322179"
   }
 ]
