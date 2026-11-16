@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbb008c43513:0",
+    "name": "Lantern Plus Restaurant",
+    "address": "",
+    "category": "Fine dining restaurant",
+    "phone": "+91 90483 96669",
+    "website": null,
+    "discovered_at": "2026-11-16 10:11:42.397810"
+  },
+  {
+    "place_id": "0x3b05bb376a4f8e93:0",
+    "name": "Snowbell Pets",
+    "address": "NANDANAM, KRA B, 42, Vattiyoorkavu - Kulasekharam Rd",
+    "category": "Pet store",
+    "phone": "+91 88488 90126",
+    "website": null,
+    "discovered_at": "2026-11-16 10:11:41.139587"
+  },
+  {
     "place_id": "0x80857df6b81d66e7:0",
     "name": "Jenni Grubba Events | Luxury Destination Wedding Planner",
     "address": "Opens 10 AM",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:55:29.773916"
-  },
-  {
-    "place_id": "0x89b6481eda291d99:0",
-    "name": "Carr Workplaces Reston - Coworking & Office Space",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:55:27.648162"
-  },
-  {
-    "place_id": "0x89b617950269a4b3:0",
-    "name": "15 North King",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:55:25.066034"
   }
 ]
