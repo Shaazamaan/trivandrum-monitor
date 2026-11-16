@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05c31cd2c78ac9:0",
+    "name": "Revive Construction Hot mix Asphalt Plant",
+    "address": "Njavelikonam Rd",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 07:35:36.525600"
+  },
+  {
+    "place_id": "0x880fd3cf63b4e717:0",
+    "name": "Studio 424",
+    "address": "",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 07:35:35.237671"
+  },
+  {
+    "place_id": "0x880e2d00567bc955:0",
+    "name": "Deora Concept",
+    "address": "1653 S Blue Island Ave",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 07:35:34.011099"
+  },
+  {
     "place_id": "0x3b05bd71e1bb4f85:0",
     "name": "Vikhas R Sarma & Associates",
     "address": "GV6V+JC2",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:52:19.858775"
-  },
-  {
-    "place_id": "0x89b63db0dc3eefa7:0",
-    "name": "Woodhouse Spa - Leesburg",
-    "address": "1603 Village Market Blvd SE #116",
-    "category": "Day spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:17.807899"
-  },
-  {
-    "place_id": "0x89b63f3a5007b59b:0",
-    "name": "RxWellness Aesthetics & Anti-Aging - Ashburn",
-    "address": "",
-    "category": "Medical spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:15.785777"
-  },
-  {
-    "place_id": "0x89b639bda9940eeb:0",
-    "name": "Beauty Enhancer Spa",
-    "address": "14 Pidgeon Hill Dr Ste 270",
-    "category": "Medical spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:52:13.762448"
   }
 ]
