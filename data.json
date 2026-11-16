@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbb973544b17:0",
+    "name": "Sunrise Supermarket",
+    "address": "Kaimanam Thiruvallam Rd",
+    "category": "Grocery store",
+    "phone": "+91 98956 66589",
+    "website": null,
+    "discovered_at": "2026-11-16 10:19:59.789492"
+  },
+  {
+    "place_id": "0x3b05bb0da66be07d:0",
+    "name": "Veni supermarket",
+    "address": "Karthika",
+    "category": "Grocery store",
+    "phone": "+91 62826 42982",
+    "website": null,
+    "discovered_at": "2026-11-16 10:19:58.573924"
+  },
+  {
     "place_id": "0x3b05bbb008c43513:0",
     "name": "Lantern Plus Restaurant",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:55:33.090763"
-  },
-  {
-    "place_id": "0x89b63d8152255555:0",
-    "name": "880 Harrison | The Blockchain Building",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:55:31.932107"
-  },
-  {
-    "place_id": "0x89b63be16984474d:0",
-    "name": "Regus - Ashburn - Lakeview University",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:55:29.773916"
   }
 ]
