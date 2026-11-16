@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05ad0065da89db:0",
+    "name": "Aasraya community pharmacy",
+    "address": "PARK JUNCTION, near GOVT GIRLS HIGHSCHOOL",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 20:16:31.708947"
+  },
+  {
+    "place_id": "0x3b05fda6721b716f:0",
+    "name": "Flybees events",
+    "address": "Closes 9 AM",
+    "category": "Open",
+    "phone": "+91 85904 24249",
+    "website": null,
+    "discovered_at": "2026-11-16 20:16:30.293856"
+  },
+  {
     "place_id": "0x3b05efeb2007d82b:0",
     "name": "Chhurpi Cafe",
     "address": "KGP Building, 33/147",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 06:06:06.067310"
-  },
-  {
-    "place_id": "0x880e285790d52e4b:0",
-    "name": "Pump High Energy Fitness Center",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:04.784188"
-  },
-  {
-    "place_id": "0x8816082079895149:0",
-    "name": "In Touch Salonspa",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:06:03.603703"
   }
 ]
