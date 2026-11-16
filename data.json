@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05a98150a5f8eb:0",
+    "name": "M5 Mens And Kids Wear",
+    "address": "83CC+5X6",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 06:42:43.426822"
+  },
+  {
+    "place_id": "0x865c67c3450c8cc7:0",
+    "name": "Primal Juice & Smoothies",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 06:42:40.916185"
+  },
+  {
+    "place_id": "0x865c66d1e9092cf3:0",
+    "name": "DeZavala-Shavano Veterinary Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 06:42:39.689566"
+  },
+  {
+    "place_id": "0x865c6787b3b100fd:0",
+    "name": "Vetco Total Care",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 06:42:38.472663"
+  },
+  {
+    "place_id": "0x3b05af39704eff37:0",
+    "name": "Homey BAKERY & COOLBAR",
+    "address": "92CQ+78Q",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 06:42:37.215722"
+  },
+  {
     "place_id": "0x3b05af9a33093b19:0",
     "name": "GREATE COMMUNICATION",
     "address": "Mini Civil Station, opp. Motor Vechicle Department Hospital Junction",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:51:53.787899"
-  },
-  {
-    "place_id": "0x89b63fe667539d4b:0",
-    "name": "Restore Rx Massage",
-    "address": "",
-    "category": "Massage therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:51:51.666504"
-  },
-  {
-    "place_id": "0x89b6416043ae0db5:0",
-    "name": "King SPA",
-    "address": "",
-    "category": "Day spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:51:49.466819"
-  },
-  {
-    "place_id": "0x89b63ddd4eb948cd:0",
-    "name": "VitalOskin Spa",
-    "address": "",
-    "category": "Facial spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:51:48.255991"
-  },
-  {
-    "place_id": "0x72bb7e37a96bbc5:0",
-    "name": "Spa Care (Threading, Skincare, Waxing, Massage & More)",
-    "address": "",
-    "category": "Day spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:51:45.831018"
-  },
-  {
-    "place_id": "0x89b63953612865db:0",
-    "name": "Zenera Massage",
-    "address": "45665 W Church Rd #110",
-    "category": "Massage therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:51:43.658807"
   }
 ]
