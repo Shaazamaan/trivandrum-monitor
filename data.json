@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bba8912c1e0f:0",
+    "name": "Auxano Pharmacy Tvm",
+    "address": "murinjapalam , medical college, Pazhaya Rd, opposite Pankayam Restaurant",
+    "category": "Pharmacy",
+    "phone": "+91 62355 00023",
+    "website": null,
+    "discovered_at": "2026-11-16 22:46:35.339192"
+  },
+  {
     "place_id": "0x808f7efc1c681ac1:0",
     "name": "J & S Accounting Inc",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 08:14:06.796147"
-  },
-  {
-    "place_id": "0x54986db7daf89f9f:0",
-    "name": "All Aspects Bookkeeping, LLC",
-    "address": "33106 Hummingbird PR NE",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:14:05.580245"
   }
 ]
