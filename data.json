@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbbcfffe55a5:0",
+    "name": "SOORYA PHARMA",
+    "address": "FWVH+H74, Chirakkulam Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 19:36:32.491755"
+  },
+  {
+    "place_id": "0x3b05bb006ae06c17:0",
+    "name": "Pradhan Mantri Jan Aushadhi Medical Store",
+    "address": "FWXV+JP7",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 19:36:30.898431"
+  },
+  {
     "place_id": "0x3b05bbf3f9aa3873:0",
     "name": "insta cafe aristo",
     "address": "Trivandrum",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 05:22:17.204755"
-  },
-  {
-    "place_id": "0x808e2fa527ad148b:0",
-    "name": "MedVet Silicon Valley",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 05:22:15.955961"
-  },
-  {
-    "place_id": "0x808fba0558b2a12f:0",
-    "name": "Costco Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 05:22:14.507555"
   }
 ]
