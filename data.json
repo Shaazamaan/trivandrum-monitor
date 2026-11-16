@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bff44303f95b:0",
+    "name": "MIRAA CLOTHING",
+    "address": "opposite karichara mosque",
+    "category": "Boutique",
+    "phone": "+91 79071 44956",
+    "website": null,
+    "discovered_at": "2026-11-16 04:39:20.363430"
+  },
+  {
+    "place_id": "0x3b05bd0ba34cb769:0",
+    "name": "YeaMe By Lollipopz",
+    "address": "NH 66, Kuzhivila, opp. Gokulam Grand",
+    "category": "Clothing store",
+    "phone": "+91 80891 44436",
+    "website": null,
+    "discovered_at": "2026-11-16 04:39:19.140746"
+  },
+  {
+    "place_id": "0x3b05bb45a49234f1:0",
+    "name": "Sree Krishna collections",
+    "address": "PATHMANESHWARA BHAVAN PERUMTHANNI SUBHASH NAGAR Thiruvananthapuram Pettah -695024",
+    "category": "Jewelry store",
+    "phone": "+91 99957 01068",
+    "website": null,
+    "discovered_at": "2026-11-16 04:39:16.623057"
+  },
+  {
+    "place_id": "0x3b05bb64956767d3:0",
+    "name": "Phoenix Mobiles",
+    "address": "40/120, Junction, near Attakulangara",
+    "category": "Cell phone store",
+    "phone": "+91 99476 99476",
+    "website": null,
+    "discovered_at": "2026-11-16 04:39:15.394084"
+  },
+  {
     "place_id": "0x3b05bb3533151c3d:0",
     "name": "KABEEZ FOOD PRODUCTS",
     "address": "Closes 2:30 PM",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 15:46:24.964006"
-  },
-  {
-    "place_id": "0x89b7df366506eb71:0",
-    "name": "Rozzy Ayurvedic Aesthetics and Wellness Medispa- Offering Mobile Services",
-    "address": "11720 Beltsville Dr 500 Unit A13",
-    "category": "Wellness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:23.798571"
-  },
-  {
-    "place_id": "0x89b6efd774773c6f:0",
-    "name": "AyurVida Center",
-    "address": "40 Shermans Ridge Rd",
-    "category": "Meditation instructor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:22.079249"
-  },
-  {
-    "place_id": "0x89b7b7c08e52337d:0",
-    "name": "Ashwani Ayurveda",
-    "address": "380 St Kilda Road",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:20.931171"
-  },
-  {
-    "place_id": "0x89b64904f2f41303:0",
-    "name": "Apurva Wellness LLC",
-    "address": "11109 Sunset Hills Rd",
-    "category": "Wellness program",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 15:46:19.773659"
   }
 ]
