@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x87ec579a35ffe345:0",
+    "name": "Eye Care Associates",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 16:31:01.804732"
+  },
+  {
     "place_id": "0x3b05b970c1317693:0",
     "name": "Central Plaza Hotel",
     "address": "Trivandrum",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 03:13:50.126447"
-  },
-  {
-    "place_id": "0x5498e1a092602f5b:0",
-    "name": "Ricky Nunez, RE/MAX Northwest Realtors",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 03:13:48.857484"
   }
 ]
