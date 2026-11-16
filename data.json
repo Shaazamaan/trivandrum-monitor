@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb007492b96f:0",
+    "name": "ORAL D KOWDIAR (THIRUVANANTHAPURAM)",
+    "address": "GXG6+29X, SH 2",
+    "category": "Dental radiology",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:08:22.658795"
+  },
+  {
+    "place_id": "0x3b05bb22ec4357b1:0",
+    "name": "Velocity vault - High performance fitness centre",
+    "address": "H99, TPJ NAGAR",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 00:08:21.451585"
+  },
+  {
     "place_id": "0x3b05bb2d072ae317:0",
     "name": "KL 01 Restaurant",
     "address": "Hospital Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-15 12:56:34.430082"
-  },
-  {
-    "place_id": "0x865cf5921a480c45:0",
-    "name": "JuiceLand",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:31.415530"
-  },
-  {
-    "place_id": "0x865c8bc7001d0663:0",
-    "name": "Bee's Wellness Cafe & Juicery",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-15 12:56:29.215912"
   }
 ]
