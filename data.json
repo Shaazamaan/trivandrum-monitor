@@ -1,5 +1,653 @@
 [
   {
+    "place_id": "0x808f7efc1c681ac1:0",
+    "name": "J & S Accounting Inc",
+    "address": "",
+    "category": "Accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:39:06.180192"
+  },
+  {
+    "place_id": "0x80858062eebc0001:0",
+    "name": "Cristian Borcan, CPA PC",
+    "address": "",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:39:04.844974"
+  },
+  {
+    "place_id": "0x808f7c4a42806029:0",
+    "name": "Aigul CPA & Associates",
+    "address": "",
+    "category": "Tax preparation service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:39:03.602256"
+  },
+  {
+    "place_id": "0x808f7e38680f9863:0",
+    "name": "H&C Enterprise, Inc",
+    "address": "3015 22nd St",
+    "category": "Tax preparation service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:39:02.371778"
+  },
+  {
+    "place_id": "0x8085808ae8013617:0",
+    "name": "HRH Accountancy Corporation",
+    "address": "",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:39:01.177086"
+  },
+  {
+    "place_id": "0x808f7e3ec9c225bf:0",
+    "name": "Travelnet",
+    "address": "2492 Mission St",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:59.939875"
+  },
+  {
+    "place_id": "0x808f7e3f34fba04b:0",
+    "name": "Imperial Travel Services",
+    "address": "2649 Mission St",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:58.725019"
+  },
+  {
+    "place_id": "0x80858064e0dad5c9:0",
+    "name": "Mandy Scott Events",
+    "address": "2166 Union St",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:57.515053"
+  },
+  {
+    "place_id": "0x808580617d87fecf:0",
+    "name": "Event Solutions Productions",
+    "address": "101 California St Ste 3250",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:56.297111"
+  },
+  {
+    "place_id": "0x4b88bd9b14d6182d:0",
+    "name": "PopandCelebrate (Event Planners and Balloon Decor)",
+    "address": "4142 26th St",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:55.041332"
+  },
+  {
+    "place_id": "0x808580c7be5525d7:0",
+    "name": "Dream A Little Dream Events",
+    "address": "2001 Fillmore St #2",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:53.743600"
+  },
+  {
+    "place_id": "0x8085813367dbecdd:0",
+    "name": "Shift + Alt Events",
+    "address": "555 4th St",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:52.528030"
+  },
+  {
+    "place_id": "0x808f7facb47b612f:0",
+    "name": "The Castroof",
+    "address": "4128 23rd St",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:51.267531"
+  },
+  {
+    "place_id": "0x808f7e5882077185:0",
+    "name": "Inspire Productions",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:50.016168"
+  },
+  {
+    "place_id": "0x808587362825b465:0",
+    "name": "Make It Mariko Events",
+    "address": "",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:48.741225"
+  },
+  {
+    "place_id": "0x808f7e2def1c8d93:0",
+    "name": "Antonio Martins Interior Design",
+    "address": "550 15th St #32",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:47.517936"
+  },
+  {
+    "place_id": "0x808f7f2eac64be95:0",
+    "name": "Via D'sa Interior Design",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:46.326418"
+  },
+  {
+    "place_id": "0x808f7f9a3a8db9ad:0",
+    "name": "Kristen Peña Interiors",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:45.121236"
+  },
+  {
+    "place_id": "0x808580a486ea2a95:0",
+    "name": "Noz Design",
+    "address": "657 Fillmore St",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:43.916549"
+  },
+  {
+    "place_id": "0x808580eccc0d061d:0",
+    "name": "Niche Interiors",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:42.722836"
+  },
+  {
+    "place_id": "0x808f7fd6f3fbbec3:0",
+    "name": "FormAndField",
+    "address": "",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:41.469585"
+  },
+  {
+    "place_id": "0x808f7e136d9b5f09:0",
+    "name": "Danielle Lazier - Vivre Real Estate",
+    "address": "Closes 8 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:40.238665"
+  },
+  {
+    "place_id": "0x808f7de48964be4b:0",
+    "name": "Ernest Salinas Real Estate Agent",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:38.925286"
+  },
+  {
+    "place_id": "0x808580c87d63e2a9:0",
+    "name": "Richard Sarro I San Francisco Bay Area Real Estate Agent",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:37.743036"
+  },
+  {
+    "place_id": "0x808f7fd5f8d9cf95:0",
+    "name": "Kevin & Nini Gueco | Kinoko Real Estate | San Francisco Realtors",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:36.527061"
+  },
+  {
+    "place_id": "0xf7ef088aed2a395:0",
+    "name": "Christopher Lee Real Estate Agent San Francisco",
+    "address": "",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:35.322394"
+  },
+  {
+    "place_id": "0x808581a16ed04b97:0",
+    "name": "Ruth Krishnan - San Francisco Real Estate",
+    "address": "",
+    "category": "Real estate agent",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:33.994289"
+  },
+  {
+    "place_id": "0x808f7e46b3ce716d:0",
+    "name": "Guerrero Driving School",
+    "address": "2989 Mission St #1",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:32.749558"
+  },
+  {
+    "place_id": "0x808f7d986ca6c717:0",
+    "name": "Payless Driving Lesson",
+    "address": "1165 Folsom St",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:30.761150"
+  },
+  {
+    "place_id": "0x808f7e637d497fdd:0",
+    "name": "The Park Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:29.330967"
+  },
+  {
+    "place_id": "0x808f7efce4fa4f1f:0",
+    "name": "Image Hair Tech Beauty Salon",
+    "address": "2491 San Bruno Ave",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:28.087643"
+  },
+  {
+    "place_id": "0x80858088592dc401:0",
+    "name": "Brilliant Earth",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:26.846265"
+  },
+  {
+    "place_id": "0x8085805f4ec421d5:0",
+    "name": "GKrown Jewelers",
+    "address": "233 Post St Ste 201",
+    "category": "Jeweler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:25.661652"
+  },
+  {
+    "place_id": "0x808f7e3f0ed78033:0",
+    "name": "Love & Luxe",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:24.355561"
+  },
+  {
+    "place_id": "0x808f7e2c76ec340f:0",
+    "name": "Jewelry Art Center",
+    "address": "",
+    "category": "Jewelry designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:23.074225"
+  },
+  {
+    "place_id": "0x808580889bc8761f:0",
+    "name": "Zaki's Jewelry Repair",
+    "address": "833 Market St #508",
+    "category": "Jewelry repair service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:21.836678"
+  },
+  {
+    "place_id": "0x808f7e2c76ed152d:0",
+    "name": "San Francisco Gift & Jewelry Center",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:20.630666"
+  },
+  {
+    "place_id": "0x808f7e2b78701ecf:0",
+    "name": "RP Diamonds & Gold Imports",
+    "address": "",
+    "category": "Jeweler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:19.324293"
+  },
+  {
+    "place_id": "0x808580d6d37e4471:0",
+    "name": "Furniture Envy Sofas",
+    "address": "2240 Lombard St",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:18.102082"
+  },
+  {
+    "place_id": "0x808f7e2eb0f83d63:0",
+    "name": "Arkitektura",
+    "address": "560 9th St",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:16.809987"
+  },
+  {
+    "place_id": "0x808f7e2d6f7f3315:0",
+    "name": "San Francisco Design Center",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:15.523096"
+  },
+  {
+    "place_id": "0x80857e1b552c112f:0",
+    "name": "Dimensional Outlet Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:14.250748"
+  },
+  {
+    "place_id": "0x808f7fe4bfb8d70f:0",
+    "name": "Article - San Francisco",
+    "address": "2299 Alameda St",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:13.029017"
+  },
+  {
+    "place_id": "0x808f7e2cb1ee40b7:0",
+    "name": "Room & Board",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:11.821741"
+  },
+  {
+    "place_id": "0x808f7fd7fa9cb66d:0",
+    "name": "BoConcept San Francisco",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:10.570885"
+  },
+  {
+    "place_id": "0x808f77a1678891a1:0",
+    "name": "Living Spaces",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:09.340466"
+  },
+  {
+    "place_id": "0x808f7e3c97986139:0",
+    "name": "Today's Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:08.098833"
+  },
+  {
+    "place_id": "0x808580c78da78ca1:0",
+    "name": "45R San Francisco",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:06.820557"
+  },
+  {
+    "place_id": "0x808de7b0690e043b:0",
+    "name": "ENGRAFFT",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:05.585717"
+  },
+  {
+    "place_id": "0x808580f151f300e9:0",
+    "name": "Paparazzi",
+    "address": "",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:04.382215"
+  },
+  {
+    "place_id": "0x8085808b661678a1:0",
+    "name": "KIM+ONO",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:03.087847"
+  },
+  {
+    "place_id": "0x808581ecf030c899:0",
+    "name": "Wilkes Bashford",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:38:01.894356"
+  },
+  {
+    "place_id": "0x8085875c4de65af3:0",
+    "name": "Ambiance SF",
+    "address": "",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:59.865921"
+  },
+  {
+    "place_id": "0x808580d6bd9b1e81:0",
+    "name": "Studio on Chestnut",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:58.611705"
+  },
+  {
+    "place_id": "0x808580acf553dcbb:0",
+    "name": "The Love of Ganesha",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:57.406790"
+  },
+  {
+    "place_id": "0x8085875233083e29:0",
+    "name": "Sockshop Haight Street",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:56.214355"
+  },
+  {
+    "place_id": "0x808580aced6d7d39:0",
+    "name": "Ceiba SF",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:54.964062"
+  },
+  {
+    "place_id": "0x8085808844d4a7c9:0",
+    "name": "Harajuku Hearts",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:53.592793"
+  },
+  {
+    "place_id": "0x8085818f1369ccfb:0",
+    "name": "Faherty San Francisco",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:52.297664"
+  },
+  {
+    "place_id": "0x808581001939af47:0",
+    "name": "Roark",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:51.075871"
+  },
+  {
+    "place_id": "0x808580acc0aa7c11:0",
+    "name": "True",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:49.871655"
+  },
+  {
+    "place_id": "0x808f7e12f558c089:0",
+    "name": "two birds",
+    "address": "",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:48.657006"
+  },
+  {
+    "place_id": "0x808581b1a53fe009:0",
+    "name": "Todd Snyder San Francisco Hayes Valley",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:47.421558"
+  },
+  {
+    "place_id": "0x808f7e3f76c60b41:0",
+    "name": "Cut Loose",
+    "address": "",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:46.193775"
+  },
+  {
+    "place_id": "0x808580a6f298039f:0",
+    "name": "Wild Feather",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:45.004574"
+  },
+  {
+    "place_id": "0x8085808f582b3ba1:0",
+    "name": "Urban Outfitters",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:43.817552"
+  },
+  {
+    "place_id": "0x808f7e21886a219b:0",
+    "name": "Nooworks",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:42.613156"
+  },
+  {
+    "place_id": "0x808f7e13626168c7:0",
+    "name": "Pressed Juicery",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:41.367705"
+  },
+  {
+    "place_id": "0x808580a20a542963:0",
+    "name": "Juice Shop",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:40.067644"
+  },
+  {
+    "place_id": "0x808f7e4fcf394627:0",
+    "name": "Precita Park Cafe & Grill",
+    "address": "",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:38.822495"
+  },
+  {
+    "place_id": "0x808f7f54d4681531:0",
+    "name": "Noe Animal Hospital",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:37.549430"
+  },
+  {
+    "place_id": "0x808f7e73b3cda18d:0",
+    "name": "Seven Hills Veterinary Hospital",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-16 22:37:36.319908"
+  },
+  {
     "place_id": "0x3b05bf00a032a061:0",
     "name": "M.I Apartments",
     "address": "Swathy Nagar Rd",
@@ -8350,653 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 08:14:05.580245"
-  },
-  {
-    "place_id": "0x549879063a83ca23:0",
-    "name": "Owen & Roth",
-    "address": "",
-    "category": "Tax preparation service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:14:04.205120"
-  },
-  {
-    "place_id": "0x54987b007b3a28ab:0",
-    "name": "In Balance CPA Group PLLC",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:14:02.963951"
-  },
-  {
-    "place_id": "0x549879ed84477b15:0",
-    "name": "Oswalt-Jisa CPA's PLLC",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:14:01.739994"
-  },
-  {
-    "place_id": "0x54987b083737445d:0",
-    "name": "Baker & Giles PS",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:14:00.464702"
-  },
-  {
-    "place_id": "0x54a2b904d2a1a5db:0",
-    "name": "Connell & Associates, LLC",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:59.206550"
-  },
-  {
-    "place_id": "0x54987a3c8dc272ed:0",
-    "name": "Northwest CPA Group PLLC",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:57.970014"
-  },
-  {
-    "place_id": "0x54987ad03e48abd5:0",
-    "name": "Christensen King PC CPA's & Financial Advisors",
-    "address": "",
-    "category": "Tax preparation service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:56.747268"
-  },
-  {
-    "place_id": "0x54a2b91e960ab9cb:0",
-    "name": "Barnett & Moro, P.C.",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:55.511450"
-  },
-  {
-    "place_id": "0x549879a373d5dee5:0",
-    "name": "Account Sense PLLC",
-    "address": "Opens 8 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:54.254462"
-  },
-  {
-    "place_id": "0x54987a256b22d2bb:0",
-    "name": "Oord Douglas CPA",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:53.056959"
-  },
-  {
-    "place_id": "0x5498791af39e4d65:0",
-    "name": "Insight Business & Accounting Solutions",
-    "address": "",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:51.849477"
-  },
-  {
-    "place_id": "0x207fc91b95e7cecf:0",
-    "name": "Tru Accounting Services LLC",
-    "address": "",
-    "category": "Bookkeeping service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:50.582608"
-  },
-  {
-    "place_id": "0x54987a248aa4620f:0",
-    "name": "Nilson & Oord PLLC",
-    "address": "",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:49.329652"
-  },
-  {
-    "place_id": "0x54987de246c547e5:0",
-    "name": "Now or Never Travels",
-    "address": "(509) 851-7140",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:48.024328"
-  },
-  {
-    "place_id": "0x5498790463f67413:0",
-    "name": "Your Travel Experts",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:46.776055"
-  },
-  {
-    "place_id": "0x54a2830db603d72d:0",
-    "name": "Vacations with Steph",
-    "address": "205204 E Bowles Rd",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:45.442717"
-  },
-  {
-    "place_id": "0x9c6e9e2acd1084f:0",
-    "name": "Precision Travel Agency",
-    "address": "(509) 440-0769",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:44.172392"
-  },
-  {
-    "place_id": "0x54987aea4a76474f:0",
-    "name": "Rambling Rovers Senior Travel",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:42.910366"
-  },
-  {
-    "place_id": "0x54987bd908330f7f:0",
-    "name": "Compass Seas Travel Agency",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:41.634231"
-  },
-  {
-    "place_id": "0xdec850a804e325b:0",
-    "name": "Stargazer Deluxe Travel",
-    "address": "(509) 720-7857",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:40.372583"
-  },
-  {
-    "place_id": "0x54987aed7e14c4ef:0",
-    "name": "Berkshire Hathaway HomeServices Central Washington Real Estate Tri-Cities",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:39.115380"
-  },
-  {
-    "place_id": "0x54987ebccfb7de69:0",
-    "name": "Tri Cities Realty Group LLC",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:37.901994"
-  },
-  {
-    "place_id": "0x549879bd8ab7ca25:0",
-    "name": "Retter & Company Sotheby's International Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:36.639593"
-  },
-  {
-    "place_id": "0x549879f69f52adc9:0",
-    "name": "CENTURY 21 Tri-Cities",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:35.357332"
-  },
-  {
-    "place_id": "0x54987a1cc8cc01f1:0",
-    "name": "Kenmore Team LLC",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:34.142684"
-  },
-  {
-    "place_id": "0x54987986da5d76ff:0",
-    "name": "Analexis Manjares-Diaz, REALTOR",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:32.930661"
-  },
-  {
-    "place_id": "0x54987992b4c94a3f:0",
-    "name": "Krista Hopkins Homes",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:31.704061"
-  },
-  {
-    "place_id": "0x54987a1e8133d3a1:0",
-    "name": "Berkshire Hathaway HomeServices Tri Cities Real Estate",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:30.369988"
-  },
-  {
-    "place_id": "0x54a2b96df05eed45:0",
-    "name": "Alex Arroyo, Real Estate Agent - Real Broker",
-    "address": "405 N 1st St Unit 101",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:29.158406"
-  },
-  {
-    "place_id": "0x54a2b9268937f8ff:0",
-    "name": "Planet Fitness",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:27.875169"
-  },
-  {
-    "place_id": "0x54a2bbe8ce41c0bf:0",
-    "name": "Hermiston Athletic Club",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:26.639796"
-  },
-  {
-    "place_id": "0x54a2b91b81f41ab1:0",
-    "name": "Sunrise Hair Studio and Suites",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:21.804449"
-  },
-  {
-    "place_id": "0x549871744def9a4d:0",
-    "name": "Salon Bellarosa",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:20.555227"
-  },
-  {
-    "place_id": "0x54987b3aa1772159:0",
-    "name": "Atlas Beauty",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:19.281500"
-  },
-  {
-    "place_id": "0x54a2b9a7e4238e63:0",
-    "name": "Lucy's Beauty Salon",
-    "address": "200 SW 11th St",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:18.050332"
-  },
-  {
-    "place_id": "0x54987b50cc0cecd7:0",
-    "name": "Resilience Beauty Studio LLC",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:16.829890"
-  },
-  {
-    "place_id": "0x54987b0bf03c3beb:0",
-    "name": "Muse Salon & Spa",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:15.567687"
-  },
-  {
-    "place_id": "0x54a2c7691d366145:0",
-    "name": "Wildflower Salon and Spa",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:14.368253"
-  },
-  {
-    "place_id": "0x54a2b91b87fbceef:0",
-    "name": "Goss Family Jewelers",
-    "address": "215 E Main St Ste A",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:12.925380"
-  },
-  {
-    "place_id": "0x54a2b91c75a2e25d:0",
-    "name": "Alexander Daniel Jewelry Works",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:11.708860"
-  },
-  {
-    "place_id": "0xe9ec592b267dd49:0",
-    "name": "XOCHI Jewelry LLC",
-    "address": "",
-    "category": "Jewelry designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:10.451179"
-  },
-  {
-    "place_id": "0x5498798aadfc4f9f:0",
-    "name": "Harry Ritchie's Jewelers Kennewick",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:09.220492"
-  },
-  {
-    "place_id": "0x54a2b91b231474ab:0",
-    "name": "Ochoa's Jewelers",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:07.911249"
-  },
-  {
-    "place_id": "0x54987a1e14248b93:0",
-    "name": "Jewelry Design Center",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:06.635642"
-  },
-  {
-    "place_id": "0x549879a326223773:0",
-    "name": "Touchstone Jewelers",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:05.312756"
-  },
-  {
-    "place_id": "0x54a2b93fd15cffa9:0",
-    "name": "Aaron's Rent To Own",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:04.083388"
-  },
-  {
-    "place_id": "0x54a2e15ae2a209bf:0",
-    "name": "Courtesy Easy-2-Own Home Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:02.873505"
-  },
-  {
-    "place_id": "0x549787a1b2864dcb:0",
-    "name": "Tony's Home Furnishings",
-    "address": "105 S Toppenish Ave",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:01.654130"
-  },
-  {
-    "place_id": "0x54a2b91b2db1aac9:0",
-    "name": "Walker's Furniture & Mattress - Hermiston",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:13:00.308360"
-  },
-  {
-    "place_id": "0x54987aea10da21a5:0",
-    "name": "Richland Bell Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:12:58.966952"
-  },
-  {
-    "place_id": "0x54987a1e54496a71:0",
-    "name": "Phone Shop Tri-Cities",
-    "address": "",
-    "category": "Mobile phone repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:12:57.745092"
-  },
-  {
-    "place_id": "0x54986fef790179b7:0",
-    "name": "TSP Bakeshop",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:12:54.860212"
-  },
-  {
-    "place_id": "0x54987b76a47a83ef:0",
-    "name": "Mid-Columbia Pet Emergency Services",
-    "address": "",
-    "category": "Emergency veterinarian service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 08:12:53.589708"
-  },
-  {
-    "place_id": "0x3b05c649b81d3e49:0",
-    "name": "JEELANI DRIVING SCHOOL",
-    "address": "Panavoor - Puthenpalam Rd",
-    "category": "Driving school",
-    "phone": "+91 99956 66108",
-    "website": null,
-    "discovered_at": "2026-11-16 07:51:10.426732"
-  },
-  {
-    "place_id": "0x3b05bb03d4120f03:0",
-    "name": "Vivid Foods & Events",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": "+91 70129 77225",
-    "website": null,
-    "discovered_at": "2026-11-16 07:51:09.273222"
-  },
-  {
-    "place_id": "0x3b05c92ad0af1757:0",
-    "name": "Eventmanagement",
-    "address": "+91 95397 77847",
-    "category": "Temporarily closed",
-    "phone": "+91 95397 77847",
-    "website": null,
-    "discovered_at": "2026-11-16 07:51:08.026399"
-  },
-  {
-    "place_id": "0x3b05c90019589fb9:0",
-    "name": "Roadarikathu Veedu",
-    "address": "M3GP+43Q",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 07:51:06.872288"
-  },
-  {
-    "place_id": "0x3b05c1ae8ff2ef2b:0",
-    "name": "Art world",
-    "address": "first floor, Atlas building, Attingal Rd, near Harsha paints",
-    "category": "Picture frame shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 07:43:28.472487"
-  },
-  {
-    "place_id": "0x3b05c31cd2c78ac9:0",
-    "name": "Revive Construction Hot mix Asphalt Plant",
-    "address": "Njavelikonam Rd",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 07:35:36.525600"
-  },
-  {
-    "place_id": "0x880fd3cf63b4e717:0",
-    "name": "Studio 424",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 07:35:35.237671"
-  },
-  {
-    "place_id": "0x880e2d00567bc955:0",
-    "name": "Deora Concept",
-    "address": "1653 S Blue Island Ave",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 07:35:34.011099"
-  },
-  {
-    "place_id": "0x3b05bd71e1bb4f85:0",
-    "name": "Vikhas R Sarma & Associates",
-    "address": "GV6V+JC2",
-    "category": "Chartered accountant",
-    "phone": "+91 96451 90150",
-    "website": null,
-    "discovered_at": "2026-11-16 07:28:35.738180"
-  },
-  {
-    "place_id": "0x3b05bb65f3ec5cd7:0",
-    "name": "REDBEE Ladies Fashion Store",
-    "address": "FXJ8+XH3, Karamana Jn, Karamana",
-    "category": "Women's clothing store",
-    "phone": "+91 94472 93949",
-    "website": null,
-    "discovered_at": "2026-11-16 07:28:34.478534"
-  },
-  {
-    "place_id": "0x3b05bb164dc2f1c7:0",
-    "name": "Happy Tooth Multispeciality Dental Clinic",
-    "address": "P.O, opp. to ESAF BANK",
-    "category": "Dental clinic",
-    "phone": "+91 79091 34502",
-    "website": null,
-    "discovered_at": "2026-11-16 07:19:34.260506"
-  },
-  {
-    "place_id": "0x3b05bb75f1d62f3b:0",
-    "name": "Rysa Dental Clinic - Best Dental Clinic In Trivandrum",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": "+91 86062 11119",
-    "website": null,
-    "discovered_at": "2026-11-16 07:19:33.019623"
-  },
-  {
-    "place_id": "0x549879ea9fb11dcb:0",
-    "name": "Travel Leaders",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 07:19:31.792004"
-  },
-  {
-    "place_id": "0x26c03b2349bae911:0",
-    "name": "Amri & Co.",
-    "address": "(253) 880-8928",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 07:19:30.569312"
-  },
-  {
-    "place_id": "0x54a2e146861bb005:0",
-    "name": "Grocery Outlet",
-    "address": "",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 07:19:29.130287"
-  },
-  {
-    "place_id": "0x3b05bdae7bf13bd3:0",
-    "name": "Vaidyasala Sri Dhanwanthari Ayurveda Hospital and Child Development Centre",
-    "address": "",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 79940 74440",
-    "website": null,
-    "discovered_at": "2026-11-16 06:56:32.624638"
-  },
-  {
-    "place_id": "0x3b05abbec5bf6677:0",
-    "name": "Rohini’s Home Bakes",
-    "address": "Closes 7 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:56:31.388066"
-  },
-  {
-    "place_id": "0x3b05a9a29b6c0e13:0",
-    "name": "Smile dent Multi Speciality Dental Clinic",
-    "address": "karakkattil plaza,uchakkada.jn poovar",
-    "category": "Dental clinic",
-    "phone": "+91 99954 69424",
-    "website": null,
-    "discovered_at": "2026-11-16 06:56:30.238436"
-  },
-  {
-    "place_id": "0x3b05a98150a5f8eb:0",
-    "name": "M5 Mens And Kids Wear",
-    "address": "83CC+5X6",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 06:42:43.426822"
   }
 ]
