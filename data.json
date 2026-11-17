@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05eb2b0238c4d7:0",
+    "name": "RV Health Clinic",
+    "address": "",
+    "category": "Hospital",
+    "phone": "+91 94472 06173",
+    "website": null,
+    "discovered_at": "2026-11-17 03:28:01.125683"
+  },
+  {
+    "place_id": "0x3b05bbd9fdc5cb33:0",
+    "name": "Sijeen C and Associates, Chartered Accountants",
+    "address": "Airport Rd",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:27:59.854722"
+  },
+  {
+    "place_id": "0x3b05a5946fcb043b:0",
+    "name": "Aryans Fitness center",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:27:58.573023"
+  },
+  {
+    "place_id": "0x3b05b9188d198897:0",
+    "name": "Priya Multispeciality Dental Clinic",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 85478 52026",
+    "website": null,
+    "discovered_at": "2026-11-17 03:27:57.270294"
+  },
+  {
+    "place_id": "0x3b05bf3cd8bc73c7:0",
+    "name": "GUMS N TEETH MULTISPECIALITY DENTAL CLINIC",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 85900 49595",
+    "website": null,
+    "discovered_at": "2026-11-17 03:27:55.996785"
+  },
+  {
     "place_id": "0x3b05bb1a2117141d:0",
     "name": "Chinduras Textiles, Manacaud",
     "address": "FX83+MRM, Attukal - Chiramukku Rd",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:12:03.376947"
-  },
-  {
-    "place_id": "0x808fcca84eb2c96f:0",
-    "name": "Magy Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:12:02.142777"
-  },
-  {
-    "place_id": "0x808fcdd21a5e407d:0",
-    "name": "Jackys Beauty Salon & Nails",
-    "address": "",
-    "category": "Day spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:12:00.913381"
-  },
-  {
-    "place_id": "0x808fcce1d24072d1:0",
-    "name": "Lucy's Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:59.706652"
-  },
-  {
-    "place_id": "0x808fcb5ce648713f:0",
-    "name": "Bedolla Salon",
-    "address": "613 S 1st St",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:58.497003"
-  },
-  {
-    "place_id": "0x808fcc840f1428bf:0",
-    "name": "Kaizen Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:57.300902"
   }
 ]
