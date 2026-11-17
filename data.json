@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05bbcb2a71532f:0",
+    "name": "Bake n Corner - killipalam jn",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:32:02.255921"
+  },
+  {
+    "place_id": "0x3b05aba81f4adfb9:0",
+    "name": "Johnson Apartments",
+    "address": "Opp: Infosys, near Murugan Temple",
+    "category": "Furnished apartment building",
+    "phone": "+91 90202 80957",
+    "website": null,
+    "discovered_at": "2026-11-17 09:32:00.851580"
+  },
+  {
+    "place_id": "0x3b05bf001b511ea3:0",
+    "name": "Brigade Square",
+    "address": "Technopark Rd",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:31:59.678107"
+  },
+  {
+    "place_id": "0x3b05befaebebc633:0",
+    "name": "Faith InfoTech Academy Technopark",
+    "address": "",
+    "category": "Software training institute",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:31:58.402892"
+  },
+  {
+    "place_id": "0x3b05bf463dfbcc0f:0",
+    "name": "Euro Spa - Trivandrum",
+    "address": "Park Centre",
+    "category": "Wellness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:31:57.151361"
+  },
+  {
+    "place_id": "0x3b05bf462badd55b:0",
+    "name": "Alex Furnitures",
+    "address": "TC/3, 2659/2, Kariyavattom - Chenkottukonam Rd, opp. Kripa Clinic",
+    "category": "Furniture store",
+    "phone": "+91 96630 36646",
+    "website": null,
+    "discovered_at": "2026-11-17 09:31:55.931176"
+  },
+  {
     "place_id": "0x3b05bf524eda10ed:0",
     "name": "Ovenly Snack Shack",
     "address": "Near, NH-66, Technopark Phase III Main Rd",
@@ -8944,59 +8998,5 @@
     "phone": "+91 81298 85555",
     "website": null,
     "discovered_at": "2026-11-17 04:10:52.408414"
-  },
-  {
-    "place_id": "0x3e5f0d561a74cde3:0",
-    "name": "Al Shahad Restaurant & Cafeteria",
-    "address": "opposite master baker marketing FZCO",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:52.407036"
-  },
-  {
-    "place_id": "0x3b05b918ef216aeb:0",
-    "name": "Kerala cafe",
-    "address": "4th Floor, KEMP, Technopark Trivandrum, Thejaswini, Technopark Rd",
-    "category": "Kerala restaurant",
-    "phone": "+91 96057 60130",
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:52.405611"
-  },
-  {
-    "place_id": "0x3b05bf780c456bf7:0",
-    "name": "Kottayam Kitchen",
-    "address": "",
-    "category": "Kerala restaurant",
-    "phone": "+91 87143 27700",
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:52.404182"
-  },
-  {
-    "place_id": "0x3b05bf1860211a4d:0",
-    "name": "Rasoi restaurant",
-    "address": "Nila Building, Technopark Rd",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:52.402898"
-  },
-  {
-    "place_id": "0x3b05bf76f8b41bd7:0",
-    "name": "The Salad Box Technopark",
-    "address": "Manvila, PO, Sreekaryam - Kulathoor Rd, opposite of Madhavavilasom Service Co operative Bank",
-    "category": "Continental restaurant",
-    "phone": "+91 99951 41415",
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:52.401480"
-  },
-  {
-    "place_id": "0x3b05bf0a7d5c3245:0",
-    "name": "Nammuru Kitchen",
-    "address": "Service Rd, opposite Technopark Road",
-    "category": "Biryani restaurant",
-    "phone": "+91 97781 51778",
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:52.400074"
   }
 ]
