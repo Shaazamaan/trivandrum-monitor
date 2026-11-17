@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05b958d0a53b63:0",
+    "name": "Our Gym unisex fitness centre",
+    "address": "market road",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:44:37.837260"
+  },
+  {
+    "place_id": "0x3b0453f0e8820305:0",
+    "name": "S R BAKERS",
+    "address": "S R BAKERS",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:44:36.472101"
+  },
+  {
+    "place_id": "0x3b05c9bc6a5aac89:0",
+    "name": "Ponmudi Pharma Ayurvedic",
+    "address": "M329+77P",
+    "category": "Manufacturer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:44:34.623196"
+  },
+  {
+    "place_id": "0x3b05b9f26db107d3:0",
+    "name": "Vyasa Academy – PSC, SSC & RRB Coaching Centre, Trivandrum",
+    "address": "Civil Station Road",
+    "category": "Coaching center",
+    "phone": "+91 91883 61259",
+    "website": null,
+    "discovered_at": "2026-11-17 11:44:33.376184"
+  },
+  {
+    "place_id": "0x3b05c9e1346503a5:0",
+    "name": "Vasantha Jewellery",
+    "address": "J3CM+G9Q",
+    "category": "Jeweler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:44:31.969498"
+  },
+  {
     "place_id": "0x3b05c84d1418df79:0",
     "name": "Veterinary Clinic",
     "address": "J3W3+7VX",
@@ -8953,50 +8998,5 @@
     "phone": "+91 97442 23302",
     "website": null,
     "discovered_at": "2026-11-17 04:58:31.432273"
-  },
-  {
-    "place_id": "0x3b05bd818fb80f39:0",
-    "name": "Furniture Factory Outlet",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": "+91 98461 70055",
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.429444"
-  },
-  {
-    "place_id": "0x3b05bfb16f6aca25:0",
-    "name": "ORCHID MOBILES",
-    "address": "",
-    "category": "Cell phone store",
-    "phone": "+91 99953 80380",
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.427750"
-  },
-  {
-    "place_id": "0x3b05b950687f6c53:0",
-    "name": "NASHMIA Collections",
-    "address": "Closes 6:30 PM",
-    "category": "Open",
-    "phone": "+91 96452 22418",
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.406132"
-  },
-  {
-    "place_id": "0x3b05bf328e541ac5:0",
-    "name": "Grace Sports",
-    "address": "TC 96/2982, 1), 329",
-    "category": "Sportswear store",
-    "phone": "+91 82819 75414",
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.400339"
-  },
-  {
-    "place_id": "0x3b05bdbdab75ed43:0",
-    "name": "Basics Life – Lulu Mall, Trivandrum",
-    "address": "",
-    "category": "Men's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.399036"
   }
 ]
