@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c765ef613b17:0",
+    "name": "Dr.Kiran",
+    "address": "Closes 11 PM",
+    "category": "Open",
+    "phone": "+91 94963 49642",
+    "website": null,
+    "discovered_at": "2026-11-17 01:04:20.821571"
+  },
+  {
+    "place_id": "0x808fcd6d0027914f:0",
+    "name": "Above First Salon - Downtown San Jose",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:04:19.574147"
+  },
+  {
     "place_id": "0x3b05bb5639552fd1:0",
     "name": "NIDHI beauty and wellness spa",
     "address": "Trivandrum",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:00:52.334188"
-  },
-  {
-    "place_id": "0x865c8a70b41f5c21:0",
-    "name": "San Antonio Eye Center",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:00:51.127713"
-  },
-  {
-    "place_id": "0x865c5f734b452197:0",
-    "name": "San Antonio Eye Center",
-    "address": "",
-    "category": "Surgical center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:00:49.835590"
   }
 ]
