@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05ba9a25a7ccd3:0",
+    "name": "Archana BOUTIQUE",
+    "address": "F292+F9C, Studio Rd Nemom",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 13:42:53.726547"
+  },
+  {
+    "place_id": "0x3b044d9824449815:0",
+    "name": "Dr. Queenie Veterinary Services",
+    "address": "Rahulam, Pazhayaveetumoozhy, Vellanad P.O",
+    "category": "Veterinarian",
+    "phone": "+91 81389 22355",
+    "website": null,
+    "discovered_at": "2026-11-17 13:42:52.439412"
+  },
+  {
+    "place_id": "0x3b05a56a8bb67471:0",
+    "name": "JANA SEVA COMMUNITY PHARMACY VANDITHADAM",
+    "address": "P.O, JANA SEVA COMMUNITY PHARMACY VANDITHADAM, VELLAYANI",
+    "category": "Pharmacy",
+    "phone": "+91 70346 22349",
+    "website": null,
+    "discovered_at": "2026-11-17 13:42:51.050475"
+  },
+  {
     "place_id": "0x3b05b98fc2dd0edd:0",
     "name": "SARATHY CABS",
     "address": "Vattiyoorkavu, Netaji Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:22:56.141384"
-  },
-  {
-    "place_id": "0x3b05af2b23b06965:0",
-    "name": "Signature Pet Care Studio",
-    "address": "Signature Pet Care Studio, near ST Couriers Gramam",
-    "category": "Pet groomer",
-    "phone": "+91 95444 93871",
-    "website": null,
-    "discovered_at": "2026-11-17 05:22:56.140298"
-  },
-  {
-    "place_id": "0x3b05ad0078618659:0",
-    "name": "Vijayapetclinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": "+91 62821 47049",
-    "website": null,
-    "discovered_at": "2026-11-17 05:22:56.139219"
-  },
-  {
-    "place_id": "0x3b05af21fda4cb51:0",
-    "name": "Falcon Petcare",
-    "address": "opp. to CSI Church",
-    "category": "Veterinarian",
-    "phone": "+91 79029 91245",
-    "website": null,
-    "discovered_at": "2026-11-17 05:22:56.138131"
   }
 ]
