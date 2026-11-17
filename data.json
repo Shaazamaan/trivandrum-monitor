@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bd00601e42ff:0",
+    "name": "SARASS",
+    "address": "Opens 10:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 23:27:50.765480"
+  },
+  {
+    "place_id": "0x3b05bb476733e445:0",
+    "name": "STRENGTH LADIES FITNESS STUDIO",
+    "address": "Kavaradi Rd",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 23:27:49.412226"
+  },
+  {
     "place_id": "0x3b05bba05494633b:0",
     "name": "ClearIAS Academy",
     "address": "A5, Kowdiar Ave",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:47:33.588124"
-  },
-  {
-    "place_id": "0x3b05c35a2b2573e5:0",
-    "name": "Astra",
-    "address": "Closes 10 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.583316"
-  },
-  {
-    "place_id": "0x3b05e9b4583ecead:0",
-    "name": "The Chop Shop",
-    "address": "NH 66 ,KALLAMBALAM, near BARAT PETROL PUMP",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.570195"
   }
 ]
