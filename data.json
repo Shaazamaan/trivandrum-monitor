@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05ab006504ff13:0",
+    "name": "Three Yes Furniture",
+    "address": "85VF+JFP, Karakonam Rd",
+    "category": "Furniture store",
+    "phone": "+91 96268 71747",
+    "website": null,
+    "discovered_at": "2026-11-17 02:54:58.116561"
+  },
+  {
+    "place_id": "0x3b05ab005292f7d9:0",
+    "name": "Rapha ayurveda clinic and kottakal arya Vaidya shala (outlet)",
+    "address": "opposite Sacred Heart School",
+    "category": "Medical clinic",
+    "phone": "+91 94875 06978",
+    "website": null,
+    "discovered_at": "2026-11-17 02:54:56.886677"
+  },
+  {
     "place_id": "0x3b05b1bacdbc3db3:0",
     "name": "Thrayam Caters and Events",
     "address": "+91 79022 13280",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:11:11.723922"
-  },
-  {
-    "place_id": "0x808e35c932c2327b:0",
-    "name": "Blood Draw at Stanford Health Care, San Jose",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:10.488023"
-  },
-  {
-    "place_id": "0x808fc93c399c3d01:0",
-    "name": "Fastest Labs of South Fremont",
-    "address": "",
-    "category": "Drug testing service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:09.174076"
   }
 ]
