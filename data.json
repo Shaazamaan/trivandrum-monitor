@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb80503ce433:0",
+    "name": "Ashraya Pharmacy",
+    "address": "GW89+9QF, Poonthi Rd, opposite HP Gas agency",
+    "category": "Pharmacy",
+    "phone": "+91 98952 28824",
+    "website": null,
+    "discovered_at": "2026-11-17 10:08:27.403822"
+  },
+  {
+    "place_id": "0x3b05bf7ae87619e5:0",
+    "name": "Zoom Opticals",
+    "address": "Chekkalamukku, beside SBI ATM",
+    "category": "Optician",
+    "phone": "+91 97465 69989",
+    "website": null,
+    "discovered_at": "2026-11-17 10:08:26.268156"
+  },
+  {
+    "place_id": "0x3b05bb1a84d0e83d:0",
+    "name": "HealthAssure - Medivision Scan and Diagnostic Research Centre Pvt Ltd - Trivandrum | Blood Tests & Full Body Checkups",
+    "address": "1st Floor, Aster Square, Medical College, near Azad",
+    "category": "Diagnostic center",
+    "phone": "+91 86069 22060",
+    "website": null,
+    "discovered_at": "2026-11-17 10:08:25.060627"
+  },
+  {
     "place_id": "0x3b05bb7839d58625:0",
     "name": "SHAAS TRAVEL'S",
     "address": "House number 33, Sree Chithra Thirunal Nagar, TC. 6/2158, Ulloor - Akkulam Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:42:26.753577"
-  },
-  {
-    "place_id": "0x880e1d1a3d71ef25:0",
-    "name": "Plum Creek Regional Animal Medical Center",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:25.574914"
-  },
-  {
-    "place_id": "0x880fcf9401789805:0",
-    "name": "BluePearl Pet Hospital",
-    "address": "3735 West Dempster Street",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:24.371106"
-  },
-  {
-    "place_id": "0x880e2cab37bedf7b:0",
-    "name": "Northwestern Medicine Specialty Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:23.019229"
   }
 ]
