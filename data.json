@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05c84d1418df79:0",
+    "name": "Veterinary Clinic",
+    "address": "J3W3+7VX",
+    "category": "Emergency veterinarian service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:37:46.717518"
+  },
+  {
+    "place_id": "0x3b05c96f137c8803:0",
+    "name": "Shastha Medicals",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:37:45.462101"
+  },
+  {
+    "place_id": "0x3b05bd2372e8d1c9:0",
+    "name": "Suprabha Ayurveda Hospital - Kottakal Arya vaidhyasala",
+    "address": "",
+    "category": "Hospital",
+    "phone": "+91 70344 34406",
+    "website": null,
+    "discovered_at": "2026-11-17 11:37:44.202552"
+  },
+  {
+    "place_id": "0x3b05bbf3e188393f:0",
+    "name": "BAIJU'S REHAB- CENTER FOR PHYSIOTHERAPY & REHABILITATION",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": "+91 94471 01875",
+    "website": null,
+    "discovered_at": "2026-11-17 11:37:42.968021"
+  },
+  {
+    "place_id": "0x3b05b96b2de36edb:0",
+    "name": "Tone House Gym",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:37:38.721948"
+  },
+  {
+    "place_id": "0x3b05c3aad7d47689:0",
+    "name": "KALHARA MEDICALS",
+    "address": "KALHARA MEDICALS VAMANAPURAM, MC Rd, near SBI ATM",
+    "category": "Pharmacy",
+    "phone": "+91 81118 34311",
+    "website": null,
+    "discovered_at": "2026-11-17 11:37:37.448650"
+  },
+  {
+    "place_id": "0x3b05b8e1b959ff57:0",
+    "name": "V S NACHIYAR ASSOCIETES",
+    "address": "HW9W+X39, Kesavadasapuram - Venjaramoodu Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:37:36.232395"
+  },
+  {
+    "place_id": "0x3b05c7cc468c3383:0",
+    "name": "Revathy Medical Store",
+    "address": "s t square building, Trivandrum - Kilimanoor Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:37:34.962573"
+  },
+  {
     "place_id": "0x3b05b969ff7f56cf:0",
     "name": "Vettakulam Arcade",
     "address": "",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:58:31.399036"
-  },
-  {
-    "place_id": "0x3b05beaaaca8a15b:0",
-    "name": "SKY Garments",
-    "address": "",
-    "category": "Clothing store",
-    "phone": "+91 77360 05600",
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.397943"
-  },
-  {
-    "place_id": "0x3b05b955980931a3:0",
-    "name": "Viju Textiles",
-    "address": "",
-    "category": "Clothing store",
-    "phone": "+91 88913 36540",
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.396971"
-  },
-  {
-    "place_id": "0x3b05bd000122ac91:0",
-    "name": "ARHA CLOTHING",
-    "address": "GWF7+5GQ, Ulloor - Akkulam Rd",
-    "category": "Clothing store",
-    "phone": "+91 89213 41138",
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.394915"
-  },
-  {
-    "place_id": "0x3b05bf003a8caeb5:0",
-    "name": "Bee Hut",
-    "address": "3287",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.393491"
-  },
-  {
-    "place_id": "0x3b05b960c0929d6f:0",
-    "name": "Trivandrum 2 Uganda",
-    "address": "Ulloor, neerazhiline, medical college po NLRA157",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.392234"
-  },
-  {
-    "place_id": "0x3b05bd27e8061b95:0",
-    "name": "Seetaphal",
-    "address": "2nd Floor, Food Court, Lulu Mall TVM, Kochuveli, Post, Akkulam Bridge",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.391153"
-  },
-  {
-    "place_id": "0x3b05bb460cf33e63:0",
-    "name": "Khao",
-    "address": "No:2, Chilli Pepper Kitchens Kalanilayam Building, Mudavanmugal Rd",
-    "category": "Indian takeaway",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.388774"
-  },
-  {
-    "place_id": "0x3b05bb64d5b525e3:0",
-    "name": "Lechu’s homely kitchen",
-    "address": "Aramada P.O 32",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.387550"
   }
 ]
