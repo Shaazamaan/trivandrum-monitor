@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb1a2117141d:0",
+    "name": "Chinduras Textiles, Manacaud",
+    "address": "FX83+MRM, Attukal - Chiramukku Rd",
+    "category": "Clothing store",
+    "phone": "+91 94470 29398",
+    "website": null,
+    "discovered_at": "2026-11-17 03:17:06.631429"
+  },
+  {
+    "place_id": "0x3b05bbc0510c1293:0",
+    "name": "H & N READING ROOM KARAKKAMANDAPAM",
+    "address": "1st Floor, BNA Complex",
+    "category": "Studying center",
+    "phone": "+91 94954 45646",
+    "website": null,
+    "discovered_at": "2026-11-17 03:17:05.447577"
+  },
+  {
+    "place_id": "0x3b05bbba8fe9ae7d:0",
+    "name": "Guardian gym&fitness group",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:17:04.278776"
+  },
+  {
     "place_id": "0x3b05ba9862086289:0",
     "name": "Happy Sweets",
     "address": "F272+GMX",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:11:57.300902"
-  },
-  {
-    "place_id": "0x808fcdd60ecec3d7:0",
-    "name": "Lupita's Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:55.804296"
-  },
-  {
-    "place_id": "0x808fcce1038c12d5:0",
-    "name": "Kathy’s Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:54.583900"
-  },
-  {
-    "place_id": "0x808fcde98786d089:0",
-    "name": "Melinda's Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:53.370457"
   }
 ]
