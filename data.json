@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x880faf91ed2e618d:0",
+    "name": "Primark",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:25:21.367259"
+  },
+  {
+    "place_id": "0x880fcb154f814817:0",
+    "name": "Citi Trends",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:25:19.369239"
+  },
+  {
+    "place_id": "0x880fccc592c13e37:0",
+    "name": "Ross Dress for Less",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:25:18.131625"
+  },
+  {
+    "place_id": "0x880e329ab1b504f9:0",
+    "name": "Rainbow Shops",
+    "address": "",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:25:16.888795"
+  },
+  {
+    "place_id": "0x880fccc5442d1587:0",
+    "name": "Rainbow Shops",
+    "address": "",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:25:15.716292"
+  },
+  {
+    "place_id": "0x880e352c0b3ffe77:0",
+    "name": "Pure Green - Juice Bar Oak Park",
+    "address": "703 Lake St",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:25:14.466459"
+  },
+  {
+    "place_id": "0x880fcd1c5372e127:0",
+    "name": "Fullerton Animal Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:25:13.246152"
+  },
+  {
+    "place_id": "0x880fcb27d7f30c61:0",
+    "name": "Midwest Bird and Exotic Animal Hospital",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:25:11.990619"
+  },
+  {
+    "place_id": "0x3b05bf4b0d0f0c91:0",
+    "name": "Adithya Driving school",
+    "address": "TRA B-7, Kariyavattom - Chenkottukonam Rd",
+    "category": "Driving school",
+    "phone": "+91 94479 92394",
+    "website": null,
+    "discovered_at": "2026-11-17 01:25:10.795378"
+  },
+  {
     "place_id": "0x3b05e86f7264481d:0",
     "name": "K.S.M Hotel Thannivila",
     "address": "KSM Hotel",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:01:06.498478"
-  },
-  {
-    "place_id": "0x865c61729fe16e83:0",
-    "name": "Bon Dia Panaderia Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:05.304509"
-  },
-  {
-    "place_id": "0x865c89314271da05:0",
-    "name": "La Panadería Bakery Café",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:04.042858"
-  },
-  {
-    "place_id": "0x3b05bb24da157ebd:0",
-    "name": "Buttons & Brews",
-    "address": "AKG Center, Palayam Airport Rd",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:02.829436"
-  },
-  {
-    "place_id": "0x865c5f729c9b08eb:0",
-    "name": "PhiloÇoffee",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:01.599392"
-  },
-  {
-    "place_id": "0x865c5f81244724ab:0",
-    "name": "El Café On the Go",
-    "address": "4215 McCullough Ave",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:00.079037"
-  },
-  {
-    "place_id": "0x865cf5ffbb58c875:0",
-    "name": "The Newstand Coffee",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:00:58.760405"
-  },
-  {
-    "place_id": "0x3b05bb875fbb56dd:0",
-    "name": "Madras Majestic 1963",
-    "address": "opp. MLA Hostel",
-    "category": "South Indian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:00:57.464355"
-  },
-  {
-    "place_id": "0x865cf5b928590b21:0",
-    "name": "CityVet | Alamo Heights Veterinary Clinic & Urgent Care",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:00:56.095031"
-  },
-  {
-    "place_id": "0x865c5fb4db6d24ef:0",
-    "name": "Low Cost Pet Vet",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:00:54.833197"
   }
 ]
