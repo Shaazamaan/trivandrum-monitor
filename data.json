@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05ef29bb844b89:0",
+    "name": "Jyothi Medicals",
+    "address": "PPMG+VC7",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 23:42:35.122070"
+  },
+  {
     "place_id": "0x3b05bd04d2111387:0",
     "name": "Binod S",
     "address": "GWF8+564, Ulloor - Akkulam Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:47:33.628487"
-  },
-  {
-    "place_id": "0x3b05bf97df13ffcf:0",
-    "name": "Delma Eye Clinic & Opticals",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.621404"
   }
 ]
