@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05a982030052f7:0",
+    "name": "Arafa Fashion Boutique",
+    "address": "838W+4JW, Parassala - Kollemcode - Poovar - Kovalam Rd",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 13:14:04.465431"
+  },
+  {
+    "place_id": "0x3b05bbe59ac6494d:0",
+    "name": "Empire Dental Lounge",
+    "address": "Closes 8 PM",
+    "category": "Open",
+    "phone": "+91 85901 76091",
+    "website": null,
+    "discovered_at": "2026-11-17 13:14:03.210713"
+  },
+  {
+    "place_id": "0x3b05afb4e55673c7:0",
+    "name": "Shaji Heavy Motor Driving School",
+    "address": "C393+8PW, Vazhimukku",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 13:14:01.787824"
+  },
+  {
+    "place_id": "0x3b05a523481b7755:0",
+    "name": "Thiruvananthapuram District Motor Driving School Owners Co-operative Society",
+    "address": "CXFG+63M",
+    "category": "District office",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 13:14:00.484556"
+  },
+  {
+    "place_id": "0x3b05afe5241c98a1:0",
+    "name": "Millenium Drivig Schol",
+    "address": "C2MF+F5M",
+    "category": "Driving school",
+    "phone": "+91 94474 50999",
+    "website": null,
+    "discovered_at": "2026-11-17 13:13:59.192030"
+  },
+  {
+    "place_id": "0x3b05afc351201f23:0",
+    "name": "CUT CREW UNISEX SALON & BEAUTY PARLOUR",
+    "address": "Balaramapuram Main Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 13:13:57.816551"
+  },
+  {
     "place_id": "0x3b05af9929f68b4d:0",
     "name": "Chikkus fabrics and Tailoring shop",
     "address": "9256+PQ3, Azhimala Temple Road",
@@ -8944,59 +8998,5 @@
     "phone": "+91 97470 85348",
     "website": null,
     "discovered_at": "2026-11-17 05:15:08.645421"
-  },
-  {
-    "place_id": "0x3b05e96062e53003:0",
-    "name": "H S BAKERY",
-    "address": "Shop No 2, H S BAKERY, Trivandrum Airport Road, opposite Private Bus Stand",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:15:08.642853"
-  },
-  {
-    "place_id": "0x3b05e9f53d5c110b:0",
-    "name": "Posh Bakers Attingal",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:15:08.641856"
-  },
-  {
-    "place_id": "0x3b05e90648dc0291:0",
-    "name": "AKASH BAKERY",
-    "address": "Shop No 1, Akash Bakery, Kollam Road, near Private Bus Stand",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:15:08.640828"
-  },
-  {
-    "place_id": "0x3b05e9e585b7fd21:0",
-    "name": "Jyothi Bakery",
-    "address": "120, T.B. Junction",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:15:08.640010"
-  },
-  {
-    "place_id": "0x3b05e9c084e272a5:0",
-    "name": "Empire medicals",
-    "address": "Empire medicals, tb junction",
-    "category": "Pharmacy",
-    "phone": "+91 90486 54144",
-    "website": null,
-    "discovered_at": "2026-11-17 05:15:08.638364"
-  },
-  {
-    "place_id": "0x3b05e98464940bf9:0",
-    "name": "Agastyasree",
-    "address": "Market Rd",
-    "category": "Doctor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:15:08.634393"
   }
 ]
