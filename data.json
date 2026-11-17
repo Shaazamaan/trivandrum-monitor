@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bf253c937267:0",
+    "name": "Cafe Connection",
+    "address": "Closes 12 AM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 13:28:18.666768"
+  },
+  {
+    "place_id": "0x3b05b9e0389e5b5b:0",
+    "name": "PAZHOOR RESIDENCY HOME STAY",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 94470 62871",
+    "website": null,
+    "discovered_at": "2026-11-17 13:28:17.415607"
+  },
+  {
     "place_id": "0x3b05b1d358dd05bb:0",
     "name": "MR MDS GROUND",
     "address": "Trivandrum",
@@ -8980,23 +8998,5 @@
     "phone": "+91 90743 95361",
     "website": null,
     "discovered_at": "2026-11-17 05:22:56.112237"
-  },
-  {
-    "place_id": "0x3b05ea08170ceccf:0",
-    "name": "RELAXXA AYURVEDIC & Spa",
-    "address": "Ist Floor, HOTEL PEARL PALACE, NH ROAD, Mamom Road",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:22:56.110865"
-  },
-  {
-    "place_id": "0x3b05ea0822a405a9:0",
-    "name": "Velvet Spaand Salon",
-    "address": "1st Floor, HOTEL PEARL PALACE, NH ROAD, Mamom Road",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:22:56.109915"
   }
 ]
