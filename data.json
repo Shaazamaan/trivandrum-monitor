@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb768846ff99:0",
+    "name": "Ma Restaurant",
+    "address": "Gandhari Amman Kovil Rd",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:53:58.301966"
+  },
+  {
     "place_id": "0x3b05bb0078e31ef9:0",
     "name": "Pattom",
     "address": "MGRA256 mohan vihar, 2488/3, po",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:10:59.279166"
-  },
-  {
-    "place_id": "0x89b1118b59fbccf3:0",
-    "name": "Stag & Lily Event Company",
-    "address": "Opens 9:30 AM Tue",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:58.037002"
   }
 ]
