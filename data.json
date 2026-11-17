@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05a929196f26c3:0",
+    "name": "SN FITNESS CENTRE",
+    "address": "8482+765, Pozhiyoor Rd",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:10:48.376421"
+  },
+  {
+    "place_id": "0x3b05abf6c8aea995:0",
+    "name": "HI TECH GYM",
+    "address": "Parassala - Kollemcode - Poovar - Kovalam Rd",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:10:47.045606"
+  },
+  {
+    "place_id": "0x3b05b1c3be219f93:0",
+    "name": "Fitness world",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:10:45.788260"
+  },
+  {
+    "place_id": "0x3b05aad5aaaaaaab:0",
+    "name": "JOSECO Furniture",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:10:44.466613"
+  },
+  {
+    "place_id": "0x3b05bb8beb60c52b:0",
+    "name": "Abraca Dabra Juice & Foods",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:10:43.164570"
+  },
+  {
+    "place_id": "0x3b05bbc09dbddf81:0",
+    "name": "JUICE CASTLE",
+    "address": "Juice Castle",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:10:41.849824"
+  },
+  {
+    "place_id": "0x3b05a9e48e484aa5:0",
+    "name": "Stephan Floating (Non Veg)",
+    "address": "83HJ+PH4",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:10:40.623658"
+  },
+  {
     "place_id": "0x3b05af54991b8031:0",
     "name": "Soofiya Complex",
     "address": "Soofiya Complex, Anjuvannam Juma Masjid, Vizhinjam Rd",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 01:41:12.710077"
-  },
-  {
-    "place_id": "0x3b05bb5ff06a8d95:0",
-    "name": "Atom Drugs",
-    "address": "Unnamed Road",
-    "category": "Pharmacy",
-    "phone": "+91 90489 89313",
-    "website": null,
-    "discovered_at": "2026-11-17 01:33:41.160911"
-  },
-  {
-    "place_id": "0x54951aa4aad15555:0",
-    "name": "Cano's Jewelry",
-    "address": "",
-    "category": "Jewelry manufacturer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 01:33:39.852767"
-  },
-  {
-    "place_id": "0x54957579cf9b8d2d:0",
-    "name": "JosephK Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 01:33:38.565393"
-  },
-  {
-    "place_id": "0x5495a08d89a200c3:0",
-    "name": "Gold Door Jewelry & Arts",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 01:33:37.262119"
-  },
-  {
-    "place_id": "0x880faf91ed2e618d:0",
-    "name": "Primark",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 01:25:21.367259"
-  },
-  {
-    "place_id": "0x880fcb154f814817:0",
-    "name": "Citi Trends",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 01:25:19.369239"
-  },
-  {
-    "place_id": "0x880fccc592c13e37:0",
-    "name": "Ross Dress for Less",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 01:25:18.131625"
   }
 ]
