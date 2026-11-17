@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b060b6b7cca0fa3:0",
+    "name": "NSGC & Co.- Kottarakara, Chartered Accountants",
+    "address": "State Highway 1",
+    "category": "Chartered accountant",
+    "phone": "+91 97468 20566",
+    "website": null,
+    "discovered_at": "2026-11-17 03:35:04.245120"
+  },
+  {
+    "place_id": "0x3b05c00e538965cb:0",
+    "name": "Aiswarya Motor Driving School",
+    "address": "JR8R+F74, Mangalapuram Rd",
+    "category": "Driving school",
+    "phone": "+91 98952 32838",
+    "website": null,
+    "discovered_at": "2026-11-17 03:35:02.975285"
+  },
+  {
     "place_id": "0x3b05eb2b0238c4d7:0",
     "name": "RV Health Clinic",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:12:05.807586"
-  },
-  {
-    "place_id": "0x808e2db8bd7cbec3:0",
-    "name": "Top Notch beauty Lounge",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:12:04.594064"
-  },
-  {
-    "place_id": "0x808fcdbd95cf8b19:0",
-    "name": "Tami's Hair & Nail",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:12:03.376947"
   }
 ]
