@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05c71fe475d1fb:0",
+    "name": "Prasanth Bakery",
+    "address": "Anad Nedumangad Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:18:15.013460"
+  },
+  {
+    "place_id": "0x3b05c900597a2303:0",
+    "name": "Dr J R Homoeo Mutispeciality clinic and Laboratory",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": "+91 79074 51314",
+    "website": null,
+    "discovered_at": "2026-11-17 18:18:13.355765"
+  },
+  {
+    "place_id": "0x3b05b9004c2df08d:0",
+    "name": "Read eye clinic and optical",
+    "address": "HX6J+89G",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:18:12.165083"
+  },
+  {
+    "place_id": "0x3b05af575e976911:0",
+    "name": "Adan Travel And Tour",
+    "address": "Shop Number 13, Kavuvila Road",
+    "category": "Travel agency",
+    "phone": "+91 79079 73539",
+    "website": null,
+    "discovered_at": "2026-11-17 18:18:10.738664"
+  },
+  {
+    "place_id": "0x3b05b90443906925:0",
+    "name": "Maruthi Real Estate",
+    "address": "RG. Number 1241/05",
+    "category": "Real estate agency",
+    "phone": "+91 98476 84511",
+    "website": null,
+    "discovered_at": "2026-11-17 18:18:09.523792"
+  },
+  {
     "place_id": "0x3b05af7e476a24f9:0",
     "name": "Infinity mens store",
     "address": "Opens 9 AM Wed",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:03:46.346159"
-  },
-  {
-    "place_id": "0x3b05a50c1e8964f3:0",
-    "name": "Cake Diem Bake",
-    "address": "Nemom Punnamoodu Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.342722"
-  },
-  {
-    "place_id": "0x3b05b103d8fb66a5:0",
-    "name": "Nazmis homemade cakes",
-    "address": "Lenin villa pottayil, near sreehari hotel",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.341804"
-  },
-  {
-    "place_id": "0x3b05bbead0ee72e3:0",
-    "name": "Bake-a-luscious",
-    "address": "Ponnumangalam melamcode",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.339791"
-  },
-  {
-    "place_id": "0x3b05bbdca5d71193:0",
-    "name": "Hatim Cafè (fried chicken)",
-    "address": "02",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.338651"
-  },
-  {
-    "place_id": "0x3b05b190f4efabc3:0",
-    "name": "HEAVEN OF FOOD RESTAURANT",
-    "address": "Closes 11:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.335515"
   }
 ]
