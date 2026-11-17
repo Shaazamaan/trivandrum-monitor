@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bf66db59504b:0",
+    "name": "IFUEX INFRASTRUCTURE AND BUILDERS LLP",
+    "address": "2nd Floor, Logtech Tower",
+    "category": "Construction company",
+    "phone": "+91 79027 99207",
+    "website": null,
+    "discovered_at": "2026-11-17 11:59:23.121742"
+  },
+  {
+    "place_id": "0x3b05bef1cf081643:0",
+    "name": "Silver Castle Infranest",
+    "address": "",
+    "category": "Apartment building",
+    "phone": "+91 94470 60008",
+    "website": null,
+    "discovered_at": "2026-11-17 11:59:21.822914"
+  },
+  {
+    "place_id": "0x3b05bf1870a7da63:0",
+    "name": "Spot Cafe",
+    "address": "opposite TSC Hospital",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:59:20.567248"
+  },
+  {
     "place_id": "0x3b05bf28094b7c69:0",
     "name": "Petzza",
     "address": "NEAR ST.THOMAS COLLEGE, CHANTHAVILA",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:58:31.601449"
-  },
-  {
-    "place_id": "0x3b05ef1974928c43:0",
-    "name": "The Arena Edava Cloud Kitchen",
-    "address": "Closes 10 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.599225"
-  },
-  {
-    "place_id": "0x3b05b993f55309a7:0",
-    "name": "Ayush Eye Clinic & Medicals",
-    "address": "JUNCTION",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.587184"
-  },
-  {
-    "place_id": "0x3b05bbf8e7e7c1e7:0",
-    "name": "Chaithanya Eye Hospital and Research Institute, Karamana",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.585955"
   }
 ]
