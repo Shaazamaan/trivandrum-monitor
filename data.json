@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c149b15239bf:0",
+    "name": "Phonepoint",
+    "address": "opp. Ksrtc stand",
+    "category": "Cell phone store",
+    "phone": "+91 99950 65009",
+    "website": null,
+    "discovered_at": "2026-11-17 03:42:06.604887"
+  },
+  {
     "place_id": "0x3b060b6b7cca0fa3:0",
     "name": "NSGC & Co.- Kottarakara, Chartered Accountants",
     "address": "State Highway 1",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:12:07.097663"
-  },
-  {
-    "place_id": "0x808fccbf94d12f7f:0",
-    "name": "La Bella Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:12:05.807586"
   }
 ]
