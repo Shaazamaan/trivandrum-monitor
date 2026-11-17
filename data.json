@@ -1,5 +1,266 @@
 [
   {
+    "place_id": "0x3b05c1ac5d6c374d:0",
+    "name": "7 Bros Driving School",
+    "address": "16th Mile TQ Rd to Vengode Rd",
+    "category": "Driving school",
+    "phone": "+91 97449 04776",
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:08.018814"
+  },
+  {
+    "place_id": "0x3b05bfd60db77795:0",
+    "name": "JM Driving school",
+    "address": "near sree krishna temple",
+    "category": "Driving school",
+    "phone": "+91 80753 34727",
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:08.015875"
+  },
+  {
+    "place_id": "0x3b05c100587b611f:0",
+    "name": "Oxygen fitness center murukumpuzha",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:08.009739"
+  },
+  {
+    "place_id": "0x3b05e982fa77b0bd:0",
+    "name": "S J Supermarket",
+    "address": "PQ2J+4Q9",
+    "category": "Grocery store",
+    "phone": "+91 97453 63286",
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:08.004456"
+  },
+  {
+    "place_id": "0x3b05c3d0295ef485:0",
+    "name": "Sameer store",
+    "address": "PR6J+7QP",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:08.002962"
+  },
+  {
+    "place_id": "0x3b05c1eee30f5dd1:0",
+    "name": "Peedika Supermarket",
+    "address": "JRCG+VXX, Chirayinkeezhu Kaniyapuram Rd",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:08.000436"
+  },
+  {
+    "place_id": "0x3b05c1ea80f0fa13:0",
+    "name": "WESTDRIFT",
+    "address": "WESTDRIFT CHEMPAKAMNGALAM NATIONAL HIGHWAY, ATTINGAL ROAD",
+    "category": "Men's clothing store",
+    "phone": "+91 73563 38969",
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.986615"
+  },
+  {
+    "place_id": "0x3b05ea976cd55baf:0",
+    "name": "Naima Textiles",
+    "address": "JRJ7+P6R",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.985131"
+  },
+  {
+    "place_id": "0x3b05c73eb1c0e399:0",
+    "name": "Chirayil Fashion Textiles ചിറയിൽ വസ്ത്രാലയം വെമ്പായം",
+    "address": "",
+    "category": "Clothing store",
+    "phone": "+91 70124 58423",
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.983014"
+  },
+  {
+    "place_id": "0x3b05bf004a45e7ff:0",
+    "name": "HIBA COLLECTIONS",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.981870"
+  },
+  {
+    "place_id": "0x3b05c26f68764ff7:0",
+    "name": "Purple Textile",
+    "address": "PRGR+5MP",
+    "category": "Clothing store",
+    "phone": "+91 99474 74378",
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.980508"
+  },
+  {
+    "place_id": "0x3b05bf454df3649f:0",
+    "name": "JUICE JUNCTION",
+    "address": "Juice Junction Building",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.977796"
+  },
+  {
+    "place_id": "0x3b05c7776fa99a67:0",
+    "name": "Cafe Pablo",
+    "address": "opp. Sreevalsam Residency, near Kairali Convention Center",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.968094"
+  },
+  {
+    "place_id": "0x3b05bb7ed12e75a1:0",
+    "name": "Rajila Hotel",
+    "address": "Closes 9:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.966584"
+  },
+  {
+    "place_id": "0x3b05eb2f19fb142b:0",
+    "name": "Thiruvathira Hotel",
+    "address": "Chirayinkeezhu Kaniyapuram Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.965219"
+  },
+  {
+    "place_id": "0x3b05c17e0814c821:0",
+    "name": "IT’S MALABAR",
+    "address": "Kk vanam",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.962263"
+  },
+  {
+    "place_id": "0x3b05c1004f091f3f:0",
+    "name": "DDRC Agilus Diagnostics, Mangalapuram",
+    "address": "PMH Tower, State Highway 49",
+    "category": "Laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.951637"
+  },
+  {
+    "place_id": "0x3b05c3790e6b6ec1:0",
+    "name": "Diya Speciality Clinic Labs and ECG",
+    "address": "Vanchiyoor Rd",
+    "category": "Medical laboratory",
+    "phone": "+91 73061 41349",
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.950197"
+  },
+  {
+    "place_id": "0x3b05bf2a5af9e0c3:0",
+    "name": "Merit Laboratory",
+    "address": "P.O, BAB AL-RAHMA, Near, Karichara Chirayinkeezhu Road",
+    "category": "Medical laboratory",
+    "phone": "+91 62384 14725",
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.948296"
+  },
+  {
+    "place_id": "0x3b05c014aaeadb27:0",
+    "name": "DR.JAZEER'S BRIGHT CARE MULTISPECIALITY DENTAL CLINIC",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 94475 60532",
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.935127"
+  },
+  {
+    "place_id": "0x3b05c153909c2057:0",
+    "name": "Happy Tooth Smile Studio",
+    "address": "Mangalapuram Road",
+    "category": "Dental clinic",
+    "phone": "+91 73561 00602",
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.932839"
+  },
+  {
+    "place_id": "0x3b05c72c4c12c509:0",
+    "name": "New chamayam unisex beauty parlour",
+    "address": "Keezhathil SH Tower",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.905728"
+  },
+  {
+    "place_id": "0x3b05bbbd2c4f1c9d:0",
+    "name": "Daffodils Skin and Hair Spa",
+    "address": "Bank road",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.903464"
+  },
+  {
+    "place_id": "0x3b05bfb65ec7461d:0",
+    "name": "The Hive Ladies Beauty Salon",
+    "address": "The Hive Beauty salon, near National Institute of Speech & Hearing",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.902222"
+  },
+  {
+    "place_id": "0x3b05a506b43b75ef:0",
+    "name": "Muthara Supermarket",
+    "address": "CXFG+4J",
+    "category": "Supermarket",
+    "phone": "+91 70349 46777",
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.899992"
+  },
+  {
+    "place_id": "0x3b05bb5f137dc6fd:0",
+    "name": "KLUB MART",
+    "address": "FXRG+9PM, Mudavanmugal Rd",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.897916"
+  },
+  {
+    "place_id": "0x3b05a553618fa4a3:0",
+    "name": "SREE MAHAVISHNU SUPERMARKET",
+    "address": "CXFH+J77, Agricultural College Road",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.896752"
+  },
+  {
+    "place_id": "0x3b05bdb19cf4935b:0",
+    "name": "Samsung Experience Store Lulu Mall",
+    "address": "",
+    "category": "Cell phone store",
+    "phone": "+91 96193 00496",
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.888956"
+  },
+  {
+    "place_id": "0x3b05bbbb918fc141:0",
+    "name": "Izan Mobiles",
+    "address": "SM Lock Rd, near Police Station and Aswas Medicals, opposite Mayoof Hotel",
+    "category": "Cell phone store",
+    "phone": "+91 85902 19319",
+    "website": null,
+    "discovered_at": "2026-11-17 06:18:07.886711"
+  },
+  {
     "place_id": "0x3b05bb92c9172151:0",
     "name": "Thea",
     "address": "Closes 7 PM",
@@ -8737,266 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 19:13:29.953986"
-  },
-  {
-    "place_id": "0x872b12a49dae2eed:0",
-    "name": "ProStar Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:28.734755"
-  },
-  {
-    "place_id": "0x872b68240aadf495:0",
-    "name": "Cerreta Realty Group LLC",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:27.416752"
-  },
-  {
-    "place_id": "0x872b72a7cc7b9ac1:0",
-    "name": "Sharp Homes Realty Inc",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:26.165434"
-  },
-  {
-    "place_id": "0x872b0d913be24fa1:0",
-    "name": "Ready Set Sold Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:24.773900"
-  },
-  {
-    "place_id": "0x872b703a3a955137:0",
-    "name": "Christy Walker, REALTOR®️",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:23.258275"
-  },
-  {
-    "place_id": "0x872b0ad0c489304d:0",
-    "name": "Kelley Norton REALTOR • Arizona Living Group • eXp Realty",
-    "address": "",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:21.983261"
-  },
-  {
-    "place_id": "0x872b479198d5dd7f:0",
-    "name": "Desert Heroes Team",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:20.730195"
-  },
-  {
-    "place_id": "0x872b730ace907a8f:0",
-    "name": "Realty ONE Group",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:19.353573"
-  },
-  {
-    "place_id": "0x872b06573926057b:0",
-    "name": "WEICHERT, REALTORS® - Courtney Valleywide, Real Estate Agent in Tempe, Arizona",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:18.107540"
-  },
-  {
-    "place_id": "0x872b67be1bdce1a5:0",
-    "name": "Best | EXP Realty",
-    "address": "",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:16.711442"
-  },
-  {
-    "place_id": "0x872bafca27ebd149:0",
-    "name": "KAY Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:15.320421"
-  },
-  {
-    "place_id": "0x872b15685f0f22ad:0",
-    "name": "KAY Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:13.990830"
-  },
-  {
-    "place_id": "0x872b6824cc74ada5:0",
-    "name": "KAY Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:12.553810"
-  },
-  {
-    "place_id": "0x872b151718ee9245:0",
-    "name": "Elegance Jewelers",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:11.157441"
-  },
-  {
-    "place_id": "0x872b0b97fa95489b:0",
-    "name": "KAY Jewelers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:09.861874"
-  },
-  {
-    "place_id": "0x872b044a517f479d:0",
-    "name": "Loretta's Ahwatukee Jewelers",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:08.515997"
-  },
-  {
-    "place_id": "0x872b6ace0cf792ef:0",
-    "name": "Elegance Jewelry",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:07.247116"
-  },
-  {
-    "place_id": "0x872b73dabb5ad1b1:0",
-    "name": "AZ Fine Jewelry and Repair",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:05.711910"
-  },
-  {
-    "place_id": "0x872b6ea588208a23:0",
-    "name": "Kenz Jewelers",
-    "address": "",
-    "category": "Jeweler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:04.451954"
-  },
-  {
-    "place_id": "0x872baf210f44d347:0",
-    "name": "At Home",
-    "address": "1944 S Greenfield Rd",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:03.217875"
-  },
-  {
-    "place_id": "0x872b41f42eb5be83:0",
-    "name": "At Home",
-    "address": "10140 N 91st Ave",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:01.922191"
-  },
-  {
-    "place_id": "0x872b754d9aeebf69:0",
-    "name": "At Home",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:13:00.576100"
-  },
-  {
-    "place_id": "0x872b0f038375d379:0",
-    "name": "Stone Creek Furniture",
-    "address": "",
-    "category": "Furniture maker",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:12:59.220392"
-  },
-  {
-    "place_id": "0x872b156bc93d2e01:0",
-    "name": "Conn's HomePlus",
-    "address": "7333 W Thomas Rd",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:12:57.866970"
-  },
-  {
-    "place_id": "0x872b6583e0c4b08b:0",
-    "name": "Today's Patio",
-    "address": "",
-    "category": "Outdoor furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:12:56.466273"
-  },
-  {
-    "place_id": "0x872b724f89cf48d3:0",
-    "name": "At Home",
-    "address": "12025 N 32nd St",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:12:55.038415"
-  },
-  {
-    "place_id": "0x872b6ed6c8e146cf:0",
-    "name": "Del Sol Furniture & Mattress",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:12:53.661765"
-  },
-  {
-    "place_id": "0x872b1555a37daf03:0",
-    "name": "Del Sol Furniture & Mattress",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:12:52.294606"
-  },
-  {
-    "place_id": "0x872b7318c2a1e099:0",
-    "name": "Scandinavian Designs Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 19:12:50.981101"
   }
 ]
