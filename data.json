@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bb0078e31ef9:0",
+    "name": "Pattom",
+    "address": "MGRA256 mohan vihar, 2488/3, po",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:39:41.140857"
+  },
+  {
+    "place_id": "0x3b05b95dd0400001:0",
+    "name": "Septagon Builders and Developers Pvt Ltd",
+    "address": "2nd Floor, Sophia Building, Infront of Bishop House",
+    "category": "Construction company",
+    "phone": "+91 85940 94081",
+    "website": null,
+    "discovered_at": "2026-11-17 09:39:39.918884"
+  },
+  {
+    "place_id": "0x3b05bbe20f57bd0b:0",
+    "name": "Aishwarya Homes Vista",
+    "address": "",
+    "category": "Apartment building",
+    "phone": "+91 97475 11333",
+    "website": null,
+    "discovered_at": "2026-11-17 09:39:38.675992"
+  },
+  {
+    "place_id": "0x3b05bbe03fb4d7e5:0",
+    "name": "Reliance Fresh",
+    "address": "",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:39:37.307520"
+  },
+  {
+    "place_id": "0x3b05bb0076190f19:0",
+    "name": "PATTOM CAFE",
+    "address": "Rohini Complex, opposite LIC Lane",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:39:36.079886"
+  },
+  {
     "place_id": "0x3b05bbcb2a71532f:0",
     "name": "Bake n Corner - killipalam jn",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:10:58.037002"
-  },
-  {
-    "place_id": "0x89b2d14b7cdf8f15:0",
-    "name": "Creative Joy Event Solutions",
-    "address": "314 Breezewood Dr",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:56.855138"
-  },
-  {
-    "place_id": "0x89acf633183cb03d:0",
-    "name": "Premier Party Planners",
-    "address": "5401 Oldtowne Rd",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:54.780697"
-  },
-  {
-    "place_id": "0x89b16b2ed25551a9:0",
-    "name": "Glint Events",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:53.624823"
-  },
-  {
-    "place_id": "0x89b116086dd70699:0",
-    "name": "LK Events & Design",
-    "address": "2430 Devenwood Rd",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:52.410768"
-  },
-  {
-    "place_id": "0x3b05befaeb0e9fe7:0",
-    "name": "Danbauk",
-    "address": "Counter #4, Food Court, 7th Floor, Thejaswini, Technopark Campus",
-    "category": "Biryani restaurant",
-    "phone": "+91 81298 85555",
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:52.408414"
   }
 ]
