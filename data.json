@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05b911f2e92485:0",
+    "name": "Chai kaapi",
+    "address": "Peroorkada Mannanthala Rd",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 21:21:55.296343"
+  },
+  {
+    "place_id": "0x3b05b934c78efba7:0",
+    "name": "The Good Bowl",
+    "address": "GXQ8+5XX",
+    "category": "Asian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 21:21:54.070576"
+  },
+  {
+    "place_id": "0x3b05b982d461274f:0",
+    "name": "SREE KRISHNA ENGLISH MEDICINES",
+    "address": "GXP9+32H",
+    "category": "Pharmacy",
+    "phone": "+91 94959 42627",
+    "website": null,
+    "discovered_at": "2026-11-17 21:21:52.834146"
+  },
+  {
+    "place_id": "0x3b05b98320c9048b:0",
+    "name": "M.S. MEDICALS",
+    "address": "TC. 1/607(9), M Jaya Amritha Arcade, Opposite Police Station",
+    "category": "Pharmacy",
+    "phone": "+91 97479 67788",
+    "website": null,
+    "discovered_at": "2026-11-17 21:21:51.577572"
+  },
+  {
+    "place_id": "0x3b05bb566de3548b:0",
+    "name": "UNIVERSAL TOURS & TRAVELS",
+    "address": "VRA-11 SHIVALANE SHIVAGANGA THOPPUMUKKU, VATTIYOORKAVU, PO",
+    "category": "Tour operator",
+    "phone": "+91 96053 51527",
+    "website": null,
+    "discovered_at": "2026-11-17 21:21:50.174597"
+  },
+  {
+    "place_id": "0x3b05bbdd7e57ec8f:0",
+    "name": "TRAVELMATE HOLIDAYS TRIVANDRUM",
+    "address": "Jainagar, Thirumala P.O, White House TC 48/2455, JRA 433",
+    "category": "Tour operator",
+    "phone": "+91 90488 28890",
+    "website": null,
+    "discovered_at": "2026-11-17 21:21:48.882422"
+  },
+  {
+    "place_id": "0x3b05b9ed7605638b:0",
+    "name": "Hornbill Femine Wear Nettayam",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 21:21:47.473677"
+  },
+  {
     "place_id": "0x3b0453005f3efea7:0",
     "name": "Kalyan Fashion Jewellery",
     "address": "C5FW+XG9",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:32:52.974777"
-  },
-  {
-    "place_id": "0x3b05a964f3c1dd33:0",
-    "name": "Port Cafe",
-    "address": "Closes 11:30 PM",
-    "category": "Open",
-    "phone": "+91 96335 16705",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.973390"
-  },
-  {
-    "place_id": "0x3b05c96308b2ad7b:0",
-    "name": "Food Point Cafe",
-    "address": "near IIST back Gate",
-    "category": "Restaurant",
-    "phone": "+91 97900 17195",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.972066"
-  },
-  {
-    "place_id": "0x3b05cb7e0ed78149:0",
-    "name": "QUEEN COFFEE SHOP IISER",
-    "address": "QUEEN COFFEE SHOP IISER IISER Road, IISER Junction",
-    "category": "Restaurant",
-    "phone": "+91 97457 31964",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.971030"
-  },
-  {
-    "place_id": "0x3b05bb42fb9b687f:0",
-    "name": "the cafe talastana [premium veg:restaurant]",
-    "address": "Muttathara, NH Bypass Service Rd",
-    "category": "Vegan restaurant",
-    "phone": "+91 62355 15147",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.969490"
-  },
-  {
-    "place_id": "0x3b05c9aa335797dd:0",
-    "name": "Meenakshi Stores - Chaya Kada",
-    "address": "Near to Velankanni Church, Vithura, Thiruvananthapuram - Ponmudi Rd",
-    "category": "Coffee shop",
-    "phone": "+91 82818 28072",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.968376"
-  },
-  {
-    "place_id": "0x3b05bb86aa873bc5:0",
-    "name": "Kynorah Cafe",
-    "address": "",
-    "category": "Cafe",
-    "phone": "+91 77360 38082",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.966783"
-  },
-  {
-    "place_id": "0x3b05cbbd2e010acf:0",
-    "name": "I Cafe",
-    "address": "M4JP+7M5",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.965719"
   }
 ]
