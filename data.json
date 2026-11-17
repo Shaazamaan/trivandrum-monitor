@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05e5f06ed434db:0",
+    "name": "Vaishnaveeyam Ayurveda",
+    "address": "Vaishnaveeyam Ayurveda, Ayroor po",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 94007 79627",
+    "website": null,
+    "discovered_at": "2026-11-17 10:16:00.994403"
+  },
+  {
+    "place_id": "0x3b05eff607535f17:0",
+    "name": "Dr Sreenath's Ayurveda Clinic",
+    "address": "PPW9+G3V, S L Vihar, opposite to panayil finance",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 10:15:59.852963"
+  },
+  {
+    "place_id": "0x3b05bf6b69ac905b:0",
+    "name": "DEVI MARGINFREE SUPERMARKET",
+    "address": "",
+    "category": "Supermarket",
+    "phone": "+91 94478 71435",
+    "website": null,
+    "discovered_at": "2026-11-17 10:15:58.520612"
+  },
+  {
     "place_id": "0x3b05bb80503ce433:0",
     "name": "Ashraya Pharmacy",
     "address": "GW89+9QF, Poonthi Rd, opposite HP Gas agency",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:42:32.691075"
-  },
-  {
-    "place_id": "0x880e296c3d0efc2d:0",
-    "name": "Hyde Park Animal Hospital -Stony Island",
-    "address": "6937 S Stony Island Ave",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:31.496367"
-  },
-  {
-    "place_id": "0x864e7a39a34cb4e3:0",
-    "name": "Bridge Street Animal Clinic",
-    "address": "",
-    "category": "Animal hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:30.125092"
-  },
-  {
-    "place_id": "0x880fd2e40ecb9193:0",
-    "name": "Family Pet Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:26.753577"
   }
 ]
