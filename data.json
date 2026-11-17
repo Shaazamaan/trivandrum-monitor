@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bb8065ae501b:0",
+    "name": "PEARL Eye care",
+    "address": "Peyad, Kundamankadavu road, near Amigo pet centre",
+    "category": "Ophthalmologist",
+    "phone": "+91 75949 47337",
+    "website": null,
+    "discovered_at": "2026-11-17 10:40:01.423842"
+  },
+  {
+    "place_id": "0x3b05a9f28a838255:0",
+    "name": "Zac Multispeciality Dental Clinic",
+    "address": "p.o, Zac Multispeciality Dental Clinic",
+    "category": "Dental clinic",
+    "phone": "+91 97469 20390",
+    "website": null,
+    "discovered_at": "2026-11-17 10:40:00.177350"
+  },
+  {
+    "place_id": "0x3b05a92a22de3da7:0",
+    "name": "FAIRY TOOTH DENTAL CARE AND IMPLANT CENTRE",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 95622 56222",
+    "website": null,
+    "discovered_at": "2026-11-17 10:39:58.900510"
+  },
+  {
+    "place_id": "0x3b05a5c33b694b1b:0",
+    "name": "Tycoone of Realestate Trivandrum",
+    "address": ":, near Trivandrum International Seaports Ltd",
+    "category": "Industrial real estate agency",
+    "phone": "+91 94953 03101",
+    "website": null,
+    "discovered_at": "2026-11-17 10:39:57.559000"
+  },
+  {
+    "place_id": "0x3b05a5989aadbf55:0",
+    "name": "REAL STATE AGENTS",
+    "address": "9XRQ+76F, Vizhinjam Harbour Rd",
+    "category": "Real estate agency",
+    "phone": "+91 62820 40204",
+    "website": null,
+    "discovered_at": "2026-11-17 10:39:56.368904"
+  },
+  {
+    "place_id": "0x3b05a5f843517631:0",
+    "name": "Properties for sale- Vizhinjam international sea port",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 10:39:55.072727"
+  },
+  {
+    "place_id": "0x3b05af924a3051ef:0",
+    "name": "Sk properties Trivandrum",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 80752 33699",
+    "website": null,
+    "discovered_at": "2026-11-17 10:39:53.768479"
+  },
+  {
+    "place_id": "0x3b05a50e3f9f35c5:0",
+    "name": "Team V9 Fitness",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 10:39:52.378371"
+  },
+  {
     "place_id": "0x3b05ad2fcc540e59:0",
     "name": "Amala Interiors",
     "address": "opposite NIIT",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:42:54.774836"
-  },
-  {
-    "place_id": "0x880fd31fc26f8715:0",
-    "name": "Blu Dot Chicago",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:53.447971"
-  },
-  {
-    "place_id": "0x880e2c9b5dcf8e27:0",
-    "name": "A'nies Accents",
-    "address": "1237 S Michigan Ave",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:52.238323"
-  },
-  {
-    "place_id": "0x880e2cdb2f155657:0",
-    "name": "Maria Pinto",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:51.083889"
-  },
-  {
-    "place_id": "0x880e2d911b7fbdd5:0",
-    "name": "Designs by Cece Symone",
-    "address": "332 S Michigan Ave #1032",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:49.912446"
-  },
-  {
-    "place_id": "0x880fd3524924faed:0",
-    "name": "ikram",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:48.654899"
-  },
-  {
-    "place_id": "0x880fd31c925748e3:0",
-    "name": "Jamba",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:47.434594"
-  },
-  {
-    "place_id": "0x880e2d338b4eab77:0",
-    "name": "Fruitful Delight Smoothie, Juice & Bubble Tea Cafe",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:46.228484"
-  },
-  {
-    "place_id": "0x880e2db0ff334491:0",
-    "name": "Smallcakes Cupcakery",
-    "address": "218 W Washington St",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:44.936224"
   }
 ]
