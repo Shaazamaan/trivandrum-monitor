@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bf007235673f:0",
+    "name": "Ape Culture",
+    "address": "opp. Technopark phase 1",
+    "category": "Fashion accessories store",
+    "phone": "+91 85903 66249",
+    "website": null,
+    "discovered_at": "2026-11-17 17:08:35.237740"
+  },
+  {
+    "place_id": "0x3b05bfe515208e4d:0",
+    "name": "Nandhus Bakery and Store",
+    "address": "Near, Technopark Attinkuzhi",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:08:33.959241"
+  },
+  {
+    "place_id": "0x3b05bf7b6d03a613:0",
+    "name": "Cafe Delight",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:08:32.684673"
+  },
+  {
+    "place_id": "0x3b05bf22b10b11ab:0",
+    "name": "Kebab Dukkan",
+    "address": "Technopark Trivandrum, Phase 1, Service Rd",
+    "category": "Kebab shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:08:31.347902"
+  },
+  {
+    "place_id": "0x3b05bf000a80e3cb:0",
+    "name": "Gitanjali Eye & ENT Clinic",
+    "address": "HV6G+8VV",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:08:30.001505"
+  },
+  {
+    "place_id": "0x3b05bee0334f6597:0",
+    "name": "Smile Line Dental Clinic",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 81579 59783",
+    "website": null,
+    "discovered_at": "2026-11-17 17:08:28.724688"
+  },
+  {
+    "place_id": "0x3b05bfbb4e3ed6d1:0",
+    "name": "SFS Cyber Gateway, Trivandrum",
+    "address": "",
+    "category": "Apartment complex",
+    "phone": "+91 99470 18881",
+    "website": null,
+    "discovered_at": "2026-11-17 17:08:27.352905"
+  },
+  {
+    "place_id": "0x3b05bf6cc13f5051:0",
+    "name": "LALSONS AYURVEDA SIDDHA CLINIC",
+    "address": "GVRJ+74J, Sreekariyam - Kazhakuttam Rd",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:08:25.960474"
+  },
+  {
     "place_id": "0x3b05ef8b7a31f81f:0",
     "name": "RESHMAN INDIA",
     "address": "SHOP NO 7, RESHMAN INDIA, Varkala - Madathara Rd, near DALAVAPURAM PARK",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:56:54.350686"
-  },
-  {
-    "place_id": "0x3b05bbbe3e61df5b:0",
-    "name": "LG Bakery",
-    "address": "Kodunganoor, Kundamankadavu Vattiyoorkavu Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.348884"
-  },
-  {
-    "place_id": "0x3b05b9f25b658f39:0",
-    "name": "Ayilyam Bakers",
-    "address": "Closes 9:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.347559"
-  },
-  {
-    "place_id": "0x3b05bb7721d90909:0",
-    "name": "The Unique Oven",
-    "address": "Mulamoodu Ln",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.345894"
-  },
-  {
-    "place_id": "0x3b05b9ed7f8387b3:0",
-    "name": "Yummies bake shop",
-    "address": "Yummies, Moonnamoodu, Vattiyoorkavu - Kulasekharam Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.344324"
-  },
-  {
-    "place_id": "0x3b05bb01a5636871:0",
-    "name": "BEST BAKERY",
-    "address": "Near Surendra Trident hotel Sasthamangalam, Vattiyoorkavu - Kulasekharam Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.343136"
-  },
-  {
-    "place_id": "0x3b05bb002d560a43:0",
-    "name": "Sahwa fresh launge vattiyoorkavu",
-    "address": "GXFQ+RC7",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.338171"
-  },
-  {
-    "place_id": "0x3b05b9cf2549891b:0",
-    "name": "Love Sip Cafe",
-    "address": "Cpt junction, opposite Kailasapathy Temple",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.336127"
-  },
-  {
-    "place_id": "0x3b05bb60682880df:0",
-    "name": "BLIP - Cafe and Gaming",
-    "address": "TC-35, 2316/1, Mannarakonam - Thoppumukku Rd",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.334469"
   }
 ]
