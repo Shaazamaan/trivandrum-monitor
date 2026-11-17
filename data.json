@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05abfd11e15f7f:0",
+    "name": "Squads gym kaliyakkavilai",
+    "address": "opp. rto checkpost",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 10:54:51.016719"
+  },
+  {
+    "place_id": "0x3b05ad004c486d0d:0",
+    "name": "JMart super market",
+    "address": "95RF+5Q4, Parassala Vellarada Rd",
+    "category": "Grocery store",
+    "phone": "+91 95679 12774",
+    "website": null,
+    "discovered_at": "2026-11-17 10:54:49.776696"
+  },
+  {
+    "place_id": "0x3b05adcc552eb46f:0",
+    "name": "Pixzone mobiles",
+    "address": "Karamana",
+    "category": "Cell phone store",
+    "phone": "+91 97461 15923",
+    "website": null,
+    "discovered_at": "2026-11-17 10:54:48.503323"
+  },
+  {
+    "place_id": "0x3b05ab3d9a82d2bb:0",
+    "name": "Uppa Hotel",
+    "address": "85MC+2XG, PPM junction kaliyakkala",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 10:54:47.237786"
+  },
+  {
+    "place_id": "0x3b05ad599d10ab6f:0",
+    "name": "DDRC Agilus Diagnostics, Karakkonam",
+    "address": "opp. Govt Homeo Hospital",
+    "category": "Diagnostic center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 10:54:45.932940"
+  },
+  {
     "place_id": "0x3b05bba8ca7da655:0",
     "name": "Sreehari Tours & Travels of India",
     "address": "P.O, NEAR MADHUVANAM ASHRAM",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:43:04.575507"
-  },
-  {
-    "place_id": "0x405d745bd8cdf979:0",
-    "name": "Downtown Realty Company",
-    "address": "730 N Wells St",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:43:03.340140"
-  },
-  {
-    "place_id": "0x880fd332aae992ff:0",
-    "name": "AIRE Ancient Baths Chicago",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:43:02.171005"
-  },
-  {
-    "place_id": "0x880e2cce85ae9add:0",
-    "name": "River West Fitness",
-    "address": "664 W Hubbard St #200",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:43:00.904595"
-  },
-  {
-    "place_id": "0x880e2cb94c24de35:0",
-    "name": "Equinox The Loop",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:59.701727"
-  },
-  {
-    "place_id": "0x880e2cb5c9b6973b:0",
-    "name": "Reverie Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:58.513912"
   }
 ]
