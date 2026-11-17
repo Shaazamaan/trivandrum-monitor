@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05efce2c288227:0",
+    "name": "Bharath Industies",
+    "address": "Floor NO, 443, Vizhijam Poovar Road",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:01:05.841037"
+  },
+  {
+    "place_id": "0x3b05ef86b7edefbf:0",
+    "name": "Mazza Mandi Restaurant Varkala",
+    "address": "PUTHENCHANTHA, Circle",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:01:04.502367"
+  },
+  {
+    "place_id": "0x3b05ef29baeee30f:0",
+    "name": "City Opticals",
+    "address": "Opens 9 AM Wed",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:01:03.140027"
+  },
+  {
+    "place_id": "0x3b05efd1d7abd89f:0",
+    "name": "NAVODAYA HOMOEOPATHY , ACUPUNCTURE and CHIROPRACTIC CLINIC",
+    "address": "oppsite star theatre, near railway cross",
+    "category": "Homeopath",
+    "phone": "+91 94967 78344",
+    "website": null,
+    "discovered_at": "2026-11-17 18:01:01.882736"
+  },
+  {
     "place_id": "0x3b05ab8392346fa7:0",
     "name": "Valentina Bake & Cafe",
     "address": "Manvila, Junction, Sreekaryam - Kulathoor Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:56:54.446693"
-  },
-  {
-    "place_id": "0x3b05bb006491e437:0",
-    "name": "Math's Tuition Center - Drupadh",
-    "address": "GX7M+26Q, PTP Nagar Rd",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.443895"
-  },
-  {
-    "place_id": "0x3b05b97ab238067b:0",
-    "name": "Dhwani Tuition centre VAZHOTTUKONAM, VATTIYOORKAVU ( LKG to Std. 7 th",
-    "address": "Kadiyakonam Ln",
-    "category": "Tutoring service",
-    "phone": "+91 89438 41935",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.442149"
-  },
-  {
-    "place_id": "0x3b05b97a2f2f067d:0",
-    "name": "Devi Tuition Center",
-    "address": "PLRA 63,Panchami Lane Panankara",
-    "category": "Education center",
-    "phone": "+91 95447 56401",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.440159"
-  },
-  {
-    "place_id": "0x3b05bbd0945c373d:0",
-    "name": "Usha V Nair's Mathematics Tuition Centre",
-    "address": "Usha V Nair, PKRA C-117, Panthukalam Kodunganoor PO, Vattiyoorkavu - Kulasekharam Rd",
-    "category": "Tutoring service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.438432"
   }
 ]
