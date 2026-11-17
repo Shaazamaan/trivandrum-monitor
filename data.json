@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb664dbf9c4b:0",
+    "name": "MH Cafe",
+    "address": "Mens Hostel, Medical College, Medical College Kumarapuram Rd, opposite Jayaram bakery",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:20:16.865186"
+  },
+  {
     "place_id": "0x3b05b99a04ab16c7:0",
     "name": "Armours gym",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:36:20.454002"
-  },
-  {
-    "place_id": "0x3b05b1c44ede6bcb:0",
-    "name": "Eagle Vision Real Estate Loans and Solar",
-    "address": "Pallichal - Vizhinjam Rd",
-    "category": "Real estate agent",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.452401"
   }
 ]
