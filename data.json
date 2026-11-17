@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbb4223f8e35:0",
+    "name": "Kottakkal Arya Vaidya Sala Vazhuthacaud",
+    "address": "Ground Floor, Anitha Towers, Main Rd, opposite SBI Bank",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 89210 09949",
+    "website": null,
+    "discovered_at": "2026-11-17 04:33:21.546318"
+  },
+  {
     "place_id": "0x3b05bbd212ea13c1:0",
     "name": "G3 Fashion Studio",
     "address": "4, A Street",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:13:36.233598"
-  },
-  {
-    "place_id": "0x2da4ab2d1494d611:0",
-    "name": "Sofiov Interior Design",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:13:35.018750"
   }
 ]
