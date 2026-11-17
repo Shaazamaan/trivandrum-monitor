@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x3b05bb84e006eea9:0",
+    "name": "SI Property Alpine Heights",
+    "address": "Alpine Heights, Vazhuthacaud - Poojappura Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:30:28.064734"
+  },
+  {
+    "place_id": "0x3b05bbb7be7c79ff:0",
+    "name": "Samastha Homes",
+    "address": "EVRA-187, HARISREE, VAZHUTHACAUD, ROAD",
+    "category": "Construction company",
+    "phone": "+91 79947 79993",
+    "website": null,
+    "discovered_at": "2026-11-17 17:30:26.829899"
+  },
+  {
+    "place_id": "0x3b05bbd17ac9450b:0",
+    "name": "Artech Avantika",
+    "address": "",
+    "category": "Apartment building",
+    "phone": "+91 75589 88111",
+    "website": null,
+    "discovered_at": "2026-11-17 17:30:25.344243"
+  },
+  {
+    "place_id": "0x3b05bbb3a70c9cdb:0",
+    "name": "Condor Marigold",
+    "address": "FXW6+VGV",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:30:24.014968"
+  },
+  {
+    "place_id": "0x3b05ba4a8e783bb9:0",
+    "name": "Artech Centrix",
+    "address": "",
+    "category": "Apartment complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:30:22.725725"
+  },
+  {
+    "place_id": "0x3b05bbf42787cf19:0",
+    "name": "Unique Eye Homes",
+    "address": "Kausthubham, Easwaravilasam Rd",
+    "category": "Construction company",
+    "phone": "+91 93878 01017",
+    "website": null,
+    "discovered_at": "2026-11-17 17:30:21.084398"
+  },
+  {
+    "place_id": "0x3b05bbb40ba52427:0",
+    "name": "Heera Gate",
+    "address": "",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:30:19.848796"
+  },
+  {
+    "place_id": "0x3b05bbbb7250b627:0",
+    "name": "SI Property Royal Palms apartments",
+    "address": "",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:30:18.596351"
+  },
+  {
+    "place_id": "0x3b05bb0075a86905:0",
+    "name": "Trivandrum",
+    "address": "USRA126, Udarasiromani Rd",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:30:17.218950"
+  },
+  {
+    "place_id": "0x3b05bb3f03eb028b:0",
+    "name": "Kings retail",
+    "address": "opposite Salvation Army School",
+    "category": "Fresh food market",
+    "phone": "+91 96336 90111",
+    "website": null,
+    "discovered_at": "2026-11-17 17:30:15.819283"
+  },
+  {
     "place_id": "0x3b05bbe7b2889c13:0",
     "name": "Kebab Dukkan",
     "address": "",
@@ -8908,95 +8998,5 @@
     "phone": "+91 94465 56533",
     "website": null,
     "discovered_at": "2026-11-17 05:56:54.387832"
-  },
-  {
-    "place_id": "0x3b05bb1b7b3bda33:0",
-    "name": "Soorya Furnishing",
-    "address": "Kunnanpara, Thittamangalam, Tc 37/3036, Vattiyoorkavu PO, near SreeMuruga super market",
-    "category": "Curtain supplier and maker",
-    "phone": "+91 70122 32341",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.385940"
-  },
-  {
-    "place_id": "0x3b05b9b81083e1f9:0",
-    "name": "Royal Rajadhani Furniture vattiyoorkav",
-    "address": "GXHR+W4R, Anoop Tower, Mannarakonam - Thoppumukku Rd, near L P School",
-    "category": "Furniture store",
-    "phone": "+91 80863 80205",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.384405"
-  },
-  {
-    "place_id": "0x3b05bb4e4b9d48dd:0",
-    "name": "MOBILE MAX",
-    "address": "Closes 9:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.382995"
-  },
-  {
-    "place_id": "0x3b05ba00f6513065:0",
-    "name": "Vinayaka Systems",
-    "address": "",
-    "category": "Mobile phone repair shop",
-    "phone": "+91 90615 34333",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.381305"
-  },
-  {
-    "place_id": "0x3b05b9ed0ababfd7:0",
-    "name": "Space Mobiles",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": "+91 89077 77899",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.379756"
-  },
-  {
-    "place_id": "0x3b05b9156128c4ad:0",
-    "name": "City Square",
-    "address": "Mannarakonam Vattiyoorkavu, opposite Hindustan Petrol Pump",
-    "category": "Cell phone accessory store",
-    "phone": "+91 89210 56845",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.378492"
-  },
-  {
-    "place_id": "0x3b05bb0012a55eb5:0",
-    "name": "i NEXT THE MOBILE CARE",
-    "address": "Chandra Tower",
-    "category": "Cell phone store",
-    "phone": "+91 92072 20330",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.377189"
-  },
-  {
-    "place_id": "0x3b05b9d885999099:0",
-    "name": "AGS Care Vattiyoorkavu",
-    "address": "Nettayam Rd",
-    "category": "Mobile phone repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.375816"
-  },
-  {
-    "place_id": "0x3b05bb00096eac45:0",
-    "name": "Jc Gadget Zone",
-    "address": "Kodunganoor, H1, Vattiyoorkavu - Kulasekharam Rd",
-    "category": "Cell phone store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.374599"
-  },
-  {
-    "place_id": "0x3b05b9000f942489:0",
-    "name": "Padmika By Parvathy Boutique",
-    "address": "GXJR+765, Sreedhar Kalyani Tower, Mannarakonam",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.370634"
   }
 ]
