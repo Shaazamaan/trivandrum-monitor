@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x3b05bf28094b7c69:0",
+    "name": "Petzza",
+    "address": "NEAR ST.THOMAS COLLEGE, CHANTHAVILA",
+    "category": "Pet store",
+    "phone": "+91 85470 13729",
+    "website": null,
+    "discovered_at": "2026-11-17 11:52:21.941775"
+  },
+  {
+    "place_id": "0x3b05bf7eaa27ecb9:0",
+    "name": "google pets",
+    "address": "",
+    "category": "Pet store",
+    "phone": "+91 96335 31148",
+    "website": null,
+    "discovered_at": "2026-11-17 11:52:20.727398"
+  },
+  {
+    "place_id": "0x3b05bf96fe46d0a1:0",
+    "name": "MDC SCANS AND LABORATORY",
+    "address": "Alummoodu Junction, near State Bank Of Travancore",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:52:19.384959"
+  },
+  {
+    "place_id": "0x3b05bf42e9fd3519:0",
+    "name": "Dr.Geetha's CT SCANNING Center, KAZHAKUTTAM",
+    "address": "AJ Hospital Compound, Kazhakuttam",
+    "category": "Diagnostic center",
+    "phone": "+91 73062 04074",
+    "website": null,
+    "discovered_at": "2026-11-17 11:52:18.174815"
+  },
+  {
+    "place_id": "0x3b05bf12ee316fcf:0",
+    "name": "Trinity Diagnostics Centre",
+    "address": "HVGV+JPP, near ramoos super market",
+    "category": "Diagnostic center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:52:16.678164"
+  },
+  {
+    "place_id": "0x3b05b117e6fed9c7:0",
+    "name": "POWER HOUSE UNISEX GYM AND FITNESS CENTRE",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:52:15.431909"
+  },
+  {
+    "place_id": "0x3b05e910cd3203cf:0",
+    "name": "Arya Ayurveda Clinic & Pharmacy (Oushadhi)",
+    "address": "Bus Stop, Njekadu Junction, Varkala Kallambalam Rd",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:52:14.136153"
+  },
+  {
+    "place_id": "0x3b05e988c3aac9ef:0",
+    "name": "Dhanus Physiotherapy Center",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:52:12.846168"
+  },
+  {
+    "place_id": "0x3b05e9004b94e461:0",
+    "name": "R.V Physiotherapy and Rehabilitation Centre",
+    "address": "PPMV+QRG",
+    "category": "Physical therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:52:11.595148"
+  },
+  {
+    "place_id": "0x3b05e9b1bbf7dd97:0",
+    "name": "Angel's beauty zone",
+    "address": "QQ29+M6F, Varkala Kallambalam Rd",
+    "category": "Beauty salon",
+    "phone": "+91 77360 92123",
+    "website": null,
+    "discovered_at": "2026-11-17 11:52:10.272871"
+  },
+  {
     "place_id": "0x3b05b958d0a53b63:0",
     "name": "Our Gym unisex fitness centre",
     "address": "market road",
@@ -8908,95 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:58:31.585955"
-  },
-  {
-    "place_id": "0x3b05bb1ece1d8145:0",
-    "name": "Elavat U Fitness Studio",
-    "address": "1st Floor, Artisans Building, Kumarapuram Kannanmoola Rd",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.561217"
-  },
-  {
-    "place_id": "0x3b05bb09afd21c91:0",
-    "name": "Men's Style Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.558327"
-  },
-  {
-    "place_id": "0x3b05b9550e2f6b45:0",
-    "name": "Apple Beauty Hut",
-    "address": "JN, Ulloor - Akkulam Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.557230"
-  },
-  {
-    "place_id": "0x3b05bc019245a41b:0",
-    "name": "Kalloos Beauty World",
-    "address": "GWF7+38V, Ulloor - Akkulam Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.555308"
-  },
-  {
-    "place_id": "0x3b05b928173e83cb:0",
-    "name": "J S TRADERS",
-    "address": "GWGG+W7R, Ulloor - Akkulam Rd, near AKSHYA CENTRE",
-    "category": "Grocery store",
-    "phone": "+91 94954 05195",
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.523870"
-  },
-  {
-    "place_id": "0x3b05bd07d1b785a3:0",
-    "name": "Jos Alukkas Jewellery - Trivandrum - Lulu Mall",
-    "address": "Ground Floor, Lulu Mall",
-    "category": "Jewelry store",
-    "phone": "+91 97462 19160",
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.512116"
-  },
-  {
-    "place_id": "0x3b05bd501c5b587d:0",
-    "name": "Mia by Tanishq - Lulu Mall, Thiruvananthapuram",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": "+91 85898 72271",
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.510616"
-  },
-  {
-    "place_id": "0x3b05b95977b4b02d:0",
-    "name": "Subash Trade Links, Ulloor",
-    "address": "",
-    "category": "Interior Decorator",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.495612"
-  },
-  {
-    "place_id": "0x3b05bd3a1d13f081:0",
-    "name": "Sofas & More by Stanley",
-    "address": "Saina Lifestyle LTD Lords hospital JN, NH bypass",
-    "category": "Furniture store",
-    "phone": "+91 95443 56622",
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.433840"
-  },
-  {
-    "place_id": "0x3b05b9506318ceab:0",
-    "name": "NILAMBUR TEAK FURNITURE & INTERIORS",
-    "address": "Closes 8:30 PM",
-    "category": "Open",
-    "phone": "+91 97442 23302",
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.432273"
   }
 ]
