@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05ad2fcc540e59:0",
+    "name": "Amala Interiors",
+    "address": "opposite NIIT",
+    "category": "Ceiling supplier",
+    "phone": "+91 62827 49702",
+    "website": null,
+    "discovered_at": "2026-11-17 10:32:34.830336"
+  },
+  {
+    "place_id": "0x3b05bb0c0d534909:0",
+    "name": "Carona Hypermarket",
+    "address": "Closes 9:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 10:32:33.593777"
+  },
+  {
     "place_id": "0x3b05e9f9077e0211:0",
     "name": "Sherry's Cloth House",
     "address": "MRW8+FVH, NH 66, above manjali jewellery",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:42:44.936224"
-  },
-  {
-    "place_id": "0x880fd3556c625c97:0",
-    "name": "Harry's Cafe",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:43.719206"
-  },
-  {
-    "place_id": "0x880e2d80cd73ef01:0",
-    "name": "Mojo Coffee",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:42.514853"
   }
 ]
