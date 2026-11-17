@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05ef8b7a31f81f:0",
+    "name": "RESHMAN INDIA",
+    "address": "SHOP NO 7, RESHMAN INDIA, Varkala - Madathara Rd, near DALAVAPURAM PARK",
+    "category": "Clothing store",
+    "phone": "+91 98953 34516",
+    "website": null,
+    "discovered_at": "2026-11-17 17:01:12.452990"
+  },
+  {
+    "place_id": "0x3b05bf003b9c4669:0",
+    "name": "JAAN'S JUICE HUB",
+    "address": "JR3V+56J",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:01:11.185812"
+  },
+  {
+    "place_id": "0x3b05bf1961693461:0",
+    "name": "Fruit Box",
+    "address": "HVV2+386",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:01:09.955709"
+  },
+  {
+    "place_id": "0x3b05e91e8d689225:0",
+    "name": "PRADHAN MANTRI BHARATIYA JANAUSHADHI KENDRA",
+    "address": "PUTHANCHANTHA PMBJK, NA, Varkala Kallambalam Rd",
+    "category": "Pharmacy",
+    "phone": "+91 85470 34774",
+    "website": null,
+    "discovered_at": "2026-11-17 17:01:08.413822"
+  },
+  {
+    "place_id": "0x3b05e8edf11f9c55:0",
+    "name": "Doctors Diagnostic Medical Centre",
+    "address": "QQ29+G4G, Varkala Kallambalam Rd",
+    "category": "Pharmacy",
+    "phone": "+91 94953 55694",
+    "website": null,
+    "discovered_at": "2026-11-17 17:01:07.180806"
+  },
+  {
+    "place_id": "0x3b05e9bc484e017d:0",
+    "name": "SOLU MEDICALS",
+    "address": "PQ8W+Q54",
+    "category": "Pharmacy",
+    "phone": "+91 95449 85392",
+    "website": null,
+    "discovered_at": "2026-11-17 17:01:05.824420"
+  },
+  {
+    "place_id": "0x3b05e9006193bc77:0",
+    "name": "Varkala",
+    "address": "MQV8+F6H, Anayil Road",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:01:04.469293"
+  },
+  {
+    "place_id": "0x3b05cfbc7ebbdc27:0",
+    "name": "Ambadiyil Stay mankayam near Mankayam Water falls",
+    "address": "Ambadiyil Stay",
+    "category": "Tour agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:01:03.194381"
+  },
+  {
     "place_id": "0x3b05c54454dde591:0",
     "name": "R J S JUICE & SPICY",
     "address": "Shop No 176",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:56:54.334469"
-  },
-  {
-    "place_id": "0x3b05bb616bd6c755:0",
-    "name": "Tee-e Time Eats",
-    "address": "Maruthunkuzhi Kachani Rd, near Kunnil Hypermarket",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.333367"
-  },
-  {
-    "place_id": "0x3b05bb005743c8db:0",
-    "name": "SPICY GRILL FAMILY RESTAURANT",
-    "address": "Spicy Grill Restaurant, Vattiyoorkavu - Kulasekharam Rd, opposite FABRIDRY DRY CLEAN",
-    "category": "Food court",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.330560"
-  },
-  {
-    "place_id": "0x3b05bb1b97c6e44d:0",
-    "name": "Ashraya community pharmacy",
-    "address": "SM Lock Rd, opp. Puthenpally juma masjid",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.325131"
-  },
-  {
-    "place_id": "0x3b05bbc360c4290d:0",
-    "name": "Amma Pharmacy",
-    "address": "Mannarakonam - Thoppumukku Rd",
-    "category": "Medical Center",
-    "phone": "+91 89217 90913",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.323813"
-  },
-  {
-    "place_id": "0x3b05bb57ad90a5bd:0",
-    "name": "Retail pharmacy",
-    "address": "Mannarakonam - Thoppumukku Rd",
-    "category": "Medical Center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.322404"
-  },
-  {
-    "place_id": "0x3b05b9a128f05dbb:0",
-    "name": "JANASHRAYA COMMUNITY PHARMACY",
-    "address": "Vattiyoorkavu - Kulasekharam Rd",
-    "category": "Medical supply store",
-    "phone": "+91 73063 49258",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.320604"
-  },
-  {
-    "place_id": "0x3b05b90f89262165:0",
-    "name": "OCTAL DIAGNOSTIC CENTRE",
-    "address": "Octal Lab Nettayam Vattiyoorkavu, Maruthankuzhi - Kachani Rd",
-    "category": "Diagnostic center",
-    "phone": "+91 99611 99667",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.315982"
-  },
-  {
-    "place_id": "0x3b05b96589236bb1:0",
-    "name": "Aswas Diagnostics Vattiyoorkavu",
-    "address": "Sreedeepam Towers Mannarakonam, Junction, Vattiyoorkavu - Kulasekharam Rd",
-    "category": "Medical laboratory",
-    "phone": "+91 89435 51055",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.314046"
   }
 ]
