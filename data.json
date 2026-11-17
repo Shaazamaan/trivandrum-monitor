@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05e9f0dddf14ab:0",
+    "name": "Thahas Sulthan",
+    "address": "MRX6+QQF, Market Rd",
+    "category": "Indian Muslim restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 20:38:42.678548"
+  },
+  {
+    "place_id": "0x3b05e90060aaba99:0",
+    "name": "Kaduvayil Thattukada",
+    "address": "MRX7+7FM",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 20:38:41.411162"
+  },
+  {
+    "place_id": "0x3b05e94e78f378f5:0",
+    "name": "JK MOBILES",
+    "address": "PP3Q+7RP, Varkala - Anchuthengu - Kadakkavoor - Chirayinkeezhu Rd",
+    "category": "Cell phone store",
+    "phone": "+91 89437 68428",
+    "website": null,
+    "discovered_at": "2026-11-17 20:38:40.163140"
+  },
+  {
     "place_id": "0x3b05b90018f3382f:0",
     "name": "SAJ MOBILES",
     "address": "GWGG+W6C, Ulloor - Akkulam Rd, near AKSHYA CENTRE",
@@ -8971,32 +8998,5 @@
     "phone": "+91 94951 54446",
     "website": null,
     "discovered_at": "2026-11-17 06:32:52.933425"
-  },
-  {
-    "place_id": "0x3b05bbb3a8c61821:0",
-    "name": "V-Care Multispeciality Dental Clinic, Thirumala, Trivandrum",
-    "address": "Vcare dental clinic",
-    "category": "Dental clinic",
-    "phone": "+91 94966 66139",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.932419"
-  },
-  {
-    "place_id": "0x3b05b9d748fe5749:0",
-    "name": "Dr.Praveen's Cosmetic Dental Care",
-    "address": "Pallivila",
-    "category": "Dental clinic",
-    "phone": "+91 94972 71817",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.931094"
-  },
-  {
-    "place_id": "0x3b05b100628d3f8d:0",
-    "name": "RITHU DENTAL Multi -speciality dental clinic",
-    "address": "Closes 6:30 PM",
-    "category": "Open",
-    "phone": "+91 95671 06401",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.929504"
   }
 ]
