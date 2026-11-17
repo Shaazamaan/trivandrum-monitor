@@ -1,5 +1,203 @@
 [
   {
+    "place_id": "0x3b05bb78c575537b:0",
+    "name": "Shopping Street",
+    "address": "42",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:26.462576"
+  },
+  {
+    "place_id": "0x3b05bb95bac6eb05:0",
+    "name": "P NAMBI RAJ",
+    "address": "Raj Juice Shop",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:25.296722"
+  },
+  {
+    "place_id": "0x3b05bb84175cc291:0",
+    "name": "South Fort Vada Kada",
+    "address": "FWHV+HJ2, Anaval Street",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:24.116205"
+  },
+  {
+    "place_id": "0x3b05bba9767d21d1:0",
+    "name": "Hotel New Sourashtra",
+    "address": "HNC Building, S Street Rd",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:22.878856"
+  },
+  {
+    "place_id": "0x3b05bba0b6dd432d:0",
+    "name": "Sree Padmanabha hotel",
+    "address": "",
+    "category": "South Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:21.644695"
+  },
+  {
+    "place_id": "0x3b05bb005b08eb8b:0",
+    "name": "atma wellness clinic trivandrum",
+    "address": "FWPR+XHQ, Sreekanteswaram Temple Rd",
+    "category": "Wellness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:20.400078"
+  },
+  {
+    "place_id": "0x3b05bb10b0d673bf:0",
+    "name": "Multilevel Smart Parking(MLCP), Palayam",
+    "address": "behind Saphalyam Complex",
+    "category": "Public parking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:19.241569"
+  },
+  {
+    "place_id": "0x3b05bb99a8812bc5:0",
+    "name": "Keerthi Nair & Associates",
+    "address": "T C 26, 773, Bakery Jct Rd",
+    "category": "Chartered accountant",
+    "phone": "+91 94963 69715",
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:17.894091"
+  },
+  {
+    "place_id": "0x3b05ba31a6798b1b:0",
+    "name": "Great India Tour Company",
+    "address": "New Corporation Bldg, Palayam",
+    "category": "Tour agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:16.730473"
+  },
+  {
+    "place_id": "0x3b05bb9ac34a2dad:0",
+    "name": "inHome INTERIORS",
+    "address": "TC 27/847(1, NRA -36, Extra Police Rd",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:15.475155"
+  },
+  {
+    "place_id": "0x3b05bbf752a9fff3:0",
+    "name": "Sun Interiors",
+    "address": "opp. YMCA, near Secreteriate",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:14.052306"
+  },
+  {
+    "place_id": "0x3b05bb5625fc27bf:0",
+    "name": "Artful Design Studio",
+    "address": "Ground floor, Bhavani building, Uppalam Rd, near BSNL office",
+    "category": "Interior designer",
+    "phone": "+91 77361 25552",
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:12.804554"
+  },
+  {
+    "place_id": "0x3b05bb00184ba731:0",
+    "name": "Xylem Offline Campus Trivandrum",
+    "address": "",
+    "category": "Education center",
+    "phone": "+91 79943 32701",
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:11.617508"
+  },
+  {
+    "place_id": "0x3b05bb0043790b47:0",
+    "name": "Palayam market",
+    "address": "FWVX+VQX, 171, Gandhari Amman Covil Ln",
+    "category": "Market",
+    "phone": "+91 75609 67595",
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:10.408739"
+  },
+  {
+    "place_id": "0x3b05b9fd579762dd:0",
+    "name": "New Leaf Super Market",
+    "address": "Pallimuku Juntion",
+    "category": "Supermarket",
+    "phone": "+91 83300 21397",
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:09.256623"
+  },
+  {
+    "place_id": "0x3b05bb182b77a91d:0",
+    "name": "Yeshaara Jewels",
+    "address": "Tutors Ln",
+    "category": "Jewelry store",
+    "phone": "+91 80896 73279",
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:08.062472"
+  },
+  {
+    "place_id": "0x3b05bb92732266a7:0",
+    "name": "MIYA DESIGNS",
+    "address": "81/380/2 Saga Tower,Pulimood Junction, Road, Mahatma Gandhi Rd",
+    "category": "Boutique",
+    "phone": "+91 90613 09056",
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:06.183941"
+  },
+  {
+    "place_id": "0x3b05bb004896556f:0",
+    "name": "Travancore cafe",
+    "address": "Marutham Royalwings, Palayam Airport Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:05.023742"
+  },
+  {
+    "place_id": "0x3b05bbc10a948735:0",
+    "name": "Tharavattil Plaza",
+    "address": "",
+    "category": "South Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:03.833981"
+  },
+  {
+    "place_id": "0x3b05bb2ab2ef6d11:0",
+    "name": "Le Capital Seafood & Grills",
+    "address": "Ground Floor, Chandrasekharan Nair Stadium",
+    "category": "Seafood restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:02.557717"
+  },
+  {
+    "place_id": "0x3b05bb160c953977:0",
+    "name": "Mynt",
+    "address": "",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:38:01.389637"
+  },
+  {
+    "place_id": "0x3b05bb8f766c9299:0",
+    "name": "AAJ (Aavani's Aesthetic Journey)",
+    "address": "2nd Floor, Bhavani Building, Uppalam Rd",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:37:59.864383"
+  },
+  {
     "place_id": "0x3b05bb84e006eea9:0",
     "name": "SI Property Alpine Heights",
     "address": "Alpine Heights, Vazhuthacaud - Poojappura Rd",
@@ -8800,203 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:56:54.426892"
-  },
-  {
-    "place_id": "0x3b05b900314e40c9:0",
-    "name": "Stay in style mens lounge-vattiyoorkavu",
-    "address": "opposite HP petroleum",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.425581"
-  },
-  {
-    "place_id": "0x3b05b9b34c0076cb:0",
-    "name": "Nisa's Beauty Parlour & Makeup Studio",
-    "address": "GXJR+G7R P O, near Little Flower Church Mannarakkonam",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.423725"
-  },
-  {
-    "place_id": "0x3b05b9f573dfd5d3:0",
-    "name": "Cute Hair Dressing Centre & Gents Beauty Parlour",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.422407"
-  },
-  {
-    "place_id": "0x3b05b9b2be7d0db1:0",
-    "name": "HAIRMAX GENTS BEAUTY SALON",
-    "address": "NR BUILDING, Vattiyoorkavu - puliyarakonam Rd, near VAZHOTTUKONAM COMMUNITY HALL",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.421289"
-  },
-  {
-    "place_id": "0x3b05bb56937a19e7:0",
-    "name": "Ambiance Makeover Studio",
-    "address": "Bus StopNikunjam building, Thoppumukku, Vattiyoorkkav Puliyarakkonam Rd, near gg bakery",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.419891"
-  },
-  {
-    "place_id": "0x3b05bb6476e605cb:0",
-    "name": "Sri Sai Homoeopathic Beauty Clinic/Beauty Parlour",
-    "address": "Vattiyoorkavu, Opp, Netaji Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.418814"
-  },
-  {
-    "place_id": "0x3b05bbcee089bd7f:0",
-    "name": "NAKSHATRA BEAUTY SALON",
-    "address": "Nikujam Building Near SK Fashion Stitching Center Thoppumukku Junction Vattiyoorkavu, Mannarakonam - Thoppumukku Rd",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.417137"
-  },
-  {
-    "place_id": "0x3b05b9ed09496ff3:0",
-    "name": "LAVENDER BEAUTY PARLOUR & MAKE OVER STUDIO",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.415582"
-  },
-  {
-    "place_id": "0x3b05b93f19496d4b:0",
-    "name": "𝘉𝘦𝘢𝘶𝘵𝘺 𝘗𝘰𝘪𝘯𝘵 𝘔𝘢𝘬𝘦𝘰𝘷𝘦𝘳 𝘚𝘵𝘶𝘥𝘪𝘰",
-    "address": "Closes 7 AM Wed",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.413684"
-  },
-  {
-    "place_id": "0x3b05b98c862dc65f:0",
-    "name": "HEAVENS HERBAL BEAUTY PARLOUR",
-    "address": "MANNARAKONAM JN",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.411966"
-  },
-  {
-    "place_id": "0x3b05bbe4cdc6ddbb:0",
-    "name": "Shine Unisex Salon",
-    "address": "Vattiyoorkkav-Arappura Rd",
-    "category": "Hairdresser",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.410545"
-  },
-  {
-    "place_id": "0x3b05bbd34c556045:0",
-    "name": "Gmakeover Studio",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.408441"
-  },
-  {
-    "place_id": "0x3b05ba1e39a528db:0",
-    "name": "Sastha Agencies",
-    "address": "GXGR+8C8, Mannarakonam - Thoppumukku Rd",
-    "category": "Grocery store",
-    "phone": "+91 96051 76772",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.406366"
-  },
-  {
-    "place_id": "0x3b05ba0fa30bb03f:0",
-    "name": "Sree Muruka Supermarket",
-    "address": "Sree Muruka, Supermarket, Thittamangalam, Kunnanpara, Vattiyoorkavu - Kulasekharam Rd",
-    "category": "Supermarket",
-    "phone": "+91 94465 72168",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.404601"
-  },
-  {
-    "place_id": "0x3b05ba13fd5bc377:0",
-    "name": "Triveni Store",
-    "address": "Buildings No 21, Triveni Store, PTP Nagar Rd, near Canara Bank",
-    "category": "Grocery store",
-    "phone": "+91 98476 36769",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.403162"
-  },
-  {
-    "place_id": "0x3b05b9f4ff1d923b:0",
-    "name": "Anoop Traders",
-    "address": "Puthoorkonam",
-    "category": "Wholesale grocer",
-    "phone": "+91 75590 70330",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.401838"
-  },
-  {
-    "place_id": "0x3b05b9f5021f0849:0",
-    "name": "City Supermarket",
-    "address": "GXHQ+VX8, Mannarakonam - Thoppumukku Rd",
-    "category": "Supermarket",
-    "phone": "+91 75618 12141",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.399256"
-  },
-  {
-    "place_id": "0x3b05bb87041ce6a5:0",
-    "name": "NITYA BY KALYANI",
-    "address": "NITYA BY KALYANI",
-    "category": "Jewelry store",
-    "phone": "+91 94484 84287",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.397297"
-  },
-  {
-    "place_id": "0x3b05b982cd0c1903:0",
-    "name": "NAYRAH by Nishana",
-    "address": "Vattiyoorkavu - Kulasekharam Rd",
-    "category": "Jewelry store",
-    "phone": "+91 62820 20477",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.393911"
-  },
-  {
-    "place_id": "0x3b05ba1f6f145803:0",
-    "name": "B.S. Plywood & Hardware",
-    "address": "GXFQ+77V, Vattiyoorkkav-Arappura Rd",
-    "category": "Plywood supplier",
-    "phone": "+91 95447 55599",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.392025"
-  },
-  {
-    "place_id": "0x3b05bbb2e98a43d3:0",
-    "name": "SHA ENTERPRISES",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": "+91 94475 54368",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.389885"
-  },
-  {
-    "place_id": "0x3b05b9ed08b3ee0d:0",
-    "name": "Sunil Wood Industries",
-    "address": "Kamala Tower",
-    "category": "Furniture store",
-    "phone": "+91 94465 56533",
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.387832"
   }
 ]
