@@ -1,6 +1,14 @@
 from playwright.sync_api import sync_playwright
 import time
 import random
+import re
+import urllib.parse
+
+# Thiruvananthapuram district bounding box. Without it Google sometimes answers
+# an area search (e.g. "Ulloor") with businesses near the GitHub runner in the US.
+TVM_LAT = (8.15, 8.95)
+TVM_LNG = (76.65, 77.35)
+TVM_CENTER = "@8.5241,76.9366,11z"
 
 DESKTOP_USER_AGENTS = [
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
@@ -52,7 +60,7 @@ class GoogleMapsScraper:
         if not self.page:
             self.start_browser()
         
-        search_query = f"{keyword} in {location}"
+        search_query = f"{keyword} in {location}, Thiruvananthapuram, Kerala"
         print(f"Searching for: {search_query}")
         
         # RESOURCE BLOCKING (Turbo Mode)
@@ -64,7 +72,7 @@ class GoogleMapsScraper:
 
         # RETRY LOGIC (Self-Healing)
         max_retries = 3
-        search_url = f"https://www.google.com/maps/search/{search_query}"  # Store for potential reload
+        search_url = f"https://www.google.com/maps/search/{urllib.parse.quote(search_query)}/{TVM_CENTER}"  # Map centred on Trivandrum
         
         for attempt in range(max_retries):
             try:
@@ -93,6 +101,7 @@ class GoogleMapsScraper:
             
             entries = self.page.query_selector_all('div[role="article"]')
             results = []
+            outside = 0
             
             for entry in entries:
                 try:
@@ -104,6 +113,16 @@ class GoogleMapsScraper:
                     if not aria_label: continue
                     url = url_el.get_attribute('href')
                     url = self.clean_data(url) # Sanitize URL
+
+                    # Keep only places whose map pin is inside Thiruvananthapuram district
+                    coord = re.search(r'!3d(-?[0-9.]+)!4d(-?[0-9.]+)', url or '')
+                    if not coord:
+                        outside += 1
+                        continue
+                    lat, lng = float(coord.group(1)), float(coord.group(2))
+                    if not (TVM_LAT[0] <= lat <= TVM_LAT[1] and TVM_LNG[0] <= lng <= TVM_LNG[1]):
+                        outside += 1
+                        continue
                     
                     text = entry.inner_text()
                     
@@ -118,7 +137,6 @@ class GoogleMapsScraper:
                                 address = parts[1].strip()
                                 break
                     
-                    import re
                     # Extract Rating/Reviews
                     rating = None
                     reviews = 0
@@ -155,7 +173,9 @@ class GoogleMapsScraper:
                     })
                 except:
                     continue
-                    
+
+            if outside:
+                print(f"   skipped {outside} results outside Trivandrum")
             return results
 
         except Exception as e:
