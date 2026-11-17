@@ -1,5 +1,104 @@
 [
   {
+    "place_id": "0x3b05b1bacdbc3db3:0",
+    "name": "Thrayam Caters and Events",
+    "address": "+91 79022 13280",
+    "category": "Open 24 hours",
+    "phone": "+91 79022 13280",
+    "website": null,
+    "discovered_at": "2026-11-17 02:47:45.456774"
+  },
+  {
+    "place_id": "0x3b05b3d71dfe2331:0",
+    "name": "Harisree Tutorial",
+    "address": "F4W4+9H8",
+    "category": "Tutoring service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 02:47:44.182949"
+  },
+  {
+    "place_id": "0x3b05b121e03bfb91:0",
+    "name": "AANDRIYA MEDICALS",
+    "address": "Thachottukavu - Thirumala Rd",
+    "category": "Pharmacy",
+    "phone": "+91 89218 38814",
+    "website": null,
+    "discovered_at": "2026-11-17 02:47:42.949587"
+  },
+  {
+    "place_id": "0x3b05b0f40d8eb865:0",
+    "name": "Rohini Medicals",
+    "address": "F2RQ+459",
+    "category": "Pharmacy",
+    "phone": "+91 94462 66299",
+    "website": null,
+    "discovered_at": "2026-11-17 02:47:41.743278"
+  },
+  {
+    "place_id": "0x3b05b0a4539498cd:0",
+    "name": "Nakshatra Medicines.Retail Medical Store",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 85906 04541",
+    "website": null,
+    "discovered_at": "2026-11-17 02:47:40.576619"
+  },
+  {
+    "place_id": "0x3b05b0a4534099a1:0",
+    "name": "Karunya Medicals",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 95675 83800",
+    "website": null,
+    "discovered_at": "2026-11-17 02:47:39.339777"
+  },
+  {
+    "place_id": "0x3b05b15c70c8939d:0",
+    "name": "Athreya Ayurveda Health Care",
+    "address": "MP 20/317 D, Karipoor, near Krishi Bhavan",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 90480 70200",
+    "website": null,
+    "discovered_at": "2026-11-17 02:47:38.128527"
+  },
+  {
+    "place_id": "0x3b05a9dfdbcaab1f:0",
+    "name": "Black Pearl",
+    "address": "Aadarsh Bhavan attpuram Kolathur Uchchkadapiyo",
+    "category": "Sightseeing tour agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 02:47:36.921155"
+  },
+  {
+    "place_id": "0x3b05a90c4bad3711:0",
+    "name": "Kerala Backwater",
+    "address": "",
+    "category": "Boat rental service",
+    "phone": "+91 97449 00280",
+    "website": null,
+    "discovered_at": "2026-11-17 02:47:35.673910"
+  },
+  {
+    "place_id": "0x3b05a90021f701ab:0",
+    "name": "Dream valley",
+    "address": "Bund Rd",
+    "category": "Boat club",
+    "phone": "+91 70346 00898",
+    "website": null,
+    "discovered_at": "2026-11-17 02:47:34.470489"
+  },
+  {
+    "place_id": "0x3b05a9424c70277b:0",
+    "name": "Shiva Poovar Boating",
+    "address": "",
+    "category": "Boat club",
+    "phone": "+91 90749 55427",
+    "website": null,
+    "discovered_at": "2026-11-17 02:47:33.256097"
+  },
+  {
     "place_id": "0x3b05b7001bd7e81f:0",
     "name": "Hotel Narayani",
     "address": "J227+68M, Nedumangad Hwy",
@@ -8899,104 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:11:09.174076"
-  },
-  {
-    "place_id": "0x808fcd313c5d5ca9:0",
-    "name": "AV OPTOMETRY/ DR SAUL CEPEDA",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:07.954015"
-  },
-  {
-    "place_id": "0x808e33cac96ef507:0",
-    "name": "Queen Skin Care",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:06.654472"
-  },
-  {
-    "place_id": "0x808ff2c44dd62a4f:0",
-    "name": "Dermal 911 Acne And Skin Care",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:05.460332"
-  },
-  {
-    "place_id": "0x808e35787fcc134b:0",
-    "name": "Golden State Dermatology - Los Gatos",
-    "address": "",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:04.199996"
-  },
-  {
-    "place_id": "0x808fc9eb3476178d:0",
-    "name": "Stanford General Dermatology Clinic in Santa Clara",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:02.977557"
-  },
-  {
-    "place_id": "0x808fcdd9d1abbf83:0",
-    "name": "Nucell Skin Medspa",
-    "address": "1630 Oakland Road",
-    "category": "Medical spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:01.784701"
-  },
-  {
-    "place_id": "0x808fcd0680058e57:0",
-    "name": "San Jose Medical Spa",
-    "address": "2360 McKee Road",
-    "category": "Medical spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:00.106809"
-  },
-  {
-    "place_id": "0x808fc990374e4287:0",
-    "name": "Perfect Smile Dental Care",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:10:58.904609"
-  },
-  {
-    "place_id": "0x3b05b97eb2071521:0",
-    "name": "VINOD V S AND CO",
-    "address": "",
-    "category": "Chartered accountant",
-    "phone": "+91 98462 66699",
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:36.367029"
-  },
-  {
-    "place_id": "0x3b05bb3732cc70a3:0",
-    "name": "S B ASSOCIATES",
-    "address": "Punnen Rd",
-    "category": "Tax preparation service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:35.117850"
-  },
-  {
-    "place_id": "0x3b05bb959947f4c5:0",
-    "name": "RHA & ASSOCIATES",
-    "address": "GPO, CRA 67, Convent Rd, opposite H&C Books",
-    "category": "Association / Organization",
-    "phone": "+91 95676 86852",
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:33.794745"
   }
 ]
