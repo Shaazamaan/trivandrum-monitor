@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x3b05b1006230d183:0",
+    "name": "Ammudu's Cloud Kitchen",
+    "address": "Vadakkevila, G267+PV4 Suraj's home",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:09:26.358085"
+  },
+  {
+    "place_id": "0x3b05cf5c7b79c861:0",
+    "name": "A. F CAKES, home made cakes",
+    "address": "Kattakkal road, opposite govt UPS",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:09:25.148603"
+  },
+  {
+    "place_id": "0x3b05c52157c755bb:0",
+    "name": "J P Dental Clinic & Orthodontic Centre",
+    "address": "Main Rd",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:09:21.933611"
+  },
+  {
+    "place_id": "0x3b05b9046da81a0b:0",
+    "name": "Aasco Grand mart discount bazar",
+    "address": "",
+    "category": "Supermarket",
+    "phone": "+91 85905 01566",
+    "website": null,
+    "discovered_at": "2026-11-17 09:09:20.684424"
+  },
+  {
+    "place_id": "0x3b05c3ee8054d833:0",
+    "name": "Niravu super market",
+    "address": "PW63+QCX",
+    "category": "Grocery store",
+    "phone": "+91 80753 61011",
+    "website": null,
+    "discovered_at": "2026-11-17 09:09:19.451868"
+  },
+  {
+    "place_id": "0x3b05b7afb59847a9:0",
+    "name": "X1 MOBILES",
+    "address": "X1 MOBLIES",
+    "category": "Cell phone store",
+    "phone": "+91 90619 10101",
+    "website": null,
+    "discovered_at": "2026-11-17 09:09:18.100650"
+  },
+  {
+    "place_id": "0x3b05bbb4cbf8ea87:0",
+    "name": "Inyu Store",
+    "address": "MS PLAZA, PUTHENPALLY SERVICE ROAD LANE, NH BYPASS",
+    "category": "Children's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:09:16.863142"
+  },
+  {
+    "place_id": "0x3b05b700393f68b1:0",
+    "name": "INFINITY REHAB PHYSIOTHERAPY CLINIC",
+    "address": "Infinity Rehab Physiotherapy clinic, GR building, Vattiyoorkkav Puliyarakkonam Rd",
+    "category": "Physical therapist",
+    "phone": "+91 70125 30531",
+    "website": null,
+    "discovered_at": "2026-11-17 09:09:15.515203"
+  },
+  {
+    "place_id": "0x3b05b798817a005d:0",
+    "name": "Osteon Advanced Physiotherapy &Rehab Centre",
+    "address": "Junction",
+    "category": "Physical therapy clinic",
+    "phone": "+91 80754 48494",
+    "website": null,
+    "discovered_at": "2026-11-17 09:09:14.303973"
+  },
+  {
+    "place_id": "0x3b05bbe96a86b987:0",
+    "name": "SERRAVIA AESTHETIC CLINIC",
+    "address": "near to indroyal uptown flat",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:09:12.935966"
+  },
+  {
     "place_id": "0x3b05c79de2008a1b:0",
     "name": "Niha fashion",
     "address": "Closes 5 PM",
@@ -8908,95 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:10:39.992699"
-  },
-  {
-    "place_id": "0x3b05bfae22833467:0",
-    "name": "SEN Gold And Diamonds",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": "+91 94961 71577",
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:38.802747"
-  },
-  {
-    "place_id": "0x3b05bf1e1f1e0103:0",
-    "name": "Hotspot Mobiles",
-    "address": "",
-    "category": "Cell phone store",
-    "phone": "+91 95624 40770",
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:37.621303"
-  },
-  {
-    "place_id": "0x3b05b0cf6dcef99f:0",
-    "name": "Petzza- The Pet Wellness Hub - Kazhakoottam",
-    "address": "HVWQ+7JG",
-    "category": "Veterinarian",
-    "phone": "+91 80892 08889",
-    "website": null,
-    "discovered_at": "2026-11-17 03:58:37.557645"
-  },
-  {
-    "place_id": "0x3b05e9005d1c718f:0",
-    "name": "AYRAAN Store kallambalam Po",
-    "address": "QQ8Q+HHM, 47, National Highway",
-    "category": "Print shop",
-    "phone": "+91 90724 71731",
-    "website": null,
-    "discovered_at": "2026-11-17 03:58:36.380972"
-  },
-  {
-    "place_id": "0x3b05e9ffa09af3b5:0",
-    "name": "Annapoorna Pooja Store",
-    "address": "Varkala Kallambalam Rd",
-    "category": "Herb shop",
-    "phone": "+91 94461 73524",
-    "website": null,
-    "discovered_at": "2026-11-17 03:58:35.172282"
-  },
-  {
-    "place_id": "0x880e34dd90be242f:0",
-    "name": "Suite Spotte Coworking",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:49:33.871824"
-  },
-  {
-    "place_id": "0x3ba86de6c8e0d92b:0",
-    "name": "Monnaie Architects & Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": "+91 96250 80808",
-    "website": null,
-    "discovered_at": "2026-11-17 03:49:32.668169"
-  },
-  {
-    "place_id": "0x880e370059e8e863:0",
-    "name": "Professional Truck Driving School المحترف",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:49:31.482895"
-  },
-  {
-    "place_id": "0x880e39deed0beb49:0",
-    "name": "Eye Care Center LTD",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:49:30.273084"
-  },
-  {
-    "place_id": "0x880e3172cdb1f071:0",
-    "name": "Primary Eye Care Associates",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:49:28.865106"
   }
 ]
