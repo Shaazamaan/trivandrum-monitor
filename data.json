@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb005e4319ad:0",
+    "name": "Signature sip cafe",
+    "address": "Appu building, Women's College Ln",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:48:16.778374"
+  },
+  {
     "place_id": "0x3b05bbfd3334e0bb:0",
     "name": "V.S Medicals & Surgicals",
     "address": "Medical College",
@@ -8989,14 +8998,5 @@
     "phone": "+91 99950 63092",
     "website": null,
     "discovered_at": "2026-11-16 12:01:16.928294"
-  },
-  {
-    "place_id": "0x865cf5006b9a89a7:0",
-    "name": "Pullman Market",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:15.727419"
   }
 ]
