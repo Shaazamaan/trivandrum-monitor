@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05b99a04ab16c7:0",
+    "name": "Armours gym",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:12:43.505224"
+  },
+  {
+    "place_id": "0x3b05bbe9fc6741c1:0",
+    "name": "Shanti Block, Divya Prabha Eye Hospital",
+    "address": "Kumarapuram Kannanmoola Rd",
+    "category": "Doctor",
+    "phone": "+91 93883 42050",
+    "website": null,
+    "discovered_at": "2026-11-17 15:12:42.264448"
+  },
+  {
+    "place_id": "0x3b05b9275e6ce2a5:0",
+    "name": "Ananta Eye Bank",
+    "address": "",
+    "category": "Non-profit organization",
+    "phone": "+91 79944 74444",
+    "website": null,
+    "discovered_at": "2026-11-17 15:12:41.033571"
+  },
+  {
+    "place_id": "0x3b05b9303bf6be5b:0",
+    "name": "The Yellow Ladder",
+    "address": "Opens 9 AM Wed",
+    "category": "Closed",
+    "phone": "+91 98466 77662",
+    "website": null,
+    "discovered_at": "2026-11-17 15:12:39.759433"
+  },
+  {
+    "place_id": "0x3b05bf000dc3ae3b:0",
+    "name": "Madukkamoottil, Trivandrum",
+    "address": "PNT820, PNT820",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:12:38.517311"
+  },
+  {
     "place_id": "0x3b05bfce778924bb:0",
     "name": "Lancet Laboratory & Research Center-LLRC",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:36:20.452401"
-  },
-  {
-    "place_id": "0x3b05af1d635b794b:0",
-    "name": "U Turn motor driving school",
-    "address": "office, near Pallichal, near souparnika auditorium",
-    "category": "Driving school",
-    "phone": "+91 95629 27012",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.450227"
-  },
-  {
-    "place_id": "0x3b05b9007a2086f1:0",
-    "name": "Talent Tuition Centre",
-    "address": "HW3X+42G",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.448056"
-  },
-  {
-    "place_id": "0x3b05bb309c516c4f:0",
-    "name": "ALPHA PUBLIC SCHOOL AND TUITION ACADEMY",
-    "address": "",
-    "category": "Coaching center",
-    "phone": "+91 99950 27074",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.446158"
-  },
-  {
-    "place_id": "0x3b05a567a37e95cb:0",
-    "name": "Pearl Spa",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.444200"
-  },
-  {
-    "place_id": "0x3b05a575bf148c97:0",
-    "name": "Amrutham Ayurvedic Village Resort",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.443106"
   }
 ]
