@@ -1,5 +1,185 @@
 [
   {
+    "place_id": "0x3b05ba50138cff5d:0",
+    "name": "New Empire Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:28.311949"
+  },
+  {
+    "place_id": "0x3b05a95b274dfb59:0",
+    "name": "Square Lagoon Restaurant",
+    "address": "Club Mahindra Poovar Resort Virali, Pozhiyoor",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:27.056334"
+  },
+  {
+    "place_id": "0x3b05b54659c4cd69:0",
+    "name": "Paruthipally Veterinary Hospital",
+    "address": "H474+326",
+    "category": "Veterinary pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:25.817561"
+  },
+  {
+    "place_id": "0x3b05a9202b7f644f:0",
+    "name": "Jan Aushadhi Medical store",
+    "address": "839C+JJG",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:24.590076"
+  },
+  {
+    "place_id": "0x3b05afbd7135953f:0",
+    "name": "Trippy Buddy Travel Co.",
+    "address": "Vizhinjam - Balaramapuram Rd, opposite Jumma Masjid",
+    "category": "Travel agency",
+    "phone": "+91 62826 68220",
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:23.240575"
+  },
+  {
+    "place_id": "0x3b05a5004baf0521:0",
+    "name": "Divyanjali house",
+    "address": "Mulloor P O",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:21.909179"
+  },
+  {
+    "place_id": "0x3b05a51882e7abdd:0",
+    "name": "TAPASYA AYURVEDA",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:20.675707"
+  },
+  {
+    "place_id": "0x3b05a58cb26f68d3:0",
+    "name": "Meenakshi Jewellery",
+    "address": "9XPR+9WH, Pallichal - Vizhinjam Rd, Vizhinjam St",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:19.394094"
+  },
+  {
+    "place_id": "0x3b05a5efaedf232f:0",
+    "name": "NEEANA JEWELS",
+    "address": "MURUKA VILASAM",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:17.959545"
+  },
+  {
+    "place_id": "0x3b05af001e49907f:0",
+    "name": "Gulmohar indian Art's &crafts",
+    "address": "juction, 9277+2WG, Poovar road Poovar road, Pulinkudi Rd",
+    "category": "Jewelry store",
+    "phone": "+91 78899 63583",
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:16.771119"
+  },
+  {
+    "place_id": "0x3b05bb86473c26f3:0",
+    "name": "Le abaya",
+    "address": "juma masjid, Trivandrum Vizhinjam Rd, opposite kallattumukku",
+    "category": "Women's clothing store",
+    "phone": "+91 99950 76323",
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:15.550010"
+  },
+  {
+    "place_id": "0x3b05a53d4abcb511:0",
+    "name": "Real Value Fruits and Bakery",
+    "address": "jn",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:14.268240"
+  },
+  {
+    "place_id": "0x3b05a50052284a27:0",
+    "name": "Bibin Bakery",
+    "address": "92M4+G7H, Junction, near Bivarage",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:12.970186"
+  },
+  {
+    "place_id": "0x3b05a5824f6ac28d:0",
+    "name": "Raja's Cafe",
+    "address": "92W3+H3H, Pallichal - Vizhinjam Rd, near Chandrika Textiles",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:11.737157"
+  },
+  {
+    "place_id": "0x3b05a5929b2e0469:0",
+    "name": "Burgery Bites",
+    "address": "Opens 1:30 PM Wed",
+    "category": "Closed",
+    "phone": "+91 83308 78307",
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:10.465768"
+  },
+  {
+    "place_id": "0x3b05af53e32f9add:0",
+    "name": "Opto Vision Opticals",
+    "address": "9268+FQJ, Poovar - Vizhinjam Rd",
+    "category": "Optician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:09.229700"
+  },
+  {
+    "place_id": "0x3b05a56b77f0c80f:0",
+    "name": "EN VISION OPTICALS",
+    "address": "EN VISION OPTICALS Vizhjam Rd, Vizhijam, Jn, near Theatre",
+    "category": "Optician",
+    "phone": "+91 90484 90693",
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:07.948123"
+  },
+  {
+    "place_id": "0x3b05a51ef06652f7:0",
+    "name": "Aswins Ayurveda",
+    "address": "Aswins Ayurveda, Junction",
+    "category": "Optician",
+    "phone": "+91 94972 69750",
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:06.672083"
+  },
+  {
+    "place_id": "0x3b05a5f700000001:0",
+    "name": "A&C PORT HOSPITAL",
+    "address": "",
+    "category": "Private hospital",
+    "phone": "+91 86067 48020",
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:05.447081"
+  },
+  {
+    "place_id": "0x3b05afc79ef457bb:0",
+    "name": "KamalaRavi clinic",
+    "address": "KamalaRavi clinic, sree sastha towers",
+    "category": "Medical clinic",
+    "phone": "+91 97446 74014",
+    "website": null,
+    "discovered_at": "2026-11-17 18:25:04.215719"
+  },
+  {
     "place_id": "0x3b05c71fe475d1fb:0",
     "name": "Prasanth Bakery",
     "address": "Anad Nedumangad Rd",
@@ -8818,185 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:10:55.956559"
-  },
-  {
-    "place_id": "0x3b05bb0e9a75fc6d:0",
-    "name": "SABU BAKERS",
-    "address": "Trivandrum Vizhinjam Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:10:55.934031"
-  },
-  {
-    "place_id": "0x3b05bb25fb77ae37:0",
-    "name": "Nector Nook",
-    "address": "Medamukku Rd",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:10:55.930068"
-  },
-  {
-    "place_id": "0x3b05bbe0effedae7:0",
-    "name": "Porotta Hut- Manacaud",
-    "address": "Trivandrum Vizhinjam Rd",
-    "category": "Takeout Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:10:55.926419"
-  },
-  {
-    "place_id": "0x3b05bb99bf7d0b03:0",
-    "name": "ATLAS LABS & SCANS (A Unit of Paramountcy Research & Diagnostic Centre PVT LTD",
-    "address": "Street, near Community Health Center",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:10:55.916039"
-  },
-  {
-    "place_id": "0x3b05bbb37131018b:0",
-    "name": "Metropolis Healthcare limited",
-    "address": "Ground floor, Taj towers, near Kseb office",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:10:55.914656"
-  },
-  {
-    "place_id": "0x3b05bb97375dbfdb:0",
-    "name": "Lens Club Opticals and Eye Care",
-    "address": "AMBALATHARA JUNCTION, Kovalam Rd, near ASTER PHARMACY",
-    "category": "Eye care center",
-    "phone": "+91 99952 27903",
-    "website": null,
-    "discovered_at": "2026-11-17 06:10:55.912102"
-  },
-  {
-    "place_id": "0x3b05bb2499edb4fb:0",
-    "name": "NEW DUBAI OPTICALS & EYE CLINIC",
-    "address": "Pachalloor Rd",
-    "category": "Optical products manufacturer",
-    "phone": "+91 99952 27903",
-    "website": null,
-    "discovered_at": "2026-11-17 06:10:55.909741"
-  },
-  {
-    "place_id": "0x3b05bb35c7468b2d:0",
-    "name": "Dr Chandran's Ayurveda Hospital & AMAI VINITHA CLINIC",
-    "address": "Closes 6:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:10:55.905839"
-  },
-  {
-    "place_id": "0x3b05bb0efe25865d:0",
-    "name": "Nowfal's Centre for PhysicalTherapy & Rehabilitation (NSPTR)",
-    "address": "NH Bypass Jn, SM Lock Rd",
-    "category": "Physical therapy clinic",
-    "phone": "+91 90375 43674",
-    "website": null,
-    "discovered_at": "2026-11-17 06:10:55.903448"
-  },
-  {
-    "place_id": "0x3b05bdce42e3425f:0",
-    "name": "Namaste Tours & Travels (Namaste Associates)",
-    "address": "Attuvarbum",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.385477"
-  },
-  {
-    "place_id": "0x3b05bb6a1eff3641:0",
-    "name": "VARAHI TRAVEL DELIGHT TRIVANDRUM",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.384296"
-  },
-  {
-    "place_id": "0x3b05bb5acea56adb:0",
-    "name": "I DIA interiors",
-    "address": "NH Highway",
-    "category": "Interior Decorator",
-    "phone": "+91 99954 42552",
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.378617"
-  },
-  {
-    "place_id": "0x3b05baee9468f757:0",
-    "name": "Sharon Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": "+91 93877 15999",
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.374354"
-  },
-  {
-    "place_id": "0x3b05b983a719c925:0",
-    "name": "Empire Fitness Centre",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.368282"
-  },
-  {
-    "place_id": "0x3b05bbb2ba2f6db1:0",
-    "name": "MOHANA VIJIN MAKEOVER STUDIO & UNISEX SALON -THIRUMALA",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.361941"
-  },
-  {
-    "place_id": "0x3b05bb00311b9aa1:0",
-    "name": "More Supermarket - Pappanamcode KL",
-    "address": "Sy no. 5, 17 and 5/16",
-    "category": "Grocery store",
-    "phone": "+91 62381 30827",
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.359013"
-  },
-  {
-    "place_id": "0x3b05bb86e3789e33:0",
-    "name": "Mia By Tanishq - Trivandrum",
-    "address": "Saiva Prakasa Sabha, No. 82/5495, Mahatma Gandhi Rd, near Titan Eye+",
-    "category": "Jewelry store",
-    "phone": "+91 90724 46064",
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.357256"
-  },
-  {
-    "place_id": "0x3b05baeb5fe1df83:0",
-    "name": "Play Store Mobiles",
-    "address": "",
-    "category": "Cell phone store",
-    "phone": "+91 96561 99196",
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.353564"
-  },
-  {
-    "place_id": "0x3b05af964911c86b:0",
-    "name": "SS MOBILES",
-    "address": "SS MOBILES, near GOVT MODEL HSS SCHOOL",
-    "category": "Mobile phone repair shop",
-    "phone": "+91 92920 06500",
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.351922"
-  },
-  {
-    "place_id": "0x3b05b9be78847edd:0",
-    "name": "Temptations Juice & Bakers",
-    "address": "St. Thomas School Rd",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:03:46.346159"
   }
 ]
