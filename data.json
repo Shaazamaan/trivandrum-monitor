@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b969ff7f56cf:0",
+    "name": "Vettakulam Arcade",
+    "address": "",
+    "category": "Corporate office",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:30:26.592422"
+  },
+  {
+    "place_id": "0x3b05c3418bbb8633:0",
+    "name": "Stop N Shop Supermarket",
+    "address": "Stop N Shop Supermarket college Junction ralukavu kilimanoor road ralukavu nagaroor, po",
+    "category": "Supermarket",
+    "phone": "+91 80860 51851",
+    "website": null,
+    "discovered_at": "2026-11-17 11:30:25.204353"
+  },
+  {
     "place_id": "0x3b05eb007a706033:0",
     "name": "FAYAZ MEDICALS PERUNGUZHI",
     "address": "JRJ7+P34, Chirayinkeezhu Kaniyapuram Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:58:31.387550"
-  },
-  {
-    "place_id": "0x3b05bbfcf039304d:0",
-    "name": "Anus cloud kitchen",
-    "address": "E1",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.385932"
-  },
-  {
-    "place_id": "0x3b05b9506c3aec97:0",
-    "name": "VARMA'S MILK HUB & CUISINE",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.384390"
   }
 ]
