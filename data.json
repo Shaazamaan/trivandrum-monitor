@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbfd3334e0bb:0",
+    "name": "V.S Medicals & Surgicals",
+    "address": "Medical College",
+    "category": "Pharmacy",
+    "phone": "+91 90484 98694",
+    "website": null,
+    "discovered_at": "2026-11-17 01:41:13.934951"
+  },
+  {
+    "place_id": "0x3b05bbd4b5fe9445:0",
+    "name": "Signature Smiles Dental Centre",
+    "address": "A7",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:41:12.710077"
+  },
+  {
     "place_id": "0x3b05bb5ff06a8d95:0",
     "name": "Atom Drugs",
     "address": "Unnamed Road",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:01:15.727419"
-  },
-  {
-    "place_id": "0x3b05bbce3e3554ef:0",
-    "name": "Reliance Centro",
-    "address": "",
-    "category": "Shopping mall",
-    "phone": "+91 82689 03058",
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:14.499674"
-  },
-  {
-    "place_id": "0x3b05bb001f7ae5e7:0",
-    "name": "Laurel Ladies Collections",
-    "address": "General Hospital Rd",
-    "category": "Fashion accessories store",
-    "phone": "+91 97445 52324",
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:13.120570"
   }
 ]
