@@ -1,5 +1,158 @@
 [
   {
+    "place_id": "0x3b05c70730a38b31:0",
+    "name": "S M Bakery",
+    "address": "SM BAKERY, Road, near SBI ATM",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:49.293164"
+  },
+  {
+    "place_id": "0x3b05c7004a3c2899:0",
+    "name": "JYO Cakes And Bakes",
+    "address": "Anad Nedumangad Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:48.152946"
+  },
+  {
+    "place_id": "0x3b05b76c0c3c610b:0",
+    "name": "Biomed Diagnostic Center",
+    "address": "P O, RSN TOWER, near Gandhi Park",
+    "category": "Diagnostic center",
+    "phone": "+91 70125 69434",
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:46.991479"
+  },
+  {
+    "place_id": "0x3b05b7025fa042a9:0",
+    "name": "SREE DEVI LAB & SCANS",
+    "address": "Main, Junction",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:45.801306"
+  },
+  {
+    "place_id": "0x3b05b9fb3d51c62d:0",
+    "name": "Zane Diagnostic Centre & Polyclinic",
+    "address": "Opens 6 AM Wed",
+    "category": "Closed",
+    "phone": "+91 94009 64111",
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:44.629280"
+  },
+  {
+    "place_id": "0x3b05b1b9bc762e3f:0",
+    "name": "Space x motors tvpm",
+    "address": "",
+    "category": "Auto painting",
+    "phone": "+91 98958 86451",
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:43.465363"
+  },
+  {
+    "place_id": "0x3b05ae61824ee785:0",
+    "name": "Sunny's Accounting & Taxation Office",
+    "address": "opp. Village Office",
+    "category": "Accountant",
+    "phone": "+91 94470 22339",
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:42.287091"
+  },
+  {
+    "place_id": "0x3b05aded773b4831:0",
+    "name": "Build Home Interior's &exterior's",
+    "address": "ITI JUNCTION",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:40.862134"
+  },
+  {
+    "place_id": "0x3b05af005e4f2817:0",
+    "name": "Daily fresh clothing store",
+    "address": "Closes 10:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:39.295699"
+  },
+  {
+    "place_id": "0x3b05af6f2295d5b7:0",
+    "name": "ORUMA MEDICALS",
+    "address": "Oruma medicals, po, near nims hospital",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:38.052938"
+  },
+  {
+    "place_id": "0x3b05af450898e957:0",
+    "name": "Zam Zam Medicals",
+    "address": "Neyyattinkara Kattakkada Rd",
+    "category": "Pharmacy",
+    "phone": "+91 82899 73958",
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:36.012935"
+  },
+  {
+    "place_id": "0x3b05af9543126f65:0",
+    "name": "Physiotherapy Unit",
+    "address": "",
+    "category": "Hospital department",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:34.821347"
+  },
+  {
+    "place_id": "0x3b05afe882055ea9:0",
+    "name": "Jyothirgamaya Health care",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:33.582612"
+  },
+  {
+    "place_id": "0x3b05ad0047d9fb17:0",
+    "name": "Jk care & cure",
+    "address": "C56Q+HJ8",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:32.413221"
+  },
+  {
+    "place_id": "0x3b05b170dce8117b:0",
+    "name": "Metro physiotherapy clinic",
+    "address": "Metro hospital, Mukunnimala Road, opposite Sreelakshmi Tower",
+    "category": "Physical therapy clinic",
+    "phone": "+91 96338 04531",
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:31.177687"
+  },
+  {
+    "place_id": "0x3b05ad00329d63e1:0",
+    "name": "Care & Cure Physiotherapy and rehabilitation center",
+    "address": "C56Q+HJ8",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:29.990078"
+  },
+  {
+    "place_id": "0x3b05ba304b6a78b5:0",
+    "name": "Babu Kuttan Skin Hospital",
+    "address": "GX7F+M3W",
+    "category": "Hospital",
+    "phone": "+91 94465 44542",
+    "website": null,
+    "discovered_at": "2026-11-17 15:36:28.090064"
+  },
+  {
     "place_id": "0x3b05e9e88eedd9c9:0",
     "name": "JANASHRAYA COMMUNITY PHARMACY",
     "address": "MRV7+P5X & Reserch Institute, Attingal Medical Center, Palace Rd",
@@ -8845,158 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:36:20.504543"
-  },
-  {
-    "place_id": "0x3b0451005b26078f:0",
-    "name": "Queen aana cloud kitchen",
-    "address": "97GW+7MV, Convent Rd",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.501681"
-  },
-  {
-    "place_id": "0x3b05bb0018b98f31:0",
-    "name": "Graze and Groove",
-    "address": "LVMRA 113A, PO",
-    "category": "Food producer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.500598"
-  },
-  {
-    "place_id": "0x3b05a982051e25eb:0",
-    "name": "Big Ben Bakery , Atham bakery & Milma bakery",
-    "address": "Poovar - Uchakada Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.494754"
-  },
-  {
-    "place_id": "0x3b05a913506d51f5:0",
-    "name": "MG Bakery &Store",
-    "address": "83RM+G97",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.493690"
-  },
-  {
-    "place_id": "0x3b05a9006d00db2d:0",
-    "name": "Poorvar Veg Floating Punjabi dhaba Pure Veg",
-    "address": "835H+852",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.490247"
-  },
-  {
-    "place_id": "0x3b05a908e34da531:0",
-    "name": "Saleena Medicals",
-    "address": "839C+86C, Kanjiramkulam - Poovar Rd",
-    "category": "Medical supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.485662"
-  },
-  {
-    "place_id": "0x3b05af180ad40b2b:0",
-    "name": "Karthika Clinical Laboratory",
-    "address": "92HW+FGJ, Balaramapuram - Poovar Rd",
-    "category": "Diagnostic center",
-    "phone": "+91 96336 41443",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.483165"
-  },
-  {
-    "place_id": "0x3b05a9820efb07eb:0",
-    "name": "AG Diagnostic Centre",
-    "address": "838W+48V, Poovar - Uchakada Rd",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.482254"
-  },
-  {
-    "place_id": "0x3b05b768132389b9:0",
-    "name": "Eye Plus Opticals & Clinic",
-    "address": "Aravindham building",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.480779"
-  },
-  {
-    "place_id": "0x3b05b19b1abbe0a1:0",
-    "name": "Tg opticals and eye clinic",
-    "address": "F2W7+WH7, Mangattukadavu Thirumala Rd",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.477172"
-  },
-  {
-    "place_id": "0x3b05b30061e790b9:0",
-    "name": "MEDICARE PHYSIOTHERAPY CLINIC AMBOORI",
-    "address": "Neyyar Dam, Road",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.473448"
-  },
-  {
-    "place_id": "0x3b05a9ff5663aff9:0",
-    "name": "Jeevani Ayurveda and physiotherapy clinic",
-    "address": "JC building near Indira Gandhi Smarakam, Poovar - Vizhinjam Rd",
-    "category": "Doctor",
-    "phone": "+91 90618 16172",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.472247"
-  },
-  {
-    "place_id": "0x3b05afb21fa93f4b:0",
-    "name": "Touch N' Heal Physiotherapy Clinic",
-    "address": "C362+R88, Balaramapuram - Poovar Rd",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.471361"
-  },
-  {
-    "place_id": "0x3b05a9ea65b68373:0",
-    "name": "S. Vincent Physiotherapist",
-    "address": "83Q9+725, Unnamed Road",
-    "category": "Physical therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.470305"
-  },
-  {
-    "place_id": "0x3b05abc75bf08a4b:0",
-    "name": "Mayilpeeli beauty clinic and institution",
-    "address": "Poovar road, Urambu jn Urambu",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.467954"
-  },
-  {
-    "place_id": "0x3b05a94b88df57f9:0",
-    "name": "KARMA MULTI-SPECIALITY Dental clinic POZHIYOOR",
-    "address": "opposite SBI ATM",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.466134"
-  },
-  {
-    "place_id": "0x3b05a596bc8a7221:0",
-    "name": "Niketha",
-    "address": "9XMR+4Q9 S.N Sadanam",
-    "category": "Tour operator",
-    "phone": "+91 70255 44447",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.462281"
   }
 ]
