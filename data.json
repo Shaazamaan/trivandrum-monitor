@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bba8ca7da655:0",
+    "name": "Sreehari Tours & Travels of India",
+    "address": "P.O, NEAR MADHUVANAM ASHRAM",
+    "category": "Travel agency",
+    "phone": "+91 97453 40207",
+    "website": null,
+    "discovered_at": "2026-11-17 10:47:39.666849"
+  },
+  {
+    "place_id": "0x3b05b148dc9d2797:0",
+    "name": "Riqanza Boutique",
+    "address": "Riqanza Boutique",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 10:47:38.402894"
+  },
+  {
+    "place_id": "0x3b05b10cf2a665f1:0",
+    "name": "Gowri Restaurant",
+    "address": "F346+677, Vizhinjam - Balaramapuram - Kattakkada Rd",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 10:47:37.101373"
+  },
+  {
     "place_id": "0x3b05bb8065ae501b:0",
     "name": "PEARL Eye care",
     "address": "Peyad, Kundamankadavu road, near Amigo pet centre",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:42:58.513912"
-  },
-  {
-    "place_id": "0x880e2cab5c8b6d95:0",
-    "name": "Salon 161",
-    "address": "161 E Erie St",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:57.328938"
-  },
-  {
-    "place_id": "0x880e2cd21c0355df:0",
-    "name": "Salon 833 Chicago | Custom Hair Color, Hair Cutting , Hair Extensions",
-    "address": "351 W Hubbard St",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:56.143373"
-  },
-  {
-    "place_id": "0x880e2cbe3e3166cd:0",
-    "name": "South Loop Market - Van Buren",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:54.774836"
   }
 ]
