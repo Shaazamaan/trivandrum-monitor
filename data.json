@@ -1,5 +1,248 @@
 [
   {
+    "place_id": "0x3b05bdce42e3425f:0",
+    "name": "Namaste Tours & Travels (Namaste Associates)",
+    "address": "Attuvarbum",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.385477"
+  },
+  {
+    "place_id": "0x3b05bb6a1eff3641:0",
+    "name": "VARAHI TRAVEL DELIGHT TRIVANDRUM",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.384296"
+  },
+  {
+    "place_id": "0x3b05bb5acea56adb:0",
+    "name": "I DIA interiors",
+    "address": "NH Highway",
+    "category": "Interior Decorator",
+    "phone": "+91 99954 42552",
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.378617"
+  },
+  {
+    "place_id": "0x3b05baee9468f757:0",
+    "name": "Sharon Driving School",
+    "address": "",
+    "category": "Driving school",
+    "phone": "+91 93877 15999",
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.374354"
+  },
+  {
+    "place_id": "0x3b05b983a719c925:0",
+    "name": "Empire Fitness Centre",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.368282"
+  },
+  {
+    "place_id": "0x3b05bbb2ba2f6db1:0",
+    "name": "MOHANA VIJIN MAKEOVER STUDIO & UNISEX SALON -THIRUMALA",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.361941"
+  },
+  {
+    "place_id": "0x3b05bb00311b9aa1:0",
+    "name": "More Supermarket - Pappanamcode KL",
+    "address": "Sy no. 5, 17 and 5/16",
+    "category": "Grocery store",
+    "phone": "+91 62381 30827",
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.359013"
+  },
+  {
+    "place_id": "0x3b05bb86e3789e33:0",
+    "name": "Mia By Tanishq - Trivandrum",
+    "address": "Saiva Prakasa Sabha, No. 82/5495, Mahatma Gandhi Rd, near Titan Eye+",
+    "category": "Jewelry store",
+    "phone": "+91 90724 46064",
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.357256"
+  },
+  {
+    "place_id": "0x3b05baeb5fe1df83:0",
+    "name": "Play Store Mobiles",
+    "address": "",
+    "category": "Cell phone store",
+    "phone": "+91 96561 99196",
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.353564"
+  },
+  {
+    "place_id": "0x3b05af964911c86b:0",
+    "name": "SS MOBILES",
+    "address": "SS MOBILES, near GOVT MODEL HSS SCHOOL",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 92920 06500",
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.351922"
+  },
+  {
+    "place_id": "0x3b05b9be78847edd:0",
+    "name": "Temptations Juice & Bakers",
+    "address": "St. Thomas School Rd",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.346159"
+  },
+  {
+    "place_id": "0x3b05a50c1e8964f3:0",
+    "name": "Cake Diem Bake",
+    "address": "Nemom Punnamoodu Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.342722"
+  },
+  {
+    "place_id": "0x3b05b103d8fb66a5:0",
+    "name": "Nazmis homemade cakes",
+    "address": "Lenin villa pottayil, near sreehari hotel",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.341804"
+  },
+  {
+    "place_id": "0x3b05bbead0ee72e3:0",
+    "name": "Bake-a-luscious",
+    "address": "Ponnumangalam melamcode",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.339791"
+  },
+  {
+    "place_id": "0x3b05bbdca5d71193:0",
+    "name": "Hatim Cafè (fried chicken)",
+    "address": "02",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.338651"
+  },
+  {
+    "place_id": "0x3b05b190f4efabc3:0",
+    "name": "HEAVEN OF FOOD RESTAURANT",
+    "address": "Closes 11:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.335515"
+  },
+  {
+    "place_id": "0x3b05bbfb1f92c679:0",
+    "name": "Veterinary Hospital Vettikuzhi, Melamcode",
+    "address": "56/2355(1) NANDANAM Melam code, Nemom P.O",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.333180"
+  },
+  {
+    "place_id": "0x3b05bb5103b9fd95:0",
+    "name": "Janaseva community pharmacy kunnapuzha",
+    "address": "Closes 9:30 PM",
+    "category": "Open",
+    "phone": "+91 82816 18686",
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.329687"
+  },
+  {
+    "place_id": "0x3b05afe61dcf7d6b:0",
+    "name": "S R A Clinical Lab",
+    "address": "C2JH+MFM, Nemom - Punnamoodu Road",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.326471"
+  },
+  {
+    "place_id": "0x3b05bb000e88a2e3:0",
+    "name": "Neethi Lab",
+    "address": "F233+CGH",
+    "category": "Laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.323330"
+  },
+  {
+    "place_id": "0x3b05bb55e6a6e1dd:0",
+    "name": "NEWLIFE PHYSIOTHERAPY AND REHABILITATION CENTRE(NPR)",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": "+91 85906 07492",
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.232728"
+  },
+  {
+    "place_id": "0x3b05bae759e97c03:0",
+    "name": "iSmile Dental Care & Orthodontic Centre",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 82813 50442",
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.228196"
+  },
+  {
+    "place_id": "0x3b05b99cd813442d:0",
+    "name": "He Needs",
+    "address": "",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.209764"
+  },
+  {
+    "place_id": "0x3b05b90047f4ae5b:0",
+    "name": "New thrishivaperoor SILVER jewellery peroorkada",
+    "address": "GXM9+W2P, Sasthamangalam - Peroorkada Rd",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.205507"
+  },
+  {
+    "place_id": "0x3b05b9b6d726cefb:0",
+    "name": "Rajadhani Furniture",
+    "address": "Post Office Building",
+    "category": "Furniture store",
+    "phone": "+91 94970 07717",
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.203570"
+  },
+  {
+    "place_id": "0x3b05b933afc4412d:0",
+    "name": "Joseco Furniture Experience Centre",
+    "address": "NSS Karayogam 2285 Chenivila, 25/286 A",
+    "category": "Furniture manufacturer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.192301"
+  },
+  {
+    "place_id": "0x3b05b918f997d4d3:0",
+    "name": "AGS Care",
+    "address": "",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 99953 54677",
+    "website": null,
+    "discovered_at": "2026-11-17 06:03:46.189712"
+  },
+  {
     "place_id": "0x3b05b93c0ae065ab:0",
     "name": "Karikku - Boost Your Health Naturally",
     "address": "GWVV+XQF, Junction",
@@ -8755,248 +8998,5 @@
     "phone": "+91 96333 43318",
     "website": null,
     "discovered_at": "2026-11-16 17:40:49.467748"
-  },
-  {
-    "place_id": "0x3b05bbe32e22147b:0",
-    "name": "Curves & Curls Ladies Beauty Parlour",
-    "address": "Shop No: GF-3 & FF-1, Medical College, Pazhaya Rd",
-    "category": "Beauty salon",
-    "phone": "+91 97448 02022",
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:48.223583"
-  },
-  {
-    "place_id": "0x3b080daed9a11a77:0",
-    "name": "Ashtamudi Wellness",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": "+91 91362 22444",
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:46.243917"
-  },
-  {
-    "place_id": "0x3b05e30078c510ff:0",
-    "name": "Ashtamudi Wellness",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": "+91 91362 22444",
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:44.367536"
-  },
-  {
-    "place_id": "0x3b05fc575c55abe9:0",
-    "name": "Ashtamudi Unisex Beauty Salon",
-    "address": "S6, Residency Rd, opp. QRS",
-    "category": "Beauty salon",
-    "phone": "+91 91362 22444",
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:43.180297"
-  },
-  {
-    "place_id": "0x880fd36ad2678c4b:0",
-    "name": "Two Thirty",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:41.852591"
-  },
-  {
-    "place_id": "0x880e2d122225de0f:0",
-    "name": "620 North LaSalle Office Spaces",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:39.633654"
-  },
-  {
-    "place_id": "0x880e2cbc74d9448f:0",
-    "name": "Carr Workplaces The Loop - Coworking & Office Space",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:38.392569"
-  },
-  {
-    "place_id": "0x880e2dba249d99af:0",
-    "name": "Expansive Superior",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:37.157735"
-  },
-  {
-    "place_id": "0x880e2d60a263c6cd:0",
-    "name": "WeWork Office Space & Coworking",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:35.930944"
-  },
-  {
-    "place_id": "0x880e2dbbb0e223d7:0",
-    "name": "Workbox Chicago - The Loop",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:34.546301"
-  },
-  {
-    "place_id": "0x880e2d5ca6f41687:0",
-    "name": "Events by Shaun Rajah",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:33.159369"
-  },
-  {
-    "place_id": "0x880e2cb4c6c3ef8b:0",
-    "name": "CI DESIGN + BUILD",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:31.922433"
-  },
-  {
-    "place_id": "0x880e2dc007cfbce5:0",
-    "name": "Spavia Day Spa - West Loop",
-    "address": "773 W Adams St",
-    "category": "Day spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:30.569724"
-  },
-  {
-    "place_id": "0x880fd35335ccbd63:0",
-    "name": "The Peninsula Spa & Wellness Center",
-    "address": "",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:29.294660"
-  },
-  {
-    "place_id": "0x880fd3885c260ce1:0",
-    "name": "Divine Beauty Lab",
-    "address": "460 W Chicago Ave Ste 106",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:40:27.966717"
-  },
-  {
-    "place_id": "0x3b05c3273a8c885f:0",
-    "name": "Bake house",
-    "address": "QV8F+7JP, Kilimanoor Madavoor Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:25:21.732545"
-  },
-  {
-    "place_id": "0x3b05c39cc5346045:0",
-    "name": "kerala water authority kuthirathadam",
-    "address": "QV7R+9RW, Kuthira Thadum Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:25:20.454513"
-  },
-  {
-    "place_id": "0x3b05dd4b74b8ba05:0",
-    "name": "Ashraya Health Care Community Medicals",
-    "address": "QRJV+XRW, Kilimanoor Madavoor Rd",
-    "category": "Pharmacy",
-    "phone": "+91 90485 54954",
-    "website": null,
-    "discovered_at": "2026-11-16 17:25:19.167750"
-  },
-  {
-    "place_id": "0x3b05c326e4c41483:0",
-    "name": "PORUNTHAMON JN",
-    "address": "QV4V+5G9, Kazhakoottam - Kilimanoor Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:25:17.936400"
-  },
-  {
-    "place_id": "0x3b05c3257ba95f39:0",
-    "name": "Ambika Pharmacy",
-    "address": "QVCJ+2MC",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:25:15.746325"
-  },
-  {
-    "place_id": "0x3b05c33797a178e9:0",
-    "name": "MGM SILVER JUBILEE COLLEGE OF PHARMACY",
-    "address": "P O, Pulimath",
-    "category": "College",
-    "phone": "+91 79029 98111",
-    "website": null,
-    "discovered_at": "2026-11-16 17:25:14.462397"
-  },
-  {
-    "place_id": "0x3b05dd006780b75d:0",
-    "name": "Ponganadu",
-    "address": "QRMX+Q8X, Ponganadu",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:25:12.576708"
-  },
-  {
-    "place_id": "0x3b05c3b5006e1173:0",
-    "name": "LEKSHMI MEDICALS",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:25:11.333934"
-  },
-  {
-    "place_id": "0x3b05eb001b9605e1:0",
-    "name": "Sruthilayam",
-    "address": "MQ7H+5Q4, Pattaala Patti Road",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:25:10.053966"
-  },
-  {
-    "place_id": "0x3b05bb4f06ff8a63:0",
-    "name": "MEN CITY",
-    "address": "Trivandrum Vizhinjam Rd",
-    "category": "Clothing store",
-    "phone": "+91 95670 97754",
-    "website": null,
-    "discovered_at": "2026-11-16 17:09:17.841531"
-  },
-  {
-    "place_id": "0x880e2dd0cfa5216f:0",
-    "name": "Virginia Ray Designs and Events",
-    "address": "730 W Lake St #204",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 17:09:16.599752"
-  },
-  {
-    "place_id": "0x3b05b9c9326839db:0",
-    "name": "SOORAJ TOUR'S & TRAVELS",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 16:59:45.534086"
   }
 ]
