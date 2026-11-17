@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05bf524eda10ed:0",
+    "name": "Ovenly Snack Shack",
+    "address": "Near, NH-66, Technopark Phase III Main Rd",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:24:32.697935"
+  },
+  {
+    "place_id": "0x3b05bef97695363f:0",
+    "name": "Subway Technopark Trivandrum",
+    "address": "",
+    "category": "Sandwich shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:24:31.529003"
+  },
+  {
+    "place_id": "0x3b05bf747d3322eb:0",
+    "name": "PET WORLD KAZHAKUTTOM",
+    "address": "",
+    "category": "Aquarium shop",
+    "phone": "+91 95620 09052",
+    "website": null,
+    "discovered_at": "2026-11-17 09:24:30.333297"
+  },
+  {
+    "place_id": "0x3b05beeffa3b37cd:0",
+    "name": "PUNARVAASU AYURVEDIC WELLNESS CENTRE",
+    "address": "HV4M+3M2, University campus, south karivattom, trippadapuram road",
+    "category": "Alternative medicine practitioner",
+    "phone": "+91 95678 01390",
+    "website": null,
+    "discovered_at": "2026-11-17 09:24:29.160554"
+  },
+  {
+    "place_id": "0x3b05bfcee04a6c3b:0",
+    "name": "S.N. AYURVEDA CENTRE",
+    "address": "SS Tech-Park,T.C 98/1161,Monvila, PO",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:24:27.930962"
+  },
+  {
+    "place_id": "0x3b05bfb258bf6d61:0",
+    "name": "Thanal Ayurveda Home Manvila",
+    "address": "near Infinity Car Clinic",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 70128 53482",
+    "website": null,
+    "discovered_at": "2026-11-17 09:24:26.797735"
+  },
+  {
     "place_id": "0x3b05e9bb1c12bf21:0",
     "name": "Evaniaz Beauty World",
     "address": "Chennancode - Ottoor Road, above Aabiz",
@@ -8944,59 +8998,5 @@
     "phone": "+91 97781 51778",
     "website": null,
     "discovered_at": "2026-11-17 04:10:52.400074"
-  },
-  {
-    "place_id": "0x3b05bf52701343a9:0",
-    "name": "My Restaurant One",
-    "address": "near, near Technopark Road",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:52.398526"
-  },
-  {
-    "place_id": "0x3b05bfd482a9d70b:0",
-    "name": "GRILLBAY",
-    "address": "Technopark phase 1",
-    "category": "Arab restaurant",
-    "phone": "+91 62350 33044",
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:52.397007"
-  },
-  {
-    "place_id": "0x3b05bf7ca3a80c6f:0",
-    "name": "90s Brothers Kitchen",
-    "address": "opp. Technopark Phase 1",
-    "category": "Kerala restaurant",
-    "phone": "+91 97784 74902",
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:52.395752"
-  },
-  {
-    "place_id": "0x3b05bf05acfc0e55:0",
-    "name": "Beat Box",
-    "address": "Service Rd, near Technopark",
-    "category": "Middle Eastern restaurant",
-    "phone": "+91 62386 83229",
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:52.394270"
-  },
-  {
-    "place_id": "0x3b05bf006f0c9f21:0",
-    "name": "ELAF RESTAURANT",
-    "address": "Technopark Trivandrum, Service Rd",
-    "category": "Restaurant",
-    "phone": "+91 99951 81855",
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:52.391938"
-  },
-  {
-    "place_id": "0x3b05bd000d508dbb:0",
-    "name": "Famedico Pharmacy",
-    "address": "Ground floor, next, LuLu fashion escalator",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:10:51.157466"
   }
 ]
