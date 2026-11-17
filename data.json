@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b7001bd7e81f:0",
+    "name": "Hotel Narayani",
+    "address": "J227+68M, Nedumangad Hwy",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 02:33:19.312114"
+  },
+  {
     "place_id": "0x3b05e956dd43d817:0",
     "name": "Elampa",
     "address": "MRX7+7FM",
@@ -8989,14 +8998,5 @@
     "phone": "+91 95676 86852",
     "website": null,
     "discovered_at": "2026-11-16 12:01:33.794745"
-  },
-  {
-    "place_id": "0x8a9b1d14f80a959f:0",
-    "name": "Lasting Impression Events",
-    "address": "(210) 556-4189",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:32.322636"
   }
 ]
