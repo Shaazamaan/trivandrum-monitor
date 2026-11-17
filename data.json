@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x8784db5614e4c537:0",
+    "name": "O'Neill Travelnow",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 02:05:16.933315"
+  },
+  {
+    "place_id": "0x88d9b462f4ae3cdd:0",
+    "name": "Affordable Interior Design Miami",
+    "address": "9 PM",
+    "category": "Closes soon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 02:05:15.553755"
+  },
+  {
+    "place_id": "0x864e72808004ba23:0",
+    "name": "Hand & Stone Massage and Facial Spa",
+    "address": "",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 02:05:14.281323"
+  },
+  {
     "place_id": "0x89ac5935416beac7:0",
     "name": "Clean Juice",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:01:29.847083"
-  },
-  {
-    "place_id": "0x865c43b970bbc897:0",
-    "name": "55 Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:28.560073"
-  },
-  {
-    "place_id": "0x145e82f50c0cdb5f:0",
-    "name": "Roadworthy Driving Academy Inc",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:27.380061"
-  },
-  {
-    "place_id": "0x865c4314e19822eb:0",
-    "name": "Rhodes Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:26.106036"
   }
 ]
