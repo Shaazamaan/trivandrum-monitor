@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05a5bff64ed2df:0",
+    "name": "A.R Bakery",
+    "address": "9XGP+MH3, Vizhinjam Harbour Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 20:53:22.537769"
+  },
+  {
+    "place_id": "0x3b05a5fad16153eb:0",
+    "name": "Friends Bakery",
+    "address": "Friends Bakery, near St Mary HS School",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 20:53:21.346673"
+  },
+  {
+    "place_id": "0x3b05a5e245fe8ee3:0",
+    "name": "The Kerala Heritage",
+    "address": "Samudra Beach, GV Raja Rd",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 20:53:20.076075"
+  },
+  {
+    "place_id": "0x3b05a5005322a10f:0",
+    "name": "The Cafein Dreams",
+    "address": "9XQG+VWG",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 20:53:18.807997"
+  },
+  {
+    "place_id": "0x3b05c874dbb9a119:0",
+    "name": "Cafe Cakes Bakery",
+    "address": "J2P7+CFX, Anad, Nedumangad",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 20:53:17.553009"
+  },
+  {
     "place_id": "0x3b05e99a35f19f9b:0",
     "name": "Realme Store",
     "address": "Private Stand",
@@ -8953,50 +8998,5 @@
     "phone": "+91 94974 52848",
     "website": null,
     "discovered_at": "2026-11-17 06:32:52.947253"
-  },
-  {
-    "place_id": "0x3b05b9003237a5df:0",
-    "name": "TS Physiotherapy & Rehabilitation Centre",
-    "address": "668 A, near Ozhukupara Thampuran Temple",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.942458"
-  },
-  {
-    "place_id": "0x3b05c57eff6be425:0",
-    "name": "REVIVE physiotherapy clinic",
-    "address": "Closes 5:30 PM",
-    "category": "Open",
-    "phone": "+91 80866 17636",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.940100"
-  },
-  {
-    "place_id": "0x3b05c96d066cb127:0",
-    "name": "Aswas Physiotherapy Clinic",
-    "address": "+91 94467 01733",
-    "category": "Open 24 hours",
-    "phone": "+91 94467 01733",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.938977"
-  },
-  {
-    "place_id": "0x3b05b0a72f6463d7:0",
-    "name": "SS Dental Clinic",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": "+91 90748 64964",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.936075"
-  },
-  {
-    "place_id": "0x3b05ba6e6a6f4ec9:0",
-    "name": "Providence Multispeciality Dental Clinic",
-    "address": "Mangattukadavu Thirumala Rd",
-    "category": "Dental clinic",
-    "phone": "+91 94461 10603",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.934549"
   }
 ]
