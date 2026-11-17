@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbb2e5e4f38f:0",
+    "name": "Thanal Sea Food Restaurant",
+    "address": "",
+    "category": "Seafood restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:50:43.626154"
+  },
+  {
     "place_id": "0x3b05bbd90db402df:0",
     "name": "Fashion Factory",
     "address": "VKM Tower, Junction, Mahatma Gandhi Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:36:20.433839"
-  },
-  {
-    "place_id": "0x3b05a589412e99dd:0",
-    "name": "S.K. Saloon & Beauty Parlour",
-    "address": "92M4+G65",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.432647"
   }
 ]
