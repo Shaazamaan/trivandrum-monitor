@@ -1,5 +1,311 @@
 [
   {
+    "place_id": "0x3b05ba9862086289:0",
+    "name": "Happy Sweets",
+    "address": "F272+GMX",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:27.702699"
+  },
+  {
+    "place_id": "0x87ee9faf46cec8cb:0",
+    "name": "Nan's Nummies",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:24.056080"
+  },
+  {
+    "place_id": "0x89cea5ec1a014785:0",
+    "name": "Café Lemont",
+    "address": "",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:22.749680"
+  },
+  {
+    "place_id": "0x87ee822ff87134f1:0",
+    "name": "Rising Sun Cafe",
+    "address": "",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:21.427416"
+  },
+  {
+    "place_id": "0x3b05bb9b8d44e5f7:0",
+    "name": "Apollo Pharmacy TRV International Arrivals Terminal 2",
+    "address": "L-70, Ground Floor, International Arrivals Terminal 2",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:20.089316"
+  },
+  {
+    "place_id": "0x3b05bb29939c4e79:0",
+    "name": "Apollo Pharmacy TRV Departures SHA Terminal 2",
+    "address": "L1-35, First Floor, Departures, SHA Terminal 2",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:18.818293"
+  },
+  {
+    "place_id": "0x3b05afb1f387b391:0",
+    "name": "Apollo Pharmacy Balaramapuram",
+    "address": "No. 521/5-2, Kanyakumari - Panvel Rd, near Nazreth Home School",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:17.461219"
+  },
+  {
+    "place_id": "0x3b05badc9b517f29:0",
+    "name": "Lakshmi Medicals",
+    "address": "karumom, Kaimanam Thiruvallam Rd",
+    "category": "Pharmacy",
+    "phone": "+91 94963 65629",
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:15.518076"
+  },
+  {
+    "place_id": "0x3b05bafa610240fd:0",
+    "name": "AKSHAYA COMMUNITY PHARMACY",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 94002 27775",
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:14.274987"
+  },
+  {
+    "place_id": "0x3b05bb003e89b3e3:0",
+    "name": "Neeithi Lab blood test centre",
+    "address": "1St Floor, Muruka Towers, 50/2542, opposite Police Station",
+    "category": "Laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:13.054041"
+  },
+  {
+    "place_id": "0x3b05bb60eb21a01d:0",
+    "name": "Neuberg Diagnostics - Blood Tests, CBC Tests & Full Body Checkup",
+    "address": "Door No. 65/1084, Dhruvam Arcade, Post office, beside Thiruvallam",
+    "category": "Diagnostic center",
+    "phone": "+91 90355 11348",
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:11.620716"
+  },
+  {
+    "place_id": "0x3b05bb79c8b80357:0",
+    "name": "DDRC Agilus Diagnostics, Ambalathara",
+    "address": "FX32+2C7",
+    "category": "Laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:10.432858"
+  },
+  {
+    "place_id": "0x3b05bf47600796bd:0",
+    "name": "Medimark laboratory",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": "+91 94460 00094",
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:09.199273"
+  },
+  {
+    "place_id": "0x87ef3aac3e120675:0",
+    "name": "Whylie Eye Care Centers",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:07.994016"
+  },
+  {
+    "place_id": "0x87ebe2ebe9318e69:0",
+    "name": "Family Eye Care of Osceola PC",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:06.790963"
+  },
+  {
+    "place_id": "0x87ec4ad6ad2e4005:0",
+    "name": "Eye Care Associates",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:05.574760"
+  },
+  {
+    "place_id": "0x87ec39c1b183211d:0",
+    "name": "Adel Vision Clinic",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:04.303203"
+  },
+  {
+    "place_id": "0x87ee852772af8021:0",
+    "name": "Eye Care of Iowa - Ankeny",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:03.094413"
+  },
+  {
+    "place_id": "0x87ef1ce0b14b3fd5:0",
+    "name": "Newton Eye Clinic P.C.",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:01.874545"
+  },
+  {
+    "place_id": "0x3b05b9649c635535:0",
+    "name": "Vinco Enterprises",
+    "address": "TC 31/3221 (1), Opp Sreedhanya tyres, Harichandanam, Ambalamukku, PO",
+    "category": "Wallpaper store",
+    "phone": "+91 95629 92910",
+    "website": null,
+    "discovered_at": "2026-11-17 03:09:00.635290"
+  },
+  {
+    "place_id": "0x3b05bfd8891ff7f9:0",
+    "name": "LJ Decors",
+    "address": "L J decor, KP Vl/26, near dooradarshan kendram",
+    "category": "Interior designer",
+    "phone": "+91 80866 73108",
+    "website": null,
+    "discovered_at": "2026-11-17 03:08:59.358376"
+  },
+  {
+    "place_id": "0x3b05b97a165545f5:0",
+    "name": "Oasis wellness center",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:08:58.081691"
+  },
+  {
+    "place_id": "0x3b05bb4bba3781ff:0",
+    "name": "Designer Studio",
+    "address": "Pazhaya",
+    "category": "Embroidery shop",
+    "phone": "+91 70127 26341",
+    "website": null,
+    "discovered_at": "2026-11-17 03:08:56.692722"
+  },
+  {
+    "place_id": "0x3b05b95df656f163:0",
+    "name": "Girls Boutique",
+    "address": "Nalnalanchira",
+    "category": "Dress store",
+    "phone": "+91 96563 00717",
+    "website": null,
+    "discovered_at": "2026-11-17 03:08:55.442130"
+  },
+  {
+    "place_id": "0x3b05b9b1ea4d16b3:0",
+    "name": "Palakkadan Kulukki Sarbath",
+    "address": "HX2F+MVQ, SH 2",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:08:54.209123"
+  },
+  {
+    "place_id": "0x3b05b98b98e5eeed:0",
+    "name": "Evelyn’s by Sona Mariam",
+    "address": "59",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:08:52.973106"
+  },
+  {
+    "place_id": "0x3b05b9139f4afef5:0",
+    "name": "Santhi medicals",
+    "address": "Opp gvt Hospital",
+    "category": "Medical Center",
+    "phone": "+91 96335 39001",
+    "website": null,
+    "discovered_at": "2026-11-17 03:08:51.731420"
+  },
+  {
+    "place_id": "0x3b05b90bafeeff95:0",
+    "name": "SEVAMRITHAM COMMUNITY PHARMACY",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": "+91 75610 11419",
+    "website": null,
+    "discovered_at": "2026-11-17 03:08:50.467710"
+  },
+  {
+    "place_id": "0x3b05bb478e6711b9:0",
+    "name": "JKDC Lab - Digital X-Ray, Dental X-Ray(OPG), ECG",
+    "address": "Opp:, Police Station Chengalloor",
+    "category": "Medical laboratory",
+    "phone": "+91 80751 66281",
+    "website": null,
+    "discovered_at": "2026-11-17 03:08:49.195889"
+  },
+  {
+    "place_id": "0x3b05bb9c6c826a5d:0",
+    "name": "DDC Pathlabs Poojappura",
+    "address": "RNJ Square Between PTC Tower, and Kesavapuram Road",
+    "category": "Laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:08:47.876095"
+  },
+  {
+    "place_id": "0x3b05b9e24f971641:0",
+    "name": "Metro scans and laboratory",
+    "address": "jn, near post office",
+    "category": "Medical laboratory",
+    "phone": "+91 62820 19392",
+    "website": null,
+    "discovered_at": "2026-11-17 03:08:46.649918"
+  },
+  {
+    "place_id": "0x3b05ba3a4d8afc47:0",
+    "name": "Narayana Ayurveda Vaidyasala",
+    "address": "Udiyanoor Rd, opposite Temple",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 94951 86520",
+    "website": null,
+    "discovered_at": "2026-11-17 03:08:43.637828"
+  },
+  {
+    "place_id": "0x3b05b90069ba0213:0",
+    "name": "Dr. Archana's Ashtanga Ayurveda",
+    "address": "HX2F+QVR, Puravoorkonam",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 03:08:42.378695"
+  },
+  {
+    "place_id": "0x3b05b967ecc8e5e3:0",
+    "name": "Smile Craft Speciality Dental Clinic",
+    "address": "Anupama Plaza, above More supermarket",
+    "category": "Dental clinic",
+    "phone": "+91 97450 02628",
+    "website": null,
+    "discovered_at": "2026-11-17 03:08:41.051267"
+  },
+  {
     "place_id": "0x3b05ab006504ff13:0",
     "name": "Three Yes Furniture",
     "address": "85VF+JFP, Karakonam Rd",
@@ -8692,311 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:11:53.370457"
-  },
-  {
-    "place_id": "0x808fcc83f03a88bb:0",
-    "name": "Amy's Beauty Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:52.157757"
-  },
-  {
-    "place_id": "0x808fccbe80522abf:0",
-    "name": "Miskarie Hair Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:50.966293"
-  },
-  {
-    "place_id": "0x808e331d238524a5:0",
-    "name": "Grocery Outlet",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:49.753132"
-  },
-  {
-    "place_id": "0x808fcd0014bc0b67:0",
-    "name": "International Halal Market",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:48.564129"
-  },
-  {
-    "place_id": "0x808fccc893be62f3:0",
-    "name": "S & S Market",
-    "address": "",
-    "category": "Liquor store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:47.372337"
-  },
-  {
-    "place_id": "0x808fcbf2e6938549:0",
-    "name": "Sprouts Farmers Market",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:46.188162"
-  },
-  {
-    "place_id": "0x808fcc97417bf543:0",
-    "name": "Cardenas Markets",
-    "address": "",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:45.006897"
-  },
-  {
-    "place_id": "0x808fcd007318c685:0",
-    "name": "Sakura Market",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:43.792171"
-  },
-  {
-    "place_id": "0x808fb51caa7a2f15:0",
-    "name": "Scandinavian Designs Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:42.466052"
-  },
-  {
-    "place_id": "0x808fc990281f4469:0",
-    "name": "Furniture Discounters",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:41.184433"
-  },
-  {
-    "place_id": "0x808fcae19213fa11:0",
-    "name": "Lovesac",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:39.958446"
-  },
-  {
-    "place_id": "0x808fcb747d99a9c3:0",
-    "name": "American Furniture & Mattress",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:38.718030"
-  },
-  {
-    "place_id": "0x808e2d61b542cd59:0",
-    "name": "Best Quality Furniture Inc",
-    "address": "",
-    "category": "Bedroom furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:37.483048"
-  },
-  {
-    "place_id": "0x808e32e41853233f:0",
-    "name": "City Sleep Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:36.298964"
-  },
-  {
-    "place_id": "0x808fccf7533fcea7:0",
-    "name": "Habitat for Humanity ReStore San Jose",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:35.059007"
-  },
-  {
-    "place_id": "0x808fca6add31e863:0",
-    "name": "Ramos Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:33.791001"
-  },
-  {
-    "place_id": "0x808e329fdb7adbf1:0",
-    "name": "San Jose Furniture City",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:32.572861"
-  },
-  {
-    "place_id": "0x808e33de14fe101d:0",
-    "name": "Bassett Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:31.299886"
-  },
-  {
-    "place_id": "0x808e3240784ad48f:0",
-    "name": "Lolita's Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:30.080743"
-  },
-  {
-    "place_id": "0x808fb5488e59518f:0",
-    "name": "I•Home Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:28.839916"
-  },
-  {
-    "place_id": "0x808fcae01622bc45:0",
-    "name": "Crate & Barrel",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:27.576342"
-  },
-  {
-    "place_id": "0x808e331c43397d59:0",
-    "name": "Unique Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:26.384971"
-  },
-  {
-    "place_id": "0x808fcb63e06cee09:0",
-    "name": "World Market",
-    "address": "555 Coleman Ave",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:25.140497"
-  },
-  {
-    "place_id": "0x808e32e0965747f3:0",
-    "name": "Ramos Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:23.948468"
-  },
-  {
-    "place_id": "0x808fcb581e7d9d43:0",
-    "name": "Joya Mana Crystal & Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:22.734786"
-  },
-  {
-    "place_id": "0x808e33cee5efdb15:0",
-    "name": "Living Spaces",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:21.500635"
-  },
-  {
-    "place_id": "0x808fcdffaf4c250b:0",
-    "name": "The King Mattress and Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:20.291692"
-  },
-  {
-    "place_id": "0x808e333ca4764301:0",
-    "name": "Contempo Furniture",
-    "address": "",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:19.060496"
-  },
-  {
-    "place_id": "0x808fc6597b2d0ba9:0",
-    "name": "Warm Springs Pet Hospital",
-    "address": "43962 Fremont Boulevard",
-    "category": "Animal hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:17.780465"
-  },
-  {
-    "place_id": "0x808fcda8b1ee8c83:0",
-    "name": "Viet Town Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:16.598147"
-  },
-  {
-    "place_id": "0x808fcd1e8e1af7c9:0",
-    "name": "Creekside Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:15.395053"
-  },
-  {
-    "place_id": "0x808fcd1e899b5e13:0",
-    "name": "Alum Rock Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:14.159004"
-  },
-  {
-    "place_id": "0x808fcd31a11c206b:0",
-    "name": "CVS Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:12.932921"
-  },
-  {
-    "place_id": "0x808e33378a280e77:0",
-    "name": "Farmacia",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:11:11.723922"
   }
 ]
