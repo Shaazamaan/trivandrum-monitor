@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05aee901e7497b:0",
+    "name": "Government Ayurveda Hospital",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 12:59:36.345888"
+  },
+  {
+    "place_id": "0x3b05afccb863336d:0",
+    "name": "Santhimadom Ayurveda Hospital - Neyyattinkara",
+    "address": "Santhimadom Ayurveda Hospital, KSRTC BUS STAND, near Neyyattinkara",
+    "category": "Hospital",
+    "phone": "+91 85908 57905",
+    "website": null,
+    "discovered_at": "2026-11-17 12:59:35.039399"
+  },
+  {
+    "place_id": "0x3b05a97e982913e7:0",
+    "name": "Gnana Prakasam Siddha Kalari Marma Ayurveda Traditional Treatment(G.SIMON VAIDYAR MAVILAKADAVU)",
+    "address": "",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 94462 71785",
+    "website": null,
+    "discovered_at": "2026-11-17 12:59:33.670276"
+  },
+  {
     "place_id": "0x3b05e90c41a4a0f1:0",
     "name": "Vasuki by Sreya",
     "address": "Kailas Arcade, BTS Rd",
@@ -8971,32 +8998,5 @@
     "phone": "+91 97456 19344",
     "website": null,
     "discovered_at": "2026-11-17 05:15:08.624483"
-  },
-  {
-    "place_id": "0x3b05e9993dc2aea7:0",
-    "name": "POORAM MOTOR DRIVING SCHOOL",
-    "address": "Njekkad Panayara Thachod Aasarimukku Rd",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:15:08.622025"
-  },
-  {
-    "place_id": "0x3b05e9611c5cbed9:0",
-    "name": "Harisree Tuition center",
-    "address": "Sreenarayanapuram Vadasserikonam P O",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:15:08.620440"
-  },
-  {
-    "place_id": "0x3b05ef0035f773bb:0",
-    "name": "Ojaswi Kalaripayattu and Wellness Centre",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:15:08.618519"
   }
 ]
