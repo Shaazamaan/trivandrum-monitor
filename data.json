@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05affb481722a3:0",
+    "name": "Priya's Herbal Beauty Hub",
+    "address": "Shop Number 649, Priyas, Maruthoorkonam Rd, near Ptm School",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:44:39.244868"
+  },
+  {
+    "place_id": "0x3b05a58247ab9c3f:0",
+    "name": "Ratheesh Bakery",
+    "address": "Ratheesh Bakery Saritha Bhavan, near Venganoor School",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:44:38.010183"
+  },
+  {
+    "place_id": "0x3b05a5092775eb77:0",
+    "name": "Bait",
+    "address": "",
+    "category": "Seafood restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:44:36.807879"
+  },
+  {
+    "place_id": "0x3b05b7f62c6e8bb9:0",
+    "name": "The Tuition Center",
+    "address": "+91 94473 28144",
+    "category": "Permanently closed",
+    "phone": "+91 94473 28144",
+    "website": null,
+    "discovered_at": "2026-11-17 15:44:35.479778"
+  },
+  {
+    "place_id": "0x3b05c98059bacc8f:0",
+    "name": "BIG GYM",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:44:34.229853"
+  },
+  {
+    "place_id": "0x3b05c64834737d81:0",
+    "name": "Al Ameen Furniture & Home Appliances",
+    "address": "Panavoor - Puthenpalam Rd, near petrol pumb",
+    "category": "Furniture store",
+    "phone": "+91 80862 37393",
+    "website": null,
+    "discovered_at": "2026-11-17 15:44:32.501337"
+  },
+  {
     "place_id": "0x3b05c70730a38b31:0",
     "name": "S M Bakery",
     "address": "SM BAKERY, Road, near SBI ATM",
@@ -8944,59 +8998,5 @@
     "phone": "+91 94472 08212",
     "website": null,
     "discovered_at": "2026-11-17 05:36:20.514723"
-  },
-  {
-    "place_id": "0x3b05be8b4c69dbb5:0",
-    "name": "Cell-Sell Mobiles",
-    "address": "VSSC Rd",
-    "category": "Cell phone store",
-    "phone": "+91 81295 35288",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.512570"
-  },
-  {
-    "place_id": "0x3b05be8db9a2a281:0",
-    "name": "CELLZONE",
-    "address": "Kulathoor Post",
-    "category": "Cell phone store",
-    "phone": "+91 80892 86673",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.511504"
-  },
-  {
-    "place_id": "0x3b05bbcddd13a229:0",
-    "name": "Venus Mobiles,mobile phone service center poojapura",
-    "address": "jn, opposite Artech flora flat",
-    "category": "Cell phone store",
-    "phone": "+91 79077 00775",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.510411"
-  },
-  {
-    "place_id": "0x3b05a996e211370f:0",
-    "name": "ANSKAR MEN'S HOUSE",
-    "address": "Closes 9:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.506626"
-  },
-  {
-    "place_id": "0x3b05a92b894ae9f5:0",
-    "name": "COZWAY MENS WEAR",
-    "address": "Church, Puthiyathura Jn, Puthiyathura, Poovar - Vizhinjam Rd, near Puthiyathura",
-    "category": "Men's clothing store",
-    "phone": "+91 89434 30408",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.505691"
-  },
-  {
-    "place_id": "0x3b05a5002ec3bb8d:0",
-    "name": "Poovar",
-    "address": "92V3+7RX, Poovar - Vizhinjam Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.504543"
   }
 ]
