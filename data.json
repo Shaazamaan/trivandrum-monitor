@@ -1,5 +1,446 @@
 [
   {
+    "place_id": "0x880e2c6199320759:0",
+    "name": "Oceania Tours Inc",
+    "address": "2160 S Archer Ave #201",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:43:10.740805"
+  },
+  {
+    "place_id": "0x880fd1880ca1f44f:0",
+    "name": "Mena Tours & Travel",
+    "address": "5209 N Clark St",
+    "category": "Cruise agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:43:09.489407"
+  },
+  {
+    "place_id": "0x880e41afef45b625:0",
+    "name": "A-Z Travel and Tours",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:43:08.190005"
+  },
+  {
+    "place_id": "0x880fcd92b1e063cf:0",
+    "name": "Style Travel",
+    "address": "4109 N Kedzie Ave",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:43:07.011406"
+  },
+  {
+    "place_id": "0x880e30d7f22b9c93:0",
+    "name": "OK Travel Agency",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:43:05.810133"
+  },
+  {
+    "place_id": "0x880fd3098038c71d:0",
+    "name": "Q Cruise + Travel Chicago",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:43:04.575507"
+  },
+  {
+    "place_id": "0x405d745bd8cdf979:0",
+    "name": "Downtown Realty Company",
+    "address": "730 N Wells St",
+    "category": "Real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:43:03.340140"
+  },
+  {
+    "place_id": "0x880fd332aae992ff:0",
+    "name": "AIRE Ancient Baths Chicago",
+    "address": "",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:43:02.171005"
+  },
+  {
+    "place_id": "0x880e2cce85ae9add:0",
+    "name": "River West Fitness",
+    "address": "664 W Hubbard St #200",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:43:00.904595"
+  },
+  {
+    "place_id": "0x880e2cb94c24de35:0",
+    "name": "Equinox The Loop",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:59.701727"
+  },
+  {
+    "place_id": "0x880e2cb5c9b6973b:0",
+    "name": "Reverie Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:58.513912"
+  },
+  {
+    "place_id": "0x880e2cab5c8b6d95:0",
+    "name": "Salon 161",
+    "address": "161 E Erie St",
+    "category": "Hair salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:57.328938"
+  },
+  {
+    "place_id": "0x880e2cd21c0355df:0",
+    "name": "Salon 833 Chicago | Custom Hair Color, Hair Cutting , Hair Extensions",
+    "address": "351 W Hubbard St",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:56.143373"
+  },
+  {
+    "place_id": "0x880e2cbe3e3166cd:0",
+    "name": "South Loop Market - Van Buren",
+    "address": "",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:54.774836"
+  },
+  {
+    "place_id": "0x880fd31fc26f8715:0",
+    "name": "Blu Dot Chicago",
+    "address": "",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:53.447971"
+  },
+  {
+    "place_id": "0x880e2c9b5dcf8e27:0",
+    "name": "A'nies Accents",
+    "address": "1237 S Michigan Ave",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:52.238323"
+  },
+  {
+    "place_id": "0x880e2cdb2f155657:0",
+    "name": "Maria Pinto",
+    "address": "",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:51.083889"
+  },
+  {
+    "place_id": "0x880e2d911b7fbdd5:0",
+    "name": "Designs by Cece Symone",
+    "address": "332 S Michigan Ave #1032",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:49.912446"
+  },
+  {
+    "place_id": "0x880fd3524924faed:0",
+    "name": "ikram",
+    "address": "",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:48.654899"
+  },
+  {
+    "place_id": "0x880fd31c925748e3:0",
+    "name": "Jamba",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:47.434594"
+  },
+  {
+    "place_id": "0x880e2d338b4eab77:0",
+    "name": "Fruitful Delight Smoothie, Juice & Bubble Tea Cafe",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:46.228484"
+  },
+  {
+    "place_id": "0x880e2db0ff334491:0",
+    "name": "Smallcakes Cupcakery",
+    "address": "218 W Washington St",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:44.936224"
+  },
+  {
+    "place_id": "0x880fd3556c625c97:0",
+    "name": "Harry's Cafe",
+    "address": "",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:43.719206"
+  },
+  {
+    "place_id": "0x880e2d80cd73ef01:0",
+    "name": "Mojo Coffee",
+    "address": "",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:42.514853"
+  },
+  {
+    "place_id": "0x880e3354741fb8fb:0",
+    "name": "West Side Animal Hospital",
+    "address": "",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:41.282862"
+  },
+  {
+    "place_id": "0x880e2da43479da9b:0",
+    "name": "Healing Tails Chicago Pet Rehabilitation and Acupuncture",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:40.067012"
+  },
+  {
+    "place_id": "0x864ea17e6a058ac5:0",
+    "name": "East Dallas Veterinary Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:38.853173"
+  },
+  {
+    "place_id": "0x880e2f8472a3e9a5:0",
+    "name": "Auburn Animal Hospital",
+    "address": "8256 S Ashland Ave",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:37.470993"
+  },
+  {
+    "place_id": "0x88f5015ba2ebe753:0",
+    "name": "East Atlanta Animal Clinic",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:36.288327"
+  },
+  {
+    "place_id": "0x880e2de520960ac9:0",
+    "name": "Brighton Park Animal Hospital",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:35.097399"
+  },
+  {
+    "place_id": "0x880e292a778094c9:0",
+    "name": "Woodlawn Animal Hospital",
+    "address": "6523 S King Dr",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:33.930995"
+  },
+  {
+    "place_id": "0x880e31bc3ff19f77:0",
+    "name": "Pulaski Animal Hospital",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:32.691075"
+  },
+  {
+    "place_id": "0x880e296c3d0efc2d:0",
+    "name": "Hyde Park Animal Hospital -Stony Island",
+    "address": "6937 S Stony Island Ave",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:31.496367"
+  },
+  {
+    "place_id": "0x864e7a39a34cb4e3:0",
+    "name": "Bridge Street Animal Clinic",
+    "address": "",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:30.125092"
+  },
+  {
+    "place_id": "0x880fd2e40ecb9193:0",
+    "name": "Family Pet Animal Hospital",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:26.753577"
+  },
+  {
+    "place_id": "0x880e1d1a3d71ef25:0",
+    "name": "Plum Creek Regional Animal Medical Center",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:25.574914"
+  },
+  {
+    "place_id": "0x880fcf9401789805:0",
+    "name": "BluePearl Pet Hospital",
+    "address": "3735 West Dempster Street",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:24.371106"
+  },
+  {
+    "place_id": "0x880e2cab37bedf7b:0",
+    "name": "Northwestern Medicine Specialty Pharmacy",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:23.019229"
+  },
+  {
+    "place_id": "0x880fd34d349fec79:0",
+    "name": "Midwest Specialty Pharmacy LLC",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:21.849080"
+  },
+  {
+    "place_id": "0x880e2d000c5e84bb:0",
+    "name": "Printer’s Row Cost Plus Pharmacy",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:20.572988"
+  },
+  {
+    "place_id": "0x880fd2b12f893511:0",
+    "name": "Wicker Park Eye Center",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:19.382152"
+  },
+  {
+    "place_id": "0x880fd3c3a06a0d43:0",
+    "name": "Fast Track Physio",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:18.203172"
+  },
+  {
+    "place_id": "0x880e2c98134728c9:0",
+    "name": "Athletico Physical Therapy - Printers Row",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:16.906317"
+  },
+  {
+    "place_id": "0x880e2caf1e55d9cb:0",
+    "name": "ATI Physical Therapy",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:15.723580"
+  },
+  {
+    "place_id": "0x880e2ccabcb2b8e7:0",
+    "name": "Dynamic Physical Therapy Chicago-River North",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:14.555329"
+  },
+  {
+    "place_id": "0x880e2d935b23ca85:0",
+    "name": "River North Physical Therapy",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:13.389323"
+  },
+  {
+    "place_id": "0x880e2cb6fb22d43f:0",
+    "name": "Athletico Physical Therapy - Merchandise Mart",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:12.219993"
+  },
+  {
+    "place_id": "0x880e2dad81c52bbf:0",
+    "name": "DentArt Chicago",
+    "address": "",
+    "category": "Dentist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:10.992926"
+  },
+  {
+    "place_id": "0x880fd35381303e47:0",
+    "name": "Water Tower Dental Care",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 04:42:09.820161"
+  },
+  {
     "place_id": "0x3b05bbb4223f8e35:0",
     "name": "Kottakkal Arya Vaidya Sala Vazhuthacaud",
     "address": "Ground Floor, Anitha Towers, Main Rd, opposite SBI Bank",
@@ -8557,446 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 13:20:58.944246"
-  },
-  {
-    "place_id": "0x3b05bb00705505f9:0",
-    "name": "Vattiyoorkavu Market lane",
-    "address": "GXFQ+M73",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 13:20:57.754326"
-  },
-  {
-    "place_id": "0x3b05bb0020dbf72b:0",
-    "name": "Kallambalathu veedu",
-    "address": "GXFQ+HMC",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 13:20:56.468259"
-  },
-  {
-    "place_id": "0x3b05bb004f919a77:0",
-    "name": "VARA 107A Sreenandanam",
-    "address": "VARA, 107A, Kesavan Nair Ln",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 13:20:55.231296"
-  },
-  {
-    "place_id": "0x3b05bb00704dc47f:0",
-    "name": "Anilkumar,",
-    "address": "Sreyas, Kalathara, KARA 59 A, Karimankulam Rd",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 13:20:53.907316"
-  },
-  {
-    "place_id": "0x3b05bb003c201abd:0",
-    "name": "Sree Rudram",
-    "address": "GXFQ+M73",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 13:20:52.707521"
-  },
-  {
-    "place_id": "0x3b05bb00206fa65d:0",
-    "name": "Avani",
-    "address": "GXFQ+M73",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 13:20:51.420366"
-  },
-  {
-    "place_id": "0x3b05bb5861769d79:0",
-    "name": "English tuition class",
-    "address": "KMJRA, 1, KODUNGANOOR",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 13:20:50.206859"
-  },
-  {
-    "place_id": "0x3b05a98162e7a181:0",
-    "name": "KURUVIYOTTIL MULTI SPECIALITY DENTAL CLINIC",
-    "address": "Louis memorial building",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:51:46.725378"
-  },
-  {
-    "place_id": "0x3b05af00194474c7:0",
-    "name": "Tata Solar Anand Solar Neyyattinkara",
-    "address": "C39H+GR5",
-    "category": "Home builder",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:44:48.694156"
-  },
-  {
-    "place_id": "0x3b05e99d0edb7745:0",
-    "name": "Samyoga Yoga Training Center",
-    "address": "",
-    "category": "Yoga studio",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:37:35.694521"
-  },
-  {
-    "place_id": "0x3b05b97f456232e9:0",
-    "name": "Zebx Pharmaceuticals",
-    "address": "Medical College -P.O, Rk Donjon pongumoodu, Sreekaryam Road, near PHED Pump house",
-    "category": "Pharmaceutical company",
-    "phone": "+91 87141 08527",
-    "website": null,
-    "discovered_at": "2026-11-16 12:30:19.542723"
-  },
-  {
-    "place_id": "0x3b05b9034d3cc7e7:0",
-    "name": "Krishna medicals",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": "+91 98474 18585",
-    "website": null,
-    "discovered_at": "2026-11-16 12:30:18.242349"
-  },
-  {
-    "place_id": "0x3b05b946f83b58af:0",
-    "name": "V Care Walk-In Pharmacy",
-    "address": "TC 20/3598/3 Ground floor, Sarada Avenue, bus stop, near kottamugal",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:30:16.746121"
-  },
-  {
-    "place_id": "0x3b05becb41af06e3:0",
-    "name": "Nagarjuna Ayurveda Oushadhasala",
-    "address": "",
-    "category": "Alternative medicine practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:30:15.377314"
-  },
-  {
-    "place_id": "0x3b05beadc5234e03:0",
-    "name": "Dr Jayahari's Ayurwealth Ayurveda Clinic",
-    "address": "Closes 7 PM",
-    "category": "Open",
-    "phone": "+91 94472 43754",
-    "website": null,
-    "discovered_at": "2026-11-16 12:30:14.065267"
-  },
-  {
-    "place_id": "0x3b05b923d596622b:0",
-    "name": "Geosys IT Solution Pvt. Ltd.,",
-    "address": "Mosque Lane",
-    "category": "Software company",
-    "phone": "+91 99461 00059",
-    "website": null,
-    "discovered_at": "2026-11-16 12:22:35.961168"
-  },
-  {
-    "place_id": "0x3b05b984e5454311:0",
-    "name": "COMMERCE HUB by RESHMI PM",
-    "address": "opposite PUNJAB BANK",
-    "category": "Education center",
-    "phone": "+91 88489 38721",
-    "website": null,
-    "discovered_at": "2026-11-16 12:22:34.654244"
-  },
-  {
-    "place_id": "0x3b05b908a4a7c615:0",
-    "name": "Nanma Margin Free Medicals and surgicals store",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": "+91 62824 46003",
-    "website": null,
-    "discovered_at": "2026-11-16 12:22:33.398756"
-  },
-  {
-    "place_id": "0x3b05bdb7ae4b44b9:0",
-    "name": "Multy Supermarket",
-    "address": "GWC7+X7J",
-    "category": "Grocery store",
-    "phone": "+91 73066 84434",
-    "website": null,
-    "discovered_at": "2026-11-16 12:22:32.159475"
-  },
-  {
-    "place_id": "0x808e32bdde62a61f:0",
-    "name": "International Travel San Jose",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:34.968095"
-  },
-  {
-    "place_id": "0x808e32bd9c1e3f91:0",
-    "name": "San Jose Travel Agency",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:32.818684"
-  },
-  {
-    "place_id": "0x808e32f5edc276d9:0",
-    "name": "U.S. Tours",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:30.183556"
-  },
-  {
-    "place_id": "0x808fcce0e3ac40bd:0",
-    "name": "Planetario Travel & Tours Inc",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:29.005654"
-  },
-  {
-    "place_id": "0x808e3358f80fd7d3:0",
-    "name": "Family Travel San Jose",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:26.773294"
-  },
-  {
-    "place_id": "0x808fcd467e394bfb:0",
-    "name": "San Jose Travel Agency",
-    "address": "1750 Story Rd",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:24.179748"
-  },
-  {
-    "place_id": "0x808e319bcfa381a7:0",
-    "name": "PTales Events LLC",
-    "address": "6096 Santa Ysabel Way",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:22.965983"
-  },
-  {
-    "place_id": "0x808fcd239fced6e7:0",
-    "name": "Bay City Events, Inc",
-    "address": "943 Berryessa Rd",
-    "category": "Party equipment rental service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:20.780479"
-  },
-  {
-    "place_id": "0x809adf611f0428af:0",
-    "name": "Andrey's Events & Entertainment",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:18.433875"
-  },
-  {
-    "place_id": "0x808fcba9fad4eb69:0",
-    "name": "EQuintet - Event Planning & Management",
-    "address": "2570 N First St Ste 256",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:17.085961"
-  },
-  {
-    "place_id": "0x808f879b0e014251:0",
-    "name": "Luisa's Creations & More",
-    "address": "29421 Kohoutek Way",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:14.831910"
-  },
-  {
-    "place_id": "0x808fbfca5beb026f:0",
-    "name": "Saba Decor Rentals",
-    "address": "",
-    "category": "Wedding planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:12.228418"
-  },
-  {
-    "place_id": "0x2ed6b72d2d51bcc9:0",
-    "name": "Aalaya Decors | Bay Area, Premium Event & Wedding Decoration Experts",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:10.968256"
-  },
-  {
-    "place_id": "0x808fccdcf7878321:0",
-    "name": "Valley Event Décor",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:08.765028"
-  },
-  {
-    "place_id": "0x808e3585c032de91:0",
-    "name": "Posh Events & Design",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:06.174111"
-  },
-  {
-    "place_id": "0x808fcd0030c10a25:0",
-    "name": "Decorador y Organizador de Eventos, Alejandro Mondragón",
-    "address": "1855 Las Plumas Ave Unidad B4",
-    "category": "Party planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:04.977305"
-  },
-  {
-    "place_id": "0x808e35f77c07e561:0",
-    "name": "A Waiters Enterprise Inc.",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:03.749188"
-  },
-  {
-    "place_id": "0x808e10933fdde043:0",
-    "name": "Eventscapes Inc.",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:14:02.547509"
-  },
-  {
-    "place_id": "0x808f9f0871081881:0",
-    "name": "Fun and Confetti",
-    "address": "1485 El Camino Real Ste 101",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:13:58.909799"
-  },
-  {
-    "place_id": "0x808fcbd9ca6798f7:0",
-    "name": "RESET MARKETING AND EVENTS, LLC",
-    "address": "2784 Homestead Rd #212",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:13:56.744891"
-  },
-  {
-    "place_id": "0x808fcb67fc807db1:0",
-    "name": "California Special Occasions",
-    "address": "1346 The Alameda Ste 7-367",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:13:54.198393"
-  },
-  {
-    "place_id": "0x808fcb579ce50163:0",
-    "name": "Asiel Design | The James Grain Warehouse",
-    "address": "",
-    "category": "Wedding planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:13:52.991810"
-  },
-  {
-    "place_id": "0x808fbba83a1fbe47:0",
-    "name": "Two Perfect Events",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:13:50.801876"
-  },
-  {
-    "place_id": "0x808fcce9de0519e7:0",
-    "name": "Just Elegance Events Inc",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:13:48.231106"
-  },
-  {
-    "place_id": "0x808fcc26dc73b9f1:0",
-    "name": "Eve Decor Inc",
-    "address": "1580 Oakland Rd Ste C202-2",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:13:47.039499"
-  },
-  {
-    "place_id": "0x808e3318f2673105:0",
-    "name": "Grassini events",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:13:44.829341"
-  },
-  {
-    "place_id": "0x4bf61babf57ae8e5:0",
-    "name": "Premier A/V Entertainment",
-    "address": "1 S Market St",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:13:42.327841"
-  },
-  {
-    "place_id": "0x65cc1754bb637a55:0",
-    "name": "A Gordon Event",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:13:41.138277"
-  },
-  {
-    "place_id": "0x808e35633e2009fd:0",
-    "name": "The Fairy Event Planner & Boutique",
-    "address": "",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:13:38.798754"
-  },
-  {
-    "place_id": "0xbee4995996aac5b:0",
-    "name": "oso events® - sf bay area wedding planner",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:13:36.233598"
   }
 ]
