@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05bbd90db402df:0",
+    "name": "Fashion Factory",
+    "address": "VKM Tower, Junction, Mahatma Gandhi Rd",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:35:33.014435"
+  },
+  {
+    "place_id": "0x3b05bf9f9f74b70b:0",
+    "name": "H&R Block India Private Limited",
+    "address": "",
+    "category": "Tax preparation",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:35:30.991087"
+  },
+  {
+    "place_id": "0x3b05bfe6951ce16b:0",
+    "name": "Ignite Trivandrum",
+    "address": "NANDANAM PRA- D 24, TC 3/2884, THUNDATHIL, PO",
+    "category": "Coaching center",
+    "phone": "+91 73560 83669",
+    "website": null,
+    "discovered_at": "2026-11-17 14:35:29.575631"
+  },
+  {
+    "place_id": "0x3b05bf33c2ebccad:0",
+    "name": "Gokulam Bridal Makeover",
+    "address": "Substation, Bus Stop, Salem - Kochi Hwy",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:35:28.200037"
+  },
+  {
+    "place_id": "0x3b05bffa2c35c7f7:0",
+    "name": "apples mobile",
+    "address": "near technopark",
+    "category": "Cell phone store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:35:26.923947"
+  },
+  {
+    "place_id": "0x3b05bfa4858903a1:0",
+    "name": "Hershel Designs",
+    "address": "Attinkuzhi Rd, near Technopark Road",
+    "category": "Boutique",
+    "phone": "+91 89432 19073",
+    "website": null,
+    "discovered_at": "2026-11-17 14:35:25.652630"
+  },
+  {
     "place_id": "0x3b05bf280521d599:0",
     "name": "FUTURE FLY",
     "address": "Attipra zonal office, junction, opposite Puttukada Lane",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:36:20.432647"
-  },
-  {
-    "place_id": "0x3b05a500479d0163:0",
-    "name": "Golden Beauty Studio & Tattoo Studio",
-    "address": "junction",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.431665"
-  },
-  {
-    "place_id": "0x3b05a5c1d250f139:0",
-    "name": "Monalisa Beauty Parlour",
-    "address": "Monalisa Beauty Parlour, Vizhinjam - Balaramapuram Rd",
-    "category": "Health and beauty shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.430452"
-  },
-  {
-    "place_id": "0x3b05a53793b60a53:0",
-    "name": "Shaini's herbal beauty clinic",
-    "address": "92M3+9R9 Shaini's herbal beauty clinic",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.428702"
-  },
-  {
-    "place_id": "0x3b05bb736681c4c3:0",
-    "name": "Seasons SuperMarket",
-    "address": "",
-    "category": "Grocery store",
-    "phone": "+91 98953 63638",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.426916"
-  },
-  {
-    "place_id": "0x3b05af0017959a85:0",
-    "name": "Ambadiyil Supermarket",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.425933"
-  },
-  {
-    "place_id": "0x3b05a5b37bae7431:0",
-    "name": "ASQUARE Rental Jewellery",
-    "address": "Theatre Junction",
-    "category": "Jewelry store",
-    "phone": "+91 94976 88558",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.423509"
   }
 ]
