@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b7d26912a885:0",
+    "name": "ZENERAH",
+    "address": "Kattakkada Kottoor Rd",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:51:38.593072"
+  },
+  {
+    "place_id": "0x3b05b1002aa18313:0",
+    "name": "BELLE Mens and Kids",
+    "address": "G35J+CP4, Kattakkada Kottoor Rd",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:51:37.399666"
+  },
+  {
+    "place_id": "0x3b05a90008003541:0",
+    "name": "Karma Dental Clinic",
+    "address": "833V+MH2, Kanyakumari - Pazhaya Uchakada Rd",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:51:36.041105"
+  },
+  {
     "place_id": "0x3b05affb481722a3:0",
     "name": "Priya's Herbal Beauty Hub",
     "address": "Shop Number 649, Priyas, Maruthoorkonam Rd, near Ptm School",
@@ -8971,32 +8998,5 @@
     "phone": "+91 94475 57927",
     "website": null,
     "discovered_at": "2026-11-17 05:36:20.520919"
-  },
-  {
-    "place_id": "0x3b05bbeed96fdfd1:0",
-    "name": "Swarnamahal Jewellery",
-    "address": "Jn, By Pass, near Kumarichantha",
-    "category": "Jewelry store",
-    "phone": "+91 86066 69916",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.518445"
-  },
-  {
-    "place_id": "0x3b05bb33c0000001:0",
-    "name": "M H Furniture Mart",
-    "address": "Closes 8:30 PM",
-    "category": "Open",
-    "phone": "+91 94471 80497",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.515752"
-  },
-  {
-    "place_id": "0x3b05bb0040df71e9:0",
-    "name": "Uthradam Furniture, Poojapura",
-    "address": "Sanvika Tower, Chadiyara Rd, near Pooja mandapam and ground",
-    "category": "Furniture accessories",
-    "phone": "+91 94472 08212",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.514723"
   }
 ]
