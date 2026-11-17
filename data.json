@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05a908ab1af967:0",
+    "name": "Base Kafe",
+    "address": "Opens 5:30 PM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 21:00:47.872414"
+  },
+  {
+    "place_id": "0x3b05a9004275dc05:0",
+    "name": "Kingfisher floating restaurant",
+    "address": "835H+44M, Neyyar back water Elephant Rock",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 21:00:46.462307"
+  },
+  {
+    "place_id": "0x3b05a5ebdab82f11:0",
+    "name": "Vizhinjam Fresh Fish",
+    "address": "Mannakal House Number 353 Hourbar",
+    "category": "Supermarket",
+    "phone": "+91 96567 62804",
+    "website": null,
+    "discovered_at": "2026-11-17 21:00:45.155777"
+  },
+  {
     "place_id": "0x3b05a5bff64ed2df:0",
     "name": "A.R Bakery",
     "address": "9XGP+MH3, Vizhinjam Harbour Rd",
@@ -8971,32 +8998,5 @@
     "phone": "+91 94954 63004",
     "website": null,
     "discovered_at": "2026-11-17 06:32:52.956585"
-  },
-  {
-    "place_id": "0x3b05c994e37e1b43:0",
-    "name": "ANAN NYAYAVILA MEDICALS",
-    "address": "Anan Medicals, Palode Road, near Bank Of India Kochattukal Junction",
-    "category": "Pharmacy",
-    "phone": "+91 95398 44227",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.955271"
-  },
-  {
-    "place_id": "0x3b05bbeed826b51d:0",
-    "name": "DEVI EYE HOSPITALS & OPTICIANS - THIRUVALLAM",
-    "address": "Pachalloor Rd, near Studio Junction",
-    "category": "Eye care center",
-    "phone": "+91 94005 18228",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.948368"
-  },
-  {
-    "place_id": "0x3b05ba6bc831e4af:0",
-    "name": "EYE SHORE EYE CLINIC & OPTICALS",
-    "address": "Titus Complex, campus, near Rajan Textiles",
-    "category": "Business related",
-    "phone": "+91 94974 52848",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.947253"
   }
 ]
