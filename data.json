@@ -1,5 +1,185 @@
 [
   {
+    "place_id": "0x3b05a50ad4e39231:0",
+    "name": "M M Garments",
+    "address": "Plamoottu Vila",
+    "category": "Boutique",
+    "phone": "+91 97464 06970",
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.958034"
+  },
+  {
+    "place_id": "0x3b05a5a673079bb7:0",
+    "name": "Fabindia",
+    "address": "Property No VP1, Police Station, Kovalam, 389, Beach Rd",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.955483"
+  },
+  {
+    "place_id": "0x3b05a55ff1027e95:0",
+    "name": "JUICE TREATS",
+    "address": "9XJM+H36, Vizhinjam Harbour Rd",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.954012"
+  },
+  {
+    "place_id": "0x3b05a5098a14bde1:0",
+    "name": "Shivas Stores And Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.951298"
+  },
+  {
+    "place_id": "0x3b05a50f8ac55c69:0",
+    "name": "Lotus Bakery",
+    "address": "Vellar Junction, Pachalloor, NH Bypass Service Road",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.950143"
+  },
+  {
+    "place_id": "0x3b05a5bb26efc427:0",
+    "name": "Kerala Cafe",
+    "address": "Cafe, Kerala Cafe Kovalam 1",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.948084"
+  },
+  {
+    "place_id": "0x3b05a50040c44957:0",
+    "name": "Let a Coffee by Sunset",
+    "address": "",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.947135"
+  },
+  {
+    "place_id": "0x3b05a5002edfb60d:0",
+    "name": "Oceano Di Cafe",
+    "address": "Closes 11 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.945862"
+  },
+  {
+    "place_id": "0x3b05afaf78ca5249:0",
+    "name": "Theerathil Eye Clinic & Opticals",
+    "address": "",
+    "category": "Optometrist",
+    "phone": "+91 94970 32023",
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.940320"
+  },
+  {
+    "place_id": "0x3b05a5e7f816ce8b:0",
+    "name": "Healing hands",
+    "address": "KP 17/182, Kakkamoola junction",
+    "category": "Physical therapy clinic",
+    "phone": "+91 94956 51888",
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.937768"
+  },
+  {
+    "place_id": "0x3b05bb518b9e0d2f:0",
+    "name": "SNEHA Tours & Travels",
+    "address": "Sopanam, vazhayanikonam Kachani, Po",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.928234"
+  },
+  {
+    "place_id": "0x3b05b8037493a395:0",
+    "name": "IEST ISRO Coaching Centre",
+    "address": "East Bungalow",
+    "category": "Educational institution",
+    "phone": "+91 70121 75044",
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.920359"
+  },
+  {
+    "place_id": "0x3b05c79d201bc96d:0",
+    "name": "Vembayam Vanitham Margin Free Supermarket",
+    "address": "Ground Floor, Juma Masjid, Vanitham Margin Free Supermarket, N.B Plaza, Nedumangad Rd, opposite Vembayam",
+    "category": "Supermarket",
+    "phone": "+91 75930 06035",
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.915243"
+  },
+  {
+    "place_id": "0x3b05b740a445dcb1:0",
+    "name": "Hare krishna mobiles",
+    "address": "Vellanad Bus Stop, Vellanadu Nedumangad Road, Nedumangadu Road",
+    "category": "Cell phone store",
+    "phone": "+91 83048 18181",
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.910965"
+  },
+  {
+    "place_id": "0x3b05bb6c50a813a3:0",
+    "name": "Juice factory",
+    "address": "Vettamukku, Maruthankuzhi - Kachani Rd",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.907139"
+  },
+  {
+    "place_id": "0x3b05c9fb687a85d5:0",
+    "name": "Cafe Joy",
+    "address": "Café Joy, back gate, IIST Rd",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.902110"
+  },
+  {
+    "place_id": "0x3b05b99d7da4223d:0",
+    "name": "Raif family Restaurant",
+    "address": "JX2W+H8W",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.900911"
+  },
+  {
+    "place_id": "0x3b05b78323a0c6b7:0",
+    "name": "Kerala kitchen Restaurant",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.899764"
+  },
+  {
+    "place_id": "0x3b05b90002c83a0f:0",
+    "name": "KAIROS Physiotherapy Centre",
+    "address": "Closes 8 PM",
+    "category": "Open",
+    "phone": "+91 85906 23387",
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.891619"
+  },
+  {
+    "place_id": "0x3b05bbe37328f2d1:0",
+    "name": "NANMA DENTAL CARE",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 62828 77428",
+    "website": null,
+    "discovered_at": "2026-11-17 05:29:30.888232"
+  },
+  {
     "place_id": "0x3b05af0012f0edcf:0",
     "name": "Abhinavam perumpazhuthoor Neyyattinkara",
     "address": "C3PH+V8X, PO",
@@ -8818,185 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 15:14:28.830252"
-  },
-  {
-    "place_id": "0xa474bcdfd21f94d:0",
-    "name": "Dana's Designs and Events, LLC",
-    "address": "LockAway Storage Facility, 8401 Crestway Dr",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:27.494058"
-  },
-  {
-    "place_id": "0x865c8a14438b096b:0",
-    "name": "Country Sugar Events",
-    "address": "1702 Fawn Gate St",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:26.272118"
-  },
-  {
-    "place_id": "0x6ca069d9c25d46a9:0",
-    "name": "Fantasy Events Planning & Design of San Antonio",
-    "address": "26306 Tawny Way",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:25.073348"
-  },
-  {
-    "place_id": "0x865cf5a92416f3ef:0",
-    "name": "Audrey Curl Interiors",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:23.889636"
-  },
-  {
-    "place_id": "0x865cf5a7aa585805:0",
-    "name": "BRADSHAW DESIGNS",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:22.639925"
-  },
-  {
-    "place_id": "0x865c8b0805548681:0",
-    "name": "Viviana Martinez, Commercial Real Estate",
-    "address": "",
-    "category": "Commercial real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:21.423012"
-  },
-  {
-    "place_id": "0x865c5fbb53a02ea1:0",
-    "name": "Texas Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:19.965405"
-  },
-  {
-    "place_id": "0x865c6066a658dac3:0",
-    "name": "The New Image Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:18.692993"
-  },
-  {
-    "place_id": "0x865c691b93286ed9:0",
-    "name": "The Style Studio",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:17.395393"
-  },
-  {
-    "place_id": "0x865cf4a54e8bb3ab:0",
-    "name": "J' Jireh's Salon & Hair Restoration Center Llc",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:15.961480"
-  },
-  {
-    "place_id": "0x865c606515c44e57:0",
-    "name": "Modish Salon Professional LLC",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:14.682103"
-  },
-  {
-    "place_id": "0x865c67d678cc4885:0",
-    "name": "My Salon Suite",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:13.471318"
-  },
-  {
-    "place_id": "0x865c5ffddc992f9b:0",
-    "name": "JYB HAIR STUDIO",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:12.229903"
-  },
-  {
-    "place_id": "0x865c8b843080dfcd:0",
-    "name": "Mallorca Salon Studios & Suites",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:11.041345"
-  },
-  {
-    "place_id": "0x865c5fed6a7c2243:0",
-    "name": "Mecca Beauty",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:09.732574"
-  },
-  {
-    "place_id": "0x865c617999e19253:0",
-    "name": "Lily's Beauty Dominican Hair Salon",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:08.510949"
-  },
-  {
-    "place_id": "0x865c5fa24653ec21:0",
-    "name": "Matehualas's Beauty salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:07.240280"
-  },
-  {
-    "place_id": "0x865c8bf5402063e5:0",
-    "name": "VENUS BEAUTY",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:05.986878"
-  },
-  {
-    "place_id": "0x865c5ef6902fde55:0",
-    "name": "Vee's Hair and Spa",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:04.734551"
-  },
-  {
-    "place_id": "0x865c61e287608d9f:0",
-    "name": "Mallorca Salon Studios & Suites",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:14:03.367643"
   }
 ]
