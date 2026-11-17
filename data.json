@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05c300051a5ba1:0",
+    "name": "Ayyappa's textiles",
+    "address": "QVCJ+49F, Kilimanoor - Kottarakkara Rd",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:35:31.764840"
+  },
+  {
+    "place_id": "0x3b05c2e7bdf0ea4b:0",
+    "name": "Shemi Bakery",
+    "address": "SHEMI BAKERY CHENGIKUNNU, ATTINGAL ROAD, opposite FOOD BASKET SUPER MARKET",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:35:30.515360"
+  },
+  {
+    "place_id": "0x3b05bbea2e50b861:0",
+    "name": "Aasraya Community Pharmacy",
+    "address": "10:30 PM",
+    "category": "Closes soon",
+    "phone": "+91 62828 13537",
+    "website": null,
+    "discovered_at": "2026-11-17 16:35:29.185746"
+  },
+  {
     "place_id": "0x3b05bfb7a3c995d7:0",
     "name": "Trivandrum Traders & Super Market",
     "address": "Junction",
@@ -8971,32 +8998,5 @@
     "phone": "+91 98472 98354",
     "website": null,
     "discovered_at": "2026-11-17 05:49:56.310065"
-  },
-  {
-    "place_id": "0x3b05c17a99ab37fd:0",
-    "name": "E SQUARE PHYSIOTHERAPY CENTRE",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": "+91 80753 55811",
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.308957"
-  },
-  {
-    "place_id": "0x3b05ab74407a8c6f:0",
-    "name": "Rockland Wedding Visual Makers",
-    "address": "near government Hospital",
-    "category": "Photography studio",
-    "phone": "+91 94978 50252",
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.299188"
-  },
-  {
-    "place_id": "0x3b05ab9bb580811b:0",
-    "name": "Karunya events parassala",
-    "address": "+91 90611 21108",
-    "category": "Open 24 hours",
-    "phone": "+91 90611 21108",
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.297561"
   }
 ]
