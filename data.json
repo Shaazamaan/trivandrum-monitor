@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05bfce778924bb:0",
+    "name": "Lancet Laboratory & Research Center-LLRC",
+    "address": "",
+    "category": "Diagnostic center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:05:18.901423"
+  },
+  {
+    "place_id": "0x3b05b9d25e268cb5:0",
+    "name": "TEST POINT Laboratory",
+    "address": "Medical College, PO 695011",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:05:17.747949"
+  },
+  {
+    "place_id": "0x3b05bb19d1a370c3:0",
+    "name": "Mr",
+    "address": "Mayoora, Kaithamukku",
+    "category": "Discount supermarket",
+    "phone": "+91 70125 47328",
+    "website": null,
+    "discovered_at": "2026-11-17 15:05:16.511228"
+  },
+  {
+    "place_id": "0x3b05bb005b2ee53b:0",
+    "name": "Pets world",
+    "address": "FXF2+JJW, Attukal Rd",
+    "category": "Veterinary pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:05:15.337854"
+  },
+  {
+    "place_id": "0x3b05ba504cc88131:0",
+    "name": "Parag Pet Centre and Medicals",
+    "address": "",
+    "category": "Pet supply store",
+    "phone": "+91 98460 79884",
+    "website": null,
+    "discovered_at": "2026-11-17 15:05:14.034778"
+  },
+  {
+    "place_id": "0x3b05bbc95fde6ce5:0",
+    "name": "PETS N PAWS, VETERINARY MEDICALS",
+    "address": "PETS N PAWS VETERINARY MEDICALS",
+    "category": "Veterinary pharmacy",
+    "phone": "+91 95399 21378",
+    "website": null,
+    "discovered_at": "2026-11-17 15:05:12.879625"
+  },
+  {
+    "place_id": "0x3b05bbf2406933eb:0",
+    "name": "Sthenos Physiotherapy Clinic",
+    "address": "Enjakkal Junction, near Canara Bank",
+    "category": "Physical therapy clinic",
+    "phone": "+91 62383 15597",
+    "website": null,
+    "discovered_at": "2026-11-17 15:05:10.973714"
+  },
+  {
     "place_id": "0x3b05bbb2e5e4f38f:0",
     "name": "Thanal Sea Food Restaurant",
     "address": "",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:36:20.443106"
-  },
-  {
-    "place_id": "0x3b05a508b8c1dd71:0",
-    "name": "Laksmi House Aurveda & SPA",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.442201"
-  },
-  {
-    "place_id": "0x3b05a565df0b343d:0",
-    "name": "Kalika Ayurvedic Massage Centre",
-    "address": "Closes 5 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.441162"
-  },
-  {
-    "place_id": "0x3b05af567fad8c6b:0",
-    "name": "Pankaj Ayurvedic & Spa",
-    "address": "Manaltheeram Rd",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.440259"
-  },
-  {
-    "place_id": "0x3b05af4a98027b8f:0",
-    "name": "R.S FITNESS & REHAB",
-    "address": "",
-    "category": "Sports massage therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.438159"
-  },
-  {
-    "place_id": "0x3b05a5902d94f575:0",
-    "name": "fitness@thebeachhotel",
-    "address": "Light House Beach Kovalam, PO, near Light House",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.436893"
-  },
-  {
-    "place_id": "0x3b05bbd50c1b7a0d:0",
-    "name": "FELIZ PALETTE BEAUTY SPA & MAKE UP STUDIO",
-    "address": "Bus Stop, Trivandrum Vizhinjam Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.434787"
-  },
-  {
-    "place_id": "0x3b05a5006d059133:0",
-    "name": "Glow stylish Vizhinjam",
-    "address": "Closes 9:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.433839"
   }
 ]
