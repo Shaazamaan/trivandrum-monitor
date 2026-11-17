@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbbc6f9dc335:0",
+    "name": "Dakshina Women's Clothing Line",
+    "address": "Bhavani Building, Uppalam Rd",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 12:21:23.856678"
+  },
+  {
     "place_id": "0x3b05bb007b8d0e19:0",
     "name": "YKS",
     "address": "1st Floor, Relcon Plaza",
@@ -8989,14 +8998,5 @@
     "phone": "+91 96565 52784",
     "website": null,
     "discovered_at": "2026-11-17 05:05:54.930467"
-  },
-  {
-    "place_id": "0x3b05b9a4aef86d11:0",
-    "name": "Anglotree",
-    "address": "2nd Floor, Jn",
-    "category": "Educational institution",
-    "phone": "+91 80860 08684",
-    "website": null,
-    "discovered_at": "2026-11-17 05:05:54.929261"
   }
 ]
