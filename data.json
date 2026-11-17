@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbac94e85de9:0",
+    "name": "APEX DENTAL CARE (centre for braces, aligners and root canal therapy)",
+    "address": "Poonthi Rd",
+    "category": "Dental clinic",
+    "phone": "+91 88485 86119",
+    "website": null,
+    "discovered_at": "2026-11-17 12:35:40.115471"
+  },
+  {
+    "place_id": "0x3b05b956f930e655:0",
+    "name": "Soorya's Skin Hair Makeup",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 12:35:38.669513"
+  },
+  {
     "place_id": "0x3b05bb3f0e9143cf:0",
     "name": "Foot Aura Reflexology Center",
     "address": "Aarattu Rd, near sivananda yoga center",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:05:54.951603"
-  },
-  {
-    "place_id": "0x3b05bc1a82c299af:0",
-    "name": "Kadakampally Goverment Veterinary Dispensary",
-    "address": "GW73+9Q3",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:05:54.949648"
-  },
-  {
-    "place_id": "0x3b05b8cb14195567:0",
-    "name": "Government Veterinary Dispensary Sreekaryam",
-    "address": "Njand, junction",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:05:54.948231"
   }
 ]
