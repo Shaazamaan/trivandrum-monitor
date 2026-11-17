@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05e99a35f19f9b:0",
+    "name": "Realme Store",
+    "address": "Private Stand",
+    "category": "Cell phone store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 20:46:08.580014"
+  },
+  {
     "place_id": "0x3b05e9f0dddf14ab:0",
     "name": "Thahas Sulthan",
     "address": "MRX6+QQF, Market Rd",
@@ -8989,14 +8998,5 @@
     "phone": "+91 94461 10603",
     "website": null,
     "discovered_at": "2026-11-17 06:32:52.934549"
-  },
-  {
-    "place_id": "0x3b04533c5b57f4e3:0",
-    "name": "ELITE Multi Speciality Dental Clinic",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": "+91 94951 54446",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.933425"
   }
 ]
