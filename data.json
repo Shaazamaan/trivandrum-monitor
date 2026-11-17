@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bbfc5bea2243:0",
+    "name": "Patty and Bun",
+    "address": "YMR Devaswom Board Rd",
+    "category": "Hamburger restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:47:44.421844"
+  },
+  {
+    "place_id": "0x3b05bbcfe50754db:0",
+    "name": "KADAVIL DIAGNOSTICS",
+    "address": "TC-11/518-4, Jijo Towers",
+    "category": "Laboratory equipment supplier",
+    "phone": "+91 98470 63174",
+    "website": null,
+    "discovered_at": "2026-11-17 08:47:43.092098"
+  },
+  {
+    "place_id": "0x3b05bb95c2409889:0",
+    "name": "Drugs Testing Laboratory",
+    "address": "FWXQ+PV4, Palayam Airport Rd",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:47:41.853025"
+  },
+  {
+    "place_id": "0x3b05bb1e67e65899:0",
+    "name": "Karthika physiotherapy clinic",
+    "address": "Karthika physiotherapy clinic, junction, near kseb tranfomer",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:47:40.647322"
+  },
+  {
+    "place_id": "0x3b05bb051f18b9b7:0",
+    "name": "Amma events",
+    "address": "Attukal",
+    "category": "Event management company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:47:39.488337"
+  },
+  {
+    "place_id": "0x3b05bb6422f0a63d:0",
+    "name": "RIZ'VENTZ",
+    "address": "Oxford Gardens 3",
+    "category": "Event planner",
+    "phone": "+91 81568 53236",
+    "website": null,
+    "discovered_at": "2026-11-17 08:47:38.281984"
+  },
+  {
+    "place_id": "0x3b05bb00116e0637:0",
+    "name": "HAJAR",
+    "address": "FWCX+P7P, Trivandrum Vizhinjam Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:47:37.120234"
+  },
+  {
+    "place_id": "0x3b05bb2836dc2811:0",
+    "name": "Kairali Apartment",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:47:35.948439"
+  },
+  {
     "place_id": "0x3b05bb0e6ce6f0d3:0",
     "name": "Laham",
     "address": "Opens 4 PM",
@@ -8926,77 +8998,5 @@
     "phone": "+91 94470 29398",
     "website": null,
     "discovered_at": "2026-11-17 03:17:06.631429"
-  },
-  {
-    "place_id": "0x3b05bbc0510c1293:0",
-    "name": "H & N READING ROOM KARAKKAMANDAPAM",
-    "address": "1st Floor, BNA Complex",
-    "category": "Studying center",
-    "phone": "+91 94954 45646",
-    "website": null,
-    "discovered_at": "2026-11-17 03:17:05.447577"
-  },
-  {
-    "place_id": "0x3b05bbba8fe9ae7d:0",
-    "name": "Guardian gym&fitness group",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:17:04.278776"
-  },
-  {
-    "place_id": "0x3b05ba9862086289:0",
-    "name": "Happy Sweets",
-    "address": "F272+GMX",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:09:27.702699"
-  },
-  {
-    "place_id": "0x87ee9faf46cec8cb:0",
-    "name": "Nan's Nummies",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:09:24.056080"
-  },
-  {
-    "place_id": "0x89cea5ec1a014785:0",
-    "name": "Café Lemont",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:09:22.749680"
-  },
-  {
-    "place_id": "0x87ee822ff87134f1:0",
-    "name": "Rising Sun Cafe",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:09:21.427416"
-  },
-  {
-    "place_id": "0x3b05bb9b8d44e5f7:0",
-    "name": "Apollo Pharmacy TRV International Arrivals Terminal 2",
-    "address": "L-70, Ground Floor, International Arrivals Terminal 2",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:09:20.089316"
-  },
-  {
-    "place_id": "0x3b05bb29939c4e79:0",
-    "name": "Apollo Pharmacy TRV Departures SHA Terminal 2",
-    "address": "L1-35, First Floor, Departures, SHA Terminal 2",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:09:18.818293"
   }
 ]
