@@ -1,5 +1,437 @@
 [
   {
+    "place_id": "0x3b05ad6d2ca4dc93:0",
+    "name": "Bezalel Travels Elamthottam",
+    "address": "",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:00:19.710752"
+  },
+  {
+    "place_id": "0x3b05bb3a1a982af5:0",
+    "name": "Akshaya Interior Designs",
+    "address": "Valiyavila, c-105/5",
+    "category": "Interior designer",
+    "phone": "+91 94465 93081",
+    "website": null,
+    "discovered_at": "2026-11-17 16:00:17.333519"
+  },
+  {
+    "place_id": "0x3b05ab007c045b45:0",
+    "name": "Sivaganga parassala",
+    "address": "84VW+8F3",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:00:15.999322"
+  },
+  {
+    "place_id": "0x3b05ba319f790e0d:0",
+    "name": "Vaidehi Associates",
+    "address": "B-2, TC94/1917, po",
+    "category": "Real estate agency",
+    "phone": "+91 94951 55621",
+    "website": null,
+    "discovered_at": "2026-11-17 16:00:14.331817"
+  },
+  {
+    "place_id": "0x3b05ab001e2dbd89:0",
+    "name": "Karali, Parassala",
+    "address": "Post Office, Anjith Bhavan",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:00:12.836943"
+  },
+  {
+    "place_id": "0x3b05ab00521f3caf:0",
+    "name": "Pasuvoorkonam,Kurumkutty, parassala",
+    "address": "85V3+62W, Sreevisakh, pasuvoorkonam",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:00:09.360967"
+  },
+  {
+    "place_id": "0x3b05ab0014b4df3b:0",
+    "name": "Grace Haven Parassala-Kovalam Road",
+    "address": "84MX+PPP, opposite CSI Institute of Legal Studies",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:00:07.704046"
+  },
+  {
+    "place_id": "0x3b05ab72f8df6fd9:0",
+    "name": "VOP Nair Parassala",
+    "address": "85V3+62W",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:00:06.401374"
+  },
+  {
+    "place_id": "0x3b05ab001c9bb5e7:0",
+    "name": "ACS Home parassala",
+    "address": "85X4+4PR",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:00:04.916398"
+  },
+  {
+    "place_id": "0x3b05abe04261cafd:0",
+    "name": "HOLY DALE",
+    "address": "HOLY DALE, NADAKKAVU LANE PONVILA",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:00:03.540883"
+  },
+  {
+    "place_id": "0x3b05ab00757b95eb:0",
+    "name": "SREE RUDRAM GRAMAM PARASSALA",
+    "address": "85R3+3XR, Temple Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:00:02.152509"
+  },
+  {
+    "place_id": "0x3b05ab0023b845d3:0",
+    "name": "KUDUMBAVILA PARASSALA",
+    "address": "VINOD KUMAR S S",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:00:00.795410"
+  },
+  {
+    "place_id": "0x3b05ba9097ea259d:0",
+    "name": "Jesus Driving School",
+    "address": "FX9X+R6F",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:59.446424"
+  },
+  {
+    "place_id": "0x3b05ab7233d157c7:0",
+    "name": "Sub Regional Transport Office Parassla",
+    "address": "",
+    "category": "Department of motor vehicles",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:58.035617"
+  },
+  {
+    "place_id": "0x3b05ab7128959749:0",
+    "name": "Bharatheeya Vidyapeedom Central School, Parassala,Thiruvananthapuram",
+    "address": "",
+    "category": "CBSE school",
+    "phone": "+91 81389 83746",
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:56.573522"
+  },
+  {
+    "place_id": "0x3b05bbaf775b2a99:0",
+    "name": "Aspire tuition centre",
+    "address": "Enra c25, elankathu nagar, Valiyavila, po",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:55.181886"
+  },
+  {
+    "place_id": "0x3b05bba7f2e07155:0",
+    "name": "Tuition for School Class and plus one and plus two Humanities. special tuition for English.",
+    "address": "Thamarakulam lane, Sankar Rd",
+    "category": "Private tutor",
+    "phone": "+91 82811 35614",
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:53.933975"
+  },
+  {
+    "place_id": "0x3b05bbbc0599aa5d:0",
+    "name": "Vidhya Tuition Center",
+    "address": "MPRA 132, Kalakaumudi Ln",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:52.688796"
+  },
+  {
+    "place_id": "0x3b05bb3d103bf3eb:0",
+    "name": "Learn with Vicky (commerce & Humanities Tuition)",
+    "address": "",
+    "category": "Coaching center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:51.289714"
+  },
+  {
+    "place_id": "0x3b05bb3a44996229:0",
+    "name": "Science Plus Home Tuition",
+    "address": "prasadam pallystreet, Ppra 92, po",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:50.050102"
+  },
+  {
+    "place_id": "0x3b05abcddd5af9ad:0",
+    "name": "Sreejith Welding Workshop",
+    "address": "via NH 66 road, junction, opposite Star Lodge, Parassala Parassala Kollamkod, Rod",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:48.782101"
+  },
+  {
+    "place_id": "0x3b05abb06bc8284f:0",
+    "name": "JUSTIN TEXTILES",
+    "address": "Justin Textiles, Oorambu Road",
+    "category": "Clothing store",
+    "phone": "+91 94871 13586",
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:47.405857"
+  },
+  {
+    "place_id": "0x3b05ab003f550fbd:0",
+    "name": "Chellayyan Fruit Mixed Sarbath Stall",
+    "address": "85V5+PCM, Parassala Vellarada Rd",
+    "category": "Ice cream shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:46.133451"
+  },
+  {
+    "place_id": "0x3b05ab65a2acd9d1:0",
+    "name": "Akshara BAKERY",
+    "address": "9527+JCQ, Parassala Vellarada Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:44.917180"
+  },
+  {
+    "place_id": "0x3b05bb0032459ed5:0",
+    "name": "Apollo Pharmacy Paruthikuzhy",
+    "address": "7/1093/2, ByPass, NH Bypass Service Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:43.078906"
+  },
+  {
+    "place_id": "0x3b05ad211c0c095d:0",
+    "name": "Punartham Clinical Laboratory",
+    "address": "Parassala Vellarada Rd",
+    "category": "Medical laboratory",
+    "phone": "+91 95628 28210",
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:41.679020"
+  },
+  {
+    "place_id": "0x3b05acea4708f2ad:0",
+    "name": "GOOD VISION OPTICALS & EYE CARE CENTRE",
+    "address": "95P9+HRV, Parassala Vellarada Rd",
+    "category": "Optician",
+    "phone": "+91 95263 68338",
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:40.420214"
+  },
+  {
+    "place_id": "0x3b05ab725f4f3b8d:0",
+    "name": "Dr.Praveena Mohan,USHUS,Kadaivila.",
+    "address": "85V3+CCJ",
+    "category": "Doctor",
+    "phone": "+91 75610 66727",
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:39.157366"
+  },
+  {
+    "place_id": "0x3b05ab746ab160c3:0",
+    "name": "Dr Shaji",
+    "address": "Govt Hospital, Junction",
+    "category": "General practitioner",
+    "phone": "+91 94461 01834",
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:37.857310"
+  },
+  {
+    "place_id": "0x3b05b71c0f73255b:0",
+    "name": "VINAYAKA AGENCIES poovachal kattakada",
+    "address": "Pulincodu - Anacodu Rd",
+    "category": "Parking lot",
+    "phone": "+91 97460 80175",
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:36.534271"
+  },
+  {
+    "place_id": "0x3b05b1d83a57a92f:0",
+    "name": "VISMAYA EVENT CENTRE KATTAKADA",
+    "address": "opp. KSRTC BUS STAND",
+    "category": "Event venue",
+    "phone": "+91 85930 11125",
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:35.254680"
+  },
+  {
+    "place_id": "0x3b05bb503ce63a77:0",
+    "name": "Mantra events& caterers",
+    "address": "Mantra events& caterers, Mangattukadavu Thirumala Rd",
+    "category": "Event planner",
+    "phone": "+91 97464 86851",
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:33.939915"
+  },
+  {
+    "place_id": "0x3b05b1005437dd85:0",
+    "name": "Kattakada KSR",
+    "address": "F3PX+2MG",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:32.671442"
+  },
+  {
+    "place_id": "0x3b05b10046262fc7:0",
+    "name": "Sajimon kattakada",
+    "address": "G33P+835 Saji bhavan",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:31.383497"
+  },
+  {
+    "place_id": "0x3b05b16a6fe163db:0",
+    "name": "Alan Towers",
+    "address": "Thiruvananthapuram - Neyyar Dam Rd, opposite Police Station",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:30.135654"
+  },
+  {
+    "place_id": "0x3b05b1001fed0757:0",
+    "name": "Arun Bhavan myladi kattakada",
+    "address": "G34G+HPV, PNM Hospital Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:28.899618"
+  },
+  {
+    "place_id": "0x3b05bbe5890a7eaf:0",
+    "name": "SHAMEEM KATTAKADA",
+    "address": "GXG8+2XF",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:27.597258"
+  },
+  {
+    "place_id": "0x3b05b1002078a231:0",
+    "name": "Ameen kattakada home",
+    "address": "G328+QM5",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:26.313073"
+  },
+  {
+    "place_id": "0x3b05b10058485547:0",
+    "name": "Kattakada Gudhus Home",
+    "address": "G35J+F3V",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:24.984077"
+  },
+  {
+    "place_id": "0x3b05b1004c128317:0",
+    "name": "Kattakada kuzhalar",
+    "address": "Pp 18, 510 Kuzhalar, near CSI Church",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:23.719629"
+  },
+  {
+    "place_id": "0x3b05b100235a6473:0",
+    "name": "Adithyan s home kattakkada",
+    "address": "G32G+J36",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:22.462046"
+  },
+  {
+    "place_id": "0x3b05b115219aa1f5:0",
+    "name": "Lakshmi Vilasom",
+    "address": "G34H+C59, opposite Petrol Pump",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:21.157948"
+  },
+  {
+    "place_id": "0x3b05b10055522023:0",
+    "name": "Rajimon Kattakada",
+    "address": "F3VX+F44, Thoongampara Road",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:19.753573"
+  },
+  {
+    "place_id": "0x3b05b1003563dfc7:0",
+    "name": "Sajimon Kattakada",
+    "address": "F3VX+F44, Mangalackal Thoongampara Road",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:18.470167"
+  },
+  {
+    "place_id": "0x3b05b1aa33207287:0",
+    "name": "RTO KATTAKADA",
+    "address": "G35J+C4W",
+    "category": "Department of motor vehicles",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:17.067853"
+  },
+  {
+    "place_id": "0x3b05b131a1b80e8d:0",
+    "name": "THE ATOM Daycare & Learning Centre",
+    "address": "Vimal Bhavan, KRA - 15, Kanchiyoorkonam Rd",
+    "category": "Day care center",
+    "phone": "+91 88480 39392",
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:15.692811"
+  },
+  {
+    "place_id": "0x3b05b1ce95b1bae3:0",
+    "name": "Mirror Beauty Spa",
+    "address": "Kattakada",
+    "category": "Tailor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:14.409888"
+  },
+  {
+    "place_id": "0x3b05b1264c066bbf:0",
+    "name": "Iconic Sports Hub",
+    "address": "G377+6M",
+    "category": "Sports club",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:59:13.105220"
+  },
+  {
     "place_id": "0x3b05b7d26912a885:0",
     "name": "ZENERAH",
     "address": "Kattakkada Kottoor Rd",
@@ -8566,437 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:43:18.725129"
-  },
-  {
-    "place_id": "0x3b05af354d4c6489:0",
-    "name": "TEA SQUARE",
-    "address": "TEA SQUARE THE JUCY HUB, Parassala Thiruvananthapuram NH Road",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.719115"
-  },
-  {
-    "place_id": "0x3b05ada2450562dd:0",
-    "name": "Apollo 24|7 Lab Test | Kannumamoodu | Kanyakumari",
-    "address": "Servay Numer 115/23, Road",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.712590"
-  },
-  {
-    "place_id": "0x3b05adf27850db91:0",
-    "name": "Specsmart Eyeclinic",
-    "address": "opposite panchayat complex, near Karakonam Medical College Quarters Road",
-    "category": "Eye care center",
-    "phone": "+91 81139 00390",
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.708560"
-  },
-  {
-    "place_id": "0x3b05ab60089a35d9:0",
-    "name": "Dr Sumi physio clinic & Rehabilitation centre",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": "+91 97514 46336",
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.703898"
-  },
-  {
-    "place_id": "0x3b05ab7bbe0b8a4f:0",
-    "name": "R. V PHYSIOTHERAPY CLINIC. ஆர். வி வலி நிவாரண & முடநீக்கியல் மையம் ( ஆர். வி பிஸியோதெரபி கிளினிக் )",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.702039"
-  },
-  {
-    "place_id": "0x3b05b1402f59494f:0",
-    "name": "S.R. Air Travels",
-    "address": "G35J+HM6",
-    "category": "Travel agency",
-    "phone": "+91 94962 55050",
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.692560"
-  },
-  {
-    "place_id": "0x3b05b3034cc395b9:0",
-    "name": "Firststeps builders.... your dreams ahead,🙂",
-    "address": "Mangalakkal, post",
-    "category": "Construction company",
-    "phone": "+91 98955 61917",
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.684001"
-  },
-  {
-    "place_id": "0x3b05b31cbf18bd6f:0",
-    "name": "Dream Drive Motor Driving School",
-    "address": "G4FC+XJM, Thiruvananthapuram - Neyyar Dam Rd",
-    "category": "Driving school",
-    "phone": "+91 90747 46791",
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.681300"
-  },
-  {
-    "place_id": "0x3b05b16d25bf4a7b:0",
-    "name": "PR Classes",
-    "address": "Kanchiyoorkonam Rd",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.677892"
-  },
-  {
-    "place_id": "0x3b05b163edbf6187:0",
-    "name": "Hiluxe Unisex Salon",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.675079"
-  },
-  {
-    "place_id": "0x3b05b0f434248575:0",
-    "name": "white Magic Hair &beauty spot",
-    "address": "Valiyarathala - Kanavila - Malayinkeezhu Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.668803"
-  },
-  {
-    "place_id": "0x3b05bbc535e09457:0",
-    "name": "KADHALI MARGINFREE SUPERMARKET",
-    "address": "SUKU BHAVAN, FIRST FLOOR PLAVILA JUNCTION, Thirumala-Thrikkannapuram Rd",
-    "category": "Grocery store",
-    "phone": "+91 96335 76024",
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.665005"
-  },
-  {
-    "place_id": "0x3b05b7cbbd7f2947:0",
-    "name": "Bhakthas Super Market",
-    "address": "H482+R8H, Kattakada - Kuttichal Rd",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.663463"
-  },
-  {
-    "place_id": "0x3b05b1007a9431f9:0",
-    "name": "AMA Fancy",
-    "address": "F2QP+5VG",
-    "category": "Jewelry store",
-    "phone": "+91 79072 24245",
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.661147"
-  },
-  {
-    "place_id": "0x3b05b1427017f6f9:0",
-    "name": "Tassel Fabrics",
-    "address": "Tassel Fabrics, Market Rd",
-    "category": "Clothing store",
-    "phone": "+91 81568 89333",
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.650012"
-  },
-  {
-    "place_id": "0x3b05b1362a471779:0",
-    "name": "Cup Juice shop",
-    "address": "One Step Tower, 6/344, near petrol pump",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.646427"
-  },
-  {
-    "place_id": "0x3b05b1049b381923:0",
-    "name": "AISWARYA BAKERY & STORES",
-    "address": "F3W7+332, Thiruvananthapuram - Neyyar Dam Rd, near Juma Masjid",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.640815"
-  },
-  {
-    "place_id": "0x3b05b5cdd4e784b1:0",
-    "name": "Cake's at Home",
-    "address": "Thachancod Road",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.639555"
-  },
-  {
-    "place_id": "0x3b05b16ae980d80b:0",
-    "name": "KSRTC CANTEEN KATTAKADA",
-    "address": "",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.633810"
-  },
-  {
-    "place_id": "0x3b05b1f975076ba3:0",
-    "name": "Fil Fil Restaurant",
-    "address": "Market Rd",
-    "category": "Indian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.632476"
-  },
-  {
-    "place_id": "0x3b05c507368833f3:0",
-    "name": "National Scans & Diagnostic Services",
-    "address": "",
-    "category": "Medical diagnostic imaging center",
-    "phone": "+91 80867 89444",
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.624976"
-  },
-  {
-    "place_id": "0x3b05b11ddbf4e255:0",
-    "name": "Timida Opticals Peyad",
-    "address": "Opp Bus Stop, Peyad Junction, Thiruvananthapuram - Neyyar Dam Rd",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.621164"
-  },
-  {
-    "place_id": "0x3b05b1ae1e9cc74d:0",
-    "name": "Isha physiotherapy centre",
-    "address": "Closes 6 PM",
-    "category": "Open",
-    "phone": "+91 70120 53421",
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.613057"
-  },
-  {
-    "place_id": "0x3b05b100391fcd7b:0",
-    "name": "Harsha Dental clinic",
-    "address": "F2X6+2X4",
-    "category": "Dental clinic",
-    "phone": "+91 70129 20129",
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.609415"
-  },
-  {
-    "place_id": "0x3b05b1ef973937ed:0",
-    "name": "Dr Anand's Care Multispeciality Dental Clinic",
-    "address": "Care Multispeciality Dental Clinic",
-    "category": "Dental clinic",
-    "phone": "+91 88482 63942",
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.608443"
-  },
-  {
-    "place_id": "0x3b05b0a4fe515e7d:0",
-    "name": "SMILE DENTAL CLINIC & IMPLANTOLOGY CENTRE( Multi-speciality)",
-    "address": "Junction, near SP theatre",
-    "category": "Dental clinic",
-    "phone": "+91 80752 40844",
-    "website": null,
-    "discovered_at": "2026-11-17 05:43:18.607065"
-  },
-  {
-    "place_id": "0x3b05bb00774af973:0",
-    "name": "Sankar and Moorthy Chartered Accountants",
-    "address": "FXVH+XP3",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.564931"
-  },
-  {
-    "place_id": "0x3b05a99c11c17db5:0",
-    "name": "Kayaloram Backwaters",
-    "address": "Club mahindra resort road, parayanvila",
-    "category": "Boat club",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.563785"
-  },
-  {
-    "place_id": "0x3b05a924645f1d6b:0",
-    "name": "Poovar Boating",
-    "address": "Poovar - Uchakada Rd, near by Club Mahindra Resort",
-    "category": "Sightseeing tour agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.562475"
-  },
-  {
-    "place_id": "0x3b05a90e977f836d:0",
-    "name": "Poovar island cruise",
-    "address": "",
-    "category": "Boat tour agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.560620"
-  },
-  {
-    "place_id": "0x3b05a97dbd807dcd:0",
-    "name": "Aloha Group",
-    "address": "Poovar - Neyyatinkara Rd",
-    "category": "Event management company",
-    "phone": "+91 82814 28636",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.556715"
-  },
-  {
-    "place_id": "0x3b05b8d6cd4cd791:0",
-    "name": "3D Bricks",
-    "address": "Church, Puthukunnu (Near Puthukunnu, TVM",
-    "category": "Interior designer",
-    "phone": "+91 81369 92976",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.551291"
-  },
-  {
-    "place_id": "0x3b05bb2fada8992f:0",
-    "name": "VKR Interiors",
-    "address": "TC 47, VKR interiors, 245, near St.Mary's School",
-    "category": "Interior designer",
-    "phone": "+91 79028 05777",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.549416"
-  },
-  {
-    "place_id": "0x3b05bf007ccbaddb:0",
-    "name": "Poovar",
-    "address": "GVHQ+R22, GB Rd",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.545079"
-  },
-  {
-    "place_id": "0x3b05b9523ac5e113:0",
-    "name": "Sherly’s Tuition Centre",
-    "address": "HX3V+48J",
-    "category": "Tutoring service",
-    "phone": "+91 94463 29863",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.540984"
-  },
-  {
-    "place_id": "0x3b05b889733a7f93:0",
-    "name": "Mary Matha Tuition Centre",
-    "address": "Closes 8:30 PM",
-    "category": "Open",
-    "phone": "+91 94958 24954",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.539904"
-  },
-  {
-    "place_id": "0x3b05bdbf54378421:0",
-    "name": "Tuition Centre",
-    "address": "GV9H+XHW, Veli - Perumathura Rd",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.538738"
-  },
-  {
-    "place_id": "0x3b05a9e8a433beef:0",
-    "name": "Dreamztree Training Academy and Consultancy, Trivandrum",
-    "address": "Poovar - Vizhinjam Rd",
-    "category": "Educational institution",
-    "phone": "+91 90728 56112",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.537600"
-  },
-  {
-    "place_id": "0x3b05a92d8717d363:0",
-    "name": "CITADEL",
-    "address": "",
-    "category": "Educational institution",
-    "phone": "+91 90743 43769",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.536129"
-  },
-  {
-    "place_id": "0x3b05bba6e7260b1f:0",
-    "name": "Soldiers gym poojappura",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.533212"
-  },
-  {
-    "place_id": "0x3b05a55c75085bc9:0",
-    "name": "Workout Warriors",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.532200"
-  },
-  {
-    "place_id": "0x3b05bb35e09f3449:0",
-    "name": "Fitness first",
-    "address": "Ambalathara bypass road, NH Bypass Service Rd, opposite Cordova school",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.531060"
-  },
-  {
-    "place_id": "0x3b05ba507796b5c3:0",
-    "name": "Arrows Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.529604"
-  },
-  {
-    "place_id": "0x3b05b7dd04a28773:0",
-    "name": "INSIGHT FITNESS GYM",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.528551"
-  },
-  {
-    "place_id": "0x3b05afa894eed143:0",
-    "name": "Sai Beauty Studio",
-    "address": "Vivekananda Nagar, Balaramapuram - Poovar Rd, near Sree Vivekananda Memorial Public School Aralummoodu",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.526255"
-  },
-  {
-    "place_id": "0x3b04530046d91e89:0",
-    "name": "S R HYPER MARKET",
-    "address": "S R HYPER MARKET",
-    "category": "Supermarket",
-    "phone": "+91 97784 80098",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.524344"
-  },
-  {
-    "place_id": "0x3b05b8d6b57d9cb3:0",
-    "name": "Margin Free Supermarket",
-    "address": "Closes 8:30 PM",
-    "category": "Open",
-    "phone": "+91 98474 88357",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.522163"
-  },
-  {
-    "place_id": "0x3b05a53cdb8f85c7:0",
-    "name": "ASN Supermarket",
-    "address": "Poonkulam",
-    "category": "Supermarket",
-    "phone": "+91 94475 57927",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.520919"
   }
 ]
