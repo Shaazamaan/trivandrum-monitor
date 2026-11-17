@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05b96a81d86671:0",
+    "name": "PRISTINE INFRASTRUCTURE",
+    "address": "",
+    "category": "Construction company",
+    "phone": "+91 96454 56712",
+    "website": null,
+    "discovered_at": "2026-11-17 08:33:28.422964"
+  },
+  {
+    "place_id": "0x3b05bb0015191a17:0",
+    "name": "Swagath nagar, VARA 377,",
+    "address": "Karimankulam Temple Road, Lane, 4, Vattiyoorkkav-Arappura Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:33:27.182975"
+  },
+  {
+    "place_id": "0x3b05bb007e02de57:0",
+    "name": "Konathu Puthen Veedu Thittamangalam",
+    "address": "G272+HJW G272+HJHKundamankadavu Vattiyoorkavu",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:33:25.925481"
+  },
+  {
+    "place_id": "0x3b05b90034a95a31:0",
+    "name": "Asif Ali, Marhaba",
+    "address": "CRA 121, Kavalloor Ln",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:33:24.698910"
+  },
+  {
+    "place_id": "0x3b05bb396b4fc6c1:0",
+    "name": "HEVA Constructions",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:33:23.455307"
+  },
+  {
+    "place_id": "0x3b05b9c9060cf961:0",
+    "name": "AnilPillai",
+    "address": "GXRQ+272",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:33:21.304473"
+  },
+  {
+    "place_id": "0x3b05b900579c5321:0",
+    "name": "Sadgamaya, chitra nagar",
+    "address": "G7, Chithra Nagar Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:33:20.062542"
+  },
+  {
+    "place_id": "0x3b05b91425145f7d:0",
+    "name": "Iris Furniture And HomE Appliance",
+    "address": "GXPR+F7R",
+    "category": "Furniture accessories",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 08:33:18.857019"
+  },
+  {
     "place_id": "0x3b05b9a719a93717:0",
     "name": "Mahadeva Clinical lab",
     "address": "Trivandrum",
@@ -8926,77 +8998,5 @@
     "phone": "+91 94963 65629",
     "website": null,
     "discovered_at": "2026-11-17 03:09:15.518076"
-  },
-  {
-    "place_id": "0x3b05bafa610240fd:0",
-    "name": "AKSHAYA COMMUNITY PHARMACY",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": "+91 94002 27775",
-    "website": null,
-    "discovered_at": "2026-11-17 03:09:14.274987"
-  },
-  {
-    "place_id": "0x3b05bb003e89b3e3:0",
-    "name": "Neeithi Lab blood test centre",
-    "address": "1St Floor, Muruka Towers, 50/2542, opposite Police Station",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:09:13.054041"
-  },
-  {
-    "place_id": "0x3b05bb60eb21a01d:0",
-    "name": "Neuberg Diagnostics - Blood Tests, CBC Tests & Full Body Checkup",
-    "address": "Door No. 65/1084, Dhruvam Arcade, Post office, beside Thiruvallam",
-    "category": "Diagnostic center",
-    "phone": "+91 90355 11348",
-    "website": null,
-    "discovered_at": "2026-11-17 03:09:11.620716"
-  },
-  {
-    "place_id": "0x3b05bb79c8b80357:0",
-    "name": "DDRC Agilus Diagnostics, Ambalathara",
-    "address": "FX32+2C7",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:09:10.432858"
-  },
-  {
-    "place_id": "0x3b05bf47600796bd:0",
-    "name": "Medimark laboratory",
-    "address": "Closes 7 PM",
-    "category": "Open",
-    "phone": "+91 94460 00094",
-    "website": null,
-    "discovered_at": "2026-11-17 03:09:09.199273"
-  },
-  {
-    "place_id": "0x87ef3aac3e120675:0",
-    "name": "Whylie Eye Care Centers",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:09:07.994016"
-  },
-  {
-    "place_id": "0x87ebe2ebe9318e69:0",
-    "name": "Family Eye Care of Osceola PC",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:09:06.790963"
-  },
-  {
-    "place_id": "0x87ec4ad6ad2e4005:0",
-    "name": "Eye Care Associates",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:09:05.574760"
   }
 ]
