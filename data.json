@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb0073142b15:0",
+    "name": "Lulu moll",
+    "address": "GWFP+MJ8",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 02:12:14.817936"
+  },
+  {
     "place_id": "0x8784db5614e4c537:0",
     "name": "O'Neill Travelnow",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:01:31.078823"
-  },
-  {
-    "place_id": "0x7cf781ac993de75:0",
-    "name": "Ashley Brockman, A&T Home Group Realtor, San Antonio",
-    "address": "Opens 8 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:29.847083"
   }
 ]
