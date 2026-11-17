@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bfb7a3c995d7:0",
+    "name": "Trivandrum Traders & Super Market",
+    "address": "Junction",
+    "category": "Supermarket",
+    "phone": "+91 97453 54545",
+    "website": null,
+    "discovered_at": "2026-11-17 16:28:44.602291"
+  },
+  {
+    "place_id": "0x3b05bb2c612296c7:0",
+    "name": "Sha bakery",
+    "address": "Tc 8/1055(5, near muthoot",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:28:43.366576"
+  },
+  {
+    "place_id": "0x3b05bb6869894d31:0",
+    "name": "Team Signature Events and caterers",
+    "address": "+91 81369 08598",
+    "category": "Open 24 hours",
+    "phone": "+91 81369 08598",
+    "website": null,
+    "discovered_at": "2026-11-17 16:28:42.033730"
+  },
+  {
+    "place_id": "0x3b05bb0f23dd7247:0",
+    "name": "Fair Beauty Salon",
+    "address": "FXG2+C4G Fair beauty Salon",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:28:40.744268"
+  },
+  {
     "place_id": "0x3b05bb00561f26cd:0",
     "name": "BLENDO BAR",
     "address": "FWJM+3Q8, Akshara Veedi",
@@ -8962,41 +8998,5 @@
     "phone": "+91 90611 21108",
     "website": null,
     "discovered_at": "2026-11-17 05:49:56.297561"
-  },
-  {
-    "place_id": "0x3b05bb24eaaaaaab:0",
-    "name": "Sree Vigneswara Driving School",
-    "address": "opp. ORILA restuarent",
-    "category": "Driving school",
-    "phone": "+91 88483 79600",
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.290698"
-  },
-  {
-    "place_id": "0x3b05b8d6cd4cd741:0",
-    "name": "Achutham Driving School",
-    "address": "Closes 6:30 PM",
-    "category": "Open",
-    "phone": "+91 98479 07262",
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.289743"
-  },
-  {
-    "place_id": "0x3b05b91177944785:0",
-    "name": "JAYA MOTOR DRIVING SCHOOL",
-    "address": "Madathunada-Pathirippally Road",
-    "category": "Driving school",
-    "phone": "+91 94956 25892",
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.288370"
-  },
-  {
-    "place_id": "0x3b05ad5df2ac3405:0",
-    "name": "Future Plus Tuition Center",
-    "address": "95G9+F4W, Parassala Vellarada Rd",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.286444"
   }
 ]
