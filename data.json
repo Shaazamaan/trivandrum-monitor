@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05ab8392346fa7:0",
+    "name": "Valentina Bake & Cafe",
+    "address": "Manvila, Junction, Sreekaryam - Kulathoor Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:53:07.308349"
+  },
+  {
     "place_id": "0x3b05bd0000a89339:0",
     "name": "Pulayanarkotta",
     "address": "GWF7+5C8, Ulloor - Akkulam Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:56:54.438432"
-  },
-  {
-    "place_id": "0x3b05b95426ce4d45:0",
-    "name": "Sports Life Fitness Centre",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.434348"
   }
 ]
