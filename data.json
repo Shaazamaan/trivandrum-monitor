@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x89ac5935416beac7:0",
+    "name": "Clean Juice",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:57:13.512768"
+  },
+  {
+    "place_id": "0x3b05bba1f3968031:0",
+    "name": "Sreekanteswara juice junction",
+    "address": "Closes 1 AM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:57:12.165688"
+  },
+  {
+    "place_id": "0x89acdd540e0ab6fd:0",
+    "name": "Clean Juice",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:57:10.934759"
+  },
+  {
+    "place_id": "0x89b117e82827aa4f:0",
+    "name": "Ms. Bee's Juice Bar",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:57:09.703156"
+  },
+  {
+    "place_id": "0x89ace378f8f2bfb1:0",
+    "name": "Playa Bowls",
+    "address": "",
+    "category": "Health food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:57:08.283878"
+  },
+  {
+    "place_id": "0x3b05bba024a8601d:0",
+    "name": "Samskritha Bhojanalaya",
+    "address": "",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:57:06.818555"
+  },
+  {
+    "place_id": "0x89b2603597d9ddf1:0",
+    "name": "Morris Bryan DVM",
+    "address": "",
+    "category": "Veterinarian",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:57:05.573311"
+  },
+  {
     "place_id": "0x3b05bb005e4319ad:0",
     "name": "Signature sip cafe",
     "address": "Appu building, Women's College Ln",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:01:26.106036"
-  },
-  {
-    "place_id": "0x865c65038198745f:0",
-    "name": "Double G Driving Academy",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:24.681848"
-  },
-  {
-    "place_id": "0x865cf52d6e0457ad:0",
-    "name": "Texas Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:23.395543"
-  },
-  {
-    "place_id": "0x865c66d04ac1b919:0",
-    "name": "Ayala & Associates Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:22.068093"
-  },
-  {
-    "place_id": "0x3b05bb7a16e6a8e3:0",
-    "name": "Wayvida",
-    "address": "",
-    "category": "Education center",
-    "phone": "+91 90728 67878",
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:20.737314"
-  },
-  {
-    "place_id": "0x865c6047a812ea45:0",
-    "name": "Fitness Connection",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:19.423176"
-  },
-  {
-    "place_id": "0x865cf5fcdddcc4c1:0",
-    "name": "The Yard Gym Broadway",
-    "address": "1101 Broadway",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:18.195593"
-  },
-  {
-    "place_id": "0x3b07cdcc368f1e3d:0",
-    "name": "Reliance SMART Superstore",
-    "address": "",
-    "category": "Hypermarket",
-    "phone": "+91 99950 63092",
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:16.928294"
   }
 ]
