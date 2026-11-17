@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05e9e88eedd9c9:0",
+    "name": "JANASHRAYA COMMUNITY PHARMACY",
+    "address": "MRV7+P5X & Reserch Institute, Attingal Medical Center, Palace Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:29:02.036511"
+  },
+  {
+    "place_id": "0x3b05e527f1aea26b:0",
+    "name": "surfsupandbeyond private limited",
+    "address": "",
+    "category": "Surf school",
+    "phone": "+91 97443 81542",
+    "website": null,
+    "discovered_at": "2026-11-17 15:29:00.789970"
+  },
+  {
+    "place_id": "0x3b05ef6c211d52c7:0",
+    "name": "Lime Spa Salon&Spa",
+    "address": "Helipad",
+    "category": "Day spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 15:28:59.615003"
+  },
+  {
     "place_id": "0x3b05bb664dbf9c4b:0",
     "name": "MH Cafe",
     "address": "Mens Hostel, Medical College, Medical College Kumarapuram Rd, opposite Jayaram bakery",
@@ -8971,32 +8998,5 @@
     "phone": "+91 70255 44447",
     "website": null,
     "discovered_at": "2026-11-17 05:36:20.462281"
-  },
-  {
-    "place_id": "0x3b05bbd319a6f557:0",
-    "name": "Marvel Tours Trivandrum",
-    "address": "Premis, Mulloor P.O, MTRA 17",
-    "category": "Tour operator",
-    "phone": "+91 98479 35345",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.461198"
-  },
-  {
-    "place_id": "0x3b05af5688620ccd:0",
-    "name": "Techniture Interior And Kitchen",
-    "address": "445/A, Pallichal - Vizhinjam Rd",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.455513"
-  },
-  {
-    "place_id": "0x3b05af0027c4791d:0",
-    "name": "SANTHOSH KUMAR T V, KARTHIKA",
-    "address": "Mulloor P O",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.454002"
   }
 ]
