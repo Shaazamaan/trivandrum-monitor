@@ -1,5 +1,644 @@
 [
   {
+    "place_id": "0x3b05c345e34523a3:0",
+    "name": "Vastré Clothing",
+    "address": "KALLAMBALAM ROAD",
+    "category": "Clothing store",
+    "phone": "+91 62389 93631",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.261187"
+  },
+  {
+    "place_id": "0x3b05e7180b9069eb:0",
+    "name": "Krishnakripa Textiles & Fancy Store",
+    "address": "near Ammankovil",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.258608"
+  },
+  {
+    "place_id": "0x3b05e900689dab63:0",
+    "name": "SODA mukku",
+    "address": "QR8F+PFF",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.256970"
+  },
+  {
+    "place_id": "0x3b05e9b00ef9f58b:0",
+    "name": "Rawabi Bakers",
+    "address": "alamcode p.o",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.250903"
+  },
+  {
+    "place_id": "0x3b05e81147881061:0",
+    "name": "BALAKE & SHAKE",
+    "address": "QR76+C27, Kallambalam - Nagaroor Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.249384"
+  },
+  {
+    "place_id": "0x3b05af35121c7d13:0",
+    "name": "Baked Cakes and Pastries Balaramapuram",
+    "address": "Baked Cakes And Pastries",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.248138"
+  },
+  {
+    "place_id": "0x3b05e9cc1208a9c3:0",
+    "name": "Sweet layers cakes",
+    "address": "Closes 10:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.246545"
+  },
+  {
+    "place_id": "0x3b05c3c32cc5120f:0",
+    "name": "Poikavila",
+    "address": "PRRR+QJ4, Kallambalam - Nagaroor Rd",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.244052"
+  },
+  {
+    "place_id": "0x3b05e900383e991f:0",
+    "name": "Rebloom Cafe",
+    "address": "Palachira.Jn, Varkala Kallambalam Rd",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.242714"
+  },
+  {
+    "place_id": "0x3b05c281b3ab8965:0",
+    "name": "HIDEOUT Cafe",
+    "address": "",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.239969"
+  },
+  {
+    "place_id": "0x3b05e9004b0c0c3f:0",
+    "name": "Malabar Mood Cafe",
+    "address": "",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.238028"
+  },
+  {
+    "place_id": "0x3b05e8dbf58e2c39:0",
+    "name": "Al-Jaseer Restaurant",
+    "address": "",
+    "category": "Biryani restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.236133"
+  },
+  {
+    "place_id": "0x3b05e8689fbb28bf:0",
+    "name": "Veterinary Hospital",
+    "address": "QQ6R+6JC",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.232766"
+  },
+  {
+    "place_id": "0x3b05e8668a8d8ccd:0",
+    "name": "Government Veterinary Hospital .KALLAMBALAM",
+    "address": "QQ6Q+7C3",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.231515"
+  },
+  {
+    "place_id": "0x3b05e9973c58f9d7:0",
+    "name": "Sree vinayaka Medicals",
+    "address": "Shop No 34, Roadu, Vishwas Mini Auditorium, Vattaplamoodu, Palachira - Karathala -Thettikulam Rd",
+    "category": "Pharmacy",
+    "phone": "+91 98957 42634",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.230135"
+  },
+  {
+    "place_id": "0x3b05e865e75dbaff:0",
+    "name": "Parvathy Vetinary Medical Shop",
+    "address": "Varkala Kallambalam Rd",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.228747"
+  },
+  {
+    "place_id": "0x3b05e9c496b228cd:0",
+    "name": "E.A. Razak Medicals",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": "+91 99952 59959",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.227131"
+  },
+  {
+    "place_id": "0x3b05e90074107fd7:0",
+    "name": "KAUSTUBHAM AYURVEDA CLINIC",
+    "address": "PQV5+644",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.214854"
+  },
+  {
+    "place_id": "0x3b05e9007075faef:0",
+    "name": "Aidan Dental Clinic and Orthodontic Centre",
+    "address": "PRW2+W3P",
+    "category": "Dental clinic",
+    "phone": "+91 82818 10990",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.207814"
+  },
+  {
+    "place_id": "0x3b05befa595b9f9f:0",
+    "name": "Guidehouse India Private Limited Bhavani",
+    "address": "",
+    "category": "BPO company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.204805"
+  },
+  {
+    "place_id": "0x3b05bbe61a230b57:0",
+    "name": "Dazzling Holidays Pvt. Ltd.",
+    "address": "Ambujavilasam Rd",
+    "category": "Tour operator",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.193305"
+  },
+  {
+    "place_id": "0x3b05cf6a0759a68b:0",
+    "name": "Krishna Tours & Travels",
+    "address": "Krishna Prasadam Building",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.191461"
+  },
+  {
+    "place_id": "0x3b05cdb62f41284d:0",
+    "name": "IDAM HOMESTAY PONMUDI",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.189856"
+  },
+  {
+    "place_id": "0x3b05b92cae62e817:0",
+    "name": "Abraham John",
+    "address": "HX2P+65G, Thiruvananthapuram - Ponmudi Rd",
+    "category": "Housing society",
+    "phone": "+91 85477 00745",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.178829"
+  },
+  {
+    "place_id": "0x3b05bdea9a819a87:0",
+    "name": "Mannat Residence",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 87149 52544",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.177444"
+  },
+  {
+    "place_id": "0x3b05b94f43e29437:0",
+    "name": "SAMAIRA PROPERTIES PVT LTD",
+    "address": "VH14, Vikramapuram Hill Rd",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.175762"
+  },
+  {
+    "place_id": "0x3b05bb004a88a921:0",
+    "name": "Apartment rental in Trivandrum",
+    "address": "GW4Q+JJV, Mulavana Juntion, Vanchiyoor, P.O",
+    "category": "Condominium rental agency",
+    "phone": "+91 98467 83419",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.174609"
+  },
+  {
+    "place_id": "0x3b05b9ded51cfc49:0",
+    "name": "Cordial Properties",
+    "address": "",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.173317"
+  },
+  {
+    "place_id": "0x3b05c48309418ed7:0",
+    "name": "Prarthana Motor Driving School",
+    "address": "Closes 6 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.167957"
+  },
+  {
+    "place_id": "0x3b05b9b9f3cb8969:0",
+    "name": "ANANDHU MOTOR DRIVING SCHOOL",
+    "address": "HWQC+JHM, Chempazhanthy",
+    "category": "Driving school",
+    "phone": "+91 88486 75792",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.165640"
+  },
+  {
+    "place_id": "0x3b05b95d15c82683:0",
+    "name": "Gokrishna Motor Driving School",
+    "address": "P.O, Puthukunnu",
+    "category": "Driving school",
+    "phone": "+91 90373 14781",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.162766"
+  },
+  {
+    "place_id": "0x3b05b9e8a300d13f:0",
+    "name": "RK tuition centre",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": "+91 98955 54122",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.159444"
+  },
+  {
+    "place_id": "0x3b05b9c35835a539:0",
+    "name": "RAM Entrance Coaching",
+    "address": "GWMH+MC4",
+    "category": "Education center",
+    "phone": "+91 96456 30330",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.157936"
+  },
+  {
+    "place_id": "0x3b05bb425cdcefbf:0",
+    "name": "Ajinorah Institutions",
+    "address": "",
+    "category": "Education center",
+    "phone": "+91 79016 02000",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.156104"
+  },
+  {
+    "place_id": "0x3b05bb57baa42ce7:0",
+    "name": "Commerce Tuition Center",
+    "address": "ANRA 141 A, Behind Asianet Office, Estate Road",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.153699"
+  },
+  {
+    "place_id": "0x3b05c329516cf89d:0",
+    "name": "SREE BUDDHA HOME TUITION CENTRE NELLIDAPPARA",
+    "address": "Opens 6 PM",
+    "category": "Closed",
+    "phone": "+91 80892 64409",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.150497"
+  },
+  {
+    "place_id": "0x3b05c570c5ccdf3f:0",
+    "name": "FABBY FAMILY MAKEOVER STUDIO",
+    "address": "Pangode - Pazhavila Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.143158"
+  },
+  {
+    "place_id": "0x3b05bb04e434f70b:0",
+    "name": "Naturals Salon",
+    "address": "TC 16, GMS Building, 1776 2, Poonthi Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.141775"
+  },
+  {
+    "place_id": "0x3b05b9d002e03ca1:0",
+    "name": "LEKSHMI BEAUTYZONE",
+    "address": "10, Maruthankuzhi - Kachani Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.140141"
+  },
+  {
+    "place_id": "0x3b05af713d465489:0",
+    "name": "Posh Unisex Hair Salon, Kallara",
+    "address": "Posh Unisex Hair Salon, Co-operative bank, First floor of Libas Collections, opposite Mithirmala, near Town Juma Musjid",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.138176"
+  },
+  {
+    "place_id": "0x3b05c54022ef66bb:0",
+    "name": "Mira Beauty Hub & Bridal Studio",
+    "address": "695609, near Bus stand",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.136300"
+  },
+  {
+    "place_id": "0x3b05bb8477ea8835:0",
+    "name": "Apple Premium Reseller - iPlanet",
+    "address": "",
+    "category": "Cell phone store",
+    "phone": "+91 99432 24023",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.127220"
+  },
+  {
+    "place_id": "0x3b05c556554ed573:0",
+    "name": "Dubai Mobiles",
+    "address": "near town jumma masjjid",
+    "category": "Cell phone accessory store",
+    "phone": "+91 79070 78599",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.125669"
+  },
+  {
+    "place_id": "0x3b05bbfdc9877b1f:0",
+    "name": "Zudio - Mall Of Travancore, Thiruvananthapuram",
+    "address": "",
+    "category": "Clothing store",
+    "phone": "+91 89767 51561",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.120217"
+  },
+  {
+    "place_id": "0x3b05bbe5ac0b1025:0",
+    "name": "Kaitharikada Pulimood",
+    "address": "",
+    "category": "Clothing store",
+    "phone": "+91 80755 21806",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.117752"
+  },
+  {
+    "place_id": "0x3b05c904946bc117:0",
+    "name": "MARS JUICE & ICE CREAM PARLOUR",
+    "address": "near postoffice",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.115196"
+  },
+  {
+    "place_id": "0x3b05c9003fb0e129:0",
+    "name": "DELISH BAKERY",
+    "address": "Delish Bakery",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.113765"
+  },
+  {
+    "place_id": "0x3b05c9cd581a11a1:0",
+    "name": "Bread n Butter",
+    "address": "Closes 10:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.112290"
+  },
+  {
+    "place_id": "0x3b05cd5c677d5d77:0",
+    "name": "NEW SHOPPY THATTUKADA",
+    "address": "Shop No 1, New Shoppy Thattukada, Thiruvananthapuram - Ponmudi Rd, near Creek Shore Homestay",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.106398"
+  },
+  {
+    "place_id": "0x3b05c9c0381f53cf:0",
+    "name": "Mellow Home made cake",
+    "address": "J2MH+QQM, Thiruvananthapuram - Ponmudi Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.104979"
+  },
+  {
+    "place_id": "0x3b05cde6d8f4166b:0",
+    "name": "HILL TOP BAKERY & Room for rent",
+    "address": "Thiruvananthapuram - Ponmudi Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.102796"
+  },
+  {
+    "place_id": "0x3b05c9f7e4f516ab:0",
+    "name": "MS bakery and tea spot",
+    "address": "J2QV+RPJ, Thiruvananthapuram - Ponmudi Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.101709"
+  },
+  {
+    "place_id": "0x3b05cd669cda3573:0",
+    "name": "Velladhuari",
+    "address": "Bharath Tea Powder",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.100417"
+  },
+  {
+    "place_id": "0x3b05cd1b43d88911:0",
+    "name": "Mamoottil bakery & cool bar",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.098657"
+  },
+  {
+    "place_id": "0x3b05cdb2b9b69adf:0",
+    "name": "ANITHAS",
+    "address": "Tea Shop T",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.096757"
+  },
+  {
+    "place_id": "0x3b05cc6d42e028b7:0",
+    "name": "Blue Rice restaurant...",
+    "address": "SH45",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.094696"
+  },
+  {
+    "place_id": "0x3b05bbba66fc0df7:0",
+    "name": "Press Club Tea Stall",
+    "address": "FXW2+JJM, Thiruvananthapuram - Ponmudi Rd",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.092805"
+  },
+  {
+    "place_id": "0x3b05c696154286c3:0",
+    "name": "Veterinary Hospital Pullampara",
+    "address": "H No 302, Panavoor - Venjaramood Rd",
+    "category": "Animal hospital",
+    "phone": "+91 94473 09605",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.087413"
+  },
+  {
+    "place_id": "0x3b05c4dede8fcb2f:0",
+    "name": "Veterinary Hospital, Pangode",
+    "address": "QX86+QC9",
+    "category": "Government hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.084931"
+  },
+  {
+    "place_id": "0x3b05c6d35cceee23:0",
+    "name": "Kishore Medicals",
+    "address": "SH 1",
+    "category": "Pharmacy",
+    "phone": "+91 95266 15310",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.080832"
+  },
+  {
+    "place_id": "0x3b05c599cfef60f5:0",
+    "name": "Oushadhi Ayurveda pharmacy",
+    "address": "Pazhayachantha, junction",
+    "category": "Medical supply store",
+    "phone": "+91 94463 29394",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.079593"
+  },
+  {
+    "place_id": "0x3b05c1a982d1393d:0",
+    "name": "NANDU MEDICALS",
+    "address": "SHOP NO 1, NANDU MEDICALS, ROAD, near FEDERAL BANK",
+    "category": "Pharmacy",
+    "phone": "+91 94002 86422",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.077882"
+  },
+  {
+    "place_id": "0x3b05c0339f11afb9:0",
+    "name": "German Medicals",
+    "address": "JRXR+9X7, National Highway 47",
+    "category": "Pharmacy",
+    "phone": "+91 98478 83192",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.076550"
+  },
+  {
+    "place_id": "0x3b05c5c3495e0921:0",
+    "name": "Ima opticals / Eyeclinic",
+    "address": "QW3Q+9MG, Main Road, Vamanapuram - Chittar Rd",
+    "category": "Eye care center",
+    "phone": "+91 70125 52644",
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.071021"
+  },
+  {
+    "place_id": "0x3b05c8527e2520ff:0",
+    "name": "Ayurveda Clinic",
+    "address": "J3X3+598",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.065001"
+  },
+  {
+    "place_id": "0x3b05c3a200466969:0",
+    "name": "Govt Ayurveda Hospital Pulimath",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.061803"
+  },
+  {
+    "place_id": "0x3b05c4931ce6b3ed:0",
+    "name": "CITY DENTAL CLINIC",
+    "address": "Vamanapuram - Chittar Rd",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.053112"
+  },
+  {
+    "place_id": "0x3b05cfc1955db573:0",
+    "name": "Sowparnika Dental clinic",
+    "address": "Paruthivila, Karimoncode, PO",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.050871"
+  },
+  {
+    "place_id": "0x3b05cf6a12214569:0",
+    "name": "Care Plus Dental Clinic",
+    "address": "Careplus dental clinic, nedumangad road, behind Akshaya kendra kushavoor jn",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.049245"
+  },
+  {
+    "place_id": "0x3b05c9c1a9244923:0",
+    "name": "DR SURUMI NIYAS DENTAL SPECIALTY ORTHODONTIC AND IMPLANT CENTRECLINIC",
+    "address": "Bismillah Building, Thiruvananthapuram - Ponmudi Rd",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.047949"
+  },
+  {
+    "place_id": "0x3b05cf006c29fc91:0",
+    "name": "Janamaithri Dental Clinic",
+    "address": "PP 14/302/c, college road",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 06:40:14.046573"
+  },
+  {
     "place_id": "0x3b05bbb91387142d:0",
     "name": "Compass & Coast Travel partner",
     "address": "Trivandrum",
@@ -8359,644 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 22:37:49.871655"
-  },
-  {
-    "place_id": "0x808f7e12f558c089:0",
-    "name": "two birds",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:37:48.657006"
-  },
-  {
-    "place_id": "0x808581b1a53fe009:0",
-    "name": "Todd Snyder San Francisco Hayes Valley",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:37:47.421558"
-  },
-  {
-    "place_id": "0x808f7e3f76c60b41:0",
-    "name": "Cut Loose",
-    "address": "",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:37:46.193775"
-  },
-  {
-    "place_id": "0x808580a6f298039f:0",
-    "name": "Wild Feather",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:37:45.004574"
-  },
-  {
-    "place_id": "0x8085808f582b3ba1:0",
-    "name": "Urban Outfitters",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:37:43.817552"
-  },
-  {
-    "place_id": "0x808f7e21886a219b:0",
-    "name": "Nooworks",
-    "address": "",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:37:42.613156"
-  },
-  {
-    "place_id": "0x808f7e13626168c7:0",
-    "name": "Pressed Juicery",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:37:41.367705"
-  },
-  {
-    "place_id": "0x808580a20a542963:0",
-    "name": "Juice Shop",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:37:40.067644"
-  },
-  {
-    "place_id": "0x808f7e4fcf394627:0",
-    "name": "Precita Park Cafe & Grill",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:37:38.822495"
-  },
-  {
-    "place_id": "0x808f7f54d4681531:0",
-    "name": "Noe Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:37:37.549430"
-  },
-  {
-    "place_id": "0x808f7e73b3cda18d:0",
-    "name": "Seven Hills Veterinary Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:37:36.319908"
-  },
-  {
-    "place_id": "0x3b05bf00a032a061:0",
-    "name": "M.I Apartments",
-    "address": "Swathy Nagar Rd",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:24:11.236523"
-  },
-  {
-    "place_id": "0x3b05bf982042e929:0",
-    "name": "Women's Day Fashion Boutique & Tailoring",
-    "address": "Stationkadavu",
-    "category": "Boutique",
-    "phone": "+91 98462 21907",
-    "website": null,
-    "discovered_at": "2026-11-16 22:24:09.880883"
-  },
-  {
-    "place_id": "0x3b05e982122c63cf:0",
-    "name": "sahaya community pharmacy",
-    "address": "puthusherimukku",
-    "category": "Medical Center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:15:33.665382"
-  },
-  {
-    "place_id": "0x64dfc9f51bbbdd07:0",
-    "name": "Saju Sanjeev",
-    "address": "Opens 9:30 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:15:32.418895"
-  },
-  {
-    "place_id": "0x3b05e7dce8180ab9:0",
-    "name": "Alivio Homoeo Clinic",
-    "address": "Varkala Kallambalam Rd Njekkad",
-    "category": "Homeopath",
-    "phone": "+91 70123 77466",
-    "website": null,
-    "discovered_at": "2026-11-16 22:15:31.187110"
-  },
-  {
-    "place_id": "0x3b05e9367e20d1b7:0",
-    "name": "Sriba Homeo Clinic - ശ്രീബ ഹോമിയോ ക്ലിനിക്",
-    "address": "Kallambalam Cherunniyoor Road Cherunniyoor (P.O Cherunniyoor, Junction",
-    "category": "Homeopath",
-    "phone": "+91 98956 05848",
-    "website": null,
-    "discovered_at": "2026-11-16 22:15:29.973174"
-  },
-  {
-    "place_id": "0x808fc968e88e3a51:0",
-    "name": "HQ Trimble Business Area",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:15:28.737510"
-  },
-  {
-    "place_id": "0x808fc9d2f3fd6177:0",
-    "name": "Silicon Valley Driving School",
-    "address": "4701 Patrick Henry Dr Bldg 25 suite 138",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:15:27.402680"
-  },
-  {
-    "place_id": "0x808fb63c21d6e327:0",
-    "name": "Premier Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:15:26.206381"
-  },
-  {
-    "place_id": "0x808fcbac4c65342d:0",
-    "name": "Bay Area Driving Academy",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:15:24.970109"
-  },
-  {
-    "place_id": "0x808e345cd95271cf:0",
-    "name": "Daily Drivers Driving School",
-    "address": "2116 Walsh Ave Ste C-5",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:15:23.776124"
-  },
-  {
-    "place_id": "0x3b05af306b0d63df:0",
-    "name": "SN HealthCare - Hospital & Laboratory",
-    "address": "",
-    "category": "Medical laboratory",
-    "phone": "+91 89217 00125",
-    "website": null,
-    "discovered_at": "2026-11-16 22:15:22.474398"
-  },
-  {
-    "place_id": "0x3b05df007c213d4b:0",
-    "name": "Lenskart Anchal Kollam",
-    "address": "Bharkath Villa, Chadayamangalam",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:15:21.248935"
-  },
-  {
-    "place_id": "0x3b05c9d5c3fa978f:0",
-    "name": "Chempakasserry House",
-    "address": "Kottiyathara Rd, near Govt Hospital",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:05:10.242549"
-  },
-  {
-    "place_id": "0x3b059500141ff497:0",
-    "name": "G Designer Boutique",
-    "address": "Veli - Perumathura Rd",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:43:08.699009"
-  },
-  {
-    "place_id": "0x3b05bf001a816bc1:0",
-    "name": "Hueman Clothing store",
-    "address": "HVQ5+W2F",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:43:07.533238"
-  },
-  {
-    "place_id": "0x3b05a527f64d2611:0",
-    "name": "The Butter Cup",
-    "address": "Pachalloor Punkulam Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:43:06.309429"
-  },
-  {
-    "place_id": "0x3b05b90013909a69:0",
-    "name": "Pink petals physiotheraphy clinic",
-    "address": "HX3V+GQM",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:43:05.122219"
-  },
-  {
-    "place_id": "0x3b05b92b4b8e95d5:0",
-    "name": "FORTIS physiotherapy clinic vattapara",
-    "address": "",
-    "category": "Physical therapist",
-    "phone": "+91 79027 72585",
-    "website": null,
-    "discovered_at": "2026-11-16 21:43:03.918592"
-  },
-  {
-    "place_id": "0x3b05bbae24f064c3:0",
-    "name": "Forward Brain & Spine Rehab",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": "+91 79944 66226",
-    "website": null,
-    "discovered_at": "2026-11-16 21:43:02.667782"
-  },
-  {
-    "place_id": "0x3b05bb228f31c1d7:0",
-    "name": "Paravankunnu, nilamaroad, manacaud p o",
-    "address": "FX64+W5X, Kalippankulam Rd",
-    "category": "Real estate agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:43:01.431738"
-  },
-  {
-    "place_id": "0x3b05bb0066375581:0",
-    "name": "Chemprampurhoor house",
-    "address": "Tc42/67-1, CLRA-73,74, Cheppil lane, po",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:43:00.259266"
-  },
-  {
-    "place_id": "0x3b05bb69f0425a7d:0",
-    "name": "Club Fitness",
-    "address": "Opens 5:30 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:42:58.971893"
-  },
-  {
-    "place_id": "0x3b05bb4777847e9f:0",
-    "name": "Jus' Bake by Rameesa",
-    "address": "NKRA 11, Neelatinkara Kallattumukku",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:42:57.828451"
-  },
-  {
-    "place_id": "0x3b05bb763f53fa31:0",
-    "name": "DENTISTREE DENTAL CLINIC & IMPLANT CENTER",
-    "address": "Jn, Attakulangara - Enchakkal Rd, near vayalil hotel",
-    "category": "Dental clinic",
-    "phone": "+91 81379 22935",
-    "website": null,
-    "discovered_at": "2026-11-16 21:42:56.673697"
-  },
-  {
-    "place_id": "0x89b645ff09eb60ed:0",
-    "name": "VASH Vacations - Cruise Planners",
-    "address": "",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:33:31.412765"
-  },
-  {
-    "place_id": "0x3b05bb898d02b98f:0",
-    "name": "Liya's Academy",
-    "address": "Puthenkada Junction, Mangattukadavu Thirumala Rd, opposite B24 Wellness and Nutrition",
-    "category": "Education center",
-    "phone": "+91 79940 07579",
-    "website": null,
-    "discovered_at": "2026-11-16 21:33:30.192087"
-  },
-  {
-    "place_id": "0x3b05baec637c034f:0",
-    "name": "AVS Angadikada Ayurvedic Herbal Shop",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": "+91 98097 50344",
-    "website": null,
-    "discovered_at": "2026-11-16 21:33:28.984505"
-  },
-  {
-    "place_id": "0x3b05bb3183245527:0",
-    "name": "Archana Medicals",
-    "address": "F292+C9R, Pappanamcode Malayinkeezhu Rd",
-    "category": "Medical supply store",
-    "phone": "+91 85920 01008",
-    "website": null,
-    "discovered_at": "2026-11-16 21:33:27.830648"
-  },
-  {
-    "place_id": "0x3b05baec268b84c5:0",
-    "name": "Karuna Community Medicals",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": "+91 96332 22217",
-    "website": null,
-    "discovered_at": "2026-11-16 21:33:26.682121"
-  },
-  {
-    "place_id": "0x3b05bbea01659263:0",
-    "name": "Ashraya community pharmacy, Nemom",
-    "address": "near Ganapathy temple",
-    "category": "Faculty of pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:33:25.442774"
-  },
-  {
-    "place_id": "0x3b05af0043d65939:0",
-    "name": "Paroorkuzhi",
-    "address": "C2QF+72C, Trivandrum - Nagercoil Hwy",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:33:24.258821"
-  },
-  {
-    "place_id": "0x3b05baa60ba5c70d:0",
-    "name": "P.D.R",
-    "address": "F233+9W9",
-    "category": "Homeopath",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:33:23.108590"
-  },
-  {
-    "place_id": "0x3b05ba9a26b13079:0",
-    "name": "GREEN CITY MEDICALS",
-    "address": "F292+97V, Pappanamcode Malayinkeezhu Rd",
-    "category": "Pharmacy",
-    "phone": "+91 81118 59302",
-    "website": null,
-    "discovered_at": "2026-11-16 21:33:21.024783"
-  },
-  {
-    "place_id": "0x3b05bb30918c9633:0",
-    "name": "Oushadhi Ayurveda Pharmacy",
-    "address": "near Kairali agencies",
-    "category": "Pharmacy",
-    "phone": "+91 98470 92148",
-    "website": null,
-    "discovered_at": "2026-11-16 21:33:16.546209"
-  },
-  {
-    "place_id": "0x3b05bb0f2d455957:0",
-    "name": "Jan Aushadhi Medical store Pappanamcode",
-    "address": "Puthenveedu, Near White Damar hotel Karamana kaliyikkavila Main road, NH 66",
-    "category": "Pharmacy",
-    "phone": "+91 73064 66290",
-    "website": null,
-    "discovered_at": "2026-11-16 21:33:15.402643"
-  },
-  {
-    "place_id": "0x3b05ba909842562d:0",
-    "name": "KRISHNA MEDICALS",
-    "address": "FX9X+Q8R, Pappanamcode Malayinkeezhu Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:33:14.231917"
-  },
-  {
-    "place_id": "0x8a03ac27d09eaf5d:0",
-    "name": "eFoinix Creative Labs ( Previously eFoinix Solutions )",
-    "address": "3rd Floor, City Centre Building, Trial Bench Coworking Space, Vellayambalam - Sasthamangalam Rd",
-    "category": "Branding agency",
-    "phone": "+91 97785 48398",
-    "website": null,
-    "discovered_at": "2026-11-16 21:23:33.422886"
-  },
-  {
-    "place_id": "0x3b05c10045775275:0",
-    "name": "Anvika biju Thulasi house golden villa",
-    "address": "JVGQ+P78",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:33.978284"
-  },
-  {
-    "place_id": "0x3b05c10040b2f361:0",
-    "name": "Gurukripa House",
-    "address": "JV6W+W8G",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:32.568627"
-  },
-  {
-    "place_id": "0x3b05bf063b1ef57d:0",
-    "name": "Oxy Happiness",
-    "address": "",
-    "category": "Swimming pool",
-    "phone": "+91 80789 47510",
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:31.119557"
-  },
-  {
-    "place_id": "0x3b05bf56b8a7b0cf:0",
-    "name": "FACE CARE BEAUTY PARLOUR & BODY CARE",
-    "address": "Face Care Beauty Parlour",
-    "category": "Health spa",
-    "phone": "+91 99659 53993",
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:29.679515"
-  },
-  {
-    "place_id": "0x3b05bb5b9223bb47:0",
-    "name": "Dhrona Body Massage center Tiruvananthapuram and Beauty Spa",
-    "address": "",
-    "category": "Massage spa",
-    "phone": "+91 78453 51143",
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:28.355445"
-  },
-  {
-    "place_id": "0x3b05bf19ca372049:0",
-    "name": "Ather Wellness Spa",
-    "address": "Sreekariyam - Pothencode Rd, near asian bakers",
-    "category": "Spa",
-    "phone": "+91 62386 72036",
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:27.077151"
-  },
-  {
-    "place_id": "0x3b05c10074e0887b:0",
-    "name": "JANASHRAYA MEDICALS AND SURGICAL",
-    "address": "JW92+Q6R",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:25.754796"
-  },
-  {
-    "place_id": "0x3b05ab0068ae18c7:0",
-    "name": "Parassala",
-    "address": "85V8+3QR",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:24.399533"
-  },
-  {
-    "place_id": "0x3b05ab006211e301:0",
-    "name": "Reghu mandiram",
-    "address": "85V4+7J4, Parassala Vellarada Rd",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:23.067079"
-  },
-  {
-    "place_id": "0x3b05ab006a32c0fb:0",
-    "name": "Mayooram",
-    "address": "85X2+36F",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:21.863238"
-  },
-  {
-    "place_id": "0x3b05ab000b0cbf4b:0",
-    "name": "AG Nivas",
-    "address": "85W3+C9V",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:20.616492"
-  },
-  {
-    "place_id": "0x3b05ab00724d4651:0",
-    "name": "Mary House",
-    "address": "Mary house",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:19.317246"
-  },
-  {
-    "place_id": "0x3b05ab007c1da50b:0",
-    "name": "PRAVEEN S",
-    "address": "942V+2W8, Mahatma Rd",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:18.004605"
-  },
-  {
-    "place_id": "0x3b05ab610da9d9bb:0",
-    "name": "Chandrakantham",
-    "address": "942W+CXX",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:16.751249"
-  },
-  {
-    "place_id": "0x3b05ab0068f4f053:0",
-    "name": "Sree Nandanam, Sujikumar/Thankarajan",
-    "address": "Sreenandanam, H No. 43, Muriyankara",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:15.489468"
-  },
-  {
-    "place_id": "0x3b05ab002a07680f:0",
-    "name": "Sreekanda Mandiram, Parassala",
-    "address": "9527+7QJ Joie of Lyra, ELKANA Muriyankara Neduvanvila, Po",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:14.221636"
-  },
-  {
-    "place_id": "0x3b05ab004f5537a1:0",
-    "name": "SASI NIVAS",
-    "address": "84XV+JRG",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:12.780979"
-  },
-  {
-    "place_id": "0x3b05ab00296cda9b:0",
-    "name": "Thiruvonam house (Dhanesh)",
-    "address": "85V4+7J4, Parassala Vellarada Rd",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:11.524859"
-  },
-  {
-    "place_id": "0x3b05ab5e6d7ceef5:0",
-    "name": "Surendran Nilamuttam",
-    "address": "942V+G53, Vlathivila",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 21:15:10.078237"
-  },
-  {
-    "place_id": "0x3b04ff798f6ef4fd:0",
-    "name": "S'MART Home Interiors",
-    "address": "Tholayavattam Killiyoor",
-    "category": "Interior designer",
-    "phone": "+91 90879 84451",
-    "website": null,
-    "discovered_at": "2026-11-16 20:30:55.482045"
-  },
-  {
-    "place_id": "0x3b05a9179504d7f7:0",
-    "name": "Annas Beauty Parlor",
-    "address": "near Mavilakadav Bridge",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 20:30:54.254584"
-  },
-  {
-    "place_id": "0x3b05a932e71f8897:0",
-    "name": "AV FRESHMART",
-    "address": "AV FRESHMART",
-    "category": "Fruit and vegetable store",
-    "phone": "+91 97441 54816",
-    "website": null,
-    "discovered_at": "2026-11-16 20:30:52.978418"
   }
 ]
