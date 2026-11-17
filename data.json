@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb9483acee39:0",
+    "name": "Raga Collections",
+    "address": "Krishna Saras, W Fort Rd",
+    "category": "Women's clothing store",
+    "phone": "+91 89213 96990",
+    "website": null,
+    "discovered_at": "2026-11-17 20:15:45.889263"
+  },
+  {
+    "place_id": "0x3b05bba0ce1ef587:0",
+    "name": "Face off",
+    "address": "Closes 8:30 AM",
+    "category": "Open",
+    "phone": "+91 86061 82052",
+    "website": null,
+    "discovered_at": "2026-11-17 20:15:44.741600"
+  },
+  {
     "place_id": "0x3b05bb002a51ef0b:0",
     "name": "Three Star Restaurant",
     "address": "FXX3+234, Rd",
@@ -8980,23 +8998,5 @@
     "phone": "+91 85902 01023",
     "website": null,
     "discovered_at": "2026-11-17 06:32:52.924228"
-  },
-  {
-    "place_id": "0x3b05c1ad08a76f47:0",
-    "name": "EDUMATE ENTRANCE COACHING CENTRE",
-    "address": "Closes 4 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.909266"
-  },
-  {
-    "place_id": "0x3b05c732993aa417:0",
-    "name": "IZRA FITNESS HUB",
-    "address": "Closes 10 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.906034"
   }
 ]
