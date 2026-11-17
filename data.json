@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05bb829d3b4bf7:0",
+    "name": "B.V STORE",
+    "address": "Bhagavathy Nagar Rd",
+    "category": "Supermarket",
+    "phone": "+91 62386 56161",
+    "website": null,
+    "discovered_at": "2026-11-17 16:14:26.408063"
+  },
+  {
+    "place_id": "0x3b05b9000b3d079b:0",
+    "name": "OH MY JUICE (From US BAKERY)",
+    "address": "HX6J+FGG",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:14:25.152785"
+  },
+  {
+    "place_id": "0x3b05bb278ebb96f3:0",
+    "name": "SSV Beauty Gardens",
+    "address": "Kundamankadavu Vattiyoorkavu Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:14:23.930860"
+  },
+  {
+    "place_id": "0x3b05b9ed0b138533:0",
+    "name": "KALLOOSE M F M",
+    "address": "GXQQ+JXQ",
+    "category": "Grocery store",
+    "phone": "+91 97441 43501",
+    "website": null,
+    "discovered_at": "2026-11-17 16:14:22.781803"
+  },
+  {
+    "place_id": "0x3b05bb002e790baf:0",
+    "name": "Anamika Store",
+    "address": "Vattiyoorkavu - Kulasekharam Rd, near Police Station",
+    "category": "Indian grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:14:21.601787"
+  },
+  {
+    "place_id": "0x3b05bb0019a1a307:0",
+    "name": "GG Furniture",
+    "address": "GXCJ+XV7",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:14:20.268085"
+  },
+  {
+    "place_id": "0x3b05bb2fb2ef7bab:0",
+    "name": "Sala Mobiles sales, service & Accessories",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 88919 79882",
+    "website": null,
+    "discovered_at": "2026-11-17 16:14:19.065835"
+  },
+  {
     "place_id": "0x3b05b9f50bc43c15:0",
     "name": "Alankrithi Boutique",
     "address": "GXHQ+CX5, Vattiyoorkavu - Kulasekharam Rd",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:49:56.278656"
-  },
-  {
-    "place_id": "0x3b05abb02b62c935:0",
-    "name": "Astral Glam Makeover studio",
-    "address": "Closes 5 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.277278"
-  },
-  {
-    "place_id": "0x3b05ad5fb2483695:0",
-    "name": "Diya Beauty Care & Spa",
-    "address": "Parassala Vellarada Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.276013"
-  },
-  {
-    "place_id": "0x3b05abda6e56080b:0",
-    "name": "Ashmi beauty parlour",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.274907"
-  },
-  {
-    "place_id": "0x3b04532861474525:0",
-    "name": "My Kalyan Mini Store",
-    "address": "56/J, Thai Bulding, Ward No 8, Vellarada, Parassala Road",
-    "category": "Jewelry store",
-    "phone": "+91 92400 30884",
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.271309"
-  },
-  {
-    "place_id": "0x3b05ab15ca3b0039:0",
-    "name": "Shalom Mattresses",
-    "address": "Near Federal Bank - Parassala",
-    "category": "Mattress store",
-    "phone": "+91 79048 19466",
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.268342"
-  },
-  {
-    "place_id": "0x3b044d554387e503:0",
-    "name": "Bali Home Centre",
-    "address": "",
-    "category": "Furniture wholesaler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.266590"
-  },
-  {
-    "place_id": "0x3b0452ab2a25a60d:0",
-    "name": "Pixzone Mobiles",
-    "address": "Parassala Vellarada Rd",
-    "category": "Cell phone store",
-    "phone": "+91 96337 15923",
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.264684"
   }
 ]
