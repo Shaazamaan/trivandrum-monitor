@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b16a8aa24b47:0",
+    "name": "Vippis Bakery",
+    "address": "Ambadi Building, College Rd, near Temple",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:32:38.097651"
+  },
+  {
     "place_id": "0x3b05ba50138cff5d:0",
     "name": "New Empire Bakery",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:10:55.959857"
-  },
-  {
-    "place_id": "0x3b05bb0f0295aca3:0",
-    "name": "Haritha Beauty Salon",
-    "address": "Post Office Junction, near LM Driving School",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:10:55.956559"
   }
 ]
