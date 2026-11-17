@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05cf9e2c658a27:0",
+    "name": "MALABAR KULUKKI",
+    "address": "Shop No 1, Malabar Kulukki, Pacha Temple Road, near Pancha Temple",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 22:05:13.901435"
+  },
+  {
+    "place_id": "0x3b05c9584967533b:0",
+    "name": "HAMP BACKERY",
+    "address": "Hamp Backery",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 22:05:12.731746"
+  },
+  {
+    "place_id": "0x3b05c5cd675b3569:0",
+    "name": "Aswas Community Pharmacy",
+    "address": "near IOB Bank",
+    "category": "Pharmacy",
+    "phone": "+91 85470 89262",
+    "website": null,
+    "discovered_at": "2026-11-17 22:05:11.501111"
+  },
+  {
     "place_id": "0x3b05bbd8b20d02db:0",
     "name": "YARA UNISEX SALON & MAKE OVER STUDIO",
     "address": "Maruthoorkkadavu junction",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:40:14.050871"
-  },
-  {
-    "place_id": "0x3b05cf6a12214569:0",
-    "name": "Care Plus Dental Clinic",
-    "address": "Careplus dental clinic, nedumangad road, behind Akshaya kendra kushavoor jn",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:40:14.049245"
-  },
-  {
-    "place_id": "0x3b05c9c1a9244923:0",
-    "name": "DR SURUMI NIYAS DENTAL SPECIALTY ORTHODONTIC AND IMPLANT CENTRECLINIC",
-    "address": "Bismillah Building, Thiruvananthapuram - Ponmudi Rd",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:40:14.047949"
-  },
-  {
-    "place_id": "0x3b05cf006c29fc91:0",
-    "name": "Janamaithri Dental Clinic",
-    "address": "PP 14/302/c, college road",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:40:14.046573"
   }
 ]
