@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05c12026ec473d:0",
+    "name": "Sherwin bakery",
+    "address": "Sherwin shawarma, Junction, Chirayinkeezhu - Korani Rd, near India Oil Petrol Pump",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 19:08:58.886761"
+  },
+  {
+    "place_id": "0x3b05c014b8321a2f:0",
+    "name": "Medical Diagnostic Laboratory",
+    "address": "JRGX+48J, NH 47",
+    "category": "Diagnostic center",
+    "phone": "+91 97450 90408",
+    "website": null,
+    "discovered_at": "2026-11-17 19:08:57.663881"
+  },
+  {
+    "place_id": "0x3b05bb417f79bbb1:0",
+    "name": "Ananthapuri Community Pharmacy",
+    "address": "near Lakshmi Auditorium",
+    "category": "Pharmacy",
+    "phone": "+91 62386 81105",
+    "website": null,
+    "discovered_at": "2026-11-17 19:08:56.311837"
+  },
+  {
+    "place_id": "0x3b05bbf54d82f7db:0",
+    "name": "Das Vaidyans Ayurveda Pharmacy",
+    "address": "GW39+7HG",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 19:08:55.102402"
+  },
+  {
     "place_id": "0x3b05bb0eb01b4f4f:0",
     "name": "Urogulf Global Attestation and Verification",
     "address": "First Floor, Nehmath Plaza",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:25:57.643893"
-  },
-  {
-    "place_id": "0x3b05c31c32fec72b:0",
-    "name": "Royal Pets Kennel And Boarding",
-    "address": "Nagaroor - Karette Rd",
-    "category": "Kennel",
-    "phone": "+91 97458 05560",
-    "website": null,
-    "discovered_at": "2026-11-17 06:25:57.640854"
-  },
-  {
-    "place_id": "0x3b05c3b40d552001:0",
-    "name": "SANTHAWANAM COMMUNITY PHARMACY",
-    "address": "",
-    "category": "Medical supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:25:57.636570"
-  },
-  {
-    "place_id": "0x3b05c5d9023e159b:0",
-    "name": "Uniq Eyeclinic&Opticals",
-    "address": "Karette - Palode Rd",
-    "category": "Eye care center",
-    "phone": "+91 98095 31710",
-    "website": null,
-    "discovered_at": "2026-11-17 06:25:57.629398"
-  },
-  {
-    "place_id": "0x3b05b9322e034735:0",
-    "name": "MJ AESTHETIC DENTAL CLINIC MARUTHOOR",
-    "address": "Closes 7 PM",
-    "category": "Open",
-    "phone": "+91 94469 80396",
-    "website": null,
-    "discovered_at": "2026-11-17 06:25:57.614504"
   }
 ]
