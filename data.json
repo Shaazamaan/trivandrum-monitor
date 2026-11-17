@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb0011ba7c17:0",
+    "name": "Peter England",
+    "address": "School, Cordial Tower, near Saint Marys Lane",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 19:53:48.817279"
+  },
+  {
+    "place_id": "0x3b05bb1076dc7ce9:0",
+    "name": "DERMMACONNECT",
+    "address": "lotus tower, 77 spaces",
+    "category": "Skin care clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 19:53:47.660065"
+  },
+  {
+    "place_id": "0x3b05bb195ab84c2b:0",
+    "name": "H.E.R",
+    "address": "1st floor, Corporation building, Overbridge, opp. School Ground",
+    "category": "Coworking space",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 19:53:46.450750"
+  },
+  {
     "place_id": "0x3b05bfd118485183:0",
     "name": "ALPHABETZ LEARNING CENTER",
     "address": "MANVILA, OPPOSITE TO MANVILA MARKET, MANVILA PANGAPPARA ROAD MANVILA",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:32:52.901349"
-  },
-  {
-    "place_id": "0x3b05c7ff23fd8e69:0",
-    "name": "Rajadhani furniture",
-    "address": "Rajadhani furniture vembayam Near oxford model school, mc road, Kesavadasapuram - Venjaramoodu Rd",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.898405"
-  },
-  {
-    "place_id": "0x3b05c3004de94e13:0",
-    "name": "Royal furniture mart. Ambalamukku",
-    "address": "PW53+VGC Shalini bhavan School Junction",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.896358"
-  },
-  {
-    "place_id": "0x3b05c70c61351475:0",
-    "name": "Amrutham Home cakes",
-    "address": "Closes 10 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:25:57.753554"
   }
 ]
