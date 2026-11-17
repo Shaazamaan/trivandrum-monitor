@@ -1,5 +1,140 @@
 [
   {
+    "place_id": "0x3b05bb00afc25e95:0",
+    "name": "Kerala Kitchen",
+    "address": "Jyothi gardens, EVRA 185",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.115516"
+  },
+  {
+    "place_id": "0x3b05ba4a70f035f9:0",
+    "name": "MRA Bakery (Edapazhanji)",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.114359"
+  },
+  {
+    "place_id": "0x3b05bb7342d427bd:0",
+    "name": "Bake Ville - Customised Cakes Fresh From Home",
+    "address": "Mangattukadavu Thirumala Rd",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.113828"
+  },
+  {
+    "place_id": "0x3b05bbfa7c161837:0",
+    "name": "Cocoa Junket",
+    "address": "Sri Mulam Club",
+    "category": "Pastry shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.112872"
+  },
+  {
+    "place_id": "0x3b05bba190021ab7:0",
+    "name": "Dr Anand H Opthalmologist",
+    "address": "",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.105837"
+  },
+  {
+    "place_id": "0x3b05b92ea41d7bb9:0",
+    "name": "Property Solutions",
+    "address": "TC 24, 473(3, Ambala Nagar Rd",
+    "category": "Construction company",
+    "phone": "+91 98958 24222",
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.092466"
+  },
+  {
+    "place_id": "0x3b05bb02997c077f:0",
+    "name": "Jay's Academy",
+    "address": "",
+    "category": "Coaching center",
+    "phone": "+91 90619 91932",
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.090266"
+  },
+  {
+    "place_id": "0x3b05b94e12de3da3:0",
+    "name": "Fortune IAS Academy Reading Room Kowdiar",
+    "address": "",
+    "category": "Education center",
+    "phone": "+91 94950 15888",
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.089493"
+  },
+  {
+    "place_id": "0x3b05bbd5e1536ac1:0",
+    "name": "KAS Mentor",
+    "address": "",
+    "category": "Coaching center",
+    "phone": "+91 79944 40444",
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.088440"
+  },
+  {
+    "place_id": "0x3b05bbd445811abf:0",
+    "name": "Josco Jewellers",
+    "address": "+91 85902 01614",
+    "category": "Temporarily closed",
+    "phone": "+91 85902 01614",
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.083487"
+  },
+  {
+    "place_id": "0x3b05bb6691b4aeb1:0",
+    "name": "Bake My Heart - Homemades",
+    "address": "House no.24, Bain's Compound Museum",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.077223"
+  },
+  {
+    "place_id": "0x3b05bb00647e232b:0",
+    "name": "Zam Zam Bun Cafe YMR",
+    "address": "YMR Jct",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.075470"
+  },
+  {
+    "place_id": "0x3b05bb1c749a3a23:0",
+    "name": "TORABREW",
+    "address": "",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.074319"
+  },
+  {
+    "place_id": "0x3b05bb096044d375:0",
+    "name": "HHL Lab",
+    "address": "",
+    "category": "Medical diagnostic imaging center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.069970"
+  },
+  {
+    "place_id": "0x3b05bb937db4d3a3:0",
+    "name": "HealthAssure - Neuberg Diagnostics Ltd - Trivandrum | Blood Tests - Home Collection & Full Body Checkups",
+    "address": "Surabhi, Golf Links Rd",
+    "category": "Diagnostic center",
+    "phone": "+91 96000 85205",
+    "website": null,
+    "discovered_at": "2026-11-17 07:09:21.068301"
+  },
+  {
     "place_id": "0x3b05bb0fcaa18059:0",
     "name": "St George Tuition Centre",
     "address": "near milma , magnoorkonam, pmra b70",
@@ -8863,140 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 23:11:21.832857"
-  },
-  {
-    "place_id": "0x88f51fc76698e5bf:0",
-    "name": "FYZICAL Therapy and Balance Center - East Point",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:20.584422"
-  },
-  {
-    "place_id": "0x87ed39828fd7086d:0",
-    "name": "RC Dermatology Carroll",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:19.207355"
-  },
-  {
-    "place_id": "0x87f276494ca7ccc3:0",
-    "name": "Maggio Matthew J dntst",
-    "address": "",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:17.939928"
-  },
-  {
-    "place_id": "0x865c5d629a9c31dd:0",
-    "name": "Austin Driving School",
-    "address": "",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:02:13.730851"
-  },
-  {
-    "place_id": "0x3b05b95795a5e14b:0",
-    "name": "Desire Medi Spa",
-    "address": "luxury suits, 8th Floor, Casa in, Chirakkulam Rd",
-    "category": "Spa",
-    "phone": "+91 62829 29853",
-    "website": null,
-    "discovered_at": "2026-11-16 23:02:12.520330"
-  },
-  {
-    "place_id": "0x3b05bb630c338dc5:0",
-    "name": "OLE SPA",
-    "address": "GX23+88G Branch Office, Bakery Jct Rd, opp. Reserve Bank of India",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:02:11.260790"
-  },
-  {
-    "place_id": "0x865cf5e558c1e65f:0",
-    "name": "Hiatus Day Spa • Med Spa",
-    "address": "",
-    "category": "Medical spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:02:09.969116"
-  },
-  {
-    "place_id": "0x865cf5f69fc7a383:0",
-    "name": "Hiatus Day Spa • Med Spa",
-    "address": "",
-    "category": "Day spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:02:08.677041"
-  },
-  {
-    "place_id": "0x865c5f78e542c0b5:0",
-    "name": "Anytime Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:02:07.456665"
-  },
-  {
-    "place_id": "0x865c599bcae975b9:0",
-    "name": "La Popular Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:02:06.158064"
-  },
-  {
-    "place_id": "0x3b05bbc8f20deda3:0",
-    "name": "Vr realtors",
-    "address": "Keston Enclave Rd, opp. Raj Bhavan Road",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:53:49.716994"
-  },
-  {
-    "place_id": "0x3b05bbf3acec4d41:0",
-    "name": "Cordon Constructors & Realtors Pvt. Ltd.",
-    "address": "Ground Floor, Cordon Sreevalsam, Cordon Builders, opp. Gain Town Fitness Club",
-    "category": "Construction company",
-    "phone": "+91 91889 20020",
-    "website": null,
-    "discovered_at": "2026-11-16 22:53:48.534528"
-  },
-  {
-    "place_id": "0x3b05bbd790bab2b3:0",
-    "name": "Windsor Mansions",
-    "address": "",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 22:53:47.355495"
-  },
-  {
-    "place_id": "0x3b05b97eac46cbaf:0",
-    "name": "Arcon Home Builders",
-    "address": "",
-    "category": "Construction company",
-    "phone": "+91 97442 33000",
-    "website": null,
-    "discovered_at": "2026-11-16 22:53:46.178983"
-  },
-  {
-    "place_id": "0x3b05bba8912c1e0f:0",
-    "name": "Auxano Pharmacy Tvm",
-    "address": "murinjapalam , medical college, Pazhaya Rd, opposite Pankayam Restaurant",
-    "category": "Pharmacy",
-    "phone": "+91 62355 00023",
-    "website": null,
-    "discovered_at": "2026-11-16 22:46:35.339192"
   }
 ]
