@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05bc01b78f27df:0",
+    "name": "Amrit Pharmacy",
+    "address": "695011",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 19:38:36.991234"
+  },
+  {
+    "place_id": "0x3b05be8c3505024f:0",
+    "name": "Aswas Community Pharmacy",
+    "address": "84J5+W7H",
+    "category": "Pharmacy",
+    "phone": "+91 90205 99411",
+    "website": null,
+    "discovered_at": "2026-11-17 19:38:35.727365"
+  },
+  {
+    "place_id": "0x3b05e983ae1e4297:0",
+    "name": "Ambadi Stores",
+    "address": "Ambadi Stores Pullormukku Junction Kallambalam Po Pullormukku Junction Kallambalam, Po",
+    "category": "General store",
+    "phone": "+91 77367 31918",
+    "website": null,
+    "discovered_at": "2026-11-17 19:38:34.272459"
+  },
+  {
+    "place_id": "0x3b05e98eeea6eb95:0",
+    "name": "Variety fancy & bookshop",
+    "address": "QQ6Q+XWQ, Varkala Kallambalam Rd",
+    "category": "Book store",
+    "phone": "+91 83308 19989",
+    "website": null,
+    "discovered_at": "2026-11-17 19:38:32.946258"
+  },
+  {
+    "place_id": "0x3b05e900103100c3:0",
+    "name": "FRESH & NATURAL SUGARCANE",
+    "address": "PQV5+98F",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 19:38:31.624708"
+  },
+  {
+    "place_id": "0x3b05e9006c080299:0",
+    "name": "Bake Loft",
+    "address": "QQC7+2HG",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 19:38:30.389553"
+  },
+  {
     "place_id": "0x3b05c7fb5dd70a85:0",
     "name": "Pradhan Mantri Bhartiya Janaushadhi Kendra",
     "address": "456b, Arafa Parayil Buildings, Jn, near Raja Thatukada",
@@ -8944,59 +8998,5 @@
     "phone": "+91 90744 14180",
     "website": null,
     "discovered_at": "2026-11-17 06:25:57.730140"
-  },
-  {
-    "place_id": "0x3b05bb158e19b3f5:0",
-    "name": "Cosmetiq Hospital",
-    "address": "",
-    "category": "Dermatologist",
-    "phone": "+91 99937 77555",
-    "website": null,
-    "discovered_at": "2026-11-17 06:25:57.727504"
-  },
-  {
-    "place_id": "0x3b05c17a56c0c55b:0",
-    "name": "Purplle - Venjaramoodu - Thiruvananthapuram",
-    "address": "Ward No. 8, Ground Floor Manickamangalam, Door Nos. 477, 478, 479 and 480, near Sindhu Cinemas",
-    "category": "Hair removal service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:25:57.726133"
-  },
-  {
-    "place_id": "0x3b05bbb89e84497f:0",
-    "name": "Shah International Tours & travels",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:25:57.711740"
-  },
-  {
-    "place_id": "0x3b05b903a14dadef:0",
-    "name": "VIARA Buildcorp Pvt Ltd",
-    "address": "",
-    "category": "Construction company",
-    "phone": "+91 80785 89888",
-    "website": null,
-    "discovered_at": "2026-11-17 06:25:57.697288"
-  },
-  {
-    "place_id": "0x3b05a5266cc63e6d:0",
-    "name": "Oyster Marris Homestays",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": "+91 94973 05112",
-    "website": null,
-    "discovered_at": "2026-11-17 06:25:57.696197"
-  },
-  {
-    "place_id": "0x3b05e93b83fce49f:0",
-    "name": "AL SAFA DEVELOPERS & DESIGNERS",
-    "address": "Peroor p.o, Thalavila mukku",
-    "category": "Construction company",
-    "phone": "+91 95674 97801",
-    "website": null,
-    "discovered_at": "2026-11-17 06:25:57.691733"
   }
 ]
