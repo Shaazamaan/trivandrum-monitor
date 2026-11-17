@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbd212ea13c1:0",
+    "name": "G3 Fashion Studio",
+    "address": "4, A Street",
+    "category": "Fashion designer",
+    "phone": "+91 96330 00079",
+    "website": null,
+    "discovered_at": "2026-11-17 04:25:33.374315"
+  },
+  {
     "place_id": "0x89babdd8bc16cd0f:0",
     "name": "The Ark NPS",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:13:35.018750"
-  },
-  {
-    "place_id": "0x808fc944009be4e5:0",
-    "name": "StyleMe Home Staging",
-    "address": "",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:13:32.854689"
   }
 ]
