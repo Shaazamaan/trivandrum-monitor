@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb007b8d0e19:0",
+    "name": "YKS",
+    "address": "1st Floor, Relcon Plaza",
+    "category": "Tour operator",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 12:14:32.618357"
+  },
+  {
+    "place_id": "0x3b05bb908924b4e5:0",
+    "name": "Margin Free Supermarket",
+    "address": "GWCW+24G",
+    "category": "General store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 12:14:31.354215"
+  },
+  {
     "place_id": "0x3b05bba5c89ea979:0",
     "name": "Ozone Nurses Academy",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": "+91 80860 08684",
     "website": null,
     "discovered_at": "2026-11-17 05:05:54.929261"
-  },
-  {
-    "place_id": "0x3b05b99f4f38a92b:0",
-    "name": "Limespa",
-    "address": "2nd Floor, Capital Plaza, Pattom Kumarapuram Rd",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:05:54.927053"
-  },
-  {
-    "place_id": "0x3b05b9e685c00d7f:0",
-    "name": "Stepz Ladies Fitness Center",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:05:54.925496"
   }
 ]
