@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bd0000a89339:0",
+    "name": "Pulayanarkotta",
+    "address": "GWF7+5C8, Ulloor - Akkulam Rd",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:45:58.906686"
+  },
+  {
+    "place_id": "0x3b05b90008d1f431:0",
+    "name": "ORZO",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 17:45:57.663368"
+  },
+  {
+    "place_id": "0x3b05bbe2f7183ae5:0",
+    "name": "Microbiological Laboratory",
+    "address": "TC 6/3167, Sebia tower, medical College, post",
+    "category": "Laboratory",
+    "phone": "+91 90209 48463",
+    "website": null,
+    "discovered_at": "2026-11-17 17:45:56.214293"
+  },
+  {
+    "place_id": "0x3b05bbf4de97704f:0",
+    "name": "USED PHONE WHOLESALE TRIVANDRUM",
+    "address": "TVMSH by MS associates, Kaithamukku Petta Rd",
+    "category": "Cell phone store",
+    "phone": "+91 70126 76832",
+    "website": null,
+    "discovered_at": "2026-11-17 17:45:54.551668"
+  },
+  {
     "place_id": "0x3b05bb78c575537b:0",
     "name": "Shopping Street",
     "address": "42",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:56:54.434348"
-  },
-  {
-    "place_id": "0x3b05b9fa4f525765:0",
-    "name": "D.J. Sports Club",
-    "address": "Vayalikada",
-    "category": "Sports club",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.432810"
-  },
-  {
-    "place_id": "0x3b05bb0218d7c313:0",
-    "name": "VOGUE.fit",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.430617"
-  },
-  {
-    "place_id": "0x3b05bb003fbe0577:0",
-    "name": "Praana Fitness",
-    "address": "P.O, TC 2756/1 Praana fitness, Kodunganoor",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.429490"
-  },
-  {
-    "place_id": "0x3b05bb0018947e6b:0",
-    "name": "IDAZ BEAUTY LOUNGE",
-    "address": "SHOP NO1, IDAZ BEAUTY LOUNGE, Vattiyoorkavu - Kulasekharam Rd, opp. CAR DREAMZ,MANCHADIMOODU",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:56:54.426892"
   }
 ]
