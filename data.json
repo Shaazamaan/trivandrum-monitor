@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bb5ff06a8d95:0",
+    "name": "Atom Drugs",
+    "address": "Unnamed Road",
+    "category": "Pharmacy",
+    "phone": "+91 90489 89313",
+    "website": null,
+    "discovered_at": "2026-11-17 01:33:41.160911"
+  },
+  {
+    "place_id": "0x54951aa4aad15555:0",
+    "name": "Cano's Jewelry",
+    "address": "",
+    "category": "Jewelry manufacturer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:33:39.852767"
+  },
+  {
+    "place_id": "0x54957579cf9b8d2d:0",
+    "name": "JosephK Jewelers",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:33:38.565393"
+  },
+  {
+    "place_id": "0x5495a08d89a200c3:0",
+    "name": "Gold Door Jewelry & Arts",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:33:37.262119"
+  },
+  {
     "place_id": "0x880faf91ed2e618d:0",
     "name": "Primark",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": "+91 97445 52324",
     "website": null,
     "discovered_at": "2026-11-16 12:01:13.120570"
-  },
-  {
-    "place_id": "0x3ba659e67f222b53:0",
-    "name": "Sankaran Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:11.848872"
-  },
-  {
-    "place_id": "0x865cf54bd94f8d25:0",
-    "name": "La Panadería Bakery Café",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:09.874131"
-  },
-  {
-    "place_id": "0x865c5f0b32f321db:0",
-    "name": "Bedoy's Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:07.705639"
-  },
-  {
-    "place_id": "0x865c5fb3035e9f07:0",
-    "name": "La Popular Bakery & Cake Shop",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:06.498478"
   }
 ]
