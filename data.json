@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05c7ab4b648823:0",
+    "name": "Munnas bakery",
+    "address": "JWJC+H43, Chathanpadu Konchira",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:39:51.574453"
+  },
+  {
+    "place_id": "0x3b05c1ab9cdfae01:0",
+    "name": "Salwa Dum Biriyani",
+    "address": "Venjaramood road",
+    "category": "Biryani restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:39:50.134293"
+  },
+  {
+    "place_id": "0x3b05ad9ae38d01ff:0",
+    "name": "Squads Multi GYM",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 18:39:48.819285"
+  },
+  {
+    "place_id": "0x3b05ab860c80647f:0",
+    "name": "AMMA MOBILES",
+    "address": "2 Thiruthuvapuram, Kuzhithurai",
+    "category": "Cell phone accessory store",
+    "phone": "+91 99448 28735",
+    "website": null,
+    "discovered_at": "2026-11-17 18:39:47.448884"
+  },
+  {
     "place_id": "0x3b05b16a8aa24b47:0",
     "name": "Vippis Bakery",
     "address": "Ambadi Building, College Rd, near Temple",
@@ -8962,41 +8998,5 @@
     "phone": "+91 98950 67670",
     "website": null,
     "discovered_at": "2026-11-17 06:10:55.981102"
-  },
-  {
-    "place_id": "0x3b05bb0ebbace215:0",
-    "name": "Nest Realty",
-    "address": "Medayil Vilakkumadom, KRA 1, near Thiruvallam Bridge",
-    "category": "Property management company",
-    "phone": "+91 87141 38396",
-    "website": null,
-    "discovered_at": "2026-11-17 06:10:55.972325"
-  },
-  {
-    "place_id": "0x3b05bb068f4e4599:0",
-    "name": "Interlink Shyam",
-    "address": "Interlink House, TC 41/812, MR Hill Top, (PO)",
-    "category": "Retail space rental agency",
-    "phone": "+91 90723 00555",
-    "website": null,
-    "discovered_at": "2026-11-17 06:10:55.970186"
-  },
-  {
-    "place_id": "0x3b05bb60af2f5887:0",
-    "name": "Bs motor driving school",
-    "address": "near ramachandran super market",
-    "category": "Driving school",
-    "phone": "+91 96332 39854",
-    "website": null,
-    "discovered_at": "2026-11-17 06:10:55.967497"
-  },
-  {
-    "place_id": "0x3b05bb94aab3a81b:0",
-    "name": "Workout Warriors 3.0",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:10:55.959857"
   }
 ]
