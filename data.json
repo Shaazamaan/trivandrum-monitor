@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bd04d2111387:0",
+    "name": "Binod S",
+    "address": "GWF8+564, Ulloor - Akkulam Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 23:35:03.033390"
+  },
+  {
+    "place_id": "0x3b05bf0046e44f2d:0",
+    "name": "Sreehari",
+    "address": "GWJ6+4VG",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 23:35:01.612811"
+  },
+  {
+    "place_id": "0x3b05ba333c90fb73:0",
+    "name": "SFS Homes",
+    "address": "",
+    "category": "Construction company",
+    "phone": "+91 99472 22227",
+    "website": null,
+    "discovered_at": "2026-11-17 23:35:00.378189"
+  },
+  {
+    "place_id": "0x3b05b900731ba835:0",
+    "name": "Ramanan & Fly",
+    "address": "GWMM+H4F",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 23:34:59.182274"
+  },
+  {
+    "place_id": "0x3b05b9001e8545e3:0",
+    "name": "Ulloor house",
+    "address": "GWMH+6QF, Ulloor Gardens Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 23:34:58.000307"
+  },
+  {
+    "place_id": "0x3b05b9cc6c664185:0",
+    "name": "Jaya Vihar",
+    "address": "Ulloor - Akkulam Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 23:34:56.745201"
+  },
+  {
+    "place_id": "0x3b05b9004a7060c3:0",
+    "name": "Rg 147",
+    "address": "RG 147",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 23:34:55.554797"
+  },
+  {
+    "place_id": "0x3b05b955bc5b6731:0",
+    "name": "Vijay Plaza",
+    "address": "Medical College, Junction, Ulloor - Akkulam Rd",
+    "category": "Business center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 23:34:54.397203"
+  },
+  {
     "place_id": "0x3b05bd00601e42ff:0",
     "name": "SARASS",
     "address": "Opens 10:30 AM",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:47:33.621404"
-  },
-  {
-    "place_id": "0x3b05bf0031d29d9b:0",
-    "name": "East opticals",
-    "address": "6-58",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.620495"
-  },
-  {
-    "place_id": "0x3b05e7d68c967fc3:0",
-    "name": "Midhuna Tours & Travels",
-    "address": "QQJP+FQ2, Navaikulam Pallikkal Rd",
-    "category": "Travel agency",
-    "phone": "+91 99955 57843",
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.611440"
-  },
-  {
-    "place_id": "0x3b05bb492b8a8c43:0",
-    "name": "Everon Ventures",
-    "address": "Afra villa",
-    "category": "Real estate consultant",
-    "phone": "+91 85474 76000",
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.604863"
-  },
-  {
-    "place_id": "0x3b05e97885a41cff:0",
-    "name": "G-TEC KALLAMBALAM",
-    "address": "JASSIN COMPLEX, near PETROL PUMP",
-    "category": "Education center",
-    "phone": "+91 75908 00313",
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.601505"
-  },
-  {
-    "place_id": "0x3b05bf3f4179ba13:0",
-    "name": "Kerala Gurukulam",
-    "address": "Uthram Tower, Road, opp. Irfan Auditorium",
-    "category": "Education center",
-    "phone": "+91 98958 03330",
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.598292"
-  },
-  {
-    "place_id": "0x3b05e94eac566aa5:0",
-    "name": "JB COMBAT",
-    "address": "Njekkad School Ground, near GVHSS",
-    "category": "Martial arts club",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.594771"
-  },
-  {
-    "place_id": "0x3b05e98905676713:0",
-    "name": "SNS FITNESS CLUB",
-    "address": "Chennancode - Ottoor Road",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.593035"
-  },
-  {
-    "place_id": "0x3b05e7f43ea9c981:0",
-    "name": "FIT 11 Fitness Studio",
-    "address": "Navaikulam, opposite sree sankara Narayana",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.588124"
   }
 ]
