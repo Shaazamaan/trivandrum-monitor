@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b0cf6dcef99f:0",
+    "name": "Petzza- The Pet Wellness Hub - Kazhakoottam",
+    "address": "HVWQ+7JG",
+    "category": "Veterinarian",
+    "phone": "+91 80892 08889",
+    "website": null,
+    "discovered_at": "2026-11-17 03:58:37.557645"
+  },
+  {
+    "place_id": "0x3b05e9005d1c718f:0",
+    "name": "AYRAAN Store kallambalam Po",
+    "address": "QQ8Q+HHM, 47, National Highway",
+    "category": "Print shop",
+    "phone": "+91 90724 71731",
+    "website": null,
+    "discovered_at": "2026-11-17 03:58:36.380972"
+  },
+  {
+    "place_id": "0x3b05e9ffa09af3b5:0",
+    "name": "Annapoorna Pooja Store",
+    "address": "Varkala Kallambalam Rd",
+    "category": "Herb shop",
+    "phone": "+91 94461 73524",
+    "website": null,
+    "discovered_at": "2026-11-17 03:58:35.172282"
+  },
+  {
     "place_id": "0x880e34dd90be242f:0",
     "name": "Suite Spotte Coworking",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:12:19.372326"
-  },
-  {
-    "place_id": "0x808e33cdca09f1f9:0",
-    "name": "Hella Strength",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:12:18.135060"
-  },
-  {
-    "place_id": "0x808fccaedebf0373:0",
-    "name": "X-treme Athletics",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:12:16.940212"
-  },
-  {
-    "place_id": "0x808fcdc1d046fced:0",
-    "name": "Hills Training",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:12:15.756689"
   }
 ]
