@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b0453005f3efea7:0",
+    "name": "Kalyan Fashion Jewellery",
+    "address": "C5FW+XG9",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 21:07:52.397906"
+  },
+  {
+    "place_id": "0x3b05b340481bc301:0",
+    "name": "ZEST JUICERY",
+    "address": "ZEST Juicery Churuli Vellarada, Road",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 21:07:51.166304"
+  },
+  {
+    "place_id": "0x3b05b14f54a26bb1:0",
+    "name": "Star BAKERY",
+    "address": "G39P+V47",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 21:07:49.311029"
+  },
+  {
+    "place_id": "0x3b05b30047464a1f:0",
+    "name": "Manna Food Court",
+    "address": "G578+3PW, Vavode to Kandamthitta Road",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 21:07:47.917851"
+  },
+  {
     "place_id": "0x3b05a908ab1af967:0",
     "name": "Base Kafe",
     "address": "Opens 5:30 PM",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:32:52.965719"
-  },
-  {
-    "place_id": "0x3b05c9e7181e8eeb:0",
-    "name": "AL BARAKATH RESTAURANT",
-    "address": "AL BARAKATH, Thiruvananthapuram Road",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.963942"
-  },
-  {
-    "place_id": "0x3b05c907b1c8abc1:0",
-    "name": "Sreesivani",
-    "address": "Nettrachira kottamala",
-    "category": "Pharmaceutical products wholesaler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.959285"
-  },
-  {
-    "place_id": "0x3b05cfc961570b7f:0",
-    "name": "ASHRAYA COMMUNITY PHARMACY",
-    "address": "Jizan Building, 71/7",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.958227"
-  },
-  {
-    "place_id": "0x3b05c979c332f87b:0",
-    "name": "SOUMYA G S",
-    "address": "arya Hospital, Nedumangad Road",
-    "category": "Pharmacy",
-    "phone": "+91 94954 63004",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.956585"
   }
 ]
