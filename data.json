@@ -1,5 +1,212 @@
 [
   {
+    "place_id": "0x3b05e9006193a95b:0",
+    "name": "Hi5 Cafe",
+    "address": "PPMV+C6V, Varkala Kallambalam Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:54.256819"
+  },
+  {
+    "place_id": "0x3b05c3237736a8a5:0",
+    "name": "JK MEDICALS",
+    "address": "JK MEDICALS Vanchiyoor Junction Opposite Kilimanoore Road Vanchiyoor Junction Alamcode, Village",
+    "category": "Pharmacy",
+    "phone": "+91 94470 69203",
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:53.027480"
+  },
+  {
+    "place_id": "0x3b05e9c49a4bfa51:0",
+    "name": "Unity Medicals",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 88911 11238",
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:51.586005"
+  },
+  {
+    "place_id": "0x3b05e955f173ec93:0",
+    "name": "Generic + Adhar Medical Store/ Janashraya Medical Store/ Pharmacy",
+    "address": "Thangal Charitable Trust Hospital, KTCT Hospital Junction opposite KTCT Hospital, Kaduvayil",
+    "category": "Pharmacy",
+    "phone": "+91 75111 65011",
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:50.334335"
+  },
+  {
+    "place_id": "0x3b05e91eaeb41c6f:0",
+    "name": "Amma Medicals & Surgicals",
+    "address": "Cherunniyoor",
+    "category": "Pharmacy",
+    "phone": "+91 94977 73060",
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:49.107034"
+  },
+  {
+    "place_id": "0x3b05afc9f6a0cff1:0",
+    "name": "Azad Homoeo Pharmacy",
+    "address": "Near Thykkapally, Unni Theatre Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:47.666093"
+  },
+  {
+    "place_id": "0x3b05e9006c464457:0",
+    "name": "Thulasi community pharmacy",
+    "address": "PQ8H+W46",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:45.203245"
+  },
+  {
+    "place_id": "0x3b05bbd4a16f6fd3:0",
+    "name": "Manu and Co",
+    "address": "22",
+    "category": "Chartered accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:43.798654"
+  },
+  {
+    "place_id": "0x3b05c9000c3a8bed:0",
+    "name": "Life Fitness",
+    "address": "Kottarathil heights",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:42.469540"
+  },
+  {
+    "place_id": "0x3b05bb84781e8049:0",
+    "name": "Malabar Gold and Diamonds - Mall of Travancore - Thiruvananthapuram",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:41.188869"
+  },
+  {
+    "place_id": "0x3b05bbd201f47591:0",
+    "name": "Doodles -The Designer Studio",
+    "address": "near Bear Teddy Home Decor",
+    "category": "Clothing store",
+    "phone": "+91 95444 50055",
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:39.605841"
+  },
+  {
+    "place_id": "0x3b05bbdf61e97689:0",
+    "name": "\"THUNIKADA\" The Madrigal Dress Vogue",
+    "address": "SREEPOORAM, TC : 9, 1325, Sasthamangalam - Pipinmoodu Rd",
+    "category": "Boutique",
+    "phone": "+91 80783 56540",
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:38.213751"
+  },
+  {
+    "place_id": "0x3b05b930e28a9799:0",
+    "name": "XXXXXXXXXXXXXXXXNNAN",
+    "address": "Tea Shop",
+    "category": "Tea store",
+    "phone": "+91 85900 76016",
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:36.951510"
+  },
+  {
+    "place_id": "0x3b05bbc8896c48b3:0",
+    "name": "BLENDZY JUICY POP",
+    "address": "Oottukuzhy-Vanross Rd, near variety marbles, near oottukuzhi",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:35.655881"
+  },
+  {
+    "place_id": "0x3b05c5a64fbfb88b:0",
+    "name": "Calicut bakery",
+    "address": "Calicut bakery",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:34.290343"
+  },
+  {
+    "place_id": "0x3b05c768cd2bbdcb:0",
+    "name": "Aswas community pharmacy",
+    "address": "Market junction, opposite old fashion textiles",
+    "category": "Pharmacy",
+    "phone": "+91 98474 33345",
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:33.024826"
+  },
+  {
+    "place_id": "0x3b05c871c3ada34b:0",
+    "name": "Kerala Medicals",
+    "address": "J2RC+X93",
+    "category": "Pharmacy",
+    "phone": "+91 96458 66736",
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:31.729903"
+  },
+  {
+    "place_id": "0x3b05c7bff2867ca9:0",
+    "name": "Sreehari Medicals",
+    "address": "JWHP+PPX, Trivandrum - Kilimanoor Rd",
+    "category": "Pharmacy",
+    "phone": "+91 82811 23000",
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:30.417450"
+  },
+  {
+    "place_id": "0x3b05c165a3a0ebb1:0",
+    "name": "JANA SAMRUDHI MEDICALS",
+    "address": "VILLAGEOFFICE ROAD",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:28.895907"
+  },
+  {
+    "place_id": "0x3b05bf89d2453a81:0",
+    "name": "Bismi Medical",
+    "address": "ARCADE Building, Crpf",
+    "category": "Pharmacy",
+    "phone": "+91 79025 93192",
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:27.239350"
+  },
+  {
+    "place_id": "0x3b05cf004dc51b3b:0",
+    "name": "poyka medicals",
+    "address": "Govt Hospital, Thiruvananthapuram Thenmala Rd - SH 2",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:26.008887"
+  },
+  {
+    "place_id": "0x3b05c582824dce59:0",
+    "name": "Sudheer Medicals",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 98958 88921",
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:24.760811"
+  },
+  {
+    "place_id": "0x3b05b7bab155463d:0",
+    "name": "Hill View Dental Clinic",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 14:19:23.508942"
+  },
+  {
     "place_id": "0x3b05a583f1a707b7:0",
     "name": "VCB WORKSPACE",
     "address": "CX5F+5RH, Vellar Service Rd",
@@ -8791,212 +8998,5 @@
     "phone": "+91 82818 28139",
     "website": null,
     "discovered_at": "2026-11-17 05:36:20.411845"
-  },
-  {
-    "place_id": "0x3b05a5f55f37db2f:0",
-    "name": "Munnu Mobiles",
-    "address": "Munnu Mobiles, Mukkola Junction, near Beverage",
-    "category": "Cell phone store",
-    "phone": "+91 81297 72963",
-    "website": null,
-    "discovered_at": "2026-11-17 05:36:20.410254"
-  },
-  {
-    "place_id": "0x3b05a50ad4e39231:0",
-    "name": "M M Garments",
-    "address": "Plamoottu Vila",
-    "category": "Boutique",
-    "phone": "+91 97464 06970",
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.958034"
-  },
-  {
-    "place_id": "0x3b05a5a673079bb7:0",
-    "name": "Fabindia",
-    "address": "Property No VP1, Police Station, Kovalam, 389, Beach Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.955483"
-  },
-  {
-    "place_id": "0x3b05a55ff1027e95:0",
-    "name": "JUICE TREATS",
-    "address": "9XJM+H36, Vizhinjam Harbour Rd",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.954012"
-  },
-  {
-    "place_id": "0x3b05a5098a14bde1:0",
-    "name": "Shivas Stores And Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.951298"
-  },
-  {
-    "place_id": "0x3b05a50f8ac55c69:0",
-    "name": "Lotus Bakery",
-    "address": "Vellar Junction, Pachalloor, NH Bypass Service Road",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.950143"
-  },
-  {
-    "place_id": "0x3b05a5bb26efc427:0",
-    "name": "Kerala Cafe",
-    "address": "Cafe, Kerala Cafe Kovalam 1",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.948084"
-  },
-  {
-    "place_id": "0x3b05a50040c44957:0",
-    "name": "Let a Coffee by Sunset",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.947135"
-  },
-  {
-    "place_id": "0x3b05a5002edfb60d:0",
-    "name": "Oceano Di Cafe",
-    "address": "Closes 11 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.945862"
-  },
-  {
-    "place_id": "0x3b05afaf78ca5249:0",
-    "name": "Theerathil Eye Clinic & Opticals",
-    "address": "",
-    "category": "Optometrist",
-    "phone": "+91 94970 32023",
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.940320"
-  },
-  {
-    "place_id": "0x3b05a5e7f816ce8b:0",
-    "name": "Healing hands",
-    "address": "KP 17/182, Kakkamoola junction",
-    "category": "Physical therapy clinic",
-    "phone": "+91 94956 51888",
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.937768"
-  },
-  {
-    "place_id": "0x3b05bb518b9e0d2f:0",
-    "name": "SNEHA Tours & Travels",
-    "address": "Sopanam, vazhayanikonam Kachani, Po",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.928234"
-  },
-  {
-    "place_id": "0x3b05b8037493a395:0",
-    "name": "IEST ISRO Coaching Centre",
-    "address": "East Bungalow",
-    "category": "Educational institution",
-    "phone": "+91 70121 75044",
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.920359"
-  },
-  {
-    "place_id": "0x3b05c79d201bc96d:0",
-    "name": "Vembayam Vanitham Margin Free Supermarket",
-    "address": "Ground Floor, Juma Masjid, Vanitham Margin Free Supermarket, N.B Plaza, Nedumangad Rd, opposite Vembayam",
-    "category": "Supermarket",
-    "phone": "+91 75930 06035",
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.915243"
-  },
-  {
-    "place_id": "0x3b05b740a445dcb1:0",
-    "name": "Hare krishna mobiles",
-    "address": "Vellanad Bus Stop, Vellanadu Nedumangad Road, Nedumangadu Road",
-    "category": "Cell phone store",
-    "phone": "+91 83048 18181",
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.910965"
-  },
-  {
-    "place_id": "0x3b05bb6c50a813a3:0",
-    "name": "Juice factory",
-    "address": "Vettamukku, Maruthankuzhi - Kachani Rd",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.907139"
-  },
-  {
-    "place_id": "0x3b05c9fb687a85d5:0",
-    "name": "Cafe Joy",
-    "address": "Café Joy, back gate, IIST Rd",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.902110"
-  },
-  {
-    "place_id": "0x3b05b99d7da4223d:0",
-    "name": "Raif family Restaurant",
-    "address": "JX2W+H8W",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.900911"
-  },
-  {
-    "place_id": "0x3b05b78323a0c6b7:0",
-    "name": "Kerala kitchen Restaurant",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.899764"
-  },
-  {
-    "place_id": "0x3b05b90002c83a0f:0",
-    "name": "KAIROS Physiotherapy Centre",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": "+91 85906 23387",
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.891619"
-  },
-  {
-    "place_id": "0x3b05bbe37328f2d1:0",
-    "name": "NANMA DENTAL CARE",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": "+91 62828 77428",
-    "website": null,
-    "discovered_at": "2026-11-17 05:29:30.888232"
-  },
-  {
-    "place_id": "0x3b05af0012f0edcf:0",
-    "name": "Abhinavam perumpazhuthoor Neyyattinkara",
-    "address": "C3PH+V8X, PO",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:22:56.209239"
-  },
-  {
-    "place_id": "0x3b05bbb187ecefeb:0",
-    "name": "Artech Realtors",
-    "address": "",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:22:56.207997"
   }
 ]
