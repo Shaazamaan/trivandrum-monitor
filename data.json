@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb002a51ef0b:0",
+    "name": "Three Star Restaurant",
+    "address": "FXX3+234, Rd",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 20:07:52.075557"
+  },
+  {
     "place_id": "0x3b05bb0011ba7c17:0",
     "name": "Peter England",
     "address": "School, Cordial Tower, near Saint Marys Lane",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:32:52.906034"
-  },
-  {
-    "place_id": "0x3b05c1c02ca9daa5:0",
-    "name": "Kunnil Supermarket",
-    "address": "",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:52.901349"
   }
 ]
