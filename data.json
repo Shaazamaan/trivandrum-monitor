@@ -1,5 +1,464 @@
 [
   {
+    "place_id": "0x3b05bf76c833f91b:0",
+    "name": "RF CONSTRUCTIONS",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": "+91 94865 77961",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.373116"
+  },
+  {
+    "place_id": "0x3b05bf08cab42ba5:0",
+    "name": "ARUN LANDS",
+    "address": "ARUN LANDS",
+    "category": "Real estate consultant",
+    "phone": "+91 77361 71315",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.370759"
+  },
+  {
+    "place_id": "0x3b05bf2b624f9a3d:0",
+    "name": "Sarathy Tution Center",
+    "address": "HWJ3+8VG, Sreekariyam - Pothencode Rd",
+    "category": "Private educational institution",
+    "phone": "+91 95445 08134",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.369060"
+  },
+  {
+    "place_id": "0x3b05c0a31e4153ff:0",
+    "name": "School of IT",
+    "address": "Closes 5:30 PM",
+    "category": "Open",
+    "phone": "+91 70254 35843",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.368051"
+  },
+  {
+    "place_id": "0x3b05c1451f326733:0",
+    "name": "DIKSHA PSC POTHENCODE",
+    "address": "opposite to Bus Stand, near MT Cinema Theatre",
+    "category": "Educational institution",
+    "phone": "+91 77360 36093",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.366734"
+  },
+  {
+    "place_id": "0x3b05bb3511c7367f:0",
+    "name": "The Loards Gym",
+    "address": "opposite KSRTC Depo",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.363513"
+  },
+  {
+    "place_id": "0x3b05c7f47f25f151:0",
+    "name": "De Mantra Beauty Solutions By Dr Nimisha",
+    "address": "Vembayam - Pothencode Rd, near autostand",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.360992"
+  },
+  {
+    "place_id": "0x3b05c06b5309456d:0",
+    "name": "Margin Free Supermarket",
+    "address": "JRFX+RMC, Pothencode Murukkumpuzha Rd",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.358420"
+  },
+  {
+    "place_id": "0x3b05b8d16e7a3283:0",
+    "name": "Triveni Super Market POWDIKONAM",
+    "address": "",
+    "category": "Supermarket",
+    "phone": "+91 98471 50289",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.357392"
+  },
+  {
+    "place_id": "0x3b05b9bf5157de63:0",
+    "name": "Pick N Pack Super Market",
+    "address": "Pothencode - Powdikonam Rd",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.355588"
+  },
+  {
+    "place_id": "0x3b05bf93f8080ef1:0",
+    "name": "WEGMANS SUPER MART",
+    "address": "Sreekariyam - Pothencode Rd",
+    "category": "Supermarket",
+    "phone": "+91 99954 13677",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.354479"
+  },
+  {
+    "place_id": "0x3b05c0a33f3e1499:0",
+    "name": "Home Centre",
+    "address": "HVVH+3WW",
+    "category": "Shopping mall",
+    "phone": "+91 90482 25566",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.350531"
+  },
+  {
+    "place_id": "0x3b05bfb7456878a1:0",
+    "name": "Duro Furnishing",
+    "address": "Kazhakootam, Pothencode Road(Vettu Road, near St Thomas Engineering College",
+    "category": "Furniture store",
+    "phone": "+91 98477 01130",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.348787"
+  },
+  {
+    "place_id": "0x3b05bb3cb0d6a115:0",
+    "name": "The Ice House Juice & Eatery",
+    "address": "Pattoor - Vanchiyoor Rd",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.341847"
+  },
+  {
+    "place_id": "0x3b05c1ed4ed40753:0",
+    "name": "Bake World",
+    "address": "JR7P+J64 Angadikada, Pothencode Murukkumpuzha Rd, opposite St Augustine's High School",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.338282"
+  },
+  {
+    "place_id": "0x3b05c1bb4468a023:0",
+    "name": "Marilakshmi Bakery",
+    "address": "44, Jn, near M.T Theatre and Auditorium",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.337340"
+  },
+  {
+    "place_id": "0x3b05c15e695b38c7:0",
+    "name": "Sahanas Zweetz",
+    "address": "Sahanas, Vavarambalam",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.336340"
+  },
+  {
+    "place_id": "0x3b05bfd9431e8bb5:0",
+    "name": "MINSUN CIASTA, THE HOMEMADE CAKE SHOP",
+    "address": "Puliyancode junction, Ayirooppara.PO, Pothencode, via",
+    "category": "Cake shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.335458"
+  },
+  {
+    "place_id": "0x3b05bf9c040e63f7:0",
+    "name": "Bites Bakers And Juices",
+    "address": "Bites Bakery",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.334529"
+  },
+  {
+    "place_id": "0x3b05bf98ad77002f:0",
+    "name": "Dessi Cuppa - Mexican Cafe",
+    "address": "",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.332312"
+  },
+  {
+    "place_id": "0x3b05c196984a908b:0",
+    "name": "Primier food & cafe",
+    "address": "pothencode road, opposite Kerala Gramin Bank",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.330949"
+  },
+  {
+    "place_id": "0x3b05bad0315433c9:0",
+    "name": "Punchakkari Restaurant",
+    "address": "CXXF+R55, Punchakkari Rd",
+    "category": "Fish restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.329231"
+  },
+  {
+    "place_id": "0x3b05c702cb68e3c9:0",
+    "name": "HI-FIVE RESTAURANT",
+    "address": "PALLIKKAL PLAZA BUILDING, SH 1",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.328147"
+  },
+  {
+    "place_id": "0x3b05bf4d2870c1e1:0",
+    "name": "Ladhans Family Restaurant",
+    "address": "",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.326351"
+  },
+  {
+    "place_id": "0x3b05b8cb138e8a4d:0",
+    "name": "Goverment Vetinary Hospital",
+    "address": "HWPC+32F, Pothencode - Powdikonam Rd",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.323840"
+  },
+  {
+    "place_id": "0x3b05bf3bd0752263:0",
+    "name": "Lekshmi Medicals",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 92498 83883",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.322196"
+  },
+  {
+    "place_id": "0x3b05c193431f6479:0",
+    "name": "SANTHWANAM PHARMACY",
+    "address": "Pothencode Market, VENJARAMOOD ROAD, opposite Thiruvananthapuram",
+    "category": "Health and beauty shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.320513"
+  },
+  {
+    "place_id": "0x3b05bf3bcdbdd7b1:0",
+    "name": "Model Diagnostic Services",
+    "address": "Sreekariyam - Pothencode Rd",
+    "category": "Diagnostic center",
+    "phone": "+91 94978 78752",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.318999"
+  },
+  {
+    "place_id": "0x3b05c006946b86c1:0",
+    "name": "Aswas Diagnostics",
+    "address": "Pothencode Murukkumpuzha Rd",
+    "category": "Diagnostic center",
+    "phone": "+91 77362 15556",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.317991"
+  },
+  {
+    "place_id": "0x3b05c0a25a46e67d:0",
+    "name": "S. R Hospital",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.315686"
+  },
+  {
+    "place_id": "0x3b05bb0011723711:0",
+    "name": "VARSHA Physiotherapy Centre pappanamcode",
+    "address": "PJ/28446",
+    "category": "Physical therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.311127"
+  },
+  {
+    "place_id": "0x3b05c1efdee4e871:0",
+    "name": "Madina Ortho and Gynaec clinic",
+    "address": "",
+    "category": "Hospital",
+    "phone": "+91 98472 98354",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.310065"
+  },
+  {
+    "place_id": "0x3b05c17a99ab37fd:0",
+    "name": "E SQUARE PHYSIOTHERAPY CENTRE",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": "+91 80753 55811",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.308957"
+  },
+  {
+    "place_id": "0x3b05ab74407a8c6f:0",
+    "name": "Rockland Wedding Visual Makers",
+    "address": "near government Hospital",
+    "category": "Photography studio",
+    "phone": "+91 94978 50252",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.299188"
+  },
+  {
+    "place_id": "0x3b05ab9bb580811b:0",
+    "name": "Karunya events parassala",
+    "address": "+91 90611 21108",
+    "category": "Open 24 hours",
+    "phone": "+91 90611 21108",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.297561"
+  },
+  {
+    "place_id": "0x3b05bb24eaaaaaab:0",
+    "name": "Sree Vigneswara Driving School",
+    "address": "opp. ORILA restuarent",
+    "category": "Driving school",
+    "phone": "+91 88483 79600",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.290698"
+  },
+  {
+    "place_id": "0x3b05b8d6cd4cd741:0",
+    "name": "Achutham Driving School",
+    "address": "Closes 6:30 PM",
+    "category": "Open",
+    "phone": "+91 98479 07262",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.289743"
+  },
+  {
+    "place_id": "0x3b05b91177944785:0",
+    "name": "JAYA MOTOR DRIVING SCHOOL",
+    "address": "Madathunada-Pathirippally Road",
+    "category": "Driving school",
+    "phone": "+91 94956 25892",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.288370"
+  },
+  {
+    "place_id": "0x3b05ad5df2ac3405:0",
+    "name": "Future Plus Tuition Center",
+    "address": "95G9+F4W, Parassala Vellarada Rd",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.286444"
+  },
+  {
+    "place_id": "0x3b05bb5365fd4909:0",
+    "name": "Drago fitness",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.283282"
+  },
+  {
+    "place_id": "0x3b05b0ceb7895f19:0",
+    "name": "MG FITNESS",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.282162"
+  },
+  {
+    "place_id": "0x3b05adc72700a9f1:0",
+    "name": "Royalize Fitness Planet",
+    "address": "",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.280905"
+  },
+  {
+    "place_id": "0x3b0453b199ec8357:0",
+    "name": "SportTact sports and fitness center",
+    "address": "Parassala Vellarada Rd",
+    "category": "Sporting goods store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.279587"
+  },
+  {
+    "place_id": "0x3b05ab00488b7b0b:0",
+    "name": "Jb fitness and supplements pazhaya Uchakada",
+    "address": "pazhaya, Uchakkada - Kulathoor Rd",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.278656"
+  },
+  {
+    "place_id": "0x3b05abb02b62c935:0",
+    "name": "Astral Glam Makeover studio",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.277278"
+  },
+  {
+    "place_id": "0x3b05ad5fb2483695:0",
+    "name": "Diya Beauty Care & Spa",
+    "address": "Parassala Vellarada Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.276013"
+  },
+  {
+    "place_id": "0x3b05abda6e56080b:0",
+    "name": "Ashmi beauty parlour",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.274907"
+  },
+  {
+    "place_id": "0x3b04532861474525:0",
+    "name": "My Kalyan Mini Store",
+    "address": "56/J, Thai Bulding, Ward No 8, Vellarada, Parassala Road",
+    "category": "Jewelry store",
+    "phone": "+91 92400 30884",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.271309"
+  },
+  {
+    "place_id": "0x3b05ab15ca3b0039:0",
+    "name": "Shalom Mattresses",
+    "address": "Near Federal Bank - Parassala",
+    "category": "Mattress store",
+    "phone": "+91 79048 19466",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.268342"
+  },
+  {
+    "place_id": "0x3b044d554387e503:0",
+    "name": "Bali Home Centre",
+    "address": "",
+    "category": "Furniture wholesaler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.266590"
+  },
+  {
+    "place_id": "0x3b0452ab2a25a60d:0",
+    "name": "Pixzone Mobiles",
+    "address": "Parassala Vellarada Rd",
+    "category": "Cell phone store",
+    "phone": "+91 96337 15923",
+    "website": null,
+    "discovered_at": "2026-11-17 05:49:56.264684"
+  },
+  {
     "place_id": "0x3b05ab6bff2c4b03:0",
     "name": "OUT LOOK",
     "address": "Outlook menswear",
@@ -8539,464 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 15:42:05.025949"
-  },
-  {
-    "place_id": "0x865cf5007af0bd2d:0",
-    "name": "Bakery Lorraine",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:42:03.816623"
-  },
-  {
-    "place_id": "0x865c5f69c9865e5f:0",
-    "name": "Bakery Eleven Eleven",
-    "address": "118 Broadway Ste 625 PMB 747",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:42:01.573333"
-  },
-  {
-    "place_id": "0x865c5f7c391f9411:0",
-    "name": "Dough Baby",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:59.042948"
-  },
-  {
-    "place_id": "0x865c59a2494e726b:0",
-    "name": "Kotka Y Chucho",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:57.810933"
-  },
-  {
-    "place_id": "0x865c5f30c0b7def1:0",
-    "name": "Missy's Provisions",
-    "address": "2110 McCullough Ave",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:55.620147"
-  },
-  {
-    "place_id": "0x865c5fbfc6fd5f23:0",
-    "name": "Levadura Bakehouse",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:53.792600"
-  },
-  {
-    "place_id": "0x865c5f78bc76cfcd:0",
-    "name": "Revolución",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:51.608713"
-  },
-  {
-    "place_id": "0x865cf76dd1d389d7:0",
-    "name": "Labor Street Cafe",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:49.186056"
-  },
-  {
-    "place_id": "0x865c5ffa97f5e147:0",
-    "name": "Archies Coffee Lounge",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:47.965563"
-  },
-  {
-    "place_id": "0x865c58a9766b0d33:0",
-    "name": "CommonWealth Coffeehouse & Bakery Hemisfair",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:45.583840"
-  },
-  {
-    "place_id": "0x865cf5568cadaf49:0",
-    "name": "Kiki's Coffee & Spirits",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:43.037879"
-  },
-  {
-    "place_id": "0x865cf709f903d903:0",
-    "name": "Downtowner Coffee Co",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:41.796304"
-  },
-  {
-    "place_id": "0x865cf56baf033503:0",
-    "name": "Crème Coffee & Social",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:39.613808"
-  },
-  {
-    "place_id": "0x865c5f000f5be8e5:0",
-    "name": "Silhouette Coffee",
-    "address": "2810 N Flores St Ste 100",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:37.060417"
-  },
-  {
-    "place_id": "0x865c5fadd58c5b8d:0",
-    "name": "Pan&Coffee",
-    "address": "1110 Brooklyn Ave",
-    "category": "Espresso bar",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:35.783191"
-  },
-  {
-    "place_id": "0x865c5f9ebca090ff:0",
-    "name": "Gravves Coffee",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:33.620826"
-  },
-  {
-    "place_id": "0x865cf5dedfd670ab:0",
-    "name": "The Honey Bean Coffee & Tea Co.",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:31.250295"
-  },
-  {
-    "place_id": "0x865cf7002fd5e083:0",
-    "name": "Casa Pink Studio Coffee",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:29.914593"
-  },
-  {
-    "place_id": "0x865c5fba1db07c71:0",
-    "name": "Dos Güeras Café Truck",
-    "address": "1626 McCullough Ave",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:27.534625"
-  },
-  {
-    "place_id": "0x865cf6076c81368d:0",
-    "name": "Estate Coffee Company",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:24.956641"
-  },
-  {
-    "place_id": "0x865c596aa374efa3:0",
-    "name": "Reunion Coffee - Downtown",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:23.749364"
-  },
-  {
-    "place_id": "0x865cf541852c4537:0",
-    "name": "Mila Coffee",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:21.551164"
-  },
-  {
-    "place_id": "0x865c5f3b18576563:0",
-    "name": "La Vida Coffee",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:19.025089"
-  },
-  {
-    "place_id": "0x865c5de1d58924d3:0",
-    "name": "Cafe La Lele",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:17.684206"
-  },
-  {
-    "place_id": "0x865c5f3c67383ea7:0",
-    "name": "Through Grace Coffee",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:14.918619"
-  },
-  {
-    "place_id": "0x865cf7e34c855e39:0",
-    "name": "Ray & Josephine",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:13.631464"
-  },
-  {
-    "place_id": "0x865cf579b7c27413:0",
-    "name": "Amaretti Coffee & Chai",
-    "address": "1800 Broadway #1131",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:11.097451"
-  },
-  {
-    "place_id": "0x865c590009585839:0",
-    "name": "The Nectarie Cafe",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:09.852455"
-  },
-  {
-    "place_id": "0x865c59006f370637:0",
-    "name": "Caffeine hoe",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:07.554260"
-  },
-  {
-    "place_id": "0x865c5f92a0c63825:0",
-    "name": "Vela Coffee",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:05.104412"
-  },
-  {
-    "place_id": "0x865cf46bd24eca9d:0",
-    "name": "Burger King",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:03.819671"
-  },
-  {
-    "place_id": "0x865c5f609a5e2bff:0",
-    "name": "Demo's Greek Food",
-    "address": "",
-    "category": "Greek restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:41:01.556857"
-  },
-  {
-    "place_id": "0x865c5f7788886cc9:0",
-    "name": "Naco Mexican Grayson",
-    "address": "",
-    "category": "Mexican restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:59.063504"
-  },
-  {
-    "place_id": "0x865c58b503a0e999:0",
-    "name": "SoFrio's Eat + Drink!",
-    "address": "",
-    "category": "American restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:57.759516"
-  },
-  {
-    "place_id": "0x865cf5c2c74e0243:0",
-    "name": "Bill Miller BBQ",
-    "address": "",
-    "category": "Barbecue restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:55.564093"
-  },
-  {
-    "place_id": "0x865c58b3c77091f9:0",
-    "name": "The Bistro – Eat. Drink. Connect.",
-    "address": "",
-    "category": "American restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:53.064974"
-  },
-  {
-    "place_id": "0x865cf5103569dbd5:0",
-    "name": "Burger King",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:51.848073"
-  },
-  {
-    "place_id": "0x865cf597591929f1:0",
-    "name": "Tre Trattoria",
-    "address": "",
-    "category": "Italian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:48.964926"
-  },
-  {
-    "place_id": "0x865cf5a153b245a5:0",
-    "name": "Popeyes Louisiana Kitchen",
-    "address": "",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:47.763647"
-  },
-  {
-    "place_id": "0x865c58bb119aca07:0",
-    "name": "Stella Public House",
-    "address": "",
-    "category": "Pizza restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:45.554040"
-  },
-  {
-    "place_id": "0x865cf5c67c27a0dd:0",
-    "name": "Creamery",
-    "address": "",
-    "category": "American restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:42.943422"
-  },
-  {
-    "place_id": "0x865cf51ee4d26e43:0",
-    "name": "Breakaway Brewing Company",
-    "address": "",
-    "category": "Brewpub",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:41.667952"
-  },
-  {
-    "place_id": "0x865cf5006107c3eb:0",
-    "name": "The Scene",
-    "address": "",
-    "category": "American restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:38.920334"
-  },
-  {
-    "place_id": "0x865cf5a4e5981a43:0",
-    "name": "Slim Chickens",
-    "address": "",
-    "category": "Chicken restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:37.586809"
-  },
-  {
-    "place_id": "0x865cf504eb51e5d9:0",
-    "name": "Fife and Farro",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:35.015373"
-  },
-  {
-    "place_id": "0x865c5f1172aa081f:0",
-    "name": "Primo's",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:33.578194"
-  },
-  {
-    "place_id": "0x865cf500394f012f:0",
-    "name": "Estribo",
-    "address": "",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:31.040626"
-  },
-  {
-    "place_id": "0x865cf5d1f48c7f57:0",
-    "name": "Live a Little Eat a Little Restaurant",
-    "address": "",
-    "category": "Mexican restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:29.814651"
-  },
-  {
-    "place_id": "0x865cf5c2f2ee6373:0",
-    "name": "Ma Harper's Creole Kitchen",
-    "address": "",
-    "category": "Creole restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:27.357494"
-  },
-  {
-    "place_id": "0x865cf7f1ae1a56ef:0",
-    "name": "The Magpie",
-    "address": "",
-    "category": "Fusion restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:26.108258"
-  },
-  {
-    "place_id": "0x865c5963d04600a3:0",
-    "name": "Bar Loretta",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 15:40:24.559382"
   }
 ]
