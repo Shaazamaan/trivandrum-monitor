@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05bb0f29edf0f3:0",
+    "name": "Sidharth Residency",
+    "address": "Sachivothama Rd",
+    "category": "Construction company",
+    "phone": "+91 62388 24820",
+    "website": null,
+    "discovered_at": "2026-11-17 13:57:16.371741"
+  },
+  {
+    "place_id": "0x3b05c1188a59f515:0",
+    "name": "Stars Tution Centre",
+    "address": "MVM5+7XF",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 13:57:14.931131"
+  },
+  {
+    "place_id": "0x3b05e90ebe73729d:0",
+    "name": "Shreyas Boutique",
+    "address": "MQWP+98R, Mananakku-Kollampuzha-Attingal Rd",
+    "category": "Clothing store",
+    "phone": "+91 70124 54403",
+    "website": null,
+    "discovered_at": "2026-11-17 13:57:13.651678"
+  },
+  {
+    "place_id": "0x3b05c7736ee7cae1:0",
+    "name": "JEEVARASHI COLLECTIONS",
+    "address": "JEEVARASHI COLLECTIONS, Shivankonam Rd",
+    "category": "Clothing store",
+    "phone": "+91 92073 00138",
+    "website": null,
+    "discovered_at": "2026-11-17 13:57:12.412306"
+  },
+  {
+    "place_id": "0x3b05ea4597c658d7:0",
+    "name": "KALLOOS HOTEL",
+    "address": "MQ7V+83Q, Eenchakkal Rd",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 13:57:10.956462"
+  },
+  {
+    "place_id": "0x3b05bbd55c989fcd:0",
+    "name": "TROUVAILLER TOURS",
+    "address": "TC 45/960 NEW BUILDING Vallakkadavu p.o",
+    "category": "Travel agency",
+    "phone": "+91 70125 10955",
+    "website": null,
+    "discovered_at": "2026-11-17 13:57:09.525110"
+  },
+  {
+    "place_id": "0x3b05bbb2c6c44347:0",
+    "name": "Honeydew ULTRA Salon & Spa",
+    "address": "TC 91/855, 1, Anayara Rd, near Ambara Suites",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 13:57:08.266396"
+  },
+  {
     "place_id": "0x3b05baff9d5bcb6f:0",
     "name": "Salam Fruits and Juices",
     "address": "FXJ8+XVF",
@@ -8935,68 +8998,5 @@
     "phone": "+91 96059 15688",
     "website": null,
     "discovered_at": "2026-11-17 05:22:56.188875"
-  },
-  {
-    "place_id": "0x3b05ad7a88fa4031:0",
-    "name": "SL Impact Gym",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:22:56.182746"
-  },
-  {
-    "place_id": "0x3b05b70f8dd6353d:0",
-    "name": "shadow fitness centre",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:22:56.181627"
-  },
-  {
-    "place_id": "0x3b05af73ff06f8f5:0",
-    "name": "Aryans fitness club",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:22:56.180610"
-  },
-  {
-    "place_id": "0x3b05afc826d097d5:0",
-    "name": "IRON PARADISE",
-    "address": "Neyyattinkara Kattakkada Rd, opposite panchayat office",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:22:56.179133"
-  },
-  {
-    "place_id": "0x646cebee06b6ea1d:0",
-    "name": "Kavi Makeovers & Beauty Parlour",
-    "address": "Closes 6:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:22:56.177044"
-  },
-  {
-    "place_id": "0x3b05bbd36d87a5a1:0",
-    "name": "RMR MARGIN FREE SUPER MARKET",
-    "address": "",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:22:56.174712"
-  },
-  {
-    "place_id": "0x3b05af003b375fb3:0",
-    "name": "Thryambika Rental jewels",
-    "address": "Convent Road",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:22:56.172127"
   }
 ]
