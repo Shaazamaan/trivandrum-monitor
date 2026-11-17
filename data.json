@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05eb007a706033:0",
+    "name": "FAYAZ MEDICALS PERUNGUZHI",
+    "address": "JRJ7+P34, Chirayinkeezhu Kaniyapuram Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:23:35.790173"
+  },
+  {
+    "place_id": "0x3b05bec94896fdb1:0",
+    "name": "Global Fitness Arena",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:23:34.502986"
+  },
+  {
+    "place_id": "0x3b05bc2044ada00b:0",
+    "name": "The Kappi Shop",
+    "address": "NH66, Karimanal Rd",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 11:23:33.240226"
+  },
+  {
     "place_id": "0x3b05bbba981cb309:0",
     "name": "Cake time -Homemade cakes",
     "address": "S-78, South Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:58:31.384390"
-  },
-  {
-    "place_id": "0x3b05bc019544b23f:0",
-    "name": "Krishna Bakery & Coolbar",
-    "address": "GWF7+5G7, Ulloor - Akkulam Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.383380"
-  },
-  {
-    "place_id": "0x3b05b9ffb3456d59:0",
-    "name": "Malabar bites",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.380850"
-  },
-  {
-    "place_id": "0x3b05b991dafff323:0",
-    "name": "Healthush",
-    "address": "Ulloor - Akkulam Rd Pulayanarkotta",
-    "category": "Health food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:58:31.378577"
   }
 ]
