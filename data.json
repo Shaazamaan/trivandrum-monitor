@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x60996f20c264544d:0",
+    "name": "Go My Tour",
+    "address": "Shop No 20, Sree Muruka Towers, Police Station, opp. Nemom",
+    "category": "Tour agency",
+    "phone": "+91 79079 27364",
+    "website": null,
+    "discovered_at": "2026-11-17 00:27:58.342865"
+  },
+  {
+    "place_id": "0x3b05bb4ba4722455:0",
+    "name": "Cloud Bites",
+    "address": "MRA 45, Homeo College Rd",
+    "category": "Food manufacturer",
+    "phone": "+91 87147 90659",
+    "website": null,
+    "discovered_at": "2026-11-17 00:27:57.027246"
+  },
+  {
     "place_id": "0x54a2ad0042fb4c49:0",
     "name": "Boardman elevator",
     "address": "71010 Rail Loop Drive",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:00:48.613620"
-  },
-  {
-    "place_id": "0x3b05bb000579f70d:0",
-    "name": "Kottakkal Arya Vaidyasala",
-    "address": "Tc 26, 502(1",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 88481 10817",
-    "website": null,
-    "discovered_at": "2026-11-16 12:00:47.299675"
-  },
-  {
-    "place_id": "0x3b05bbb3f1141677:0",
-    "name": "Amrit Kalash Ayurveda Clinic",
-    "address": "Venus Garden, 50L, CIT Rd",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 70120 81603",
-    "website": null,
-    "discovered_at": "2026-11-16 12:00:46.032526"
   }
 ]
