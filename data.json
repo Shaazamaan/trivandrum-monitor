@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbd8b20d02db:0",
+    "name": "YARA UNISEX SALON & MAKE OVER STUDIO",
+    "address": "Maruthoorkkadavu junction",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 21:57:47.715708"
+  },
+  {
+    "place_id": "0x3b05bd4c3e1d3b89:0",
+    "name": "BLUE IRIS EYECARE",
+    "address": "PETTAH - VENPALAVATTOM ROAD VENPALAVATTOM, near De TOUR RESTAURANT",
+    "category": "Eye care center",
+    "phone": "+91 95446 70743",
+    "website": null,
+    "discovered_at": "2026-11-17 21:57:46.453488"
+  },
+  {
     "place_id": "0x3b05bb5d19b6d87d:0",
     "name": "KURUVI SARBATH KADA",
     "address": "Valiyathura",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:40:14.046573"
-  },
-  {
-    "place_id": "0x3b05bbb91387142d:0",
-    "name": "Compass & Coast Travel partner",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:53.021758"
-  },
-  {
-    "place_id": "0x3b05bfdaacb24841:0",
-    "name": "Robinson Properties International (Pvt.) Ltd.",
-    "address": "Robinson Properties International (Pvt.) Ltd Impact Rose Gardens, Kariyavattom",
-    "category": "Construction company",
-    "phone": "+91 95443 77699",
-    "website": null,
-    "discovered_at": "2026-11-17 06:32:53.014648"
   }
 ]
