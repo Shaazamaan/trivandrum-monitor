@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05e956dd43d817:0",
+    "name": "Elampa",
+    "address": "MRX7+7FM",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 02:26:49.284339"
+  },
+  {
     "place_id": "0x3b05bb0073142b15:0",
     "name": "Lulu moll",
     "address": "GWFP+MJ8",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:01:32.322636"
-  },
-  {
-    "place_id": "0x44a99b7a24be4253:0",
-    "name": "Realtor Kelly Gonzalez",
-    "address": "Opens 8:30 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:01:31.078823"
   }
 ]
