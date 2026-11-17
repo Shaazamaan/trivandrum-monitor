@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05e9f9077e0211:0",
+    "name": "Sherry's Cloth House",
+    "address": "MRW8+FVH, NH 66, above manjali jewellery",
+    "category": "Dress store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 10:25:24.631069"
+  },
+  {
+    "place_id": "0x3b05e9f9fd14f923:0",
+    "name": "Neela Textiles",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": "+91 94477 90404",
+    "website": null,
+    "discovered_at": "2026-11-17 10:25:23.337990"
+  },
+  {
+    "place_id": "0x3b05e9f77ae3edcd:0",
+    "name": "V Shapes",
+    "address": "BTS Rd, near Diet School Of Attingal",
+    "category": "Clothing alteration service",
+    "phone": "+91 82814 40809",
+    "website": null,
+    "discovered_at": "2026-11-17 10:25:22.015249"
+  },
+  {
+    "place_id": "0x3b05e934a7a7ac51:0",
+    "name": "Allen Solly",
+    "address": "Soorya building, 11/936, Main Rd, near sub treasury",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 10:25:20.785685"
+  },
+  {
+    "place_id": "0x3b05e9ee04d55067:0",
+    "name": "Pantloon stitching centre",
+    "address": "MRX6+Q96, Market Rd",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 10:25:19.540586"
+  },
+  {
+    "place_id": "0x3b05c1e9d512d6d5:0",
+    "name": "Orange Fashions",
+    "address": "Near darussalam madrasa hall, Avanavanchery",
+    "category": "Clothing store",
+    "phone": "+91 95264 61729",
+    "website": null,
+    "discovered_at": "2026-11-17 10:25:18.316930"
+  },
+  {
+    "place_id": "0x3b05e95138887167:0",
+    "name": "JORDAN MENS WEAR",
+    "address": "MRVC+743, Salem-Kanyakumari Highway",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 10:25:17.058099"
+  },
+  {
+    "place_id": "0x3b05c1b8e028fd4d:0",
+    "name": "Rajakumari Shopping Ltd",
+    "address": "Rajakumari Shopping Ltd",
+    "category": "Men's clothing store",
+    "phone": "+91 93499 47730",
+    "website": null,
+    "discovered_at": "2026-11-17 10:25:15.624941"
+  },
+  {
     "place_id": "0x3b05e5f06ed434db:0",
     "name": "Vaishnaveeyam Ayurveda",
     "address": "Vaishnaveeyam Ayurveda, Ayroor po",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 04:42:42.514853"
-  },
-  {
-    "place_id": "0x880e3354741fb8fb:0",
-    "name": "West Side Animal Hospital",
-    "address": "",
-    "category": "Animal hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:41.282862"
-  },
-  {
-    "place_id": "0x880e2da43479da9b:0",
-    "name": "Healing Tails Chicago Pet Rehabilitation and Acupuncture",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:40.067012"
-  },
-  {
-    "place_id": "0x864ea17e6a058ac5:0",
-    "name": "East Dallas Veterinary Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:38.853173"
-  },
-  {
-    "place_id": "0x880e2f8472a3e9a5:0",
-    "name": "Auburn Animal Hospital",
-    "address": "8256 S Ashland Ave",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:37.470993"
-  },
-  {
-    "place_id": "0x88f5015ba2ebe753:0",
-    "name": "East Atlanta Animal Clinic",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:36.288327"
-  },
-  {
-    "place_id": "0x880e2de520960ac9:0",
-    "name": "Brighton Park Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:35.097399"
-  },
-  {
-    "place_id": "0x880e292a778094c9:0",
-    "name": "Woodlawn Animal Hospital",
-    "address": "6523 S King Dr",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:33.930995"
-  },
-  {
-    "place_id": "0x880e31bc3ff19f77:0",
-    "name": "Pulaski Animal Hospital",
-    "address": "",
-    "category": "Veterinarian",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 04:42:32.691075"
   }
 ]
