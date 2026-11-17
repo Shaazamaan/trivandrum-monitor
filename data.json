@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b98dbfe99c75:0",
+    "name": "Itskrithi Lifestyle Store Private Limited",
+    "address": "TKD Rd",
+    "category": "Clothing store",
+    "phone": "+91 96057 56789",
+    "website": null,
+    "discovered_at": "2026-11-17 19:23:44.549818"
+  },
+  {
+    "place_id": "0x3b05c7c85e4ee981:0",
+    "name": "Windsor Learning Hub",
+    "address": "1st Floor, Canara Bank Building, opposite Juma Masjid",
+    "category": "Coaching center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 19:23:43.287312"
+  },
+  {
+    "place_id": "0x3b05c1de16b94b47:0",
+    "name": "Sanni Shoppi Super Market",
+    "address": "MW77+5HX, Kesavadasapuram - Venjaramoodu Rd",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 19:23:42.047362"
+  },
+  {
     "place_id": "0x3b05c3e8f87c5743:0",
     "name": "Pambhu Rajeshintha Juice Kada",
     "address": "Shop 456J Karette Junction, Kazhakoottam - Kilimanoor Rd, near Karthika Bar",
@@ -8971,32 +8998,5 @@
     "phone": "+91 98461 87725",
     "website": null,
     "discovered_at": "2026-11-17 06:25:57.664396"
-  },
-  {
-    "place_id": "0x3b05c3b5d53461c7:0",
-    "name": "KRISHNA BAKERY 2",
-    "address": "KRISHNA BAKERY 2, Trivandrum - Kilimanoor Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:25:57.655562"
-  },
-  {
-    "place_id": "0x3b05bf29b5c877cf:0",
-    "name": "Cake World Chanthavila",
-    "address": "Kazhakoottam - Kilimanoor Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:25:57.654168"
-  },
-  {
-    "place_id": "0x3b05c3005fe7f3db:0",
-    "name": "Kumbakonam Degree Coffee Pulimath",
-    "address": "PVVX+J9J",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:25:57.650035"
   }
 ]
