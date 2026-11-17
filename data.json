@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05b70062c510a3:0",
+    "name": "EAT BAE CAFE",
+    "address": "EAT BAE CAFE, Nedumangad - Shorlacode Hwy, near The Petrol Pump",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:56:05.905993"
+  },
+  {
+    "place_id": "0x3b05c971ad953b1f:0",
+    "name": "Breeze hotel",
+    "address": "",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:56:04.726726"
+  },
+  {
+    "place_id": "0x3b05b719ca64e9b1:0",
+    "name": "Relief physiotherapy centre",
+    "address": "H382+6PF, Nedumangad - Kattakada - Vellanad Rd",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:56:03.087237"
+  },
+  {
+    "place_id": "0x3b05af3fc2c29e4b:0",
+    "name": "AJK Signature",
+    "address": "+91 97444 85520",
+    "category": "Open 24 hours",
+    "phone": "+91 97444 85520",
+    "website": null,
+    "discovered_at": "2026-11-17 07:56:00.926596"
+  },
+  {
+    "place_id": "0x3b05ad0018d18d13:0",
+    "name": "LUMINA FITNESS LADIES GYM",
+    "address": "94P6+XJV",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:55:59.709606"
+  },
+  {
+    "place_id": "0x3b05af00009eaa3d:0",
+    "name": "Krishna Boli Mahal",
+    "address": "Closes 8:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:55:58.328641"
+  },
+  {
+    "place_id": "0x3b05ade316bf249d:0",
+    "name": "JRJ CHRIST physiotherapy centre and training institute",
+    "address": "JRJ CHRIST physiotherapy centre and training institute",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:55:57.129974"
+  },
+  {
+    "place_id": "0x3b05a9dd0dc99391:0",
+    "name": "Akhila's Physiocare",
+    "address": "opp. kulathoor panchayath office",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:55:55.996986"
+  },
+  {
     "place_id": "0x3b05e90017d4281f:0",
     "name": "Kunjuvettil recedency",
     "address": "Kunjuvettil recedency",
@@ -8926,77 +8998,5 @@
     "phone": "+91 79079 27364",
     "website": null,
     "discovered_at": "2026-11-17 00:27:58.342865"
-  },
-  {
-    "place_id": "0x3b05bb4ba4722455:0",
-    "name": "Cloud Bites",
-    "address": "MRA 45, Homeo College Rd",
-    "category": "Food manufacturer",
-    "phone": "+91 87147 90659",
-    "website": null,
-    "discovered_at": "2026-11-17 00:27:57.027246"
-  },
-  {
-    "place_id": "0x54a2ad0042fb4c49:0",
-    "name": "Boardman elevator",
-    "address": "71010 Rail Loop Drive",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:57:23.402649"
-  },
-  {
-    "place_id": "0x3b05af189ebde6f3:0",
-    "name": "celltech mobiles",
-    "address": "92VF+QFW, Chappath Punnakkulam Rd",
-    "category": "Cell phone store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:49:11.184763"
-  },
-  {
-    "place_id": "0x3b05a5099b54e9fd:0",
-    "name": "SS Systems",
-    "address": "",
-    "category": "Computer accessories store",
-    "phone": "+91 98956 38420",
-    "website": null,
-    "discovered_at": "2026-11-16 23:49:09.888238"
-  },
-  {
-    "place_id": "0x3b05a97c2612c7bf:0",
-    "name": "Beloved Mobiles",
-    "address": "Beloved Mobile's, Jn",
-    "category": "Mobile phone repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:49:08.421772"
-  },
-  {
-    "place_id": "0x3b05a590e1109271:0",
-    "name": "White Mobiles",
-    "address": "White Mobiles, near Br Auditorium",
-    "category": "Cell phone accessory store",
-    "phone": "+91 99952 21143",
-    "website": null,
-    "discovered_at": "2026-11-16 23:49:07.021240"
-  },
-  {
-    "place_id": "0x3b05af3d3c6a103b:0",
-    "name": "CellMaster",
-    "address": "Payattuvila Nellimoodu Rd",
-    "category": "Mobile phone repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:49:05.735246"
-  },
-  {
-    "place_id": "0x3b05a54899cd6577:0",
-    "name": "CHINNUS KITCHEN FAMILY RESTAURANT",
-    "address": "CHINNUS KITCHEN AND FAMILY RESTAURANT",
-    "category": "Restaurant",
-    "phone": "+91 79949 48017",
-    "website": null,
-    "discovered_at": "2026-11-16 23:49:04.483437"
   }
 ]
