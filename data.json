@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05e86f7264481d:0",
+    "name": "K.S.M Hotel Thannivila",
+    "address": "KSM Hotel",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 01:13:41.104715"
+  },
+  {
+    "place_id": "0x3b05b184b2fb6651:0",
+    "name": "Grow Natures Supermarket",
+    "address": "P.O, MP 1/343-B, Manjadi Road, Anthiyoorkonam - College Rd",
+    "category": "Grocery store",
+    "phone": "+91 88916 73840",
+    "website": null,
+    "discovered_at": "2026-11-17 01:13:39.815153"
+  },
+  {
     "place_id": "0x3b05c765ef613b17:0",
     "name": "Dr.Kiran",
     "address": "Closes 11 PM",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 12:00:54.833197"
-  },
-  {
-    "place_id": "0x865c6336bce21e8b:0",
-    "name": "San Antonio Eye Center",
-    "address": "",
-    "category": "Ophthalmology clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:00:53.598263"
-  },
-  {
-    "place_id": "0x865c5f0029c30169:0",
-    "name": "San Antonio Eye Center",
-    "address": "",
-    "category": "Ophthalmologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 12:00:52.334188"
   }
 ]
