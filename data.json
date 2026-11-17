@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05af9929f68b4d:0",
+    "name": "Chikkus fabrics and Tailoring shop",
+    "address": "9256+PQ3, Azhimala Temple Road",
+    "category": "Clothing store",
+    "phone": "+91 94001 23323",
+    "website": null,
+    "discovered_at": "2026-11-17 13:06:39.036419"
+  },
+  {
+    "place_id": "0x3b05b80f8ce77db5:0",
+    "name": "Madeena Opticals",
+    "address": "Hospital Rd",
+    "category": "Sunglasses store",
+    "phone": "+91 98952 00377",
+    "website": null,
+    "discovered_at": "2026-11-17 13:06:37.753949"
+  },
+  {
     "place_id": "0x3b05aee901e7497b:0",
     "name": "Government Ayurveda Hospital",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:15:08.634393"
-  },
-  {
-    "place_id": "0x3b05e8edd9a88325:0",
-    "name": "Imarax BUILDING DESIGNS & INTERIORS",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": "+91 73061 67161",
-    "website": null,
-    "discovered_at": "2026-11-17 05:15:08.627199"
-  },
-  {
-    "place_id": "0x3b05ef0ed218ede7:0",
-    "name": "......................off",
-    "address": "+91 97456 19344",
-    "category": "Temporarily closed",
-    "phone": "+91 97456 19344",
-    "website": null,
-    "discovered_at": "2026-11-17 05:15:08.624483"
   }
 ]
