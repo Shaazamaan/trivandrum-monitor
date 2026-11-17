@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05c79de2008a1b:0",
+    "name": "Niha fashion",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": "+91 88910 08063",
+    "website": null,
+    "discovered_at": "2026-11-17 09:02:24.967799"
+  },
+  {
+    "place_id": "0x3b05c7b43beb383b:0",
+    "name": "KOODARAM - FAMILY RESTAURANT",
+    "address": "JWQJ+QCX",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 09:02:23.697619"
+  },
+  {
+    "place_id": "0x3b05c73e99ce07b5:0",
+    "name": "Ashwas Community Pharmacy",
+    "address": "JWPP+WV6",
+    "category": "Pharmacy",
+    "phone": "+91 99613 82232",
+    "website": null,
+    "discovered_at": "2026-11-17 09:02:22.489348"
+  },
+  {
+    "place_id": "0x3b05c5856ce5b94d:0",
+    "name": "Physio care",
+    "address": "QW2Q+R3R, Unnamed Road",
+    "category": "Physical therapy clinic",
+    "phone": "+91 70120 59080",
+    "website": null,
+    "discovered_at": "2026-11-17 09:02:21.246917"
+  },
+  {
+    "place_id": "0x3b05c763954240c5:0",
+    "name": "elixir_fit_",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": "+91 80860 37962",
+    "website": null,
+    "discovered_at": "2026-11-17 09:02:19.949368"
+  },
+  {
+    "place_id": "0x3b05c74a9ebfb8d7:0",
+    "name": "SAF PHYSIOTHERAPY CLINIC",
+    "address": "vembayam road",
+    "category": "Physical therapy clinic",
+    "phone": "+91 94962 08344",
+    "website": null,
+    "discovered_at": "2026-11-17 09:02:18.610519"
+  },
+  {
     "place_id": "0x3b05c3007fb548bf:0",
     "name": "Cheruppakkarante Thattukada",
     "address": "Closes 11:30 PM",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 03:49:28.865106"
-  },
-  {
-    "place_id": "0x880e4d211a4c5a25:0",
-    "name": "Workspace Junction",
-    "address": "",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 03:49:27.690932"
-  },
-  {
-    "place_id": "0x3b05cf46b50bc4a7:0",
-    "name": "Manoja Supermarket",
-    "address": "P28H+GJ7, Palode - Nanniyode Rd",
-    "category": "Supermarket",
-    "phone": "+91 99468 65676",
-    "website": null,
-    "discovered_at": "2026-11-17 03:49:26.389991"
-  },
-  {
-    "place_id": "0x3b05c149b15239bf:0",
-    "name": "Phonepoint",
-    "address": "opp. Ksrtc stand",
-    "category": "Cell phone store",
-    "phone": "+91 99950 65009",
-    "website": null,
-    "discovered_at": "2026-11-17 03:42:06.604887"
-  },
-  {
-    "place_id": "0x3b060b6b7cca0fa3:0",
-    "name": "NSGC & Co.- Kottarakara, Chartered Accountants",
-    "address": "State Highway 1",
-    "category": "Chartered accountant",
-    "phone": "+91 97468 20566",
-    "website": null,
-    "discovered_at": "2026-11-17 03:35:04.245120"
-  },
-  {
-    "place_id": "0x3b05c00e538965cb:0",
-    "name": "Aiswarya Motor Driving School",
-    "address": "JR8R+F74, Mangalapuram Rd",
-    "category": "Driving school",
-    "phone": "+91 98952 32838",
-    "website": null,
-    "discovered_at": "2026-11-17 03:35:02.975285"
-  },
-  {
-    "place_id": "0x3b05eb2b0238c4d7:0",
-    "name": "RV Health Clinic",
-    "address": "",
-    "category": "Hospital",
-    "phone": "+91 94472 06173",
-    "website": null,
-    "discovered_at": "2026-11-17 03:28:01.125683"
   }
 ]
