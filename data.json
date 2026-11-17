@@ -1,5 +1,113 @@
 [
   {
+    "place_id": "0x3b05bb8fd9d66bf1:0",
+    "name": "DME Jaanakiees Margin Free SuperMarket",
+    "address": "",
+    "category": "Grocery store",
+    "phone": "+91 70700 79207",
+    "website": null,
+    "discovered_at": "2026-11-17 07:16:57.541220"
+  },
+  {
+    "place_id": "0x3b05bb70b529ac0d:0",
+    "name": "Feminaex Womens Clothing Shop",
+    "address": "Shop no 216,Annas Arcade, 1st Floor",
+    "category": "Clothing store",
+    "phone": "+91 89212 15551",
+    "website": null,
+    "discovered_at": "2026-11-17 07:16:57.529843"
+  },
+  {
+    "place_id": "0x3b05bbb842ba1989:0",
+    "name": "Mojo Cake",
+    "address": "New Saphalyam Complex",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:16:57.521464"
+  },
+  {
+    "place_id": "0x3b05bbbbfc01bce5:0",
+    "name": "Asim Bakery & Stores",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:16:57.519688"
+  },
+  {
+    "place_id": "0x3b05bb8fcfbcd6e5:0",
+    "name": "Sonu Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:16:57.518188"
+  },
+  {
+    "place_id": "0x3b05bb863cf93fc5:0",
+    "name": "Lali Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:16:57.517032"
+  },
+  {
+    "place_id": "0x3b05bb84cd9e4473:0",
+    "name": "Cafe DE ORO",
+    "address": "Closes 11:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:16:57.513713"
+  },
+  {
+    "place_id": "0x3b05bbbbde328de1:0",
+    "name": "Ananda Bhavan",
+    "address": "",
+    "category": "South Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:16:57.511978"
+  },
+  {
+    "place_id": "0x3b05bbe639cc634f:0",
+    "name": "Steampot Restaurant",
+    "address": "",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:16:57.510627"
+  },
+  {
+    "place_id": "0x3b05bbb6e19813b3:0",
+    "name": "Promag Realtors and Developers",
+    "address": "TC 15/1989 (7), Narayana Towers, Vazhuthacaud",
+    "category": "Real estate developer",
+    "phone": "+91 98950 54444",
+    "website": null,
+    "discovered_at": "2026-11-17 07:16:57.477648"
+  },
+  {
+    "place_id": "0x3b05bbb4da0e8c15:0",
+    "name": "Hill View Beautyparlour",
+    "address": "Closes 8 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:16:57.464445"
+  },
+  {
+    "place_id": "0x3b05bb2029f00d53:0",
+    "name": "Greens Beauty Salon",
+    "address": "TC 45/215, Kunjalumoodu Junction, Vazhuthacaud - Poojappura Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 07:16:57.462795"
+  },
+  {
     "place_id": "0x3b05bb00afc25e95:0",
     "name": "Kerala Kitchen",
     "address": "Jyothi gardens, EVRA 185",
@@ -8890,113 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 23:11:37.875557"
-  },
-  {
-    "place_id": "0x87ee996bcc1dadf1:0",
-    "name": "Broadlawns Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:36.640177"
-  },
-  {
-    "place_id": "0x87ee97136214514b:0",
-    "name": "Walgreens Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:35.372450"
-  },
-  {
-    "place_id": "0x87ee90b2599d4b75:0",
-    "name": "Hy-Vee Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:34.130901"
-  },
-  {
-    "place_id": "0x87ee9742ee77b51f:0",
-    "name": "Medicap Pharmacy",
-    "address": "",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:32.866594"
-  },
-  {
-    "place_id": "0x87ee9a0798f43b7f:0",
-    "name": "Element Des Moines",
-    "address": "",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:31.622439"
-  },
-  {
-    "place_id": "0x87ee97481b9ac307:0",
-    "name": "Eye Care Of Iowa PC",
-    "address": "",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:30.348667"
-  },
-  {
-    "place_id": "0x88427334ebd48921:0",
-    "name": "Frankfort Eye Center East",
-    "address": "",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:29.066807"
-  },
-  {
-    "place_id": "0x87ee9c2dd6056217:0",
-    "name": "InVision Eye Care",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:27.777103"
-  },
-  {
-    "place_id": "0x864c3fb9b8e60fd9:0",
-    "name": "Veda Wellness- Ayurveda & Holistic Wellness Services",
-    "address": "",
-    "category": "Alternative medicine practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:26.534956"
-  },
-  {
-    "place_id": "0x87e667f6d1fe17e1:0",
-    "name": "Iowa Integrative Health Center",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:25.212143"
-  },
-  {
-    "place_id": "0x87ee9900aabe5a0b:0",
-    "name": "Kinetic Edge Physical Therapy - Des Moines",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:23.975739"
-  },
-  {
-    "place_id": "0x864e72ee416d4277:0",
-    "name": "Fort Worth Physical Therapy (Clear Fork)",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:11:21.832857"
   }
 ]
