@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05e8f380b885bb:0",
+    "name": "V.m clinical Laboratory",
+    "address": "Varkala Kallambalam Rd",
+    "category": "Medical laboratory",
+    "phone": "+91 73563 28677",
+    "website": null,
+    "discovered_at": "2026-11-17 07:39:24.779392"
+  },
+  {
     "place_id": "0x3b05bbfe3b106db7:0",
     "name": "Arun Driving School trivandrum",
     "address": "cheriyathura, near beemapally",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-16 23:12:40.473911"
-  },
-  {
-    "place_id": "0x4fda3d3344b173f5:0",
-    "name": "Elevated Events",
-    "address": "(515) 721-1273",
-    "category": "Open 24 hours",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-16 23:12:37.206959"
   }
 ]
