@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05ba2913e30817:0",
+    "name": "Krishnakumar and Arun Chartered Accountants",
+    "address": "",
+    "category": "Chartered accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:43:34.229373"
+  },
+  {
+    "place_id": "0x3b05b98420152527:0",
+    "name": "Margin free supermarket",
+    "address": "JW3V+JHG, Kesavadasapuram - Venjaramoodu Rd",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:43:32.888633"
+  },
+  {
+    "place_id": "0x3b05c0d7dbcccb6b:0",
+    "name": "Green Apple Kitchen",
+    "address": "near the Bharath Petroleum",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-17 16:43:31.663337"
+  },
+  {
+    "place_id": "0x3b05b9db313a4a29:0",
+    "name": "Dermatologist/Skin Doctor",
+    "address": "SN Nagar",
+    "category": "Skin care clinic",
+    "phone": "+91 98471 01687",
+    "website": null,
+    "discovered_at": "2026-11-17 16:43:30.395147"
+  },
+  {
+    "place_id": "0x3b05c7ebbfce8e53:0",
+    "name": "D-CARE DENTAL CLINIC,VEMBAYAM",
+    "address": "MC Rd",
+    "category": "Dental clinic",
+    "phone": "+91 80869 91812",
+    "website": null,
+    "discovered_at": "2026-11-17 16:43:29.125940"
+  },
+  {
     "place_id": "0x3b05c300051a5ba1:0",
     "name": "Ayyappa's textiles",
     "address": "QVCJ+49F, Kilimanoor - Kottarakkara Rd",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 05:49:56.320513"
-  },
-  {
-    "place_id": "0x3b05bf3bcdbdd7b1:0",
-    "name": "Model Diagnostic Services",
-    "address": "Sreekariyam - Pothencode Rd",
-    "category": "Diagnostic center",
-    "phone": "+91 94978 78752",
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.318999"
-  },
-  {
-    "place_id": "0x3b05c006946b86c1:0",
-    "name": "Aswas Diagnostics",
-    "address": "Pothencode Murukkumpuzha Rd",
-    "category": "Diagnostic center",
-    "phone": "+91 77362 15556",
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.317991"
-  },
-  {
-    "place_id": "0x3b05c0a25a46e67d:0",
-    "name": "S. R Hospital",
-    "address": "",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.315686"
-  },
-  {
-    "place_id": "0x3b05bb0011723711:0",
-    "name": "VARSHA Physiotherapy Centre pappanamcode",
-    "address": "PJ/28446",
-    "category": "Physical therapist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.311127"
-  },
-  {
-    "place_id": "0x3b05c1efdee4e871:0",
-    "name": "Madina Ortho and Gynaec clinic",
-    "address": "",
-    "category": "Hospital",
-    "phone": "+91 98472 98354",
-    "website": null,
-    "discovered_at": "2026-11-17 05:49:56.310065"
   }
 ]
