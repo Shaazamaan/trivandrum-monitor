@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb30b862826b:0",
+    "name": "Al Falah dental clinic",
+    "address": "CWXX+G9C, SM Lock Rd",
+    "category": "Dental clinic",
+    "phone": "+91 90208 38981",
+    "website": null,
+    "discovered_at": "2026-11-18 12:16:34.636377"
+  },
+  {
     "place_id": "0x3b05bb4e05f386fb:0",
     "name": "ABSOLUTE TRAVEL AGENCY",
     "address": "MKK Nair Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 08:18:05.953382"
-  },
-  {
-    "place_id": "0x3b05abe007fa7ef5:0",
-    "name": "Sree mobiles padanthalumoodu",
-    "address": "",
-    "category": "Cell phone store",
-    "phone": "+91 97919 24897",
-    "website": null,
-    "discovered_at": "2026-11-17 08:18:04.682760"
   }
 ]
