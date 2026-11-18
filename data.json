@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05ab5f34056649:0",
+    "name": "Government veterinary hospital",
+    "address": "Road",
+    "category": "Animal hospital",
+    "phone": "+91 87782 11831",
+    "website": null,
+    "discovered_at": "2026-11-18 03:15:57.679699"
+  },
+  {
+    "place_id": "0x3b05a5a54daf8ec9:0",
+    "name": "KOVALAM BEACH DAY TOURS",
+    "address": "Light House Beach Kovalam, Kovalam Beach Trivandrum",
+    "category": "Sightseeing tour agency",
+    "phone": "+91 98478 72028",
+    "website": null,
+    "discovered_at": "2026-11-18 03:15:56.346453"
+  },
+  {
     "place_id": "0x3b05c740ca2beee9:0",
     "name": "ARCHANA HOMOEOS",
     "address": "SPORTS HUB, ANAD BANK JUNCTION, near to ANAD",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:09:21.075470"
-  },
-  {
-    "place_id": "0x3b05bb1c749a3a23:0",
-    "name": "TORABREW",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:09:21.074319"
-  },
-  {
-    "place_id": "0x3b05bb096044d375:0",
-    "name": "HHL Lab",
-    "address": "",
-    "category": "Medical diagnostic imaging center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:09:21.069970"
   }
 ]
