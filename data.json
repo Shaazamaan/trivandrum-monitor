@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05c0a3017fd313:0",
+    "name": "Fabulous Collection",
+    "address": "",
+    "category": "Clothing alteration service",
+    "phone": "+91 98959 99144",
+    "website": null,
+    "discovered_at": "2026-11-18 03:30:10.294211"
+  },
+  {
+    "place_id": "0x3b05c0a302180855:0",
+    "name": "BIBA STUDIO & EMPORIUM",
+    "address": "Closes 9:30 PM",
+    "category": "Open",
+    "phone": "+91 94974 09991",
+    "website": null,
+    "discovered_at": "2026-11-18 03:30:08.966189"
+  },
+  {
+    "place_id": "0x3b05ad5a63b06e45:0",
+    "name": "Apple Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 03:30:07.676810"
+  },
+  {
     "place_id": "0x3b05b154aa91fd21:0",
     "name": "TRIAX FITNESS CLUB",
     "address": "Building no: 10E, Roya towers, Peyad - Vellanad Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:09:21.112872"
-  },
-  {
-    "place_id": "0x3b05bba190021ab7:0",
-    "name": "Dr Anand H Opthalmologist",
-    "address": "",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:09:21.105837"
-  },
-  {
-    "place_id": "0x3b05b92ea41d7bb9:0",
-    "name": "Property Solutions",
-    "address": "TC 24, 473(3, Ambala Nagar Rd",
-    "category": "Construction company",
-    "phone": "+91 98958 24222",
-    "website": null,
-    "discovered_at": "2026-11-17 07:09:21.092466"
-  },
-  {
-    "place_id": "0x3b05bb02997c077f:0",
-    "name": "Jay's Academy",
-    "address": "",
-    "category": "Coaching center",
-    "phone": "+91 90619 91932",
-    "website": null,
-    "discovered_at": "2026-11-17 07:09:21.090266"
   }
 ]
