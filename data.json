@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b1c605fd5317:0",
+    "name": "Garnet Fitness",
+    "address": "opposite TG Auditorium, Thachottukavu - Thirumala Rd",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 11:26:49.762455"
+  },
+  {
+    "place_id": "0x3b05bb3f5127d323:0",
+    "name": "Laasya",
+    "address": "Sankaran Nair Road",
+    "category": "Boutique",
+    "phone": "+91 81297 69387",
+    "website": null,
+    "discovered_at": "2026-11-18 11:26:48.514500"
+  },
+  {
     "place_id": "0x3b05adce293ff24f:0",
     "name": "AURA BOUTIQUE 🦋",
     "address": "SREEPADAMAM COMPLEX, near Mens Hub",
@@ -8980,23 +8998,5 @@
     "phone": "+91 98478 34686",
     "website": null,
     "discovered_at": "2026-11-17 08:17:58.185895"
-  },
-  {
-    "place_id": "0x3b05a929196f26c3:0",
-    "name": "SN FITNESS CENTRE",
-    "address": "8482+765, Pozhiyoor Rd",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 08:10:48.376421"
-  },
-  {
-    "place_id": "0x3b05abf6c8aea995:0",
-    "name": "HI TECH GYM",
-    "address": "Parassala - Kollemcode - Poovar - Kovalam Rd",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 08:10:47.045606"
   }
 ]
