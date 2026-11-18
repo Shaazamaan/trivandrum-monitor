@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bfd19272946f:0",
+    "name": "Fusion DarBar",
+    "address": "TC 2, 965/1, near Medavathukkal Juma Masjid",
+    "category": "Fusion restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 12:38:35.425048"
+  },
+  {
+    "place_id": "0x3b05bf14b66aa23f:0",
+    "name": "GG Family Clinic",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 12:38:34.164378"
+  },
+  {
     "place_id": "0x3b05ab151e256ac7:0",
     "name": "VTec Designers and Developers",
     "address": "P O, Eanchakkal Hiway Garden, TC 2258/8 Eanchakkal",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 08:25:23.197563"
-  },
-  {
-    "place_id": "0x3b05bf00173331c5:0",
-    "name": "Adams Dent care",
-    "address": "HWX6+GWC, Pothencode - Powdikonam Rd",
-    "category": "Dental clinic",
-    "phone": "+91 97451 94001",
-    "website": null,
-    "discovered_at": "2026-11-17 08:25:21.431359"
-  },
-  {
-    "place_id": "0x3b05c1205795f985:0",
-    "name": "Cosmodent dental and cosmetic clinic",
-    "address": "Dental clinic, near autostand",
-    "category": "Dental clinic",
-    "phone": "+91 95447 60167",
-    "website": null,
-    "discovered_at": "2026-11-17 08:25:20.188849"
   }
 ]
