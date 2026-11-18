@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b3ca7be004c3:0",
+    "name": "Ammas Restaurant",
+    "address": "F4RG+J3J, Nedumangad - Kattakkada - Vellarada Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 00:15:09.018190"
+  },
+  {
+    "place_id": "0x3b05a9b0202fe075:0",
+    "name": "Kripa Dental Care",
+    "address": "Opens 9:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 00:15:07.724130"
+  },
+  {
+    "place_id": "0x3b05a99aadcbb7d7:0",
+    "name": "KARMA MULTISPECIALITY DENTAL CLINIC",
+    "address": "3rd ward 164a",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 00:15:06.542891"
+  },
+  {
     "place_id": "0x3b05bbefc8c3f963:0",
     "name": "'Aswagandha' Ayurveda",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:54:40.792065"
-  },
-  {
-    "place_id": "0x3b05c1005f1cfc9b:0",
-    "name": "Kerala cafe",
-    "address": "Kabani, Technopark, Phase 4, Technopark Campus, Technopark Road",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.791099"
-  },
-  {
-    "place_id": "0x3b05bf00117e4a43:0",
-    "name": "SAMUDRA FOOD COURT",
-    "address": "Technopark Trivandrum, Thejaswini",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.790055"
-  },
-  {
-    "place_id": "0x3b05befbdf9b910d:0",
-    "name": "Sweet Peppers",
-    "address": "",
-    "category": "Indian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.788962"
   }
 ]
