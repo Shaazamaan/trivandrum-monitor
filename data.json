@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05ab6dfdb0c771:0",
+    "name": "P K S PHARMA",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 00:22:01.195281"
+  },
+  {
     "place_id": "0x3b05b3ca7be004c3:0",
     "name": "Ammas Restaurant",
     "address": "F4RG+J3J, Nedumangad - Kattakkada - Vellarada Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:54:40.793616"
-  },
-  {
-    "place_id": "0x3b05bf809bb80293:0",
-    "name": "Cafe ClubHouse",
-    "address": "HV6J+66J",
-    "category": "Indian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.792065"
   }
 ]
