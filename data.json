@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c1403d65ab3d:0",
+    "name": "NJ Styles",
+    "address": "Opposite Calorie gym. Pothencode managapuram road, Mangalapuram Rd",
+    "category": "Boutique",
+    "phone": "+91 88481 25638",
+    "website": null,
+    "discovered_at": "2026-11-18 19:31:44.303587"
+  },
+  {
+    "place_id": "0x3b05aa365e023da9:0",
+    "name": "Ar Furniture",
+    "address": "846F+253, Parassala - Kollemcode - Poovar - Kovalam Rd",
+    "category": "Furniture store",
+    "phone": "+91 94869 42095",
+    "website": null,
+    "discovered_at": "2026-11-18 19:31:43.027616"
+  },
+  {
     "place_id": "0x3b05b10e2fe5e67f:0",
     "name": "Roshni's Rangoli Collections (RRC)",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": "+91 97475 11333",
     "website": null,
     "discovered_at": "2026-11-17 09:39:38.675992"
-  },
-  {
-    "place_id": "0x3b05bbe03fb4d7e5:0",
-    "name": "Reliance Fresh",
-    "address": "",
-    "category": "Supermarket",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 09:39:37.307520"
-  },
-  {
-    "place_id": "0x3b05bb0076190f19:0",
-    "name": "PATTOM CAFE",
-    "address": "Rohini Complex, opposite LIC Lane",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 09:39:36.079886"
   }
 ]
