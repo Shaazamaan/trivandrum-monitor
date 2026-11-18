@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbcac9eb9431:0",
+    "name": "REGALIA APARTMENTS",
+    "address": "GX47+9GH",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 18:13:44.451164"
+  },
+  {
+    "place_id": "0x3b05bbca3fe79a37:0",
+    "name": "Ashtree Manor",
+    "address": "",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 18:13:43.221325"
+  },
+  {
     "place_id": "0x3b05bbad58403507:0",
     "name": "Karunya Pharmacy",
     "address": "FWXV+VJX, General Hospital Rd",
@@ -8980,23 +8998,5 @@
     "phone": "+91 95620 09052",
     "website": null,
     "discovered_at": "2026-11-17 09:24:30.333297"
-  },
-  {
-    "place_id": "0x3b05beeffa3b37cd:0",
-    "name": "PUNARVAASU AYURVEDIC WELLNESS CENTRE",
-    "address": "HV4M+3M2, University campus, south karivattom, trippadapuram road",
-    "category": "Alternative medicine practitioner",
-    "phone": "+91 95678 01390",
-    "website": null,
-    "discovered_at": "2026-11-17 09:24:29.160554"
-  },
-  {
-    "place_id": "0x3b05bfcee04a6c3b:0",
-    "name": "S.N. AYURVEDA CENTRE",
-    "address": "SS Tech-Park,T.C 98/1161,Monvila, PO",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 09:24:27.930962"
   }
 ]
