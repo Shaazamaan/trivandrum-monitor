@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bf00578e8b47:0",
+    "name": "Mizhi Boutique",
+    "address": "Kolathukara Temple Rd",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 22:41:25.409820"
+  },
+  {
     "place_id": "0x3b05a5a35e32e79d:0",
     "name": "Villa Anandha Ayurvedic center",
     "address": "Trivandrum",
@@ -8989,14 +8998,5 @@
     "phone": "+91 94478 66336",
     "website": null,
     "discovered_at": "2026-11-17 10:01:07.069258"
-  },
-  {
-    "place_id": "0x3b05b957fc49f1b5:0",
-    "name": "Time city",
-    "address": "Medical College",
-    "category": "Cell phone store",
-    "phone": "+91 94469 67609",
-    "website": null,
-    "discovered_at": "2026-11-17 10:01:05.860901"
   }
 ]
