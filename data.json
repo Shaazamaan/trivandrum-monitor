@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05b76271a8278f:0",
+    "name": "VIP FITNESS",
+    "address": "vadakke junction, Padavancode Vilappilsala",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 01:41:12.909406"
+  },
+  {
+    "place_id": "0x3b05bb0073693e43:0",
+    "name": "Curve Fitness Ladies Gym",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 01:41:11.629788"
+  },
+  {
+    "place_id": "0x3b05b98a56442a33:0",
+    "name": "ummummas shop",
+    "address": "ERA 44",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 01:41:10.362495"
+  },
+  {
+    "place_id": "0x3b05bf322fdfa0ef:0",
+    "name": "Dr. Vita Multispeciality Dental Clinic and Implant Centre",
+    "address": "HVRM+72, Kazhakoottam - Thaikod Rd",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 01:41:09.044190"
+  },
+  {
+    "place_id": "0x3b05b918e907bd57:0",
+    "name": "V.J. DENTAL CLINIC",
+    "address": "Karutharayil Building",
+    "category": "Dental clinic",
+    "phone": "+91 99955 30396",
+    "website": null,
+    "discovered_at": "2026-11-18 01:41:07.813031"
+  },
+  {
     "place_id": "0x3b05c74916f97b83:0",
     "name": "AYILYAM STORES",
     "address": "Ayilyam Store, Kesavadasapuram - Venjaramoodu Rd, near Nayara Petrol Pump",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:54:40.823568"
-  },
-  {
-    "place_id": "0x3b05bfbce9d26417:0",
-    "name": "REVIVEPRO SALON TATTOO",
-    "address": "NK Plaza, Technopark Phase 1, near B6 Hotel",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.822021"
-  },
-  {
-    "place_id": "0x3b05bfbfec836fbd:0",
-    "name": "S.V.T Store",
-    "address": "Thripadappuram Rd",
-    "category": "Grocery store",
-    "phone": "+91 96337 95052",
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.819431"
-  },
-  {
-    "place_id": "0x3b05bfb5b3a5309f:0",
-    "name": "Lifephone Service",
-    "address": "near Technopark Trivandrum",
-    "category": "Mobile phone repair shop",
-    "phone": "+91 88485 85310",
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.813702"
-  },
-  {
-    "place_id": "0x3b05bfa061005445:0",
-    "name": "Applon- Apple Exclusive Service Centre Trivandrum",
-    "address": "",
-    "category": "Mobile phone repair shop",
-    "phone": "+91 97456 90418",
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.812575"
-  },
-  {
-    "place_id": "0x3b05bd0fe7042eef:0",
-    "name": "Indian Terrain - Lulu Mall, Thiruvananthapuram",
-    "address": "No. H-3, Lulu Mall, Kazhakootam - Karode Byp",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.807816"
   }
 ]
