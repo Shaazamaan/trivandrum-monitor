@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05ac1ea8997825:0",
+    "name": "Russell's Bakery & Store",
+    "address": "Vattavila",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 02:57:25.701888"
+  },
+  {
+    "place_id": "0x3b05c141c0708263:0",
+    "name": "Fitness multi gym",
+    "address": "MRQP+HWW",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 02:57:24.352095"
+  },
+  {
+    "place_id": "0x3b05eb1f6b1a5a13:0",
+    "name": "Green House Mini Market",
+    "address": "Mamom Road",
+    "category": "Supermarket",
+    "phone": "+91 85902 49459",
+    "website": null,
+    "discovered_at": "2026-11-18 02:57:23.170420"
+  },
+  {
     "place_id": "0x3b05b9a2521d415d:0",
     "name": "ARAPPURAYIL TRAVEL AGENCY",
     "address": "TCX/2373(2",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:01:53.049314"
-  },
-  {
-    "place_id": "0x3b05bb0074c08e33:0",
-    "name": "Allora Pattom Spa",
-    "address": "GW8M+33Q, Pattom Kumarapuram Rd",
-    "category": "Spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:01:53.047157"
-  },
-  {
-    "place_id": "0x3b05bbbd3df09895:0",
-    "name": "Sunrise Spa",
-    "address": "TC.15/3209, Marappalam Rd",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:01:53.045352"
-  },
-  {
-    "place_id": "0x3b05bbcfad274697:0",
-    "name": "FAME UNISEX SALON & MAKEUP STUDIO",
-    "address": "MARK PLAZA, Pattom - Kowdiar Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:01:53.042329"
   }
 ]
