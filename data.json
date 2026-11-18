@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b83da17b4647:0",
+    "name": "SR Medicals",
+    "address": "HXRW+26G, Pathamkallu",
+    "category": "Pharmacy",
+    "phone": "+91 85471 03283",
+    "website": null,
+    "discovered_at": "2026-11-18 19:04:53.075555"
+  },
+  {
+    "place_id": "0x3b05aff87c8cda3f:0",
+    "name": "Er. Sanju Surendran Girija - Construction & Interior Consultant",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 85900 54265",
+    "website": null,
+    "discovered_at": "2026-11-18 19:04:51.905987"
+  },
+  {
+    "place_id": "0x3b05af005915c289:0",
+    "name": "Neyyattinkara House",
+    "address": "C36J+JVV",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 19:04:50.754165"
+  },
+  {
     "place_id": "0x3b05e963a5e055fd:0",
     "name": "fashion hub india",
     "address": "aluvila bakery building",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 09:32:02.255921"
-  },
-  {
-    "place_id": "0x3b05aba81f4adfb9:0",
-    "name": "Johnson Apartments",
-    "address": "Opp: Infosys, near Murugan Temple",
-    "category": "Furnished apartment building",
-    "phone": "+91 90202 80957",
-    "website": null,
-    "discovered_at": "2026-11-17 09:32:00.851580"
-  },
-  {
-    "place_id": "0x3b05bf001b511ea3:0",
-    "name": "Brigade Square",
-    "address": "Technopark Rd",
-    "category": "Construction company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 09:31:59.678107"
-  },
-  {
-    "place_id": "0x3b05befaebebc633:0",
-    "name": "Faith InfoTech Academy Technopark",
-    "address": "",
-    "category": "Software training institute",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 09:31:58.402892"
   }
 ]
