@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b9eebc66c327:0",
+    "name": "Aishwarya bakery and store",
+    "address": "GXPC+MF4",
+    "category": "Indian grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 00:35:58.672445"
+  },
+  {
+    "place_id": "0x3b05bb90fa543019:0",
+    "name": "Punarvika By Reeshma",
+    "address": "First floor, Kyvalya, Sankar Rd, near Indian Bank",
+    "category": "Boutique",
+    "phone": "+91 89215 02766",
+    "website": null,
+    "discovered_at": "2026-11-18 00:35:57.528621"
+  },
+  {
+    "place_id": "0x3b05ba3b48fc80d1:0",
+    "name": "Arun Travels",
+    "address": "",
+    "category": "Tour operator",
+    "phone": "+91 94472 10894",
+    "website": null,
+    "discovered_at": "2026-11-18 00:35:56.283544"
+  },
+  {
     "place_id": "0x3b05ab6dfdb0c771:0",
     "name": "P K S PHARMA",
     "address": "Trivandrum",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:54:40.796924"
-  },
-  {
-    "place_id": "0x3b05bfd94ce899dd:0",
-    "name": "Thaooz Cafe",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.795750"
-  },
-  {
-    "place_id": "0x3b05bf7021973865:0",
-    "name": "Izin café",
-    "address": "1, Technopark Phase l",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.794676"
-  },
-  {
-    "place_id": "0x3b05bf004f19d021:0",
-    "name": "CRAVIN BY CREAMYCREATIONS",
-    "address": "Attinkuzhi Rd, near nippon Toyota showroom",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.793616"
   }
 ]
