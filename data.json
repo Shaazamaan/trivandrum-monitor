@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c740ca2beee9:0",
+    "name": "ARCHANA HOMOEOS",
+    "address": "SPORTS HUB, ANAD BANK JUNCTION, near to ANAD",
+    "category": "Homeopathic pharmacy",
+    "phone": "+91 98951 40952",
+    "website": null,
+    "discovered_at": "2026-11-18 03:08:19.524715"
+  },
+  {
+    "place_id": "0x3b05b83f6c78cb19:0",
+    "name": "HANA MEDICALS",
+    "address": "HXQQ+3C8, Kaipady Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 03:08:17.909158"
+  },
+  {
     "place_id": "0x3b05ac1ea8997825:0",
     "name": "Russell's Bakery & Store",
     "address": "Vattavila",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:09:21.069970"
-  },
-  {
-    "place_id": "0x3b05bb937db4d3a3:0",
-    "name": "HealthAssure - Neuberg Diagnostics Ltd - Trivandrum | Blood Tests - Home Collection & Full Body Checkups",
-    "address": "Surabhi, Golf Links Rd",
-    "category": "Diagnostic center",
-    "phone": "+91 96000 85205",
-    "website": null,
-    "discovered_at": "2026-11-17 07:09:21.068301"
-  },
-  {
-    "place_id": "0x3b05bb0fcaa18059:0",
-    "name": "St George Tuition Centre",
-    "address": "near milma , magnoorkonam, pmra b70",
-    "category": "Educational institution",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:01:53.049314"
   }
 ]
