@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bc0fdcb57b9d:0",
+    "name": "Pretty Gents Beauty Parlour",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 04:36:25.092608"
+  },
+  {
+    "place_id": "0x3b05c8b3557951c9:0",
+    "name": "Variety Bakers",
+    "address": "LPS Junction, Thiruvananthapuram, SH 2",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 04:36:23.900743"
+  },
+  {
     "place_id": "0x3b05c7e7685f5ce1:0",
     "name": "TIK TOK MOBILES VEMBAYAM",
     "address": "Vembayam",
@@ -8980,23 +8998,5 @@
     "phone": "+91 98950 54444",
     "website": null,
     "discovered_at": "2026-11-17 07:16:57.477648"
-  },
-  {
-    "place_id": "0x3b05bbb4da0e8c15:0",
-    "name": "Hill View Beautyparlour",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:16:57.464445"
-  },
-  {
-    "place_id": "0x3b05bb2029f00d53:0",
-    "name": "Greens Beauty Salon",
-    "address": "TC 45/215, Kunjalumoodu Junction, Vazhuthacaud - Poojappura Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:16:57.462795"
   }
 ]
