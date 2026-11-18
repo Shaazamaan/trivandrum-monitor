@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbdddb000eef:0",
+    "name": "THE JUICE MASTER",
+    "address": "THE JUICE MASTER",
+    "category": "Juice shop",
+    "phone": "+91 98952 11386",
+    "website": null,
+    "discovered_at": "2026-11-18 20:52:19.449679"
+  },
+  {
     "place_id": "0x3b05c84d1f1a2665:0",
     "name": "Viswas",
     "address": "Trivandrum",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 10:00:53.592252"
-  },
-  {
-    "place_id": "0x3b05bbde3a5fe395:0",
-    "name": "Lifetime fitness",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:00:52.259918"
   }
 ]
