@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bf321c72694d:0",
+    "name": "AQUILA TECH",
+    "address": "MC 10, Mummys Colony Ln",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 06:47:34.286080"
+  },
+  {
     "place_id": "0x3b05ba3b1ca3c03d:0",
     "name": "Queen Bakers",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:24:01.106353"
-  },
-  {
-    "place_id": "0x3b05bb68514fbdc7:0",
-    "name": "G G Associates",
-    "address": "Closes 7 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:01.104363"
   }
 ]
