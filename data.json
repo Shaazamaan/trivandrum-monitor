@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b900145c4c81:0",
+    "name": "Chiramal Property",
+    "address": "GXW9+55C, Krishna Nagar Rd",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 19:45:37.019083"
+  },
+  {
+    "place_id": "0x3b05b99ce5ea5279:0",
+    "name": "Aashwas Community Medical Services",
+    "address": "GXQ9+F44",
+    "category": "Pharmacy",
+    "phone": "+91 95676 95036",
+    "website": null,
+    "discovered_at": "2026-11-18 19:45:35.729745"
+  },
+  {
     "place_id": "0x3b05c1403d65ab3d:0",
     "name": "NJ Styles",
     "address": "Opposite Calorie gym. Pothencode managapuram road, Mangalapuram Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 09:39:41.140857"
-  },
-  {
-    "place_id": "0x3b05b95dd0400001:0",
-    "name": "Septagon Builders and Developers Pvt Ltd",
-    "address": "2nd Floor, Sophia Building, Infront of Bishop House",
-    "category": "Construction company",
-    "phone": "+91 85940 94081",
-    "website": null,
-    "discovered_at": "2026-11-17 09:39:39.918884"
-  },
-  {
-    "place_id": "0x3b05bbe20f57bd0b:0",
-    "name": "Aishwarya Homes Vista",
-    "address": "",
-    "category": "Apartment building",
-    "phone": "+91 97475 11333",
-    "website": null,
-    "discovered_at": "2026-11-17 09:39:38.675992"
   }
 ]
