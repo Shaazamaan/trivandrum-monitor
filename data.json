@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b9004b4a0c65:0",
+    "name": "SAYUJYAM, MERA 184-A",
+    "address": "HW5W+7FJ",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 22:13:06.345485"
+  },
+  {
+    "place_id": "0x3b05b300633bb859:0",
+    "name": "Panjikaran House ,Ambalathinkala PO kattakada Trivandrum Kerala",
+    "address": "F4J3+WXV",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 22:13:05.019969"
+  },
+  {
     "place_id": "0x3b05bdf73e03f0f3:0",
     "name": "Golden Smile Dental Clinic",
     "address": "Alsaints, Veli - Perumathura Rd",
@@ -8980,23 +8998,5 @@
     "phone": "+91 79949 37233",
     "website": null,
     "discovered_at": "2026-11-17 10:01:03.540160"
-  },
-  {
-    "place_id": "0x3b05b98adb72742f:0",
-    "name": "SK Polyclinic & Laboratory",
-    "address": "GWQH+3CR",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:01:02.299827"
-  },
-  {
-    "place_id": "0x3b05bc095971924b:0",
-    "name": "New mira dental care",
-    "address": "P.O, Anayara Rd",
-    "category": "Dental clinic",
-    "phone": "+91 85474 94102",
-    "website": null,
-    "discovered_at": "2026-11-17 10:01:01.061457"
   }
 ]
