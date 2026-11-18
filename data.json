@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05efd0212b1a3f:0",
+    "name": "Urban Cliff Boutique Stay Varkala",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 18:43:07.289762"
+  },
+  {
+    "place_id": "0x3b05efe44479d9c9:0",
+    "name": "Coastal Cafe",
+    "address": "PPP3+JHM Helipad, Varkala Helipad Road",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 18:43:06.026630"
+  },
+  {
+    "place_id": "0x3b05bfc6f7eb466d:0",
+    "name": "Manicheppu",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": "+91 89432 72495",
+    "website": null,
+    "discovered_at": "2026-11-18 18:43:04.605406"
+  },
+  {
     "place_id": "0x3b05bb4398bc0c2d:0",
     "name": "Haze Fashion Store",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 09:31:57.151361"
-  },
-  {
-    "place_id": "0x3b05bf462badd55b:0",
-    "name": "Alex Furnitures",
-    "address": "TC/3, 2659/2, Kariyavattom - Chenkottukonam Rd, opp. Kripa Clinic",
-    "category": "Furniture store",
-    "phone": "+91 96630 36646",
-    "website": null,
-    "discovered_at": "2026-11-17 09:31:55.931176"
-  },
-  {
-    "place_id": "0x3b05bf524eda10ed:0",
-    "name": "Ovenly Snack Shack",
-    "address": "Near, NH-66, Technopark Phase III Main Rd",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 09:24:32.697935"
-  },
-  {
-    "place_id": "0x3b05bef97695363f:0",
-    "name": "Subway Technopark Trivandrum",
-    "address": "",
-    "category": "Sandwich shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 09:24:31.529003"
   }
 ]
