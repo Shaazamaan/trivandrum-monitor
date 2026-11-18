@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb4e05f386fb:0",
+    "name": "ABSOLUTE TRAVEL AGENCY",
+    "address": "MKK Nair Rd",
+    "category": "Travel agency",
+    "phone": "+91 79070 33586",
+    "website": null,
+    "discovered_at": "2026-11-18 12:08:56.011930"
+  },
+  {
+    "place_id": "0x3b05bfcc10a51d59:0",
+    "name": "Hettich Exclusive - Style Wood Interiors",
+    "address": "Ground Floor, MJM Arcade, 17/463, CRPF Rd",
+    "category": "Interior designer",
+    "phone": "+91 62384 07187",
+    "website": null,
+    "discovered_at": "2026-11-18 12:08:54.656035"
+  },
+  {
     "place_id": "0x3b05bb0022f684c7:0",
     "name": "Shri Udupi Hotel",
     "address": "FXC3+8W3, near Attukal Temple",
@@ -8980,23 +8998,5 @@
     "phone": "+91 97919 24897",
     "website": null,
     "discovered_at": "2026-11-17 08:18:04.682760"
-  },
-  {
-    "place_id": "0x3b05bb646a011e99:0",
-    "name": "Aswas Community Pharmacy",
-    "address": "Thiruvallam",
-    "category": "Pharmacy",
-    "phone": "+91 83019 33393",
-    "website": null,
-    "discovered_at": "2026-11-17 08:18:03.210974"
-  },
-  {
-    "place_id": "0x3b05ab60af46b157:0",
-    "name": "Apollo Pharmacy Melpuram",
-    "address": "Ground Floor, No. 12-51, Thiruvanthapuram Main Road",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 08:18:01.943767"
   }
 ]
