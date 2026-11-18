@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x481aad713e4db925:0",
+    "name": "ZAILLO BEAUTY PARLOR",
+    "address": "Zaillo Unisex Makeup Salon, near Karakonam Medical College Quarters Road",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 11:33:56.653830"
+  },
+  {
+    "place_id": "0x3b0453a74eebcb71:0",
+    "name": "Jain Dental clinic",
+    "address": "Parassala Vellarada Rd",
+    "category": "Dental clinic",
+    "phone": "+91 94889 11743",
+    "website": null,
+    "discovered_at": "2026-11-18 11:33:55.467643"
+  },
+  {
     "place_id": "0x3b05b1c605fd5317:0",
     "name": "Garnet Fitness",
     "address": "opposite TG Auditorium, Thachottukavu - Thirumala Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 08:18:00.713608"
-  },
-  {
-    "place_id": "0x3b05b30079c7c9ed:0",
-    "name": "Sahyadri Ayurveda clinic and panchakarma",
-    "address": "Closes 6 PM",
-    "category": "Open",
-    "phone": "+91 79079 34521",
-    "website": null,
-    "discovered_at": "2026-11-17 08:17:59.397400"
-  },
-  {
-    "place_id": "0x3b05b16859e94bc7:0",
-    "name": "SURUMI GOLD & DIMOND",
-    "address": "Kulathummal, opposite hotel abhirami",
-    "category": "Jewelry store",
-    "phone": "+91 98478 34686",
-    "website": null,
-    "discovered_at": "2026-11-17 08:17:58.185895"
   }
 ]
