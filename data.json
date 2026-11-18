@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05b154aa91fd21:0",
+    "name": "TRIAX FITNESS CLUB",
+    "address": "Building no: 10E, Roya towers, Peyad - Vellanad Rd",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 03:23:06.482754"
+  },
+  {
+    "place_id": "0x3b05b10021a03e09:0",
+    "name": "Oh By Juicy Kattakada",
+    "address": "G34H+65X",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 03:23:05.193579"
+  },
+  {
+    "place_id": "0x3b05b15439788e71:0",
+    "name": "NN&Brothers The Bake House",
+    "address": "K.S.R.T.C, Bus Station, Main Road, Thiruvananthapuram - Kattakada Rd, near Complex",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 03:23:04.056927"
+  },
+  {
+    "place_id": "0x3b05b16fb337ee4d:0",
+    "name": "Star Restaurant",
+    "address": "Thiruvananthapuram - Kattakada Rd",
+    "category": "South Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 03:23:02.902191"
+  },
+  {
+    "place_id": "0x3b05bbf02b78b815:0",
+    "name": "SS FURNITURE",
+    "address": "",
+    "category": "Furniture manufacturer",
+    "phone": "+91 62822 84154",
+    "website": null,
+    "discovered_at": "2026-11-18 03:23:01.599583"
+  },
+  {
     "place_id": "0x3b05ab5f34056649:0",
     "name": "Government veterinary hospital",
     "address": "Road",
@@ -8953,50 +8998,5 @@
     "phone": "+91 90619 91932",
     "website": null,
     "discovered_at": "2026-11-17 07:09:21.090266"
-  },
-  {
-    "place_id": "0x3b05b94e12de3da3:0",
-    "name": "Fortune IAS Academy Reading Room Kowdiar",
-    "address": "",
-    "category": "Education center",
-    "phone": "+91 94950 15888",
-    "website": null,
-    "discovered_at": "2026-11-17 07:09:21.089493"
-  },
-  {
-    "place_id": "0x3b05bbd5e1536ac1:0",
-    "name": "KAS Mentor",
-    "address": "",
-    "category": "Coaching center",
-    "phone": "+91 79944 40444",
-    "website": null,
-    "discovered_at": "2026-11-17 07:09:21.088440"
-  },
-  {
-    "place_id": "0x3b05bbd445811abf:0",
-    "name": "Josco Jewellers",
-    "address": "+91 85902 01614",
-    "category": "Temporarily closed",
-    "phone": "+91 85902 01614",
-    "website": null,
-    "discovered_at": "2026-11-17 07:09:21.083487"
-  },
-  {
-    "place_id": "0x3b05bb6691b4aeb1:0",
-    "name": "Bake My Heart - Homemades",
-    "address": "House no.24, Bain's Compound Museum",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:09:21.077223"
-  },
-  {
-    "place_id": "0x3b05bb00647e232b:0",
-    "name": "Zam Zam Bun Cafe YMR",
-    "address": "YMR Jct",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:09:21.075470"
   }
 ]
