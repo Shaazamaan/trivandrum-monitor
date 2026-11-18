@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05b0a66b3f065f:0",
+    "name": "NAYURA Makeup Studio & Spa",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": "+91 96332 36649",
+    "website": null,
+    "discovered_at": "2026-11-18 14:04:35.400432"
+  },
+  {
+    "place_id": "0x3b05b571431aa4f7:0",
+    "name": "Vamika Beauty Spa",
+    "address": "Neyyar Dam Road",
+    "category": "Beauty salon",
+    "phone": "+91 95626 47910",
+    "website": null,
+    "discovered_at": "2026-11-18 14:04:34.172064"
+  },
+  {
+    "place_id": "0x3b05b12172f020f3:0",
+    "name": "LUX Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 14:04:32.883849"
+  },
+  {
+    "place_id": "0x3b05b0574f38e147:0",
+    "name": "Veterinary Hospital",
+    "address": "F2JW+C9H, Malayinkeezhu - Ooruttambalam Rd",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 14:04:31.633975"
+  },
+  {
+    "place_id": "0x3b05b5005d2e0a5b:0",
+    "name": "Government Veterinary hospital Kuttichal",
+    "address": "H474+22R",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 14:04:30.365270"
+  },
+  {
+    "place_id": "0x3b05b130cc67c16d:0",
+    "name": "Golden Pets",
+    "address": "PNM Hospital junction,Main road",
+    "category": "Pet store",
+    "phone": "+91 94467 95004",
+    "website": null,
+    "discovered_at": "2026-11-18 14:04:28.974806"
+  },
+  {
     "place_id": "0x3b05afe824deaa8b:0",
     "name": "LA FEMME MAKEOVER STUDIO",
     "address": "1st Floor, Jalal Avenue",
@@ -8944,59 +8998,5 @@
     "phone": "+91 80758 00085",
     "website": null,
     "discovered_at": "2026-11-17 08:25:37.853497"
-  },
-  {
-    "place_id": "0x3b05c1dd8533cdd7:0",
-    "name": "RJMDriving school",
-    "address": "Poolanthara Near",
-    "category": "Driving school",
-    "phone": "+91 88480 35199",
-    "website": null,
-    "discovered_at": "2026-11-17 08:25:36.671547"
-  },
-  {
-    "place_id": "0x3b05b924619606e3:0",
-    "name": "RK STORES",
-    "address": "",
-    "category": "Grocery store",
-    "phone": "+91 99472 99618",
-    "website": null,
-    "discovered_at": "2026-11-17 08:25:35.471875"
-  },
-  {
-    "place_id": "0x3b05c1ac236db0d3:0",
-    "name": "Reliance Smart Point Mangalapuram",
-    "address": "JVG2+3CP, Pothencode Murukkumpuzha Rd",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 08:25:34.283214"
-  },
-  {
-    "place_id": "0x3b05c10067a74d9b:0",
-    "name": "Jewel palace",
-    "address": "JVF2+W3Q, Pothencode Rd",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 08:25:33.066278"
-  },
-  {
-    "place_id": "0x3b05c0a3200ab29f:0",
-    "name": "Hamama Textiles",
-    "address": "Brother's Plaza, Near KSEB Office",
-    "category": "Clothing store",
-    "phone": "+91 90487 07237",
-    "website": null,
-    "discovered_at": "2026-11-17 08:25:31.789366"
-  },
-  {
-    "place_id": "0x3b05bf5705de1099:0",
-    "name": "SALIM A",
-    "address": "DANISH BAKERY NEAR SUB STATION AYIROORPARA PALLIPPURAM, Pothencode - Pallippuram Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 08:25:30.596669"
   }
 ]
