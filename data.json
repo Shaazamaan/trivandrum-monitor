@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b98fc23d66ad:0",
+    "name": "No. 1 Restaurant",
+    "address": "NO 1, RESTAURANT",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 21:51:13.373106"
+  },
+  {
     "place_id": "0x3b05e90c6c1040ad:0",
     "name": "EMFOMEN",
     "address": "MANANAKKU ROAD, opposite VETERINARY HOSPITAL",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 10:00:59.813426"
-  },
-  {
-    "place_id": "0x3b05bb9e017118dd:0",
-    "name": "Beacon Fort View",
-    "address": "",
-    "category": "Construction company",
-    "phone": "+91 98471 77709",
-    "website": null,
-    "discovered_at": "2026-11-17 10:00:58.579750"
   }
 ]
