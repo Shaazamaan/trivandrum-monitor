@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb34ef192e3d:0",
+    "name": "Thiruvathira Veedu",
+    "address": "Goodwill Tower, Marappalam Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 10:14:24.040808"
+  },
+  {
+    "place_id": "0x3b05bbeba1b3f1ab:0",
+    "name": "Radiance Centre for English Studies",
+    "address": "99, TPJ Nagar Off Plamood Bridge, Pattom, Post",
+    "category": "English language school",
+    "phone": "+91 94960 03388",
+    "website": null,
+    "discovered_at": "2026-11-18 10:14:22.860871"
+  },
+  {
     "place_id": "0x3b05bff7bf77d68d:0",
     "name": "AMRIT Pharmacy|VSSC|Trivandrum",
     "address": "AMRIT PHARMACY VSSC Housing Colony",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:56:03.087237"
-  },
-  {
-    "place_id": "0x3b05af3fc2c29e4b:0",
-    "name": "AJK Signature",
-    "address": "+91 97444 85520",
-    "category": "Open 24 hours",
-    "phone": "+91 97444 85520",
-    "website": null,
-    "discovered_at": "2026-11-17 07:56:00.926596"
-  },
-  {
-    "place_id": "0x3b05ad0018d18d13:0",
-    "name": "LUMINA FITNESS LADIES GYM",
-    "address": "94P6+XJV",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:55:59.709606"
   }
 ]
