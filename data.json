@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb001d4d4f49:0",
+    "name": "Rr home",
+    "address": "C Block, 43/5, Attukal Temple Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 09:17:26.545250"
+  },
+  {
     "place_id": "0x3b05bbcbcf20df01:0",
     "name": "Salmara Ayurveda Clinic Trivandrum",
     "address": "LJ PLAZA, MULAVANA JUNCTION",
@@ -8989,14 +8998,5 @@
     "phone": "+91 90374 31671",
     "website": null,
     "discovered_at": "2026-11-17 07:48:50.250248"
-  },
-  {
-    "place_id": "0x3b05ef43cf22f645:0",
-    "name": "E MART EDAVA VARKALA",
-    "address": "Juction near Moonnumoola",
-    "category": "Grocery store",
-    "phone": "+91 96566 31978",
-    "website": null,
-    "discovered_at": "2026-11-17 07:48:49.021235"
   }
 ]
