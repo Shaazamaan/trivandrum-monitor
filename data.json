@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05e963a5e055fd:0",
+    "name": "fashion hub india",
+    "address": "aluvila bakery building",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 18:52:30.528813"
+  },
+  {
     "place_id": "0x3b05efd0212b1a3f:0",
     "name": "Urban Cliff Boutique Stay Varkala",
     "address": "Trivandrum",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 09:31:58.402892"
-  },
-  {
-    "place_id": "0x3b05bf463dfbcc0f:0",
-    "name": "Euro Spa - Trivandrum",
-    "address": "Park Centre",
-    "category": "Wellness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 09:31:57.151361"
   }
 ]
