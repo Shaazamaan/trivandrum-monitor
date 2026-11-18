@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bf4da73594d5:0",
+    "name": "Alligator Gym",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 01:12:26.131178"
+  },
+  {
+    "place_id": "0x3b05bc81667aa27d:0",
+    "name": "Theeram Hotel",
+    "address": "FWG7+JMP",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 01:12:24.791053"
+  },
+  {
+    "place_id": "0x3b05bb8e31e32d49:0",
+    "name": "VIBRANT DESTINATION",
+    "address": "CORDOVA HIGHER SECONDARU SCHOOL, NEAR, OPPOSIT",
+    "category": "Travel agency",
+    "phone": "+91 96330 66652",
+    "website": null,
+    "discovered_at": "2026-11-18 01:12:23.548329"
+  },
+  {
     "place_id": "0x3b05b9eebc66c327:0",
     "name": "Aishwarya bakery and store",
     "address": "GXPC+MF4",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:54:40.800007"
-  },
-  {
-    "place_id": "0x3b05bf369d9a282d:0",
-    "name": "Cafe '96",
-    "address": "Near Infosys, PO",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.799090"
-  },
-  {
-    "place_id": "0x3b05bf0291815e91:0",
-    "name": "Cafe Amazon",
-    "address": "Infosys, 4, Thampuranmukku Rd, near to Infosys Gate",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.798113"
-  },
-  {
-    "place_id": "0x3b05bf007a458cc3:0",
-    "name": "Take A Break",
-    "address": "HV3G+QP5, Enjakkal Bypass Rd, opposite Ajwa Restaurant",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.796924"
   }
 ]
