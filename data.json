@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c39e59c0f14d:0",
+    "name": "DEVINS FITNESS",
+    "address": "Trivandrum - Kilimanoor Rd, opposite Jumuah Masjid",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 17:26:35.381973"
+  },
+  {
     "place_id": "0x3b05c3688a9ba3bb:0",
     "name": "Teamcafeteria",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 09:17:10.211450"
-  },
-  {
-    "place_id": "0x3b05e9e3d95bf0c3:0",
-    "name": "Kizhakinkara Workspace",
-    "address": "Closes 5 PM",
-    "category": "Open",
-    "phone": "+91 92073 22221",
-    "website": null,
-    "discovered_at": "2026-11-17 09:17:08.998122"
   }
 ]
