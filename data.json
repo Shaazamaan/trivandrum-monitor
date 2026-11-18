@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb84c3afb28b:0",
+    "name": "Changethu Ayurveda Trivandrum",
+    "address": "",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 79074 89122",
+    "website": null,
+    "discovered_at": "2026-11-18 15:21:04.338018"
+  },
+  {
+    "place_id": "0x3b05bb9a335c5fc3:0",
+    "name": "Artech Sreya",
+    "address": "",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 15:21:03.165384"
+  },
+  {
+    "place_id": "0x3b05bfa48f7e4e5d:0",
+    "name": "RTO Driving test ground",
+    "address": "HVCC+58W",
+    "category": "Driving test center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 15:21:01.923166"
+  },
+  {
     "place_id": "0x3b05bb56b33125ad:0",
     "name": "Travancore constructions- The best construction company",
     "address": "TC99/2521-1, first floor, parijatham building NCC road, Byepass, opposite Akshay Tower",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 08:54:55.876672"
-  },
-  {
-    "place_id": "0x3b05e9c495f6777d:0",
-    "name": "Dent Home",
-    "address": "Closes 7 PM",
-    "category": "Open",
-    "phone": "+91 81118 95509",
-    "website": null,
-    "discovered_at": "2026-11-17 08:54:54.700706"
-  },
-  {
-    "place_id": "0x3b05c4927efa0e57:0",
-    "name": "Devi Dental Clinic",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 08:54:53.530918"
-  },
-  {
-    "place_id": "0x3b05bf40c61a794d:0",
-    "name": "Lakshmi's Makeover Studio",
-    "address": "LAKSHMI'S UNISEX BRIDAL MAKEOVER STUDIO",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 08:54:52.313984"
   }
 ]
