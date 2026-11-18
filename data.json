@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05af1ef82d3a2f:0",
+    "name": "AMS Vet Care",
+    "address": "Neeramankuzhi Balaramapuram - Kattakada, Road",
+    "category": "Veterinary pharmacy",
+    "phone": "+91 97458 79239",
+    "website": null,
+    "discovered_at": "2026-11-18 08:38:58.290715"
+  },
+  {
+    "place_id": "0x3b05b1da33600499:0",
+    "name": "Pk pharma",
+    "address": "Closes 6:30 PM",
+    "category": "Open",
+    "phone": "+91 98951 39776",
+    "website": null,
+    "discovered_at": "2026-11-18 08:38:57.111162"
+  },
+  {
+    "place_id": "0x3b05b1d47802316f:0",
+    "name": "Arogya community pharmacy,",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 08:38:55.890974"
+  },
+  {
+    "place_id": "0x3b05b1d1710be5a7:0",
+    "name": "Elbethel",
+    "address": "Market Rd",
+    "category": "Pharmacy",
+    "phone": "+91 97468 08569",
+    "website": null,
+    "discovered_at": "2026-11-18 08:38:54.637996"
+  },
+  {
+    "place_id": "0x3b05b100fc541d27:0",
+    "name": "VAIDYARATNAM KATTAKADA Thaikatt Moss Vaidyaratnam Oushadasala",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": "+91 85903 55856",
+    "website": null,
+    "discovered_at": "2026-11-18 08:38:53.426728"
+  },
+  {
+    "place_id": "0x3b05b17e7ac03d0b:0",
+    "name": "OUSHADHI",
+    "address": "Closes 6 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 08:38:52.291422"
+  },
+  {
+    "place_id": "0x3b05b1e56452ca99:0",
+    "name": "Neethi Medicals Choondupalaka",
+    "address": "G34Q+8H9, opposite Swaram Layam Theater",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 08:38:51.131935"
+  },
+  {
     "place_id": "0x3b05b804f76bd33d:0",
     "name": "Hotel Deluxe",
     "address": "J243+234, Kacheri Jn",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:48:47.821788"
-  },
-  {
-    "place_id": "0x3b05e8f380b885bb:0",
-    "name": "V.m clinical Laboratory",
-    "address": "Varkala Kallambalam Rd",
-    "category": "Medical laboratory",
-    "phone": "+91 73563 28677",
-    "website": null,
-    "discovered_at": "2026-11-17 07:39:24.779392"
-  },
-  {
-    "place_id": "0x3b05bbfe3b106db7:0",
-    "name": "Arun Driving School trivandrum",
-    "address": "cheriyathura, near beemapally",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:31:33.839453"
-  },
-  {
-    "place_id": "0x3b05bd9aea383925:0",
-    "name": "Anaadhi (choice of fashion)",
-    "address": "Closes 7:30 PM",
-    "category": "Open",
-    "phone": "+91 73067 09702",
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:18.809045"
-  },
-  {
-    "place_id": "0x3b05b982586e699f:0",
-    "name": "Studio Melon",
-    "address": "",
-    "category": "Clothing store",
-    "phone": "+91 97725 54807",
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:17.590326"
-  },
-  {
-    "place_id": "0x3b05b913e5cfbe6f:0",
-    "name": "ASRR DESIGNS",
-    "address": "Kandanattil building, TC 96/1168-1, Ulloor - Akkulam Rd, opp. Idiyadicodu Devi temple",
-    "category": "Boutique",
-    "phone": "+91 90377 76451",
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:16.327490"
-  },
-  {
-    "place_id": "0x3b05bd81f38c72ab:0",
-    "name": "Cane & Corn Fresh",
-    "address": "2nd Floor, Food Court, Lulu Mall TVM, Kochuveli, Akkulam Bridge",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:14.940368"
-  },
-  {
-    "place_id": "0x3b05bd070dceb84b:0",
-    "name": "Kaarshikagramam",
-    "address": "",
-    "category": "Fruit and vegetable store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:13.707333"
   }
 ]
