@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05b804f76bd33d:0",
+    "name": "Hotel Deluxe",
+    "address": "J243+234, Kacheri Jn",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 08:24:16.960368"
+  },
+  {
+    "place_id": "0x3b05ba147340f8e1:0",
+    "name": "Seenas Supermarket",
+    "address": "PTP Nagar Rd",
+    "category": "Grocery store",
+    "phone": "+91 97475 73613",
+    "website": null,
+    "discovered_at": "2026-11-18 08:24:15.617671"
+  },
+  {
+    "place_id": "0x3b05ae5e76056a45:0",
+    "name": "Oushadhi",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": "+91 98955 73523",
+    "website": null,
+    "discovered_at": "2026-11-18 08:24:14.349570"
+  },
+  {
+    "place_id": "0x3b05a95de2c8ffff:0",
+    "name": "DIVINE TOUCH PHYSIOTHERAPY CENTER",
+    "address": "Kanjiramkulam Pulluvila Road",
+    "category": "Physical therapy clinic",
+    "phone": "+91 93493 68126",
+    "website": null,
+    "discovered_at": "2026-11-18 08:24:12.839781"
+  },
+  {
+    "place_id": "0x3b05adf96ee9c92d:0",
+    "name": "Shakthi Dental Clinic",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 94004 02232",
+    "website": null,
+    "discovered_at": "2026-11-18 08:24:11.486992"
+  },
+  {
     "place_id": "0x3b05bbd501ebc60b:0",
     "name": "ATTIRE",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:24:13.707333"
-  },
-  {
-    "place_id": "0x3b05bdf4cdcc5485:0",
-    "name": "Hearth and flame co",
-    "address": "Kumar tea stall",
-    "category": "Food court",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:12.428776"
-  },
-  {
-    "place_id": "0x3ba78d98a84a9327:0",
-    "name": "The Pastry Shef Cakes& Pastries",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:11.209193"
-  },
-  {
-    "place_id": "0x3b05b9450a2a1dbf:0",
-    "name": "Sree Murugan Hot Chips & Bakery",
-    "address": "Ulloor - Akkulam Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:09.948468"
-  },
-  {
-    "place_id": "0x3b05bdc6fe876c6d:0",
-    "name": "Capital Cafe",
-    "address": "Opp Lulu Mall",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:08.692905"
-  },
-  {
-    "place_id": "0x3b05bd89da6792b5:0",
-    "name": "Albaik",
-    "address": "Lulu International Shopping Mall, Akkulam Bridge",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:07.494078"
   }
 ]
