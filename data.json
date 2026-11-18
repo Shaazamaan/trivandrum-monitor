@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c84d1f1a2665:0",
+    "name": "Viswas",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 20:18:14.573485"
+  },
+  {
     "place_id": "0x3b05bb004242ba59:0",
     "name": "Murali’s Home",
     "address": "P.O, CRWA 117",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 10:00:52.259918"
-  },
-  {
-    "place_id": "0x3b05bb768846ff99:0",
-    "name": "Ma Restaurant",
-    "address": "Gandhari Amman Kovil Rd",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 09:53:58.301966"
   }
 ]
