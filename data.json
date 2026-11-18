@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbad58403507:0",
+    "name": "Karunya Pharmacy",
+    "address": "FWXV+VJX, General Hospital Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 18:06:10.442345"
+  },
+  {
+    "place_id": "0x3b05bb72e8ef1bfd:0",
+    "name": "Dr Leelavathy Amma",
+    "address": "GW9V+6RG, Marappalam Rd",
+    "category": "Homeopathic pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 18:06:09.222626"
+  },
+  {
     "place_id": "0x3b05c5b5c3ac8cab:0",
     "name": "Smile Care Dental Clinic",
     "address": "Sai Complex",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 09:24:27.930962"
-  },
-  {
-    "place_id": "0x3b05bfb258bf6d61:0",
-    "name": "Thanal Ayurveda Home Manvila",
-    "address": "near Infinity Car Clinic",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 70128 53482",
-    "website": null,
-    "discovered_at": "2026-11-17 09:24:26.797735"
-  },
-  {
-    "place_id": "0x3b05e9bb1c12bf21:0",
-    "name": "Evaniaz Beauty World",
-    "address": "Chennancode - Ottoor Road, above Aabiz",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 09:17:11.488162"
   }
 ]
