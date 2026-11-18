@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bbefc8c3f963:0",
+    "name": "'Aswagandha' Ayurveda",
+    "address": "",
+    "category": "Hospital",
+    "phone": "+91 79078 56104",
+    "website": null,
+    "discovered_at": "2026-11-18 00:08:21.636031"
+  },
+  {
+    "place_id": "0x3b05afef9064bdc9:0",
+    "name": "Dr Sruthy's VRS Dental Clinic",
+    "address": "Pallichal - Vizhinjam Rd",
+    "category": "Dental clinic",
+    "phone": "+91 74031 40215",
+    "website": null,
+    "discovered_at": "2026-11-18 00:08:20.298189"
+  },
+  {
+    "place_id": "0x3b05a5dff025f3cf:0",
+    "name": "VANDITHADAM DENTAL CLINIC",
+    "address": "Vandithadam junction, near IOC petrol pump",
+    "category": "Dentist",
+    "phone": "+91 96328 63361",
+    "website": null,
+    "discovered_at": "2026-11-18 00:08:19.019005"
+  },
+  {
     "place_id": "0x3b05b9b74ab68065:0",
     "name": "GENUINE",
     "address": "SHIRAS SHOP",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:54:40.788962"
-  },
-  {
-    "place_id": "0x3b05bf7bc2f2e28d:0",
-    "name": "Food park Restaurant",
-    "address": "Food Park Restaurant",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.787775"
-  },
-  {
-    "place_id": "0x3b05befabfdd86e7:0",
-    "name": "Tejaswini Food Court",
-    "address": "",
-    "category": "Food court",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.786624"
-  },
-  {
-    "place_id": "0x3b05bbf204f6443f:0",
-    "name": "LabX",
-    "address": "",
-    "category": "Laboratory equipment supplier",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.781058"
   }
 ]
