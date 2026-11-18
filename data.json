@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bff7bf77d68d:0",
+    "name": "AMRIT Pharmacy|VSSC|Trivandrum",
+    "address": "AMRIT PHARMACY VSSC Housing Colony",
+    "category": "Pharmacy",
+    "phone": "+91 94000 27967",
+    "website": null,
+    "discovered_at": "2026-11-18 09:56:10.587934"
+  },
+  {
+    "place_id": "0x3b05bd3ff6f26b7f:0",
+    "name": "Pradhan Mantri Jan Aushadhi Medical Store.",
+    "address": "GW65+FP8",
+    "category": "Pharmacy",
+    "phone": "+91 89210 96646",
+    "website": null,
+    "discovered_at": "2026-11-18 09:56:09.391639"
+  },
+  {
     "place_id": "0x3b05bb563403e11f:0",
     "name": "HPMC Juice Shop",
     "address": "GX64+27G, Museum, Campus",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:55:59.709606"
-  },
-  {
-    "place_id": "0x3b05af00009eaa3d:0",
-    "name": "Krishna Boli Mahal",
-    "address": "Closes 8:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:55:58.328641"
-  },
-  {
-    "place_id": "0x3b05ade316bf249d:0",
-    "name": "JRJ CHRIST physiotherapy centre and training institute",
-    "address": "JRJ CHRIST physiotherapy centre and training institute",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:55:57.129974"
   }
 ]
