@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05afdf2e3ea86f:0",
+    "name": "Taxpaie Business Consulting",
+    "address": "Gautham Building, Convent Road, behind KSRTC Bus Terminal",
+    "category": "Tax preparation service",
+    "phone": "+91 94988 20324",
+    "website": null,
+    "discovered_at": "2026-11-18 05:51:03.818508"
+  },
+  {
+    "place_id": "0x3b05af6973e96f83:0",
+    "name": "Nandakumar And Associates",
+    "address": "Court Rd",
+    "category": "Tax consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 05:51:02.668900"
+  },
+  {
+    "place_id": "0x3b05b152f47d65f7:0",
+    "name": "MUSCLE FACTORY gym & health club malayinkeezh & peyad",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 05:51:01.484467"
+  },
+  {
+    "place_id": "0x3b05af589892c5dd:0",
+    "name": "MUSCLE HEAD NUTRITION",
+    "address": "Neyyattinkara",
+    "category": "Nutritionist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 05:51:00.343474"
+  },
+  {
+    "place_id": "0x3b05aebec40bcdf7:0",
+    "name": "Kanakam Furnishings",
+    "address": "Closes 8:30 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 05:50:59.048844"
+  },
+  {
+    "place_id": "0x3b05ae88fb7613b3:0",
+    "name": "Palathukkada Home Appliance & Gift Centre",
+    "address": "",
+    "category": "Electronics store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 05:50:57.880483"
+  },
+  {
+    "place_id": "0x3b05af73dfde1b43:0",
+    "name": "Pets Bar",
+    "address": "KSRTC Shopping Complex",
+    "category": "Pet supply store",
+    "phone": "+91 80890 10334",
+    "website": null,
+    "discovered_at": "2026-11-18 05:50:56.704862"
+  },
+  {
     "place_id": "0x3b05b95e767a618f:0",
     "name": "Habitat Apartments",
     "address": "Minerva Lane, SH 1. 2 & 3 bhk flats/homes for long or short stays",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:24:01.050123"
-  },
-  {
-    "place_id": "0x3b05bba0bf0b6c57:0",
-    "name": "Vasudeva Vilasam Herbal Remedies",
-    "address": "FWMW+F8R, Vasudeva Vilasam Rd",
-    "category": "Pharmacy",
-    "phone": "+91 90720 16000",
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:01.048921"
-  },
-  {
-    "place_id": "0x3b05bba034b20073:0",
-    "name": "Sruthi Medicals and Health Care Centre",
-    "address": "FWPR+2W4, Sivasakthy Building,Padmavilasam Rd, near S.P Fort Hospital",
-    "category": "Medical supply store",
-    "phone": "+91 99958 34298",
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:01.047967"
-  },
-  {
-    "place_id": "0x3b05bb9ff15e549f:0",
-    "name": "Mullakkal Scan",
-    "address": "FWMR+78V, W Fort - Palkulangara Rd",
-    "category": "Laboratory",
-    "phone": "+91 85938 87716",
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:01.044834"
-  },
-  {
-    "place_id": "0x3b05bbf6fb43ca8b:0",
-    "name": "Lenstocks Optics",
-    "address": "Opp:Fort police station",
-    "category": "Optical products manufacturer",
-    "phone": "+91 98464 60088",
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:01.043476"
-  },
-  {
-    "place_id": "0x3b05bb0a20c16ecf:0",
-    "name": "THE ATTUKAL OPTICIANS",
-    "address": "Attukal Shopping Complex, TC 37/946, S Street Rd",
-    "category": "Optician",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:01.041778"
-  },
-  {
-    "place_id": "0x3b05bb38c01ea03b:0",
-    "name": "Navilan Dental Clinic",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": "+91 80754 50105",
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:01.034888"
-  },
-  {
-    "place_id": "0x3b05bb0147141a3f:0",
-    "name": "Prime Dentistry & Aesthetics",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": "+91 87142 75767",
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:01.033319"
   }
 ]
