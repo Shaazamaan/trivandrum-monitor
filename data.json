@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c74916f97b83:0",
+    "name": "AYILYAM STORES",
+    "address": "Ayilyam Store, Kesavadasapuram - Venjaramoodu Rd, near Nayara Petrol Pump",
+    "category": "Supermarket",
+    "phone": "+91 97457 48269",
+    "website": null,
+    "discovered_at": "2026-11-18 01:34:26.945816"
+  },
+  {
+    "place_id": "0x3b05c7c8d7e1d70b:0",
+    "name": "More Supermarket - Vembayam",
+    "address": "No 710/B",
+    "category": "Supermarket",
+    "phone": "+91 97782 50676",
+    "website": null,
+    "discovered_at": "2026-11-18 01:34:25.685455"
+  },
+  {
     "place_id": "0x3b05bf4da73594d5:0",
     "name": "Alligator Gym",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:54:40.807816"
-  },
-  {
-    "place_id": "0x3b05bec1f3675a9d:0",
-    "name": "My Homely Cakes",
-    "address": "Main Gate, Salma Arcade, Service Rd, near Technopark Phase III Main Road",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.802623"
-  },
-  {
-    "place_id": "0x3b05befbf14e9ad1:0",
-    "name": "Tea Leaf",
-    "address": "",
-    "category": "Snack bar",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:54:40.800007"
   }
 ]
