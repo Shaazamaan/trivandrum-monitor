@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb563403e11f:0",
+    "name": "HPMC Juice Shop",
+    "address": "GX64+27G, Museum, Campus",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 09:41:29.172198"
+  },
+  {
+    "place_id": "0x3b05bb004a60ad49:0",
+    "name": "Wear up",
+    "address": "",
+    "category": "Men's clothing store",
+    "phone": "+91 73068 06645",
+    "website": null,
+    "discovered_at": "2026-11-18 09:41:27.879171"
+  },
+  {
     "place_id": "0x3b05b9f4d6b4128f:0",
     "name": "Naadan Restaurant",
     "address": "GWVR+JXF, Kesavadasapuram - Venjaramoodu Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:55:57.129974"
-  },
-  {
-    "place_id": "0x3b05a9dd0dc99391:0",
-    "name": "Akhila's Physiocare",
-    "address": "opp. kulathoor panchayath office",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:55:55.996986"
-  },
-  {
-    "place_id": "0x3b05e90017d4281f:0",
-    "name": "Kunjuvettil recedency",
-    "address": "Kunjuvettil recedency",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:48:56.119155"
   }
 ]
