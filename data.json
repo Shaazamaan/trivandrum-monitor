@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05afe824deaa8b:0",
+    "name": "LA FEMME MAKEOVER STUDIO",
+    "address": "1st Floor, Jalal Avenue",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 13:57:26.366779"
+  },
+  {
     "place_id": "0x3b05af004eefba0f:0",
     "name": "ZAM ZAM MULTISPECIALITY DENTAL CLINIC",
     "address": "Kodinada",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 08:25:30.596669"
-  },
-  {
-    "place_id": "0x3b05bf7bff9b91e1:0",
-    "name": "Choice Bakery",
-    "address": "Closes 10 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 08:25:29.308932"
   }
 ]
