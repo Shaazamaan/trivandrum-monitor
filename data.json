@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c5b5c3ac8cab:0",
+    "name": "Smile Care Dental Clinic",
+    "address": "Sai Complex",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 17:33:50.807428"
+  },
+  {
     "place_id": "0x3b05c39e59c0f14d:0",
     "name": "DEVINS FITNESS",
     "address": "Trivandrum - Kilimanoor Rd, opposite Jumuah Masjid",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 09:17:11.488162"
-  },
-  {
-    "place_id": "0x3b05bd0049969833:0",
-    "name": "White feathers boutique",
-    "address": "FWQ3+CQ8",
-    "category": "Coworking space",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 09:17:10.211450"
   }
 ]
