@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05ba3b1ca3c03d:0",
+    "name": "Queen Bakers",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 06:26:17.396327"
+  },
+  {
     "place_id": "0x3b05b9984732c3ad:0",
     "name": "Kamalika Store",
     "address": "Maruthummoodu",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:24:01.104363"
-  },
-  {
-    "place_id": "0x3b05bb74f00f7ca5:0",
-    "name": "Bs Motor Driving School",
-    "address": "FWHQ+GJ7",
-    "category": "Driving school",
-    "phone": "+91 99472 52331",
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:01.096848"
   }
 ]
