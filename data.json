@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb004242ba59:0",
+    "name": "Murali’s Home",
+    "address": "P.O, CRWA 117",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 19:52:29.112233"
+  },
+  {
     "place_id": "0x3b05b900145c4c81:0",
     "name": "Chiramal Property",
     "address": "GXW9+55C, Krishna Nagar Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 09:53:58.301966"
-  },
-  {
-    "place_id": "0x3b05bb0078e31ef9:0",
-    "name": "Pattom",
-    "address": "MGRA256 mohan vihar, 2488/3, po",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 09:39:41.140857"
   }
 ]
