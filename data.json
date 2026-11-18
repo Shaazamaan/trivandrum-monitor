@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b6b3bdc0c531:0",
+    "name": "JAY MEDICALS",
+    "address": "G3MP+GP6",
+    "category": "Pharmacy",
+    "phone": "+91 94479 80906",
+    "website": null,
+    "discovered_at": "2026-11-18 16:36:00.625654"
+  },
+  {
+    "place_id": "0x3b05b7fcac0c128b:0",
+    "name": "AKSHAYA COMMUNITY PHARMACY",
+    "address": "10:30 PM",
+    "category": "Closes soon",
+    "phone": "+91 75103 04041",
+    "website": null,
+    "discovered_at": "2026-11-18 16:35:59.392850"
+  },
+  {
     "place_id": "0x3b05a5001d8ecb6b:0",
     "name": "Neethi Medicals Store",
     "address": "Tc-64/436, Neethi Medicals Store, near Thuppanathu Kavu Sree Rajarajeswari Temple, Vazhamuttom",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 09:17:04.004625"
-  },
-  {
-    "place_id": "0x3b05c542c4340155:0",
-    "name": "Asha's Beauty Lounge",
-    "address": "Sreyas junction, opposite national paints",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 09:17:02.831522"
-  },
-  {
-    "place_id": "0x3b05b71f20f24383:0",
-    "name": "MS morden furniture",
-    "address": "Closes 10 PM",
-    "category": "Open",
-    "phone": "+91 95399 30505",
-    "website": null,
-    "discovered_at": "2026-11-17 09:17:01.612172"
   }
 ]
