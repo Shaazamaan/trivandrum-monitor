@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb4e2c8fdfc1:0",
+    "name": "Hikari Salon & Spa",
+    "address": "TC 26/301/1, OGeorge Square, Plamoodu - Thekkamoodu Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 20:59:14.743667"
+  },
+  {
     "place_id": "0x3b05bbdddb000eef:0",
     "name": "THE JUICE MASTER",
     "address": "THE JUICE MASTER",
@@ -8989,14 +8998,5 @@
     "phone": "+91 75928 38382",
     "website": null,
     "discovered_at": "2026-11-17 10:00:54.812231"
-  },
-  {
-    "place_id": "0x3b05bb19ab773567:0",
-    "name": "GB Fitness Centre",
-    "address": "FWMP+XJC",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:00:53.592252"
   }
 ]
