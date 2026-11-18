@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05afb4dc7c79a1:0",
+    "name": "ASWATHY STORE",
+    "address": "SHOP NO1, ASWATHY STORE, KALLAMBALAM CSI CHURCH ROAD, near CSI CHURCH",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 23:09:48.648716"
+  },
+  {
+    "place_id": "0x3b05cee1bba0c4d3:0",
+    "name": "Kichuz BAKERY & SOFA MAKERS",
+    "address": "P3G5+J8H, Vithura - Peringammala Road",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 23:09:47.458201"
+  },
+  {
+    "place_id": "0x3b05c038a9fbf6e9:0",
+    "name": "A.J. College of Pharmacy",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 23:09:46.298310"
+  },
+  {
     "place_id": "0x3b05a5440a95f269:0",
     "name": "ALISHA TRAVELS",
     "address": "CWWX+WMM, ALISHA TOURS & TRAVELS, AMINA PLAZA FIRST FLOOR AMINA PLAZA N. H KOVALAM BYPASS, P.O NEAR",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 10:01:11.939102"
-  },
-  {
-    "place_id": "0x3b05bda2e820b041:0",
-    "name": "Toni&Guy - Lulu Mall",
-    "address": "",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:01:10.769136"
-  },
-  {
-    "place_id": "0x3b05bd994ec84fb9:0",
-    "name": "Z18",
-    "address": "Ground Floor, Lulu International Shopping Mall",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:01:09.420950"
-  },
-  {
-    "place_id": "0x3b05bdd5fe5055df:0",
-    "name": "Kairali Jewellers",
-    "address": "C05 Ground floor, Pvt, Lulu International Shopping Mall",
-    "category": "Jewelry store",
-    "phone": "+91 99467 50800",
-    "website": null,
-    "discovered_at": "2026-11-17 10:01:08.278391"
   }
 ]
