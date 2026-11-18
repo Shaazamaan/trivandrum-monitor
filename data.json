@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb00096cbf8b:0",
+    "name": "Drug Gen Pharma",
+    "address": "16/1731, TC, Kannammoola Road",
+    "category": "Pharmacy",
+    "phone": "+91 90482 15908",
+    "website": null,
+    "discovered_at": "2026-11-18 04:50:48.327342"
+  },
+  {
     "place_id": "0x3b05bc0fdcb57b9d:0",
     "name": "Pretty Gents Beauty Parlour",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:16:57.510627"
-  },
-  {
-    "place_id": "0x3b05bbb6e19813b3:0",
-    "name": "Promag Realtors and Developers",
-    "address": "TC 15/1989 (7), Narayana Towers, Vazhuthacaud",
-    "category": "Real estate developer",
-    "phone": "+91 98950 54444",
-    "website": null,
-    "discovered_at": "2026-11-17 07:16:57.477648"
   }
 ]
