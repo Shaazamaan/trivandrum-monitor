@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbd7ed3cc9c1:0",
+    "name": "Navomi Fashion Lounge",
+    "address": "Home Makers' Atelier, Narmada Shopping Complex",
+    "category": "Designer clothing store",
+    "phone": "+91 79079 46110",
+    "website": null,
+    "discovered_at": "2026-11-18 12:54:05.221628"
+  },
+  {
     "place_id": "0x3b05afb4e31dabd7:0",
     "name": "ETHEOS OPTICIAN. (PAPPANAMCODE)",
     "address": "SRK COMPLEX, JN",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 08:25:25.600693"
-  },
-  {
-    "place_id": "0x3b05c191614a6c13:0",
-    "name": "Paradise1029",
-    "address": "Siddha Medical College Hospital",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 08:25:24.384202"
   }
 ]
