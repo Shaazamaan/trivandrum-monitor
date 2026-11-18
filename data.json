@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c3688a9ba3bb:0",
+    "name": "Teamcafeteria",
+    "address": "",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 17:19:08.722484"
+  },
+  {
     "place_id": "0x3b05bb93a9e06525:0",
     "name": "DXB mobiles",
     "address": "Dxb Mobiles, junction",
@@ -8989,14 +8998,5 @@
     "phone": "+91 92073 22221",
     "website": null,
     "discovered_at": "2026-11-17 09:17:08.998122"
-  },
-  {
-    "place_id": "0x3b05cbb26e87e1fb:0",
-    "name": "AAVANI TOURS & TRAVELS",
-    "address": "M4HM+372",
-    "category": "Taxi service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 09:17:07.755176"
   }
 ]
