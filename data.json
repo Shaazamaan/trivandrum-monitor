@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b9984732c3ad:0",
+    "name": "Kamalika Store",
+    "address": "Maruthummoodu",
+    "category": "Jewelry store",
+    "phone": "+91 99958 24952",
+    "website": null,
+    "discovered_at": "2026-11-18 06:19:31.581777"
+  },
+  {
     "place_id": "0x3b05a9c25ce8b681:0",
     "name": "Heaven Backwater Cruise",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": "+91 99472 52331",
     "website": null,
     "discovered_at": "2026-11-17 07:24:01.096848"
-  },
-  {
-    "place_id": "0x3b05bb6ee2f000ab:0",
-    "name": "Gazal Gym",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:01.090325"
   }
 ]
