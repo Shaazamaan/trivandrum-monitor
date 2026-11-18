@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb5067389001:0",
+    "name": "SaLuna Beauty Studio",
+    "address": "",
+    "category": "Hairdresser",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 15:28:31.721692"
+  },
+  {
     "place_id": "0x3b05bb84c3afb28b:0",
     "name": "Changethu Ayurveda Trivandrum",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": "+91 94962 08344",
     "website": null,
     "discovered_at": "2026-11-17 09:02:18.610519"
-  },
-  {
-    "place_id": "0x3b05c3007fb548bf:0",
-    "name": "Cheruppakkarante Thattukada",
-    "address": "Closes 11:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 08:54:55.876672"
   }
 ]
