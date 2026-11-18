@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05b9f4d6b4128f:0",
+    "name": "Naadan Restaurant",
+    "address": "GWVR+JXF, Kesavadasapuram - Venjaramoodu Rd",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 09:34:14.246881"
+  },
+  {
+    "place_id": "0x3b05c7004a214fc9:0",
+    "name": "MAMMA’s KITCHEN",
+    "address": "MW2H+F9V Poochedi Provision Store, Manjadimoodu, Trivandrum - Kilimanoor Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 09:34:13.010665"
+  },
+  {
+    "place_id": "0x3b05c148e458b6fb:0",
+    "name": "Chindu Hotel",
+    "address": "SH 1",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 09:34:11.817254"
+  },
+  {
+    "place_id": "0x3b05c19414b91e47:0",
+    "name": "HOTEL HIMALAYAM",
+    "address": "MW76+CWH, SH 1",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 09:34:10.598941"
+  },
+  {
+    "place_id": "0x3b05c6d4ee06f141:0",
+    "name": "Pulimood Restaurant",
+    "address": "MW4C+X5V",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 09:34:09.379164"
+  },
+  {
     "place_id": "0x3b05ebcc155de959:0",
     "name": "LABORATORY TALUK HQ HOSPITAL",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:48:56.119155"
-  },
-  {
-    "place_id": "0x3b05e91059d9caf7:0",
-    "name": "DREAM Tower",
-    "address": "MRW7+PWG",
-    "category": "Office space rental agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:48:54.991320"
-  },
-  {
-    "place_id": "0x3b05ea00cfca006f:0",
-    "name": "Dreamia Restaurant",
-    "address": "Dreaming Building, Main Road, near ITI",
-    "category": "Restaurant",
-    "phone": "+91 94477 66220",
-    "website": null,
-    "discovered_at": "2026-11-17 07:48:54.968085"
-  },
-  {
-    "place_id": "0x3b05e9002fcfee4d:0",
-    "name": "WATER TESTING LABORATORY /WATER LAB /ATTINGAL TRIVANDRUM",
-    "address": "T.B Junction",
-    "category": "Water testing service",
-    "phone": "+91 70346 28082",
-    "website": null,
-    "discovered_at": "2026-11-17 07:48:53.832631"
-  },
-  {
-    "place_id": "0x3b05ef13e68052e5:0",
-    "name": "AKBAR TRAVELS ONLINE.COM",
-    "address": "Waffas Medicals, Varkala Railway Station Rd",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:48:52.654425"
-  },
-  {
-    "place_id": "0x3b05ef1f38a20335:0",
-    "name": "Kerala Konnections Tourism Promotions Pvt Ltd",
-    "address": "Varkala Kallambalam Rd, off Kurrakkani Road, near Krishna supermarket",
-    "category": "Sightseeing tour agency",
-    "phone": "+91 99460 69770",
-    "website": null,
-    "discovered_at": "2026-11-17 07:48:51.448316"
   }
 ]
