@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b9005ecbfcab:0",
+    "name": "Thayyil house",
+    "address": "SRA56",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 02:39:54.349467"
+  },
+  {
+    "place_id": "0x3b05b9003bfe3f99:0",
+    "name": "Kesavadasapuram, Eden Gardens",
+    "address": "Eden Gardens, Bhaskar Ln",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 02:39:53.147528"
+  },
+  {
+    "place_id": "0x3b05b90066e3cafd:0",
+    "name": "VRINDAVAN KESAVADASAPURAM",
+    "address": "B15",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 02:39:51.908147"
+  },
+  {
     "place_id": "0x3b05bb85ae096825:0",
     "name": "DEVAGEETHAM AYURVEDA PANCHAKARMA CENTRE & PHYSIOTHERAPY CLINIC - SPECIALITY CENTRE- ORTHOPEDIC & SPORTS INJURY REHABILITATION",
     "address": "TC NO 83/1018, KUZHIVILA LANE FORT, PRA-22, Punnapuram Rd, near PHYSIOTHERAPY CENTRE",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:01:53.039702"
-  },
-  {
-    "place_id": "0x3b05bbe6fd088a65:0",
-    "name": "Makayiram super market",
-    "address": "GW7Q+M43, Pottakkuzhi",
-    "category": "Grocery store",
-    "phone": "+91 94475 86978",
-    "website": null,
-    "discovered_at": "2026-11-17 07:01:53.037143"
-  },
-  {
-    "place_id": "0x3b05bb0061c57d6b:0",
-    "name": "Love Bites Cafe",
-    "address": "GW5W+9CF Love Bites Cafe, Pattom Rd, opposite ANERT EV CHARGING STATION",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:01:53.025587"
-  },
-  {
-    "place_id": "0x3b05bb59625ebbf7:0",
-    "name": "Thakazhi Pedika - Restaurant",
-    "address": "GWCW+4GM, Pattom - Kowdiar Rd",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:01:53.023567"
   }
 ]
