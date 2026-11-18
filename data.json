@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05b9b74ab68065:0",
+    "name": "GENUINE",
+    "address": "SHIRAS SHOP",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 00:00:46.627610"
+  },
+  {
+    "place_id": "0x3b05ad2b6a4ee5af:0",
+    "name": "Meera's Makeover Ladies Beauty Care",
+    "address": "Main Road",
+    "category": "Beauty salon",
+    "phone": "+91 62385 30996",
+    "website": null,
+    "discovered_at": "2026-11-18 00:00:45.455930"
+  },
+  {
+    "place_id": "0x3b05ae23a13bd6b7:0",
+    "name": "ES EDEN SUPERMARKET",
+    "address": "C3PG+C56, Neyyattinkara Kattakkada Rd",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 00:00:44.288569"
+  },
+  {
+    "place_id": "0x3b05ae23b9cea7af:0",
+    "name": "SREEKUMAR STORE",
+    "address": "C3PG+Q8V, Neyyattinkara - Mambazhakara - Perumkadavila Rd",
+    "category": "Jewelry store",
+    "phone": "+91 85477 72777",
+    "website": null,
+    "discovered_at": "2026-11-18 00:00:43.137296"
+  },
+  {
     "place_id": "0x3b05ef29bb844b89:0",
     "name": "Jyothi Medicals",
     "address": "PPMG+VC7",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 06:54:40.781058"
-  },
-  {
-    "place_id": "0x3b05bfc8f73560c7:0",
-    "name": "Kazhakoottam Market",
-    "address": "HV8C+GWQ",
-    "category": "Market",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.639846"
-  },
-  {
-    "place_id": "0x3b05bfa1a5b6647d:0",
-    "name": "PERFECT GROUP MOBILE MARKET",
-    "address": "Opposit, post office, near Beema jewellery",
-    "category": "Cell phone store",
-    "phone": "+91 98096 70301",
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.635427"
-  },
-  {
-    "place_id": "0x3b05bf00705391dd:0",
-    "name": "KL22 KITCHEN",
-    "address": "Technopark Trivandrum, KL22 KITCHEN, TIRUVANTHPURAM ROAD, near NH 47 BYPASS ROAD",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.630346"
-  },
-  {
-    "place_id": "0x3b05bf00bb684217:0",
-    "name": "Mille Crust Bakery by Shareen foods",
-    "address": "Shareen foods TC 99/1186, Poundakadavu, Kazhakootam - Karode Byp",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 06:47:33.628487"
   }
 ]
