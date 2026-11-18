@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbd501ebc60b:0",
+    "name": "ATTIRE",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 07:46:12.986520"
+  },
+  {
     "place_id": "0x3b05bbbc2fdeeeb7:0",
     "name": "Medcity International Academy",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:24:07.494078"
-  },
-  {
-    "place_id": "0x3b05b957fb7b11c9:0",
-    "name": "Karunya Clinical Laboratory",
-    "address": "GWGH+4MC, Near Medical College Hospital",
-    "category": "Diagnostic center",
-    "phone": "+91 94464 55246",
-    "website": null,
-    "discovered_at": "2026-11-17 07:24:06.158738"
   }
 ]
