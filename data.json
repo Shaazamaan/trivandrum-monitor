@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bdf73e03f0f3:0",
+    "name": "Golden Smile Dental Clinic",
+    "address": "Alsaints, Veli - Perumathura Rd",
+    "category": "Dental clinic",
+    "phone": "+91 90379 07212",
+    "website": null,
+    "discovered_at": "2026-11-18 21:58:43.648164"
+  },
+  {
     "place_id": "0x3b05b98fc23d66ad:0",
     "name": "No. 1 Restaurant",
     "address": "NO 1, RESTAURANT",
@@ -8989,14 +8998,5 @@
     "phone": "+91 85474 94102",
     "website": null,
     "discovered_at": "2026-11-17 10:01:01.061457"
-  },
-  {
-    "place_id": "0x3b05bb005dc453ad:0",
-    "name": "Muttavila Madom",
-    "address": "FWJR+6VV, S Street Rd",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:00:59.813426"
   }
 ]
