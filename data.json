@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bbb4ff5761ab:0",
+    "name": "La Poshe by Sree Dhanya Homes",
+    "address": "",
+    "category": "Apartment building",
+    "phone": "+91 89439 11111",
+    "website": null,
+    "discovered_at": "2026-11-18 05:12:15.659390"
+  },
+  {
+    "place_id": "0x3b05bb0051909d3b:0",
+    "name": "Eric's home",
+    "address": "TC15/739, Cotton Hill Rd",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 05:12:14.453608"
+  },
+  {
+    "place_id": "0x3b05bba5b75d138f:0",
+    "name": "Rzianz Infrastructures Pvt. Ltd.",
+    "address": "462, Easwaravilasam Rd",
+    "category": "Construction company",
+    "phone": "+91 75105 44455",
+    "website": null,
+    "discovered_at": "2026-11-18 05:12:13.219094"
+  },
+  {
     "place_id": "0x3b05bb6f39698003:0",
     "name": "Greens Pharma",
     "address": "TC 3/1318(25).KPRA 65(B, TKD Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 07:16:57.519688"
-  },
-  {
-    "place_id": "0x3b05bb8fcfbcd6e5:0",
-    "name": "Sonu Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:16:57.518188"
-  },
-  {
-    "place_id": "0x3b05bb863cf93fc5:0",
-    "name": "Lali Bakery",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:16:57.517032"
-  },
-  {
-    "place_id": "0x3b05bb84cd9e4473:0",
-    "name": "Cafe DE ORO",
-    "address": "Closes 11:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 07:16:57.513713"
   }
 ]
