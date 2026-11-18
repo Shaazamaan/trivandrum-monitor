@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05a5a35e32e79d:0",
+    "name": "Villa Anandha Ayurvedic center",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 97452 21336",
+    "website": null,
+    "discovered_at": "2026-11-18 22:34:26.561005"
+  },
+  {
     "place_id": "0x3b05bb91ed7d3cb1:0",
     "name": "SIP Abacus Vattiyoorkavu",
     "address": "THOPPUMMUKKU, NRRA B-61",
@@ -8989,14 +8998,5 @@
     "phone": "+91 94469 67609",
     "website": null,
     "discovered_at": "2026-11-17 10:01:05.860901"
-  },
-  {
-    "place_id": "0x3b05bd1ef4d15c63:0",
-    "name": "Lulu Connect",
-    "address": "",
-    "category": "Cell phone store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:01:04.706025"
   }
 ]
