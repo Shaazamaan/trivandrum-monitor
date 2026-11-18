@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05e95f8a37b707:0",
+    "name": "Mom's Juice Bay",
+    "address": "PQR3+Q83",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 15:06:19.165232"
+  },
+  {
+    "place_id": "0x3b05e8f3abed7fa3:0",
+    "name": "ROYAL ARCADE NJEKKADU",
+    "address": "QQ3C+5HG, Varkala Kallambalam Rd",
+    "category": "Medical supply store",
+    "phone": "+91 96455 48269",
+    "website": null,
+    "discovered_at": "2026-11-18 15:06:17.936295"
+  },
+  {
+    "place_id": "0x3b05c3367d5fa1f1:0",
+    "name": "Joys beauty care & bridal makeovers",
+    "address": "9 PM",
+    "category": "Closes soon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 15:06:16.690155"
+  },
+  {
+    "place_id": "0x3b05bfe1509997f9:0",
+    "name": "Glossy Fox Unisex Makeover Studio",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-18 15:06:15.452966"
+  },
+  {
     "place_id": "0x85426d14947730fd:0",
     "name": "Swad events",
     "address": "Trivandrum",
@@ -8962,41 +8998,5 @@
     "phone": "+91 81568 53236",
     "website": null,
     "discovered_at": "2026-11-17 08:47:38.281984"
-  },
-  {
-    "place_id": "0x3b05bb00116e0637:0",
-    "name": "HAJAR",
-    "address": "FWCX+P7P, Trivandrum Vizhinjam Rd",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 08:47:37.120234"
-  },
-  {
-    "place_id": "0x3b05bb2836dc2811:0",
-    "name": "Kairali Apartment",
-    "address": "Closes 5 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 08:47:35.948439"
-  },
-  {
-    "place_id": "0x3b05bb0e6ce6f0d3:0",
-    "name": "Laham",
-    "address": "Opens 4 PM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 08:40:12.237385"
-  },
-  {
-    "place_id": "0x3b05bafdabf782c5:0",
-    "name": "Eenam Events & Weddings",
-    "address": "",
-    "category": "Event planner",
-    "phone": "+91 94463 18830",
-    "website": null,
-    "discovered_at": "2026-11-17 08:40:10.828983"
   }
 ]
