@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b0bffa0caf55:0",
+    "name": "Green Style Interior Manchadi",
+    "address": "G25M+25H",
+    "category": "Interior designer",
+    "phone": "+91 94471 40307",
+    "website": null,
+    "discovered_at": "2026-11-19 03:31:25.762123"
+  },
+  {
+    "place_id": "0x3b05b1b2080318ef:0",
+    "name": "Kadhali Bakers",
+    "address": "Closes 11 AM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 03:31:24.454553"
+  },
+  {
+    "place_id": "0x3b05b16ead1b002b:0",
+    "name": "Cafe 49 Killi",
+    "address": "Bus stop, near medicity hospital",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 03:31:23.014505"
+  },
+  {
     "place_id": "0x3b05ae89abb0b8e9:0",
     "name": "Deepa Garments",
     "address": "93XQ+G4X",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 11:23:34.502986"
-  },
-  {
-    "place_id": "0x3b05bc2044ada00b:0",
-    "name": "The Kappi Shop",
-    "address": "NH66, Karimanal Rd",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 11:23:33.240226"
-  },
-  {
-    "place_id": "0x3b05bbba981cb309:0",
-    "name": "Cake time -Homemade cakes",
-    "address": "S-78, South Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 11:09:47.000411"
-  },
-  {
-    "place_id": "0x3b05a5e867a7b2cf:0",
-    "name": "Dr Sanitha's Janani Ayurveda",
-    "address": "Dr. Sanitha's Janani Auurveda Clinic and Pharmacy Punnamood, road",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 70255 62233",
-    "website": null,
-    "discovered_at": "2026-11-17 11:09:45.712642"
   }
 ]
