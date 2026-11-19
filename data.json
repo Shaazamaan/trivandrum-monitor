@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b77308f14fed:0",
+    "name": "Driving School",
+    "address": "65",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 19:54:42.423576"
+  },
+  {
     "place_id": "0x3b05efe3991a2cbb:0",
     "name": "Almond Restaurant",
     "address": "Odayam Beach - Manthara Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 15:28:59.615003"
-  },
-  {
-    "place_id": "0x3b05bb664dbf9c4b:0",
-    "name": "MH Cafe",
-    "address": "Mens Hostel, Medical College, Medical College Kumarapuram Rd, opposite Jayaram bakery",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 15:20:16.865186"
   }
 ]
