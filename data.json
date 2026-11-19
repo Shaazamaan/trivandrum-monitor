@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05cde71058cb79:0",
+    "name": "Golden Valley Forest Checking Station, Vithura",
+    "address": "P49H+44",
+    "category": "Tourist attraction",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 21:09:29.676783"
+  },
+  {
+    "place_id": "0x3b05bfc27e63af93:0",
+    "name": "Pink Blush Beauty Studio",
+    "address": "VSSC Road, near All Saints college",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 21:09:28.374317"
+  },
+  {
     "place_id": "0x3b05c71fc1f9083f:0",
     "name": "DRIVING SCHOOL GROUND VENJARAMOODU",
     "address": "DRIVING PRACTISE GROUND, Kavara Temple Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 15:36:39.295699"
-  },
-  {
-    "place_id": "0x3b05af6f2295d5b7:0",
-    "name": "ORUMA MEDICALS",
-    "address": "Oruma medicals, po, near nims hospital",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 15:36:38.052938"
-  },
-  {
-    "place_id": "0x3b05af450898e957:0",
-    "name": "Zam Zam Medicals",
-    "address": "Neyyattinkara Kattakkada Rd",
-    "category": "Pharmacy",
-    "phone": "+91 82899 73958",
-    "website": null,
-    "discovered_at": "2026-11-17 15:36:36.012935"
   }
 ]
