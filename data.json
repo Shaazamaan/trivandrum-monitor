@@ -1,5 +1,239 @@
 [
   {
+    "place_id": "0x3b05ba2bdba7564b:0",
+    "name": "BIJU & ASSOCIATES, Chartered Accountants",
+    "address": "65D",
+    "category": "Corporate office",
+    "phone": "+91 89214 54558",
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:29.262727"
+  },
+  {
+    "place_id": "0x3b05a55b9280c2a5:0",
+    "name": "Pv Decorations & Catering",
+    "address": "+91 98959 22811",
+    "category": "Open 24 hours",
+    "phone": "+91 98959 22811",
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:28.003388"
+  },
+  {
+    "place_id": "0x3b05bbaa4fd29295:0",
+    "name": "Astro Nascente Builders and Interiors",
+    "address": "Building Vanchiyor, First Floor at Kaladi & Kumbalathu, Pattoor - Vanchiyoor Rd",
+    "category": "Interior designer",
+    "phone": "+91 95673 45740",
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:26.110251"
+  },
+  {
+    "place_id": "0x3b05bbb58dcbb3f7:0",
+    "name": "Vibe Casa Concepts",
+    "address": "",
+    "category": "Interior designer",
+    "phone": "+91 98469 80080",
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:24.718927"
+  },
+  {
+    "place_id": "0x3b05a9a876dcf1d1:0",
+    "name": "Federal Bank - Poovar",
+    "address": "",
+    "category": "Bank",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:23.475120"
+  },
+  {
+    "place_id": "0x3b05a9000d46a705:0",
+    "name": "POOVAR KERALA",
+    "address": "DOMINIC VARGHESE, EDAYIKKAL VEEDU",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:22.242250"
+  },
+  {
+    "place_id": "0x3b05a9093cea2dbd:0",
+    "name": "IT Kiosk Computer Education",
+    "address": "BUS STAND, opp. KSRTC",
+    "category": "Computer training school",
+    "phone": "+91 80893 75738",
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:20.838647"
+  },
+  {
+    "place_id": "0x3b05a4d3384614bb:0",
+    "name": "Jas Multi Gym & Health Club",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:19.624764"
+  },
+  {
+    "place_id": "0x3b05bbaf965d7d09:0",
+    "name": "Curly Girl Beauty Makeover Studio",
+    "address": "Opens 9:30 AM Fri",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:18.315006"
+  },
+  {
+    "place_id": "0x3b05bb3694dbcec7:0",
+    "name": "Al Meera Super Market",
+    "address": "near St Philomena's",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:17.042539"
+  },
+  {
+    "place_id": "0x3b05bb48acb67907:0",
+    "name": "TINTED TREASURE",
+    "address": "Tc 47/1273(3, BINRAJ tower akshaya centre, 1273(3, PO, opposite to poonthura",
+    "category": "Jewelry store",
+    "phone": "+91 98959 37532",
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:15.768704"
+  },
+  {
+    "place_id": "0x3b05bde6fbec5383:0",
+    "name": "Styloak Furniture",
+    "address": "Styloak furnitures,shangumukham,Beach P.O,Thiruvananthapuram GV Raja A street",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:14.467052"
+  },
+  {
+    "place_id": "0x3b05afe92caba16d:0",
+    "name": "M A R FURNITURE",
+    "address": "Opens 9 AM Fri",
+    "category": "Closed",
+    "phone": "+91 98959 50172",
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:13.273697"
+  },
+  {
+    "place_id": "0x3b05b996e09cb115:0",
+    "name": "JMR FURNITURE",
+    "address": "Kachani Aruvikkara Rd",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:12.092445"
+  },
+  {
+    "place_id": "0x3b05ad5807498e77:0",
+    "name": "Satheesh Bakery And Coolbar",
+    "address": "C4G8+RV4",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:10.699612"
+  },
+  {
+    "place_id": "0x3b05bb007be488b9:0",
+    "name": "Dr.Anulakshmi's Eye care Clinic",
+    "address": "Opens 8 AM Sun",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:09.470817"
+  },
+  {
+    "place_id": "0x3b05a5f9aa3f0b0d:0",
+    "name": "Paradise Gardens Beach Resort & Ayurveda Centre",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:08.214227"
+  },
+  {
+    "place_id": "0x3b05af007466f64f:0",
+    "name": "Abi travels",
+    "address": "92JH+JRJ, Payattuvila Nellimoodu Rd",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:06.996074"
+  },
+  {
+    "place_id": "0x3b05a528b37dc727:0",
+    "name": "Way2Kerala",
+    "address": "Sea flower house, Vizhinjam Harbour Rd, near fire station",
+    "category": "Taxi service",
+    "phone": "+91 87141 83738",
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:05.752035"
+  },
+  {
+    "place_id": "0x3b05a500178b16db:0",
+    "name": "My home",
+    "address": "Township colony house, 50, Vizhinjam - Uchakkada Rd",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:04.390983"
+  },
+  {
+    "place_id": "0x3b05a500369ffbcf:0",
+    "name": "Vahid",
+    "address": "International Seaport, Jannathul Bakkiya, 19/197, Vizhinjam Harbour Rd, near Vizhinjam",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:03.184440"
+  },
+  {
+    "place_id": "0x3b05a5002e747301:0",
+    "name": "J J BHAVAN",
+    "address": "CX5J+54V, KS Rd",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:01.405012"
+  },
+  {
+    "place_id": "0x3b05a5005286a281:0",
+    "name": "JISHNU'S HOUSE",
+    "address": "92F5+H92",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:57:00.037578"
+  },
+  {
+    "place_id": "0x3b05a5003eb227a5:0",
+    "name": "Kovalam",
+    "address": "9XWJ+QJH, Beach Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:56:58.044352"
+  },
+  {
+    "place_id": "0x3b05af00196c5797:0",
+    "name": "RICHU A S",
+    "address": "Mulloor P O",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:56:56.832362"
+  },
+  {
+    "place_id": "0x3b05af0032355ec9:0",
+    "name": "Mullumukku",
+    "address": "60/515-1 , Heaven Villa, Mullumukku, Kidarakuzhi, PO",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:56:55.515702"
+  },
+  {
     "place_id": "0x3b05b7f7ac1fbbc3:0",
     "name": "Trivi Pharma",
     "address": "J227+64W, Mukkolakkal, Nedumangad, Tvm",
@@ -8764,239 +8998,5 @@
     "phone": "+91 62388 24820",
     "website": null,
     "discovered_at": "2026-11-17 13:57:16.371741"
-  },
-  {
-    "place_id": "0x3b05c1188a59f515:0",
-    "name": "Stars Tution Centre",
-    "address": "MVM5+7XF",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 13:57:14.931131"
-  },
-  {
-    "place_id": "0x3b05e90ebe73729d:0",
-    "name": "Shreyas Boutique",
-    "address": "MQWP+98R, Mananakku-Kollampuzha-Attingal Rd",
-    "category": "Clothing store",
-    "phone": "+91 70124 54403",
-    "website": null,
-    "discovered_at": "2026-11-17 13:57:13.651678"
-  },
-  {
-    "place_id": "0x3b05c7736ee7cae1:0",
-    "name": "JEEVARASHI COLLECTIONS",
-    "address": "JEEVARASHI COLLECTIONS, Shivankonam Rd",
-    "category": "Clothing store",
-    "phone": "+91 92073 00138",
-    "website": null,
-    "discovered_at": "2026-11-17 13:57:12.412306"
-  },
-  {
-    "place_id": "0x3b05ea4597c658d7:0",
-    "name": "KALLOOS HOTEL",
-    "address": "MQ7V+83Q, Eenchakkal Rd",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 13:57:10.956462"
-  },
-  {
-    "place_id": "0x3b05bbd55c989fcd:0",
-    "name": "TROUVAILLER TOURS",
-    "address": "TC 45/960 NEW BUILDING Vallakkadavu p.o",
-    "category": "Travel agency",
-    "phone": "+91 70125 10955",
-    "website": null,
-    "discovered_at": "2026-11-17 13:57:09.525110"
-  },
-  {
-    "place_id": "0x3b05bbb2c6c44347:0",
-    "name": "Honeydew ULTRA Salon & Spa",
-    "address": "TC 91/855, 1, Anayara Rd, near Ambara Suites",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 13:57:08.266396"
-  },
-  {
-    "place_id": "0x3b05baff9d5bcb6f:0",
-    "name": "Salam Fruits and Juices",
-    "address": "FXJ8+XVF",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 13:49:59.531559"
-  },
-  {
-    "place_id": "0x3b05bb16782423eb:0",
-    "name": "Aarogya Pharmacy",
-    "address": "Closes 9:30 PM",
-    "category": "Open",
-    "phone": "+91 94009 68516",
-    "website": null,
-    "discovered_at": "2026-11-17 13:49:58.336353"
-  },
-  {
-    "place_id": "0x3b05bbc498fa5455:0",
-    "name": "AL AQSA TOURS AND TRAVELS AC OPD BY AZHAR AHMAD",
-    "address": "AL AQSA TOURS AND TRAVELS",
-    "category": "Travel agency",
-    "phone": "+91 94970 05161",
-    "website": null,
-    "discovered_at": "2026-11-17 13:49:57.160246"
-  },
-  {
-    "place_id": "0x3b05bb98a2a8b4f9:0",
-    "name": "Blinds curtain trivandrum manacaud",
-    "address": "Paruthikuzhy Rd",
-    "category": "Interior designer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 13:49:55.902075"
-  },
-  {
-    "place_id": "0x3b05bb001e8edc61:0",
-    "name": "Firoz home",
-    "address": "FX73+G2F",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 13:49:54.693909"
-  },
-  {
-    "place_id": "0x3b05bb0008189c2f:0",
-    "name": "Mulluvilakathu Veedu",
-    "address": "FWFW+V7Q",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 13:49:53.511758"
-  },
-  {
-    "place_id": "0x3b05bb003c5e19dd:0",
-    "name": "Kadukkara Veedu",
-    "address": "Kadukkara Veedu, SKRA 181, PO",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 13:49:52.363288"
-  },
-  {
-    "place_id": "0x3b05b944e7a6e055:0",
-    "name": "SolutionZ Trivandrum",
-    "address": "Near, St. Thomas School Rd",
-    "category": "Tutoring service",
-    "phone": "+91 97462 19671",
-    "website": null,
-    "discovered_at": "2026-11-17 13:49:51.028457"
-  },
-  {
-    "place_id": "0x3b05bb0609a3c98d:0",
-    "name": "Sree Dhananjaya Ayurvedics",
-    "address": "House no. 82, Yamuna Nagar 2nd street Manacaud P. O",
-    "category": "Hospital",
-    "phone": "+91 94469 80086",
-    "website": null,
-    "discovered_at": "2026-11-17 13:49:49.761894"
-  },
-  {
-    "place_id": "0x3b05bb8a0b76c88d:0",
-    "name": "Dr Nowfal N (PT)",
-    "address": "TC 74/192(3, PSRA 127, St Joseph Church Rd",
-    "category": "Physical therapist",
-    "phone": "+91 90375 43674",
-    "website": null,
-    "discovered_at": "2026-11-17 13:49:48.602805"
-  },
-  {
-    "place_id": "0x3b05ba9a25a7ccd3:0",
-    "name": "Archana BOUTIQUE",
-    "address": "F292+F9C, Studio Rd Nemom",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 13:42:53.726547"
-  },
-  {
-    "place_id": "0x3b044d9824449815:0",
-    "name": "Dr. Queenie Veterinary Services",
-    "address": "Rahulam, Pazhayaveetumoozhy, Vellanad P.O",
-    "category": "Veterinarian",
-    "phone": "+91 81389 22355",
-    "website": null,
-    "discovered_at": "2026-11-17 13:42:52.439412"
-  },
-  {
-    "place_id": "0x3b05a56a8bb67471:0",
-    "name": "JANA SEVA COMMUNITY PHARMACY VANDITHADAM",
-    "address": "P.O, JANA SEVA COMMUNITY PHARMACY VANDITHADAM, VELLAYANI",
-    "category": "Pharmacy",
-    "phone": "+91 70346 22349",
-    "website": null,
-    "discovered_at": "2026-11-17 13:42:51.050475"
-  },
-  {
-    "place_id": "0x3b05b98fc2dd0edd:0",
-    "name": "SARATHY CABS",
-    "address": "Vattiyoorkavu, Netaji Rd",
-    "category": "Tour agency",
-    "phone": "+91 73565 31010",
-    "website": null,
-    "discovered_at": "2026-11-17 13:35:32.728399"
-  },
-  {
-    "place_id": "0x3b05bb98b596de1d:0",
-    "name": "Voyage Travels",
-    "address": "Voyage Traders",
-    "category": "Taxi service",
-    "phone": "+91 89214 31350",
-    "website": null,
-    "discovered_at": "2026-11-17 13:35:31.533931"
-  },
-  {
-    "place_id": "0x3b05b9cb5af70f89:0",
-    "name": "iris enterprises",
-    "address": "Opposite Indian Overseas Bank,Vattiyoorkavu branch Cpt junction, PO",
-    "category": "Furniture accessories",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 13:35:30.251521"
-  },
-  {
-    "place_id": "0x3b05bb00dc19a281:0",
-    "name": "A&M Textiles",
-    "address": "near Shankara Narayana Swami Temple",
-    "category": "Store",
-    "phone": "+91 91887 44825",
-    "website": null,
-    "discovered_at": "2026-11-17 13:35:28.998826"
-  },
-  {
-    "place_id": "0x3b05b94e85a7b0df:0",
-    "name": "Colours ladies and kids nettayam",
-    "address": "Nettayam - Mampazhakunnu Rd",
-    "category": "Clothing store",
-    "phone": "+91 98958 30373",
-    "website": null,
-    "discovered_at": "2026-11-17 13:35:24.632264"
-  },
-  {
-    "place_id": "0x3b05bf253c937267:0",
-    "name": "Cafe Connection",
-    "address": "Closes 12 AM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 13:28:18.666768"
-  },
-  {
-    "place_id": "0x3b05b9e0389e5b5b:0",
-    "name": "PAZHOOR RESIDENCY HOME STAY",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": "+91 94470 62871",
-    "website": null,
-    "discovered_at": "2026-11-17 13:28:17.415607"
   }
 ]
