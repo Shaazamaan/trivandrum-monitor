@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c362e38d03f3:0",
+    "name": "Dr phones",
+    "address": "Dr phones karette Karett junction, 011, Kazhakoottam - Kilimanoor Rd, opposite Muthoot fincorp",
+    "category": "Mobile phone repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 20:52:42.778348"
+  },
+  {
     "place_id": "0x3b05bbf50eec882d:0",
     "name": "ZANETA",
     "address": "junction",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 15:36:33.582612"
-  },
-  {
-    "place_id": "0x3b05ad0047d9fb17:0",
-    "name": "Jk care & cure",
-    "address": "C56Q+HJ8",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 15:36:32.413221"
   }
 ]
