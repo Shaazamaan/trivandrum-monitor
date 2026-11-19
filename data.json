@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05c141f8ebbc07:0",
+    "name": "Style Plus",
+    "address": "MVHW+R76, Valiyakattaikal, Venjaramoodu",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 15:48:02.672706"
+  },
+  {
+    "place_id": "0x3b05c14689ea12cb:0",
+    "name": "SOURAV BAKERY",
+    "address": "MWH3+HFH, Venjaramoodu",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 15:48:01.478807"
+  },
+  {
+    "place_id": "0x3b05c396765c23a3:0",
+    "name": "Government Ayurveda Hospital",
+    "address": "",
+    "category": "Government hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 15:48:00.264744"
+  },
+  {
+    "place_id": "0x3b05bba31064ee89:0",
+    "name": "Veda Hospital",
+    "address": "",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 15:47:59.043871"
+  },
+  {
     "place_id": "0x3b05b9616f885b5d:0",
     "name": "NAMASTE TRIVANDRUM",
     "address": "Peroorkada Mannanthala Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 14:12:11.413118"
-  },
-  {
-    "place_id": "0x3b05bb001b2bd103:0",
-    "name": "Haus Of Strength",
-    "address": "GXCJ+M9H",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:12:10.022317"
-  },
-  {
-    "place_id": "0x3b05b9494a3ac0cb:0",
-    "name": "Rogue Fitness",
-    "address": "First Floor, Rogue Fitness, Commercial Space, Creations Vivian Suited, MC Rd",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:12:08.460688"
-  },
-  {
-    "place_id": "0x3b05c73f23725c57:0",
-    "name": "D Live Furniture",
-    "address": "JWMP+VMG, Vembayam, Vattappara - Thattathumala Rd",
-    "category": "Furniture store",
-    "phone": "+91 94951 61123",
-    "website": null,
-    "discovered_at": "2026-11-17 14:12:07.243874"
-  },
-  {
-    "place_id": "0x3b05cb2f0289208d:0",
-    "name": "J Cafe",
-    "address": "M4HP+7CX IISER, Theviyode - Bonacaud Rd",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:12:06.035110"
   }
 ]
