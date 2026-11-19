@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb000571be93:0",
+    "name": "Happy fresh juice",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 03:38:02.345552"
+  },
+  {
     "place_id": "0x3b05b0bffa0caf55:0",
     "name": "Green Style Interior Manchadi",
     "address": "G25M+25H",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 11:23:35.790173"
-  },
-  {
-    "place_id": "0x3b05bec94896fdb1:0",
-    "name": "Global Fitness Arena",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 11:23:34.502986"
   }
 ]
