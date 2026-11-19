@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bf4431d90cd5:0",
+    "name": "Angel's Tuition Centre",
+    "address": "HRJP+3G7",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 15:56:05.186537"
+  },
+  {
     "place_id": "0x3b05c141f8ebbc07:0",
     "name": "Style Plus",
     "address": "MVHW+R76, Valiyakattaikal, Venjaramoodu",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 14:19:23.508942"
-  },
-  {
-    "place_id": "0x3b05a583f1a707b7:0",
-    "name": "VCB WORKSPACE",
-    "address": "CX5F+5RH, Vellar Service Rd",
-    "category": "Recording studio",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:12:11.413118"
   }
 ]
