@@ -1,5 +1,239 @@
 [
   {
+    "place_id": "0x3b05ba0325c8220f:0",
+    "name": "Seethal Bakery",
+    "address": "H1, Vattiyoorkavu - Kulasekharam Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:04:13.349052"
+  },
+  {
+    "place_id": "0x3b05b9b661d967af:0",
+    "name": "cuddle cafe",
+    "address": "Vattiyoorkavu - Kulasekharam Rd",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:04:12.054456"
+  },
+  {
+    "place_id": "0x3b05b9489026971d:0",
+    "name": "Surendra Trident",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:04:10.745539"
+  },
+  {
+    "place_id": "0x3b05ba243ac4f213:0",
+    "name": "BEAUTY PETS",
+    "address": "Rugmini Arcade, Vattiyoorkkav-Arappura Rd, near ICICI Bank",
+    "category": "Pet store",
+    "phone": "+91 89435 40479",
+    "website": null,
+    "discovered_at": "2026-11-19 01:04:09.524155"
+  },
+  {
+    "place_id": "0x3b05b9157adc4eb5:0",
+    "name": "NEYYAR PHARMA AGENCIES",
+    "address": "opp. ANOOP TRADERS",
+    "category": "Pharmaceutical products wholesaler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:04:08.190982"
+  },
+  {
+    "place_id": "0x3b05b9ed08cf0585:0",
+    "name": "SREE VINAYAKA DRUG LINES",
+    "address": "Kamala Tower",
+    "category": "Medical supply store",
+    "phone": "+91 98957 00256",
+    "website": null,
+    "discovered_at": "2026-11-19 01:04:06.913502"
+  },
+  {
+    "place_id": "0x3b05bb938a3f266d:0",
+    "name": "Viswas Fair Price Medical Services Vattiyoorkavu",
+    "address": "Mannarakonam - Thoppumukku Rd",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:04:05.364470"
+  },
+  {
+    "place_id": "0x3b05ba1f79117535:0",
+    "name": "Urban Primary Health Center Vattiyoorkavu",
+    "address": "",
+    "category": "Medical Center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:04:04.062817"
+  },
+  {
+    "place_id": "0x3b05bbc9bb4877dd:0",
+    "name": "Dev Ayurvedic Spine Care Clinic",
+    "address": "Thoppumukku junction, Vattiyorkavu",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:04:02.676088"
+  },
+  {
+    "place_id": "0x3b05ba22408a6c59:0",
+    "name": "Vattiyoorkavu M Krishna Pillai Memorial NSS Karayogam",
+    "address": "Eswari Amman Kovil Rd",
+    "category": "Social services organization",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:04:00.858497"
+  },
+  {
+    "place_id": "0x3b05bb6f17229db1:0",
+    "name": "Hanumat Agencies Pvt Ltd",
+    "address": "TC 10/1907, Manjadimoodu",
+    "category": "Dental supply store",
+    "phone": "+91 97789 20952",
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:59.614905"
+  },
+  {
+    "place_id": "0x3b05b9d2fab700e1:0",
+    "name": "Varampath Enclave",
+    "address": "Varampath Enclave, Peroorkada Vattiyoorkavu Rd, behind Bus Stop",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:58.355240"
+  },
+  {
+    "place_id": "0x3b05bb9e66c2e0e7:0",
+    "name": "Hai Holidays & Travel Solutions Trivandrum",
+    "address": "Tower,93, G A, MKK Nair Rd, near Trivandrum international Airport",
+    "category": "Travel agency",
+    "phone": "+91 81291 33042",
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:57.080099"
+  },
+  {
+    "place_id": "0x3b05c7b35feb50c9:0",
+    "name": "S R Associatez Tours and Travels",
+    "address": "",
+    "category": "Travel agency",
+    "phone": "+91 90610 39881",
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:55.823983"
+  },
+  {
+    "place_id": "0x3b05c13839b18841:0",
+    "name": "OZON EVENTS",
+    "address": "",
+    "category": "Event management company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:54.501184"
+  },
+  {
+    "place_id": "0x3b05bf84707c25b9:0",
+    "name": "Edathadu Pothencode",
+    "address": "Sreeshylam",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:53.255146"
+  },
+  {
+    "place_id": "0x3b05c12d21e0c497:0",
+    "name": "Raj villa mottukonam Road, pothencode Trivandrum",
+    "address": "JV7V+RXM, Pothencode Kazhakoottam Road",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:51.873070"
+  },
+  {
+    "place_id": "0x3b05c1036b6b9255:0",
+    "name": "Sajeer pothencode",
+    "address": "JVCW+MH3",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:50.498133"
+  },
+  {
+    "place_id": "0x3b05c1bf21ca125b:0",
+    "name": "Thejas Jewels",
+    "address": "Vavarayambalam",
+    "category": "Jewelry store",
+    "phone": "+91 74034 19993",
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:49.278240"
+  },
+  {
+    "place_id": "0x3b05c16ca06ab871:0",
+    "name": "Rajakumari Wedding Centre",
+    "address": "",
+    "category": "Shopping mall",
+    "phone": "+91 93499 47713",
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:48.043822"
+  },
+  {
+    "place_id": "0x3b05c0a33b417de7:0",
+    "name": "ASHAN STORES",
+    "address": "Ashan Store",
+    "category": "Furniture store",
+    "phone": "+91 93877 72172",
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:46.786239"
+  },
+  {
+    "place_id": "0x3b05c13b905df3e9:0",
+    "name": "Anaswara Boutique",
+    "address": "Pothencod",
+    "category": "Tailor",
+    "phone": "+91 89211 08365",
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:45.545728"
+  },
+  {
+    "place_id": "0x3b05bf9f338ba96f:0",
+    "name": "SHINE JUICE AND COOL BAR",
+    "address": "SHINE JUICE AND COOL BAR, POTHENCODE ROAD",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:44.294726"
+  },
+  {
+    "place_id": "0x3b05c1a398f62213:0",
+    "name": "MALOOS Hotel",
+    "address": "JVFP+VC8",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:42.888343"
+  },
+  {
+    "place_id": "0x3b05c7002e7e313b:0",
+    "name": "HOME CARE PHYSIOTHERAPY & REHABILITATION",
+    "address": "JW8F+WQP, Kaduvakuzhy konchira, Vembayam - Pothencode Rd",
+    "category": "Physical therapist",
+    "phone": "+91 89219 52001",
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:41.541799"
+  },
+  {
+    "place_id": "0x3b05c1001dc80577:0",
+    "name": "CARE HOSPITAL",
+    "address": "",
+    "category": "Hospital",
+    "phone": "+91 80899 93367",
+    "website": null,
+    "discovered_at": "2026-11-19 01:03:40.306883"
+  },
+  {
     "place_id": "0x3b05b3f1ea2e7015:0",
     "name": "CALIFORNIA CLOTHING",
     "address": "Po Neyyardam Road",
@@ -8764,239 +8998,5 @@
     "phone": "+91 97469 20390",
     "website": null,
     "discovered_at": "2026-11-17 10:40:00.177350"
-  },
-  {
-    "place_id": "0x3b05a92a22de3da7:0",
-    "name": "FAIRY TOOTH DENTAL CARE AND IMPLANT CENTRE",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": "+91 95622 56222",
-    "website": null,
-    "discovered_at": "2026-11-17 10:39:58.900510"
-  },
-  {
-    "place_id": "0x3b05a5c33b694b1b:0",
-    "name": "Tycoone of Realestate Trivandrum",
-    "address": ":, near Trivandrum International Seaports Ltd",
-    "category": "Industrial real estate agency",
-    "phone": "+91 94953 03101",
-    "website": null,
-    "discovered_at": "2026-11-17 10:39:57.559000"
-  },
-  {
-    "place_id": "0x3b05a5989aadbf55:0",
-    "name": "REAL STATE AGENTS",
-    "address": "9XRQ+76F, Vizhinjam Harbour Rd",
-    "category": "Real estate agency",
-    "phone": "+91 62820 40204",
-    "website": null,
-    "discovered_at": "2026-11-17 10:39:56.368904"
-  },
-  {
-    "place_id": "0x3b05a5f843517631:0",
-    "name": "Properties for sale- Vizhinjam international sea port",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:39:55.072727"
-  },
-  {
-    "place_id": "0x3b05af924a3051ef:0",
-    "name": "Sk properties Trivandrum",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": "+91 80752 33699",
-    "website": null,
-    "discovered_at": "2026-11-17 10:39:53.768479"
-  },
-  {
-    "place_id": "0x3b05a50e3f9f35c5:0",
-    "name": "Team V9 Fitness",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:39:52.378371"
-  },
-  {
-    "place_id": "0x3b05ad2fcc540e59:0",
-    "name": "Amala Interiors",
-    "address": "opposite NIIT",
-    "category": "Ceiling supplier",
-    "phone": "+91 62827 49702",
-    "website": null,
-    "discovered_at": "2026-11-17 10:32:34.830336"
-  },
-  {
-    "place_id": "0x3b05bb0c0d534909:0",
-    "name": "Carona Hypermarket",
-    "address": "Closes 9:30 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:32:33.593777"
-  },
-  {
-    "place_id": "0x3b05e9f9077e0211:0",
-    "name": "Sherry's Cloth House",
-    "address": "MRW8+FVH, NH 66, above manjali jewellery",
-    "category": "Dress store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:25:24.631069"
-  },
-  {
-    "place_id": "0x3b05e9f9fd14f923:0",
-    "name": "Neela Textiles",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": "+91 94477 90404",
-    "website": null,
-    "discovered_at": "2026-11-17 10:25:23.337990"
-  },
-  {
-    "place_id": "0x3b05e9f77ae3edcd:0",
-    "name": "V Shapes",
-    "address": "BTS Rd, near Diet School Of Attingal",
-    "category": "Clothing alteration service",
-    "phone": "+91 82814 40809",
-    "website": null,
-    "discovered_at": "2026-11-17 10:25:22.015249"
-  },
-  {
-    "place_id": "0x3b05e934a7a7ac51:0",
-    "name": "Allen Solly",
-    "address": "Soorya building, 11/936, Main Rd, near sub treasury",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:25:20.785685"
-  },
-  {
-    "place_id": "0x3b05e9ee04d55067:0",
-    "name": "Pantloon stitching centre",
-    "address": "MRX6+Q96, Market Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:25:19.540586"
-  },
-  {
-    "place_id": "0x3b05c1e9d512d6d5:0",
-    "name": "Orange Fashions",
-    "address": "Near darussalam madrasa hall, Avanavanchery",
-    "category": "Clothing store",
-    "phone": "+91 95264 61729",
-    "website": null,
-    "discovered_at": "2026-11-17 10:25:18.316930"
-  },
-  {
-    "place_id": "0x3b05e95138887167:0",
-    "name": "JORDAN MENS WEAR",
-    "address": "MRVC+743, Salem-Kanyakumari Highway",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:25:17.058099"
-  },
-  {
-    "place_id": "0x3b05c1b8e028fd4d:0",
-    "name": "Rajakumari Shopping Ltd",
-    "address": "Rajakumari Shopping Ltd",
-    "category": "Men's clothing store",
-    "phone": "+91 93499 47730",
-    "website": null,
-    "discovered_at": "2026-11-17 10:25:15.624941"
-  },
-  {
-    "place_id": "0x3b05e5f06ed434db:0",
-    "name": "Vaishnaveeyam Ayurveda",
-    "address": "Vaishnaveeyam Ayurveda, Ayroor po",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 94007 79627",
-    "website": null,
-    "discovered_at": "2026-11-17 10:16:00.994403"
-  },
-  {
-    "place_id": "0x3b05eff607535f17:0",
-    "name": "Dr Sreenath's Ayurveda Clinic",
-    "address": "PPW9+G3V, S L Vihar, opposite to panayil finance",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:15:59.852963"
-  },
-  {
-    "place_id": "0x3b05bf6b69ac905b:0",
-    "name": "DEVI MARGINFREE SUPERMARKET",
-    "address": "",
-    "category": "Supermarket",
-    "phone": "+91 94478 71435",
-    "website": null,
-    "discovered_at": "2026-11-17 10:15:58.520612"
-  },
-  {
-    "place_id": "0x3b05bb80503ce433:0",
-    "name": "Ashraya Pharmacy",
-    "address": "GW89+9QF, Poonthi Rd, opposite HP Gas agency",
-    "category": "Pharmacy",
-    "phone": "+91 98952 28824",
-    "website": null,
-    "discovered_at": "2026-11-17 10:08:27.403822"
-  },
-  {
-    "place_id": "0x3b05bf7ae87619e5:0",
-    "name": "Zoom Opticals",
-    "address": "Chekkalamukku, beside SBI ATM",
-    "category": "Optician",
-    "phone": "+91 97465 69989",
-    "website": null,
-    "discovered_at": "2026-11-17 10:08:26.268156"
-  },
-  {
-    "place_id": "0x3b05bb1a84d0e83d:0",
-    "name": "HealthAssure - Medivision Scan and Diagnostic Research Centre Pvt Ltd - Trivandrum | Blood Tests & Full Body Checkups",
-    "address": "1st Floor, Aster Square, Medical College, near Azad",
-    "category": "Diagnostic center",
-    "phone": "+91 86069 22060",
-    "website": null,
-    "discovered_at": "2026-11-17 10:08:25.060627"
-  },
-  {
-    "place_id": "0x3b05bb7839d58625:0",
-    "name": "SHAAS TRAVEL'S",
-    "address": "House number 33, Sree Chithra Thirunal Nagar, TC. 6/2158, Ulloor - Akkulam Rd",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:01:21.731298"
-  },
-  {
-    "place_id": "0x3b05bbfa01b1c07b:0",
-    "name": "Attitudes Architects",
-    "address": "Medical college, No 80, Ulloor Gardens Rd",
-    "category": "Architecture firm",
-    "phone": "+91 98465 23423",
-    "website": null,
-    "discovered_at": "2026-11-17 10:01:20.542122"
-  },
-  {
-    "place_id": "0x3b05be9ffecdc015:0",
-    "name": "SFS Waterscapes",
-    "address": "",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:01:19.275558"
-  },
-  {
-    "place_id": "0x3b05b9bc9658d101:0",
-    "name": "Kartview, Ulloor, Tvm",
-    "address": "Tc 2/426/1, Vavarakonam Rd",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:01:18.111503"
   }
 ]
