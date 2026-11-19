@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c72a132634e3:0",
+    "name": "RAHUL U",
+    "address": "OH MY JUICE, THIRUVANANTHAPURAM ROAD, near RAJA HOTEL",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 17:48:43.995040"
+  },
+  {
+    "place_id": "0x3b05c7004fcbd9cf:0",
+    "name": "Oh My Juice",
+    "address": "Oh my juice, near Raja hottel and",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 17:48:42.788300"
+  },
+  {
     "place_id": "0x3b05b7eeaefbd049:0",
     "name": "Archana's Maths Special Tuition",
     "address": "G2JC+652 Aaranyaka, Aletty",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 14:35:30.991087"
-  },
-  {
-    "place_id": "0x3b05bfe6951ce16b:0",
-    "name": "Ignite Trivandrum",
-    "address": "NANDANAM PRA- D 24, TC 3/2884, THUNDATHIL, PO",
-    "category": "Coaching center",
-    "phone": "+91 73560 83669",
-    "website": null,
-    "discovered_at": "2026-11-17 14:35:29.575631"
-  },
-  {
-    "place_id": "0x3b05bf33c2ebccad:0",
-    "name": "Gokulam Bridal Makeover",
-    "address": "Substation, Bus Stop, Salem - Kochi Hwy",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:35:28.200037"
   }
 ]
