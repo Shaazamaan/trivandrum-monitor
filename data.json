@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bf006a4a2261:0",
+    "name": "Unique Fashions",
+    "address": "Attinkuzhi Rd, near Technopark Road",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 04:51:46.691000"
+  },
+  {
     "place_id": "0x3b05bbc077f0cb75:0",
     "name": "Black & White Unisex Salon",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 12:07:20.444023"
-  },
-  {
-    "place_id": "0x3b05bb2dacff3ecb:0",
-    "name": "Panchodhayah Ayurveda Clinic And Wellness Centre",
-    "address": "opposite canara bank",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 88913 02133",
-    "website": null,
-    "discovered_at": "2026-11-17 12:07:19.179840"
   }
 ]
