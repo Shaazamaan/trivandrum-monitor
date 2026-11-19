@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbc077f0cb75:0",
+    "name": "Black & White Unisex Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": "+91 75368 14655",
+    "website": null,
+    "discovered_at": "2026-11-19 04:37:04.744708"
+  },
+  {
+    "place_id": "0x3b05bd94215f75ed:0",
+    "name": "BeKiddy BeLady Designer Boutique",
+    "address": "sugavas\", tc 79/2357, ARA 115(A), karikakkam.p.o",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 04:37:03.450684"
+  },
+  {
     "place_id": "0x3b05bb9328fdb247:0",
     "name": "PalmWorld nongu(നോങ്ക്) juice shop",
     "address": "Viswambharan Road, opposite ksrtc bus depo",
@@ -8980,23 +8998,5 @@
     "phone": "+91 88913 02133",
     "website": null,
     "discovered_at": "2026-11-17 12:07:19.179840"
-  },
-  {
-    "place_id": "0x3b05bf66db59504b:0",
-    "name": "IFUEX INFRASTRUCTURE AND BUILDERS LLP",
-    "address": "2nd Floor, Logtech Tower",
-    "category": "Construction company",
-    "phone": "+91 79027 99207",
-    "website": null,
-    "discovered_at": "2026-11-17 11:59:23.121742"
-  },
-  {
-    "place_id": "0x3b05bef1cf081643:0",
-    "name": "Silver Castle Infranest",
-    "address": "",
-    "category": "Apartment building",
-    "phone": "+91 94470 60008",
-    "website": null,
-    "discovered_at": "2026-11-17 11:59:21.822914"
   }
 ]
