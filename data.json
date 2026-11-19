@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05ae89abb0b8e9:0",
+    "name": "Deepa Garments",
+    "address": "93XQ+G4X",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 03:09:43.077388"
+  },
+  {
+    "place_id": "0x3b05e9f9c75508d3:0",
+    "name": "Fitness Club Multi Gym",
+    "address": "MRW8+M85, Main Rd, near Municipal Office",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 03:09:41.809393"
+  },
+  {
     "place_id": "0x3b05b98c2e54cb15:0",
     "name": "Brilliant Study Centre - Thiruvananthapuram",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": "+91 70255 62233",
     "website": null,
     "discovered_at": "2026-11-17 11:09:45.712642"
-  },
-  {
-    "place_id": "0x3b05b91a8078f52b:0",
-    "name": "P. Sukumaran Memorial Ayurveda Clinic",
-    "address": "Ambalathunada Mukkola P. O",
-    "category": "Alternative medicine practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 11:09:44.482546"
-  },
-  {
-    "place_id": "0x3b05ba302a951799:0",
-    "name": "Devassy & Devassy Chartered Accountants",
-    "address": "",
-    "category": "Chartered accountant",
-    "phone": "+91 94472 25699",
-    "website": null,
-    "discovered_at": "2026-11-17 11:09:43.258149"
   }
 ]
