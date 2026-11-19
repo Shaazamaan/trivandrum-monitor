@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b3f1ea2e7015:0",
+    "name": "CALIFORNIA CLOTHING",
+    "address": "Po Neyyardam Road",
+    "category": "Clothing store",
+    "phone": "+91 75939 17172",
+    "website": null,
+    "discovered_at": "2026-11-19 00:49:48.253918"
+  },
+  {
+    "place_id": "0x3b05b705ec21b6d7:0",
+    "name": "Heavenly Bakes",
+    "address": "G2JR+QRV, Firdhouse,Padavncode,Vilappilsala P.O, Peyad - Vellanad Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 00:49:47.063571"
+  },
+  {
     "place_id": "0x3b05ac47348678bd:0",
     "name": "CMS (center For Maths & Science )",
     "address": "Park Junction Dhanuvachapuran, Amaravila-Karakonam Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 10:01:18.111503"
-  },
-  {
-    "place_id": "0x3b05bb36978256d1:0",
-    "name": "Aham Builders Consultants & Developers",
-    "address": "Closes 5 PM",
-    "category": "Open",
-    "phone": "+91 90743 92382",
-    "website": null,
-    "discovered_at": "2026-11-17 10:01:16.824847"
-  },
-  {
-    "place_id": "0x3b05bc0af75f8e0b:0",
-    "name": "BODY TUNE FITNESS CENTRE",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:01:15.555806"
   }
 ]
