@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x3b05b18dede4b4fd:0",
+    "name": "Pravasi Bakery & Fresh Juice",
+    "address": "65, College Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 17:33:06.483678"
+  },
+  {
+    "place_id": "0x3b05b3b892ea7321:0",
+    "name": "Vazioram Family Restraint",
+    "address": "Chaikulam Madathikonam Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 17:33:05.199386"
+  },
+  {
+    "place_id": "0x3b05b16a1a605edd:0",
+    "name": "Golden Aquarium",
+    "address": "opp. Cristian college",
+    "category": "Aquarium shop",
+    "phone": "+91 94467 95004",
+    "website": null,
+    "discovered_at": "2026-11-19 17:33:03.954127"
+  },
+  {
+    "place_id": "0x3b05b15dccd3508b:0",
+    "name": "LJ Garden & Pet shop",
+    "address": "Opens 9:30 AM Fri",
+    "category": "Closed",
+    "phone": "+91 80755 90217",
+    "website": null,
+    "discovered_at": "2026-11-19 17:33:02.724951"
+  },
+  {
+    "place_id": "0x3b05b892823ea919:0",
+    "name": "stephens dental centre-best dental clinic in trivandrum",
+    "address": "Stephens tower, SH 1",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 17:33:01.358398"
+  },
+  {
+    "place_id": "0x3b05b1003a2f9b0f:0",
+    "name": "Dr. SOORYAS DENTAL CLINIC AND CLINICAL LABORATORY",
+    "address": "F3R2+9GM, Thiruvananthapuram - Neyyar Dam Rd",
+    "category": "Dental clinic",
+    "phone": "+91 90746 09849",
+    "website": null,
+    "discovered_at": "2026-11-19 17:33:00.142319"
+  },
+  {
+    "place_id": "0x3b05b39ee5490f77:0",
+    "name": "Vrindha Multispeciality Dental Clinic",
+    "address": "G4JG+65V",
+    "category": "Hospital",
+    "phone": "+91 70256 90899",
+    "website": null,
+    "discovered_at": "2026-11-19 17:32:58.898891"
+  },
+  {
+    "place_id": "0x3b05b10010da344f:0",
+    "name": "Dr. PRAVEEN RAJ",
+    "address": "G35P+2FH, Main Rd",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 17:32:57.641465"
+  },
+  {
+    "place_id": "0x3b05a921fa83d745:0",
+    "name": "Tezco Supermarket",
+    "address": "Tezco Supermarket, police station, near pozhiyoor",
+    "category": "Supermarket",
+    "phone": "+91 80898 10046",
+    "website": null,
+    "discovered_at": "2026-11-19 17:32:56.365574"
+  },
+  {
+    "place_id": "0x3b05ab7f07bf08dd:0",
+    "name": "Abisha furniture mart",
+    "address": "85J8+G4V, Kaliakavilai-Kolamkode, Kovalam Rd",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 17:32:55.115298"
+  },
+  {
     "place_id": "0x3b05b96e58e687c7:0",
     "name": "Hero mens and kids wear",
     "address": "K T D C, Near",
@@ -8908,95 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 14:35:26.923947"
-  },
-  {
-    "place_id": "0x3b05bfa4858903a1:0",
-    "name": "Hershel Designs",
-    "address": "Attinkuzhi Rd, near Technopark Road",
-    "category": "Boutique",
-    "phone": "+91 89432 19073",
-    "website": null,
-    "discovered_at": "2026-11-17 14:35:25.652630"
-  },
-  {
-    "place_id": "0x3b05bf280521d599:0",
-    "name": "FUTURE FLY",
-    "address": "Attipra zonal office, junction, opposite Puttukada Lane",
-    "category": "Travel agency",
-    "phone": "+91 94968 34047",
-    "website": null,
-    "discovered_at": "2026-11-17 14:28:13.606458"
-  },
-  {
-    "place_id": "0x3b05bf96feed163d:0",
-    "name": "Dignostic Center",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": "+91 94467 04290",
-    "website": null,
-    "discovered_at": "2026-11-17 14:28:12.369801"
-  },
-  {
-    "place_id": "0x3b05bf6eb299bac3:0",
-    "name": "Government ayurvedic dispensary",
-    "address": "HVQC+6WM, Amballoor- Chanthavila Rd",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:28:11.004108"
-  },
-  {
-    "place_id": "0x3b05bf4d21a5092d:0",
-    "name": "Luxor Skin and Cosmetic Clinic",
-    "address": "GVHQ+9V9",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:28:09.791483"
-  },
-  {
-    "place_id": "0x3b05e90010557321:0",
-    "name": "Squadron travel hub",
-    "address": "PRP8+PMM Gangothri Chappathumukku",
-    "category": "Bus tour agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:28:08.500096"
-  },
-  {
-    "place_id": "0x3b05e8edf1851c95:0",
-    "name": "Chikkoos Office",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": "+91 99957 70019",
-    "website": null,
-    "discovered_at": "2026-11-17 14:28:07.140245"
-  },
-  {
-    "place_id": "0x3b05bbcb1ca29f2f:0",
-    "name": "NARAYANA IIT-JEE/NEET/FOUNDATION - THIRUVANANTHAPURAM",
-    "address": "Sita Towers",
-    "category": "Educational institution",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:28:05.875329"
-  },
-  {
-    "place_id": "0x3b05e9272ea9af43:0",
-    "name": "Payyans Beauty Parlour & Salon Vadasserikonam, പയ്യൻസ് സലൂൺ",
-    "address": "Bus Stand, Varkala to Kallambalam, Varkala Kallambalam Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:28:04.609221"
-  },
-  {
-    "place_id": "0x3b05b998b7d659a9:0",
-    "name": "i CONNECT Mobilephone Sales&Service",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:28:03.379886"
   }
 ]
