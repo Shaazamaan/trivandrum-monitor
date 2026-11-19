@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bf00710b5759:0",
+    "name": "FooD ContaineR",
+    "address": "HW26+CM5, Junction",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 19:31:51.769116"
+  },
+  {
+    "place_id": "0x3b05b9593f8eb5f3:0",
+    "name": "Aimheightz.Psc Coaching Centre",
+    "address": "First Floor, Gnayalloor Bldg, 1/757, Nh66",
+    "category": "Coaching center",
+    "phone": "+91 90748 47882",
+    "website": null,
+    "discovered_at": "2026-11-19 19:31:50.453341"
+  },
+  {
+    "place_id": "0x3b05b988ad5e9545:0",
+    "name": "Zynath By Thasleem",
+    "address": "Jyoti nagar, J16, opposite to madathu veedu devi temple, behind BPCL",
+    "category": "Boutique",
+    "phone": "+91 89212 65585",
+    "website": null,
+    "discovered_at": "2026-11-19 19:31:49.118667"
+  },
+  {
+    "place_id": "0x3b05bd10d48fe09b:0",
+    "name": "Kims Pysiotherapy",
+    "address": "11th Floor, Kims Main Block, Vinod Nagar Rd",
+    "category": "Physiotherapy Center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 19:31:47.712629"
+  },
+  {
+    "place_id": "0x3b05bb8a3b59ed15:0",
+    "name": "PROGRESS PHYSIOTHERAPY CENTRE KERALA POLICE",
+    "address": "zz, Squash Complex, CSN Stadium",
+    "category": "Health consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 19:31:46.421292"
+  },
+  {
+    "place_id": "0x3b05bb8d8dfe9cc1:0",
+    "name": "wellcare Bloom",
+    "address": "Medical College, Pazhaya Rd",
+    "category": "Physiotherapy Center",
+    "phone": "+91 92077 98777",
+    "website": null,
+    "discovered_at": "2026-11-19 19:31:45.152918"
+  },
+  {
+    "place_id": "0x3b05b94e3292abe9:0",
+    "name": "Abhiram.A.S",
+    "address": "No.159, Pazhaya Rd",
+    "category": "Physiotherapist",
+    "phone": "+91 93494 61583",
+    "website": null,
+    "discovered_at": "2026-11-19 19:31:43.797013"
+  },
+  {
+    "place_id": "0x3b05bbefd0478ccb:0",
+    "name": "STHENOS Physiotherapy",
+    "address": "",
+    "category": "Physiotherapy Center",
+    "phone": "+91 62383 15597",
+    "website": null,
+    "discovered_at": "2026-11-19 19:31:42.339721"
+  },
+  {
     "place_id": "0x3b05bd004f861087:0",
     "name": "THIRSTEA",
     "address": "659/1, Ulloor - Akkulam Rd",
@@ -8926,77 +8998,5 @@
     "phone": "+91 93883 42050",
     "website": null,
     "discovered_at": "2026-11-17 15:12:42.264448"
-  },
-  {
-    "place_id": "0x3b05b9275e6ce2a5:0",
-    "name": "Ananta Eye Bank",
-    "address": "",
-    "category": "Non-profit organization",
-    "phone": "+91 79944 74444",
-    "website": null,
-    "discovered_at": "2026-11-17 15:12:41.033571"
-  },
-  {
-    "place_id": "0x3b05b9303bf6be5b:0",
-    "name": "The Yellow Ladder",
-    "address": "Opens 9 AM Wed",
-    "category": "Closed",
-    "phone": "+91 98466 77662",
-    "website": null,
-    "discovered_at": "2026-11-17 15:12:39.759433"
-  },
-  {
-    "place_id": "0x3b05bf000dc3ae3b:0",
-    "name": "Madukkamoottil, Trivandrum",
-    "address": "PNT820, PNT820",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 15:12:38.517311"
-  },
-  {
-    "place_id": "0x3b05bfce778924bb:0",
-    "name": "Lancet Laboratory & Research Center-LLRC",
-    "address": "",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 15:05:18.901423"
-  },
-  {
-    "place_id": "0x3b05b9d25e268cb5:0",
-    "name": "TEST POINT Laboratory",
-    "address": "Medical College, PO 695011",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 15:05:17.747949"
-  },
-  {
-    "place_id": "0x3b05bb19d1a370c3:0",
-    "name": "Mr",
-    "address": "Mayoora, Kaithamukku",
-    "category": "Discount supermarket",
-    "phone": "+91 70125 47328",
-    "website": null,
-    "discovered_at": "2026-11-17 15:05:16.511228"
-  },
-  {
-    "place_id": "0x3b05bb005b2ee53b:0",
-    "name": "Pets world",
-    "address": "FXF2+JJW, Attukal Rd",
-    "category": "Veterinary pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 15:05:15.337854"
-  },
-  {
-    "place_id": "0x3b05ba504cc88131:0",
-    "name": "Parag Pet Centre and Medicals",
-    "address": "",
-    "category": "Pet supply store",
-    "phone": "+91 98460 79884",
-    "website": null,
-    "discovered_at": "2026-11-17 15:05:14.034778"
   }
 ]
