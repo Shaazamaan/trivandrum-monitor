@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05efe3991a2cbb:0",
+    "name": "Almond Restaurant",
+    "address": "Odayam Beach - Manthara Rd",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 19:39:19.144605"
+  },
+  {
+    "place_id": "0x3b05b90067d9671d:0",
+    "name": "Oayasiya Luxury Spa",
+    "address": "Orchid Regency, Salem-Kanyakumari Highway",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 19:39:17.847801"
+  },
+  {
     "place_id": "0x3b05bf00710b5759:0",
     "name": "FooD ContaineR",
     "address": "HW26+CM5, Junction",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 15:20:16.865186"
-  },
-  {
-    "place_id": "0x3b05b99a04ab16c7:0",
-    "name": "Armours gym",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 15:12:43.505224"
-  },
-  {
-    "place_id": "0x3b05bbe9fc6741c1:0",
-    "name": "Shanti Block, Divya Prabha Eye Hospital",
-    "address": "Kumarapuram Kannanmoola Rd",
-    "category": "Doctor",
-    "phone": "+91 93883 42050",
-    "website": null,
-    "discovered_at": "2026-11-17 15:12:42.264448"
   }
 ]
