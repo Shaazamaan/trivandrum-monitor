@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c524fb04ab37:0",
+    "name": "Dr Nazrin's Dental care",
+    "address": "Pangode Kizhakkumbhagam Rd",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:54:44.853905"
+  },
+  {
+    "place_id": "0x3b05bd27e0020335:0",
+    "name": "Sheeba's Beauty Hub",
+    "address": "Stancil And Sara Buildings, GVRRA B/80 Shanghumugham, Beach",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:54:43.632300"
+  },
+  {
     "place_id": "0x3b05c39c7f9e1ff1:0",
     "name": "MR FRUITS",
     "address": "MR FRUITS Thekkinkadu Nagaroor Po Kilimanoor Road Thekkinkadu Nagaroor, Village",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 11:02:08.571656"
-  },
-  {
-    "place_id": "0x3b05bb005a959bf9:0",
-    "name": "KARA 69",
-    "address": "69, Karimankulam Rd",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 11:02:07.424250"
-  },
-  {
-    "place_id": "0x3b05b9f4fa0d2ae9:0",
-    "name": "S.T.C COLLEGE",
-    "address": "Closes 6 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 11:02:06.234151"
   }
 ]
