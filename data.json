@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb96a5a129ed:0",
+    "name": "SANTHI SWEETS AND BAKERY",
+    "address": "SHOP NO 1, SANTHI SWEETS AND BAKERY, DOMESTIC, Airport Rd, opp. DOMESTIC AIRPORT",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 03:55:55.617358"
+  },
+  {
+    "place_id": "0x3b05b01bb1ba6eb9:0",
+    "name": "Vishnu Bakery and Cafe",
+    "address": "Pravachambalam C2XG+X62 Kattakada, junction, Road",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 03:55:54.454174"
+  },
+  {
     "place_id": "0x3b05b9f57c9c0bc1:0",
     "name": "KSEB Ltd, Vattiyoorkavu",
     "address": "GXFV+6QF, Vattiyoorkavu - Kulasekharam Rd",
@@ -8980,23 +8998,5 @@
     "phone": "+91 85470 13729",
     "website": null,
     "discovered_at": "2026-11-17 11:52:21.941775"
-  },
-  {
-    "place_id": "0x3b05bf7eaa27ecb9:0",
-    "name": "google pets",
-    "address": "",
-    "category": "Pet store",
-    "phone": "+91 96335 31148",
-    "website": null,
-    "discovered_at": "2026-11-17 11:52:20.727398"
-  },
-  {
-    "place_id": "0x3b05bf96fe46d0a1:0",
-    "name": "MDC SCANS AND LABORATORY",
-    "address": "Alummoodu Junction, near State Bank Of Travancore",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 11:52:19.384959"
   }
 ]
