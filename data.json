@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c71fc1f9083f:0",
+    "name": "DRIVING SCHOOL GROUND VENJARAMOODU",
+    "address": "DRIVING PRACTISE GROUND, Kavara Temple Rd",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 21:00:33.143964"
+  },
+  {
+    "place_id": "0x3b05c14689e5fc2f:0",
+    "name": "Grand BEAUTY SALON & COSMETOLOGY CLINIC",
+    "address": "MWH3+HG6, Venjaramoodu",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 21:00:31.660202"
+  },
+  {
     "place_id": "0x3b05c362e38d03f3:0",
     "name": "Dr phones",
     "address": "Dr phones karette Karett junction, 011, Kazhakoottam - Kilimanoor Rd, opposite Muthoot fincorp",
@@ -8980,23 +8998,5 @@
     "phone": "+91 82899 73958",
     "website": null,
     "discovered_at": "2026-11-17 15:36:36.012935"
-  },
-  {
-    "place_id": "0x3b05af9543126f65:0",
-    "name": "Physiotherapy Unit",
-    "address": "",
-    "category": "Hospital department",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 15:36:34.821347"
-  },
-  {
-    "place_id": "0x3b05afe882055ea9:0",
-    "name": "Jyothirgamaya Health care",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 15:36:33.582612"
   }
 ]
