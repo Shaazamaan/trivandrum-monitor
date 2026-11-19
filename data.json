@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c373807fe833:0",
+    "name": "ISHAS BOUTIQUE",
+    "address": "Kallara road",
+    "category": "Women's clothing store",
+    "phone": "+91 75940 27655",
+    "website": null,
+    "discovered_at": "2026-11-19 07:29:22.710544"
+  },
+  {
+    "place_id": "0x3b05c6966b2c728b:0",
+    "name": "Pullampara Government Veterinary Hospital",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 07:29:21.470994"
+  },
+  {
     "place_id": "0x3b05bfe05536a5ed:0",
     "name": "Dr Prem's Smile Lounge Dental Clinic",
     "address": "Dr Prem's Smile Lounge Dental Clinic, po, near South Indian Bank",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 12:28:42.299036"
-  },
-  {
-    "place_id": "0x3b05bb004f14d0c5:0",
-    "name": "ISSY LOUNGE",
-    "address": "Shop No - TC 78/320/8 ( Ground Floor) Punnavila Puthen Veedu, Vallakkadavu",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 12:28:40.991508"
-  },
-  {
-    "place_id": "0x3b05bb9fc5fbd54d:0",
-    "name": "Blaze Mobiles",
-    "address": "Airport Rd",
-    "category": "Cell phone store",
-    "phone": "+91 97442 00511",
-    "website": null,
-    "discovered_at": "2026-11-17 12:28:39.751755"
   }
 ]
