@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x3b05bbbae261e6fd:0",
+    "name": "Sweet. N Joy",
+    "address": "Tc 26, 1557, Press Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 08:10:51.921828"
+  },
+  {
+    "place_id": "0x3b05bbef79369443:0",
+    "name": "Atomlife Healthcare and Research Private Limited",
+    "address": "RAMIAH MANSION, 26/1749, Uppalam Rd",
+    "category": "Surgical products wholesaler",
+    "phone": "+91 94469 88881",
+    "website": null,
+    "discovered_at": "2026-11-19 08:10:50.747802"
+  },
+  {
+    "place_id": "0x3b05bbbc4dd79e07:0",
+    "name": "Santha Pharmaceutical Distributors",
+    "address": "TC 82, 2474(1, Chirakkulam Rd",
+    "category": "Pharmaceutical products wholesaler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 08:10:49.552998"
+  },
+  {
+    "place_id": "0x4a91a2053bc6bf1:0",
+    "name": "Holiday Wings",
+    "address": "2nd floor, Holiday Wings",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 08:10:47.711619"
+  },
+  {
+    "place_id": "0x3b05bbb2b2c73bdb:0",
+    "name": "NEXADEMY (FOCUS ACADEMY by Manju Teacher) | Vazhuthacaud",
+    "address": "FXX4+9C8 Megha Complex, Women's College Rd",
+    "category": "Tutoring service",
+    "phone": "+91 97457 03949",
+    "website": null,
+    "discovered_at": "2026-11-19 08:10:44.999561"
+  },
+  {
+    "place_id": "0x3b05ba4a92384a83:0",
+    "name": "Pearls Beauty Clinic & Spa for Ladies",
+    "address": "GX38+CG3, Cotton Hill Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 08:10:43.738919"
+  },
+  {
+    "place_id": "0x3b05bb80033a5cfd:0",
+    "name": "Fuma Beauty Saloon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 08:10:42.559697"
+  },
+  {
+    "place_id": "0x3b05bba3160bae21:0",
+    "name": "Kavya's beauty parlour",
+    "address": "Women's College Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 08:10:41.322411"
+  },
+  {
+    "place_id": "0x3b05bdee7d8d62f7:0",
+    "name": "Publix Mart Supermarket Vettucaud",
+    "address": "Titanium road",
+    "category": "Asian grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 08:10:40.108682"
+  },
+  {
+    "place_id": "0x3b05bbdb82698e2b:0",
+    "name": "Aabharanam by Mohana Vijin",
+    "address": "1st Floor, NGP Towers, Aabharanam by Mohana Vijin, Vazhuthacaud - Poojappura Rd, opposite Women's College Road",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 08:10:38.807466"
+  },
+  {
     "place_id": "0x3b05c373807fe833:0",
     "name": "ISHAS BOUTIQUE",
     "address": "Kallara road",
@@ -8908,95 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 12:42:59.742643"
-  },
-  {
-    "place_id": "0x3b05b9595bcd9bc7:0",
-    "name": "Heera Kinara & Heera Classic",
-    "address": "",
-    "category": "Furnished apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 12:42:58.470151"
-  },
-  {
-    "place_id": "0x3b05b9023f79fabf:0",
-    "name": "ROUTINE WELLNESS HUB",
-    "address": "1st Floor LEELA TOWERS, opposite Car Palace",
-    "category": "Health consultant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 12:42:57.172777"
-  },
-  {
-    "place_id": "0x3b05b913f83d0f61:0",
-    "name": "Lakshana Makeovers by Meera Raj",
-    "address": "B24",
-    "category": "Make-up artist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 12:42:55.986167"
-  },
-  {
-    "place_id": "0x3b05b95e7b04da05:0",
-    "name": "Fair beauty clinic",
-    "address": "695044",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 12:42:54.701369"
-  },
-  {
-    "place_id": "0x3b05b9e5c76030c7:0",
-    "name": "AIRTEL STORE - KESAVADASAPURAM THIRUVANANTHAPURAM",
-    "address": "Mfreem Plaza, Mosque Lane",
-    "category": "Telecommunications service provider",
-    "phone": "+91 98100 12345",
-    "website": null,
-    "discovered_at": "2026-11-17 12:42:53.520042"
-  },
-  {
-    "place_id": "0x3b05b964da2c5859:0",
-    "name": "CJ Smart Trivandrum",
-    "address": "GROUND FLOOR, opposite Mahatma Gandhi College - Main Block",
-    "category": "Electronics company",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 12:42:52.235791"
-  },
-  {
-    "place_id": "0x3b05b95e89c175c5:0",
-    "name": "DP Tech",
-    "address": "GWHQ+R7X, Kesavadasapuram Jct",
-    "category": "Electronics store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 12:42:51.022784"
-  },
-  {
-    "place_id": "0x3b05bbac94e85de9:0",
-    "name": "APEX DENTAL CARE (centre for braces, aligners and root canal therapy)",
-    "address": "Poonthi Rd",
-    "category": "Dental clinic",
-    "phone": "+91 88485 86119",
-    "website": null,
-    "discovered_at": "2026-11-17 12:35:40.115471"
-  },
-  {
-    "place_id": "0x3b05b956f930e655:0",
-    "name": "Soorya's Skin Hair Makeup",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 12:35:38.669513"
-  },
-  {
-    "place_id": "0x3b05bb3f0e9143cf:0",
-    "name": "Foot Aura Reflexology Center",
-    "address": "Aarattu Rd, near sivananda yoga center",
-    "category": "Reflexologist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 12:28:42.299036"
   }
 ]
