@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbdce1c47fd1:0",
+    "name": "Medical Point",
+    "address": "GW8V+FMG, TPJ Nagar Rd",
+    "category": "Pharmaceutical company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 16:03:46.829064"
+  },
+  {
     "place_id": "0x3b05bf4431d90cd5:0",
     "name": "Angel's Tuition Centre",
     "address": "HRJP+3G7",
@@ -8989,14 +8998,5 @@
     "phone": "+91 98958 88921",
     "website": null,
     "discovered_at": "2026-11-17 14:19:24.760811"
-  },
-  {
-    "place_id": "0x3b05b7bab155463d:0",
-    "name": "Hill View Dental Clinic",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:19:23.508942"
   }
 ]
