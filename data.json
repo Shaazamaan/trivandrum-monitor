@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb98b886f9f3:0",
+    "name": "Deyvee Restaurant",
+    "address": "",
+    "category": "Kerala restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 14:03:26.028093"
+  },
+  {
     "place_id": "0x3b05e9002101ca45:0",
     "name": "METROFLEX Premium Fitness Studio",
     "address": "A.R square",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 13:20:54.117387"
-  },
-  {
-    "place_id": "0x3b05b1af9ef52fc3:0",
-    "name": "THE LADIES VAULT",
-    "address": "THE LADIES VAULT NEAR PANCHAYATH OFFICE PEYAD, POOJAPPURA ROAD",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 13:20:52.884669"
   }
 ]
