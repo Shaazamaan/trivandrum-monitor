@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c0a359042bad:0",
+    "name": "Star Fastfood & Bakery",
+    "address": "Star Fast Food",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 06:24:58.625553"
+  },
+  {
+    "place_id": "0x3b0455a8fc05830f:0",
+    "name": "Tanishq Jewellery - Kanniyakumari - Marthandam",
+    "address": "beside Anantha Food Court",
+    "category": "Jewelry store",
+    "phone": "94890 59799",
+    "website": null,
+    "discovered_at": "2026-11-19 06:24:57.140155"
+  },
+  {
     "place_id": "0x3b05b1fdaaed7a2b:0",
     "name": "Hawks GYM",
     "address": "Closes 11 PM",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 12:28:38.504882"
-  },
-  {
-    "place_id": "0x3b05bbbc6f9dc335:0",
-    "name": "Dakshina Women's Clothing Line",
-    "address": "Bhavani Building, Uppalam Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 12:21:23.856678"
-  },
-  {
-    "place_id": "0x3b05bb007b8d0e19:0",
-    "name": "YKS",
-    "address": "1st Floor, Relcon Plaza",
-    "category": "Tour operator",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 12:14:32.618357"
   }
 ]
