@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05e9f4b67c7aab:0",
+    "name": "Snehas pharmacy",
+    "address": "QP3V+3XR Njekkad, Aasarimukku Road",
+    "category": "Medical supply store",
+    "phone": "+91 80864 17046",
+    "website": null,
+    "discovered_at": "2026-11-19 10:35:50.837973"
+  },
+  {
+    "place_id": "0x3b05c30075918f51:0",
+    "name": "GET WELL PHYSIOTHERAPY CLINIC",
+    "address": "PRMX+FHV",
+    "category": "Physical therapist",
+    "phone": "+91 83010 81683",
+    "website": null,
+    "discovered_at": "2026-11-19 10:35:49.544597"
+  },
+  {
     "place_id": "0x3b05b90051999e4d:0",
     "name": "Nandanam, VRA 14/A, Mannamoola, Peroorkada, Trivandrum, Kerala",
     "address": "VRA14/A, Mannamoola",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 13:14:00.484556"
-  },
-  {
-    "place_id": "0x3b05afe5241c98a1:0",
-    "name": "Millenium Drivig Schol",
-    "address": "C2MF+F5M",
-    "category": "Driving school",
-    "phone": "+91 94474 50999",
-    "website": null,
-    "discovered_at": "2026-11-17 13:13:59.192030"
-  },
-  {
-    "place_id": "0x3b05afc351201f23:0",
-    "name": "CUT CREW UNISEX SALON & BEAUTY PARLOUR",
-    "address": "Balaramapuram Main Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 13:13:57.816551"
   }
 ]
