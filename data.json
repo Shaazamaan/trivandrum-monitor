@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b9ff4f253509:0",
+    "name": "Aswathy Bakery",
+    "address": "152, Civil Station Road",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 17:55:52.861406"
+  },
+  {
+    "place_id": "0x3b05b9000315e7fd:0",
+    "name": "PulpAura",
+    "address": "GXP7+FWG",
+    "category": "Hamburger restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 17:55:51.625566"
+  },
+  {
+    "place_id": "0x3b05bb00394c49f5:0",
+    "name": "Sreeremyam",
+    "address": "Sreeremyam, CGRA-31, Continental Gardens, Vattiyoorkavu - Kulasekharam Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 17:55:50.254021"
+  },
+  {
     "place_id": "0x3b05c72a132634e3:0",
     "name": "RAHUL U",
     "address": "OH MY JUICE, THIRUVANANTHAPURAM ROAD, near RAJA HOTEL",
@@ -8971,32 +8998,5 @@
     "phone": "+91 62383 15597",
     "website": null,
     "discovered_at": "2026-11-17 15:05:10.973714"
-  },
-  {
-    "place_id": "0x3b05bbb2e5e4f38f:0",
-    "name": "Thanal Sea Food Restaurant",
-    "address": "",
-    "category": "Seafood restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:50:43.626154"
-  },
-  {
-    "place_id": "0x3b05bbd90db402df:0",
-    "name": "Fashion Factory",
-    "address": "VKM Tower, Junction, Mahatma Gandhi Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:35:33.014435"
-  },
-  {
-    "place_id": "0x3b05bf9f9f74b70b:0",
-    "name": "H&R Block India Private Limited",
-    "address": "",
-    "category": "Tax preparation",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 14:35:30.991087"
   }
 ]
