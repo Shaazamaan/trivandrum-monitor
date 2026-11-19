@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05a5a6775bee63:0",
+    "name": "Dr.Jacob's Omega Dental Clinic",
+    "address": "Beach Rd, near Thomas Cook",
+    "category": "Dental clinic",
+    "phone": "+91 94473 66770",
+    "website": null,
+    "discovered_at": "2026-11-19 22:31:48.427634"
+  },
+  {
     "place_id": "0x3b05ef3bf7d81bbf:0",
     "name": "Varsha Bakery",
     "address": "PPX8+4GP, Varkala Railway Station Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 15:59:43.078906"
-  },
-  {
-    "place_id": "0x3b05ad211c0c095d:0",
-    "name": "Punartham Clinical Laboratory",
-    "address": "Parassala Vellarada Rd",
-    "category": "Medical laboratory",
-    "phone": "+91 95628 28210",
-    "website": null,
-    "discovered_at": "2026-11-17 15:59:41.679020"
   }
 ]
