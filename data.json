@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b1ca80b4d411:0",
+    "name": "Nirvana Makeup studio With IIBT",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 22:45:58.240246"
+  },
+  {
     "place_id": "0x3b05a5a6775bee63:0",
     "name": "Dr.Jacob's Omega Dental Clinic",
     "address": "Beach Rd, near Thomas Cook",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 15:59:44.917180"
-  },
-  {
-    "place_id": "0x3b05bb0032459ed5:0",
-    "name": "Apollo Pharmacy Paruthikuzhy",
-    "address": "7/1093/2, ByPass, NH Bypass Service Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 15:59:43.078906"
   }
 ]
