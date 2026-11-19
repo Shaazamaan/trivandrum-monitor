@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bf00420d46af:0",
+    "name": "Rock Deck",
+    "address": "HVH8+X4M",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 16:11:04.170057"
+  },
+  {
     "place_id": "0x3b05bbdce1c47fd1:0",
     "name": "Medical Point",
     "address": "GW8V+FMG, TPJ Nagar Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 14:19:26.008887"
-  },
-  {
-    "place_id": "0x3b05c582824dce59:0",
-    "name": "Sudheer Medicals",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": "+91 98958 88921",
-    "website": null,
-    "discovered_at": "2026-11-17 14:19:24.760811"
   }
 ]
