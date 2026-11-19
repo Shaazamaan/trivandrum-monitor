@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05c171e9364d37:0",
+    "name": "MDC SCANS AND LABORATORY",
+    "address": "Mangalapuram- Murumkupuzha, Road",
+    "category": "Diagnostic center",
+    "phone": "+91 92880 07284",
+    "website": null,
+    "discovered_at": "2026-11-19 01:25:46.591300"
+  },
+  {
+    "place_id": "0x3b05bbc395328aab:0",
+    "name": "Stayzone Haritham",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 70341 00058",
+    "website": null,
+    "discovered_at": "2026-11-19 01:25:45.348226"
+  },
+  {
+    "place_id": "0x3b05bb89457d1ba7:0",
+    "name": "Aastha Homes",
+    "address": "Opens 9:30 a.m.",
+    "category": "Closed",
+    "phone": "+91 97475 62565",
+    "website": null,
+    "discovered_at": "2026-11-19 01:25:44.033985"
+  },
+  {
+    "place_id": "0x3b05bbe44d8203c7:0",
+    "name": "New wave Academy",
+    "address": "",
+    "category": "Education center",
+    "phone": "+91 80750 77256",
+    "website": null,
+    "discovered_at": "2026-11-19 01:25:42.630445"
+  },
+  {
+    "place_id": "0x3b05bbeeabb3936d:0",
+    "name": "Bodhi Entrance Academy",
+    "address": "",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 01:25:41.380037"
+  },
+  {
     "place_id": "0x3b05ba0325c8220f:0",
     "name": "Seethal Bakery",
     "address": "H1, Vattiyoorkavu - Kulasekharam Rd",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 10:54:45.932940"
-  },
-  {
-    "place_id": "0x3b05bba8ca7da655:0",
-    "name": "Sreehari Tours & Travels of India",
-    "address": "P.O, NEAR MADHUVANAM ASHRAM",
-    "category": "Travel agency",
-    "phone": "+91 97453 40207",
-    "website": null,
-    "discovered_at": "2026-11-17 10:47:39.666849"
-  },
-  {
-    "place_id": "0x3b05b148dc9d2797:0",
-    "name": "Riqanza Boutique",
-    "address": "Riqanza Boutique",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:47:38.402894"
-  },
-  {
-    "place_id": "0x3b05b10cf2a665f1:0",
-    "name": "Gowri Restaurant",
-    "address": "F346+677, Vizhinjam - Balaramapuram - Kattakkada Rd",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 10:47:37.101373"
-  },
-  {
-    "place_id": "0x3b05bb8065ae501b:0",
-    "name": "PEARL Eye care",
-    "address": "Peyad, Kundamankadavu road, near Amigo pet centre",
-    "category": "Ophthalmologist",
-    "phone": "+91 75949 47337",
-    "website": null,
-    "discovered_at": "2026-11-17 10:40:01.423842"
-  },
-  {
-    "place_id": "0x3b05a9f28a838255:0",
-    "name": "Zac Multispeciality Dental Clinic",
-    "address": "p.o, Zac Multispeciality Dental Clinic",
-    "category": "Dental clinic",
-    "phone": "+91 97469 20390",
-    "website": null,
-    "discovered_at": "2026-11-17 10:40:00.177350"
   }
 ]
