@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbbeac3e5ca3:0",
+    "name": "Sree Ganesh Bake House",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-19 02:38:45.888135"
+  },
+  {
     "place_id": "0x3b05bb07d6f62d31:0",
     "name": "Aradhana Hospital",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 11:09:42.017804"
-  },
-  {
-    "place_id": "0x3b05b979ee36dc69:0",
-    "name": "Leela Medicals",
-    "address": "oonampara, Sasthamangalam - Peroorkada Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 11:09:40.749251"
   }
 ]
