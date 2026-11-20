@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb1942507427:0",
+    "name": "VYBE CAFE",
+    "address": "Vybe Cafe, Jn, Mahatma Gandhi Rd, opp. Zudio",
+    "category": "Cafe",
+    "phone": "+91 82813 09684",
+    "website": null,
+    "discovered_at": "2026-11-20 03:01:51.970818"
+  },
+  {
+    "place_id": "0x3b05bb0e6641041d:0",
+    "name": "First Venture",
+    "address": "Chandrasekharan Nair Stadium, S 25, Shawayish Side Road",
+    "category": "Cafe",
+    "phone": "+91 89210 60239",
+    "website": null,
+    "discovered_at": "2026-11-20 03:01:50.821576"
+  },
+  {
+    "place_id": "0x3b05bb004743978d:0",
+    "name": "Anathapuri cafe kudumbashree premium cafe",
+    "address": "FXW2+64C, Mahatma Gandhi Rd, opp. Press Road",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 03:01:49.586630"
+  },
+  {
     "place_id": "0x3b05bde63e255497:0",
     "name": "ESPANSHE - LuLu Mall Thiruvananthapuram",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": "+91 95449 85392",
     "website": null,
     "discovered_at": "2026-11-17 17:01:05.824420"
-  },
-  {
-    "place_id": "0x3b05e9006193bc77:0",
-    "name": "Varkala",
-    "address": "MQV8+F6H, Anayil Road",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:01:04.469293"
-  },
-  {
-    "place_id": "0x3b05cfbc7ebbdc27:0",
-    "name": "Ambadiyil Stay mankayam near Mankayam Water falls",
-    "address": "Ambadiyil Stay",
-    "category": "Tour agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:01:03.194381"
-  },
-  {
-    "place_id": "0x3b05c54454dde591:0",
-    "name": "R J S JUICE & SPICY",
-    "address": "Shop No 176",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:52:00.345624"
   }
 ]
