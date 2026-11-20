@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bf000d3f9975:0",
+    "name": "AARDE",
+    "address": "Shop No 1 AADE, opposite Elements Saloon",
+    "category": "Clothing store",
+    "phone": "+91 79077 91828",
+    "website": null,
+    "discovered_at": "2026-11-20 15:25:11.481639"
+  },
+  {
+    "place_id": "0x3b05e9ada964cc5d:0",
+    "name": "Travel Art Tours & Travels",
+    "address": "PQJQ+VH2",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 15:25:10.195873"
+  },
+  {
     "place_id": "0x3b05c1bc6dfd33fd:0",
     "name": "PRO FIT Fitness and Health Gym",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 18:47:10.341365"
-  },
-  {
-    "place_id": "0x3b05bf7ef15c8d9d:0",
-    "name": "Nesteon Homes villas",
-    "address": "Sreekariyam - Pothencode Rd",
-    "category": "Villa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:47:09.157110"
-  },
-  {
-    "place_id": "0x3b05c1007e125e17:0",
-    "name": "Grocery shop",
-    "address": "JV7R+3FJ, Moozhibaagam",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:47:06.080042"
   }
 ]
