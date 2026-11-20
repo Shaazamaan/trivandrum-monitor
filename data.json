@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05be8fa11c856b:0",
+    "name": "Naturals Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 14:54:24.299151"
+  },
+  {
     "place_id": "0x3b05bb313d560c85:0",
     "name": "THE HAIR HUT",
     "address": "MLA Rd",
@@ -8989,14 +8998,5 @@
     "phone": "+91 86067 48020",
     "website": null,
     "discovered_at": "2026-11-17 18:25:05.447081"
-  },
-  {
-    "place_id": "0x3b05afc79ef457bb:0",
-    "name": "KamalaRavi clinic",
-    "address": "KamalaRavi clinic, sree sastha towers",
-    "category": "Medical clinic",
-    "phone": "+91 97446 74014",
-    "website": null,
-    "discovered_at": "2026-11-17 18:25:04.215719"
   }
 ]
