@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb313d560c85:0",
+    "name": "THE HAIR HUT",
+    "address": "MLA Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 14:46:56.215265"
+  },
+  {
+    "place_id": "0x3b05bba153a36e19:0",
+    "name": "De Beadz Store",
+    "address": "Kinayath Cra 102, Bank Road",
+    "category": "Jewelry store",
+    "phone": "+91 73560 55455",
+    "website": null,
+    "discovered_at": "2026-11-20 14:46:54.940059"
+  },
+  {
     "place_id": "0x3b05b97ed7dbe5af:0",
     "name": "Ezina",
     "address": "Ambalamukku Kowdiar, Peroorkada Rd, opposite Asian Paints & Saya Restaurant",
@@ -8980,23 +8998,5 @@
     "phone": "+91 97446 74014",
     "website": null,
     "discovered_at": "2026-11-17 18:25:04.215719"
-  },
-  {
-    "place_id": "0x3b05c71fe475d1fb:0",
-    "name": "Prasanth Bakery",
-    "address": "Anad Nedumangad Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:18:15.013460"
-  },
-  {
-    "place_id": "0x3b05c900597a2303:0",
-    "name": "Dr J R Homoeo Mutispeciality clinic and Laboratory",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": "+91 79074 51314",
-    "website": null,
-    "discovered_at": "2026-11-17 18:18:13.355765"
   }
 ]
