@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c1bc6dfd33fd:0",
+    "name": "PRO FIT Fitness and Health Gym",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 15:17:21.116847"
+  },
+  {
+    "place_id": "0x3b05c82d5190b773:0",
+    "name": "AM Jewellery",
+    "address": "J3G4+2FG",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 15:17:19.853521"
+  },
+  {
     "place_id": "0x3b05bbc87418bf83:0",
     "name": "Thapasya Ayurvedic Spa",
     "address": "Rosho Complex, 48",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 18:47:06.080042"
-  },
-  {
-    "place_id": "0x3b05c7ab4b648823:0",
-    "name": "Munnas bakery",
-    "address": "JWJC+H43, Chathanpadu Konchira",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:39:51.574453"
-  },
-  {
-    "place_id": "0x3b05c1ab9cdfae01:0",
-    "name": "Salwa Dum Biriyani",
-    "address": "Venjaramood road",
-    "category": "Biryani restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:39:50.134293"
   }
 ]
