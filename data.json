@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05ef29e98c01eb:0",
+    "name": "Fiza",
+    "address": "Uthradam Arcade",
+    "category": "Men's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 03:27:23.783267"
+  },
+  {
     "place_id": "0x3b05b91518d17b85:0",
     "name": "Mother Mart",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 17:01:11.185812"
-  },
-  {
-    "place_id": "0x3b05bf1961693461:0",
-    "name": "Fruit Box",
-    "address": "HVV2+386",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:01:09.955709"
   }
 ]
