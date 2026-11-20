@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b988b5c8bdc5:0",
+    "name": "Traditional Kitchen Restaurant",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 10:06:40.233662"
+  },
+  {
+    "place_id": "0x3b05a95e49a84909:0",
+    "name": "Government Veterinary Hospital Kulathoor Ooranvila",
+    "address": "Closes 5 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 10:06:38.978169"
+  },
+  {
     "place_id": "0x3b05c5cad29fb2dd:0",
     "name": "CROWN DENTAL CLINIC 🔹 KALLARA",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 17:38:24.116205"
-  },
-  {
-    "place_id": "0x3b05bba9767d21d1:0",
-    "name": "Hotel New Sourashtra",
-    "address": "HNC Building, S Street Rd",
-    "category": "Indian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:38:22.878856"
-  },
-  {
-    "place_id": "0x3b05bba0b6dd432d:0",
-    "name": "Sree Padmanabha hotel",
-    "address": "",
-    "category": "South Indian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:38:21.644695"
   }
 ]
