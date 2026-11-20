@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bf0044eaf1d7:0",
+    "name": "Saravana Bhavan",
+    "address": "Kazhakoottam - Kilimanoor Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 05:04:17.681938"
+  },
+  {
     "place_id": "0x3b05bbbb11fcc861:0",
     "name": "PNR HOMES",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": "+91 93878 01017",
     "website": null,
     "discovered_at": "2026-11-17 17:30:21.084398"
-  },
-  {
-    "place_id": "0x3b05bbb40ba52427:0",
-    "name": "Heera Gate",
-    "address": "",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:30:19.848796"
   }
 ]
