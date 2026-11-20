@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b114efacc139:0",
+    "name": "LADIES ONLY",
+    "address": "G33G+WXX, Thiruvananthapuram - Neyyar Dam Rd",
+    "category": "Clothing store",
+    "phone": "+91 99954 30754",
+    "website": null,
+    "discovered_at": "2026-11-20 17:00:44.731147"
+  },
+  {
+    "place_id": "0x3b05b90008a7eae5:0",
+    "name": "PANCHI'S KITCHEN",
+    "address": "Panchis Kitchen, Maruthoor Rd, opposite Favourite Homes Kalppada",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 17:00:43.480963"
+  },
+  {
     "place_id": "0x3b05b1e626681279:0",
     "name": "Colours Makeover Studio , Pallichal",
     "address": "Pallichal - Vizhinjam Rd",
@@ -8980,23 +8998,5 @@
     "phone": "+91 94959 53051",
     "website": null,
     "discovered_at": "2026-11-17 19:01:39.810796"
-  },
-  {
-    "place_id": "0x3b05ba95a18e82d7:0",
-    "name": "LOUIS unisex saloon & spa",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:01:38.482237"
-  },
-  {
-    "place_id": "0x3b05afb69df62b93:0",
-    "name": "Vikings gym & health club",
-    "address": "C2J9+X5C, Third flower,Kalliyoor (കളളിയൂർ, Nemom Punnamoodu Rd",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:01:37.165326"
   }
 ]
