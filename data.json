@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bf7ac8ddf859:0",
+    "name": "iPromax",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 12:52:28.314102"
+  },
+  {
+    "place_id": "0x3b05bfd544ad1121:0",
+    "name": "Modern Jewellers Kaniyapuram (Franchise of Omiga Jewellers Thrissur)",
+    "address": "near Amani Trend setter, opposite kunnil hypermarket",
+    "category": "Jewelry store",
+    "phone": "+91 73064 34194",
+    "website": null,
+    "discovered_at": "2026-11-20 12:52:27.081975"
+  },
+  {
     "place_id": "0x3b05cecc2dacd849:0",
     "name": "Fathima Medical Store",
     "address": "P34C+JCM, Peringammala Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 18:10:54.251814"
-  },
-  {
-    "place_id": "0x3b05e9f8f4679d27:0",
-    "name": "nims beautyparlour",
-    "address": "MRV9+R28",
-    "category": "Health spa",
-    "phone": "+91 96051 30790",
-    "website": null,
-    "discovered_at": "2026-11-17 18:10:52.946480"
-  },
-  {
-    "place_id": "0x3b05e975bbee0ebb:0",
-    "name": "Style Men's Beauty Parlour & SPA",
-    "address": "MRX6+M8R",
-    "category": "Beauty salon",
-    "phone": "+91 80866 45007",
-    "website": null,
-    "discovered_at": "2026-11-17 18:10:51.641393"
   }
 ]
