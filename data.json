@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b91518d17b85:0",
+    "name": "Mother Mart",
+    "address": "",
+    "category": "Supermarket",
+    "phone": "+91 85902 20994",
+    "website": null,
+    "discovered_at": "2026-11-20 03:19:46.597331"
+  },
+  {
     "place_id": "0x3b05b96b3c140c57:0",
     "name": "Taste World Bake House",
     "address": "Post Office Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 17:01:09.955709"
-  },
-  {
-    "place_id": "0x3b05e91e8d689225:0",
-    "name": "PRADHAN MANTRI BHARATIYA JANAUSHADHI KENDRA",
-    "address": "PUTHANCHANTHA PMBJK, NA, Varkala Kallambalam Rd",
-    "category": "Pharmacy",
-    "phone": "+91 85470 34774",
-    "website": null,
-    "discovered_at": "2026-11-17 17:01:08.413822"
   }
 ]
