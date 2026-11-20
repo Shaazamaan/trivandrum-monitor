@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05e9f8dcaaf803:0",
+    "name": "Attingal Fast Food And Bakery",
+    "address": "MRW9+2MV",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 00:49:32.228503"
+  },
+  {
+    "place_id": "0x3b05ef2a842d3c55:0",
+    "name": "Onespace Studio & Wellness | Varkala Cliff",
+    "address": "Onespace Studio And Wellness Pvt Ltd, Varkala Helipad Road, opposite Deshadan",
+    "category": "Wellness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 00:49:31.081836"
+  },
+  {
+    "place_id": "0x3b05ef997558ab15:0",
+    "name": "Roameo Hostels, A Cowork by The Hostel Stories",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 88480 32090",
+    "website": null,
+    "discovered_at": "2026-11-20 00:49:29.793555"
+  },
+  {
     "place_id": "0x3b05e9004a1d2cd5:0",
     "name": "Cake Town",
     "address": "PPGP+WQ4, Varkala - Anchuthengu - Kadakkavoor - Chirayinkeezhu Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 16:21:36.623890"
-  },
-  {
-    "place_id": "0x3b05bd2c8d6038d7:0",
-    "name": "Peony motor driving school",
-    "address": "opposite Saint Thomas church",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:21:35.370588"
-  },
-  {
-    "place_id": "0x3b05baff2b442643:0",
-    "name": "Vinayaka Juice and Shakes",
-    "address": "near ESI Hospital",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:21:34.153761"
-  },
-  {
-    "place_id": "0x3b05bbff9036fbbd:0",
-    "name": "Starcine Mini Pharmacy Sasthamangalam",
-    "address": "Shop No : 22/3530 -3, Ground Floor SMOOTH INTERNATIONAL (Previously THOMPIL BUILDING, Vellayambalam - Sasthamangalam Rd",
-    "category": "Pharmacy",
-    "phone": "+91 82812 23377",
-    "website": null,
-    "discovered_at": "2026-11-17 16:21:32.900642"
   }
 ]
