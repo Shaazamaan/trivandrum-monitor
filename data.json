@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb24e7995983:0",
+    "name": "Veda Ayurveda Clinic",
+    "address": "KGRWA-136, First Floor, Sree Rekha, Sasthamangalam - Pipinmoodu Rd",
+    "category": "Medical clinic",
+    "phone": "+91 90728 32690",
+    "website": null,
+    "discovered_at": "2026-11-20 18:05:06.860819"
+  },
+  {
+    "place_id": "0x3b05affd74c82533:0",
+    "name": "Ayurveda Hospital",
+    "address": "",
+    "category": "Hospital",
+    "phone": "+91 96050 69999",
+    "website": null,
+    "discovered_at": "2026-11-20 18:05:05.550277"
+  },
+  {
+    "place_id": "0x3b05b9fb2966f33d:0",
+    "name": "Ayurveda Doctor",
+    "address": "GWXF+V22",
+    "category": "Doctor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 18:05:04.254004"
+  },
+  {
     "place_id": "0x3b05c1004d7013cd:0",
     "name": "Best Ladies Fitness Studio",
     "address": "MVMH+859",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 19:01:54.891617"
-  },
-  {
-    "place_id": "0x3b05bb56d9832537:0",
-    "name": "S-One bridal studio",
-    "address": "FXF2+7RX",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:01:53.543456"
-  },
-  {
-    "place_id": "0x3b05bb18ebeed8db:0",
-    "name": "Liquid State",
-    "address": "Ground Floor,Kallumoodu, M.S Avenue, Junction, Manacaud - Muttathara Rd",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:01:52.299401"
-  },
-  {
-    "place_id": "0x3b05bb0e7198d9a1:0",
-    "name": "Stone Age Soda/Juice Bar : Manacaud",
-    "address": "Trivandrum Vizhinjam Rd",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:01:51.032663"
   }
 ]
