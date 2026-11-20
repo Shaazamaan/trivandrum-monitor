@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b96b3c140c57:0",
+    "name": "Taste World Bake House",
+    "address": "Post Office Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 03:09:27.161136"
+  },
+  {
+    "place_id": "0x3b05bb3ac7f58159:0",
+    "name": "Leansa Makeover Studio",
+    "address": "kaithamooku road",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 03:09:25.942501"
+  },
+  {
     "place_id": "0x3b05bb1942507427:0",
     "name": "VYBE CAFE",
     "address": "Vybe Cafe, Jn, Mahatma Gandhi Rd, opp. Zudio",
@@ -8980,23 +8998,5 @@
     "phone": "+91 85470 34774",
     "website": null,
     "discovered_at": "2026-11-17 17:01:08.413822"
-  },
-  {
-    "place_id": "0x3b05e8edf11f9c55:0",
-    "name": "Doctors Diagnostic Medical Centre",
-    "address": "QQ29+G4G, Varkala Kallambalam Rd",
-    "category": "Pharmacy",
-    "phone": "+91 94953 55694",
-    "website": null,
-    "discovered_at": "2026-11-17 17:01:07.180806"
-  },
-  {
-    "place_id": "0x3b05e9bc484e017d:0",
-    "name": "SOLU MEDICALS",
-    "address": "PQ8W+Q54",
-    "category": "Pharmacy",
-    "phone": "+91 95449 85392",
-    "website": null,
-    "discovered_at": "2026-11-17 17:01:05.824420"
   }
 ]
