@@ -1,5 +1,176 @@
 [
   {
+    "place_id": "0x3b05ab6835878017:0",
+    "name": "C S Construction Pvt. Ltd.",
+    "address": "Main Road Marthandam",
+    "category": "Architect",
+    "phone": "+91 96458 83070",
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:24.625062"
+  },
+  {
+    "place_id": "0x3b05ab4bf1110477:0",
+    "name": "SKETCHUP DESIGN AND CONSTRUCTION",
+    "address": "",
+    "category": "Architect",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:23.411922"
+  },
+  {
+    "place_id": "0x3b05abd174d7bc43:0",
+    "name": "Rinkostars FitZone",
+    "address": "Sivasakthi Towers",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:21.886731"
+  },
+  {
+    "place_id": "0x3b05ab0466ca5885:0",
+    "name": "Rk Fitness club🖤💛",
+    "address": "Closes 12 AM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:20.602896"
+  },
+  {
+    "place_id": "0x3b05ab9d87911e7b:0",
+    "name": "Mayookha beauty parlour and Veena makeover studio",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:19.354642"
+  },
+  {
+    "place_id": "0x3b05ad32d2a5c6d9:0",
+    "name": "MALIK STORE",
+    "address": "Parassala Vellarada Rd",
+    "category": "Indian grocery store",
+    "phone": "+91 98951 69704",
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:18.121097"
+  },
+  {
+    "place_id": "0x3b0455105f6146c5:0",
+    "name": "Golden Palace Mini Supermarket",
+    "address": "Opens 8:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:16.849078"
+  },
+  {
+    "place_id": "0x3b05acc3accd98ad:0",
+    "name": "Marl SUPER MARKET",
+    "address": "95RF+4QM, Parassala Vellarada Rd",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:15.607714"
+  },
+  {
+    "place_id": "0x3b05ab4f9135af8b:0",
+    "name": "NEW THINGS",
+    "address": "3344",
+    "category": "Boutique",
+    "phone": "+91 97905 26720",
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:14.354707"
+  },
+  {
+    "place_id": "0x3b045390809cd603:0",
+    "name": "Suja Boutique Vellarada",
+    "address": "Parassala Road",
+    "category": "Designer clothing store",
+    "phone": "+91 98465 20531",
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:13.058287"
+  },
+  {
+    "place_id": "0x3b05ab0052f81d1f:0",
+    "name": "Royal bakery",
+    "address": "84CG+PR2, Venkulam - Shankurutty Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:11.832890"
+  },
+  {
+    "place_id": "0x3b05ad33fc7e0605:0",
+    "name": "Cukay's Cafe",
+    "address": "95QF+P69, Parassala Vellarada Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:10.630671"
+  },
+  {
+    "place_id": "0x3b05acc23f6ba9c1:0",
+    "name": "ANUGRAHA MEDICALS",
+    "address": "95QF+P7P, Parassala Vellarada Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:09.273240"
+  },
+  {
+    "place_id": "0x3b05ac9ef1a8fee7:0",
+    "name": "AKSHAYA MEDICALS",
+    "address": "9579+P33, Parassala Vellarada Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:08.020766"
+  },
+  {
+    "place_id": "0x3b05ac4326f62b6f:0",
+    "name": "Santhi MEDICALS",
+    "address": "94MP+QC5, Amaravila-Karakonam Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:06.775279"
+  },
+  {
+    "place_id": "0x3b05aa366c0319c7:0",
+    "name": "NANDHANAM MEDICALS",
+    "address": "846F+5FG, Parassala - Kollemcode - Poovar - Kovalam Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:05.361735"
+  },
+  {
+    "place_id": "0x3b05ab743a923fa5:0",
+    "name": "Resmi Opticals",
+    "address": "85V2+FVF",
+    "category": "Optician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:04.121430"
+  },
+  {
+    "place_id": "0x3b0455140a15000d:0",
+    "name": "PARC HOSPITAL",
+    "address": "",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:02.823330"
+  },
+  {
+    "place_id": "0x3b05abb41f0bbd55:0",
+    "name": "J.J.Dental Care",
+    "address": "Parassala - Kollemcode - Poovar - Kovalam Rd",
+    "category": "Dentist",
+    "phone": "+91 94864 72192",
+    "website": null,
+    "discovered_at": "2026-11-20 01:18:01.591082"
+  },
+  {
     "place_id": "0x3b05a52dac7ed427:0",
     "name": "The Lounge",
     "address": "",
@@ -8827,176 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 16:51:20.764639"
-  },
-  {
-    "place_id": "0x3b05ba5012181eeb:0",
-    "name": "DDRC Agilus Diagnostics, Poojappura",
-    "address": "",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:51:19.584578"
-  },
-  {
-    "place_id": "0x3b05b8929ccb7365:0",
-    "name": "DDRC Agilus Diagnostics, Vattappara",
-    "address": "HXR3+R2",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:51:18.406766"
-  },
-  {
-    "place_id": "0x3b05bb5d2bfc76ab:0",
-    "name": "DDRC Agilus Diagnostics, Thirumala",
-    "address": "GX2R+C2",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:51:17.224727"
-  },
-  {
-    "place_id": "0x3b05c70024febdcf:0",
-    "name": "Mariyam life care hospital",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": "+91 70252 62000",
-    "website": null,
-    "discovered_at": "2026-11-17 16:51:15.804004"
-  },
-  {
-    "place_id": "0x3b05bb684f9b142d:0",
-    "name": "Kaigo Home Healthcare",
-    "address": "",
-    "category": "Home health care service",
-    "phone": "+91 97780 09890",
-    "website": null,
-    "discovered_at": "2026-11-17 16:51:14.585641"
-  },
-  {
-    "place_id": "0x3b05b76af08ccaeb:0",
-    "name": "BEEES Physiotherapy clinic",
-    "address": "H482+CWW",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:51:13.411654"
-  },
-  {
-    "place_id": "0x3b05c96f8c249193:0",
-    "name": "Dhanwanthari Ayurvedhics,Parakimamthottam",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:51:12.109845"
-  },
-  {
-    "place_id": "0x3b05ba2913e30817:0",
-    "name": "Krishnakumar and Arun Chartered Accountants",
-    "address": "",
-    "category": "Chartered accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:43:34.229373"
-  },
-  {
-    "place_id": "0x3b05b98420152527:0",
-    "name": "Margin free supermarket",
-    "address": "JW3V+JHG, Kesavadasapuram - Venjaramoodu Rd",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:43:32.888633"
-  },
-  {
-    "place_id": "0x3b05c0d7dbcccb6b:0",
-    "name": "Green Apple Kitchen",
-    "address": "near the Bharath Petroleum",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:43:31.663337"
-  },
-  {
-    "place_id": "0x3b05b9db313a4a29:0",
-    "name": "Dermatologist/Skin Doctor",
-    "address": "SN Nagar",
-    "category": "Skin care clinic",
-    "phone": "+91 98471 01687",
-    "website": null,
-    "discovered_at": "2026-11-17 16:43:30.395147"
-  },
-  {
-    "place_id": "0x3b05c7ebbfce8e53:0",
-    "name": "D-CARE DENTAL CLINIC,VEMBAYAM",
-    "address": "MC Rd",
-    "category": "Dental clinic",
-    "phone": "+91 80869 91812",
-    "website": null,
-    "discovered_at": "2026-11-17 16:43:29.125940"
-  },
-  {
-    "place_id": "0x3b05c300051a5ba1:0",
-    "name": "Ayyappa's textiles",
-    "address": "QVCJ+49F, Kilimanoor - Kottarakkara Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:35:31.764840"
-  },
-  {
-    "place_id": "0x3b05c2e7bdf0ea4b:0",
-    "name": "Shemi Bakery",
-    "address": "SHEMI BAKERY CHENGIKUNNU, ATTINGAL ROAD, opposite FOOD BASKET SUPER MARKET",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:35:30.515360"
-  },
-  {
-    "place_id": "0x3b05bbea2e50b861:0",
-    "name": "Aasraya Community Pharmacy",
-    "address": "10:30 PM",
-    "category": "Closes soon",
-    "phone": "+91 62828 13537",
-    "website": null,
-    "discovered_at": "2026-11-17 16:35:29.185746"
-  },
-  {
-    "place_id": "0x3b05bfb7a3c995d7:0",
-    "name": "Trivandrum Traders & Super Market",
-    "address": "Junction",
-    "category": "Supermarket",
-    "phone": "+91 97453 54545",
-    "website": null,
-    "discovered_at": "2026-11-17 16:28:44.602291"
-  },
-  {
-    "place_id": "0x3b05bb2c612296c7:0",
-    "name": "Sha bakery",
-    "address": "Tc 8/1055(5, near muthoot",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:28:43.366576"
-  },
-  {
-    "place_id": "0x3b05bb6869894d31:0",
-    "name": "Team Signature Events and caterers",
-    "address": "+91 81369 08598",
-    "category": "Open 24 hours",
-    "phone": "+91 81369 08598",
-    "website": null,
-    "discovered_at": "2026-11-17 16:28:42.033730"
-  },
-  {
-    "place_id": "0x3b05bb0f23dd7247:0",
-    "name": "Fair Beauty Salon",
-    "address": "FXG2+C4G Fair beauty Salon",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:28:40.744268"
   }
 ]
