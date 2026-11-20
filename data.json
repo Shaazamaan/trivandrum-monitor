@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05ab723ad2528d:0",
+    "name": "Relax",
+    "address": "85V5+J59, Parassala Vellarada Rd",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 17:14:19.611039"
+  },
+  {
+    "place_id": "0x3b05b104b3b8bcdd:0",
+    "name": "CA.Raghul.SR",
+    "address": "Swami Vivekananda Rd",
+    "category": "Chartered accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 17:14:18.263904"
+  },
+  {
     "place_id": "0x3b05b114efacc139:0",
     "name": "LADIES ONLY",
     "address": "G33G+WXX, Thiruvananthapuram - Neyyar Dam Rd",
@@ -8980,23 +8998,5 @@
     "phone": "+91 94477 91353",
     "website": null,
     "discovered_at": "2026-11-17 19:01:42.336990"
-  },
-  {
-    "place_id": "0x3b05bb77cb8af8a9:0",
-    "name": "Proactive Clinic",
-    "address": "",
-    "category": "Orthopedic surgeon",
-    "phone": "+91 95673 15615",
-    "website": null,
-    "discovered_at": "2026-11-17 19:01:41.076693"
-  },
-  {
-    "place_id": "0x3b05bb1e26e2871f:0",
-    "name": "SL BUILDERS & DEVELOPERS",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": "+91 94959 53051",
-    "website": null,
-    "discovered_at": "2026-11-17 19:01:39.810796"
   }
 ]
