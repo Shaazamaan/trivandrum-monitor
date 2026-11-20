@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05bbd5bb0aa2ab:0",
+    "name": "Decus Interiors",
+    "address": "T.C. 4, 995(1, Pipeline Rd",
+    "category": "Interior designer",
+    "phone": "+91 80892 30751",
+    "website": null,
+    "discovered_at": "2026-11-20 13:07:01.144384"
+  },
+  {
+    "place_id": "0x3b05bbfd448bdb61:0",
+    "name": "ALLMATH MATHS TUITIONS | ENTRANCE ORIENTED",
+    "address": "ALLMATH Education, Brahmins Colony Ln",
+    "category": "Education center",
+    "phone": "+91 82815 01625",
+    "website": null,
+    "discovered_at": "2026-11-20 13:06:59.859617"
+  },
+  {
+    "place_id": "0x3b05bb192bf98cf5:0",
+    "name": "Primary health centre kowdiar",
+    "address": "",
+    "category": "Hospital department",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 13:06:58.613407"
+  },
+  {
+    "place_id": "0x3b05bb436d1d1633:0",
+    "name": "Pet Mamma, Trivandrum",
+    "address": "BNRA",
+    "category": "Pet sitter",
+    "phone": "+91 62820 60227",
+    "website": null,
+    "discovered_at": "2026-11-20 13:06:57.385110"
+  },
+  {
+    "place_id": "0x3b05b96b23ee30b1:0",
+    "name": "Aswas Community Medical Services",
+    "address": "Kurushadi Junction",
+    "category": "Pharmacy",
+    "phone": "+91 99615 78501",
+    "website": null,
+    "discovered_at": "2026-11-20 13:06:56.130520"
+  },
+  {
+    "place_id": "0x3b05bbe4bd9de35f:0",
+    "name": "DELMA EYE CLINIC & OPTICALS",
+    "address": "Medical College",
+    "category": "Optician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 13:06:54.883133"
+  },
+  {
+    "place_id": "0x3b05ba0d60702f39:0",
+    "name": "My Eyes Optics and Eye Clinic",
+    "address": "",
+    "category": "Optician",
+    "phone": "+91 85899 39501",
+    "website": null,
+    "discovered_at": "2026-11-20 13:06:53.662236"
+  },
+  {
+    "place_id": "0x3b05b97e38064f71:0",
+    "name": "Ayur Health Care",
+    "address": "GXG6+V7V, Narmada Shopping Complex",
+    "category": "Alternative medicine practitioner",
+    "phone": "+91 98460 15478",
+    "website": null,
+    "discovered_at": "2026-11-20 13:06:52.340497"
+  },
+  {
     "place_id": "0x3b05bf7ac8ddf859:0",
     "name": "iPromax",
     "address": "Trivandrum",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 18:11:05.028833"
-  },
-  {
-    "place_id": "0x3b05af58449b7a9b:0",
-    "name": "S&S veterinary & surgicals",
-    "address": "opposite Hospital",
-    "category": "Veterinary pharmacy",
-    "phone": "+91 87144 95522",
-    "website": null,
-    "discovered_at": "2026-11-17 18:11:03.301141"
-  },
-  {
-    "place_id": "0x3b05ae66a7e8e977:0",
-    "name": "Prema Gopakumar S",
-    "address": "Hospital jn, opp. Muthoot",
-    "category": "Pharmacy",
-    "phone": "+91 82816 61815",
-    "website": null,
-    "discovered_at": "2026-11-17 18:11:01.952773"
-  },
-  {
-    "place_id": "0x3b05ae66a85f149f:0",
-    "name": "Saji Medicals",
-    "address": "C34M+VXQ Saji Medicals, Hospital Jn",
-    "category": "Pharmacy",
-    "phone": "+91 98955 95254",
-    "website": null,
-    "discovered_at": "2026-11-17 18:11:00.577827"
-  },
-  {
-    "place_id": "0x3b05afd332165ea5:0",
-    "name": "VINOD MEDICALS",
-    "address": "80",
-    "category": "Pharmacy",
-    "phone": "+91 95672 02340",
-    "website": null,
-    "discovered_at": "2026-11-17 18:10:59.311150"
-  },
-  {
-    "place_id": "0x3b05af538b40ee79:0",
-    "name": "Brothers Sugicals Neyyattinkara",
-    "address": "C34M+FVV, Hospital Junction-Railway Station Rd",
-    "category": "Pharmacy",
-    "phone": "+91 86066 57779",
-    "website": null,
-    "discovered_at": "2026-11-17 18:10:58.091054"
-  },
-  {
-    "place_id": "0x3b05ae6152c9bdab:0",
-    "name": "Venad Pharma&Surgical",
-    "address": "Venad",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:10:56.852245"
-  },
-  {
-    "place_id": "0x3b05e9b0e4d17ea3:0",
-    "name": "Travel bheem",
-    "address": "MRV9+QRJ, NH 66",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:10:55.570428"
-  },
-  {
-    "place_id": "0x3b05e999e62b9f27:0",
-    "name": "REDMOON VOYAGES",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:10:54.251814"
   }
 ]
