@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b05af0432c3be85:0",
+    "name": "City Sports Wear And Life Style",
+    "address": "Joe Plaza, opposite Excise Check Post, Gramam",
+    "category": "Sportswear store",
+    "phone": "+91 94955 83987",
+    "website": null,
+    "discovered_at": "2026-11-20 19:34:23.130168"
+  },
+  {
+    "place_id": "0x3b05af62a4c62c9b:0",
+    "name": "Sree Ayurveda Hospital and yoga",
+    "address": "Kriehnapuram gramam",
+    "category": "Hospital",
+    "phone": "+91 79078 54991",
+    "website": null,
+    "discovered_at": "2026-11-20 19:34:21.858921"
+  },
+  {
+    "place_id": "0x3b05ae63b492811d:0",
+    "name": "Dr Aslam's Kids Care Clinic",
+    "address": "C33P+MQ8, Vadakkekotta Rd",
+    "category": "Children's hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 19:34:20.600107"
+  },
+  {
+    "place_id": "0x3b05af21e8f15467:0",
+    "name": "Dr C P RAJESH",
+    "address": "C34P+V42, Neyyattinkara Kattakkada Rd",
+    "category": "Physician referral service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 19:34:19.341404"
+  },
+  {
+    "place_id": "0x3b05e900739d1edb:0",
+    "name": "Nidhilam, Thottavaram, Attingal",
+    "address": "356",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 19:34:17.687002"
+  },
+  {
+    "place_id": "0x3b05e9004d352427:0",
+    "name": "Sreevaishnavam,LMSRA32 Attingal,TVM,Kerala",
+    "address": "LMS Junction, Main Rd, above Bhima Jewelry",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 19:34:16.287908"
+  },
+  {
+    "place_id": "0x3b05c10063609ae1:0",
+    "name": "Praveen Attingal",
+    "address": "MRHV+9QQ",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 19:34:15.020187"
+  },
+  {
+    "place_id": "0x3b05ebb059fa32ad:0",
+    "name": "Attingal, kaduvayil.",
+    "address": "MRQ8+PJ3",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 19:34:13.786821"
+  },
+  {
+    "place_id": "0x3b05eb00755014f1:0",
+    "name": "JC’s Residence, Attingal",
+    "address": "MQPX+89V",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 19:34:12.529854"
+  },
+  {
     "place_id": "0x3b05bba72b000001:0",
     "name": "Oushadhi Agency",
     "address": "FWMW+XCM, Padmavilasam Rd, near ICICI BANK ATM",
@@ -8917,86 +8998,5 @@
     "phone": "+91 96057 56789",
     "website": null,
     "discovered_at": "2026-11-17 19:23:44.549818"
-  },
-  {
-    "place_id": "0x3b05c7c85e4ee981:0",
-    "name": "Windsor Learning Hub",
-    "address": "1st Floor, Canara Bank Building, opposite Juma Masjid",
-    "category": "Coaching center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:23:43.287312"
-  },
-  {
-    "place_id": "0x3b05c1de16b94b47:0",
-    "name": "Sanni Shoppi Super Market",
-    "address": "MW77+5HX, Kesavadasapuram - Venjaramoodu Rd",
-    "category": "Grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:23:42.047362"
-  },
-  {
-    "place_id": "0x3b05c3e8f87c5743:0",
-    "name": "Pambhu Rajeshintha Juice Kada",
-    "address": "Shop 456J Karette Junction, Kazhakoottam - Kilimanoor Rd, near Karthika Bar",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:16:04.414110"
-  },
-  {
-    "place_id": "0x3b05c3bec556ed05:0",
-    "name": "Oru Adaar Thattukada",
-    "address": "PVMX+W6Q, Kazhakoottam - Kilimanoor Rd",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:16:03.178083"
-  },
-  {
-    "place_id": "0x3b05c12026ec473d:0",
-    "name": "Sherwin bakery",
-    "address": "Sherwin shawarma, Junction, Chirayinkeezhu - Korani Rd, near India Oil Petrol Pump",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:08:58.886761"
-  },
-  {
-    "place_id": "0x3b05c014b8321a2f:0",
-    "name": "Medical Diagnostic Laboratory",
-    "address": "JRGX+48J, NH 47",
-    "category": "Diagnostic center",
-    "phone": "+91 97450 90408",
-    "website": null,
-    "discovered_at": "2026-11-17 19:08:57.663881"
-  },
-  {
-    "place_id": "0x3b05bb417f79bbb1:0",
-    "name": "Ananthapuri Community Pharmacy",
-    "address": "near Lakshmi Auditorium",
-    "category": "Pharmacy",
-    "phone": "+91 62386 81105",
-    "website": null,
-    "discovered_at": "2026-11-17 19:08:56.311837"
-  },
-  {
-    "place_id": "0x3b05bbf54d82f7db:0",
-    "name": "Das Vaidyans Ayurveda Pharmacy",
-    "address": "GW39+7HG",
-    "category": "Alternative medicine practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:08:55.102402"
-  },
-  {
-    "place_id": "0x3b05bb0eb01b4f4f:0",
-    "name": "Urogulf Global Attestation and Verification",
-    "address": "First Floor, Nehmath Plaza",
-    "category": "Travel agency",
-    "phone": "+91 97441 48885",
-    "website": null,
-    "discovered_at": "2026-11-17 19:02:16.983827"
   }
 ]
