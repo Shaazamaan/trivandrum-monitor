@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05adf96a16e333:0",
+    "name": "Physiotherapy Clinic",
+    "address": "C4R5+7V7",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 22:09:01.106356"
+  },
+  {
     "place_id": "0x3b05efb747c0b48f:0",
     "name": "Cliff & Coral Hostel, Varkala, Odayam Beach",
     "address": "Trivandrum",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 21:29:03.484623"
-  },
-  {
-    "place_id": "0x3b05b944d2de7c8f:0",
-    "name": "Jewel Hunt",
-    "address": "Ambalamukku Rd",
-    "category": "Clothing store",
-    "phone": "+91 99461 29977",
-    "website": null,
-    "discovered_at": "2026-11-17 21:29:02.329974"
   }
 ]
