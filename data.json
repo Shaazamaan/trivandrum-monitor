@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05ef0070556c9d:0",
+    "name": "The Surfers cafe",
+    "address": "PP99+7M7 Papanasham beach",
+    "category": "Seafood restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 16:25:16.575270"
+  },
+  {
+    "place_id": "0x3b05ef1b4301e4c9:0",
+    "name": "Sun Rise Restaurant",
+    "address": "",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 16:25:15.345477"
+  },
+  {
+    "place_id": "0x3b05ef2f6df89a2d:0",
+    "name": "Sun Francisco Café & Resto",
+    "address": "",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 16:25:14.130779"
+  },
+  {
+    "place_id": "0x3b05ef91c9d5112b:0",
+    "name": "Sky Lounge Restaurant",
+    "address": "PPP3+V3Q",
+    "category": "Eclectic restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 16:25:12.754628"
+  },
+  {
+    "place_id": "0x3b05eed56efdac59:0",
+    "name": "Sundeep Medicals",
+    "address": "PPJJ+VMF, Varkala Kallambalam Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 16:25:11.434743"
+  },
+  {
+    "place_id": "0x3b05bfdca495d7e7:0",
+    "name": "ELORA ELEGANCE",
+    "address": "Elora Elegance, Sree Bhadra Gardens, Sreekaryam - Kulathoor Rd",
+    "category": "Clothing store",
+    "phone": "+91 94950 11957",
+    "website": null,
+    "discovered_at": "2026-11-20 16:25:10.151116"
+  },
+  {
     "place_id": "0x3b05bbe2f16c9f45:0",
     "name": "Happy pets international",
     "address": "Padmavilasam Rd, opp. varma petrol pump",
@@ -8944,59 +8998,5 @@
     "phone": "+91 87142 33119",
     "website": null,
     "discovered_at": "2026-11-17 18:54:29.863283"
-  },
-  {
-    "place_id": "0x3b05bd700d8ee31f:0",
-    "name": "Pereira Dental Clinic & Implant Centre",
-    "address": "Opens 9:30 AM",
-    "category": "Closed",
-    "phone": "+91 70120 36001",
-    "website": null,
-    "discovered_at": "2026-11-17 18:54:28.585318"
-  },
-  {
-    "place_id": "0x3b05b83177d7446f:0",
-    "name": "New Kerala Garments",
-    "address": "New Kerala Garments, Peroorkada Road, near Academy Driving School",
-    "category": "Clothing store",
-    "phone": "+91 81368 65133",
-    "website": null,
-    "discovered_at": "2026-11-17 18:54:27.286440"
-  },
-  {
-    "place_id": "0x3b05b9d142ac9a31:0",
-    "name": "Ammas Kitchen (homely foods)",
-    "address": "Panayil veedu, Durga Nagar, 65",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:54:26.048930"
-  },
-  {
-    "place_id": "0x3b05b9392a3caff1:0",
-    "name": "Dent Hub",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": "+91 95670 79578",
-    "website": null,
-    "discovered_at": "2026-11-17 18:54:24.793382"
-  },
-  {
-    "place_id": "0x3b05b90803c32881:0",
-    "name": "THIRUVANANTHAPURAM, NETTAYAM",
-    "address": "SANTHOSH MURALIVISWANATHAN,\"SIDDHI SAI\"PRA-C-50,TC 34/402(5),THENOORKONAM, PO",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:47:22.664275"
-  },
-  {
-    "place_id": "0x3b05ba17288de333:0",
-    "name": "SOWPARNIKA Surya Kiran PROJECTS",
-    "address": "",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:47:21.479223"
   }
 ]
