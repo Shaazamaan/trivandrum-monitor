@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05cecc2dacd849:0",
+    "name": "Fathima Medical Store",
+    "address": "P34C+JCM, Peringammala Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 12:30:42.754150"
+  },
+  {
     "place_id": "0x3b05bb282c6c6d65:0",
     "name": "Aamie's Travel Hub",
     "address": "Closes 7 PM",
@@ -8989,14 +8998,5 @@
     "phone": "+91 80866 45007",
     "website": null,
     "discovered_at": "2026-11-17 18:10:51.641393"
-  },
-  {
-    "place_id": "0x3b05e9001c5cd17d:0",
-    "name": "Apple's bridal makeover studio",
-    "address": "Junction",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:10:50.338293"
   }
 ]
