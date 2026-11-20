@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b1373bbb4d19:0",
+    "name": "Lifephone",
+    "address": "Bus stand, road",
+    "category": "Mobile phone repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 03:57:55.274683"
+  },
+  {
+    "place_id": "0x3b05b1298f4aae6f:0",
+    "name": "B2B Traders (iYo Fresh Ball Grapes)",
+    "address": "",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 03:57:54.126927"
+  },
+  {
     "place_id": "0x3b05a5058c5c9b51:0",
     "name": "Healing hands ayurvedic wellness massage centre kovalam",
     "address": "oppo building, Kovalam jn beach road Punjabi dhaba restaurant, near bus stop",
@@ -8980,23 +8998,5 @@
     "phone": "+91 81579 59783",
     "website": null,
     "discovered_at": "2026-11-17 17:08:28.724688"
-  },
-  {
-    "place_id": "0x3b05bfbb4e3ed6d1:0",
-    "name": "SFS Cyber Gateway, Trivandrum",
-    "address": "",
-    "category": "Apartment complex",
-    "phone": "+91 99470 18881",
-    "website": null,
-    "discovered_at": "2026-11-17 17:08:27.352905"
-  },
-  {
-    "place_id": "0x3b05bf6cc13f5051:0",
-    "name": "LALSONS AYURVEDA SIDDHA CLINIC",
-    "address": "GVRJ+74J, Sreekariyam - Kazhakuttam Rd",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:08:25.960474"
   }
 ]
