@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b9004bf74823:0",
+    "name": "Karunya C Lane",
+    "address": "117",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 08:20:56.375868"
+  },
+  {
     "place_id": "0x3b05bbd81c3b3363:0",
     "name": "Space In Interiors",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": "+91 90613 09056",
     "website": null,
     "discovered_at": "2026-11-17 17:38:06.183941"
-  },
-  {
-    "place_id": "0x3b05bb004896556f:0",
-    "name": "Travancore cafe",
-    "address": "Marutham Royalwings, Palayam Airport Rd",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:38:05.023742"
   }
 ]
