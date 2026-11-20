@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c1485565bcd5:0",
+    "name": "Sprint Infoway",
+    "address": "",
+    "category": "Internet cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 07:15:09.152343"
+  },
+  {
     "place_id": "0x3b05bf5d3a8a7ef1:0",
     "name": "AS Bakers And Fresh Juice",
     "address": "JV2X+R34",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 17:38:03.833981"
-  },
-  {
-    "place_id": "0x3b05bb2ab2ef6d11:0",
-    "name": "Le Capital Seafood & Grills",
-    "address": "Ground Floor, Chandrasekharan Nair Stadium",
-    "category": "Seafood restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:38:02.557717"
   }
 ]
