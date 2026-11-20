@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c86d7c509ec7:0",
+    "name": "MEDCARE PHARMA",
+    "address": "J2QC+2PG, Toll Junction - Karinkada Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 18:12:08.317163"
+  },
+  {
     "place_id": "0x3b05bb24e7995983:0",
     "name": "Veda Ayurveda Clinic",
     "address": "KGRWA-136, First Floor, Sree Rekha, Sasthamangalam - Pipinmoodu Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 19:01:56.125761"
-  },
-  {
-    "place_id": "0x3b05bb8e326e3a25:0",
-    "name": "Liyora Beauty Saloon",
-    "address": "Residents Association, SRA 2-A, Sachivothama Rd",
-    "category": "Health and beauty shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:01:54.891617"
   }
 ]
