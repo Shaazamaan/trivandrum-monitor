@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c77edab26e5d:0",
+    "name": "Trigger Fitness Centre",
+    "address": "JWQP+28R",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 04:49:23.671590"
+  },
+  {
     "place_id": "0x3b05c3a8df94d7b5:0",
     "name": "Janashraya Community Pharmacy",
     "address": "MRXR+3C, near Brothers Library",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 17:30:18.596351"
-  },
-  {
-    "place_id": "0x3b05bb0075a86905:0",
-    "name": "Trivandrum",
-    "address": "USRA126, Udarasiromani Rd",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:30:17.218950"
   }
 ]
