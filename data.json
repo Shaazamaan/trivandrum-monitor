@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bbc87418bf83:0",
+    "name": "Thapasya Ayurvedic Spa",
+    "address": "Rosho Complex, 48",
+    "category": "Health spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 15:10:02.794463"
+  },
+  {
+    "place_id": "0x3b05bb9563396501:0",
+    "name": "Paarvanam ayur wellness spa",
+    "address": "road",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 15:10:01.602422"
+  },
+  {
+    "place_id": "0x3b05bba3b75e2e69:0",
+    "name": "K.Venkatachalam Aiyer & Co",
+    "address": "",
+    "category": "Certified public accountant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 15:10:00.236360"
+  },
+  {
     "place_id": "0x3b05b98971a0c355:0",
     "name": "Colours Designing Hub",
     "address": "GWXV+8HC, Kesavadasapuram - Venjaramoodu Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 18:39:50.134293"
-  },
-  {
-    "place_id": "0x3b05ad9ae38d01ff:0",
-    "name": "Squads Multi GYM",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:39:48.819285"
-  },
-  {
-    "place_id": "0x3b05ab860c80647f:0",
-    "name": "AMMA MOBILES",
-    "address": "2 Thiruthuvapuram, Kuzhithurai",
-    "category": "Cell phone accessory store",
-    "phone": "+91 99448 28735",
-    "website": null,
-    "discovered_at": "2026-11-17 18:39:47.448884"
-  },
-  {
-    "place_id": "0x3b05b16a8aa24b47:0",
-    "name": "Vippis Bakery",
-    "address": "Ambadi Building, College Rd, near Temple",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:32:38.097651"
   }
 ]
