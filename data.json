@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05af0001f11907:0",
+    "name": "Kunju Bakery",
+    "address": "C34J+CQR, TB Junction-Hospital Jct Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 16:45:52.813157"
+  },
+  {
     "place_id": "0x3b05e9e69acf6367:0",
     "name": "AHAS UNISEX SALOON & MAKEOVER STUDIO",
     "address": "Narikkall junction",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 19:01:35.917808"
-  },
-  {
-    "place_id": "0x3b05bbca2ac2eb01:0",
-    "name": "Anjana Bakery",
-    "address": "CXWR+CPQ, Nemom Punnamoodu Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:54:31.165613"
   }
 ]
