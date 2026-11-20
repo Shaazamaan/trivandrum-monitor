@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05e865e6641c27:0",
+    "name": "Dubai Mobiles",
+    "address": "QQ7R+23H, Varkala Kallambalam Rd",
+    "category": "Cell phone store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 18:19:49.893783"
+  },
+  {
+    "place_id": "0x3b05e86f6f21f0df:0",
+    "name": "JUICE BAR",
+    "address": "QQ7R+GVQ, Kilimanoor - Kottarakkara Rd",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 18:19:48.652671"
+  },
+  {
     "place_id": "0x3b05c86d7c509ec7:0",
     "name": "MEDCARE PHARMA",
     "address": "J2QC+2PG, Toll Junction - Karinkada Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 19:01:58.658886"
-  },
-  {
-    "place_id": "0x3b05bb70d05820e7:0",
-    "name": "Aum Yoga & Fitness & Homestay",
-    "address": "CLRA 42,SURABHI, SREEVARAHAM, PO",
-    "category": "Yoga studio",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:01:57.399110"
-  },
-  {
-    "place_id": "0x3b05bb22d4e9aff3:0",
-    "name": "Toss Academy",
-    "address": "Oxford School Road, Near National College, Kallattumukku, PO",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:01:56.125761"
   }
 ]
