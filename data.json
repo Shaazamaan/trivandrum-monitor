@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05b0f47d170255:0",
+    "name": "LUCA Juice hub",
+    "address": "F2RP+4HP, Thiruvananthapuram - Neyyar Dam Rd",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 19:56:36.950705"
+  },
+  {
+    "place_id": "0x3b05b70791caf445:0",
+    "name": "ASWAS COMMUNITY PHARMACY",
+    "address": "ASWAS COMMUNITY PHARMACY",
+    "category": "Pharmacy",
+    "phone": "+91 79946 47828",
+    "website": null,
+    "discovered_at": "2026-11-20 19:56:35.785787"
+  },
+  {
+    "place_id": "0x3b05b55b211c7d8f:0",
+    "name": "Raasi Medicals",
+    "address": "Kuttichal",
+    "category": "Pharmacy",
+    "phone": "+91 98952 81005",
+    "website": null,
+    "discovered_at": "2026-11-20 19:56:34.439426"
+  },
+  {
     "place_id": "0x3b05b70028e94e71:0",
     "name": "SIDHIN HOUSE",
     "address": "souparnika, po",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 19:45:53.892900"
-  },
-  {
-    "place_id": "0x3b05bf46df096809:0",
-    "name": "Tech Foods",
-    "address": "Vadayilmukku Pallinada Rd",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:45:52.643009"
-  },
-  {
-    "place_id": "0x3b05bf3d6a7dd74d:0",
-    "name": "Biriyani Hub",
-    "address": "",
-    "category": "Biryani restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:45:51.416438"
-  },
-  {
-    "place_id": "0x3b05bf18225560fd:0",
-    "name": "Mothers Pharmacy",
-    "address": "HVGV+PC9, Kariyavattom - Chenkottukonam Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:45:50.082568"
   }
 ]
