@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bbfd544a9a0b:0",
+    "name": "Laya Medical Laboratory",
+    "address": "Medical College, Medical College Ulloor Rd, near Hotel Vasantham",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 00:25:57.606537"
+  },
+  {
+    "place_id": "0x3b05b957fc4aa1a7:0",
+    "name": "Pluspoint Speciality Lab",
+    "address": "Medical College",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 00:25:56.419625"
+  },
+  {
+    "place_id": "0x3b05b9576cc298bd:0",
+    "name": "Insta Speciality Diagnostic Centre",
+    "address": "2/476/15, Medicalcollege P O, Kalpaka Building, Ulloor Road, Ulloor Road",
+    "category": "Diagnostic center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 00:25:54.944364"
+  },
+  {
     "place_id": "0x3b05b91a86363f67:0",
     "name": "Ananthapuri designs & events",
     "address": "Ananthapuri events GURUJI LANE Keraladithyapuram, po",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 16:14:20.268085"
-  },
-  {
-    "place_id": "0x3b05bb2fb2ef7bab:0",
-    "name": "Sala Mobiles sales, service & Accessories",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": "+91 88919 79882",
-    "website": null,
-    "discovered_at": "2026-11-17 16:14:19.065835"
-  },
-  {
-    "place_id": "0x3b05b9f50bc43c15:0",
-    "name": "Alankrithi Boutique",
-    "address": "GXHQ+CX5, Vattiyoorkavu - Kulasekharam Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:07:15.614478"
-  },
-  {
-    "place_id": "0x3b05b95c2b77bce5:0",
-    "name": "THIRUVATHIRA STORES",
-    "address": "Thiruvathira Stores, Vattiyoorkavu - Kulasekharam Rd, near Karthika Traders",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:07:14.263515"
   }
 ]
