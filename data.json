@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bb005ba0e5bb:0",
+    "name": "1LIFE GYM AND FITNESS Personal Training Studio",
+    "address": "Marappalam Rd, Po",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 15:40:02.131272"
+  },
+  {
+    "place_id": "0x3b05bba316438601:0",
+    "name": "1LIFE GYM AND FITNESS Personal Training Studio",
+    "address": "Marappalam Rd, Po",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 15:40:00.504791"
+  },
+  {
+    "place_id": "0x3b05bbe5459d2767:0",
+    "name": "Hotel Moon City",
+    "address": "",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 15:39:59.276579"
+  },
+  {
+    "place_id": "0x3b05bb899b53a02f:0",
+    "name": "Barbecue Space",
+    "address": "Ed Heights, Salem - Kochi Hwy",
+    "category": "Barbecue restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 15:39:58.055057"
+  },
+  {
     "place_id": "0x3b05bf0063560b91:0",
     "name": "Loaded",
     "address": "Technopark phase III, Service Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 18:47:16.748899"
-  },
-  {
-    "place_id": "0x3b05bb0383dba9bf:0",
-    "name": "MS Mobiles",
-    "address": "Ms Mobiles",
-    "category": "Cell phone store",
-    "phone": "+91 80897 88803",
-    "website": null,
-    "discovered_at": "2026-11-17 18:47:15.546804"
-  },
-  {
-    "place_id": "0x3b05bb0059030619:0",
-    "name": "Rohini Community Pharmacy",
-    "address": "GX67+RCC",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:47:14.207082"
-  },
-  {
-    "place_id": "0x3b05b942fbf1b4df:0",
-    "name": "Homoeo Health Care",
-    "address": "Vattiyoorkavu - Kulasekharam Rd",
-    "category": "Homeopath",
-    "phone": "+91 80752 15931",
-    "website": null,
-    "discovered_at": "2026-11-17 18:47:13.037347"
-  },
-  {
-    "place_id": "0x3b05b9001cb9819d:0",
-    "name": "vattiyoorkavu puliyarakonam",
-    "address": "10, Vattiyoorkkav Puliyarakkonam Rd",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:47:11.861633"
   }
 ]
