@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bf5d3a8a7ef1:0",
+    "name": "AS Bakers And Fresh Juice",
+    "address": "JV2X+R34",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 06:39:40.838076"
+  },
+  {
+    "place_id": "0x3b05ab2594bb82e9:0",
+    "name": "SJ Enterprises",
+    "address": "Shop No 1, Cheruvellivilagam, Muriyankara",
+    "category": "Airline ticket agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 06:39:39.619577"
+  },
+  {
+    "place_id": "0x3b05abe741fb4ad1:0",
+    "name": "Mahadeva yoga center parassala",
+    "address": "Mahadeva yoga center",
+    "category": "Yoga studio",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 06:39:38.375976"
+  },
+  {
     "place_id": "0x3b05ad8318aa1727:0",
     "name": "Aliyans Restaurant",
     "address": "Aliyan Hotel",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 17:38:02.557717"
-  },
-  {
-    "place_id": "0x3b05bb160c953977:0",
-    "name": "Mynt",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:38:01.389637"
-  },
-  {
-    "place_id": "0x3b05bb8f766c9299:0",
-    "name": "AAJ (Aavani's Aesthetic Journey)",
-    "address": "2nd Floor, Bhavani Building, Uppalam Rd",
-    "category": "Skin care clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:37:59.864383"
-  },
-  {
-    "place_id": "0x3b05bb84e006eea9:0",
-    "name": "SI Property Alpine Heights",
-    "address": "Alpine Heights, Vazhuthacaud - Poojappura Rd",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:30:28.064734"
   }
 ]
