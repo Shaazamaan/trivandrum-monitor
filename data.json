@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b30061983409:0",
+    "name": "NEXFIT GYM and FITNESS CENTRE",
+    "address": "F5HP+4J4",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 08:50:10.638930"
+  },
+  {
+    "place_id": "0x3b05af0db6b9e139:0",
+    "name": "Ponnambalam Child Care",
+    "address": "",
+    "category": "Hospital",
+    "phone": "+91 82818 87777",
+    "website": null,
+    "discovered_at": "2026-11-20 08:50:09.330590"
+  },
+  {
     "place_id": "0x3b05ef511b884d67:0",
     "name": "Deo Medicals",
     "address": "Ayroor, PO",
@@ -8980,23 +8998,5 @@
     "phone": "+91 79943 32701",
     "website": null,
     "discovered_at": "2026-11-17 17:38:11.617508"
-  },
-  {
-    "place_id": "0x3b05bb0043790b47:0",
-    "name": "Palayam market",
-    "address": "FWVX+VQX, 171, Gandhari Amman Covil Ln",
-    "category": "Market",
-    "phone": "+91 75609 67595",
-    "website": null,
-    "discovered_at": "2026-11-17 17:38:10.408739"
-  },
-  {
-    "place_id": "0x3b05b9fd579762dd:0",
-    "name": "New Leaf Super Market",
-    "address": "Pallimuku Juntion",
-    "category": "Supermarket",
-    "phone": "+91 83300 21397",
-    "website": null,
-    "discovered_at": "2026-11-17 17:38:09.256623"
   }
 ]
