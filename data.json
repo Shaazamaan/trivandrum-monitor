@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05e9004a1d2cd5:0",
+    "name": "Cake Town",
+    "address": "PPGP+WQ4, Varkala - Anchuthengu - Kadakkavoor - Chirayinkeezhu Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 00:40:33.693454"
+  },
+  {
+    "place_id": "0x3b05ef85d94b4085:0",
+    "name": "Kalyani's Kitchen",
+    "address": "North Cliff, Varkala Kallambalam Rd, inside Tibetan Market, near Chillout lounge restaurant",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 00:40:32.390423"
+  },
+  {
+    "place_id": "0x3b05ef262c9cbc81:0",
+    "name": "Jan Aushadhi Store",
+    "address": "Bus stop, PO, near Kanvasramam",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 00:40:30.882494"
+  },
+  {
+    "place_id": "0x3b05e9629af4f13d:0",
+    "name": "Vettoor medicals",
+    "address": "road",
+    "category": "Pharmacy",
+    "phone": "+91 98472 83048",
+    "website": null,
+    "discovered_at": "2026-11-20 00:40:29.442310"
+  },
+  {
+    "place_id": "0x3b05e96b06134475:0",
+    "name": "Govt. Homeo Dispensary Ottoor",
+    "address": "krishibhavan,moongode p.o, thoppil,near ottoor",
+    "category": "Homeopathic pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 00:40:28.195236"
+  },
+  {
+    "place_id": "0x3b05ef363fdef581:0",
+    "name": "Kottakkal Arya Vaidya Sala",
+    "address": "Ground Floor, Ayiroor Village Service Co. Operative Bank, Ayiroor Junction, behind bus stop",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 00:40:26.916162"
+  },
+  {
     "place_id": "0x3b05bbfd544a9a0b:0",
     "name": "Laya Medical Laboratory",
     "address": "Medical College, Medical College Ulloor Rd, near Hotel Vasantham",
@@ -8944,59 +8998,5 @@
     "phone": "+91 82812 23377",
     "website": null,
     "discovered_at": "2026-11-17 16:21:32.900642"
-  },
-  {
-    "place_id": "0x3b05bb829d3b4bf7:0",
-    "name": "B.V STORE",
-    "address": "Bhagavathy Nagar Rd",
-    "category": "Supermarket",
-    "phone": "+91 62386 56161",
-    "website": null,
-    "discovered_at": "2026-11-17 16:14:26.408063"
-  },
-  {
-    "place_id": "0x3b05b9000b3d079b:0",
-    "name": "OH MY JUICE (From US BAKERY)",
-    "address": "HX6J+FGG",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:14:25.152785"
-  },
-  {
-    "place_id": "0x3b05bb278ebb96f3:0",
-    "name": "SSV Beauty Gardens",
-    "address": "Kundamankadavu Vattiyoorkavu Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:14:23.930860"
-  },
-  {
-    "place_id": "0x3b05b9ed0b138533:0",
-    "name": "KALLOOSE M F M",
-    "address": "GXQQ+JXQ",
-    "category": "Grocery store",
-    "phone": "+91 97441 43501",
-    "website": null,
-    "discovered_at": "2026-11-17 16:14:22.781803"
-  },
-  {
-    "place_id": "0x3b05bb002e790baf:0",
-    "name": "Anamika Store",
-    "address": "Vattiyoorkavu - Kulasekharam Rd, near Police Station",
-    "category": "Indian grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:14:21.601787"
-  },
-  {
-    "place_id": "0x3b05bb0019a1a307:0",
-    "name": "GG Furniture",
-    "address": "GXCJ+XV7",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:14:20.268085"
   }
 ]
