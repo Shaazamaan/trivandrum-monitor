@@ -1,5 +1,257 @@
 [
   {
+    "place_id": "0x3b05efb747c0b48f:0",
+    "name": "Cliff & Coral Hostel, Varkala, Odayam Beach",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 78997 04979",
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:39.518281"
+  },
+  {
+    "place_id": "0x3b05ef2f80d6b2ab:0",
+    "name": "Neethu Communications Varkala",
+    "address": "",
+    "category": "Internet cafe",
+    "phone": "+91 98953 34269",
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:38.286685"
+  },
+  {
+    "place_id": "0x3b05ef4ad626d65f:0",
+    "name": "Biker's Nest",
+    "address": "Thiruvambadi Rd",
+    "category": "Coworking space",
+    "phone": "+91 62387 60620",
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:37.038305"
+  },
+  {
+    "place_id": "0x3b05ef6ca69f43b1:0",
+    "name": "Jambavan Arts Collective",
+    "address": "29/131, Mundayil Beach Rd",
+    "category": "Art center",
+    "phone": "+91 99862 23163",
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:35.698503"
+  },
+  {
+    "place_id": "0x3b05e3d33bcc92e7:0",
+    "name": "Eidolon Designers",
+    "address": "Anjana Complex, Near kottiyam Post Office, MP 4/772",
+    "category": "Interior designer",
+    "phone": "+91 99610 10003",
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:30.544894"
+  },
+  {
+    "place_id": "0x3b05e9957fd9dda5:0",
+    "name": "Thadam Junction, Palachira",
+    "address": "Thadam Junction, Palachira, Varkala Kallambalam Rd",
+    "category": "Place of worship",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:29.213650"
+  },
+  {
+    "place_id": "0x3b05ef005df00b79:0",
+    "name": "My Home",
+    "address": "PACHAMAMA HOME STAY, 28-257, near LVUPS School",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:27.983748"
+  },
+  {
+    "place_id": "0x3b05bb0012680e81:0",
+    "name": "Varkala.kovoor",
+    "address": "GX82+F63, Vrndhavanam, Kovoor",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:26.676298"
+  },
+  {
+    "place_id": "0x3b05ef000cdb10a1:0",
+    "name": "Kurakkanni",
+    "address": "PACHAMAMA HOME STAY, 28-257, near LVUPS School",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:25.373765"
+  },
+  {
+    "place_id": "0x3b05ef00054a9c2f:0",
+    "name": "Ashokam Spa Varkala",
+    "address": "sree eight",
+    "category": "Spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:24.051862"
+  },
+  {
+    "place_id": "0x3b05e5ba23f48aa3:0",
+    "name": "Selekt Mart",
+    "address": "",
+    "category": "Grocery store",
+    "phone": "+91 80866 80003",
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:22.749638"
+  },
+  {
+    "place_id": "0x3b05efcdfb4fc8a1:0",
+    "name": "Coconut Cove Beach Resort , Varkala",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 80508 88880",
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:18.563559"
+  },
+  {
+    "place_id": "0x6afb40642a53226d:0",
+    "name": "fashion store",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:17.296920"
+  },
+  {
+    "place_id": "0x3b05ef29ea1cebdb:0",
+    "name": "Men's City",
+    "address": "PPMG+GHX",
+    "category": "Men's clothing store",
+    "phone": "+91 98958 22246",
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:15.881895"
+  },
+  {
+    "place_id": "0x3b05eff061e32e6b:0",
+    "name": "Anand Garments",
+    "address": "PMRX+5V5",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:14.611871"
+  },
+  {
+    "place_id": "0x3b05e92b0ef3f3cd:0",
+    "name": "Uthradam Fashion",
+    "address": "PPHP+RCJ",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:13.155131"
+  },
+  {
+    "place_id": "0x3b05ef3876b288eb:0",
+    "name": "Novella Concept Hotel & Cafe",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:11.809532"
+  },
+  {
+    "place_id": "0x3b05ef1bdb226c19:0",
+    "name": "Clafouti Beach Resort",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:10.532018"
+  },
+  {
+    "place_id": "0x3b05e97ed792fd61:0",
+    "name": "B K HOSPITAL",
+    "address": "",
+    "category": "Hospital",
+    "phone": "+91 79073 00283",
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:09.261178"
+  },
+  {
+    "place_id": "0x3b05e900206e8089:0",
+    "name": "Veterinary subcentre vilabhagam",
+    "address": "PP4Q+2PM, Varkala - Anchuthengu - Kadakkavoor - Chirayinkeezhu Rd",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:07.930135"
+  },
+  {
+    "place_id": "0x3b05e91d47d813a9:0",
+    "name": "Shadow dog hostel",
+    "address": "Perettil",
+    "category": "Dog day care center",
+    "phone": "+91 99956 06255",
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:06.370275"
+  },
+  {
+    "place_id": "0x3b05e92b81c10e91:0",
+    "name": "Golden pets centre",
+    "address": "PPHP+6M2, Vallicode Puthenchanda - Mayalil Road, Cherunniyoor Road",
+    "category": "Pet store",
+    "phone": "+91 94461 80401",
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:05.095457"
+  },
+  {
+    "place_id": "0x3b05ef55d7a3f08f:0",
+    "name": "Sparrow Wings Exotic Farm",
+    "address": "",
+    "category": "Aquaculture farm",
+    "phone": "+91 99956 22263",
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:03.812787"
+  },
+  {
+    "place_id": "0x3b05ef447b6426e7:0",
+    "name": "Paws N Claws",
+    "address": "QP9C+VW",
+    "category": "Kennel",
+    "phone": "+91 85898 88839",
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:02.433824"
+  },
+  {
+    "place_id": "0x3b05ef29ecaaed6d:0",
+    "name": "SSK MEDICALS",
+    "address": "PPMG+PP4, Varkala",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 22:01:01.027479"
+  },
+  {
+    "place_id": "0x3b05e92935988b29:0",
+    "name": "HS MEDICALS",
+    "address": "PPHR+79G, Varkala Kallambalam Rd",
+    "category": "Pharmacy",
+    "phone": "+91 98956 30684",
+    "website": null,
+    "discovered_at": "2026-11-20 22:00:59.741133"
+  },
+  {
+    "place_id": "0x3b05ef2a1ddad50d:0",
+    "name": "Devi Hospital ( J R Hospital )",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 22:00:58.380672"
+  },
+  {
+    "place_id": "0x3b05e949e7fa2b35:0",
+    "name": "Agasthiyar Guru Siddha Marma Chikitsalayam - Siddha Hospital",
+    "address": "4 Kms Near Varkala Beach, Amman Nada Junction Melvettor",
+    "category": "Alternative medicine practitioner",
+    "phone": "+91 99952 05441",
+    "website": null,
+    "discovered_at": "2026-11-20 22:00:56.550623"
+  },
+  {
     "place_id": "0x3b05bbd22fc49867:0",
     "name": "Lemon Resto Cafe",
     "address": "school, press building, St Joseph, opp. cotton hill",
@@ -8746,257 +8998,5 @@
     "phone": "+91 99461 29977",
     "website": null,
     "discovered_at": "2026-11-17 21:29:02.329974"
-  },
-  {
-    "place_id": "0x3b05b99d4a7115fd:0",
-    "name": "P K TIMES",
-    "address": "GXP8+R78",
-    "category": "Watch repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 21:29:01.142846"
-  },
-  {
-    "place_id": "0x3b05b97e55b567eb:0",
-    "name": "Classic Curtains & Furnishings",
-    "address": "",
-    "category": "Window treatment store",
-    "phone": "+91 93494 26164",
-    "website": null,
-    "discovered_at": "2026-11-17 21:28:59.925303"
-  },
-  {
-    "place_id": "0x3b05b9920db9c623:0",
-    "name": "FRIENDS MOBILES,",
-    "address": "GXMP+8W9, Peroorkada Vattiyoorkavu Rd",
-    "category": "Cell phone accessory store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 21:28:58.739218"
-  },
-  {
-    "place_id": "0x3b05b911f2e92485:0",
-    "name": "Chai kaapi",
-    "address": "Peroorkada Mannanthala Rd",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 21:21:55.296343"
-  },
-  {
-    "place_id": "0x3b05b934c78efba7:0",
-    "name": "The Good Bowl",
-    "address": "GXQ8+5XX",
-    "category": "Asian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 21:21:54.070576"
-  },
-  {
-    "place_id": "0x3b05b982d461274f:0",
-    "name": "SREE KRISHNA ENGLISH MEDICINES",
-    "address": "GXP9+32H",
-    "category": "Pharmacy",
-    "phone": "+91 94959 42627",
-    "website": null,
-    "discovered_at": "2026-11-17 21:21:52.834146"
-  },
-  {
-    "place_id": "0x3b05b98320c9048b:0",
-    "name": "M.S. MEDICALS",
-    "address": "TC. 1/607(9), M Jaya Amritha Arcade, Opposite Police Station",
-    "category": "Pharmacy",
-    "phone": "+91 97479 67788",
-    "website": null,
-    "discovered_at": "2026-11-17 21:21:51.577572"
-  },
-  {
-    "place_id": "0x3b05bb566de3548b:0",
-    "name": "UNIVERSAL TOURS & TRAVELS",
-    "address": "VRA-11 SHIVALANE SHIVAGANGA THOPPUMUKKU, VATTIYOORKAVU, PO",
-    "category": "Tour operator",
-    "phone": "+91 96053 51527",
-    "website": null,
-    "discovered_at": "2026-11-17 21:21:50.174597"
-  },
-  {
-    "place_id": "0x3b05bbdd7e57ec8f:0",
-    "name": "TRAVELMATE HOLIDAYS TRIVANDRUM",
-    "address": "Jainagar, Thirumala P.O, White House TC 48/2455, JRA 433",
-    "category": "Tour operator",
-    "phone": "+91 90488 28890",
-    "website": null,
-    "discovered_at": "2026-11-17 21:21:48.882422"
-  },
-  {
-    "place_id": "0x3b05b9ed7605638b:0",
-    "name": "Hornbill Femine Wear Nettayam",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 21:21:47.473677"
-  },
-  {
-    "place_id": "0x3b0453005f3efea7:0",
-    "name": "Kalyan Fashion Jewellery",
-    "address": "C5FW+XG9",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 21:07:52.397906"
-  },
-  {
-    "place_id": "0x3b05b340481bc301:0",
-    "name": "ZEST JUICERY",
-    "address": "ZEST Juicery Churuli Vellarada, Road",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 21:07:51.166304"
-  },
-  {
-    "place_id": "0x3b05b14f54a26bb1:0",
-    "name": "Star BAKERY",
-    "address": "G39P+V47",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 21:07:49.311029"
-  },
-  {
-    "place_id": "0x3b05b30047464a1f:0",
-    "name": "Manna Food Court",
-    "address": "G578+3PW, Vavode to Kandamthitta Road",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 21:07:47.917851"
-  },
-  {
-    "place_id": "0x3b05a908ab1af967:0",
-    "name": "Base Kafe",
-    "address": "Opens 5:30 PM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 21:00:47.872414"
-  },
-  {
-    "place_id": "0x3b05a9004275dc05:0",
-    "name": "Kingfisher floating restaurant",
-    "address": "835H+44M, Neyyar back water Elephant Rock",
-    "category": "Indian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 21:00:46.462307"
-  },
-  {
-    "place_id": "0x3b05a5ebdab82f11:0",
-    "name": "Vizhinjam Fresh Fish",
-    "address": "Mannakal House Number 353 Hourbar",
-    "category": "Supermarket",
-    "phone": "+91 96567 62804",
-    "website": null,
-    "discovered_at": "2026-11-17 21:00:45.155777"
-  },
-  {
-    "place_id": "0x3b05a5bff64ed2df:0",
-    "name": "A.R Bakery",
-    "address": "9XGP+MH3, Vizhinjam Harbour Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 20:53:22.537769"
-  },
-  {
-    "place_id": "0x3b05a5fad16153eb:0",
-    "name": "Friends Bakery",
-    "address": "Friends Bakery, near St Mary HS School",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 20:53:21.346673"
-  },
-  {
-    "place_id": "0x3b05a5e245fe8ee3:0",
-    "name": "The Kerala Heritage",
-    "address": "Samudra Beach, GV Raja Rd",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 20:53:20.076075"
-  },
-  {
-    "place_id": "0x3b05a5005322a10f:0",
-    "name": "The Cafein Dreams",
-    "address": "9XQG+VWG",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 20:53:18.807997"
-  },
-  {
-    "place_id": "0x3b05c874dbb9a119:0",
-    "name": "Cafe Cakes Bakery",
-    "address": "J2P7+CFX, Anad, Nedumangad",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 20:53:17.553009"
-  },
-  {
-    "place_id": "0x3b05e99a35f19f9b:0",
-    "name": "Realme Store",
-    "address": "Private Stand",
-    "category": "Cell phone store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 20:46:08.580014"
-  },
-  {
-    "place_id": "0x3b05e9f0dddf14ab:0",
-    "name": "Thahas Sulthan",
-    "address": "MRX6+QQF, Market Rd",
-    "category": "Indian Muslim restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 20:38:42.678548"
-  },
-  {
-    "place_id": "0x3b05e90060aaba99:0",
-    "name": "Kaduvayil Thattukada",
-    "address": "MRX7+7FM",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 20:38:41.411162"
-  },
-  {
-    "place_id": "0x3b05e94e78f378f5:0",
-    "name": "JK MOBILES",
-    "address": "PP3Q+7RP, Varkala - Anchuthengu - Kadakkavoor - Chirayinkeezhu Rd",
-    "category": "Cell phone store",
-    "phone": "+91 89437 68428",
-    "website": null,
-    "discovered_at": "2026-11-17 20:38:40.163140"
-  },
-  {
-    "place_id": "0x3b05b90018f3382f:0",
-    "name": "SAJ MOBILES",
-    "address": "GWGG+W6C, Ulloor - Akkulam Rd, near AKSHYA CENTRE",
-    "category": "Cell phone store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 20:30:09.079168"
-  },
-  {
-    "place_id": "0x3b05bf689513848d:0",
-    "name": "Cupfluence Cafe",
-    "address": "NAZIM MANZIL",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 20:30:07.897582"
   }
 ]
