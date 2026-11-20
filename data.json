@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bbd22fc49867:0",
+    "name": "Lemon Resto Cafe",
+    "address": "school, press building, St Joseph, opp. cotton hill",
+    "category": "Non vegetarian restaurant",
+    "phone": "+91 85900 84277",
+    "website": null,
+    "discovered_at": "2026-11-20 21:30:22.101651"
+  },
+  {
+    "place_id": "0x3b05bb9bda7f441f:0",
+    "name": "Hindusthan Ayurvedic Hospital",
+    "address": "USRA - 100, Udarashiromony Road",
+    "category": "Hospital",
+    "phone": "+91 75618 98936",
+    "website": null,
+    "discovered_at": "2026-11-20 21:30:20.900647"
+  },
+  {
+    "place_id": "0x3b05bb1c103d9bf1:0",
+    "name": "Swasthya Wellness Clinic",
+    "address": "PRA 190, Palottukonam Rd",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 21:30:19.553469"
+  },
+  {
+    "place_id": "0x3b05bb916a606f71:0",
+    "name": "Thrinetra Institutions - Kottakkal Arya Vaidya Sala Authorized Dealer",
+    "address": "Kottakkal Aryavaidyasala, Narayana Towers, opp. SBI",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 94959 85746",
+    "website": null,
+    "discovered_at": "2026-11-20 21:30:18.266880"
+  },
+  {
+    "place_id": "0x3b05bbc011a3b021:0",
+    "name": "Classic Dental Care",
+    "address": "TC-13/647, LVMRA-145 Miranda Junction, Thampuran Mukku, Law College, Varambassery Rd",
+    "category": "Dental clinic",
+    "phone": "+91 98461 75892",
+    "website": null,
+    "discovered_at": "2026-11-20 21:30:17.069161"
+  },
+  {
     "place_id": "0x3b05bfa8f2438d89:0",
     "name": "FA MINI SUPERMARKET",
     "address": "HVF9+XCH, Near Csi Hospital, Kazhakut",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 20:30:07.897582"
-  },
-  {
-    "place_id": "0x3b05bf8fec81ccb3:0",
-    "name": "Dosha Kada",
-    "address": "HW48+7HR, Sreekariyam - Pothencode Rd",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 20:30:04.315386"
-  },
-  {
-    "place_id": "0x3b05bb9483acee39:0",
-    "name": "Raga Collections",
-    "address": "Krishna Saras, W Fort Rd",
-    "category": "Women's clothing store",
-    "phone": "+91 89213 96990",
-    "website": null,
-    "discovered_at": "2026-11-17 20:15:45.889263"
-  },
-  {
-    "place_id": "0x3b05bba0ce1ef587:0",
-    "name": "Face off",
-    "address": "Closes 8:30 AM",
-    "category": "Open",
-    "phone": "+91 86061 82052",
-    "website": null,
-    "discovered_at": "2026-11-17 20:15:44.741600"
-  },
-  {
-    "place_id": "0x3b05bb002a51ef0b:0",
-    "name": "Three Star Restaurant",
-    "address": "FXX3+234, Rd",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 20:07:52.075557"
-  },
-  {
-    "place_id": "0x3b05bb0011ba7c17:0",
-    "name": "Peter England",
-    "address": "School, Cordial Tower, near Saint Marys Lane",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 19:53:48.817279"
   }
 ]
