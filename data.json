@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05a52dac7ed427:0",
+    "name": "The Lounge",
+    "address": "",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:04:09.946135"
+  },
+  {
+    "place_id": "0x3b05a5a940fb4f23:0",
+    "name": "The Café at The Club",
+    "address": "",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:04:08.595184"
+  },
+  {
     "place_id": "0x3b05e9f8dcaaf803:0",
     "name": "Attingal Fast Food And Bakery",
     "address": "MRW9+2MV",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 16:28:40.744268"
-  },
-  {
-    "place_id": "0x3b05bb00561f26cd:0",
-    "name": "BLENDO BAR",
-    "address": "FWJM+3Q8, Akshara Veedi",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:21:37.973268"
-  },
-  {
-    "place_id": "0x3b05bb0053b30133:0",
-    "name": "Kairali cake factory",
-    "address": "FWGX+W46, near Church",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:21:36.623890"
   }
 ]
