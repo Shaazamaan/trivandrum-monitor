@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05ad8318aa1727:0",
+    "name": "Aliyans Restaurant",
+    "address": "Aliyan Hotel",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 06:32:38.292197"
+  },
+  {
+    "place_id": "0x3b05ab437dd892a5:0",
+    "name": "Dhanwanthari Pharmacy - Yesukumar",
+    "address": "Muslim Jamath building",
+    "category": "Pharmacy",
+    "phone": "+91 94881 71710",
+    "website": null,
+    "discovered_at": "2026-11-20 06:32:37.141047"
+  },
+  {
+    "place_id": "0x3b05b7f68c0cdea3:0",
+    "name": "Your Choice - Gulfadhi Gulfal",
+    "address": "Market Rd",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 06:32:35.927246"
+  },
+  {
     "place_id": "0x3b05b8163a0c7375:0",
     "name": "Quality Furniture",
     "address": "10th Stone",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 17:30:28.064734"
-  },
-  {
-    "place_id": "0x3b05bbb7be7c79ff:0",
-    "name": "Samastha Homes",
-    "address": "EVRA-187, HARISREE, VAZHUTHACAUD, ROAD",
-    "category": "Construction company",
-    "phone": "+91 79947 79993",
-    "website": null,
-    "discovered_at": "2026-11-17 17:30:26.829899"
-  },
-  {
-    "place_id": "0x3b05bbd17ac9450b:0",
-    "name": "Artech Avantika",
-    "address": "",
-    "category": "Apartment building",
-    "phone": "+91 75589 88111",
-    "website": null,
-    "discovered_at": "2026-11-17 17:30:25.344243"
-  },
-  {
-    "place_id": "0x3b05bbb3a70c9cdb:0",
-    "name": "Condor Marigold",
-    "address": "FXW6+VGV",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:30:24.014968"
   }
 ]
