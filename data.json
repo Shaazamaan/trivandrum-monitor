@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b8163a0c7375:0",
+    "name": "Quality Furniture",
+    "address": "10th Stone",
+    "category": "Furniture store",
+    "phone": "+91 90484 02402",
+    "website": null,
+    "discovered_at": "2026-11-20 06:18:04.507609"
+  },
+  {
     "place_id": "0x3b05b95e1d7d858d:0",
     "name": "iCloudHomes - Rhythm Of Life",
     "address": "Closes 6 PM",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 17:30:24.014968"
-  },
-  {
-    "place_id": "0x3b05ba4a8e783bb9:0",
-    "name": "Artech Centrix",
-    "address": "",
-    "category": "Apartment complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:30:22.725725"
   }
 ]
