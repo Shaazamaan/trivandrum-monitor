@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb91271255f9:0",
+    "name": "KIARA OUTFITS",
+    "address": "opposite SBI Bank and super market",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 01:39:27.124684"
+  },
+  {
+    "place_id": "0x3b05a5b659b58403:0",
+    "name": "Green Orange Supermarket",
+    "address": "NH 66 Edavilakom",
+    "category": "Grocery store",
+    "phone": "+91 95679 99567",
+    "website": null,
+    "discovered_at": "2026-11-20 01:39:25.859797"
+  },
+  {
     "place_id": "0x3b05ab6835878017:0",
     "name": "C S Construction Pvt. Ltd.",
     "address": "Main Road Marthandam",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 16:51:23.229111"
-  },
-  {
-    "place_id": "0x3b05cb8de7c65c39:0",
-    "name": "Jersey Farm, Vithura",
-    "address": "M4CR+X86, Unnamed Road",
-    "category": "Dairy farm",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:51:22.023809"
-  },
-  {
-    "place_id": "0x3b05af0055639b5b:0",
-    "name": "DDRC Agilus Diagnostics - Kanjiramkulam, Trivandrum",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 16:51:20.764639"
   }
 ]
