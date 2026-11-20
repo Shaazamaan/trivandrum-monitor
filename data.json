@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbe2f16c9f45:0",
+    "name": "Happy pets international",
+    "address": "Padmavilasam Rd, opp. varma petrol pump",
+    "category": "Pet store",
+    "phone": "+91 94972 44542",
+    "website": null,
+    "discovered_at": "2026-11-20 16:09:42.662208"
+  },
+  {
     "place_id": "0x3b05bbd9445bbb09:0",
     "name": "Veekkay Motor Driving School Trivandrum",
     "address": "T.C, 40/820",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 18:47:21.479223"
-  },
-  {
-    "place_id": "0x3b05bb0046a5e69b:0",
-    "name": "Mavarathala veedu TRA58 ,Ponnarathala Lane Thittamangalam Vattiyoorkavu, Thiruvanathapuram 695013 Kerala State",
-    "address": "G272+576",
-    "category": "Apartment complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:47:20.290888"
   }
 ]
