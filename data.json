@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bf0063560b91:0",
+    "name": "Loaded",
+    "address": "Technopark phase III, Service Rd",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 15:32:41.186425"
+  },
+  {
     "place_id": "0x3b05bf000d3f9975:0",
     "name": "AARDE",
     "address": "Shop No 1 AADE, opposite Elements Saloon",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 18:47:11.861633"
-  },
-  {
-    "place_id": "0x3b05b9697890c4d7:0",
-    "name": "BIGPIPER TRAVEL HUB",
-    "address": "HWMC+C39, Pothencode - Powdikonam Rd",
-    "category": "Bus tour agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 18:47:10.341365"
   }
 ]
