@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05c3a8df94d7b5:0",
+    "name": "Janashraya Community Pharmacy",
+    "address": "MRXR+3C, near Brothers Library",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 04:35:01.582189"
+  },
+  {
+    "place_id": "0x3b05ea6f3cac1a0b:0",
+    "name": "UNIVERSAL DIAGNOSTIC CENTRE",
+    "address": "MR65+XWJ, Nes Block, Chirayinkeezhu",
+    "category": "Medical clinic",
+    "phone": "+91 98469 66920",
+    "website": null,
+    "discovered_at": "2026-11-20 04:35:00.422697"
+  },
+  {
+    "place_id": "0x3b05befa945e2447:0",
+    "name": "Kerala Startup Mission",
+    "address": "",
+    "category": "Government office",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-20 04:34:59.223118"
+  },
+  {
     "place_id": "0x3b05b93cd3a2e079:0",
     "name": "SRISHTEE Boutique Ladies Collections",
     "address": "PRA39, SRISHTEE Boutique Ladies Collections, Archana apartment, NCC Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 17:30:17.218950"
-  },
-  {
-    "place_id": "0x3b05bb3f03eb028b:0",
-    "name": "Kings retail",
-    "address": "opposite Salvation Army School",
-    "category": "Fresh food market",
-    "phone": "+91 96336 90111",
-    "website": null,
-    "discovered_at": "2026-11-17 17:30:15.819283"
-  },
-  {
-    "place_id": "0x3b05bbe7b2889c13:0",
-    "name": "Kebab Dukkan",
-    "address": "",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:23:08.294380"
-  },
-  {
-    "place_id": "0x3b05b900662b8a45:0",
-    "name": "Hindlabs Diagnostic Laboratory",
-    "address": "GWVV+R65",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 17:23:06.979526"
   }
 ]
