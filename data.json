@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05a9cd90fb1e4b:0",
+    "name": "Royal Empire Resort",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 11:38:01.805079"
+  },
+  {
+    "place_id": "0x3b05a5fb21a84fc9:0",
+    "name": "Rock cafe",
+    "address": "9XPG+WMR, near searock hotel .light house beach",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 11:38:00.633227"
+  },
+  {
+    "place_id": "0x3b05a91df82bec5f:0",
+    "name": "Joseco Boating & Backwaters Poovar",
+    "address": "Bridge road",
+    "category": "Boat club",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 11:37:59.496892"
+  },
+  {
+    "place_id": "0x3b05a99d95c252fd:0",
+    "name": "Lara Lakeview Resort | Floating Restaurant & Boating",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 11:37:58.304786"
+  },
+  {
+    "place_id": "0x3b05a9604a77246b:0",
+    "name": "Afiya Restaurant",
+    "address": "AFIYA RESTAURANT, Beach Road",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 11:37:57.125293"
+  },
+  {
     "place_id": "0x3b05bb14eb61461d:0",
     "name": "Chaithanya Eye Hospital -Parking Space",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": "+91 85901 08979",
     "website": null,
     "discovered_at": "2026-11-17 22:21:03.115011"
-  },
-  {
-    "place_id": "0x3b05beedf6dae355:0",
-    "name": "Oceanus Elite",
-    "address": "",
-    "category": "Apartment complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 22:21:01.854137"
-  },
-  {
-    "place_id": "0x3b05be9b7ff43a3f:0",
-    "name": "Artech Life Spaces",
-    "address": "",
-    "category": "Apartment building",
-    "phone": "+91 98476 00600",
-    "website": null,
-    "discovered_at": "2026-11-17 22:21:00.610194"
-  },
-  {
-    "place_id": "0x3b05bf027bafeb07:0",
-    "name": "TSA Towers",
-    "address": "Old NH Rd, opposite kseb",
-    "category": "Furnished apartment building",
-    "phone": "+91 98093 93153",
-    "website": null,
-    "discovered_at": "2026-11-17 22:20:59.297894"
-  },
-  {
-    "place_id": "0x3b05bfa1d02e75c5:0",
-    "name": "A2Z Forklift Tower Crane JCB Trailer Training Institute",
-    "address": "The Atomic, A2Z, near Technopark Phase 1",
-    "category": "Drivers license training school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 22:20:58.061933"
-  },
-  {
-    "place_id": "0x3b05bf2d01569e03:0",
-    "name": "Logiprompt Pro Academy",
-    "address": "",
-    "category": "Education center",
-    "phone": "+91 89218 66155",
-    "website": null,
-    "discovered_at": "2026-11-17 22:20:56.803026"
   }
 ]
