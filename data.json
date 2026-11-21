@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c1f8deb5f211:0",
+    "name": "Muneer store",
+    "address": "Muneer Store, Varkala Kallambalam Rd",
+    "category": "Grocery store",
+    "phone": "+91 96331 84070",
+    "website": null,
+    "discovered_at": "2026-11-21 02:41:31.004678"
+  },
+  {
     "place_id": "0x3b05bb83e200c23f:0",
     "name": "MADE EASY TUITION ACADEMY",
     "address": "TC 46/529(1, DIL VILLA, SM Lock Rd",
@@ -8989,14 +8998,5 @@
     "phone": "+91 75930 00058",
     "website": null,
     "discovered_at": "2026-11-17 22:13:28.700003"
-  },
-  {
-    "place_id": "0x3b05bf074cd067e9:0",
-    "name": "Trendy Collections",
-    "address": "Trendy Collections Near AJ Hospital Kazhakkuttam PO Trivandrum",
-    "category": "Clothing store",
-    "phone": "+91 96339 09027",
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:27.488195"
   }
 ]
