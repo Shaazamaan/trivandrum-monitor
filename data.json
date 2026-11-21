@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05ef7fa2ed2c11:0",
+    "name": "Viji's Beauty Studio",
+    "address": "Market Road, near Venkulam",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 18:45:08.626185"
+  },
+  {
+    "place_id": "0x3b05e9001cf2a8cb:0",
+    "name": "Konath sree mahadeva jewellery works",
+    "address": "QQ38+R8C",
+    "category": "Jewelry designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 18:45:07.390100"
+  },
+  {
     "place_id": "0x3b05b9565fb9adf3:0",
     "name": "Akshaya E Centre Ulloor",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": "+91 90482 15908",
     "website": null,
     "discovered_at": "2026-11-18 04:50:48.327342"
-  },
-  {
-    "place_id": "0x3b05bc0fdcb57b9d:0",
-    "name": "Pretty Gents Beauty Parlour",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 04:36:25.092608"
-  },
-  {
-    "place_id": "0x3b05c8b3557951c9:0",
-    "name": "Variety Bakers",
-    "address": "LPS Junction, Thiruvananthapuram, SH 2",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 04:36:23.900743"
   }
 ]
