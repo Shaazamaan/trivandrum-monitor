@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05a5bdbff69c8f:0",
+    "name": "Rajan bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 14:02:06.643084"
+  },
+  {
+    "place_id": "0x3b05c9000d79454d:0",
+    "name": "Hotel Aadi",
+    "address": "J2CC+7R7, Nedumangad Karipoor Rd, near Karipoor",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 14:02:05.357026"
+  },
+  {
+    "place_id": "0x3b05c9002af869c9:0",
+    "name": "Daily Grills cafe",
+    "address": "",
+    "category": "Arab restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 14:02:03.894492"
+  },
+  {
     "place_id": "0x3b05bb92bfe2c901:0",
     "name": "Petzoo",
     "address": "GW6X+3CH",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 23:34:58.000307"
-  },
-  {
-    "place_id": "0x3b05b9cc6c664185:0",
-    "name": "Jaya Vihar",
-    "address": "Ulloor - Akkulam Rd",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 23:34:56.745201"
-  },
-  {
-    "place_id": "0x3b05b9004a7060c3:0",
-    "name": "Rg 147",
-    "address": "RG 147",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 23:34:55.554797"
-  },
-  {
-    "place_id": "0x3b05b955bc5b6731:0",
-    "name": "Vijay Plaza",
-    "address": "Medical College, Junction, Ulloor - Akkulam Rd",
-    "category": "Business center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 23:34:54.397203"
   }
 ]
