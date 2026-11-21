@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bf950bd3596b:0",
+    "name": "Mobile Magic",
+    "address": "",
+    "category": "Cell phone store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 14:24:42.705674"
+  },
+  {
+    "place_id": "0x3b05c70047063301:0",
+    "name": "KASIM SARBATH VEMBAYAM",
+    "address": "Kanyakulangara - Thekkada Rd",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 14:24:41.478340"
+  },
+  {
     "place_id": "0x3b05ab730f3b8081:0",
     "name": "SREE MURUKA TEXTILES",
     "address": "85R4+JG3",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 01:12:24.791053"
-  },
-  {
-    "place_id": "0x3b05bb8e31e32d49:0",
-    "name": "VIBRANT DESTINATION",
-    "address": "CORDOVA HIGHER SECONDARU SCHOOL, NEAR, OPPOSIT",
-    "category": "Travel agency",
-    "phone": "+91 96330 66652",
-    "website": null,
-    "discovered_at": "2026-11-18 01:12:23.548329"
-  },
-  {
-    "place_id": "0x3b05b9eebc66c327:0",
-    "name": "Aishwarya bakery and store",
-    "address": "GXPC+MF4",
-    "category": "Indian grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 00:35:58.672445"
   }
 ]
