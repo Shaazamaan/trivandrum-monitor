@@ -1,5 +1,104 @@
 [
   {
+    "place_id": "0x3b05b9cf7f7b4751:0",
+    "name": "Variety juice",
+    "address": "Hospital Rd",
+    "category": "Hotel",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:59:39.116456"
+  },
+  {
+    "place_id": "0x3b05b9cb0c30a149:0",
+    "name": "Medayil Surgicals",
+    "address": "",
+    "category": "Surgical supply store",
+    "phone": "+91 96566 24265",
+    "website": null,
+    "discovered_at": "2026-11-21 23:59:37.802955"
+  },
+  {
+    "place_id": "0x3b05b90e7033aaeb:0",
+    "name": "KS HIRE SERVICE PANTHAL AND DECORATION WORKS",
+    "address": "Maruthankuzhi - Kachani Rd, near MAK Auditorium",
+    "category": "Event planner",
+    "phone": "+91 98951 22198",
+    "website": null,
+    "discovered_at": "2026-11-21 23:59:36.405295"
+  },
+  {
+    "place_id": "0x3b05ae5d89bc66e9:0",
+    "name": "Amma Building",
+    "address": "C35H+8P4",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:59:35.170479"
+  },
+  {
+    "place_id": "0x3b05af006c6949e7:0",
+    "name": "Barkath Manzil Vazhuthoor Neyyattinkara",
+    "address": "C36P+239",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:59:33.901118"
+  },
+  {
+    "place_id": "0x3b05af57ce455e6d:0",
+    "name": "Elankam palace",
+    "address": "C37P+65H",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:59:32.512778"
+  },
+  {
+    "place_id": "0x3b05af0021cc0b55:0",
+    "name": "Panavila Road Krishnapuram Neyyattinkara",
+    "address": "93VV+J8G",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:59:31.278481"
+  },
+  {
+    "place_id": "0x3b05af88df808c4b:0",
+    "name": "Aneesh Kumar, Kavuvila Manaloor, Neyyattinkara",
+    "address": "93XH+5PH, Mau bhavan, Kavuvila",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:59:30.068571"
+  },
+  {
+    "place_id": "0x3b05af0023b50305:0",
+    "name": "Neyyattinkara alummoodu",
+    "address": "93XP+C96, Nilamel Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:59:28.743345"
+  },
+  {
+    "place_id": "0x3b05af0057eb58cb:0",
+    "name": "D L Nivas, Kadavattaram, Neyyattinkara",
+    "address": "93RQ+H7H",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:59:27.374929"
+  },
+  {
+    "place_id": "0x3b05af0017049a9f:0",
+    "name": "My Home,Grace Hill , Thozhukkal, Neyyattinkara, Trivandrum",
+    "address": "C39M+CFQ",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:59:26.080946"
+  },
+  {
     "place_id": "0x3b05bbaf8dfaa5ed:0",
     "name": "Ariya Nivaas - A Vegetarian Hotel",
     "address": "Trivandrum",
@@ -8899,104 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 10:47:14.277875"
-  },
-  {
-    "place_id": "0x3b05b9007f7be70b:0",
-    "name": "Kesavadasapuram Jyothi Nagar j39A",
-    "address": "GWGR+GJF",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:12.935998"
-  },
-  {
-    "place_id": "0x3b05bb252970c239:0",
-    "name": "RENZ HAIR & BEAUTY SALON LADIES ONLY",
-    "address": "TC 24/2124, Cyber house building, Junction, near Muthoot Bank",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:11.689544"
-  },
-  {
-    "place_id": "0x3b05b9ff78d8bbeb:0",
-    "name": "Alfa used Furniture",
-    "address": "Kesavadasapuram - Venjaramoodu Rd",
-    "category": "Furniture store",
-    "phone": "+91 94470 65296",
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:10.465716"
-  },
-  {
-    "place_id": "0x3b05b999c1505279:0",
-    "name": "TWIN BIRDS",
-    "address": "GWGQ+PHC",
-    "category": "Clothing store",
-    "phone": "+91 90036 66718",
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:09.228316"
-  },
-  {
-    "place_id": "0x3b05b96a0ddd3d4b:0",
-    "name": "Marvel Bakery",
-    "address": "GWRR+XQ7",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:07.989302"
-  },
-  {
-    "place_id": "0x3b05b9c3c977377d:0",
-    "name": "Scandy - Ice Candy - Kesavadasapuram",
-    "address": "Kesavadasapuram-Ulloor Rd, opposite Chaithanya Eye Hospital",
-    "category": "Ice cream shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:06.712757"
-  },
-  {
-    "place_id": "0x3b05b95fa58400d7:0",
-    "name": "Ravi'z Dental Clinic",
-    "address": "GWGQ+VH6",
-    "category": "Dental clinic",
-    "phone": "+91 99954 29888",
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:05.451857"
-  },
-  {
-    "place_id": "0x3b05bba6c6a6baeb:0",
-    "name": "Kalpadrumam Ayurveda Chikitsa Kendram",
-    "address": "FWPX+F66, Power House Rd, East Fort, near Reliance smart",
-    "category": "Alternative medicine practitioner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 10:33:10.259412"
-  },
-  {
-    "place_id": "0x3b05bb34ef192e3d:0",
-    "name": "Thiruvathira Veedu",
-    "address": "Goodwill Tower, Marappalam Rd",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 10:14:24.040808"
-  },
-  {
-    "place_id": "0x3b05bbeba1b3f1ab:0",
-    "name": "Radiance Centre for English Studies",
-    "address": "99, TPJ Nagar Off Plamood Bridge, Pattom, Post",
-    "category": "English language school",
-    "phone": "+91 94960 03388",
-    "website": null,
-    "discovered_at": "2026-11-18 10:14:22.860871"
-  },
-  {
-    "place_id": "0x3b05bff7bf77d68d:0",
-    "name": "AMRIT Pharmacy|VSSC|Trivandrum",
-    "address": "AMRIT PHARMACY VSSC Housing Colony",
-    "category": "Pharmacy",
-    "phone": "+91 94000 27967",
-    "website": null,
-    "discovered_at": "2026-11-18 09:56:10.587934"
   }
 ]
