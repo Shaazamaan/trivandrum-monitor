@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c15e1777f9e9:0",
+    "name": "KH Restaurant and Juice Hub",
+    "address": "JR9R+4RF",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 05:16:36.546420"
+  },
+  {
     "place_id": "0x3b05ba3db51d7de3:0",
     "name": "GAURI PHARMA Discount Medical shop",
     "address": "PTP Nagar Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 22:13:44.639550"
-  },
-  {
-    "place_id": "0x3b05beff3c8a2bef:0",
-    "name": "SAFAR TOWER",
-    "address": "HV6F+MJ8",
-    "category": "Corporate office",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:43.475285"
   }
 ]
