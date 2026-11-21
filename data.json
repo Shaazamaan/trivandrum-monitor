@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05af003a928a9b:0",
+    "name": "POWERFIT GYM (UNISEX)",
+    "address": "C2CC+MP8, Pallichal - Vizhinjam Rd",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 00:50:58.850470"
+  },
+  {
+    "place_id": "0x3b05a56f751f5c5d:0",
+    "name": "Richu's Makeover Studio",
+    "address": "Service Road, Kalluvettankuzhi - Venganoor Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 00:50:57.574468"
+  },
+  {
+    "place_id": "0x3b05bef3748390c3:0",
+    "name": "Yamuna Building",
+    "address": "",
+    "category": "Corporate campus",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 00:50:56.327595"
+  },
+  {
     "place_id": "0x3b05b94c081fa12b:0",
     "name": "SAB Medicals",
     "address": "opposite District Hospital Nedumangad",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 22:13:21.335179"
-  },
-  {
-    "place_id": "0x3b05bf0ff0d064eb:0",
-    "name": "BOBA BOOSTER",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:19.549617"
-  },
-  {
-    "place_id": "0x3b05bffbac230c37:0",
-    "name": "The Authentic Malabari Dum Biriyani",
-    "address": "",
-    "category": "Biryani restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:18.325623"
-  },
-  {
-    "place_id": "0x3b05bf00417602f1:0",
-    "name": "K.B. HOMEOPATHIC SPECIALITY CENTRE",
-    "address": "Opens 5 PM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:17.131523"
   }
 ]
