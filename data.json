@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bc650b0fad55:0",
+    "name": "PINKBERRY BEAUTY HUT",
+    "address": "Road, opposite St. Sebastian church",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 12:40:58.037690"
+  },
+  {
     "place_id": "0x3b05a9cd90fb1e4b:0",
     "name": "Royal Empire Resort",
     "address": "Trivandrum",
@@ -8989,14 +8998,5 @@
     "phone": "+91 96057 41000",
     "website": null,
     "discovered_at": "2026-11-17 23:12:55.036658"
-  },
-  {
-    "place_id": "0x67fe7189265d249:0",
-    "name": "Be Good Event Consulting",
-    "address": "TCIX/3358, Peroor, Gandhipuram Road",
-    "category": "Event management company",
-    "phone": "+91 85901 08979",
-    "website": null,
-    "discovered_at": "2026-11-17 22:21:03.115011"
   }
 ]
