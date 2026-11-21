@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bc3cd165c909:0",
+    "name": "Trivandrum Holidays",
+    "address": "",
+    "category": "Travel agency",
+    "phone": "+91 62828 30831",
+    "website": null,
+    "discovered_at": "2026-11-21 19:50:22.857138"
+  },
+  {
     "place_id": "0x3b05b0be6d052eff:0",
     "name": "Olive Furniture & Interior Design",
     "address": "G25H+699, Rd",
@@ -8989,14 +8998,5 @@
     "phone": "+91 89439 11111",
     "website": null,
     "discovered_at": "2026-11-18 05:12:15.659390"
-  },
-  {
-    "place_id": "0x3b05bb0051909d3b:0",
-    "name": "Eric's home",
-    "address": "TC15/739, Cotton Hill Rd",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 05:12:14.453608"
   }
 ]
