@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb0049bbca33:0",
+    "name": "TRIVANDRUM BITES",
+    "address": "GW8P+3H7, PRA/146A, Gowreesha Pattom Rd",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 15:36:29.345566"
+  },
+  {
     "place_id": "0x3b05bba538017d2b:0",
     "name": "India Hospital",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 02:10:51.649941"
-  },
-  {
-    "place_id": "0x3b05bb8e844bb697:0",
-    "name": "Sunway Tours And Travels",
-    "address": "Junction",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 02:10:50.320027"
   }
 ]
