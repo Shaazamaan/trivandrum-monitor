@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b94c081fa12b:0",
+    "name": "SAB Medicals",
+    "address": "opposite District Hospital Nedumangad",
+    "category": "Medical supply store",
+    "phone": "+91 90483 11251",
+    "website": null,
+    "discovered_at": "2026-11-21 00:44:06.843154"
+  },
+  {
+    "place_id": "0x3b05af0e90bab8c9:0",
+    "name": "Jimikki kada",
+    "address": "shivaparvathy temple",
+    "category": "Jewelry store",
+    "phone": "+91 98950 68812",
+    "website": null,
+    "discovered_at": "2026-11-21 00:44:05.656230"
+  },
+  {
     "place_id": "0x3b05efa787989ef3:0",
     "name": "Kerala Aquarium",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 22:13:17.131523"
-  },
-  {
-    "place_id": "0x3b05bf8e40497789:0",
-    "name": "Vincent Pharmaceuticals",
-    "address": "GVWX+23W, Sreekariyam - Kazhakuttam Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:15.909861"
-  },
-  {
-    "place_id": "0x3b05bfd59ba56e3f:0",
-    "name": "VISWAS, COMMUNITY MEDICAL STORE",
-    "address": "HV8F+V52",
-    "category": "Medical supply store",
-    "phone": "+91 94461 82461",
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:14.757070"
   }
 ]
