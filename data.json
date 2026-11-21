@@ -1,5 +1,185 @@
 [
   {
+    "place_id": "0x3b05bbaf8dfaa5ed:0",
+    "name": "Ariya Nivaas - A Vegetarian Hotel",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:50.929607"
+  },
+  {
+    "place_id": "0x3b05bba5c8228479:0",
+    "name": "Travancore Opticals",
+    "address": "FXQ2+P59, SS Kovil Rd, Near Ayyappan Kovil",
+    "category": "Optician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:49.691641"
+  },
+  {
+    "place_id": "0x3b05bba42585969d:0",
+    "name": "Nagarjuna Ayurveda Aushadasala",
+    "address": "FWQX+9M2, Manjalikulam Rd",
+    "category": "Alternative medicine practitioner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:48.462143"
+  },
+  {
+    "place_id": "0x3b05bbbfbda521eb:0",
+    "name": "Ashtavaidyan Thaikkattu Mooss Ayurveda Clinic",
+    "address": "GW2V+W7P, THAMBURANMUKK, General Hospital Rd",
+    "category": "Business related",
+    "phone": "+91 99468 37599",
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:47.222670"
+  },
+  {
+    "place_id": "0x3b05bb2130fea529:0",
+    "name": "Capital Care ENT and Dental Doctors",
+    "address": "Tc 94/1073, Thampuran Mukku, PO",
+    "category": "Medical clinic",
+    "phone": "+91 98952 62046",
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:45.974698"
+  },
+  {
+    "place_id": "0x3b05bbdbdf5853f5:0",
+    "name": "I Dentiti",
+    "address": "FXQ5+V26",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:44.751711"
+  },
+  {
+    "place_id": "0x3b05baff3e6af88d:0",
+    "name": "All Smiles Dental Clinic",
+    "address": "above Vishakh paint house",
+    "category": "Dental clinic",
+    "phone": "+91 98955 71010",
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:43.410813"
+  },
+  {
+    "place_id": "0x3b05baee4fffffff:0",
+    "name": "Salim’s Dental Clinic",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:42.030802"
+  },
+  {
+    "place_id": "0x3b05bf1bcd5d9491:0",
+    "name": "SAMYAAN HOLIDAYS AND CORPORATE SERVICES PVT. LTD.",
+    "address": "1st Floor, Abhiram Building, NH Bypass",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:40.784519"
+  },
+  {
+    "place_id": "0x3b05bf8eafc0883f:0",
+    "name": "Dreamz Holidays & Events",
+    "address": "Back Gate, GF, Office 103, Dreamz Building, near Technopark Road",
+    "category": "Travel agency",
+    "phone": "+91 99462 14143",
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:39.546849"
+  },
+  {
+    "place_id": "0x3b05bf004bf1e4f1:0",
+    "name": "Signatures Parkside (Premium Villas)",
+    "address": "Thrippadapuram Mahadeva Temple, Signatures Parkside, (Premium Villas From Sreerej Signatures Pvt Ltd.) Phoenix Ln, Road, behind Technopark Trivandrum",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:38.296824"
+  },
+  {
+    "place_id": "0x3b05c073f635256f:0",
+    "name": "Technopark Phase 4, Trivandrum",
+    "address": "",
+    "category": "Technology park",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:35.912348"
+  },
+  {
+    "place_id": "0x3b05baf795e394e7:0",
+    "name": "Foxdale Pvt. Ltd.",
+    "address": "Block C | 6th Floor |, Technopark Trivandrum, Bhavani",
+    "category": "Business management consultant",
+    "phone": "+91 94468 10901",
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:34.605401"
+  },
+  {
+    "place_id": "0x3b05bfeac61042ff:0",
+    "name": "ABOUT HAIR & SKINCARE",
+    "address": "HV5F+HXX, Attinkuzhy Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:33.135824"
+  },
+  {
+    "place_id": "0x3b05befd96dfaa09:0",
+    "name": "S S Mobile",
+    "address": "HV8H+2W8, opp. Engineering College",
+    "category": "Cell phone store",
+    "phone": "+91 81297 99941",
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:31.886096"
+  },
+  {
+    "place_id": "0x3b05bb636206825f:0",
+    "name": "In house Drug Bank",
+    "address": "Golden Jubilee Block SAT Hospital",
+    "category": "Wholesale drugstore",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:28.789851"
+  },
+  {
+    "place_id": "0x3b05be45500e5ec5:0",
+    "name": "Dr.Stanley Jones Siddha Pharmacy (P) Ltd.",
+    "address": "Plot No 43B & 43D, KINFRA International Apparel Park, Menamkulam, Thumba, P.O,",
+    "category": "Manufacturer",
+    "phone": "+91 99460 21134",
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:27.492591"
+  },
+  {
+    "place_id": "0x3b05befbc86fd4f5:0",
+    "name": "Fab Lab Kerala - Trivandrum (LAB)",
+    "address": "KSUM, Ground Floor, IIITM-K Building, Technopark Rd",
+    "category": "Research and product development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:26.258587"
+  },
+  {
+    "place_id": "0x3b05bd5bc706f261:0",
+    "name": "Physical Medicine and Rehabilitation (PMR) Department of KIMS Hospital",
+    "address": "",
+    "category": "Hospital department",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:24.971150"
+  },
+  {
+    "place_id": "0x3b05bb9c0e5ee79b:0",
+    "name": "Dr. Unnikrishnan Ramachandran, Pain and Rehabilitation Physician",
+    "address": "",
+    "category": "Medical Center",
+    "phone": "+91 75103 22098",
+    "website": null,
+    "discovered_at": "2026-11-21 23:00:23.692775"
+  },
+  {
     "place_id": "0x3b05b9b76ae774f3:0",
     "name": "Grand Casa Developers",
     "address": "Grand Casa Address",
@@ -8818,185 +8998,5 @@
     "phone": "+91 94000 27967",
     "website": null,
     "discovered_at": "2026-11-18 09:56:10.587934"
-  },
-  {
-    "place_id": "0x3b05bd3ff6f26b7f:0",
-    "name": "Pradhan Mantri Jan Aushadhi Medical Store.",
-    "address": "GW65+FP8",
-    "category": "Pharmacy",
-    "phone": "+91 89210 96646",
-    "website": null,
-    "discovered_at": "2026-11-18 09:56:09.391639"
-  },
-  {
-    "place_id": "0x3b05bb563403e11f:0",
-    "name": "HPMC Juice Shop",
-    "address": "GX64+27G, Museum, Campus",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 09:41:29.172198"
-  },
-  {
-    "place_id": "0x3b05bb004a60ad49:0",
-    "name": "Wear up",
-    "address": "",
-    "category": "Men's clothing store",
-    "phone": "+91 73068 06645",
-    "website": null,
-    "discovered_at": "2026-11-18 09:41:27.879171"
-  },
-  {
-    "place_id": "0x3b05b9f4d6b4128f:0",
-    "name": "Naadan Restaurant",
-    "address": "GWVR+JXF, Kesavadasapuram - Venjaramoodu Rd",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 09:34:14.246881"
-  },
-  {
-    "place_id": "0x3b05c7004a214fc9:0",
-    "name": "MAMMA’s KITCHEN",
-    "address": "MW2H+F9V Poochedi Provision Store, Manjadimoodu, Trivandrum - Kilimanoor Rd",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 09:34:13.010665"
-  },
-  {
-    "place_id": "0x3b05c148e458b6fb:0",
-    "name": "Chindu Hotel",
-    "address": "SH 1",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 09:34:11.817254"
-  },
-  {
-    "place_id": "0x3b05c19414b91e47:0",
-    "name": "HOTEL HIMALAYAM",
-    "address": "MW76+CWH, SH 1",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 09:34:10.598941"
-  },
-  {
-    "place_id": "0x3b05c6d4ee06f141:0",
-    "name": "Pulimood Restaurant",
-    "address": "MW4C+X5V",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 09:34:09.379164"
-  },
-  {
-    "place_id": "0x3b05ebcc155de959:0",
-    "name": "LABORATORY TALUK HQ HOSPITAL",
-    "address": "",
-    "category": "Hospital department",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 09:24:59.260744"
-  },
-  {
-    "place_id": "0x3b05bb001d4d4f49:0",
-    "name": "Rr home",
-    "address": "C Block, 43/5, Attukal Temple Rd",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 09:17:26.545250"
-  },
-  {
-    "place_id": "0x3b05bbcbcf20df01:0",
-    "name": "Salmara Ayurveda Clinic Trivandrum",
-    "address": "LJ PLAZA, MULAVANA JUNCTION",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 98454 76373",
-    "website": null,
-    "discovered_at": "2026-11-18 08:45:49.267634"
-  },
-  {
-    "place_id": "0x3b05af1ef82d3a2f:0",
-    "name": "AMS Vet Care",
-    "address": "Neeramankuzhi Balaramapuram - Kattakada, Road",
-    "category": "Veterinary pharmacy",
-    "phone": "+91 97458 79239",
-    "website": null,
-    "discovered_at": "2026-11-18 08:38:58.290715"
-  },
-  {
-    "place_id": "0x3b05b1da33600499:0",
-    "name": "Pk pharma",
-    "address": "Closes 6:30 PM",
-    "category": "Open",
-    "phone": "+91 98951 39776",
-    "website": null,
-    "discovered_at": "2026-11-18 08:38:57.111162"
-  },
-  {
-    "place_id": "0x3b05b1d47802316f:0",
-    "name": "Arogya community pharmacy,",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 08:38:55.890974"
-  },
-  {
-    "place_id": "0x3b05b1d1710be5a7:0",
-    "name": "Elbethel",
-    "address": "Market Rd",
-    "category": "Pharmacy",
-    "phone": "+91 97468 08569",
-    "website": null,
-    "discovered_at": "2026-11-18 08:38:54.637996"
-  },
-  {
-    "place_id": "0x3b05b100fc541d27:0",
-    "name": "VAIDYARATNAM KATTAKADA Thaikatt Moss Vaidyaratnam Oushadasala",
-    "address": "Closes 9 PM",
-    "category": "Open",
-    "phone": "+91 85903 55856",
-    "website": null,
-    "discovered_at": "2026-11-18 08:38:53.426728"
-  },
-  {
-    "place_id": "0x3b05b17e7ac03d0b:0",
-    "name": "OUSHADHI",
-    "address": "Closes 6 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 08:38:52.291422"
-  },
-  {
-    "place_id": "0x3b05b1e56452ca99:0",
-    "name": "Neethi Medicals Choondupalaka",
-    "address": "G34Q+8H9, opposite Swaram Layam Theater",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 08:38:51.131935"
-  },
-  {
-    "place_id": "0x3b05b804f76bd33d:0",
-    "name": "Hotel Deluxe",
-    "address": "J243+234, Kacheri Jn",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 08:24:16.960368"
-  },
-  {
-    "place_id": "0x3b05ba147340f8e1:0",
-    "name": "Seenas Supermarket",
-    "address": "PTP Nagar Rd",
-    "category": "Grocery store",
-    "phone": "+91 97475 73613",
-    "website": null,
-    "discovered_at": "2026-11-18 08:24:15.617671"
   }
 ]
