@@ -1,5 +1,95 @@
 [
   {
+    "place_id": "0x3b05ba4b6873e07f:0",
+    "name": "Beacon Green Square",
+    "address": "",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 18:15:50.744632"
+  },
+  {
+    "place_id": "0x3b05bb007d1a4bd9:0",
+    "name": "CASA Madhavam",
+    "address": "FXW8+W8V",
+    "category": "Furnished apartment building",
+    "phone": "+91 91660 84767",
+    "website": null,
+    "discovered_at": "2026-11-21 18:15:49.572835"
+  },
+  {
+    "place_id": "0x3b05bbca5f2018b3:0",
+    "name": "Nina Residency",
+    "address": "KEK Tower, CV Raman Pillai Rd",
+    "category": "Condominium complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 18:15:48.320828"
+  },
+  {
+    "place_id": "0x3b05bb000608b6cf:0",
+    "name": "Homeland builders and Developers",
+    "address": "GX37+G35, Sisuvihar Rd",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 18:15:47.110171"
+  },
+  {
+    "place_id": "0x3b05bb14a13a6f1f:0",
+    "name": "SFS Fairmont",
+    "address": "FXW6+P2V, MP Appan Rd, opposite Anugraha pollution testing centre",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 18:15:45.820695"
+  },
+  {
+    "place_id": "0x3b05bb934f9763dd:0",
+    "name": "FULL ON FOOD HUB - A Multi-Brand Food Court",
+    "address": "YMR Jct",
+    "category": "Food court",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 18:15:44.633475"
+  },
+  {
+    "place_id": "0x3b05bbeaa7c75d03:0",
+    "name": "Breathing Geometry Pvt Ltd",
+    "address": "",
+    "category": "Interior designer",
+    "phone": "+91 97461 06525",
+    "website": null,
+    "discovered_at": "2026-11-21 18:15:43.409594"
+  },
+  {
+    "place_id": "0x3b05ba2c31135921:0",
+    "name": "Powerlink Builders",
+    "address": "G3, Aiswarya",
+    "category": "Home builder",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 18:15:42.262976"
+  },
+  {
+    "place_id": "0x3b05bba9033bf357:0",
+    "name": "A3 Lane, Jawahar Nagar, Kowdiar PO",
+    "address": "GX98+25P",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 18:15:41.094244"
+  },
+  {
+    "place_id": "0x6af7dd8bf69ea695:0",
+    "name": "Casa Early Learning Centre",
+    "address": "M-3, M Street, near Vivekananda Yoga Center",
+    "category": "Kindergarten",
+    "phone": "+91 97460 78244",
+    "website": null,
+    "discovered_at": "2026-11-21 18:15:39.772589"
+  },
+  {
     "place_id": "0x3b05bf08c88957d3:0",
     "name": "Neethi Drug Store",
     "address": "PO",
@@ -8908,95 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 03:23:02.902191"
-  },
-  {
-    "place_id": "0x3b05bbf02b78b815:0",
-    "name": "SS FURNITURE",
-    "address": "",
-    "category": "Furniture manufacturer",
-    "phone": "+91 62822 84154",
-    "website": null,
-    "discovered_at": "2026-11-18 03:23:01.599583"
-  },
-  {
-    "place_id": "0x3b05ab5f34056649:0",
-    "name": "Government veterinary hospital",
-    "address": "Road",
-    "category": "Animal hospital",
-    "phone": "+91 87782 11831",
-    "website": null,
-    "discovered_at": "2026-11-18 03:15:57.679699"
-  },
-  {
-    "place_id": "0x3b05a5a54daf8ec9:0",
-    "name": "KOVALAM BEACH DAY TOURS",
-    "address": "Light House Beach Kovalam, Kovalam Beach Trivandrum",
-    "category": "Sightseeing tour agency",
-    "phone": "+91 98478 72028",
-    "website": null,
-    "discovered_at": "2026-11-18 03:15:56.346453"
-  },
-  {
-    "place_id": "0x3b05c740ca2beee9:0",
-    "name": "ARCHANA HOMOEOS",
-    "address": "SPORTS HUB, ANAD BANK JUNCTION, near to ANAD",
-    "category": "Homeopathic pharmacy",
-    "phone": "+91 98951 40952",
-    "website": null,
-    "discovered_at": "2026-11-18 03:08:19.524715"
-  },
-  {
-    "place_id": "0x3b05b83f6c78cb19:0",
-    "name": "HANA MEDICALS",
-    "address": "HXQQ+3C8, Kaipady Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 03:08:17.909158"
-  },
-  {
-    "place_id": "0x3b05ac1ea8997825:0",
-    "name": "Russell's Bakery & Store",
-    "address": "Vattavila",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 02:57:25.701888"
-  },
-  {
-    "place_id": "0x3b05c141c0708263:0",
-    "name": "Fitness multi gym",
-    "address": "MRQP+HWW",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 02:57:24.352095"
-  },
-  {
-    "place_id": "0x3b05eb1f6b1a5a13:0",
-    "name": "Green House Mini Market",
-    "address": "Mamom Road",
-    "category": "Supermarket",
-    "phone": "+91 85902 49459",
-    "website": null,
-    "discovered_at": "2026-11-18 02:57:23.170420"
-  },
-  {
-    "place_id": "0x3b05b9a2521d415d:0",
-    "name": "ARAPPURAYIL TRAVEL AGENCY",
-    "address": "TCX/2373(2",
-    "category": "Tour operator",
-    "phone": "+91 62383 05540",
-    "website": null,
-    "discovered_at": "2026-11-18 02:47:33.491928"
-  },
-  {
-    "place_id": "0x3b05b93a7ae53ea9:0",
-    "name": "Thulasi Enterprises",
-    "address": "Edavacode,Sreekaryam,Thiruvananthapuram",
-    "category": "Event management company",
-    "phone": "+91 90482 77116",
-    "website": null,
-    "discovered_at": "2026-11-18 02:47:32.270936"
   }
 ]
