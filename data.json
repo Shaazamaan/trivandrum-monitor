@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bf08c88957d3:0",
+    "name": "Neethi Drug Store",
+    "address": "PO",
+    "category": "Medical supply store",
+    "phone": "+91 95393 90041",
+    "website": null,
+    "discovered_at": "2026-11-21 17:54:12.037869"
+  },
+  {
     "place_id": "0x3b05a51e509225ff:0",
     "name": "Government Veterinary Hospital",
     "address": "CXGW+PMX",
@@ -8989,14 +8998,5 @@
     "phone": "+91 90482 77116",
     "website": null,
     "discovered_at": "2026-11-18 02:47:32.270936"
-  },
-  {
-    "place_id": "0x3b05b9005ecbfcab:0",
-    "name": "Thayyil house",
-    "address": "SRA56",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 02:39:54.349467"
   }
 ]
