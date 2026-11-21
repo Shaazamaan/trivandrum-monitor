@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbaa00e0a661:0",
+    "name": "Family Dentists",
+    "address": "Opens 10 AM Mon",
+    "category": "Closed",
+    "phone": "+91 94460 80818",
+    "website": null,
+    "discovered_at": "2026-11-21 20:49:05.972347"
+  },
+  {
+    "place_id": "0x3b05bb766ab914a9:0",
+    "name": "Joseph John and Associates,",
+    "address": "TC 15 / 867, PRA - 16, Vinayaka Ln",
+    "category": "Accounting firm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 20:49:04.720015"
+  },
+  {
     "place_id": "0x3b05bba31b66e901:0",
     "name": "P Ratheesan &Co.",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": "+91 80752 55910",
     "website": null,
     "discovered_at": "2026-11-18 05:58:17.766581"
-  },
-  {
-    "place_id": "0x3b05b941d9b23403:0",
-    "name": "Vee Kay Vees Caterers | Kitchen",
-    "address": "",
-    "category": "Catering food and drink supplier",
-    "phone": "+91 77366 51555",
-    "website": null,
-    "discovered_at": "2026-11-18 05:58:16.558105"
-  },
-  {
-    "place_id": "0x3b05b934e0c23d11:0",
-    "name": "AMRITHA FURNISHINGS",
-    "address": "GHS Rd",
-    "category": "Upholstery shop",
-    "phone": "+91 86061 56868",
-    "website": null,
-    "discovered_at": "2026-11-18 05:58:15.195072"
   }
 ]
