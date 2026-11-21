@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b9fc6a683715:0",
+    "name": "Jaguar fitness centre",
+    "address": "",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 09:06:16.307473"
+  },
+  {
     "place_id": "0x3b05c98caea35fd3:0",
     "name": "Dr. RAHINAS DENTAL CLINIC AND CLINICAL LABORATORY",
     "address": "Attukal, near bank of India",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 22:13:53.925387"
-  },
-  {
-    "place_id": "0x3b05bf5f9b723e49:0",
-    "name": "AV TRAVELS",
-    "address": "AV TRAVELS, near KAZHAKUTTAM",
-    "category": "Taxi service",
-    "phone": "+91 95445 65516",
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:52.515059"
   }
 ]
