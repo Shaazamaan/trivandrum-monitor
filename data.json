@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05b0be6d052eff:0",
+    "name": "Olive Furniture & Interior Design",
+    "address": "G25H+699, Rd",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 19:15:14.325847"
+  },
+  {
+    "place_id": "0x3b05b11928fb8bcb:0",
+    "name": "Rose petals boutique",
+    "address": "662, Thiruvananthapuram - Neyyar Dam Rd, near Juma Masjid",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 19:15:11.449143"
+  },
+  {
+    "place_id": "0x3b05b10009b73051:0",
+    "name": "New Muscut Bakery",
+    "address": "F3XR+QPM, Charupara, Near Viswadeepthi School, Charupar, Kattakada - Ottasekharamangalam Road",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 19:15:10.227277"
+  },
+  {
+    "place_id": "0x3b05b1a35ddd7007:0",
+    "name": "BETHESDA HOME PHYSIOTHERAPY",
+    "address": "",
+    "category": "Physical therapist",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 19:15:08.922056"
+  },
+  {
     "place_id": "0x3b05ef7fa2ed2c11:0",
     "name": "Viji's Beauty Studio",
     "address": "Market Road, near Venkulam",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 05:12:14.453608"
-  },
-  {
-    "place_id": "0x3b05bba5b75d138f:0",
-    "name": "Rzianz Infrastructures Pvt. Ltd.",
-    "address": "462, Easwaravilasam Rd",
-    "category": "Construction company",
-    "phone": "+91 75105 44455",
-    "website": null,
-    "discovered_at": "2026-11-18 05:12:13.219094"
-  },
-  {
-    "place_id": "0x3b05bb6f39698003:0",
-    "name": "Greens Pharma",
-    "address": "TC 3/1318(25).KPRA 65(B, TKD Rd",
-    "category": "Corporate office",
-    "phone": "+91 96335 88281",
-    "website": null,
-    "discovered_at": "2026-11-18 04:58:26.592970"
-  },
-  {
-    "place_id": "0x3b05bba476d8f099:0",
-    "name": "Manyavar",
-    "address": "",
-    "category": "Men's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 04:58:25.296564"
-  },
-  {
-    "place_id": "0x3b05bb00096cbf8b:0",
-    "name": "Drug Gen Pharma",
-    "address": "16/1731, TC, Kannammoola Road",
-    "category": "Pharmacy",
-    "phone": "+91 90482 15908",
-    "website": null,
-    "discovered_at": "2026-11-18 04:50:48.327342"
   }
 ]
