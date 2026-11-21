@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb92bfe2c901:0",
+    "name": "Petzoo",
+    "address": "GW6X+3CH",
+    "category": "Pet store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 13:16:41.669794"
+  },
+  {
+    "place_id": "0x3b05bb0006d787e3:0",
+    "name": "Pain Relief Physiotherapy Clinic",
+    "address": "Closes 8 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 13:16:40.332028"
+  },
+  {
+    "place_id": "0x3b05bb9c40f6f9ed:0",
+    "name": "Amma’s kitchen",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 13:16:39.013146"
+  },
+  {
     "place_id": "0x3b05bc650b0fad55:0",
     "name": "PINKBERRY BEAUTY HUT",
     "address": "Road, opposite St. Sebastian church",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 23:34:54.397203"
-  },
-  {
-    "place_id": "0x3b05bd00601e42ff:0",
-    "name": "SARASS",
-    "address": "Opens 10:30 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 23:27:50.765480"
-  },
-  {
-    "place_id": "0x3b05bb476733e445:0",
-    "name": "STRENGTH LADIES FITNESS STUDIO",
-    "address": "Kavaradi Rd",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 23:27:49.412226"
-  },
-  {
-    "place_id": "0x3b05bba05494633b:0",
-    "name": "ClearIAS Academy",
-    "address": "A5, Kowdiar Ave",
-    "category": "Coaching center",
-    "phone": "+91 96057 41000",
-    "website": null,
-    "discovered_at": "2026-11-17 23:12:55.036658"
   }
 ]
