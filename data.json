@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05ba6b7e5c2519:0",
+    "name": "Community pharmacy",
+    "address": "GX3V+65G",
+    "category": "Pharmacy",
+    "phone": "+91 98955 00662",
+    "website": null,
+    "discovered_at": "2026-11-21 17:17:50.579545"
+  },
+  {
     "place_id": "0x3b05bff5afb136f9:0",
     "name": "Margin free Market",
     "address": "11 PM",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 02:39:53.147528"
-  },
-  {
-    "place_id": "0x3b05b90066e3cafd:0",
-    "name": "VRINDAVAN KESAVADASAPURAM",
-    "address": "B15",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 02:39:51.908147"
   }
 ]
