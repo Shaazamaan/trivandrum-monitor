@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb0008b54721:0",
+    "name": "Amer Gustoso Resto",
+    "address": "near ICICI Bank",
+    "category": "Eclectic restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 04:26:25.711695"
+  },
+  {
     "place_id": "0x3b05b93a376fe437:0",
     "name": "Mangalath Makeover Studio",
     "address": "Closes 7 PM",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-17 22:13:42.108764"
-  },
-  {
-    "place_id": "0x3b05bf007eab24c5:0",
-    "name": "Galaxy Techno, Kazhakoottam",
-    "address": "HV3M+7CJ",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:40.682155"
   }
 ]
