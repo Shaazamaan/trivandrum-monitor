@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05efa787989ef3:0",
+    "name": "Kerala Aquarium",
+    "address": "",
+    "category": "Aquarium shop",
+    "phone": "+91 98951 31499",
+    "website": null,
+    "discovered_at": "2026-11-21 00:27:14.667139"
+  },
+  {
+    "place_id": "0x3b05e9537dc6b0e3:0",
+    "name": "Royal Pets & Aquarium",
+    "address": "Bus Stop, Varkala Kallambalam Rd",
+    "category": "Pet store",
+    "phone": "+91 70123 35452",
+    "website": null,
+    "discovered_at": "2026-11-21 00:27:13.036094"
+  },
+  {
+    "place_id": "0x3b05bfd9031012f9:0",
+    "name": "Mezban weddings and events",
+    "address": "mezban caterers and events, behind mezban restaurant",
+    "category": "Event management company",
+    "phone": "+91 98956 03288",
+    "website": null,
+    "discovered_at": "2026-11-21 00:27:11.790620"
+  },
+  {
+    "place_id": "0x3b05bec9669cc8eb:0",
+    "name": "Muttampuram pond",
+    "address": "GWX6+QQG",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 00:27:10.182650"
+  },
+  {
+    "place_id": "0x3b05bf002e7a79e9:0",
+    "name": "NAGARJUNA AYURVEDA AGENCY",
+    "address": "GWW8+PGP",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 00:27:08.960346"
+  },
+  {
+    "place_id": "0x3b05b94ebc77c5b3:0",
+    "name": "BABU OPTICALS",
+    "address": "Opens 10:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-21 00:27:07.638627"
+  },
+  {
     "place_id": "0x3b05bb0051d382d3:0",
     "name": "Leaftoonz",
     "address": "GWF9+9CC, Ulloor - Akkulam Rd",
@@ -8944,59 +8998,5 @@
     "phone": "+91 94461 82461",
     "website": null,
     "discovered_at": "2026-11-17 22:13:14.757070"
-  },
-  {
-    "place_id": "0x3b05c1d90bfcdf53:0",
-    "name": "CheqUp Healthcare",
-    "address": "Chequp Asterix Pvt Ltd Kattaikonam Kazhakoottam Road Thiruvananthapuram P O",
-    "category": "Medical group",
-    "phone": "+91 90484 84904",
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:13.562054"
-  },
-  {
-    "place_id": "0x3b05bf07d3cdbb23:0",
-    "name": "SreeRudram Marmma Thirummu Kalari Sanghom",
-    "address": "Gowri Nivas Arasummodu, near Teddy Buddies Primary school",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 82898 61437",
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:12.115177"
-  },
-  {
-    "place_id": "0x3b05bf6033f19c07:0",
-    "name": "Agastheshwara Ayurvedashaala",
-    "address": "HV72+RM2",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:10.937827"
-  },
-  {
-    "place_id": "0x3b05bf8c29686073:0",
-    "name": "Body Relief",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": "+91 82817 99301",
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:09.728473"
-  },
-  {
-    "place_id": "0x3b05bf0004fbb1ab:0",
-    "name": "Angadikkada",
-    "address": "HV8F+95J",
-    "category": "General store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:08.541221"
-  },
-  {
-    "place_id": "0x3b05bf7aedb657d7:0",
-    "name": "Dr. Subhash KS , BSMS, MHA (Siddha & Ayurveda)",
-    "address": "Feenix Medicals, Kazhakoottam, opposite Karthika Park Hotel",
-    "category": "Doctor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-17 22:13:07.191779"
   }
 ]
