@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05e9f91d430ec5:0",
+    "name": "Top Cell",
+    "address": "MRW9+867",
+    "category": "Duty free store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 15:11:10.013088"
+  },
+  {
+    "place_id": "0x3b05e9b848dd36f3:0",
+    "name": "SALMA NAZAR T K",
+    "address": "LAL ASSOCIATES LAL ASSOCIATES, C Ss Plaza",
+    "category": "Cell phone store",
+    "phone": "+91 98461 08154",
+    "website": null,
+    "discovered_at": "2026-11-22 15:11:08.172916"
+  },
+  {
+    "place_id": "0x3b05e98b77eae979:0",
+    "name": "Bix-Pro",
+    "address": "bus stop, opposite Kilimanoor - Alamcode Road",
+    "category": "Cell phone store",
+    "phone": "+91 81297 38320",
+    "website": null,
+    "discovered_at": "2026-11-22 15:11:05.725085"
+  },
+  {
+    "place_id": "0x3b05e968360def3f:0",
+    "name": "STAR MOBILES",
+    "address": "Attingal, Kacherinada, Road, near Private Bus Stand",
+    "category": "Cell phone store",
+    "phone": "+91 99956 20020",
+    "website": null,
+    "discovered_at": "2026-11-22 15:11:04.569472"
+  },
+  {
+    "place_id": "0x3b05e9f0bafbf261:0",
+    "name": "OPPO Exclusive Showroom, Attingal",
+    "address": "",
+    "category": "Cell phone store",
+    "phone": "+91 85899 85584",
+    "website": null,
+    "discovered_at": "2026-11-22 15:11:03.351889"
+  },
+  {
+    "place_id": "0x3b05e98ea0997189:0",
+    "name": "MJ MOBILES",
+    "address": "Junction",
+    "category": "Store",
+    "phone": "+91 89435 99996",
+    "website": null,
+    "discovered_at": "2026-11-22 15:11:02.144131"
+  },
+  {
+    "place_id": "0x3b05e9b52cfba6a1:0",
+    "name": "Rose Petals Gents Beauty Saloon",
+    "address": "1st Floor, Kalyani Mall, Marakkadamukku",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 15:11:00.877368"
+  },
+  {
+    "place_id": "0x3b05ef4eed1770f7:0",
+    "name": "NR KITCHEN EQUIPMENTS FACTORY OUTLET",
+    "address": "QP6G+MG3",
+    "category": "Kitchen supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 15:10:59.665932"
+  },
+  {
     "place_id": "0x3b05bd5dde1136f7:0",
     "name": "Dr Santhosh Joseph",
     "address": "KIMSHEALTH East Vinod Nagar Road",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 01:03:50.498133"
-  },
-  {
-    "place_id": "0x3b05c1bf21ca125b:0",
-    "name": "Thejas Jewels",
-    "address": "Vavarayambalam",
-    "category": "Jewelry store",
-    "phone": "+91 74034 19993",
-    "website": null,
-    "discovered_at": "2026-11-19 01:03:49.278240"
-  },
-  {
-    "place_id": "0x3b05c16ca06ab871:0",
-    "name": "Rajakumari Wedding Centre",
-    "address": "",
-    "category": "Shopping mall",
-    "phone": "+91 93499 47713",
-    "website": null,
-    "discovered_at": "2026-11-19 01:03:48.043822"
-  },
-  {
-    "place_id": "0x3b05c0a33b417de7:0",
-    "name": "ASHAN STORES",
-    "address": "Ashan Store",
-    "category": "Furniture store",
-    "phone": "+91 93877 72172",
-    "website": null,
-    "discovered_at": "2026-11-19 01:03:46.786239"
-  },
-  {
-    "place_id": "0x3b05c13b905df3e9:0",
-    "name": "Anaswara Boutique",
-    "address": "Pothencod",
-    "category": "Tailor",
-    "phone": "+91 89211 08365",
-    "website": null,
-    "discovered_at": "2026-11-19 01:03:45.545728"
-  },
-  {
-    "place_id": "0x3b05bf9f338ba96f:0",
-    "name": "SHINE JUICE AND COOL BAR",
-    "address": "SHINE JUICE AND COOL BAR, POTHENCODE ROAD",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:03:44.294726"
-  },
-  {
-    "place_id": "0x3b05c1a398f62213:0",
-    "name": "MALOOS Hotel",
-    "address": "JVFP+VC8",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:03:42.888343"
-  },
-  {
-    "place_id": "0x3b05c7002e7e313b:0",
-    "name": "HOME CARE PHYSIOTHERAPY & REHABILITATION",
-    "address": "JW8F+WQP, Kaduvakuzhy konchira, Vembayam - Pothencode Rd",
-    "category": "Physical therapist",
-    "phone": "+91 89219 52001",
-    "website": null,
-    "discovered_at": "2026-11-19 01:03:41.541799"
-  },
-  {
-    "place_id": "0x3b05c1001dc80577:0",
-    "name": "CARE HOSPITAL",
-    "address": "",
-    "category": "Hospital",
-    "phone": "+91 80899 93367",
-    "website": null,
-    "discovered_at": "2026-11-19 01:03:40.306883"
   }
 ]
