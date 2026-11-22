@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c6b595e8cadd:0",
+    "name": "FAMILY GENERAL STORE & BAKERY",
+    "address": "MWGC+HW2, Pirappancode - Thembamoodu Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 21:19:38.089090"
+  },
+  {
     "place_id": "0x3b05c10009931eef:0",
     "name": "Harshad Family Restaurant",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 03:48:14.326953"
-  },
-  {
-    "place_id": "0x3b05bbce277ff871:0",
-    "name": "CED Hospital",
-    "address": "",
-    "category": "Hospital",
-    "phone": "+91 90745 37794",
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:13.201673"
   }
 ]
