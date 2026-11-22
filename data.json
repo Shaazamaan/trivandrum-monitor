@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb93c1688c7d:0",
+    "name": "The Painfree Physio",
+    "address": "FWXM+MGM",
+    "category": "Physical therapy clinic",
+    "phone": "+91 94000 12548",
+    "website": null,
+    "discovered_at": "2026-11-22 23:50:57.188047"
+  },
+  {
     "place_id": "0x3b05b92c0f7f2e19:0",
     "name": "Rajesh house",
     "address": "H225+3RQ",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 03:48:24.843312"
-  },
-  {
-    "place_id": "0x3b05bbd227553fa1:0",
-    "name": "Pure fitness",
-    "address": "",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:23.675709"
   }
 ]
