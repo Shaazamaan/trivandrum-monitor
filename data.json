@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05ab2433fd3221:0",
+    "name": "Lyra Wedding Company",
+    "address": "Closes 8 PM",
+    "category": "Open",
+    "phone": "+91 98098 39220",
+    "website": null,
+    "discovered_at": "2026-11-22 10:38:01.986357"
+  },
+  {
+    "place_id": "0x3b05ab683f50a587:0",
+    "name": "HUMAN BEAUTY FACTORY",
+    "address": "post office, jn, opposite rajan bakery",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 10:38:00.786728"
+  },
+  {
+    "place_id": "0x3b05ab5443f6e753:0",
+    "name": "Ponnupilla Vaidyar's Vaidyasala",
+    "address": "84GP+QJP, Chenkavila - Charottukonam Rd",
+    "category": "Hospital",
+    "phone": "+91 94469 71458",
+    "website": null,
+    "discovered_at": "2026-11-22 10:37:59.598304"
+  },
+  {
+    "place_id": "0x3b044d4fffdd10af:0",
+    "name": "Phoenix R3 physiotherapy and speechtherapy clinic",
+    "address": "Opens 2 PM Mon",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 10:37:58.389169"
+  },
+  {
     "place_id": "0x3b05b1002c68e169:0",
     "name": "M S Lifecare Pharmacy",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": "+91 73068 04892",
     "website": null,
     "discovered_at": "2026-11-18 17:05:12.282580"
-  },
-  {
-    "place_id": "0x3b05ba22e7c33cfb:0",
-    "name": "Archa's Boutique",
-    "address": "GX8P+X2H",
-    "category": "Clothing alteration service",
-    "phone": "+91 93499 75573",
-    "website": null,
-    "discovered_at": "2026-11-18 16:50:02.807985"
-  },
-  {
-    "place_id": "0x3b05b6b3bdc0c531:0",
-    "name": "JAY MEDICALS",
-    "address": "G3MP+GP6",
-    "category": "Pharmacy",
-    "phone": "+91 94479 80906",
-    "website": null,
-    "discovered_at": "2026-11-18 16:36:00.625654"
-  },
-  {
-    "place_id": "0x3b05b7fcac0c128b:0",
-    "name": "AKSHAYA COMMUNITY PHARMACY",
-    "address": "10:30 PM",
-    "category": "Closes soon",
-    "phone": "+91 75103 04041",
-    "website": null,
-    "discovered_at": "2026-11-18 16:35:59.392850"
-  },
-  {
-    "place_id": "0x3b05a5001d8ecb6b:0",
-    "name": "Neethi Medicals Store",
-    "address": "Tc-64/436, Neethi Medicals Store, near Thuppanathu Kavu Sree Rajarajeswari Temple, Vazhamuttom",
-    "category": "Pharmacy",
-    "phone": "+91 98956 66668",
-    "website": null,
-    "discovered_at": "2026-11-18 16:28:52.859138"
   }
 ]
