@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05c9e5208b469d:0",
+    "name": "Shafi vithura",
+    "address": "M3GP+43Q",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 13:56:13.332090"
+  },
+  {
+    "place_id": "0x3b05b9d34ac7143f:0",
+    "name": "SAVARIYA THE BEAUTY LOUNGE",
+    "address": "TKD Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 13:56:11.821389"
+  },
+  {
+    "place_id": "0x3b05c953ed3ff2d1:0",
+    "name": "R S M STORE",
+    "address": "Shop No 1, RSM Store, Thiruvananthapuram - Ponmudi Rd, near Sivankovil Market Junction",
+    "category": "Wholesaler",
+    "phone": "+91 94952 44960",
+    "website": null,
+    "discovered_at": "2026-11-22 13:56:10.638050"
+  },
+  {
+    "place_id": "0x3b05b9d1a5cc7141:0",
+    "name": "Aswas Diagnostics Vattapara",
+    "address": "1/460(A),Opp Police Station, Vattapara near, opp. Police Station",
+    "category": "Diagnostic center",
+    "phone": "+91 95674 70124",
+    "website": null,
+    "discovered_at": "2026-11-22 13:56:09.411654"
+  },
+  {
+    "place_id": "0x3b05ab64bfcf85c1:0",
+    "name": "Reenu Physiotherapy Clinic",
+    "address": "12/49 Augustine Ilam Thiruthuvapuram Kuzhithurai Post Kk District 629163 Thiruthuvapuram NH 44",
+    "category": "Doctor",
+    "phone": "+91 75980 81878",
+    "website": null,
+    "discovered_at": "2026-11-22 13:56:08.236012"
+  },
+  {
+    "place_id": "0x3b05c18556906ca3:0",
+    "name": "Nakshatra Residency",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 13:56:07.009744"
+  },
+  {
+    "place_id": "0x3b05bbfa8ce8302b:0",
+    "name": "Moonlight Beauty Parlour & Wellness Spa",
+    "address": "Uppalam Rd, near Old Employment Exchange",
+    "category": "Wellness center",
+    "phone": "+91 98957 90971",
+    "website": null,
+    "discovered_at": "2026-11-22 13:56:05.579224"
+  },
+  {
     "place_id": "0x3b05bb000b21ba8d:0",
     "name": "ocean aquarium",
     "address": "FWGW+6HF",
@@ -8935,68 +8998,5 @@
     "phone": "+91 96564 45132",
     "website": null,
     "discovered_at": "2026-11-19 00:35:11.516566"
-  },
-  {
-    "place_id": "0x3b05e9f8cd62ca37:0",
-    "name": "M S Silver Palace",
-    "address": "MRWC+22J, Ayilam Rd",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 00:23:16.570445"
-  },
-  {
-    "place_id": "0x3b05b9003e34b98f:0",
-    "name": "Flash Productions",
-    "address": "HW6C+F97, Sreekariyam - Powdikonam - Pothencode Rd",
-    "category": "Event planner",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 00:14:19.347763"
-  },
-  {
-    "place_id": "0x3b05afb4dc7c79a1:0",
-    "name": "ASWATHY STORE",
-    "address": "SHOP NO1, ASWATHY STORE, KALLAMBALAM CSI CHURCH ROAD, near CSI CHURCH",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 23:09:48.648716"
-  },
-  {
-    "place_id": "0x3b05cee1bba0c4d3:0",
-    "name": "Kichuz BAKERY & SOFA MAKERS",
-    "address": "P3G5+J8H, Vithura - Peringammala Road",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 23:09:47.458201"
-  },
-  {
-    "place_id": "0x3b05c038a9fbf6e9:0",
-    "name": "A.J. College of Pharmacy",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 23:09:46.298310"
-  },
-  {
-    "place_id": "0x3b05a5440a95f269:0",
-    "name": "ALISHA TRAVELS",
-    "address": "CWWX+WMM, ALISHA TOURS & TRAVELS, AMINA PLAZA FIRST FLOOR AMINA PLAZA N. H KOVALAM BYPASS, P.O NEAR",
-    "category": "Tour agency",
-    "phone": "+91 92077 99233",
-    "website": null,
-    "discovered_at": "2026-11-18 22:48:19.178047"
-  },
-  {
-    "place_id": "0x3b05bf00578e8b47:0",
-    "name": "Mizhi Boutique",
-    "address": "Kolathukara Temple Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 22:41:25.409820"
   }
 ]
