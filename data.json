@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05ad37ba18ea7f:0",
+    "name": "Muscle Bull fitness Hub",
+    "address": "C4R5+2QW, opp. Indian Overseas Bank",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 22:46:23.395955"
+  },
+  {
+    "place_id": "0x3b05afbee3b98a4d:0",
+    "name": "Kannan Bakery",
+    "address": "Aralumoodu",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 22:46:22.126684"
+  },
+  {
     "place_id": "0x3b05b9e207aab3eb:0",
     "name": "Care 32 Dental Designs",
     "address": "GWGH+669, Medical College Ulloor Rd",
@@ -8980,23 +8998,5 @@
     "phone": "+91 94000 09212",
     "website": null,
     "discovered_at": "2026-11-19 03:48:19.076117"
-  },
-  {
-    "place_id": "0x3b05ba1c620e7da3:0",
-    "name": "M J Timbers",
-    "address": "Vatiyoorkavu, Nambanvankavu P O",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:17.946953"
-  },
-  {
-    "place_id": "0x3b05ba26b33ac507:0",
-    "name": "VEE YES Upholstery Works",
-    "address": "TC 38, 658, Thozhuvancodu Ln",
-    "category": "Upholstery shop",
-    "phone": "+91 94001 09988",
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:16.737305"
   }
 ]
