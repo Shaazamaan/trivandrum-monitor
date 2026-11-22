@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b9318a0bdac7:0",
+    "name": "MR SONS",
+    "address": "MR STORE, Vazhayila - Kallayam Rd",
+    "category": "Grocery store",
+    "phone": "+91 80728 68970",
+    "website": null,
+    "discovered_at": "2026-11-22 20:58:17.285741"
+  },
+  {
     "place_id": "0x3b05b9979224abef:0",
     "name": "Krishna beauty salon",
     "address": "near planet soda, opp. Vattiyoorkavu UP School",
@@ -8989,14 +8998,5 @@
     "phone": "+91 96338 60400",
     "website": null,
     "discovered_at": "2026-11-19 03:48:10.792540"
-  },
-  {
-    "place_id": "0x3b05bb000571be93:0",
-    "name": "Happy fresh juice",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:38:02.345552"
   }
 ]
