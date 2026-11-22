@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb000b21ba8d:0",
+    "name": "ocean aquarium",
+    "address": "FWGW+6HF",
+    "category": "Aquarium shop",
+    "phone": "+91 70124 77443",
+    "website": null,
+    "discovered_at": "2026-11-22 13:34:48.648363"
+  },
+  {
     "place_id": "0x3b05b0a4fd51b3b5:0",
     "name": "Dasia optics and Eye Clinic",
     "address": "opp. Aswas, near SP Cinemas",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 22:41:25.409820"
-  },
-  {
-    "place_id": "0x3b05a5a35e32e79d:0",
-    "name": "Villa Anandha Ayurvedic center",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": "+91 97452 21336",
-    "website": null,
-    "discovered_at": "2026-11-18 22:34:26.561005"
   }
 ]
