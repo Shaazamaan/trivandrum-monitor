@@ -1,5 +1,176 @@
 [
   {
+    "place_id": "0x3b05c11efd697e93:0",
+    "name": "Jazz Building",
+    "address": "MWH6+826, East Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:57.648543"
+  },
+  {
+    "place_id": "0x3b05c111ec9b6da1:0",
+    "name": "Midhila-Kaliyalil Veedu",
+    "address": "MV7X+J39, Venjaramoodu - Aaliyadu Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:56.357778"
+  },
+  {
+    "place_id": "0x3b05c1005557eb67:0",
+    "name": "Darul safvan",
+    "address": "MWG2+86G, Puthur - Venjaramoodu Road",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:55.094145"
+  },
+  {
+    "place_id": "0x3b05c70040c61957:0",
+    "name": "Venjaramoodu Kerala",
+    "address": "MWMF+G5",
+    "category": "Farm",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:53.812230"
+  },
+  {
+    "place_id": "0x3b05c1004a191d01:0",
+    "name": "Thiruvadiyil Veedu ,Venjaramoodu",
+    "address": "MWF6+6MP",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:52.550256"
+  },
+  {
+    "place_id": "0x3b05c7001fc2647f:0",
+    "name": "Venjaramoodu ponnambi",
+    "address": "MW99+8GW",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:51.202543"
+  },
+  {
+    "place_id": "0x3b05c100103342c7:0",
+    "name": "Muhammed Rafi",
+    "address": "Rahath manzil, Venjaramoodu Market Road",
+    "category": "Housing society",
+    "phone": "+91 63818 57880",
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:49.472911"
+  },
+  {
+    "place_id": "0x3b05b900470a94a5:0",
+    "name": "Nidhi",
+    "address": "HW3V+F49, Kesavadasapuram - Venjaramoodu Rd",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:48.157184"
+  },
+  {
+    "place_id": "0x3b05c169fe4fbbdb:0",
+    "name": "SR Buildings",
+    "address": "MVHW+W22",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:46.917249"
+  },
+  {
+    "place_id": "0x3b05c10066befd23:0",
+    "name": "Sudarshanalayam Near Santhimadom Venjaramoodu PO",
+    "address": "Suhas auditorium, Road",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:45.606954"
+  },
+  {
+    "place_id": "0x3b05c10061fb5579:0",
+    "name": "Thycaud, Venjaramood",
+    "address": "MW85+3XG",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:44.351131"
+  },
+  {
+    "place_id": "0x3b05c71bcf1bf797:0",
+    "name": "VENJARAMOODU kallidukk",
+    "address": "MWP9+HMV",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:43.000907"
+  },
+  {
+    "place_id": "0x3b05c79ce2e0fa67:0",
+    "name": "Sidhus Bakery & powerX swimming equipment",
+    "address": "JWWH+563, Kesavadasapuram - Venjaramoodu Rd",
+    "category": "General store",
+    "phone": "+91 75588 00900",
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:41.683755"
+  },
+  {
+    "place_id": "0x3b05c18c14ad52e3:0",
+    "name": "Kudampuli Restaurant Panavoor - Venjaramood",
+    "address": "MWJ7+JXP",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:40.309762"
+  },
+  {
+    "place_id": "0x3b05c08d006fa743:0",
+    "name": "A.R Medicals",
+    "address": "Vavara Ambalam junction",
+    "category": "Pharmacy",
+    "phone": "+91 99474 54001",
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:39.029563"
+  },
+  {
+    "place_id": "0x3b05c392576713a5:0",
+    "name": "DDRC Agilus Diagnostics, Karette",
+    "address": "PVHX+F88",
+    "category": "Laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:37.812156"
+  },
+  {
+    "place_id": "0x3b05c300664a0f55:0",
+    "name": "Alamcode,kilimanoor road",
+    "address": "kp13/12, Fathima manzil, Kilimanoor - Alamcode Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:36.462624"
+  },
+  {
+    "place_id": "0x3b05bfdbd186fb4d:0",
+    "name": "Anil Motor Driving School",
+    "address": "Opens 9:30 AM Mon",
+    "category": "Closed",
+    "phone": "+91 94476 96965",
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:35.102279"
+  },
+  {
+    "place_id": "0x3b05bb09d6e29d4b:0",
+    "name": "S.IBRAHIM & CO",
+    "address": "",
+    "category": "Appliance store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:22:33.601111"
+  },
+  {
     "place_id": "0x3b05ba6b85fe5d93:0",
     "name": "Aswas Community Pharmacy Thirumala",
     "address": "10 PM",
@@ -8827,176 +8998,5 @@
     "phone": "+91 99951 56996",
     "website": null,
     "discovered_at": "2026-11-19 01:39:42.889306"
-  },
-  {
-    "place_id": "0x3b05c171e9364d37:0",
-    "name": "MDC SCANS AND LABORATORY",
-    "address": "Mangalapuram- Murumkupuzha, Road",
-    "category": "Diagnostic center",
-    "phone": "+91 92880 07284",
-    "website": null,
-    "discovered_at": "2026-11-19 01:25:46.591300"
-  },
-  {
-    "place_id": "0x3b05bbc395328aab:0",
-    "name": "Stayzone Haritham",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": "+91 70341 00058",
-    "website": null,
-    "discovered_at": "2026-11-19 01:25:45.348226"
-  },
-  {
-    "place_id": "0x3b05bb89457d1ba7:0",
-    "name": "Aastha Homes",
-    "address": "Opens 9:30 a.m.",
-    "category": "Closed",
-    "phone": "+91 97475 62565",
-    "website": null,
-    "discovered_at": "2026-11-19 01:25:44.033985"
-  },
-  {
-    "place_id": "0x3b05bbe44d8203c7:0",
-    "name": "New wave Academy",
-    "address": "",
-    "category": "Education center",
-    "phone": "+91 80750 77256",
-    "website": null,
-    "discovered_at": "2026-11-19 01:25:42.630445"
-  },
-  {
-    "place_id": "0x3b05bbeeabb3936d:0",
-    "name": "Bodhi Entrance Academy",
-    "address": "",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:25:41.380037"
-  },
-  {
-    "place_id": "0x3b05ba0325c8220f:0",
-    "name": "Seethal Bakery",
-    "address": "H1, Vattiyoorkavu - Kulasekharam Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:04:13.349052"
-  },
-  {
-    "place_id": "0x3b05b9b661d967af:0",
-    "name": "cuddle cafe",
-    "address": "Vattiyoorkavu - Kulasekharam Rd",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:04:12.054456"
-  },
-  {
-    "place_id": "0x3b05b9489026971d:0",
-    "name": "Surendra Trident",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:04:10.745539"
-  },
-  {
-    "place_id": "0x3b05ba243ac4f213:0",
-    "name": "BEAUTY PETS",
-    "address": "Rugmini Arcade, Vattiyoorkkav-Arappura Rd, near ICICI Bank",
-    "category": "Pet store",
-    "phone": "+91 89435 40479",
-    "website": null,
-    "discovered_at": "2026-11-19 01:04:09.524155"
-  },
-  {
-    "place_id": "0x3b05b9157adc4eb5:0",
-    "name": "NEYYAR PHARMA AGENCIES",
-    "address": "opp. ANOOP TRADERS",
-    "category": "Pharmaceutical products wholesaler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:04:08.190982"
-  },
-  {
-    "place_id": "0x3b05b9ed08cf0585:0",
-    "name": "SREE VINAYAKA DRUG LINES",
-    "address": "Kamala Tower",
-    "category": "Medical supply store",
-    "phone": "+91 98957 00256",
-    "website": null,
-    "discovered_at": "2026-11-19 01:04:06.913502"
-  },
-  {
-    "place_id": "0x3b05bb938a3f266d:0",
-    "name": "Viswas Fair Price Medical Services Vattiyoorkavu",
-    "address": "Mannarakonam - Thoppumukku Rd",
-    "category": "Medical supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:04:05.364470"
-  },
-  {
-    "place_id": "0x3b05ba1f79117535:0",
-    "name": "Urban Primary Health Center Vattiyoorkavu",
-    "address": "",
-    "category": "Medical Center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:04:04.062817"
-  },
-  {
-    "place_id": "0x3b05bbc9bb4877dd:0",
-    "name": "Dev Ayurvedic Spine Care Clinic",
-    "address": "Thoppumukku junction, Vattiyorkavu",
-    "category": "Ayurvedic clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:04:02.676088"
-  },
-  {
-    "place_id": "0x3b05ba22408a6c59:0",
-    "name": "Vattiyoorkavu M Krishna Pillai Memorial NSS Karayogam",
-    "address": "Eswari Amman Kovil Rd",
-    "category": "Social services organization",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:04:00.858497"
-  },
-  {
-    "place_id": "0x3b05bb6f17229db1:0",
-    "name": "Hanumat Agencies Pvt Ltd",
-    "address": "TC 10/1907, Manjadimoodu",
-    "category": "Dental supply store",
-    "phone": "+91 97789 20952",
-    "website": null,
-    "discovered_at": "2026-11-19 01:03:59.614905"
-  },
-  {
-    "place_id": "0x3b05b9d2fab700e1:0",
-    "name": "Varampath Enclave",
-    "address": "Varampath Enclave, Peroorkada Vattiyoorkavu Rd, behind Bus Stop",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:03:58.355240"
-  },
-  {
-    "place_id": "0x3b05bb9e66c2e0e7:0",
-    "name": "Hai Holidays & Travel Solutions Trivandrum",
-    "address": "Tower,93, G A, MKK Nair Rd, near Trivandrum international Airport",
-    "category": "Travel agency",
-    "phone": "+91 81291 33042",
-    "website": null,
-    "discovered_at": "2026-11-19 01:03:57.080099"
-  },
-  {
-    "place_id": "0x3b05c7b35feb50c9:0",
-    "name": "S R Associatez Tours and Travels",
-    "address": "",
-    "category": "Travel agency",
-    "phone": "+91 90610 39881",
-    "website": null,
-    "discovered_at": "2026-11-19 01:03:55.823983"
   }
 ]
