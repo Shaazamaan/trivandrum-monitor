@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c10009931eef:0",
+    "name": "Harshad Family Restaurant",
+    "address": "",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 21:12:18.585091"
+  },
+  {
+    "place_id": "0x3b05c10006a9cef9:0",
+    "name": "Shaija's Kitchen",
+    "address": "JR5Q+QH9",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 21:12:17.268738"
+  },
+  {
     "place_id": "0x3b05b9318a0bdac7:0",
     "name": "MR SONS",
     "address": "MR STORE, Vazhayila - Kallayam Rd",
@@ -8980,23 +8998,5 @@
     "phone": "+91 90745 37794",
     "website": null,
     "discovered_at": "2026-11-19 03:48:13.201673"
-  },
-  {
-    "place_id": "0x3b05b9b63d6a2487:0",
-    "name": "DrDictins and VKM speciality ayurveda proctology clinic",
-    "address": "pappad road",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:12.043065"
-  },
-  {
-    "place_id": "0x3b05b9556e80299f:0",
-    "name": "Dr Mathew John",
-    "address": "Closes 7:30 PM",
-    "category": "Open",
-    "phone": "+91 96338 60400",
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:10.792540"
   }
 ]
