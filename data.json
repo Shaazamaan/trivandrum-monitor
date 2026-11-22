@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c1178135a52f:0",
+    "name": "J.Bells smart phone service center",
+    "address": "",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 73563 65686",
+    "website": null,
+    "discovered_at": "2026-11-22 00:55:38.389136"
+  },
+  {
     "place_id": "0x3b05b168f71a6cad:0",
     "name": "Nanda BAKERY",
     "address": "G34Q+8HP, Choondupalaka",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 10:47:16.823943"
-  },
-  {
-    "place_id": "0x3b05b9c399e1af4d:0",
-    "name": "Kesvadasapuram Postal and Telecome Staff Quarters",
-    "address": "GWHP+6XF",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:15.583207"
   }
 ]
