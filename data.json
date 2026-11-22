@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05c3f122f96251:0",
+    "name": "Latha medicals",
+    "address": "MVX9+GP8 poomugham builders",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 11:28:14.870803"
+  },
+  {
+    "place_id": "0x3b05e1e4b5baf86b:0",
+    "name": "Palavilayil Medicals",
+    "address": "MC Rd",
+    "category": "Pharmacy",
+    "phone": "+91 79949 49331",
+    "website": null,
+    "discovered_at": "2026-11-22 11:28:13.639920"
+  },
+  {
+    "place_id": "0x3b05b707cb6e623f:0",
+    "name": "Reliance Smart Point",
+    "address": "MIDHUN PROPERTY OPPOSITE SBI BANK PULIYARAKKONAM VILAPPIL",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 11:28:12.311153"
+  },
+  {
     "place_id": "0x3b05c3268f437d1b:0",
     "name": "Saji Hospital",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": "+91 94006 25695",
     "website": null,
     "discovered_at": "2026-11-18 19:24:47.862012"
-  },
-  {
-    "place_id": "0x3b05b83da17b4647:0",
-    "name": "SR Medicals",
-    "address": "HXRW+26G, Pathamkallu",
-    "category": "Pharmacy",
-    "phone": "+91 85471 03283",
-    "website": null,
-    "discovered_at": "2026-11-18 19:04:53.075555"
-  },
-  {
-    "place_id": "0x3b05aff87c8cda3f:0",
-    "name": "Er. Sanju Surendran Girija - Construction & Interior Consultant",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": "+91 85900 54265",
-    "website": null,
-    "discovered_at": "2026-11-18 19:04:51.905987"
-  },
-  {
-    "place_id": "0x3b05af005915c289:0",
-    "name": "Neyyattinkara House",
-    "address": "C36J+JVV",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 19:04:50.754165"
   }
 ]
