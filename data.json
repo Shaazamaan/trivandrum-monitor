@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bf39608feca9:0",
+    "name": "Reliance Smart Point",
+    "address": "HWM2+7X3, Sreekariyam - Pothencode Rd",
+    "category": "Grocery store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 15:46:37.128162"
+  },
+  {
     "place_id": "0x3b05a5836fff4ff7:0",
     "name": "Vandana ji store shop in wapas",
     "address": "Kovalam Beach Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 01:03:53.255146"
-  },
-  {
-    "place_id": "0x3b05c12d21e0c497:0",
-    "name": "Raj villa mottukonam Road, pothencode Trivandrum",
-    "address": "JV7V+RXM, Pothencode Kazhakoottam Road",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:03:51.873070"
   }
 ]
