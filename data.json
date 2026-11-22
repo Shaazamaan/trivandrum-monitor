@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05a9f23b9f5ce1:0",
+    "name": "Mirror garments",
+    "address": "Poovar - Vizhinjam Rd",
+    "category": "Women's clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 17:57:54.351075"
+  },
+  {
+    "place_id": "0x3b05ad0444113ad7:0",
+    "name": "Govt Veterinary Hospital Perumkadavila",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 17:57:53.179314"
+  },
+  {
+    "place_id": "0x3b05a570850a37d5:0",
+    "name": "Beauty Gawanyas wellness and motivation centre",
+    "address": "Neelakeshi Road",
+    "category": "Wellness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 17:57:51.975470"
+  },
+  {
+    "place_id": "0x3b05af60dee45d87:0",
+    "name": "Ajantha Furniture",
+    "address": "C2FV+6Q2, Vizhinjam Rd",
+    "category": "Furniture maker",
+    "phone": "+91 94470 90147",
+    "website": null,
+    "discovered_at": "2026-11-22 17:57:50.785607"
+  },
+  {
+    "place_id": "0x3b05afb955555555:0",
+    "name": "Ayurmudra",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 70255 44447",
+    "website": null,
+    "discovered_at": "2026-11-22 17:57:49.611190"
+  },
+  {
     "place_id": "0x3b05ad00672167a1:0",
     "name": "CocoCabs",
     "address": "94Q6+2Q9",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 02:02:24.256159"
-  },
-  {
-    "place_id": "0x3b05c524fb04ab37:0",
-    "name": "Dr Nazrin's Dental care",
-    "address": "Pangode Kizhakkumbhagam Rd",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:54:44.853905"
-  },
-  {
-    "place_id": "0x3b05bd27e0020335:0",
-    "name": "Sheeba's Beauty Hub",
-    "address": "Stancil And Sara Buildings, GVRRA B/80 Shanghumugham, Beach",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:54:43.632300"
-  },
-  {
-    "place_id": "0x3b05c39c7f9e1ff1:0",
-    "name": "MR FRUITS",
-    "address": "MR FRUITS Thekkinkadu Nagaroor Po Kilimanoor Road Thekkinkadu Nagaroor, Village",
-    "category": "General store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:39:56.141632"
-  },
-  {
-    "place_id": "0x3b05b96823d6950d:0",
-    "name": "Nandhana bakers and fresh juice",
-    "address": "Trivandrum - Kilimanoor Rd",
-    "category": "Tea store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:39:54.947085"
-  },
-  {
-    "place_id": "0x3b05c37761b84f5f:0",
-    "name": "Modern Bakery",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:39:53.770415"
   }
 ]
