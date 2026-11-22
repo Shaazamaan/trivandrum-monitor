@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05efc5844c2cab:0",
+    "name": "Varkala Water Sports",
+    "address": "Beach",
+    "category": "Adventure sports center",
+    "phone": "+91 79022 23933",
+    "website": null,
+    "discovered_at": "2026-11-22 07:38:19.591410"
+  },
+  {
+    "place_id": "0x3b05e900504f7a4f:0",
+    "name": "Total Fitness Gym",
+    "address": "Vilabhagam, Mel",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 07:38:18.364746"
+  },
+  {
     "place_id": "0x3b05bbdf5662e97d:0",
     "name": "Shanoor Metro Square",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": "+91 95394 00369",
     "website": null,
     "discovered_at": "2026-11-18 15:13:47.367679"
-  },
-  {
-    "place_id": "0x3b05e95f8a37b707:0",
-    "name": "Mom's Juice Bay",
-    "address": "PQR3+Q83",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 15:06:19.165232"
-  },
-  {
-    "place_id": "0x3b05e8f3abed7fa3:0",
-    "name": "ROYAL ARCADE NJEKKADU",
-    "address": "QQ3C+5HG, Varkala Kallambalam Rd",
-    "category": "Medical supply store",
-    "phone": "+91 96455 48269",
-    "website": null,
-    "discovered_at": "2026-11-18 15:06:17.936295"
   }
 ]
