@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05b999103b9b37:0",
+    "name": "Fair ever beauty parlour vazayila",
+    "address": "Fair ever beauty spot",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 08:20:22.211927"
+  },
+  {
+    "place_id": "0x3b05b9832090105d:0",
+    "name": "Deepz Beauty Parlour",
+    "address": "99, Sasthamangalam - Peroorkada Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 08:20:21.015321"
+  },
+  {
+    "place_id": "0x3b05b99d32d78955:0",
+    "name": "Victory Medicals",
+    "address": "GXP8+QG2",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 08:20:19.843151"
+  },
+  {
+    "place_id": "0x3b05bb0022853f1f:0",
+    "name": "Palmgrove lane, vattiyoorkavu",
+    "address": "GXFQ+M73",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 08:20:18.566274"
+  },
+  {
+    "place_id": "0x3b05b94698ea8935:0",
+    "name": "Kausthubham Delights",
+    "address": "Kausthubham Delights, TC 35/543, Vayalikada, Vattiyoorkavu, P.O",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 08:20:17.312892"
+  },
+  {
+    "place_id": "0x3b05ba032bde6d13:0",
+    "name": "Nakshathra Beauty Botique",
+    "address": "H1, Vattiyoorkavu - Kulasekharam Rd",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 08:20:16.085890"
+  },
+  {
+    "place_id": "0x3b05ba6bc82353c9:0",
+    "name": "MOBITECH MOBILE SERVICE",
+    "address": "TITOOS Building",
+    "category": "Mobile phone repair shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 08:20:14.858323"
+  },
+  {
     "place_id": "0x3b0455d0b21e3e81:0",
     "name": "IRANI Restaurant Marthandam, Eraviputhoorkadai",
     "address": "",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 15:35:38.210803"
-  },
-  {
-    "place_id": "0x3b05bb5067389001:0",
-    "name": "SaLuna Beauty Studio",
-    "address": "",
-    "category": "Hairdresser",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 15:28:31.721692"
-  },
-  {
-    "place_id": "0x3b05bb84c3afb28b:0",
-    "name": "Changethu Ayurveda Trivandrum",
-    "address": "",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 79074 89122",
-    "website": null,
-    "discovered_at": "2026-11-18 15:21:04.338018"
-  },
-  {
-    "place_id": "0x3b05bb9a335c5fc3:0",
-    "name": "Artech Sreya",
-    "address": "",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 15:21:03.165384"
-  },
-  {
-    "place_id": "0x3b05bfa48f7e4e5d:0",
-    "name": "RTO Driving test ground",
-    "address": "HVCC+58W",
-    "category": "Driving test center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 15:21:01.923166"
-  },
-  {
-    "place_id": "0x3b05bb56b33125ad:0",
-    "name": "Travancore constructions- The best construction company",
-    "address": "TC99/2521-1, first floor, parijatham building NCC road, Byepass, opposite Akshay Tower",
-    "category": "Interior designer",
-    "phone": "+91 96332 89611",
-    "website": null,
-    "discovered_at": "2026-11-18 15:13:55.157920"
-  },
-  {
-    "place_id": "0x3b05bf0026a4105b:0",
-    "name": "Deen Palace",
-    "address": "HV8F+GH9",
-    "category": "Gift shop",
-    "phone": "+91 99951 85999",
-    "website": null,
-    "discovered_at": "2026-11-18 15:13:53.803323"
-  },
-  {
-    "place_id": "0x3b05bb006dd9d009:0",
-    "name": "One Three Five Kitchen",
-    "address": "GW6H+H7C, near Shans Academy",
-    "category": "Takeout Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 15:13:52.500829"
   }
 ]
