@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05a575010b4275:0",
+    "name": "EMAAR KITCHEN",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 12:51:11.412242"
+  },
+  {
+    "place_id": "0x3b05a5627b80fe6b:0",
+    "name": "Dr. Sivakumar.C.S",
+    "address": "9XVQ+66C, Kovalam Rd",
+    "category": "Doctor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 12:51:10.036960"
+  },
+  {
+    "place_id": "0x3b05b8043fa0eb2d:0",
+    "name": "KANNAN JEWELLERY",
+    "address": "opposite LPS Palayam",
+    "category": "Jeweler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 12:51:08.462717"
+  },
+  {
     "place_id": "0x3b05bb2c4357ade3:0",
     "name": "Roots dental clinic",
     "address": "Tc 16, next rangans vegetables, 1551(3, road, opposite Krishna Vihar",
@@ -8971,32 +8998,5 @@
     "phone": "+91 98952 11386",
     "website": null,
     "discovered_at": "2026-11-18 20:52:19.449679"
-  },
-  {
-    "place_id": "0x3b05c84d1f1a2665:0",
-    "name": "Viswas",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 20:18:14.573485"
-  },
-  {
-    "place_id": "0x3b05bb004242ba59:0",
-    "name": "Murali’s Home",
-    "address": "P.O, CRWA 117",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 19:52:29.112233"
-  },
-  {
-    "place_id": "0x3b05b900145c4c81:0",
-    "name": "Chiramal Property",
-    "address": "GXW9+55C, Krishna Nagar Rd",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 19:45:37.019083"
   }
 ]
