@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05cfd98469d643:0",
+    "name": "Froster travels",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 14:03:17.590809"
+  },
+  {
     "place_id": "0x3b05c9e5208b469d:0",
     "name": "Shafi vithura",
     "address": "M3GP+43Q",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 00:49:47.063571"
-  },
-  {
-    "place_id": "0x3b05ac47348678bd:0",
-    "name": "CMS (center For Maths & Science )",
-    "address": "Park Junction Dhanuvachapuran, Amaravila-Karakonam Rd",
-    "category": "Education center",
-    "phone": "+91 96564 45132",
-    "website": null,
-    "discovered_at": "2026-11-19 00:35:11.516566"
   }
 ]
