@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05ab746a4276b3:0",
+    "name": "Apple Mens Park",
+    "address": "Hospital Jn, Srinagar - Kanyakumari Hwy",
+    "category": "Clothing store",
+    "phone": "+91 97461 07407",
+    "website": null,
+    "discovered_at": "2026-11-22 05:25:59.831097"
+  },
+  {
+    "place_id": "0x3b05ab2ba6dacb37:0",
+    "name": "Leela Medicals",
+    "address": "85FR+2HM, Thirutuvapuram - Kuzhithurai link Rd",
+    "category": "Pharmacy",
+    "phone": "+91 94884 27995",
+    "website": null,
+    "discovered_at": "2026-11-22 05:25:58.604881"
+  },
+  {
+    "place_id": "0x3b05b3fa96745ce9:0",
+    "name": "Panchami agencies",
+    "address": "G4C7+P5, Thiruvananthapuram - Neyyar Dam Rd, near bethel driving school",
+    "category": "Furniture store",
+    "phone": "+91 95445 34625",
+    "website": null,
+    "discovered_at": "2026-11-22 05:25:57.353923"
+  },
+  {
+    "place_id": "0x3b05b1e5f8b27a95:0",
+    "name": "Karthika medicals",
+    "address": "Kailasam building, near BSNL office",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 05:25:56.122306"
+  },
+  {
+    "place_id": "0x3b05b0bdbf9b1c69:0",
+    "name": "Amrutha Medicals",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 94471 83416",
+    "website": null,
+    "discovered_at": "2026-11-22 05:25:54.861607"
+  },
+  {
     "place_id": "0x3b05a968a70c133d:0",
     "name": "RR Supermarket",
     "address": "83HC 73, RR Poovar Beach Road",
@@ -8953,50 +8998,5 @@
     "phone": "+91 97468 71045",
     "website": null,
     "discovered_at": "2026-11-18 14:44:15.700827"
-  },
-  {
-    "place_id": "0x3b05eb7c63e9cd2b:0",
-    "name": "Butterfly Ladies & Kids Wear",
-    "address": "JRJ8+9J7, Chirayinkeezhu Kaniyapuram Rd",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 14:44:14.366724"
-  },
-  {
-    "place_id": "0x3b05bbe5461a280f:0",
-    "name": "Cherries Cakes and Bakes",
-    "address": "Thirumala Peyad Malayinkeezhu Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 14:44:13.143679"
-  },
-  {
-    "place_id": "0x3b05eb8ce8935f49:0",
-    "name": "V Store Chirayinkeezhu",
-    "address": "Kuttiyathu Mukku Valiyakada, Sarkara Bypass Rd",
-    "category": "Baking supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 14:44:11.814796"
-  },
-  {
-    "place_id": "0x3b05af9b800b2659:0",
-    "name": "Krishna Hotel",
-    "address": "",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 14:44:09.534409"
-  },
-  {
-    "place_id": "0x3b05a525c1c1db6b:0",
-    "name": "Government Veterinary Hospital, Thiruvallam",
-    "address": "CXHC+7GQ, Vandithadam, Pachalloor Punkulam Rd",
-    "category": "Veterinary care",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 14:44:08.253481"
   }
 ]
