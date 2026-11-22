@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05c90011f64567:0",
+    "name": "Dilak",
+    "address": "M3GP+43Q",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 18:54:57.641096"
+  },
+  {
+    "place_id": "0x3b05c96cfe9a882b:0",
+    "name": "Ar Bakery",
+    "address": "M3FJ+3RC, Vithura - Palode Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 18:54:56.336635"
+  },
+  {
+    "place_id": "0x3b05c99798ef29f5:0",
+    "name": "Happy Bakery & Fruits",
+    "address": "M3FQ+HVQ, SH45",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 18:54:55.185459"
+  },
+  {
     "place_id": "0x3b05b1000b9a1d7f:0",
     "name": "Muthiyavilva",
     "address": "G34W+QR7",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 03:09:43.077388"
-  },
-  {
-    "place_id": "0x3b05e9f9c75508d3:0",
-    "name": "Fitness Club Multi Gym",
-    "address": "MRW8+M85, Main Rd, near Municipal Office",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:09:41.809393"
-  },
-  {
-    "place_id": "0x3b05b98c2e54cb15:0",
-    "name": "Brilliant Study Centre - Thiruvananthapuram",
-    "address": "",
-    "category": "Educational institution",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 02:45:46.428905"
-  },
-  {
-    "place_id": "0x3b05bbbeac3e5ca3:0",
-    "name": "Sree Ganesh Bake House",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 02:38:45.888135"
   }
 ]
