@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b1000b9a1d7f:0",
+    "name": "Muthiyavilva",
+    "address": "G34W+QR7",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 18:04:47.395687"
+  },
+  {
+    "place_id": "0x3b05b17bafb72fb3:0",
+    "name": "Jena Arogiya Suresh",
+    "address": "Thiruvananthapuram - Neyyar Dam Rd, Killy - Moongode Rd",
+    "category": "Pharmacy",
+    "phone": "+91 97783 56364",
+    "website": null,
+    "discovered_at": "2026-11-22 18:04:46.171438"
+  },
+  {
     "place_id": "0x3b05a9f23b9f5ce1:0",
     "name": "Mirror garments",
     "address": "Poovar - Vizhinjam Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 02:38:45.888135"
-  },
-  {
-    "place_id": "0x3b05bb07d6f62d31:0",
-    "name": "Aradhana Hospital",
-    "address": "",
-    "category": "Hospital",
-    "phone": "+91 99956 50426",
-    "website": null,
-    "discovered_at": "2026-11-19 02:17:05.894921"
-  },
-  {
-    "place_id": "0x3b05c9fb3c035fcb:0",
-    "name": "UNIQUE MENS SALOON",
-    "address": "Shop No 750, Kottarathil Tower, Nanniyode, Nedumangad, Palode Rode Nedumangadu, Rode",
-    "category": "Hair salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 02:02:24.256159"
   }
 ]
