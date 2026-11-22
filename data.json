@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb006452c583:0",
+    "name": "Parakkattu house",
+    "address": "Prasadu varghese",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 01:45:31.823404"
+  },
+  {
+    "place_id": "0x3b05b97a26703e3b:0",
+    "name": "Bharat Bhaavika Foundation",
+    "address": "TC23/1359/2",
+    "category": "Non-profit organization",
+    "phone": "+91 87146 08603",
+    "website": null,
+    "discovered_at": "2026-11-22 01:45:30.638171"
+  },
+  {
     "place_id": "0x3b05b9fcade90e8b:0",
     "name": "Leens designs boutique",
     "address": "F6, Sreevilas Ln",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 10:47:21.963132"
-  },
-  {
-    "place_id": "0x3b05b9000dd4d81f:0",
-    "name": "pearl view home",
-    "address": "TC3/1356",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:20.745763"
-  },
-  {
-    "place_id": "0x3b05b930cf47ff3f:0",
-    "name": "E Lane",
-    "address": "GWGV+CWJ",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:19.497361"
   }
 ]
