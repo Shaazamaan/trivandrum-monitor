@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c9a595b70cd5:0",
+    "name": "ഇരവിൽ",
+    "address": "M329+FF5",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:29:48.052957"
+  },
+  {
     "place_id": "0x3b05c11efd697e93:0",
     "name": "Jazz Building",
     "address": "MWH6+826, East Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 01:39:44.033239"
-  },
-  {
-    "place_id": "0x3b05c1dec6a92d47:0",
-    "name": "Aqsa Siddha Ayurveda Clinic",
-    "address": "Grand auditorium Kochallummood",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 99951 56996",
-    "website": null,
-    "discovered_at": "2026-11-19 01:39:42.889306"
   }
 ]
