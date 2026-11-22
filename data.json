@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bb042782efd1:0",
+    "name": "Ilaneer Juice and Shakes",
+    "address": "Jn, Salem, Panvel - Kochi - Kanyakumari Hwy",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 03:28:06.493634"
+  },
+  {
+    "place_id": "0x3b05c18490000001:0",
+    "name": "LIFE PHARMA",
+    "address": "p.o, LIFE PHARMA",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 03:28:05.205762"
+  },
+  {
+    "place_id": "0x3b05eb454f87aeaf:0",
+    "name": "Ashraya community pharmacy",
+    "address": "perunghuzhi junction, near SBI",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 03:28:03.970109"
+  },
+  {
+    "place_id": "0x3b05bb2cd7a8d4d9:0",
+    "name": "KasavuMaalika",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 03:28:02.664416"
+  },
+  {
     "place_id": "0x3b05bb0c02a691ab:0",
     "name": "Star Gents Beauty Parlour",
     "address": "",
@@ -8962,41 +8998,5 @@
     "phone": "+91 94467 95004",
     "website": null,
     "discovered_at": "2026-11-18 14:04:28.974806"
-  },
-  {
-    "place_id": "0x3b05afe824deaa8b:0",
-    "name": "LA FEMME MAKEOVER STUDIO",
-    "address": "1st Floor, Jalal Avenue",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 13:57:26.366779"
-  },
-  {
-    "place_id": "0x3b05af004eefba0f:0",
-    "name": "ZAM ZAM MULTISPECIALITY DENTAL CLINIC",
-    "address": "Kodinada",
-    "category": "Dental clinic",
-    "phone": "+91 99950 17949",
-    "website": null,
-    "discovered_at": "2026-11-18 13:49:46.212318"
-  },
-  {
-    "place_id": "0x3b05c7d9608b3b1b:0",
-    "name": "Rahath Mini Mart",
-    "address": "Closes 10 PM",
-    "category": "Open",
-    "phone": "+91 98466 21414",
-    "website": null,
-    "discovered_at": "2026-11-18 13:49:44.962136"
-  },
-  {
-    "place_id": "0x3b05ef0846682bcd:0",
-    "name": "ROSA Waves LLP. Govt Authorised Two wheeler Rental Varkala",
-    "address": "",
-    "category": "Travel agency",
-    "phone": "+91 92075 35648",
-    "website": null,
-    "discovered_at": "2026-11-18 13:31:51.874492"
   }
 ]
