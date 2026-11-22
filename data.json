@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c74120bfc379:0",
+    "name": "Kamala Medicals",
+    "address": "JWHP+WM7",
+    "category": "Pharmacy",
+    "phone": "+91 95674 21688",
+    "website": null,
+    "discovered_at": "2026-11-22 03:50:18.898034"
+  },
+  {
+    "place_id": "0x3b05b666e99a216d:0",
+    "name": "Bhavana Mobile Zone",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": "+91 98461 72628",
+    "website": null,
+    "discovered_at": "2026-11-22 03:50:17.672508"
+  },
+  {
     "place_id": "0x3b05aeb27fe494f3:0",
     "name": "Government Animal Hospital Vlathanakara",
     "address": "936R+G7M",
@@ -8980,23 +8998,5 @@
     "phone": "+91 96332 36649",
     "website": null,
     "discovered_at": "2026-11-18 14:04:35.400432"
-  },
-  {
-    "place_id": "0x3b05b571431aa4f7:0",
-    "name": "Vamika Beauty Spa",
-    "address": "Neyyar Dam Road",
-    "category": "Beauty salon",
-    "phone": "+91 95626 47910",
-    "website": null,
-    "discovered_at": "2026-11-18 14:04:34.172064"
-  },
-  {
-    "place_id": "0x3b05b12172f020f3:0",
-    "name": "LUX Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 14:04:32.883849"
   }
 ]
