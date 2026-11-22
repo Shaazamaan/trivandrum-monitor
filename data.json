@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c003a4cd6fcf:0",
+    "name": "PVM Dental Clinic",
+    "address": "JR7H+WW4, Padmavilas ( Plamottil ), Chirayinkeezhu Kaniyapuram Rd",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 11:05:53.010947"
+  },
+  {
     "place_id": "0x3b05bb005e596221:0",
     "name": "Arfan’s house",
     "address": "Trivandrum",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 18:21:15.349419"
-  },
-  {
-    "place_id": "0x3b05bbcac9eb9431:0",
-    "name": "REGALIA APARTMENTS",
-    "address": "GX47+9GH",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 18:13:44.451164"
   }
 ]
