@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb65d765e493:0",
+    "name": "Linen",
+    "address": "Pan African Plaza Building, 82/5173, Mahatma Gandhi Rd, next to Q R S Mall",
+    "category": "Men's clothing store",
+    "phone": "+91 62829 63608",
+    "website": null,
+    "discovered_at": "2026-11-22 04:12:28.286626"
+  },
+  {
     "place_id": "0x3b05e865e65633bd:0",
     "name": "MOBILE WORLD",
     "address": "QQ7R+23J",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 14:43:49.565333"
-  },
-  {
-    "place_id": "0x3b05bf3d7c20593f:0",
-    "name": "Happy Homes",
-    "address": "Happy Homes, Road",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 14:43:48.286649"
   }
 ]
