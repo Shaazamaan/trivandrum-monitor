@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b1002c68e169:0",
+    "name": "M S Lifecare Pharmacy",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 79944 60168",
+    "website": null,
+    "discovered_at": "2026-11-22 10:30:58.617257"
+  },
+  {
+    "place_id": "0x3b05bb534b946059:0",
+    "name": "SAP Physiotherapy",
+    "address": "G253+F86, Kundamonkadavu Brg",
+    "category": "Physical therapy clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 10:30:57.345752"
+  },
+  {
     "place_id": "0x3b05a55ac923a77b:0",
     "name": "PRAPANJ TOTAL STATION LAND SURVEY",
     "address": "p o, Rajasadanam panangode venganoor",
@@ -8980,23 +8998,5 @@
     "phone": "+91 98956 66668",
     "website": null,
     "discovered_at": "2026-11-18 16:28:52.859138"
-  },
-  {
-    "place_id": "0x3b05ad0dfe9aa533:0",
-    "name": "MB JEWELLERY SILVER AND ANTIQUE UDIYANKULANGARA",
-    "address": "opposite INDIAN OIL PETROL PUMP",
-    "category": "Silversmith",
-    "phone": "+91 73061 81656",
-    "website": null,
-    "discovered_at": "2026-11-18 16:21:15.084244"
-  },
-  {
-    "place_id": "0x3b05bebfe250c90b:0",
-    "name": "Innovation Experience",
-    "address": "TC-4/2322, Gem building, Sreekaryam - Kulathoor Rd, opp. College of Engineering",
-    "category": "Waste management service",
-    "phone": "+91 75609 52138",
-    "website": null,
-    "discovered_at": "2026-11-18 16:05:20.254598"
   }
 ]
