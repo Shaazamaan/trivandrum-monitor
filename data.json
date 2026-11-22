@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05a968a70c133d:0",
+    "name": "RR Supermarket",
+    "address": "83HC 73, RR Poovar Beach Road",
+    "category": "Supermarket",
+    "phone": "+91 96056 45255",
+    "website": null,
+    "discovered_at": "2026-11-22 05:19:07.252843"
+  },
+  {
     "place_id": "0x3b05a5a54c9275fd:0",
     "name": "Kingfisher Restaurant",
     "address": "9XPG+QQM, Light House Beach Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 14:44:08.253481"
-  },
-  {
-    "place_id": "0x3b05b921751394b9:0",
-    "name": "Aswas Community Pharmacy",
-    "address": "33/903",
-    "category": "Pharmacy",
-    "phone": "+91 70254 54646",
-    "website": null,
-    "discovered_at": "2026-11-18 14:44:07.011188"
   }
 ]
