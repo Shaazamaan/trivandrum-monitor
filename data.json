@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b168f71a6cad:0",
+    "name": "Nanda BAKERY",
+    "address": "G34Q+8HP, Choondupalaka",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 00:14:20.974409"
+  },
+  {
     "place_id": "0x3b05b9cf7f7b4751:0",
     "name": "Variety juice",
     "address": "Hospital Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 10:47:15.583207"
-  },
-  {
-    "place_id": "0x3b05b90036177223:0",
-    "name": "Nest",
-    "address": "Eden Gardens",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:14.277875"
   }
 ]
