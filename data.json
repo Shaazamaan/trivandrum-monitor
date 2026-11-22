@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b9fcade90e8b:0",
+    "name": "Leens designs boutique",
+    "address": "F6, Sreevilas Ln",
+    "category": "Clothing store",
+    "phone": "+91 99952 69601",
+    "website": null,
+    "discovered_at": "2026-11-22 01:38:14.748203"
+  },
+  {
+    "place_id": "0x3b05bbde9fcd8b21:0",
+    "name": "MENON BAKERY",
+    "address": "GWCW+25F",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 01:38:13.463730"
+  },
+  {
     "place_id": "0x3b05c1178135a52f:0",
     "name": "J.Bells smart phone service center",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 10:47:19.497361"
-  },
-  {
-    "place_id": "0x3b05bb55de7346b5:0",
-    "name": "Josy plot",
-    "address": "GWFP+JQR, Chalakuzhy Rd",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:18.156474"
-  },
-  {
-    "place_id": "0x3b05bbe1babf5f05:0",
-    "name": "Glendale Manor",
-    "address": "CRRA39, Chalakuzhy Rd",
-    "category": "Furnished apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:16.823943"
   }
 ]
