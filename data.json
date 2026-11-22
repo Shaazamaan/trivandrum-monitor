@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb005ef6bce5:0",
+    "name": "MGRA, A-9, Paliyam, Marappalam, Pattom",
+    "address": "MGRA 9, A Lane, Marappalam, Rd",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:59:10.479169"
+  },
+  {
+    "place_id": "0x3b05bb0073d0d951:0",
+    "name": "AI by Sree Dhanya Homes",
+    "address": "Pattom - Kowdiar Rd, Marappalam",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:59:09.288142"
+  },
+  {
+    "place_id": "0x3b05bbdda14d9937:0",
+    "name": "Menathottam Chambers",
+    "address": "Pattom Palace, MG Rd",
+    "category": "Condominium complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:59:08.120317"
+  },
+  {
     "place_id": "0x3b05bfc210c0b53f:0",
     "name": "M SQUARE COMMUNICATIONS",
     "address": "Vadayilmukku Pallinada Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 01:39:51.281050"
-  },
-  {
-    "place_id": "0x3b05c3273a6c2e9b:0",
-    "name": "OCEAN AQUA PETS HOME",
-    "address": "QV8F+7JC, Kilimanoor Madavoor Rd",
-    "category": "Pet supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:39:50.139263"
-  },
-  {
-    "place_id": "0x3b05c33c34055279:0",
-    "name": "LVS Clinic",
-    "address": "QV9J+RMH, Trivandrum - Kilimanoor Rd",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:39:48.985318"
-  },
-  {
-    "place_id": "0x3b05bbf74dce5ea7:0",
-    "name": "J Singh & Associates",
-    "address": "",
-    "category": "Chartered accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:39:47.760264"
   }
 ]
