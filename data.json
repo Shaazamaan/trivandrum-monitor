@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05aeb27fe494f3:0",
+    "name": "Government Animal Hospital Vlathanakara",
+    "address": "936R+G7M",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 03:43:04.910640"
+  },
+  {
+    "place_id": "0x3b05ad569587895d:0",
+    "name": "Goverment Veterinary Hospital Vellarada",
+    "address": "C5VQ+75V, 9, Chempoor Rd",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 03:43:03.691290"
+  },
+  {
+    "place_id": "0x3b05ba803a031f35:0",
+    "name": "Govt. Veterinary Hospital, Vizhavoor",
+    "address": "Vizhavoor Perukavu Road",
+    "category": "Animal hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 03:43:02.471256"
+  },
+  {
     "place_id": "0x3b05bb042782efd1:0",
     "name": "Ilaneer Juice and Shakes",
     "address": "Jn, Salem, Panvel - Kochi - Kanyakumari Hwy",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 14:04:32.883849"
-  },
-  {
-    "place_id": "0x3b05b0574f38e147:0",
-    "name": "Veterinary Hospital",
-    "address": "F2JW+C9H, Malayinkeezhu - Ooruttambalam Rd",
-    "category": "Animal hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 14:04:31.633975"
-  },
-  {
-    "place_id": "0x3b05b5005d2e0a5b:0",
-    "name": "Government Veterinary hospital Kuttichal",
-    "address": "H474+22R",
-    "category": "Animal hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 14:04:30.365270"
-  },
-  {
-    "place_id": "0x3b05b130cc67c16d:0",
-    "name": "Golden Pets",
-    "address": "PNM Hospital junction,Main road",
-    "category": "Pet store",
-    "phone": "+91 94467 95004",
-    "website": null,
-    "discovered_at": "2026-11-18 14:04:28.974806"
   }
 ]
