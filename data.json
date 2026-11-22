@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c9ad7b799387:0",
+    "name": "NYHA BAKERY",
+    "address": "J3X5+5G6, Tholicode",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 23:58:18.993051"
+  },
+  {
+    "place_id": "0x3b05cf005bf700e3:0",
+    "name": "Government Homeopathy Dispensary",
+    "address": "P386+7V4, Iqbal College - Thennoor Rd",
+    "category": "Homeopathic pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 23:58:17.616397"
+  },
+  {
     "place_id": "0x3b05bb93c1688c7d:0",
     "name": "The Painfree Physio",
     "address": "FWXM+MGM",
@@ -8980,23 +8998,5 @@
     "phone": "+91 73567 52353",
     "website": null,
     "discovered_at": "2026-11-19 03:48:27.156222"
-  },
-  {
-    "place_id": "0x3b05b9db5d0cfc3d:0",
-    "name": "Gama Gym",
-    "address": "G2J2+JCC",
-    "category": "Gymnasium school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:25.994469"
-  },
-  {
-    "place_id": "0x3b05b9ce2e63cab5:0",
-    "name": "Power zone",
-    "address": "G2M2+G9V, Vattiyoorkkav Puliyarakkonam, Rd",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:24.843312"
   }
 ]
