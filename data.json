@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b13360816f45:0",
+    "name": "Muscat Bakery",
+    "address": "G32C+QF6, Thoongapara, Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 23:01:11.989057"
+  },
+  {
+    "place_id": "0x3b05b1e9bac0ea9d:0",
+    "name": "SNSS Thattukada",
+    "address": "SNSS THATTUKADA",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 23:01:10.778419"
+  },
+  {
     "place_id": "0x3b05ad37ba18ea7f:0",
     "name": "Muscle Bull fitness Hub",
     "address": "C4R5+2QW, opp. Indian Overseas Bank",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 03:48:21.410531"
-  },
-  {
-    "place_id": "0x3b05bb8c8d7d432f:0",
-    "name": "Amigos Beauty Saloon",
-    "address": "Amigos Beauty Saloon, Arappura Elipode Rd",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:20.266961"
-  },
-  {
-    "place_id": "0x3b05bda9d3805d91:0",
-    "name": "Dhanya SuperMarket Vettucadu",
-    "address": "TC. No 90, FVXW+FMJ, 1188-1, Veli Sanghumugham Rd",
-    "category": "Grocery store",
-    "phone": "+91 94000 09212",
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:19.076117"
   }
 ]
