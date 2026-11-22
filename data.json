@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bd00227199f1:0",
+    "name": "Ocean palace",
+    "address": "FWG7+FRH, Palayam Airport Rd",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 17:13:29.651081"
+  },
+  {
     "place_id": "0x3b05bb005ef6bce5:0",
     "name": "MGRA, A-9, Paliyam, Marappalam, Pattom",
     "address": "MGRA 9, A Lane, Marappalam, Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 01:39:52.527626"
-  },
-  {
-    "place_id": "0x3b05c30f9c2682cd:0",
-    "name": "Bhakshanathalika Restaurant",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:39:51.281050"
   }
 ]
