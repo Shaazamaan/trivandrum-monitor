@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05c3268f437d1b:0",
+    "name": "Saji Hospital",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 11:12:59.976165"
+  },
+  {
+    "place_id": "0x3b05c71921dabbf5:0",
+    "name": "LIFE CURE Homoeopathy & Physiotherapy Clinic",
+    "address": "opposite Indian postoffice",
+    "category": "Physical therapy clinic",
+    "phone": "+91 97785 77726",
+    "website": null,
+    "discovered_at": "2026-11-22 11:12:58.763698"
+  },
+  {
+    "place_id": "0x3b05bbe3c20a2ad7:0",
+    "name": "Physio Raj",
+    "address": "+91 80754 45660",
+    "category": "Temporarily closed",
+    "phone": "+91 80754 45660",
+    "website": null,
+    "discovered_at": "2026-11-22 11:12:57.495536"
+  },
+  {
+    "place_id": "0x3b05c32f74438567:0",
+    "name": "Shifa Clinic",
+    "address": "QVCJ+P45, SH 1",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 11:12:56.270300"
+  },
+  {
+    "place_id": "0x3b05bb9fd48dd305:0",
+    "name": "Mantra Family Salon & Spa",
+    "address": "Chembakassery, Krishnakovil Road",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 11:12:54.981402"
+  },
+  {
     "place_id": "0x3b05c003a4cd6fcf:0",
     "name": "PVM Dental Clinic",
     "address": "JR7H+WW4, Padmavilas ( Plamottil ), Chirayinkeezhu Kaniyapuram Rd",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 19:04:50.754165"
-  },
-  {
-    "place_id": "0x3b05e963a5e055fd:0",
-    "name": "fashion hub india",
-    "address": "aluvila bakery building",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 18:52:30.528813"
-  },
-  {
-    "place_id": "0x3b05efd0212b1a3f:0",
-    "name": "Urban Cliff Boutique Stay Varkala",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 18:43:07.289762"
-  },
-  {
-    "place_id": "0x3b05efe44479d9c9:0",
-    "name": "Coastal Cafe",
-    "address": "PPP3+JHM Helipad, Varkala Helipad Road",
-    "category": "Indian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 18:43:06.026630"
-  },
-  {
-    "place_id": "0x3b05bfc6f7eb466d:0",
-    "name": "Manicheppu",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": "+91 89432 72495",
-    "website": null,
-    "discovered_at": "2026-11-18 18:43:04.605406"
-  },
-  {
-    "place_id": "0x3b05bb4398bc0c2d:0",
-    "name": "Haze Fashion Store",
-    "address": "",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 18:21:15.349419"
   }
 ]
