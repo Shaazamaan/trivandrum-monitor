@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbe2f8e6005f:0",
+    "name": "Happy Trips",
+    "address": "SNRA-70, Vallakadavu Road",
+    "category": "Tour agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 16:37:37.376976"
+  },
+  {
     "place_id": "0x3b05c9a595b70cd5:0",
     "name": "ഇരവിൽ",
     "address": "M329+FF5",
@@ -8989,14 +8998,5 @@
     "phone": "+91 94467 01781",
     "website": null,
     "discovered_at": "2026-11-19 01:39:45.194651"
-  },
-  {
-    "place_id": "0x3b05bb0027e7c009:0",
-    "name": "Thattukadayile Karikkin Vismayam",
-    "address": "FWRV+88M",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:39:44.033239"
   }
 ]
