@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05a5a54c9275fd:0",
+    "name": "Kingfisher Restaurant",
+    "address": "9XPG+QQM, Light House Beach Rd",
+    "category": "Seafood restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 05:11:56.565291"
+  },
+  {
+    "place_id": "0x3b05a5058e6ced43:0",
+    "name": "Village Kitchen",
+    "address": "9XWM+6R9, Kovalam Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 05:11:55.308936"
+  },
+  {
+    "place_id": "0x3b05af001d79a7b9:0",
+    "name": "Dosth Family Restaurant",
+    "address": "9287+26F, Kovalam Rd",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 05:11:54.044196"
+  },
+  {
+    "place_id": "0x3b05a5a9c236a22f:0",
+    "name": "Le Marine Sea Food Restaurant",
+    "address": "Hotel Searock,Searock Road, Hawah Beach",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 05:11:52.828336"
+  },
+  {
+    "place_id": "0x3b05a548a73a9c0b:0",
+    "name": "The vizhinjam seafood",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 05:11:51.569868"
+  },
+  {
+    "place_id": "0x3b05a57065c2a1c9:0",
+    "name": "Vizhinjam Live On Chuttameen",
+    "address": "Vellaar jn",
+    "category": "Seafood restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 05:11:50.343588"
+  },
+  {
     "place_id": "0x3b05e90073a50a93:0",
     "name": "Handveev showroom Attingal",
     "address": "MRW8+8XM",
@@ -8944,59 +8998,5 @@
     "phone": "+91 70254 54646",
     "website": null,
     "discovered_at": "2026-11-18 14:44:07.011188"
-  },
-  {
-    "place_id": "0x3b05bb980f7078e7:0",
-    "name": "AKSHAYA COMMUNITY PHARMACY MARUTHANKUZHI",
-    "address": "Asset business center, Maruthankuzhy Brg",
-    "category": "Medical supply store",
-    "phone": "+91 94007 74464",
-    "website": null,
-    "discovered_at": "2026-11-18 14:44:05.727657"
-  },
-  {
-    "place_id": "0x3b05ea50496378e3:0",
-    "name": "Sarkareswary Medicals",
-    "address": "MQ5Q+7H4, Chirayinkeezhu Kaniyapuram Rd",
-    "category": "Medical supply store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 14:44:04.418410"
-  },
-  {
-    "place_id": "0x3b05ea4fa6de5737:0",
-    "name": "Megha Mall",
-    "address": "",
-    "category": "Shopping mall",
-    "phone": "+91 94008 75875",
-    "website": null,
-    "discovered_at": "2026-11-18 14:44:03.040451"
-  },
-  {
-    "place_id": "0x3b05ea4e75559111:0",
-    "name": "Swamiji hospital",
-    "address": "",
-    "category": "Apartment complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 14:44:01.715155"
-  },
-  {
-    "place_id": "0x3b05a94f13675aa1:0",
-    "name": "Sri Chakra Jeevaneeyam Ayush Clinic",
-    "address": "Jeevaneeyam Ayu Care, Thekkeey Appattuvia",
-    "category": "Ayurvedic clinic",
-    "phone": "+91 94951 58366",
-    "website": null,
-    "discovered_at": "2026-11-18 14:44:00.367604"
-  },
-  {
-    "place_id": "0x3b05b9004944be83:0",
-    "name": "Irine’s Physiotherapy Clinic",
-    "address": "GWWW+646, Kurissadi - Ambanad Rd",
-    "category": "Medical clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 14:43:58.963038"
   }
 ]
