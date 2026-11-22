@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05ab00356f1a57:0",
+    "name": "Smitha Bakery",
+    "address": "85J2+3FM, Parassala-Kozhivila Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 13:06:03.214728"
+  },
+  {
+    "place_id": "0x3b05ab7418ac0e91:0",
+    "name": "Athens Bakery",
+    "address": "84XX+V9X",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 13:06:01.942297"
+  },
+  {
+    "place_id": "0x3b05ab5ee5775655:0",
+    "name": "Kalai Medicals",
+    "address": "85MC+8V2",
+    "category": "Pharmacy",
+    "phone": "+91 97915 83727",
+    "website": null,
+    "discovered_at": "2026-11-22 13:06:00.493764"
+  },
+  {
     "place_id": "0x3b05a575010b4275:0",
     "name": "EMAAR KITCHEN",
     "address": "Trivandrum",
@@ -8971,32 +8998,5 @@
     "phone": "+91 90610 29061",
     "website": null,
     "discovered_at": "2026-11-18 21:37:07.465971"
-  },
-  {
-    "place_id": "0x3b05bb1bd144a279:0",
-    "name": "Homoeopathic Pharmacy And Stores",
-    "address": "FX84+VC9 P. O, Homoeopathic Pharamacy and stores, Attukal - Chiramukku Rd",
-    "category": "Pharmacy",
-    "phone": "+91 95444 28997",
-    "website": null,
-    "discovered_at": "2026-11-18 21:14:10.803277"
-  },
-  {
-    "place_id": "0x3b05bb4e2c8fdfc1:0",
-    "name": "Hikari Salon & Spa",
-    "address": "TC 26/301/1, OGeorge Square, Plamoodu - Thekkamoodu Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 20:59:14.743667"
-  },
-  {
-    "place_id": "0x3b05bbdddb000eef:0",
-    "name": "THE JUICE MASTER",
-    "address": "THE JUICE MASTER",
-    "category": "Juice shop",
-    "phone": "+91 98952 11386",
-    "website": null,
-    "discovered_at": "2026-11-18 20:52:19.449679"
   }
 ]
