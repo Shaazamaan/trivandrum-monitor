@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05b0a4fd51b3b5:0",
+    "name": "Dasia optics and Eye Clinic",
+    "address": "opp. Aswas, near SP Cinemas",
+    "category": "Eye care center",
+    "phone": "+91 90741 80420",
+    "website": null,
+    "discovered_at": "2026-11-22 13:27:42.668189"
+  },
+  {
+    "place_id": "0x3b05baa4df85500f:0",
+    "name": "Ayur Study, Trivandrum",
+    "address": "CXWP+VVW, Vellayani devi temple",
+    "category": "Education",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 13:27:41.493532"
+  },
+  {
+    "place_id": "0x3b05ba302bf80dad:0",
+    "name": "Views Beauty Concepts",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 13:27:40.246521"
+  },
+  {
+    "place_id": "0x3b05b91afdaf7d07:0",
+    "name": "La fait by saina´s",
+    "address": "Erumath line cram 95 Chaithanya garden,mannamoola",
+    "category": "Handicraft museum",
+    "phone": "+91 89213 51209",
+    "website": null,
+    "discovered_at": "2026-11-22 13:27:39.085116"
+  },
+  {
+    "place_id": "0x3b05b946f738e6d1:0",
+    "name": "The Home Shop",
+    "address": "MC Road, Jn",
+    "category": "Store",
+    "phone": "+91 62386 83343",
+    "website": null,
+    "discovered_at": "2026-11-22 13:27:37.883551"
+  },
+  {
     "place_id": "0x3b05b95dbc2dbb07:0",
     "name": "Agasthya AyurSiddham Wellness Centre",
     "address": "Agasthya Kuttichalkonam Lane, PO",
@@ -8953,50 +8998,5 @@
     "phone": "+91 97452 21336",
     "website": null,
     "discovered_at": "2026-11-18 22:34:26.561005"
-  },
-  {
-    "place_id": "0x3b05bb91ed7d3cb1:0",
-    "name": "SIP Abacus Vattiyoorkavu",
-    "address": "THOPPUMMUKKU, NRRA B-61",
-    "category": "Education center",
-    "phone": "+91 94956 30453",
-    "website": null,
-    "discovered_at": "2026-11-18 22:27:31.347226"
-  },
-  {
-    "place_id": "0x3b05b9004b4a0c65:0",
-    "name": "SAYUJYAM, MERA 184-A",
-    "address": "HW5W+7FJ",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 22:13:06.345485"
-  },
-  {
-    "place_id": "0x3b05b300633bb859:0",
-    "name": "Panjikaran House ,Ambalathinkala PO kattakada Trivandrum Kerala",
-    "address": "F4J3+WXV",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 22:13:05.019969"
-  },
-  {
-    "place_id": "0x3b05bdf73e03f0f3:0",
-    "name": "Golden Smile Dental Clinic",
-    "address": "Alsaints, Veli - Perumathura Rd",
-    "category": "Dental clinic",
-    "phone": "+91 90379 07212",
-    "website": null,
-    "discovered_at": "2026-11-18 21:58:43.648164"
-  },
-  {
-    "place_id": "0x3b05b98fc23d66ad:0",
-    "name": "No. 1 Restaurant",
-    "address": "NO 1, RESTAURANT",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 21:51:13.373106"
   }
 ]
