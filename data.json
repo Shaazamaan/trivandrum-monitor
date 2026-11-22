@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b9996510ae9f:0",
+    "name": "Pillbox Pharmacy | Medical Shop in Sreekaryam",
+    "address": "AM Tower Opposite Iris Hospital Pongumoodu",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 02:06:53.339918"
+  },
+  {
     "place_id": "0x3b05bbf232138951:0",
     "name": "Pure Crush",
     "address": "Kumarapuram Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 10:47:24.494412"
-  },
-  {
-    "place_id": "0x3b05bf015aa32e1d:0",
-    "name": "ABAD FOODS SREEKARIYAM",
-    "address": "",
-    "category": "Frozen food manufacturer",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:23.239628"
   }
 ]
