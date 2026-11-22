@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbf232138951:0",
+    "name": "Pure Crush",
+    "address": "Kumarapuram Rd",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 01:59:49.557397"
+  },
+  {
     "place_id": "0x3b05bb006452c583:0",
     "name": "Parakkattu house",
     "address": "Prasadu varghese",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 10:47:23.239628"
-  },
-  {
-    "place_id": "0x3b05b95e84cc2777:0",
-    "name": "EBENEZER BUILDING",
-    "address": "",
-    "category": "Apartment complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 10:47:21.963132"
   }
 ]
