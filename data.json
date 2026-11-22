@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05bb005e596221:0",
+    "name": "Arfan’s house",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 10:59:07.094269"
+  },
+  {
+    "place_id": "0x3b05bb003718d63b:0",
+    "name": "Malik absallhan",
+    "address": "FXC2+PMQ",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 10:59:05.786212"
+  },
+  {
+    "place_id": "0x3b05bb2a3ce0b41b:0",
+    "name": "Neha's",
+    "address": "FWCR+9VM, MLA Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 10:59:04.542661"
+  },
+  {
+    "place_id": "0x3b05bb003528723f:0",
+    "name": "Vasantha's Home",
+    "address": "Kalabhavan, T.C. 71/3228, PO, near Kalyan Hospital",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 10:59:03.297443"
+  },
+  {
+    "place_id": "0x3b05bb0004bbbb05:0",
+    "name": "Sandhya N",
+    "address": "FXC4+M32",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 10:59:02.031917"
+  },
+  {
+    "place_id": "0x3b05bbf0650ddc53:0",
+    "name": "Ayan Building",
+    "address": "FX92+XPQ, Chithra Nager, near Big Masjid",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 10:59:00.765581"
+  },
+  {
+    "place_id": "0x3b05bb002b831cdf:0",
+    "name": "Captain Harshan Nagar",
+    "address": "House no: 11, captain harshan nagar, near Sree Nagar Housing Colony",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 10:58:59.432947"
+  },
+  {
     "place_id": "0x3b05ba32d97ffd6d:0",
     "name": "Jai Natural Fitness and Fitness Studio",
     "address": "2nd Floor, Sasthmangalam Maruthankuzhi Rd",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 18:13:44.451164"
-  },
-  {
-    "place_id": "0x3b05bbca3fe79a37:0",
-    "name": "Ashtree Manor",
-    "address": "",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 18:13:43.221325"
-  },
-  {
-    "place_id": "0x3b05bbad58403507:0",
-    "name": "Karunya Pharmacy",
-    "address": "FWXV+VJX, General Hospital Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 18:06:10.442345"
-  },
-  {
-    "place_id": "0x3b05bb72e8ef1bfd:0",
-    "name": "Dr Leelavathy Amma",
-    "address": "GW9V+6RG, Marappalam Rd",
-    "category": "Homeopathic pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 18:06:09.222626"
-  },
-  {
-    "place_id": "0x3b05c5b5c3ac8cab:0",
-    "name": "Smile Care Dental Clinic",
-    "address": "Sai Complex",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 17:33:50.807428"
-  },
-  {
-    "place_id": "0x3b05c39e59c0f14d:0",
-    "name": "DEVINS FITNESS",
-    "address": "Trivandrum - Kilimanoor Rd, opposite Jumuah Masjid",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 17:26:35.381973"
-  },
-  {
-    "place_id": "0x3b05c3688a9ba3bb:0",
-    "name": "Teamcafeteria",
-    "address": "",
-    "category": "Kerala restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 17:19:08.722484"
-  },
-  {
-    "place_id": "0x3b05bb93a9e06525:0",
-    "name": "DXB mobiles",
-    "address": "Dxb Mobiles, junction",
-    "category": "Mobile phone repair shop",
-    "phone": "+91 99957 17366",
-    "website": null,
-    "discovered_at": "2026-11-18 17:12:17.402316"
   }
 ]
