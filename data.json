@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05ad00672167a1:0",
+    "name": "CocoCabs",
+    "address": "94Q6+2Q9",
+    "category": "Tour operator",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 17:50:37.435160"
+  },
+  {
     "place_id": "0x3b05bd00227199f1:0",
     "name": "Ocean palace",
     "address": "FWG7+FRH, Palayam Airport Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 01:39:53.770415"
-  },
-  {
-    "place_id": "0x3b05b927a1aea9ad:0",
-    "name": "KL Bakers & Cafe",
-    "address": "Trivandrum - Kilimanoor Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 01:39:52.527626"
   }
 ]
