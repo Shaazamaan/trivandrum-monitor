@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bfa13dd8ff7b:0",
+    "name": "Feenix medicals",
+    "address": "Feenix Medicals, Kazhakoottam NH 47, Rohini Building, opposite Karthika Park hotel",
+    "category": "Pharmacy",
+    "phone": "+91 79071 20280",
+    "website": null,
+    "discovered_at": "2026-11-22 09:10:51.382780"
+  },
+  {
     "place_id": "0x3b05dd54eedad4cf:0",
     "name": "Angel Gold & Diamonds",
     "address": "marottipoykayil building, Paripally - Madathara Rd, near thenguvilayil finance",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 15:35:41.921494"
-  },
-  {
-    "place_id": "0x3b05bbbffd04f41f:0",
-    "name": "Focuz Academy",
-    "address": "1st Floor, TVS Towers, Pattom - Kowdiar Rd",
-    "category": "Education center",
-    "phone": "+91 90484 75052",
-    "website": null,
-    "discovered_at": "2026-11-18 15:35:40.743006"
   }
 ]
