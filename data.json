@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b04ff7a50d75f47:0",
+    "name": "P.N.S Supermarket palliyadi",
+    "address": "",
+    "category": "Grocery store",
+    "phone": "+91 94874 48860",
+    "website": null,
+    "discovered_at": "2026-11-22 02:52:21.346497"
+  },
+  {
+    "place_id": "0x3b05ad0003ef0165:0",
+    "name": "Jan Aushadhi Kendra",
+    "address": "948P+2WH",
+    "category": "Pharmacy",
+    "phone": "+91 86800 02025",
+    "website": null,
+    "discovered_at": "2026-11-22 02:52:20.096811"
+  },
+  {
+    "place_id": "0x3b05ab0075a8fac9:0",
+    "name": "JR pharmacy",
+    "address": "74MG+3XX",
+    "category": "Pharmacy",
+    "phone": "+91 94898 21704",
+    "website": null,
+    "discovered_at": "2026-11-22 02:52:18.921437"
+  },
+  {
+    "place_id": "0x3b05abdc816fa617:0",
+    "name": "Dr. AJ PolyClinic",
+    "address": "main road, near fish market",
+    "category": "Medical clinic",
+    "phone": "+91 70102 78748",
+    "website": null,
+    "discovered_at": "2026-11-22 02:52:17.780279"
+  },
+  {
     "place_id": "0x3b05b11cbac35fa3:0",
     "name": "Lakshya makeover studio",
     "address": "nakranchira, near Rto Test Ground",
@@ -8962,41 +8998,5 @@
     "phone": "+91 70346 70970",
     "website": null,
     "discovered_at": "2026-11-18 12:23:47.077774"
-  },
-  {
-    "place_id": "0x3b05cfee8536d0dd:0",
-    "name": "NAVAS STORES AND SUPER BAZAR",
-    "address": "Navas store",
-    "category": "Supermarket",
-    "phone": "+91 94475 55015",
-    "website": null,
-    "discovered_at": "2026-11-18 12:23:45.791996"
-  },
-  {
-    "place_id": "0x3b05c7d96fa52e09:0",
-    "name": "Phezo Mobiles 2.0",
-    "address": "Opposite MPS hyper mart Vembayam, Junction",
-    "category": "Cell phone store",
-    "phone": "+91 85474 64620",
-    "website": null,
-    "discovered_at": "2026-11-18 12:23:43.985016"
-  },
-  {
-    "place_id": "0x3b05bb30b862826b:0",
-    "name": "Al Falah dental clinic",
-    "address": "CWXX+G9C, SM Lock Rd",
-    "category": "Dental clinic",
-    "phone": "+91 90208 38981",
-    "website": null,
-    "discovered_at": "2026-11-18 12:16:34.636377"
-  },
-  {
-    "place_id": "0x3b05bb4e05f386fb:0",
-    "name": "ABSOLUTE TRAVEL AGENCY",
-    "address": "MKK Nair Rd",
-    "category": "Travel agency",
-    "phone": "+91 79070 33586",
-    "website": null,
-    "discovered_at": "2026-11-18 12:08:56.011930"
   }
 ]
