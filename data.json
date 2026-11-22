@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b0455d0b21e3e81:0",
+    "name": "IRANI Restaurant Marthandam, Eraviputhoorkadai",
+    "address": "",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 08:06:35.205284"
+  },
+  {
+    "place_id": "0x3b05b19776e5f75d:0",
+    "name": "KASHINADH HOLIDAYS",
+    "address": "KASHINADH HOLIDAYS",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 08:06:34.022631"
+  },
+  {
+    "place_id": "0x3b05b1ce267468ad:0",
+    "name": "IRON CORE UNISEX FAMILY FITNESS CENTRE",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 08:06:32.701765"
+  },
+  {
     "place_id": "0x3b05b04714be4a8f:0",
     "name": "People For Animals, Trivandrum Chapter",
     "address": "Closes 5 PM",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-18 15:13:52.500829"
-  },
-  {
-    "place_id": "0x3b05bf320170bbe1:0",
-    "name": "Yummy Home Bakes by TRI P",
-    "address": "Patma Vihar, Kariyil, Kazhakuttom P.O",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 15:13:51.281358"
-  },
-  {
-    "place_id": "0x3b05bf032dce3529:0",
-    "name": "H Zone Physiotherapy & Rehabilitation",
-    "address": "HWJ2+QXW",
-    "category": "Physical therapist",
-    "phone": "+91 87148 95141",
-    "website": null,
-    "discovered_at": "2026-11-18 15:13:49.991684"
-  },
-  {
-    "place_id": "0x3b05bfa8f1c6f927:0",
-    "name": "CSI Mission Hospital",
-    "address": "",
-    "category": "Doctor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-18 15:13:48.750241"
   }
 ]
