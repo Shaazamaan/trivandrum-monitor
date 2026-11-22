@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05e97426399d8d:0",
+    "name": "Amania Medicals",
+    "address": "Bus Shelter, NH 66, Kaduvapalli-Karavaram Rd",
+    "category": "Pharmacy",
+    "phone": "+91 98460 24224",
+    "website": null,
+    "discovered_at": "2026-11-22 19:09:40.325738"
+  },
+  {
     "place_id": "0x3b05c90011f64567:0",
     "name": "Dilak",
     "address": "M3GP+43Q",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 03:31:23.014505"
-  },
-  {
-    "place_id": "0x3b05ae89abb0b8e9:0",
-    "name": "Deepa Garments",
-    "address": "93XQ+G4X",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:09:43.077388"
   }
 ]
