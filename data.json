@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b9e207aab3eb:0",
+    "name": "Care 32 Dental Designs",
+    "address": "GWGH+669, Medical College Ulloor Rd",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 22:16:22.213247"
+  },
+  {
+    "place_id": "0x3b05bb0a3ecca13b:0",
+    "name": "RangaMaalika Heritage Residency",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 22:16:20.993649"
+  },
+  {
     "place_id": "0x3b05c6b595e8cadd:0",
     "name": "FAMILY GENERAL STORE & BAKERY",
     "address": "MWGC+HW2, Pirappancode - Thembamoodu Rd",
@@ -8980,23 +8998,5 @@
     "phone": "+91 94001 09988",
     "website": null,
     "discovered_at": "2026-11-19 03:48:16.737305"
-  },
-  {
-    "place_id": "0x3b05b9873c105aa1:0",
-    "name": "Smart Point Mobile Shop",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": "+91 96336 33665",
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:15.491021"
-  },
-  {
-    "place_id": "0x3b05b9288310f651:0",
-    "name": "Chandras Home Made Foods",
-    "address": "Vattiyoorkavu P.O, CRA 69, Kavalloor Ln",
-    "category": "Food court",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:14.326953"
   }
 ]
