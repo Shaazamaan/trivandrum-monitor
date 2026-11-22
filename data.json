@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05af1b14085b55:0",
+    "name": "DM Mobiles",
+    "address": "92QX+3HR, Balaramapuram - Poovar Rd",
+    "category": "Cell phone store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-22 20:29:30.615530"
+  },
+  {
     "place_id": "0x3b05e97426399d8d:0",
     "name": "Amania Medicals",
     "address": "Bus Shelter, NH 66, Kaduvapalli-Karavaram Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 03:31:24.454553"
-  },
-  {
-    "place_id": "0x3b05b16ead1b002b:0",
-    "name": "Cafe 49 Killi",
-    "address": "Bus stop, near medicity hospital",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:31:23.014505"
   }
 ]
