@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b141e7c966ad:0",
+    "name": "Matha College Of Medical Technology",
+    "address": "",
+    "category": "College",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 14:27:59.369560"
+  },
+  {
     "place_id": "0x3b05ef85db471d35:0",
     "name": "Kuma Surf Varkala",
     "address": "Trivandrum",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 14:56:58.044352"
-  },
-  {
-    "place_id": "0x3b05af00196c5797:0",
-    "name": "RICHU A S",
-    "address": "Mulloor P O",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 14:56:56.832362"
   }
 ]
