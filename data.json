@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b97c99b0d0c9:0",
+    "name": "Spark Gents & kids beauty saloon",
+    "address": "Civil Station Road",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 04:29:28.128216"
+  },
+  {
     "place_id": "0x3b05bb74652705a1:0",
     "name": "Vinayaka Systems",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": "+91 97447 18000",
     "website": null,
     "discovered_at": "2026-11-19 08:51:42.643466"
-  },
-  {
-    "place_id": "0x3b05e9ab866a973f:0",
-    "name": "Shyam attingal",
-    "address": "MRW5+23H, Veeralam-Kizhakkupuram Rd",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 08:51:41.450614"
   }
 ]
