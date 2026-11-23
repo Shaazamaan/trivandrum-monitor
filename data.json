@@ -1,5 +1,221 @@
 [
   {
+    "place_id": "0x3b05b1fe0b4f3173:0",
+    "name": "Royal Group of Consultancy",
+    "address": "F3VG+5FW",
+    "category": "Recruiter",
+    "phone": "+91 87144 71822",
+    "website": null,
+    "discovered_at": "2026-11-23 01:34:18.418015"
+  },
+  {
+    "place_id": "0x3b05b114747b9835:0",
+    "name": "EVM Honda Kattakada",
+    "address": "",
+    "category": "Motorcycle dealer",
+    "phone": "+91 98957 77006",
+    "website": null,
+    "discovered_at": "2026-11-23 01:34:17.114658"
+  },
+  {
+    "place_id": "0x3b05b1ea68b4858d:0",
+    "name": "AGDC Kattakada",
+    "address": "Devi tower, near Devi auditorium",
+    "category": "Dance school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 01:34:15.253337"
+  },
+  {
+    "place_id": "0x3b05b168f7e0dcf5:0",
+    "name": "Reliable Institute Of English Kattakada",
+    "address": "G34Q+CHF",
+    "category": "English language school",
+    "phone": "+91 94470 00292",
+    "website": null,
+    "discovered_at": "2026-11-23 01:34:13.741206"
+  },
+  {
+    "place_id": "0x3b05b197f1e22375:0",
+    "name": "IISM - Integrated Institute Of Science and Management",
+    "address": "KSRTC Bus Terminal, Near",
+    "category": "Educational institution",
+    "phone": "+91 62825 93179",
+    "website": null,
+    "discovered_at": "2026-11-23 01:34:12.460267"
+  },
+  {
+    "place_id": "0x3b05b73e5910249b:0",
+    "name": "allus.store &Bakeri",
+    "address": "Kattakkada Kottoor Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 01:34:11.193244"
+  },
+  {
+    "place_id": "0x3b05b1a3e36b028f:0",
+    "name": "NILA CAKE WORLD",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 01:34:09.260400"
+  },
+  {
+    "place_id": "0x3b05b10056a018ad:0",
+    "name": "SJ Bake Kitchen",
+    "address": "F3X9+3J5",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 01:34:08.003719"
+  },
+  {
+    "place_id": "0x3b05b1004f34e925:0",
+    "name": "SJ Bake Kitchen",
+    "address": "F3X9+3H5",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 01:34:06.808221"
+  },
+  {
+    "place_id": "0x3b05b6bcc40bb261:0",
+    "name": "Rareeram Bakery and Provisional Store",
+    "address": "Kuzhiyamkonam, Kattakkada Kottoor Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 01:34:05.457357"
+  },
+  {
+    "place_id": "0x3b05b141cc0fd28d:0",
+    "name": "MASHA BAKERY",
+    "address": "G35M+R25, Market Road, Kattakada",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 01:34:04.226234"
+  },
+  {
+    "place_id": "0x3b05b139351e2a3f:0",
+    "name": "AROMAL BAKERY",
+    "address": "G37G+G5C",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 01:34:02.926251"
+  },
+  {
+    "place_id": "0x3b05b15fcbe5aaf9:0",
+    "name": "Kerala Academy of Pharmacy",
+    "address": "",
+    "category": "College",
+    "phone": "+91 89512 20590",
+    "website": null,
+    "discovered_at": "2026-11-23 01:34:01.693950"
+  },
+  {
+    "place_id": "0x3b05b142cebb3d31:0",
+    "name": "Dr Aromal's dental clinic",
+    "address": "66, opposite janananma medicals",
+    "category": "Dental clinic",
+    "phone": "+91 70195 19891",
+    "website": null,
+    "discovered_at": "2026-11-23 01:34:00.491044"
+  },
+  {
+    "place_id": "0x3b05b1a791305ce1:0",
+    "name": "Dr.Soorya's Dental Clinic",
+    "address": "kailasam building, Dr.Soorya's Dental Clinic, Moongodu Road, near little flower school",
+    "category": "Dental clinic",
+    "phone": "+91 86064 35024",
+    "website": null,
+    "discovered_at": "2026-11-23 01:33:59.099497"
+  },
+  {
+    "place_id": "0x3b05b099d19fa58b:0",
+    "name": "ABHAYAM DENTAL CLINIC",
+    "address": "",
+    "category": "Dental clinic",
+    "phone": "+91 90723 37336",
+    "website": null,
+    "discovered_at": "2026-11-23 01:33:57.871827"
+  },
+  {
+    "place_id": "0x3b05b0bdf2ea92d9:0",
+    "name": "Nakshathra Dental Clinic",
+    "address": "Nakshathra Arcade, Peyad - Vellanad Rd",
+    "category": "Dental clinic",
+    "phone": "+91 98957 10614",
+    "website": null,
+    "discovered_at": "2026-11-23 01:33:56.641475"
+  },
+  {
+    "place_id": "0x3b05b3cc5cf5cc69:0",
+    "name": "Dr Archa's Dental clinic",
+    "address": "Road",
+    "category": "Dental clinic",
+    "phone": "+91 91887 85085",
+    "website": null,
+    "discovered_at": "2026-11-23 01:33:55.324950"
+  },
+  {
+    "place_id": "0x3b05b14139e3c485:0",
+    "name": "N R Dental Care",
+    "address": "N R Dental Care, MP 1/56 B, opposite to boi atm",
+    "category": "Dental clinic",
+    "phone": "+91 80897 09458",
+    "website": null,
+    "discovered_at": "2026-11-23 01:33:53.768321"
+  },
+  {
+    "place_id": "0x3b05b1258d6dfe55:0",
+    "name": "V smile Dental Care",
+    "address": "Thachottukavu Anthiyoorkkonam Rd",
+    "category": "Dental clinic",
+    "phone": "+91 81295 49817",
+    "website": null,
+    "discovered_at": "2026-11-23 01:33:52.541517"
+  },
+  {
+    "place_id": "0x3b05b712469d72c9:0",
+    "name": "Care hospital ( multispeciality dental , medical and clinical laboratory)",
+    "address": "Junction, SH3",
+    "category": "Dental clinic",
+    "phone": "+91 86187 93717",
+    "website": null,
+    "discovered_at": "2026-11-23 01:33:51.321519"
+  },
+  {
+    "place_id": "0x3b05b14dbf056b53:0",
+    "name": "Noel Dental Care",
+    "address": "Opens 9 AM",
+    "category": "Closed",
+    "phone": "+91 95675 77685",
+    "website": null,
+    "discovered_at": "2026-11-23 01:33:49.897530"
+  },
+  {
+    "place_id": "0x3b05b16a8aa36a03:0",
+    "name": "Saroja Homoeo Clinic",
+    "address": "Kanchiyoorkonam Rd",
+    "category": "Homeopath",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 01:33:48.685564"
+  },
+  {
+    "place_id": "0x3b05b7e661d19c7f:0",
+    "name": "Brothers Dental Clinic & Orthodontic Centre",
+    "address": "Opens 9:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 01:33:47.469809"
+  },
+  {
     "place_id": "0x3b05bc651d6ee7bb:0",
     "name": "Grandeur Boutique",
     "address": "Smrithi, Kannathura, St.Antony's, Lane road, Veli - Perumathura Rd",
@@ -8782,221 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 08:10:42.559697"
-  },
-  {
-    "place_id": "0x3b05bba3160bae21:0",
-    "name": "Kavya's beauty parlour",
-    "address": "Women's College Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 08:10:41.322411"
-  },
-  {
-    "place_id": "0x3b05bdee7d8d62f7:0",
-    "name": "Publix Mart Supermarket Vettucaud",
-    "address": "Titanium road",
-    "category": "Asian grocery store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 08:10:40.108682"
-  },
-  {
-    "place_id": "0x3b05bbdb82698e2b:0",
-    "name": "Aabharanam by Mohana Vijin",
-    "address": "1st Floor, NGP Towers, Aabharanam by Mohana Vijin, Vazhuthacaud - Poojappura Rd, opposite Women's College Road",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 08:10:38.807466"
-  },
-  {
-    "place_id": "0x3b05c373807fe833:0",
-    "name": "ISHAS BOUTIQUE",
-    "address": "Kallara road",
-    "category": "Women's clothing store",
-    "phone": "+91 75940 27655",
-    "website": null,
-    "discovered_at": "2026-11-19 07:29:22.710544"
-  },
-  {
-    "place_id": "0x3b05c6966b2c728b:0",
-    "name": "Pullampara Government Veterinary Hospital",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 07:29:21.470994"
-  },
-  {
-    "place_id": "0x3b05bfe05536a5ed:0",
-    "name": "Dr Prem's Smile Lounge Dental Clinic",
-    "address": "Dr Prem's Smile Lounge Dental Clinic, po, near South Indian Bank",
-    "category": "Dental clinic",
-    "phone": "+91 90741 10913",
-    "website": null,
-    "discovered_at": "2026-11-19 07:12:25.331075"
-  },
-  {
-    "place_id": "0x3b05c0a359042bad:0",
-    "name": "Star Fastfood & Bakery",
-    "address": "Star Fast Food",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 06:24:58.625553"
-  },
-  {
-    "place_id": "0x3b0455a8fc05830f:0",
-    "name": "Tanishq Jewellery - Kanniyakumari - Marthandam",
-    "address": "beside Anantha Food Court",
-    "category": "Jewelry store",
-    "phone": "94890 59799",
-    "website": null,
-    "discovered_at": "2026-11-19 06:24:57.140155"
-  },
-  {
-    "place_id": "0x3b05b1fdaaed7a2b:0",
-    "name": "Hawks GYM",
-    "address": "Closes 11 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 06:17:43.687671"
-  },
-  {
-    "place_id": "0x3b05a5cc57191b7b:0",
-    "name": "Devsree clinic (special skin care Nb wards, moles, skin care and food corn remove naturally)",
-    "address": "Kovalam Rd",
-    "category": "Skin care clinic",
-    "phone": "+91 70120 49207",
-    "website": null,
-    "discovered_at": "2026-11-19 06:03:03.524703"
-  },
-  {
-    "place_id": "0x3b05e9d8758c0779:0",
-    "name": "Jan Aushadhi Medical Store",
-    "address": "P O, NJEKKAD,VADASSERIKONAM",
-    "category": "Pharmacy",
-    "phone": "+91 99957 64881",
-    "website": null,
-    "discovered_at": "2026-11-19 05:48:16.065171"
-  },
-  {
-    "place_id": "0x3b05b97cd08dbc37:0",
-    "name": "DRISHYAM EYE CARE & OPTICALS",
-    "address": "JUNCTION",
-    "category": "Optometrist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 05:39:06.692025"
-  },
-  {
-    "place_id": "0x3b05bf006a4a2261:0",
-    "name": "Unique Fashions",
-    "address": "Attinkuzhi Rd, near Technopark Road",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 04:51:46.691000"
-  },
-  {
-    "place_id": "0x3b05bbc077f0cb75:0",
-    "name": "Black & White Unisex Salon",
-    "address": "",
-    "category": "Beauty salon",
-    "phone": "+91 75368 14655",
-    "website": null,
-    "discovered_at": "2026-11-19 04:37:04.744708"
-  },
-  {
-    "place_id": "0x3b05bd94215f75ed:0",
-    "name": "BeKiddy BeLady Designer Boutique",
-    "address": "sugavas\", tc 79/2357, ARA 115(A), karikakkam.p.o",
-    "category": "Boutique",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 04:37:03.450684"
-  },
-  {
-    "place_id": "0x3b05bb9328fdb247:0",
-    "name": "PalmWorld nongu(നോങ്ക്) juice shop",
-    "address": "Viswambharan Road, opposite ksrtc bus depo",
-    "category": "Food bank",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 04:11:32.364934"
-  },
-  {
-    "place_id": "0x3b05bb76d3f76df9:0",
-    "name": "Olive Jewellers",
-    "address": "",
-    "category": "Jewelry store",
-    "phone": "+91 88485 71038",
-    "website": null,
-    "discovered_at": "2026-11-19 04:02:54.312755"
-  },
-  {
-    "place_id": "0x3b05bb96a5a129ed:0",
-    "name": "SANTHI SWEETS AND BAKERY",
-    "address": "SHOP NO 1, SANTHI SWEETS AND BAKERY, DOMESTIC, Airport Rd, opp. DOMESTIC AIRPORT",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:55:55.617358"
-  },
-  {
-    "place_id": "0x3b05b01bb1ba6eb9:0",
-    "name": "Vishnu Bakery and Cafe",
-    "address": "Pravachambalam C2XG+X62 Kattakada, junction, Road",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:55:54.454174"
-  },
-  {
-    "place_id": "0x3b05b9f57c9c0bc1:0",
-    "name": "KSEB Ltd, Vattiyoorkavu",
-    "address": "GXFV+6QF, Vattiyoorkavu - Kulasekharam Rd",
-    "category": "State government office",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:36.600386"
-  },
-  {
-    "place_id": "0x3b05ba3b01ad1ac5:0",
-    "name": "BaseTube Spaces",
-    "address": "PTPN/33",
-    "category": "Design agency",
-    "phone": "+91 98472 03777",
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:35.461386"
-  },
-  {
-    "place_id": "0x3b05bbabf750291b:0",
-    "name": "Al Hind Health Tourism",
-    "address": "KUNNAMPARA",
-    "category": "Travel agency",
-    "phone": "+91 87143 20977",
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:34.289330"
-  },
-  {
-    "place_id": "0x3b05bbf031f73f53:0",
-    "name": "Kerala Journeys",
-    "address": "Sree Nandanam, TC 36/2879, GRA 283 Vinayaka Lane, Guruji Road, Kuruvikkadu, PO",
-    "category": "Tour operator",
-    "phone": "+91 94973 17723",
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:33.131095"
-  },
-  {
-    "place_id": "0x3b05bb1abc139257:0",
-    "name": "Globe Max Designs",
-    "address": "Kochar Rd",
-    "category": "Architect",
-    "phone": "+91 85929 29398",
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:31.839981"
   }
 ]
