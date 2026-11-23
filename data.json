@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb74652705a1:0",
+    "name": "Vinayaka Systems",
+    "address": "",
+    "category": "Mobile phone repair shop",
+    "phone": "+91 79092 42463",
+    "website": null,
+    "discovered_at": "2026-11-23 04:21:57.444774"
+  },
+  {
+    "place_id": "0x3b05b91c9e94031d:0",
+    "name": "Oottupura catering service",
+    "address": "Manalayam Jn, Malamukal Road Kodunganoor P O, Malamugal Rd",
+    "category": "Catering food and drink supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 04:21:56.097580"
+  },
+  {
     "place_id": "0x3b05abc5c0377279:0",
     "name": "Mubarak Hotel",
     "address": "Trivandrum - Nagercoil Hwy",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 08:51:41.450614"
-  },
-  {
-    "place_id": "0x3b05e90049a35491:0",
-    "name": "Sree Narayan building attingal",
-    "address": "PR24+7Q9, Market Rd",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 08:51:40.285603"
-  },
-  {
-    "place_id": "0x3b05ebf8732373ab:0",
-    "name": "SHREYAS ATTINGAL",
-    "address": "MRQ5+V3W",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 08:51:39.109207"
   }
 ]
