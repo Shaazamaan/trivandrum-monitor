@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bf966f5dd6a9:0",
+    "name": "Homeo Medicals",
+    "address": "HVQ4+98G, Chirayinkeezhu Kaniyapuram Rd",
+    "category": "Pharmacy",
+    "phone": "+91 99610 38029",
+    "website": null,
+    "discovered_at": "2026-11-23 20:39:19.412722"
+  },
+  {
     "place_id": "0x3b05a56d023f325d:0",
     "name": "Government Ayurveda Hospital,Venganoor",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 16:03:46.829064"
-  },
-  {
-    "place_id": "0x3b05bf4431d90cd5:0",
-    "name": "Angel's Tuition Centre",
-    "address": "HRJP+3G7",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 15:56:05.186537"
   }
 ]
