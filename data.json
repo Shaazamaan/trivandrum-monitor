@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c7003c961f8b:0",
+    "name": "A. A. Bhavan",
+    "address": "Vazhakkadu, Anu. M. Nair. A. A, bhavan, Nannattukavu Rd",
+    "category": "Housing society",
+    "phone": "+91 70126 14942",
+    "website": null,
+    "discovered_at": "2026-11-23 14:42:30.572828"
+  },
+  {
+    "place_id": "0x3b05bbc2b7326141:0",
+    "name": "Dr Rahul Physiotherapy Clinic and Consultation",
+    "address": "Sankaran Nair Road",
+    "category": "Physical therapy clinic",
+    "phone": "+91 62824 16878",
+    "website": null,
+    "discovered_at": "2026-11-23 14:42:28.856271"
+  },
+  {
     "place_id": "0x3b05abf9eaf170e3:0",
     "name": "DiYES International School",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 14:57:10.699612"
-  },
-  {
-    "place_id": "0x3b05bb007be488b9:0",
-    "name": "Dr.Anulakshmi's Eye care Clinic",
-    "address": "Opens 8 AM Sun",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 14:57:09.470817"
-  },
-  {
-    "place_id": "0x3b05a5f9aa3f0b0d:0",
-    "name": "Paradise Gardens Beach Resort & Ayurveda Centre",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 14:57:08.214227"
   }
 ]
