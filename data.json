@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bd629558a9bf:0",
+    "name": "Trivanz Food Court – Seafood Restaurant in Trivandrum",
+    "address": "",
+    "category": "Seafood restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 15:04:28.299276"
+  },
+  {
+    "place_id": "0x3b05bb31f02cece7:0",
+    "name": "Naz Wood Industries",
+    "address": "Near Milma Dairy",
+    "category": "Furniture wholesaler",
+    "phone": "+91 98952 70421",
+    "website": null,
+    "discovered_at": "2026-11-23 15:04:27.001944"
+  },
+  {
     "place_id": "0x3b05c7003c961f8b:0",
     "name": "A. A. Bhavan",
     "address": "Vazhakkadu, Anu. M. Nair. A. A, bhavan, Nannattukavu Rd",
@@ -8980,23 +8998,5 @@
     "phone": "+91 98959 50172",
     "website": null,
     "discovered_at": "2026-11-19 14:57:13.273697"
-  },
-  {
-    "place_id": "0x3b05b996e09cb115:0",
-    "name": "JMR FURNITURE",
-    "address": "Kachani Aruvikkara Rd",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 14:57:12.092445"
-  },
-  {
-    "place_id": "0x3b05ad5807498e77:0",
-    "name": "Satheesh Bakery And Coolbar",
-    "address": "C4G8+RV4",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 14:57:10.699612"
   }
 ]
