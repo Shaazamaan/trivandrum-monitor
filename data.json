@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05ae63d88930b9:0",
+    "name": "Neeti Medical Store",
+    "address": "Mini Civil Station",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 01:12:12.596650"
+  },
+  {
+    "place_id": "0x3b05c35bed8dedc1:0",
+    "name": "RAJ GOLD JEWELLERY",
+    "address": "Shop No1 RAJ GOLD JEWELLERY Near Unnis Pookada Ayilam Junction, Road",
+    "category": "Jewelry store",
+    "phone": "+91 99618 21011",
+    "website": null,
+    "discovered_at": "2026-11-23 01:12:11.231777"
+  },
+  {
     "place_id": "0x3b05b94a43a62921:0",
     "name": "Bangles Beauty Parlour & Spa",
     "address": "GWVC+RR2",
@@ -8980,23 +8998,5 @@
     "phone": "+91 88484 80887",
     "website": null,
     "discovered_at": "2026-11-19 03:48:30.688041"
-  },
-  {
-    "place_id": "0x3b05bb0bef08e9a5:0",
-    "name": "studio pachha (Architects)",
-    "address": "FIRST FLOOR, HIGH SCHOOL LINE, VNRA A42",
-    "category": "Architecture firm",
-    "phone": "+91 62388 62277",
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:29.430244"
-  },
-  {
-    "place_id": "0x3b05b9000e8b8e07:0",
-    "name": "Heavenly Garden",
-    "address": "44",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:28.301544"
   }
 ]
