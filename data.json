@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05ea44797813b1:0",
+    "name": "edu zone",
+    "address": "MQ7W+7PF",
+    "category": "School center",
+    "phone": "+91 96055 56123",
+    "website": null,
+    "discovered_at": "2026-11-23 15:11:42.408813"
+  },
+  {
+    "place_id": "0x3b05eb3774962c67:0",
+    "name": "BIZAZZI ROLLS AND GRILLS",
+    "address": "CP4124 EENCHAKKAL, Valiyakada Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 15:11:41.211730"
+  },
+  {
+    "place_id": "0x3b05ea4deee56a25:0",
+    "name": "Champion Medicals",
+    "address": "",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 15:11:40.009367"
+  },
+  {
     "place_id": "0x3b05bd629558a9bf:0",
     "name": "Trivanz Food Court – Seafood Restaurant in Trivandrum",
     "address": "",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 14:57:17.042539"
-  },
-  {
-    "place_id": "0x3b05bb48acb67907:0",
-    "name": "TINTED TREASURE",
-    "address": "Tc 47/1273(3, BINRAJ tower akshaya centre, 1273(3, PO, opposite to poonthura",
-    "category": "Jewelry store",
-    "phone": "+91 98959 37532",
-    "website": null,
-    "discovered_at": "2026-11-19 14:57:15.768704"
-  },
-  {
-    "place_id": "0x3b05bde6fbec5383:0",
-    "name": "Styloak Furniture",
-    "address": "Styloak furnitures,shangumukham,Beach P.O,Thiruvananthapuram GV Raja A street",
-    "category": "Furniture store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 14:57:14.467052"
-  },
-  {
-    "place_id": "0x3b05afe92caba16d:0",
-    "name": "M A R FURNITURE",
-    "address": "Opens 9 AM Fri",
-    "category": "Closed",
-    "phone": "+91 98959 50172",
-    "website": null,
-    "discovered_at": "2026-11-19 14:57:13.273697"
   }
 ]
