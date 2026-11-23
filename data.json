@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05bb8b90b58743:0",
+    "name": "MP TOURS & TRAVELS",
+    "address": "VARA-251-A,T.C.36/2091-2, HM Villa (first floor), mulamoodu lane, Vattiyoorkkav-Arappura Rd",
+    "category": "Travel agency",
+    "phone": "+91 98950 26000",
+    "website": null,
+    "discovered_at": "2026-11-23 17:34:55.490729"
+  },
+  {
+    "place_id": "0x3b05bbd7a9b58ecd:0",
+    "name": "Studio Hohm by Abhishek sharma architects (OPC).Pvt .Ltd",
+    "address": "Sai Kripa Valliyavila, VNRA 132/6, Po",
+    "category": "Interior designer",
+    "phone": "+91 88484 80887",
+    "website": null,
+    "discovered_at": "2026-11-23 17:34:54.069727"
+  },
+  {
+    "place_id": "0x3b05bb5a452bbaa9:0",
+    "name": "Aarjav Residecy",
+    "address": "Aarjav Residency, Nirmathi Lane, near Central Poly Technic",
+    "category": "Apartment building",
+    "phone": "+91 98460 03740",
+    "website": null,
+    "discovered_at": "2026-11-23 17:34:52.747941"
+  },
+  {
+    "place_id": "0x3b05bb00034448cb:0",
+    "name": "Kodiyattu",
+    "address": "Vijaya Gardens, Vattiyoorkavu - Kulasekharam Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 17:34:51.433098"
+  },
+  {
+    "place_id": "0x3b05bb00404bc877:0",
+    "name": "Guruji Road, Kuruvikkadu, Vattiyoorkavu",
+    "address": "GX9W+73R, Guruji Road",
+    "category": "Housing society",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 17:34:50.163631"
+  },
+  {
+    "place_id": "0x3b05bb004f1c4ab7:0",
+    "name": "Keziya vattiyoorkavu",
+    "address": "Souparnika Gardens, sra2, Vattiyoorkavu - Kulasekharam Road, Netaji Rd",
+    "category": "Housing complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 17:34:48.860463"
+  },
+  {
+    "place_id": "0x3b05bb006a965c45:0",
+    "name": "Panthavoor Mana",
+    "address": "KPNRAA159, Vattiyoorkavu - Kulasekharam Rd",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 17:34:47.608949"
+  },
+  {
     "place_id": "0x3b05b90c6c61d3eb:0",
     "name": "BOTTOMLINE TAX & ACCOUNTING SOLUTIONS",
     "address": "Mannayam Line",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 15:04:36.497112"
-  },
-  {
-    "place_id": "0x3b05ba2bdba7564b:0",
-    "name": "BIJU & ASSOCIATES, Chartered Accountants",
-    "address": "65D",
-    "category": "Corporate office",
-    "phone": "+91 89214 54558",
-    "website": null,
-    "discovered_at": "2026-11-19 14:57:29.262727"
-  },
-  {
-    "place_id": "0x3b05a55b9280c2a5:0",
-    "name": "Pv Decorations & Catering",
-    "address": "+91 98959 22811",
-    "category": "Open 24 hours",
-    "phone": "+91 98959 22811",
-    "website": null,
-    "discovered_at": "2026-11-19 14:57:28.003388"
-  },
-  {
-    "place_id": "0x3b05bbaa4fd29295:0",
-    "name": "Astro Nascente Builders and Interiors",
-    "address": "Building Vanchiyor, First Floor at Kaladi & Kumbalathu, Pattoor - Vanchiyoor Rd",
-    "category": "Interior designer",
-    "phone": "+91 95673 45740",
-    "website": null,
-    "discovered_at": "2026-11-19 14:57:26.110251"
-  },
-  {
-    "place_id": "0x3b05bbb58dcbb3f7:0",
-    "name": "Vibe Casa Concepts",
-    "address": "",
-    "category": "Interior designer",
-    "phone": "+91 98469 80080",
-    "website": null,
-    "discovered_at": "2026-11-19 14:57:24.718927"
-  },
-  {
-    "place_id": "0x3b05a9a876dcf1d1:0",
-    "name": "Federal Bank - Poovar",
-    "address": "",
-    "category": "Bank",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 14:57:23.475120"
-  },
-  {
-    "place_id": "0x3b05a9000d46a705:0",
-    "name": "POOVAR KERALA",
-    "address": "DOMINIC VARGHESE, EDAYIKKAL VEEDU",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 14:57:22.242250"
-  },
-  {
-    "place_id": "0x3b05a9093cea2dbd:0",
-    "name": "IT Kiosk Computer Education",
-    "address": "BUS STAND, opp. KSRTC",
-    "category": "Computer training school",
-    "phone": "+91 80893 75738",
-    "website": null,
-    "discovered_at": "2026-11-19 14:57:20.838647"
   }
 ]
