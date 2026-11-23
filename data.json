@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b94a43a62921:0",
+    "name": "Bangles Beauty Parlour & Spa",
+    "address": "GWVC+RR2",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 00:05:48.156560"
+  },
+  {
     "place_id": "0x3b05c9ad7b799387:0",
     "name": "NYHA BAKERY",
     "address": "J3X5+5G6, Tholicode",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 03:48:28.301544"
-  },
-  {
-    "place_id": "0x3b05b9f3b2fa1f15:0",
-    "name": "HUNTRED ACADEMY",
-    "address": "opp. CPT",
-    "category": "Educational institution",
-    "phone": "+91 73567 52353",
-    "website": null,
-    "discovered_at": "2026-11-19 03:48:27.156222"
   }
 ]
