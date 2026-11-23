@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bef38a58bf57:0",
+    "name": "Ganga Food Court",
+    "address": "1sr, Technopark Phase III Main Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 05:20:18.664856"
+  },
+  {
     "place_id": "0x3b05b97c99b0d0c9:0",
     "name": "Spark Gents & kids beauty saloon",
     "address": "Civil Station Road",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 09:17:17.867512"
-  },
-  {
-    "place_id": "0x3b05c16e8db54bd9:0",
-    "name": "INDOGRACE PROJECTS",
-    "address": "Mile Stone, 16th, beside BuildHUB",
-    "category": "Roofing contractor",
-    "phone": "+91 97447 18000",
-    "website": null,
-    "discovered_at": "2026-11-19 08:51:42.643466"
   }
 ]
