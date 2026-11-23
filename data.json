@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05ef0064c5fea7:0",
+    "name": "DRAPIQ_CO",
+    "address": "Temple Rd",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 08:40:07.441095"
+  },
+  {
+    "place_id": "0x3b05ef3acdaf79a1:0",
+    "name": "NEW MANGALA MEDICAL CENTRE (NMMC)",
+    "address": "",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 08:40:06.272801"
+  },
+  {
+    "place_id": "0x3b05ef0066b978db:0",
+    "name": "Dr. Neelu Samudra Ayurvedic Clinic",
+    "address": "PPJM+869, Varkala Kallambalam Rd",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 08:40:04.962159"
+  },
+  {
+    "place_id": "0x3b05efe3c8e1e6e3:0",
+    "name": "B'Canti Ayurveda & Yoga Wellness Ashram",
+    "address": "Sree Eight, Edava",
+    "category": "Wellness center",
+    "phone": "+91 98464 45000",
+    "website": null,
+    "discovered_at": "2026-11-23 08:40:02.587183"
+  },
+  {
+    "place_id": "0x3b05bf225b9f3175:0",
+    "name": "My Tutor",
+    "address": "Tc 101, Mytutor lane",
+    "category": "Educational consultant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 08:40:00.481431"
+  },
+  {
     "place_id": "0x3b05bb4b20b024df:0",
     "name": "ZENITH ACADEMY PATTOM",
     "address": "PLRA-184, Panachamoodu Ln",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 09:43:05.165014"
-  },
-  {
-    "place_id": "0x3b05b90b9ee73b9d:0",
-    "name": "Highland Park",
-    "address": "",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 09:43:03.957214"
-  },
-  {
-    "place_id": "0x3b05b95cf9e6b6d1:0",
-    "name": "Muthoot Rainbow Apartment",
-    "address": "Muthoot Rainbow, Krishna Nagar Rd, opp. peroor hospital",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 09:43:02.756230"
-  },
-  {
-    "place_id": "0x3b05b9548eac55b3:0",
-    "name": "Powerlink Hilary",
-    "address": "",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 09:43:01.422798"
-  },
-  {
-    "place_id": "0x3b05b982d6388053:0",
-    "name": "Sreematha Tex",
-    "address": "GXP8+GRJ",
-    "category": "Clothing store",
-    "phone": "+91 94950 43769",
-    "website": null,
-    "discovered_at": "2026-11-19 09:43:00.161359"
-  },
-  {
-    "place_id": "0x3b05b9007d60d949:0",
-    "name": "Raja Textiles",
-    "address": "opposite post office",
-    "category": "Clothing store",
-    "phone": "+91 99614 01056",
-    "website": null,
-    "discovered_at": "2026-11-19 09:42:58.918710"
   }
 ]
