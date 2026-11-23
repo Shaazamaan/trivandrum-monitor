@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb073e305b89:0",
+    "name": "PM JEWELLERY SILVER",
+    "address": "Closes 8:30 PM",
+    "category": "Open",
+    "phone": "+91 70122 55184",
+    "website": null,
+    "discovered_at": "2026-11-23 07:56:02.130277"
+  },
+  {
+    "place_id": "0x3b05bba5cba5542d:0",
+    "name": "Mobile Care",
+    "address": "SS Kovil Rd",
+    "category": "Cell phone store",
+    "phone": "+91 97452 71481",
+    "website": null,
+    "discovered_at": "2026-11-23 07:56:00.838643"
+  },
+  {
     "place_id": "0x3b05eb2c15f224a5:0",
     "name": "Peak Fly Solutions",
     "address": "Harisri building, Chirayinkeezhu Rd, near ghss",
@@ -8980,23 +8998,5 @@
     "phone": "+91 94959 44196",
     "website": null,
     "discovered_at": "2026-11-19 09:42:57.709169"
-  },
-  {
-    "place_id": "0x3b05b9a4de48317d:0",
-    "name": "Thomson Bakers",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 09:42:56.431011"
-  },
-  {
-    "place_id": "0x3b05bbbb9313d9df:0",
-    "name": "Al Taza - Trivandrum",
-    "address": "",
-    "category": "Shawarma restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 09:42:55.222986"
   }
 ]
