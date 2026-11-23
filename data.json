@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb1f066c1207:0",
+    "name": "Katta's Hair Salon",
+    "address": "",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 02:53:18.202518"
+  },
+  {
+    "place_id": "0x3b05bb00295e70ef:0",
+    "name": "Kritz Cafe",
+    "address": "SS Kovil Rd",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 02:53:16.898969"
+  },
+  {
     "place_id": "0x3b05bba80470405b:0",
     "name": "Juice Stick - Sugar Cane Juice Shop",
     "address": "FWPG+W5C",
@@ -8980,23 +8998,5 @@
     "phone": "+91 86064 59681",
     "website": null,
     "discovered_at": "2026-11-19 08:51:32.011545"
-  },
-  {
-    "place_id": "0x3b05e966e7a4c275:0",
-    "name": "Siva Brahmam Painting Works",
-    "address": "Vadasserikonam P. O, Njekkadu",
-    "category": "Contractor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 08:51:30.702441"
-  },
-  {
-    "place_id": "0x3b05e8ee5fdfe3e5:0",
-    "name": "P&J Floorings",
-    "address": "P&J FLOORINGS, factory junction",
-    "category": "Tile store",
-    "phone": "+91 90616 10055",
-    "website": null,
-    "discovered_at": "2026-11-19 08:51:29.515732"
   }
 ]
