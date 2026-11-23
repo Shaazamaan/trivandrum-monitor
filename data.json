@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05abc5c0377279:0",
+    "name": "Mubarak Hotel",
+    "address": "Trivandrum - Nagercoil Hwy",
+    "category": "Non vegetarian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 04:07:50.137892"
+  },
+  {
     "place_id": "0x3b05a5963c606311:0",
     "name": "India Tours and Travels Kovalam",
     "address": "Sea Rock Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 08:51:39.109207"
-  },
-  {
-    "place_id": "0x3b05e9cfd48253ab:0",
-    "name": "IELTS Auricle Education",
-    "address": "",
-    "category": "College",
-    "phone": "+91 81380 00813",
-    "website": null,
-    "discovered_at": "2026-11-19 08:51:37.954694"
   }
 ]
