@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b9004c4ec7bd:0",
+    "name": "Anju's Zumba Fitness Center",
+    "address": "HWM9+HRR, Sreekariyam - Powdikonam - Pothencode Rd",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 06:05:51.547904"
+  },
+  {
     "place_id": "0x3b05bb696254bbb7:0",
     "name": "Pawstel Trivandrum",
     "address": "KRWA-15B, Kattachal Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 09:42:51.429029"
-  },
-  {
-    "place_id": "0x3b05ba1fb97bc53d:0",
-    "name": "S.S Furniture Mart",
-    "address": "GXGQ+4QC",
-    "category": "Furniture store",
-    "phone": "+91 77364 14121",
-    "website": null,
-    "discovered_at": "2026-11-19 09:42:50.001722"
   }
 ]
