@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbfcd4d5840d:0",
+    "name": "Saroja Medicals",
+    "address": "GWCH+RV2, Pazhaya Road, Pottakuzhy Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 03:00:09.890506"
+  },
+  {
+    "place_id": "0x3b05bb002f27655f:0",
+    "name": "Trivandrumcabs Tours & travels",
+    "address": "3496",
+    "category": "Taxi service",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 03:00:08.373507"
+  },
+  {
     "place_id": "0x3b05bb1f066c1207:0",
     "name": "Katta's Hair Salon",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": "+91 83300 02017",
     "website": null,
     "discovered_at": "2026-11-19 08:51:34.400644"
-  },
-  {
-    "place_id": "0x3b05ef0068c1473b:0",
-    "name": "Xtreme Holidays & Taxi Service Varkala",
-    "address": "PPPG+G28, Varkala - Madathara Rd",
-    "category": "Taxi service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 08:51:33.163579"
-  },
-  {
-    "place_id": "0x3b05e9c24d294ce3:0",
-    "name": "Modern events",
-    "address": "+91 86064 59681",
-    "category": "Open 24 hours",
-    "phone": "+91 86064 59681",
-    "website": null,
-    "discovered_at": "2026-11-19 08:51:32.011545"
   }
 ]
