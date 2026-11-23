@@ -1,5 +1,77 @@
 [
   {
+    "place_id": "0x3b05c9004d74b94f:0",
+    "name": "JO Fitness Academy",
+    "address": "J3CM+F8W, Parandode - Meenankal Rd",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 23:38:17.956985"
+  },
+  {
+    "place_id": "0x3b05c9643356548d:0",
+    "name": "SARASWATHY TRADERS",
+    "address": "No.547, Saraswathy Traders, KPSM Junction, Thiruvananthapuram - Ponmudi Rd",
+    "category": "Spice store",
+    "phone": "+91 82488 03616",
+    "website": null,
+    "discovered_at": "2026-11-23 23:38:16.747612"
+  },
+  {
+    "place_id": "0x3b05c8b5fa90fc01:0",
+    "name": "SASTHA SUPER MARKET",
+    "address": "M2WM+74M, Vithura - Palode Rd",
+    "category": "Grocery store",
+    "phone": "+91 94461 72036",
+    "website": null,
+    "discovered_at": "2026-11-23 23:38:15.472043"
+  },
+  {
+    "place_id": "0x3b05cd6bc048d55b:0",
+    "name": "S M K GINGER HOTEL",
+    "address": "Vithura",
+    "category": "Restaurant",
+    "phone": "+91 85476 78927",
+    "website": null,
+    "discovered_at": "2026-11-23 23:38:14.178536"
+  },
+  {
+    "place_id": "0x3b05cb144b87553b:0",
+    "name": "Bonacaud, Vithura",
+    "address": "",
+    "category": "Tourist attraction",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 23:38:12.942795"
+  },
+  {
+    "place_id": "0x3b05c953c7bd3325:0",
+    "name": "A2Z Sky Garden",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 94466 95577",
+    "website": null,
+    "discovered_at": "2026-11-23 23:38:11.663997"
+  },
+  {
+    "place_id": "0x3b05cb007947accb:0",
+    "name": "Hotel pothykai",
+    "address": "M5J9+3MP, Vithura - Bonacaud Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-23 23:38:10.413520"
+  },
+  {
+    "place_id": "0x3b05c9f005dbda6d:0",
+    "name": "JASMIN S",
+    "address": "MALABAR HOTEL, Thiruvananthapuram - Ponmudi Rd",
+    "category": "Fast food restaurant",
+    "phone": "+91 97448 48169",
+    "website": null,
+    "discovered_at": "2026-11-23 23:38:09.108332"
+  },
+  {
     "place_id": "0x3b05ef190019cda1:0",
     "name": "Namaste Varkala Tours & Travels",
     "address": "Paravur - Varkala Rd",
@@ -8926,77 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 17:18:11.703284"
-  },
-  {
-    "place_id": "0x3b05b9292fc30cc1:0",
-    "name": "KOTTURAN",
-    "address": "Kacheri Nada",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 17:18:10.449093"
-  },
-  {
-    "place_id": "0x3b05b92007a290af:0",
-    "name": "Indraprastha Hotel Nedumangad",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 17:18:09.198167"
-  },
-  {
-    "place_id": "0x3b05b900358ecfe1:0",
-    "name": "Mukkola jn",
-    "address": "JX2M+VFW, Junction",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 17:18:07.943425"
-  },
-  {
-    "place_id": "0x3b05b804a6900935:0",
-    "name": "Paris Hotel",
-    "address": "",
-    "category": "Non vegetarian restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 17:18:06.723736"
-  },
-  {
-    "place_id": "0x3b05adaf91832753:0",
-    "name": "ALLINA CAKESIE",
-    "address": "NI ITI, PARASSALA ROAD, opp. NEYYATTINKARA",
-    "category": "Cake shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 17:18:05.461516"
-  },
-  {
-    "place_id": "0x3b05ef28598cb18d:0",
-    "name": "Jan aashraya medicals maithanam varkala",
-    "address": "PPMG+HC2, Varkala-Thazhevettoor Road",
-    "category": "Medical supply store",
-    "phone": "+91 96456 18679",
-    "website": null,
-    "discovered_at": "2026-11-19 17:02:02.400436"
-  },
-  {
-    "place_id": "0x3b05bbac0635fca5:0",
-    "name": "B CLOTHING",
-    "address": "Closes 11:30 PM",
-    "category": "Open",
-    "phone": "+91 80895 56074",
-    "website": null,
-    "discovered_at": "2026-11-19 16:47:22.301911"
-  },
-  {
-    "place_id": "0x3b05bf00420d46af:0",
-    "name": "Rock Deck",
-    "address": "HVH8+X4M",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 16:11:04.170057"
   }
 ]
