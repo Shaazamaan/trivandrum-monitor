@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05a592fa86358d:0",
+    "name": "Evis Boutique",
+    "address": "9XHW+JM7, Kottappuram Rd",
+    "category": "Boutique",
+    "phone": "+91 90729 23316",
+    "website": null,
+    "discovered_at": "2026-11-24 22:26:50.767554"
+  },
+  {
+    "place_id": "0x3b05a58166c68237:0",
+    "name": "Cage of Fashion Boutique",
+    "address": "92V3+VXW, NEELAKESHI ROAD, near OLD SUB REGISTRAR OFFICE",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 22:26:49.426161"
+  },
+  {
+    "place_id": "0x3b05a5d505a7b5c9:0",
+    "name": "SOUHRUDA MEDICALS",
+    "address": "KOLIYOOR",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 22:26:48.129031"
+  },
+  {
+    "place_id": "0x3b05a58bd86c4e05:0",
+    "name": "NETRA EYE CARE & OPTICALS",
+    "address": "92M4+2R8",
+    "category": "Optician",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 22:26:46.906020"
+  },
+  {
     "place_id": "0x3b05c7e54fbad315:0",
     "name": "Fresh Juice & Shakes",
     "address": "JXFX+RWC, Thiruvananthapuram - Thenmala Rd",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 22:08:11.500566"
-  },
-  {
-    "place_id": "0x3b05bf6e6d780101:0",
-    "name": "REWELLUTION @ TRV | Human Performance Centre",
-    "address": "Opens 6 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 21:24:55.236899"
-  },
-  {
-    "place_id": "0x3b05bfa6b5958e77:0",
-    "name": "LUXE GYM",
-    "address": "Opens 5:30 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 21:24:54.008720"
-  },
-  {
-    "place_id": "0x3b05bf0016b0711f:0",
-    "name": "Sweat to Fit",
-    "address": "First floor, logtech tower",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 21:24:52.779334"
-  },
-  {
-    "place_id": "0x3b05bf1055ca2e23:0",
-    "name": "GIANT Fitness Centre",
-    "address": "Thrippadapuram Road",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 21:24:51.606336"
   }
 ]
