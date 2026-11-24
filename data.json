@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c1298a155bc9:0",
+    "name": "Alpha Tuition Centre",
+    "address": "MWJ6+M2G, Venjaramoodu Market Road",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 02:21:26.522475"
+  },
+  {
+    "place_id": "0x3b05c1b51153934b:0",
+    "name": "Talent Academy PSC Coaching Center Trivandrum Venjaramoodu",
+    "address": "1st Floor, Athulya Building, near Central Bank of India",
+    "category": "Coaching center",
+    "phone": "+91 75940 45757",
+    "website": null,
+    "discovered_at": "2026-11-24 02:21:25.309815"
+  },
+  {
     "place_id": "0x3b05bb08f0c97c21:0",
     "name": "PEEVEES Furniture Shop",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 17:18:18.477551"
-  },
-  {
-    "place_id": "0x3b05b9f197f9b0f3:0",
-    "name": "Variety bakery",
-    "address": "Hospital Rd",
-    "category": "Hotel",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 17:18:17.071601"
-  },
-  {
-    "place_id": "0x3b05c79dadc1f947:0",
-    "name": "N B Bakery",
-    "address": "N B BAKERY NEAR MILK SOCIETY IRINCHIYAM, NEDUMANGADU ROAD",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 17:18:12.924905"
   }
 ]
