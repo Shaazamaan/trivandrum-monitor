@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05ab64380bab59:0",
+    "name": "Sarath Furniture Mart",
+    "address": "9537+FPH, Parassala Vellarada Rd",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 12:39:41.521796"
+  },
+  {
     "place_id": "0x3b05bb001255991b:0",
     "name": "Sabrosa Cafe",
     "address": "FWHV+GHV",
@@ -8989,14 +8998,5 @@
     "phone": "+91 93494 61583",
     "website": null,
     "discovered_at": "2026-11-19 19:31:43.797013"
-  },
-  {
-    "place_id": "0x3b05bbefd0478ccb:0",
-    "name": "STHENOS Physiotherapy",
-    "address": "",
-    "category": "Physiotherapy Center",
-    "phone": "+91 62383 15597",
-    "website": null,
-    "discovered_at": "2026-11-19 19:31:42.339721"
   }
 ]
