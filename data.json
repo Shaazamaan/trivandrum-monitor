@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05e8898b125bf9:0",
+    "name": "A STAR SUPERMARKET",
+    "address": "QQ6H+JMC",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 16:07:14.916245"
+  },
+  {
     "place_id": "0x3b05c148e748e407:0",
     "name": "S a Fitness Club Venjaramoodu",
     "address": "Trivandrum",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 20:02:02.584277"
-  },
-  {
-    "place_id": "0x3b05b77308f14fed:0",
-    "name": "Driving School",
-    "address": "65",
-    "category": "Driving school",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 19:54:42.423576"
   }
 ]
