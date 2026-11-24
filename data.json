@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb08f0c97c21:0",
+    "name": "PEEVEES Furniture Shop",
+    "address": "",
+    "category": "Furniture manufacturer",
+    "phone": "+91 95670 46969",
+    "website": null,
+    "discovered_at": "2026-11-24 01:17:05.392157"
+  },
+  {
     "place_id": "0x3b05c9004d74b94f:0",
     "name": "JO Fitness Academy",
     "address": "J3CM+F8W, Parandode - Meenankal Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 17:18:12.924905"
-  },
-  {
-    "place_id": "0x3b05b801eb031edd:0",
-    "name": "Tea Cafe",
-    "address": "J255+QJ3, Nedumangad Karipoor Rd",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 17:18:11.703284"
   }
 ]
