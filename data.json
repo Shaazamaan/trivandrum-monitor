@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3a5265a514634fa7:0",
+    "name": "ticket booking",
+    "address": "Market bustand",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 23:46:16.275769"
+  },
+  {
+    "place_id": "0x3b05bf467f400991:0",
+    "name": "The Spring Woods by Favourite Homes",
+    "address": "",
+    "category": "Apartment building",
+    "phone": "+91 98959 94000",
+    "website": null,
+    "discovered_at": "2026-11-24 23:46:14.969287"
+  },
+  {
     "place_id": "0x3b05ea4f770aaa2d:0",
     "name": "Dress Up Designer Boutique",
     "address": "MQ7R+366",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 22:08:25.769204"
-  },
-  {
-    "place_id": "0x3b05bf3016f0e4a1:0",
-    "name": "360 Moto Spa",
-    "address": "MANKUZHY, PANGAPPARA, POST",
-    "category": "Car wash",
-    "phone": "+91 81299 00360",
-    "website": null,
-    "discovered_at": "2026-11-19 22:08:24.404075"
-  },
-  {
-    "place_id": "0x3b05bf1e704a4d1d:0",
-    "name": "fitness fuel",
-    "address": "Opens 6 AM",
-    "category": "Closed",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 22:08:23.128882"
   }
 ]
