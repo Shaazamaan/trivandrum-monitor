@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b9f45b3bb0af:0",
+    "name": "Pretty Queen Beauty Parlour",
+    "address": "GXJR+67J, Valiaveedu Lane, Mannarakonam",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 04:34:33.484259"
+  },
+  {
     "place_id": "0x3b05a98a34b18279:0",
     "name": "Mobile phone and service",
     "address": "Closes 8:30 PM",
@@ -8989,14 +8998,5 @@
     "phone": "+91 90740 97469",
     "website": null,
     "discovered_at": "2026-11-19 17:18:30.912768"
-  },
-  {
-    "place_id": "0x3b05b804bc96bf49:0",
-    "name": "Elegance Churidar Collection",
-    "address": "Surya Rd",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 17:18:29.691825"
   }
 ]
