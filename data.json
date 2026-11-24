@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05cdeb1eb7e0cb:0",
+    "name": "Ponmudi Upper Bus Stop",
+    "address": "Q486+F6V, District, Thiruvananthapuram - Ponmudi Rd",
+    "category": "Bus depot",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 05:32:59.718052"
+  },
+  {
     "place_id": "0x3b05bb6c2201dc79:0",
     "name": "Kaya Skin Care",
     "address": "FW8P+W9J",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 17:32:55.115298"
-  },
-  {
-    "place_id": "0x3b05b96e58e687c7:0",
-    "name": "Hero mens and kids wear",
-    "address": "K T D C, Near",
-    "category": "Dress store",
-    "phone": "+91 81398 68639",
-    "website": null,
-    "discovered_at": "2026-11-19 17:18:32.145634"
   }
 ]
