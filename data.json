@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb001255991b:0",
+    "name": "Sabrosa Cafe",
+    "address": "FWHV+GHV",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 11:39:59.117207"
+  },
+  {
     "place_id": "0x3b05bb004f9e3ccd:0",
     "name": "APEX DENTAL & HAIR STUDIO",
     "address": "Basement floor, Carmel Towers",
@@ -8989,14 +8998,5 @@
     "phone": "+91 62383 15597",
     "website": null,
     "discovered_at": "2026-11-19 19:31:42.339721"
-  },
-  {
-    "place_id": "0x3b05bd004f861087:0",
-    "name": "THIRSTEA",
-    "address": "659/1, Ulloor - Akkulam Rd",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 19:24:29.730954"
   }
 ]
