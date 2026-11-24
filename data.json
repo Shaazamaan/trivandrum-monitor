@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05b9005662e2b7:0",
+    "name": "NSP-118, NSP NAGAR, KESAVADASAPURAM",
+    "address": "NSP - 118",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 09:18:40.183539"
+  },
+  {
+    "place_id": "0x3b05bb0056d5a9f1:0",
+    "name": "ASIF PALACE",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 09:18:38.987686"
+  },
+  {
+    "place_id": "0x3b05b94cbfc9b301:0",
+    "name": "Roxxwellness",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 09:18:37.785938"
+  },
+  {
+    "place_id": "0x3b05b95c913e4445:0",
+    "name": "Healon Diagnostics",
+    "address": "Sn Manzil, Mar Ivanios Ln",
+    "category": "Medical equipment supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 09:18:36.457613"
+  },
+  {
     "place_id": "0x3b05e754aad8aaa7:0",
     "name": "PONNUS STORE NAVAIKULAM",
     "address": "Sankara Narayana Cyber Solution, Navaikulam Pallikkal Rd, near Sankara Narayana Swami Temple",
@@ -8962,41 +8998,5 @@
     "phone": "+91 94467 95004",
     "website": null,
     "discovered_at": "2026-11-19 17:33:03.954127"
-  },
-  {
-    "place_id": "0x3b05b15dccd3508b:0",
-    "name": "LJ Garden & Pet shop",
-    "address": "Opens 9:30 AM Fri",
-    "category": "Closed",
-    "phone": "+91 80755 90217",
-    "website": null,
-    "discovered_at": "2026-11-19 17:33:02.724951"
-  },
-  {
-    "place_id": "0x3b05b892823ea919:0",
-    "name": "stephens dental centre-best dental clinic in trivandrum",
-    "address": "Stephens tower, SH 1",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 17:33:01.358398"
-  },
-  {
-    "place_id": "0x3b05b1003a2f9b0f:0",
-    "name": "Dr. SOORYAS DENTAL CLINIC AND CLINICAL LABORATORY",
-    "address": "F3R2+9GM, Thiruvananthapuram - Neyyar Dam Rd",
-    "category": "Dental clinic",
-    "phone": "+91 90746 09849",
-    "website": null,
-    "discovered_at": "2026-11-19 17:33:00.142319"
-  },
-  {
-    "place_id": "0x3b05b39ee5490f77:0",
-    "name": "Vrindha Multispeciality Dental Clinic",
-    "address": "G4JG+65V",
-    "category": "Hospital",
-    "phone": "+91 70256 90899",
-    "website": null,
-    "discovered_at": "2026-11-19 17:32:58.898891"
   }
 ]
