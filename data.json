@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b94330cccd41:0",
+    "name": "Catalyst Tution Center",
+    "address": "Devi Nagar Rd, opposite Hindustan Latex",
+    "category": "Coaching center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 22:55:04.658463"
+  },
+  {
     "place_id": "0x3b05ad006687e4b1:0",
     "name": "Sky International gym",
     "address": "948P+J37 EK Auto Consulting, Trivandrum - Nagercoil Hwy",
@@ -8989,14 +8998,5 @@
     "phone": "+91 98957 69712",
     "website": null,
     "discovered_at": "2026-11-19 22:08:16.853749"
-  },
-  {
-    "place_id": "0x3b05bbca1ba08f49:0",
-    "name": "Corevo Initiatives",
-    "address": "4th Floor, Saran Chambers, Vellayambalam - Sasthamangalam Rd",
-    "category": "Business management consultant",
-    "phone": "+91 75111 64000",
-    "website": null,
-    "discovered_at": "2026-11-19 22:08:15.599848"
   }
 ]
