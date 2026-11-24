@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbd5ac2f46c3:0",
+    "name": "Government Palace Dispensary",
+    "address": "GXF6+9CP, SH 2",
+    "category": "Hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 21:35:26.288735"
+  },
+  {
+    "place_id": "0x3b05bb005faa2fef:0",
+    "name": "5MP Pharma Private Limited",
+    "address": "No: 6, B Street",
+    "category": "Pharmaceutical products wholesaler",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 21:35:25.072527"
+  },
+  {
     "place_id": "0x3b05c13d3ff99bb5:0",
     "name": "Alamana Gold & Diamonds",
     "address": "MV7W+WJ2, Venjaramoodu - Aaliyadu Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 21:24:50.289798"
-  },
-  {
-    "place_id": "0x3b05bf7a731ef939:0",
-    "name": "Paarvanam Unisex Beauty Studio",
-    "address": "Kalpana Rd, opposite Confident Flat",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 21:24:48.960005"
-  },
-  {
-    "place_id": "0x3b05bf003f2a2adf:0",
-    "name": "Evolve Salon",
-    "address": "HV7H+WM3, Nila Nagar Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 21:24:47.636502"
   }
 ]
