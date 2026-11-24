@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c7e02e217ca5:0",
+    "name": "V.S. Furniture Mart",
+    "address": "market junction, Anad Nedumangad Rd",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 17:22:36.186856"
+  },
+  {
+    "place_id": "0x3b05af0077814f95:0",
+    "name": "Sky International Gym",
+    "address": "C39H+CVH, Neyyattinkara Kattakkada Rd",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 17:22:34.889917"
+  },
+  {
     "place_id": "0x3b05ef4f62601fe9:0",
     "name": "Cafe Neon",
     "address": "Varkala Beach Road, Junction, Varkala Helipad Road",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 21:24:27.084124"
-  },
-  {
-    "place_id": "0x3b05bf1e641753af:0",
-    "name": "Canavil",
-    "address": "Kariyavattom - Chenkottukonam Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 21:24:25.731085"
-  },
-  {
-    "place_id": "0x3b05bf051ed27b1f:0",
-    "name": "221B Baker’s Treat",
-    "address": "Thayyath, Thrippadapuram Mahadeva Temple, North",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 21:24:24.217113"
   }
 ]
