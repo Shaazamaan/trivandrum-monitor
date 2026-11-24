@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05eb70a25854c7:0",
+    "name": "Fistula, Piles, Fissur Clinic",
+    "address": "MQ2Q+MHR, Chirayinkeezhu Kaniyapuram Rd",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 18:12:36.676083"
+  },
+  {
+    "place_id": "0x3b05bb8a23265129:0",
+    "name": "Abrar Family Restaurant",
+    "address": "NH Bypass Service Rd",
+    "category": "Family restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 18:12:35.351038"
+  },
+  {
+    "place_id": "0x3b05bf79989ef537:0",
+    "name": "Myvally Medicals",
+    "address": "Padinjattumukku - Channankara Rd",
+    "category": "Pharmacy",
+    "phone": "+91 94001 62200",
+    "website": null,
+    "discovered_at": "2026-11-24 18:12:33.747305"
+  },
+  {
     "place_id": "0x3b05c7e02e217ca5:0",
     "name": "V.S. Furniture Mart",
     "address": "market junction, Anad Nedumangad Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 21:24:31.072082"
-  },
-  {
-    "place_id": "0x3b05bf004c220669:0",
-    "name": "Naveen bakery",
-    "address": "HV8H+3M4",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 21:24:29.869720"
-  },
-  {
-    "place_id": "0x3b05bfd7ec2cf297:0",
-    "name": "Whisk me Away",
-    "address": "Kkra 110, kodiyilkonam lane, lane, po",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 21:24:28.424445"
-  },
-  {
-    "place_id": "0x3b05bf001127a1e9:0",
-    "name": "Crumbs by Spice Retreat",
-    "address": "4th Floor, KEMP, Technopark Trivandrum, Thejaswini, Technopark Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 21:24:27.084124"
   }
 ]
