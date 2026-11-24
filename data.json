@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb004f9e3ccd:0",
+    "name": "APEX DENTAL & HAIR STUDIO",
+    "address": "Basement floor, Carmel Towers",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 11:32:20.431506"
+  },
+  {
     "place_id": "0x3b05bbc0633d19e7:0",
     "name": "Location Restaurant",
     "address": "Thycapalli junction, near G H S S school",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 19:24:29.730954"
-  },
-  {
-    "place_id": "0x3b05c91d96291ed9:0",
-    "name": "SHANAVAS A P",
-    "address": "Lumiere Vithura, Thiruvananthapuram - Ponmudi Rd",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 18:32:10.708755"
   }
 ]
