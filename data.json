@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05ea4f770aaa2d:0",
+    "name": "Dress Up Designer Boutique",
+    "address": "MQ7R+366",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 23:16:03.482662"
+  },
+  {
+    "place_id": "0x3b05ea4469aa8155:0",
+    "name": "ROYAL BOUTIQUE",
+    "address": "MQ7W+C9F",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 23:16:02.247005"
+  },
+  {
+    "place_id": "0x3b05ea4e471bc8f5:0",
+    "name": "Chirayinkeezhu Pharmacy",
+    "address": "MQ6P+FX9",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 23:16:00.963718"
+  },
+  {
     "place_id": "0x3b05954e2909e3b3:0",
     "name": "Shop n Store SUPER MARKET",
     "address": "HRX7+PM4",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 22:08:23.128882"
-  },
-  {
-    "place_id": "0x3b05bf45561f6447:0",
-    "name": "Krishna beauty parlour",
-    "address": "Sreekariyam - Kazhakuttam Rd",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 22:08:21.897632"
-  },
-  {
-    "place_id": "0x3b05b9d900e60801:0",
-    "name": "Wellness and Nutrition Sreekaryam",
-    "address": "Pattathil Arcade, above Trends",
-    "category": "Wellness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 22:08:20.631408"
-  },
-  {
-    "place_id": "0x3b05b92db3652ba3:0",
-    "name": "DEVUS BAKERY & STORE",
-    "address": "HW5C+QV2",
-    "category": "General store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 22:08:19.348436"
   }
 ]
