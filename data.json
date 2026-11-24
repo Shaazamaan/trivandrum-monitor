@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05ad006687e4b1:0",
+    "name": "Sky International gym",
+    "address": "948P+J37 EK Auto Consulting, Trivandrum - Nagercoil Hwy",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 22:40:37.589225"
+  },
+  {
+    "place_id": "0x3b05b1cd1454bf71:0",
+    "name": "Ayrah Architecture and Interiors",
+    "address": "G-15, Intimate Sahya Commercial Complex",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 22:40:36.166510"
+  },
+  {
+    "place_id": "0x3b05b14139370433:0",
+    "name": "Agasthya Traders",
+    "address": "Market Rd",
+    "category": "Tile store",
+    "phone": "+91 95441 27458",
+    "website": null,
+    "discovered_at": "2026-11-24 22:40:34.884334"
+  },
+  {
     "place_id": "0x3b05a592fa86358d:0",
     "name": "Evis Boutique",
     "address": "9XHW+JM7, Kottappuram Rd",
@@ -8971,32 +8998,5 @@
     "phone": "+91 75111 64000",
     "website": null,
     "discovered_at": "2026-11-19 22:08:15.599848"
-  },
-  {
-    "place_id": "0x3b05b95e59dd0777:0",
-    "name": "BYBISA OFFICE NEEDS , BYBISA STORAGE MART& DRY FRUITS",
-    "address": "Kailash Nagar",
-    "category": "Internet cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 22:08:14.193390"
-  },
-  {
-    "place_id": "0x3b05b942a148319d:0",
-    "name": "Neighbour Terrace",
-    "address": "",
-    "category": "Event venue",
-    "phone": "+91 62350 99333",
-    "website": null,
-    "discovered_at": "2026-11-19 22:08:12.845171"
-  },
-  {
-    "place_id": "0x3b05b956f5a7bfeb:0",
-    "name": "Layaan Learning Edge",
-    "address": "GWJQ+GPG, Vattappara - Thattathumala Rd",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 22:08:11.500566"
   }
 ]
