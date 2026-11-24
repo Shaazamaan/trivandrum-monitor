@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbc0633d19e7:0",
+    "name": "Location Restaurant",
+    "address": "Thycapalli junction, near G H S S school",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 10:26:41.456703"
+  },
+  {
     "place_id": "0x3b05ba304360d8e5:0",
     "name": "Somans Leisure Tours India Pvt. Ltd Thiruvananthapuram",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 18:32:10.708755"
-  },
-  {
-    "place_id": "0x3b05b9ff4f253509:0",
-    "name": "Aswathy Bakery",
-    "address": "152, Civil Station Road",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 17:55:52.861406"
   }
 ]
