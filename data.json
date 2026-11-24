@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbcaac571ed9:0",
+    "name": "Al Haadi Travel",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 13:00:56.268368"
+  },
+  {
     "place_id": "0x3b05ab64380bab59:0",
     "name": "Sarath Furniture Mart",
     "address": "9537+FPH, Parassala Vellarada Rd",
@@ -8989,14 +8998,5 @@
     "phone": "+91 92077 98777",
     "website": null,
     "discovered_at": "2026-11-19 19:31:45.152918"
-  },
-  {
-    "place_id": "0x3b05b94e3292abe9:0",
-    "name": "Abhiram.A.S",
-    "address": "No.159, Pazhaya Rd",
-    "category": "Physiotherapist",
-    "phone": "+91 93494 61583",
-    "website": null,
-    "discovered_at": "2026-11-19 19:31:43.797013"
   }
 ]
