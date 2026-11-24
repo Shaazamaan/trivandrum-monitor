@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05954e2909e3b3:0",
+    "name": "Shop n Store SUPER MARKET",
+    "address": "HRX7+PM4",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 23:09:01.598058"
+  },
+  {
+    "place_id": "0x3b05bb0fa857a6f1:0",
+    "name": "CELL ONE",
+    "address": "FXF2+P6R j j rental tools",
+    "category": "Cell phone store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-24 23:08:59.884468"
+  },
+  {
     "place_id": "0x3b05b94330cccd41:0",
     "name": "Catalyst Tution Center",
     "address": "Devi Nagar Rd, opposite Hindustan Latex",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 22:08:19.348436"
-  },
-  {
-    "place_id": "0x3b05b9352f81ce93:0",
-    "name": "HONEY BUNCH BAKERY",
-    "address": "GWX9+7H7, Sreekaryam",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 22:08:18.138860"
-  },
-  {
-    "place_id": "0x3b05b9c03776902b:0",
-    "name": "Arun Gopal's Residence",
-    "address": "Post Office, Ekaa Parnika, Elamkulam Ln",
-    "category": "Pharmacy",
-    "phone": "+91 98957 69712",
-    "website": null,
-    "discovered_at": "2026-11-19 22:08:16.853749"
   }
 ]
