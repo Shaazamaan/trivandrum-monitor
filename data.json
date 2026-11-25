@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05b978a39b7bc5:0",
+    "name": "Zytrix Fitness",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 00:22:42.612421"
+  },
+  {
+    "place_id": "0x3b05b94ebbd7013b:0",
+    "name": "KARUNIYA MEDICALS",
+    "address": "GWRF+2WQ",
+    "category": "Pharmacy",
+    "phone": "+91 90373 40207",
+    "website": null,
+    "discovered_at": "2026-11-25 00:22:41.028820"
+  },
+  {
+    "place_id": "0x3b05b99a062945f9:0",
+    "name": "BIOCARE PHARMACY & SURGICAL",
+    "address": "T.C.7/651, Kripa",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 00:22:39.823323"
+  },
+  {
+    "place_id": "0x3b05b950bdc9f49b:0",
+    "name": "Akshaya Medicals",
+    "address": "GWJH+FF7",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 00:22:38.497039"
+  },
+  {
+    "place_id": "0x3b05b92b7977f8ab:0",
+    "name": "R K MEDICALS & SURGICALS",
+    "address": "GWFH+WQG, Medical College Ulloor Rd",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 00:22:37.311487"
+  },
+  {
     "place_id": "0x3b05bbd30180ffb9:0",
     "name": "Saraswathy Nilayam",
     "address": "",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 22:52:44.290341"
-  },
-  {
-    "place_id": "0x3b05b1ca80b4d411:0",
-    "name": "Nirvana Makeup studio With IIBT",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 22:45:58.240246"
-  },
-  {
-    "place_id": "0x3b05a5a6775bee63:0",
-    "name": "Dr.Jacob's Omega Dental Clinic",
-    "address": "Beach Rd, near Thomas Cook",
-    "category": "Dental clinic",
-    "phone": "+91 94473 66770",
-    "website": null,
-    "discovered_at": "2026-11-19 22:31:48.427634"
-  },
-  {
-    "place_id": "0x3b05ef3bf7d81bbf:0",
-    "name": "Varsha Bakery",
-    "address": "PPX8+4GP, Varkala Railway Station Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 22:17:12.899019"
-  },
-  {
-    "place_id": "0x3b05bb005d3495f9:0",
-    "name": "RAMESH NILKANT | Chartered Accountants",
-    "address": "Sree, TC 22, 3300, Express Lane, nr. Lenskart",
-    "category": "Certified public accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 22:08:28.224855"
-  },
-  {
-    "place_id": "0x3b05b98c05a36213:0",
-    "name": "Ayvan Wanders",
-    "address": "Kariyam, Powdikonam Rd",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 22:08:27.017822"
   }
 ]
