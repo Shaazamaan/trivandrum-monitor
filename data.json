@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bdf282070669:0",
+    "name": "ColorPlus",
+    "address": "",
+    "category": "Clothing store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 14:48:12.599979"
+  },
+  {
+    "place_id": "0x3b05bd002853eb61:0",
+    "name": "Hind Lab",
+    "address": "Hind Lab",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 14:48:11.332797"
+  },
+  {
+    "place_id": "0x3b05bb0a76ce939f:0",
+    "name": "Hindlab",
+    "address": "Vijaya Building, Salem - Kochi - Kanyakumari Hwy",
+    "category": "Laboratory",
+    "phone": "+91 91889 52217",
+    "website": null,
+    "discovered_at": "2026-11-25 14:48:08.927209"
+  },
+  {
     "place_id": "0x3b05a956a176658d:0",
     "name": "Vismaya Motor Driving School",
     "address": "9334+C8J, near Mount Carmel school",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 01:18:05.361735"
-  },
-  {
-    "place_id": "0x3b05ab743a923fa5:0",
-    "name": "Resmi Opticals",
-    "address": "85V2+FVF",
-    "category": "Optician",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 01:18:04.121430"
-  },
-  {
-    "place_id": "0x3b0455140a15000d:0",
-    "name": "PARC HOSPITAL",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 01:18:02.823330"
-  },
-  {
-    "place_id": "0x3b05abb41f0bbd55:0",
-    "name": "J.J.Dental Care",
-    "address": "Parassala - Kollemcode - Poovar - Kovalam Rd",
-    "category": "Dentist",
-    "phone": "+91 94864 72192",
-    "website": null,
-    "discovered_at": "2026-11-20 01:18:01.591082"
   }
 ]
