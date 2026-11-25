@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b99bf765cbf3:0",
+    "name": "Hotel Siva's",
+    "address": "Vazhayila - Kallayam Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 03:55:30.173498"
+  },
+  {
     "place_id": "0x3b05b1267e1c6769:0",
     "name": "Sevenplus Gifts",
     "address": "G13 Firstfloor, KSRTC shopping complex",
@@ -8989,14 +8998,5 @@
     "phone": "+91 81118 62623",
     "website": null,
     "discovered_at": "2026-11-19 23:42:02.438438"
-  },
-  {
-    "place_id": "0x3b05cf6a0f7ddda9:0",
-    "name": "Palode Fashion Gold and Diamonds",
-    "address": "P2CH+W9J",
-    "category": "Jeweler",
-    "phone": "+91 94472 05951",
-    "website": null,
-    "discovered_at": "2026-11-19 23:42:01.190075"
   }
 ]
