@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb02ffc1e46f:0",
+    "name": "Trance Restobar",
+    "address": "Maurya Rajadhani Building, General Hospital Rd",
+    "category": "Bar",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 10:14:04.041750"
+  },
+  {
+    "place_id": "0x3b05bbf3d33bdcef:0",
+    "name": "Hangout",
+    "address": "TC 29/3789(1, Women's College Ln",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 10:14:02.792520"
+  },
+  {
     "place_id": "0x3b05bb07efb3f5d9:0",
     "name": "Rajas Super Store",
     "address": "FXJ3+QF6, Valayal Chetty St",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 00:40:28.195236"
-  },
-  {
-    "place_id": "0x3b05ef363fdef581:0",
-    "name": "Kottakkal Arya Vaidya Sala",
-    "address": "Ground Floor, Ayiroor Village Service Co. Operative Bank, Ayiroor Junction, behind bus stop",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 00:40:26.916162"
-  },
-  {
-    "place_id": "0x3b05bbfd544a9a0b:0",
-    "name": "Laya Medical Laboratory",
-    "address": "Medical College, Medical College Ulloor Rd, near Hotel Vasantham",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 00:25:57.606537"
   }
 ]
