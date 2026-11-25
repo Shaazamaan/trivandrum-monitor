@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbc9b1766ba7:0",
+    "name": "Well One Home Health Care",
+    "address": "TC-44/1926 Jagathy Bridge, Jagathy",
+    "category": "Home health care service",
+    "phone": "90208 01077",
+    "website": null,
+    "discovered_at": "2026-11-25 05:52:34.307048"
+  },
+  {
     "place_id": "0x3b05bb0074ea7cb5:0",
     "name": "Vinewood - Multi Entertainment Café",
     "address": "GX25+6M6, MP Appan Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 00:03:16.058133"
-  },
-  {
-    "place_id": "0x3b05bb002ed7c19b:0",
-    "name": "B25, Vrindavan Garden, Pattom, Near SUT Hospital, Trivandrum",
-    "address": "Thachirazhikathu House, B 25, Rd, near SUT Hospital Road",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 00:03:14.836202"
   }
 ]
