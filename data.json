@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bfef018ffbe5:0",
+    "name": "Glowery spa and beuty",
+    "address": "9/421",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 03:03:08.535177"
+  },
+  {
+    "place_id": "0x3b05b963efa282e1:0",
+    "name": "The Curry &Co. By Avanditha",
+    "address": "Closes 11 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 03:03:07.241314"
+  },
+  {
+    "place_id": "0x3b05b91d5647f621:0",
+    "name": "Roxx wellness",
+    "address": "GWJQ+FQ4",
+    "category": "Massage spa",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 03:03:05.203928"
+  },
+  {
     "place_id": "0x3b05bbc905cea42d:0",
     "name": "Food in style",
     "address": "NGO Quarters Junction, Museum - Nanthencode Rd",
@@ -8971,32 +8998,5 @@
     "phone": "+91 75930 21810",
     "website": null,
     "discovered_at": "2026-11-19 23:41:59.901825"
-  },
-  {
-    "place_id": "0x3b05bbab4b912a91:0",
-    "name": "Sai Vibhoothi Eye Care",
-    "address": "Melarannur, Killippalam Rd",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 23:34:55.612923"
-  },
-  {
-    "place_id": "0x3b05c7d44be321ad:0",
-    "name": "VIYAAN BAKERY & FRUITS",
-    "address": "VIYAAN BAKERY AND FRUITS, Pirappancode - Thembamoodu Rd, near INDIAN OIL PETROL PUMP NAGARUKUZHY",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 23:27:54.443513"
-  },
-  {
-    "place_id": "0x3b05bfe13b6d9a25:0",
-    "name": "KANZ Fashion's",
-    "address": "HRQJ+Q86, Channankara",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 23:13:45.806911"
   }
 ]
