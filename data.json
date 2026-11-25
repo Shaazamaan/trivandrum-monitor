@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b3d1a7e953e5:0",
+    "name": "Isa Physiotherapy clinic",
+    "address": "Closes 7 PM",
+    "category": "Open",
+    "phone": "+91 62826 50810",
+    "website": null,
+    "discovered_at": "2026-11-25 11:06:57.816065"
+  },
+  {
+    "place_id": "0x3b05a9f9d07573ff:0",
+    "name": "SALALA MOBILES PUTHIYATHURA",
+    "address": "Poovar - Vizhinjam Rd",
+    "category": "Cell phone accessory store",
+    "phone": "+91 85905 17696",
+    "website": null,
+    "discovered_at": "2026-11-25 11:06:56.473758"
+  },
+  {
     "place_id": "0x3b05bb02ffc1e46f:0",
     "name": "Trance Restobar",
     "address": "Maurya Rajadhani Building, General Hospital Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 00:40:30.882494"
-  },
-  {
-    "place_id": "0x3b05e9629af4f13d:0",
-    "name": "Vettoor medicals",
-    "address": "road",
-    "category": "Pharmacy",
-    "phone": "+91 98472 83048",
-    "website": null,
-    "discovered_at": "2026-11-20 00:40:29.442310"
-  },
-  {
-    "place_id": "0x3b05e96b06134475:0",
-    "name": "Govt. Homeo Dispensary Ottoor",
-    "address": "krishibhavan,moongode p.o, thoppil,near ottoor",
-    "category": "Homeopathic pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 00:40:28.195236"
   }
 ]
