@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c6966b2bd9a5:0",
+    "name": "Pullampara Government Veterinary Hospital",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 09:38:28.094937"
+  },
+  {
     "place_id": "0x3b05bbd20fe11d69:0",
     "name": "Amnas Cakery",
     "address": "P.O, Manacaud, Toll Junction TC 68/8, Veliyil Veed",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 00:25:56.419625"
-  },
-  {
-    "place_id": "0x3b05b9576cc298bd:0",
-    "name": "Insta Speciality Diagnostic Centre",
-    "address": "2/476/15, Medicalcollege P O, Kalpaka Building, Ulloor Road, Ulloor Road",
-    "category": "Diagnostic center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 00:25:54.944364"
   }
 ]
