@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbc905cea42d:0",
+    "name": "Food in style",
+    "address": "NGO Quarters Junction, Museum - Nanthencode Rd",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 02:41:16.933943"
+  },
+  {
     "place_id": "0x3b05b99875ecaf31:0",
     "name": "CAFETERIA",
     "address": "Sut CoffeShop",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 23:13:45.806911"
-  },
-  {
-    "place_id": "0x3b05bb93e631eb79:0",
-    "name": "She_Za_Boutique",
-    "address": "Pooram building, Mannarakonam - Thoppumukku Rd",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 22:59:51.174292"
   }
 ]
