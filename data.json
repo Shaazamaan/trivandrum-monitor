@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b99875ecaf31:0",
+    "name": "CAFETERIA",
+    "address": "Sut CoffeShop",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 01:57:32.239460"
+  },
+  {
     "place_id": "0x3b05b7a404113e4f:0",
     "name": "Chaithanya Sight Foundation Eye Hospital,Vellanad",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-19 22:59:51.174292"
-  },
-  {
-    "place_id": "0x3b05bf131b0f8fef:0",
-    "name": "Dr sijin’s ORIS ORTHODONTIC AND ALIGNER DENTAL CLINIC",
-    "address": "office, near ayirupara",
-    "category": "Dental clinic",
-    "phone": "+91 88913 33836",
-    "website": null,
-    "discovered_at": "2026-11-19 22:52:46.870914"
   }
 ]
