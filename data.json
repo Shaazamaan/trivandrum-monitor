@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05bb3565c583f9:0",
+    "name": "Twenty 20",
+    "address": "SS Kovil Rd",
+    "category": "Juice shop",
+    "phone": "+91 75599 12020",
+    "website": null,
+    "discovered_at": "2026-11-25 04:51:48.959378"
+  },
+  {
+    "place_id": "0x3b05bb408d6e936f:0",
+    "name": "Panickers dental clinic",
+    "address": "sree narayana mandiram",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 04:51:47.712326"
+  },
+  {
+    "place_id": "0x3b05bda9fc2eec8d:0",
+    "name": "ISDC Learning Centre",
+    "address": "",
+    "category": "Education center",
+    "phone": "+91 96059 11555",
+    "website": null,
+    "discovered_at": "2026-11-25 04:51:46.351230"
+  },
+  {
+    "place_id": "0x3b05bf4e0a0e904f:0",
+    "name": "Jazz Premium Pet Store",
+    "address": "Service Road, Opposite To Technopark Phase 3 Kulathoor, Thiruvananthapuram",
+    "category": "Pet store",
+    "phone": "+91 72591 66460",
+    "website": null,
+    "discovered_at": "2026-11-25 04:51:45.128226"
+  },
+  {
+    "place_id": "0x3b05befb8f73b4e3:0",
+    "name": "Purple Health",
+    "address": "",
+    "category": "Health consultant",
+    "phone": "+91 95449 86088",
+    "website": null,
+    "discovered_at": "2026-11-25 04:51:43.835447"
+  },
+  {
+    "place_id": "0x3b05bdb26bb2c43d:0",
+    "name": "KIMS Health Ayurveda and Wellness Centre",
+    "address": "Nandanam, TC 95/232, Poonthi Rd",
+    "category": "Ayurvedic clinic",
+    "phone": "+91 88486 57396",
+    "website": null,
+    "discovered_at": "2026-11-25 04:51:42.536081"
+  },
+  {
+    "place_id": "0x3b05bf8eb0712f65:0",
+    "name": "NITHYA CHAINTHAYA KALARI AYURVEDA KENDRAM",
+    "address": "Radha Bhawan, Building NO.46, Engineering College P.O",
+    "category": "Ayurvedic clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 04:51:41.311738"
+  },
+  {
     "place_id": "0x3b05b99bf765cbf3:0",
     "name": "Hotel Siva's",
     "address": "Vazhayila - Kallayam Rd",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 00:03:12.153304"
-  },
-  {
-    "place_id": "0x3b05bbe5e1b967f1:0",
-    "name": "VAMS",
-    "address": "KRA -113, Kedaram, Nagar, Pottakuzhy Rd",
-    "category": "Software company",
-    "phone": "+91 99868 57523",
-    "website": null,
-    "discovered_at": "2026-11-20 00:03:10.830789"
-  },
-  {
-    "place_id": "0x3b05bba61d69e7ad:0",
-    "name": "City Travels - Thiruvanandhapuram",
-    "address": "FXP3+W39",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 00:03:07.861980"
-  },
-  {
-    "place_id": "0x3b05bb0ed016c9cf:0",
-    "name": "UTEK SKILL CENTRE",
-    "address": "5th floor, Axis Tower, SS Kovil Rd",
-    "category": "Education center",
-    "phone": "+91 90729 91069",
-    "website": null,
-    "discovered_at": "2026-11-20 00:03:06.559819"
-  },
-  {
-    "place_id": "0x3b05bba468471a45:0",
-    "name": "THOOLIKA DISTANCE LEARNING CENTRE-THAMPANOOR",
-    "address": "Manjalikulam Rd",
-    "category": "Distance learning center",
-    "phone": "+91 96339 99565",
-    "website": null,
-    "discovered_at": "2026-11-20 00:03:05.344162"
-  },
-  {
-    "place_id": "0x3b05bbae6b3e619d:0",
-    "name": "Nissan Gym",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 00:03:03.936166"
-  },
-  {
-    "place_id": "0x3b05ba0d1ac789cb:0",
-    "name": "Drona Gym And Fitness club",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-19 23:42:03.681161"
-  },
-  {
-    "place_id": "0x3b05c9005c17a47f:0",
-    "name": "crown jewels",
-    "address": "J2VC+QCV, Thiruvananthapuram - Thenmala Rd",
-    "category": "Jewelry store",
-    "phone": "+91 81118 62623",
-    "website": null,
-    "discovered_at": "2026-11-19 23:42:02.438438"
   }
 ]
