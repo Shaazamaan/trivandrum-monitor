@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb07efb3f5d9:0",
+    "name": "Rajas Super Store",
+    "address": "FXJ3+QF6, Valayal Chetty St",
+    "category": "Supermarket",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 10:00:24.999740"
+  },
+  {
     "place_id": "0x3b05c6966b2bd9a5:0",
     "name": "Pullampara Government Veterinary Hospital",
     "address": "Trivandrum",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 00:25:57.606537"
-  },
-  {
-    "place_id": "0x3b05b957fc4aa1a7:0",
-    "name": "Pluspoint Speciality Lab",
-    "address": "Medical College",
-    "category": "Medical laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 00:25:56.419625"
   }
 ]
