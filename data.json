@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb0074ea7cb5:0",
+    "name": "Vinewood - Multi Entertainment Café",
+    "address": "GX25+6M6, MP Appan Rd",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 05:06:40.125456"
+  },
+  {
+    "place_id": "0x3b05bb2c8446ceb1:0",
+    "name": "THATTUKADA",
+    "address": "THATTUKADA",
+    "category": "Fast food restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 05:06:38.885022"
+  },
+  {
     "place_id": "0x3b05bb3565c583f9:0",
     "name": "Twenty 20",
     "address": "SS Kovil Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 00:03:14.836202"
-  },
-  {
-    "place_id": "0x3b05bbdc27509b9d:0",
-    "name": "4G Mobile Care",
-    "address": "Pattom Thanupillai Rd.",
-    "category": "Mobile phone repair shop",
-    "phone": "+91 99957 69700",
-    "website": null,
-    "discovered_at": "2026-11-20 00:03:13.523404"
-  },
-  {
-    "place_id": "0x3b05bb1fbb116e63:0",
-    "name": "Sri nandas chips",
-    "address": "",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 00:03:12.153304"
   }
 ]
