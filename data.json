@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05a956a176658d:0",
+    "name": "Vismaya Motor Driving School",
+    "address": "9334+C8J, near Mount Carmel school",
+    "category": "Driving school",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-25 14:05:13.399628"
+  },
+  {
     "place_id": "0x3b05bb7a934d4f9f:0",
     "name": "Food on Wheels",
     "address": "GX26+MHM, Thiruvananthapuram - Neyyar Dam Rd",
@@ -8989,14 +8998,5 @@
     "phone": "+91 94864 72192",
     "website": null,
     "discovered_at": "2026-11-20 01:18:01.591082"
-  },
-  {
-    "place_id": "0x3b05a52dac7ed427:0",
-    "name": "The Lounge",
-    "address": "",
-    "category": "Coffee shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 01:04:09.946135"
   }
 ]
