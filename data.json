@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05af351f9862e1:0",
+    "name": "@ Fitness Unisex Gym",
+    "address": "Pallichal Punnamoodu Rd, near Ganapati Temple, opp. IOB Petrol Pump",
+    "category": "Gym",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 10:54:21.357847"
+  },
+  {
+    "place_id": "0x3b05bb5875e5ea3f:0",
+    "name": "Pioneer Rx Gym & Exercise Clinic",
+    "address": "3rd Floor, Vasudev's Timber Land, above State Bank of India (SBI",
+    "category": "Fitness center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 10:54:20.071632"
+  },
+  {
+    "place_id": "0x3b05afb8424c5a61:0",
+    "name": "Pournami Bakery",
+    "address": "",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 10:54:18.790904"
+  },
+  {
+    "place_id": "0x3b05b3b101716531:0",
+    "name": "Our Own Dental Clinic",
+    "address": "Mandpathinkadavu Mukunthara Road, Poozhanadu- Manakkaala",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 10:54:17.554703"
+  },
+  {
     "place_id": "0x3b05c9a5d085a529:0",
     "name": "Meenu Medical Store",
     "address": "M339+4XJ",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 04:06:29.744875"
-  },
-  {
-    "place_id": "0x3b05ab001f28984f:0",
-    "name": "LIFE CARE PHARMACY",
-    "address": "74RX+J4H",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 04:06:28.463226"
-  },
-  {
-    "place_id": "0x3b0455006bf7fc4f:0",
-    "name": "Danis physiotherapy clinic",
-    "address": "Gnaram Vilai to Pacode",
-    "category": "Physical therapy clinic",
-    "phone": "+91 94879 23235",
-    "website": null,
-    "discovered_at": "2026-11-20 04:06:27.129599"
-  },
-  {
-    "place_id": "0x3b0455d05fb96ed1:0",
-    "name": "The NOAH PHYSIO CARE",
-    "address": "",
-    "category": "Physical therapy clinic",
-    "phone": "+91 96988 57614",
-    "website": null,
-    "discovered_at": "2026-11-20 04:06:25.915258"
-  },
-  {
-    "place_id": "0x3b05abda909a9d61:0",
-    "name": "siljis American Electrolysis Parassala",
-    "address": "85R4+WQ2",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 04:06:24.713464"
   }
 ]
