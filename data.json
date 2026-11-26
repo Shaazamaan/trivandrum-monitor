@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b11a829a6797:0",
+    "name": "davaindia GENERIC PHARMACY",
+    "address": "S No 5/188/D, Ground Floor, Junction",
+    "category": "Pharmacy",
+    "phone": "+91 90203 12201",
+    "website": null,
+    "discovered_at": "2026-11-26 10:07:49.327514"
+  },
+  {
+    "place_id": "0x3b05ba1fa241e1fd:0",
+    "name": "Peroorkada Village Office",
+    "address": "GXMR+JC7, Maruthankuzhi - Kachani Rd, near CPT",
+    "category": "Government office",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 10:07:48.081135"
+  },
+  {
     "place_id": "0x3b05afc8b1336de9:0",
     "name": "Sri Sabaries",
     "address": "Kattakada, Rd",
@@ -8980,23 +8998,5 @@
     "phone": "+91 97831 56789",
     "website": null,
     "discovered_at": "2026-11-20 04:06:23.405997"
-  },
-  {
-    "place_id": "0x3b05b1373bbb4d19:0",
-    "name": "Lifephone",
-    "address": "Bus stand, road",
-    "category": "Mobile phone repair shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 03:57:55.274683"
-  },
-  {
-    "place_id": "0x3b05b1298f4aae6f:0",
-    "name": "B2B Traders (iYo Fresh Ball Grapes)",
-    "address": "",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 03:57:54.126927"
   }
 ]
