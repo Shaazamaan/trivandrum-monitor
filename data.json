@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c70038a1a745:0",
+    "name": "M cafe",
+    "address": "JXH6+F5R",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 18:33:08.765409"
+  },
+  {
     "place_id": "0x3b05ea6f18b4a523:0",
     "name": "ആശ്രയ കമ്മ്യൂണിറ്റി ഫാർമസി",
     "address": "MR76+427",
@@ -8989,14 +8998,5 @@
     "phone": "+91 80867 73333",
     "website": null,
     "discovered_at": "2026-11-20 10:13:58.783889"
-  },
-  {
-    "place_id": "0x3b05b988b5c8bdc5:0",
-    "name": "Traditional Kitchen Restaurant",
-    "address": "Closes 5 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 10:06:40.233662"
   }
 ]
