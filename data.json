@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05e9ac558d1dcb:0",
+    "name": "POOJA GROUP",
+    "address": "1150, Main Rd",
+    "category": "Men's clothing store",
+    "phone": "+91 82898 77699",
+    "website": null,
+    "discovered_at": "2026-11-26 12:02:24.249362"
+  },
+  {
+    "place_id": "0x3b05e9f4d71537bb:0",
+    "name": "Popees Baby Care, Attingal, Thiruvananthapuram",
+    "address": "MM Mall, LMS Junction, 30/232/4",
+    "category": "Baby store",
+    "phone": "+91 96450 01035",
+    "website": null,
+    "discovered_at": "2026-11-26 12:02:22.975413"
+  },
+  {
+    "place_id": "0x3b05e9c27fc29b07:0",
+    "name": "Babas Collections",
+    "address": "",
+    "category": "Shopping mall",
+    "phone": "+91 75101 56615",
+    "website": null,
+    "discovered_at": "2026-11-26 12:02:21.425772"
+  },
+  {
+    "place_id": "0x3b05e92936fa4643:0",
+    "name": "FARIS TRADING",
+    "address": "Kalyani Mall, 17/442-3",
+    "category": "Computer repair service",
+    "phone": "+91 70121 77543",
+    "website": null,
+    "discovered_at": "2026-11-26 12:02:20.154671"
+  },
+  {
+    "place_id": "0x68daa3eb23e1da49:0",
+    "name": "MEDIVUE HEALTH AND WELLNESS PVT",
+    "address": "Closes 9 PM",
+    "category": "Open",
+    "phone": "+91 80891 80303",
+    "website": null,
+    "discovered_at": "2026-11-26 12:02:18.875925"
+  },
+  {
     "place_id": "0x3b05af351f9862e1:0",
     "name": "@ Fitness Unisex Gym",
     "address": "Pallichal Punnamoodu Rd, near Ganapati Temple, opp. IOB Petrol Pump",
@@ -8953,50 +8998,5 @@
     "phone": "+91 99958 87720",
     "website": null,
     "discovered_at": "2026-11-20 04:06:35.887345"
-  },
-  {
-    "place_id": "0x3b05ab77dba77db5:0",
-    "name": "Zulu Designer Boutique Pavathiyanvila",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 04:06:34.673769"
-  },
-  {
-    "place_id": "0x3b05adc58e0498f3:0",
-    "name": "Aswas community pharmacy karakonam",
-    "address": "Closes 10:30 PM",
-    "category": "Open",
-    "phone": "+91 95397 22864",
-    "website": null,
-    "discovered_at": "2026-11-20 04:06:33.428715"
-  },
-  {
-    "place_id": "0x3b05ad2fbd497f49:0",
-    "name": "Kripa Medicals",
-    "address": "95P9+JPM",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 04:06:32.191887"
-  },
-  {
-    "place_id": "0x3b05ada90eccc2b3:0",
-    "name": "WELL CARE MEDICALS THOLADY",
-    "address": "Closes 9:30 PM",
-    "category": "Open",
-    "phone": "+91 80890 46213",
-    "website": null,
-    "discovered_at": "2026-11-20 04:06:30.998758"
-  },
-  {
-    "place_id": "0x3b05ab12479a8d7b:0",
-    "name": "Mariam Meds",
-    "address": "Closes 8 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 04:06:29.744875"
   }
 ]
