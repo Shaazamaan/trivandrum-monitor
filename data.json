@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb67f95a072b:0",
+    "name": "XPERTZ Motor School",
+    "address": "Road, BSF Ln, opposite Oushadi",
+    "category": "Driving school",
+    "phone": "+91 90373 00456",
+    "website": null,
+    "discovered_at": "2026-11-26 16:42:31.260059"
+  },
+  {
     "place_id": "0x3b05bf4a4d101cb7:0",
     "name": "St. Joseph agency real estate company",
     "address": "Opens 9 AM Fri",
@@ -8989,14 +8998,5 @@
     "phone": "+91 81380 64931",
     "website": null,
     "discovered_at": "2026-11-20 09:41:55.623261"
-  },
-  {
-    "place_id": "0x3b05bb0bab1cfe4d:0",
-    "name": "ARC:IN Design Studio",
-    "address": "",
-    "category": "Architecture firm",
-    "phone": "+91 85905 61158",
-    "website": null,
-    "discovered_at": "2026-11-20 09:41:54.224099"
   }
 ]
