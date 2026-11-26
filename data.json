@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b9ad000ea8dd:0",
+    "name": "Velvet Fashions",
+    "address": "PO",
+    "category": "Boutique",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 08:53:27.120000"
+  },
+  {
     "place_id": "0x3b05be955d6672ad:0",
     "name": "Akash Medicals",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": "+91 85902 20994",
     "website": null,
     "discovered_at": "2026-11-20 03:19:46.597331"
-  },
-  {
-    "place_id": "0x3b05b96b3c140c57:0",
-    "name": "Taste World Bake House",
-    "address": "Post Office Rd",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 03:09:27.161136"
   }
 ]
