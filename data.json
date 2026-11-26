@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bb94d1552b5f:0",
+    "name": "Chaikaari Vanchiyoor",
+    "address": "",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 01:48:52.267694"
+  },
+  {
+    "place_id": "0x3b05bb30c356b129:0",
+    "name": "Vancor Health care",
+    "address": "FWCW+34J, Unnamed Road",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 01:48:51.115506"
+  },
+  {
+    "place_id": "0x3b05bb0e8238af69:0",
+    "name": "Ammu Medicals",
+    "address": "Opens 8 AM",
+    "category": "Closed",
+    "phone": "+91 94475 82622",
+    "website": null,
+    "discovered_at": "2026-11-26 01:48:49.956837"
+  },
+  {
     "place_id": "0x3b05ab323b61cbcd:0",
     "name": "ASR HOMOEO",
     "address": "Chenkavila - Charottukonam Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 02:17:23.829088"
-  },
-  {
-    "place_id": "0x3b05cff61cc05bb3:0",
-    "name": "APEX STRENGTH HYBRID GYM",
-    "address": "Hospital junction",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 02:17:22.618085"
-  },
-  {
-    "place_id": "0x3b05c90060f2ded3:0",
-    "name": "Chullimanoor Market Road",
-    "address": "J2VC+5F2",
-    "category": "Jewelry repair service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 02:17:21.381038"
-  },
-  {
-    "place_id": "0x3b05cfc0bed5952b:0",
-    "name": "Sr furniture and home appliances",
-    "address": "Opens 9 AM",
-    "category": "Closed",
-    "phone": "+91 94461 28233",
-    "website": null,
-    "discovered_at": "2026-11-20 02:17:20.170935"
   }
 ]
