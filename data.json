@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05ef1fc5838911:0",
+    "name": "KRISHNA JEWELLERY WORKS",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 14:45:28.205734"
+  },
+  {
+    "place_id": "0x3b05e92150e5b7d1:0",
+    "name": "Kanchana Jewellers",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": "+91 98461 69905",
+    "website": null,
+    "discovered_at": "2026-11-26 14:45:27.054027"
+  },
+  {
+    "place_id": "0x3b05e92934f67597:0",
+    "name": "MURUGA JEWELLERY WORKS",
+    "address": "PPHR+7C5, Varkala Kallambalam Rd",
+    "category": "Jewelry store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 14:45:25.906555"
+  },
+  {
+    "place_id": "0x3b05ef0002cb5477:0",
+    "name": "New Mir Arts Emporium",
+    "address": "N Cliff Rd",
+    "category": "Costume jewelry shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 14:45:24.727668"
+  },
+  {
     "place_id": "0x3b05bb9a2a026937:0",
     "name": "Green○ Juice bar & Cafe",
     "address": "Opposite Bishop house",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 05:47:17.207985"
-  },
-  {
-    "place_id": "0x3b05bf0044eaf1d7:0",
-    "name": "Saravana Bhavan",
-    "address": "Kazhakoottam - Kilimanoor Rd",
-    "category": "Restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 05:04:17.681938"
-  },
-  {
-    "place_id": "0x3b05bbbb11fcc861:0",
-    "name": "PNR HOMES",
-    "address": "",
-    "category": "Home builder",
-    "phone": "+91 99958 01991",
-    "website": null,
-    "discovered_at": "2026-11-20 04:56:40.835150"
-  },
-  {
-    "place_id": "0x3b05c77edab26e5d:0",
-    "name": "Trigger Fitness Centre",
-    "address": "JWQP+28R",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 04:49:23.671590"
-  },
-  {
-    "place_id": "0x3b05c3a8df94d7b5:0",
-    "name": "Janashraya Community Pharmacy",
-    "address": "MRXR+3C, near Brothers Library",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 04:35:01.582189"
   }
 ]
