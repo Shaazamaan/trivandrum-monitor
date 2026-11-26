@@ -1,5 +1,86 @@
 [
   {
+    "place_id": "0x3b05b965c908e751:0",
+    "name": "Ammalus home kitchen",
+    "address": "Pra. 21, VP thambi road",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 21:50:11.515384"
+  },
+  {
+    "place_id": "0x3b05e90a413a593f:0",
+    "name": "Jan Aushadhi Store",
+    "address": "MPXV/215, Manambur, Kaval ayoor Varaka",
+    "category": "Pharmacy",
+    "phone": "+91 97448 44966",
+    "website": null,
+    "discovered_at": "2026-11-26 21:50:10.330755"
+  },
+  {
+    "place_id": "0x3b05e9f66e2c0d23:0",
+    "name": "KSC Trust-Thanal Community Dialysis Center",
+    "address": "P.O, Thalavila, Puthusserimukku",
+    "category": "Medical laboratory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 21:50:09.106620"
+  },
+  {
+    "place_id": "0x3b05e98046b0466f:0",
+    "name": "Ros Pharmaceuticals",
+    "address": "PQ5C+67Q, Kavalayoor-Kulamuttam Road",
+    "category": "Pharmacy",
+    "phone": "+91 98463 73073",
+    "website": null,
+    "discovered_at": "2026-11-26 21:50:07.603362"
+  },
+  {
+    "place_id": "0x3b05e868ae7b63ef:0",
+    "name": "Welcare Hospital",
+    "address": "",
+    "category": "Private hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 21:50:06.443013"
+  },
+  {
+    "place_id": "0x3b05bb004591faed:0",
+    "name": "Naomi Events",
+    "address": "CWRW+57F",
+    "category": "Event planner",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 21:50:05.222804"
+  },
+  {
+    "place_id": "0x3b05a507aabe1f99:0",
+    "name": "KTDC Samudra",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 21:50:03.973249"
+  },
+  {
+    "place_id": "0x3b05bd965b3c2705:0",
+    "name": "Popular Eye Care",
+    "address": "GV8X+P6",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 21:50:02.632758"
+  },
+  {
+    "place_id": "0x3b05cbfc8cd02f71:0",
+    "name": "Ashtanga Ayurvedic Hospital",
+    "address": "M4V4+QQF, SH45",
+    "category": "Hospital",
+    "phone": "+91 90615 30817",
+    "website": null,
+    "discovered_at": "2026-11-26 21:50:01.388104"
+  },
+  {
     "place_id": "0x3b05b13a3f306be1:0",
     "name": "Auramax studios",
     "address": "Village office road",
@@ -8917,86 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 10:56:49.906955"
-  },
-  {
-    "place_id": "0x3b05bb250316f1ef:0",
-    "name": "Nectar Cafe",
-    "address": "GWCJ+648 Medical College, Pazhaya Rd",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 10:56:48.532739"
-  },
-  {
-    "place_id": "0x3b05bb0075a077b9:0",
-    "name": "Malabar Contractors and Builders",
-    "address": "GW8W+996",
-    "category": "Construction company",
-    "phone": "+91 95677 92224",
-    "website": null,
-    "discovered_at": "2026-11-20 10:35:17.508857"
-  },
-  {
-    "place_id": "0x3b05e8688aa820d7:0",
-    "name": "Pallipuram Traders",
-    "address": "QQ5V+P58, National Highway 47",
-    "category": "Hardware store",
-    "phone": "+91 94473 87530",
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:18.589104"
-  },
-  {
-    "place_id": "0x3b05e92b3d0e5c5d:0",
-    "name": "N.P.M Fancy Centre",
-    "address": "Kalathoor Buildings, Kallambalam Jn, Main Road, NH 66",
-    "category": "Home goods store",
-    "phone": "+91 94470 04982",
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:17.337204"
-  },
-  {
-    "place_id": "0x3b05e9b9bb840207:0",
-    "name": "Stylo Tailors",
-    "address": "QQ6H+CQF, junction",
-    "category": "Tailor",
-    "phone": "+91 96333 47382",
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:16.122871"
-  },
-  {
-    "place_id": "0x3b05e865f9b168f9:0",
-    "name": "S.S Fruits And Fresh Juice",
-    "address": "QQ7R+2FC",
-    "category": "Fruit and vegetable wholesaler",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:14.926599"
-  },
-  {
-    "place_id": "0x3b05afc9f1184f09:0",
-    "name": "Sha Opticals",
-    "address": "C3C2+X39",
-    "category": "Optician",
-    "phone": "+91 99474 64626",
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:13.698793"
-  },
-  {
-    "place_id": "0x3b05af56db9a0e15:0",
-    "name": "OPTICAL CENTRE",
-    "address": "Malayinkeezh SARIGA Tower, optical centre near Thaikkapally Mosque Kallambalam,Balaramapuram Trivandrum Road, perigammala junction",
-    "category": "Optician",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:12.456443"
-  },
-  {
-    "place_id": "0x3b05e9003cee4ee1:0",
-    "name": "Vaidhyasala thattupalam",
-    "address": "QQFP+GX4",
-    "category": "Hospital",
-    "phone": "+91 99956 54120",
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:11.237828"
   }
 ]
