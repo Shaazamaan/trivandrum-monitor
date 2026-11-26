@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05cf98a50b911f:0",
+    "name": "Ushas Furnitures And Home Appliances",
+    "address": "P2FH+RF7",
+    "category": "Furniture store",
+    "phone": "+91 94971 62005",
+    "website": null,
+    "discovered_at": "2026-11-26 18:40:29.132363"
+  },
+  {
+    "place_id": "0x3b05cfc399032307:0",
+    "name": "Smile dental care",
+    "address": "P2CH+HP2",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 18:40:27.861907"
+  },
+  {
     "place_id": "0x3b05c70038a1a745:0",
     "name": "M cafe",
     "address": "JXH6+F5R",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 10:14:01.268829"
-  },
-  {
-    "place_id": "0x3b05c5d51fade63d:0",
-    "name": "Indoor Furniture",
-    "address": "Closes 9:30 PM",
-    "category": "Open",
-    "phone": "+91 80753 50024",
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:00.008595"
-  },
-  {
-    "place_id": "0x3b05b0a44ee8588b:0",
-    "name": "MOBILE CARE PEYAD",
-    "address": "near STATE BANK OF INDIA",
-    "category": "Cell phone store",
-    "phone": "+91 80867 73333",
-    "website": null,
-    "discovered_at": "2026-11-20 10:13:58.783889"
   }
 ]
