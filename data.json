@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c182eb256ee3:0",
+    "name": "Eagle tours and Travels",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 23:31:05.663907"
+  },
+  {
     "place_id": "0x3b05bd59a5f3f925:0",
     "name": "The Detour",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": "+91 98460 15478",
     "website": null,
     "discovered_at": "2026-11-20 13:06:52.340497"
-  },
-  {
-    "place_id": "0x3b05bf7ac8ddf859:0",
-    "name": "iPromax",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 12:52:28.314102"
   }
 ]
