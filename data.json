@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bf000ba4606f:0",
+    "name": "Classic Restaurant",
+    "address": "HV6H+CCJ Technopark Trivandrum, Mulluvila Road, Nila Nagar Rd",
+    "category": "Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 02:32:11.954020"
+  },
+  {
+    "place_id": "0x3b05befeb63b09ad:0",
+    "name": "Ginger - Food and Beverage",
+    "address": "HV6G+CHQ, Inside Hotel Ginger, Technopark Kazhakuttom, Thiruvananthapuram Byp",
+    "category": "North Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 02:32:10.754159"
+  },
+  {
     "place_id": "0x3b05e9d2535801bf:0",
     "name": "NIC SKC ABACUS",
     "address": "Akshaya Building",
@@ -8980,23 +8998,5 @@
     "phone": "+91 89265 90590",
     "website": null,
     "discovered_at": "2026-11-20 02:24:45.842749"
-  },
-  {
-    "place_id": "0x3b05bf78d61c92f9:0",
-    "name": "MEDIPATH DIAGNOSTIC & LABOROTORY",
-    "address": "Road, near St Thomas Engineering College",
-    "category": "Laboratory",
-    "phone": "+91 94969 39188",
-    "website": null,
-    "discovered_at": "2026-11-20 02:24:44.578884"
-  },
-  {
-    "place_id": "0x3b05b6f915a3d51d:0",
-    "name": "Pumping Iron fitness centre",
-    "address": "near Autostand",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 02:17:25.117756"
   }
 ]
