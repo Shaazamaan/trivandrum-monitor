@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb02ef1859f7:0",
+    "name": "Fleek",
+    "address": "",
+    "category": "Clothing store",
+    "phone": "+91 81295 51200",
+    "website": null,
+    "discovered_at": "2026-11-26 13:09:56.100699"
+  },
+  {
+    "place_id": "0x3b05c1c1275e37d7:0",
+    "name": "S2 Casual Men's Wear",
+    "address": "p.o, Nellimoodu-kozhimada road,.Murukkumpuzha Veiloor",
+    "category": "Men's clothing store",
+    "phone": "+91 98952 55989",
+    "website": null,
+    "discovered_at": "2026-11-26 13:09:54.741043"
+  },
+  {
     "place_id": "0x3b05a532781fb4e9:0",
     "name": "Dr Fitness Club & Nutrition",
     "address": "Trivandrum",
@@ -8980,23 +8998,5 @@
     "phone": "+91 94971 87486",
     "website": null,
     "discovered_at": "2026-11-20 04:06:41.435304"
-  },
-  {
-    "place_id": "0x3b05ad3d82974409:0",
-    "name": "AMMUS SUPERMARKET",
-    "address": "Akshaya Centre, Near, Perumkadavila - Paliyode Rd",
-    "category": "Supermarket",
-    "phone": "+91 98958 20417",
-    "website": null,
-    "discovered_at": "2026-11-20 04:06:38.433142"
-  },
-  {
-    "place_id": "0x3b05af2b65c225c9:0",
-    "name": "R S Brothers SuperMarket",
-    "address": "Kanjiramkulam Pulluvila Road",
-    "category": "Supermarket",
-    "phone": "+91 80098 00962",
-    "website": null,
-    "discovered_at": "2026-11-20 04:06:37.165902"
   }
 ]
