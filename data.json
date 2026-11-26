@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05ea6f18b4a523:0",
+    "name": "ആശ്രയ കമ്മ്യൂണിറ്റി ഫാർമസി",
+    "address": "MR76+427",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 18:18:22.395166"
+  },
+  {
     "place_id": "0x3b05bbcac2c54cdb:0",
     "name": "Dr Batra's healthcare",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 10:06:40.233662"
-  },
-  {
-    "place_id": "0x3b05a95e49a84909:0",
-    "name": "Government Veterinary Hospital Kulathoor Ooranvila",
-    "address": "Closes 5 PM",
-    "category": "Open",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 10:06:38.978169"
   }
 ]
