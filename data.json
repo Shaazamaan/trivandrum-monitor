@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05a52978d139cf:0",
+    "name": "Ramaswamy ji shop in store",
+    "address": "GV Raja Rd",
+    "category": "Computer desk store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 17:35:04.082291"
+  },
+  {
     "place_id": "0x3b05bb67f95a072b:0",
     "name": "XPERTZ Motor School",
     "address": "Road, BSF Ln, opposite Oushadi",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 09:41:56.862379"
-  },
-  {
-    "place_id": "0x3b05eb1df8e0aacd:0",
-    "name": "Arun's Pet Shop",
-    "address": "near Police Station",
-    "category": "Aquarium shop",
-    "phone": "+91 81380 64931",
-    "website": null,
-    "discovered_at": "2026-11-20 09:41:55.623261"
   }
 ]
