@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb3fcfa44207:0",
+    "name": "I Shop",
+    "address": "Thakaraparambu Rd",
+    "category": "Cell phone accessory store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 00:21:02.542579"
+  },
+  {
     "place_id": "0x3b05bf0d4dd1e2ab:0",
     "name": "Kamyon",
     "address": "Closes 1 AM",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 01:18:23.411922"
-  },
-  {
-    "place_id": "0x3b05abd174d7bc43:0",
-    "name": "Rinkostars FitZone",
-    "address": "Sivasakthi Towers",
-    "category": "Fitness center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 01:18:21.886731"
   }
 ]
