@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbcac2c54cdb:0",
+    "name": "Dr Batra's healthcare",
+    "address": "",
+    "category": "Medical clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 18:10:46.647944"
+  },
+  {
+    "place_id": "0x3b05bb2a576878f3:0",
+    "name": "Dr Usha V - Consultation by appointment",
+    "address": "Sree Gomathy, CRA 21, Kairali Ln",
+    "category": "Dermatologist",
+    "phone": "+91 94464 03030",
+    "website": null,
+    "discovered_at": "2026-11-26 18:10:45.381711"
+  },
+  {
     "place_id": "0x3b05bba33796541b:0",
     "name": "DOTS Academy SSC| Railway|PSC |SSC BANK",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 10:06:38.978169"
-  },
-  {
-    "place_id": "0x3b05c5cad29fb2dd:0",
-    "name": "CROWN DENTAL CLINIC 🔹 KALLARA",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": "+91 83049 65423",
-    "website": null,
-    "discovered_at": "2026-11-20 09:48:50.158234"
-  },
-  {
-    "place_id": "0x3b05bb713bb51e25:0",
-    "name": "Kerala Tour Packages",
-    "address": "No 79/47, New Gardens Eenchakkal Sangamam Nagar Vallakadavu P.O",
-    "category": "Travel agency",
-    "phone": "+91 99958 09002",
-    "website": null,
-    "discovered_at": "2026-11-20 09:41:58.214011"
   }
 ]
