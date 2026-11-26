@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c9a5d085a529:0",
+    "name": "Meenu Medical Store",
+    "address": "M339+4XJ",
+    "category": "Drug store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 10:45:12.555046"
+  },
+  {
     "place_id": "0x3b05b11a829a6797:0",
     "name": "davaindia GENERIC PHARMACY",
     "address": "S No 5/188/D, Ground Floor, Junction",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 04:06:24.713464"
-  },
-  {
-    "place_id": "0x3b05abb7c60bc47f:0",
-    "name": "Advanced GroHair & GloSkin Marthandam",
-    "address": "No.III-2179D, Trivandrum - Nagercoil Hwy, near Marthandam",
-    "category": "Hair replacement service",
-    "phone": "+91 97831 56789",
-    "website": null,
-    "discovered_at": "2026-11-20 04:06:23.405997"
   }
 ]
