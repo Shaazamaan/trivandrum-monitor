@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bbb7ca424a7f:0",
+    "name": "I DeLIcious cafe",
+    "address": "KM TOWER, line, Oottukuzhy Rd",
+    "category": "Cafe",
+    "phone": "+91 97474 07365",
+    "website": null,
+    "discovered_at": "2026-11-26 02:53:47.296743"
+  },
+  {
     "place_id": "0x3b05bb006f5e9d2f:0",
     "name": "Marga Fresh Supermarket Pattoor",
     "address": "Closes 10 PM",
@@ -8989,14 +8998,5 @@
     "phone": "+91 96336 90251",
     "website": null,
     "discovered_at": "2026-11-20 02:24:48.757950"
-  },
-  {
-    "place_id": "0x3b05bf075b382327:0",
-    "name": "Home tuition",
-    "address": "Nedumanveedu, Poundkadavu Bridge, po",
-    "category": "Education center",
-    "phone": "+91 88480 85011",
-    "website": null,
-    "discovered_at": "2026-11-20 02:24:47.038967"
   }
 ]
