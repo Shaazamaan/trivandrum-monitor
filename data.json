@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c5c4f57950ed:0",
+    "name": "Celltech Gadgets Plus",
+    "address": "Celltech mobiles",
+    "category": "Cell phone store",
+    "phone": "+91 81293 15480",
+    "website": null,
+    "discovered_at": "2026-11-26 16:05:46.904873"
+  },
+  {
+    "place_id": "0x3b05af8da280ced1:0",
+    "name": "Vidhya Medicals Chemist and Druggist",
+    "address": "C28C+W5W",
+    "category": "Pharmacy",
+    "phone": "+91 96338 81938",
+    "website": null,
+    "discovered_at": "2026-11-26 16:05:45.659499"
+  },
+  {
     "place_id": "0x3b05be956819afd7:0",
     "name": "SB Margin Free Super Market",
     "address": "10 PM",
@@ -8980,23 +8998,5 @@
     "phone": "+91 90202 61001",
     "website": null,
     "discovered_at": "2026-11-20 09:41:52.944824"
-  },
-  {
-    "place_id": "0x3b05a59402de4c35:0",
-    "name": "KADHALIMANGALAM TRANSPORTS AND GATEWAYS",
-    "address": "Kadhalimangalam belraj, Geethabhavan, Pananinnavilakam Rd",
-    "category": "Bus tour agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 08:57:44.552084"
-  },
-  {
-    "place_id": "0x3b05afc6022ae0df:0",
-    "name": "A. K. Speciality Dental Clinic",
-    "address": "Baby land daycare Building, A K Speciality dental clinic, Baby land building, near Nazarath Home school",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 08:57:43.335921"
   }
 ]
