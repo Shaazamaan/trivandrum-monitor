@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c12c6607143d:0",
+    "name": "Rise and shine",
+    "address": "opp. Melemukku",
+    "category": "Dress store",
+    "phone": "+91 62829 86250",
+    "website": null,
+    "discovered_at": "2026-11-26 15:21:46.828169"
+  },
+  {
     "place_id": "0x3b05ac7754c60ae9:0",
     "name": "Maveli Curtains And Mats",
     "address": "Trivandrum",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 07:15:09.152343"
-  },
-  {
-    "place_id": "0x3b05bf5d3a8a7ef1:0",
-    "name": "AS Bakers And Fresh Juice",
-    "address": "JV2X+R34",
-    "category": "Bakery",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 06:39:40.838076"
   }
 ]
