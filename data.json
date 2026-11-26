@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05be955d6672ad:0",
+    "name": "Akash Medicals",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": "+91 98464 63494",
+    "website": null,
+    "discovered_at": "2026-11-26 08:08:26.221074"
+  },
+  {
+    "place_id": "0x3b05bf7be0116f97:0",
+    "name": "Precision Dentistry - Dental Clinic",
+    "address": "TC 2/223, opp. Karthika Park",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 08:08:24.955573"
+  },
+  {
     "place_id": "0x3b05bef28bb5b215:0",
     "name": "Kallingal Hotel",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 03:09:27.161136"
-  },
-  {
-    "place_id": "0x3b05bb3ac7f58159:0",
-    "name": "Leansa Makeover Studio",
-    "address": "kaithamooku road",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 03:09:25.942501"
-  },
-  {
-    "place_id": "0x3b05bb1942507427:0",
-    "name": "VYBE CAFE",
-    "address": "Vybe Cafe, Jn, Mahatma Gandhi Rd, opp. Zudio",
-    "category": "Cafe",
-    "phone": "+91 82813 09684",
-    "website": null,
-    "discovered_at": "2026-11-20 03:01:51.970818"
   }
 ]
