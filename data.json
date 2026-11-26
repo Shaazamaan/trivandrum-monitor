@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bf4a4d101cb7:0",
+    "name": "St. Joseph agency real estate company",
+    "address": "Opens 9 AM Fri",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 16:20:37.297418"
+  },
+  {
     "place_id": "0x3b05c5c4f57950ed:0",
     "name": "Celltech Gadgets Plus",
     "address": "Celltech mobiles",
@@ -8989,14 +8998,5 @@
     "phone": "+91 85905 61158",
     "website": null,
     "discovered_at": "2026-11-20 09:41:54.224099"
-  },
-  {
-    "place_id": "0x3b05bbcfa787921f:0",
-    "name": "G-TEC COMPUTER EDUCATION MANACAUD - TRIVANDRUM",
-    "address": "",
-    "category": "Educational institution",
-    "phone": "+91 90202 61001",
-    "website": null,
-    "discovered_at": "2026-11-20 09:41:52.944824"
   }
 ]
