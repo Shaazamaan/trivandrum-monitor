@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05b15ded80d9dd:0",
+    "name": "Kasi Medicals, Kattakada",
+    "address": "G35J+MRR Kasi Medicals, Road, near Muthu Stores",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 06:38:49.731545"
+  },
+  {
+    "place_id": "0x3b05bbe2645cac95:0",
+    "name": "Purple Ocean Makeover Studio (IIBT)",
+    "address": "near Azeez Restaurant",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 06:38:48.477972"
+  },
+  {
+    "place_id": "0x3b05b73f20897bfb:0",
+    "name": "Nk Home Furniture",
+    "address": "Veeranaavu",
+    "category": "Furniture store",
+    "phone": "+91 96332 43884",
+    "website": null,
+    "discovered_at": "2026-11-26 06:38:47.220104"
+  },
+  {
+    "place_id": "0x3b05b6bcc0fcb47f:0",
+    "name": "Pooram Home Appliance & Farniture Mart",
+    "address": "G3XR+W9Q, Zero Junction, Pezhummoodu, Poovachal P.O",
+    "category": "Shopping mall",
+    "phone": "+91 97468 21434",
+    "website": null,
+    "discovered_at": "2026-11-26 06:38:46.011911"
+  },
+  {
+    "place_id": "0x3b05b77ffa7dce23:0",
+    "name": "A.S MOBILES & COMPUTERS",
+    "address": "6995575",
+    "category": "Cell phone store",
+    "phone": "+91 99477 92742",
+    "website": null,
+    "discovered_at": "2026-11-26 06:38:44.783877"
+  },
+  {
+    "place_id": "0x3b05bb201a59c2a9:0",
+    "name": "Poomaram Cafe",
+    "address": "Near",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 06:38:41.427260"
+  },
+  {
+    "place_id": "0x3b05bb0cb7af6e2b:0",
+    "name": "Aswas Diagnostics Poojapura",
+    "address": "FXRG+Q9V",
+    "category": "Laboratory",
+    "phone": "+91 70341 25123",
+    "website": null,
+    "discovered_at": "2026-11-26 06:38:40.197622"
+  },
+  {
     "place_id": "0x3b05a5006f58dfb7:0",
     "name": "Sea Bun Resto Cafe \" SL Creation \"",
     "address": "",
@@ -8935,68 +8998,5 @@
     "phone": "+91 89210 60239",
     "website": null,
     "discovered_at": "2026-11-20 03:01:50.821576"
-  },
-  {
-    "place_id": "0x3b05bb004743978d:0",
-    "name": "Anathapuri cafe kudumbashree premium cafe",
-    "address": "FXW2+64C, Mahatma Gandhi Rd, opp. Press Road",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 03:01:49.586630"
-  },
-  {
-    "place_id": "0x3b05bde63e255497:0",
-    "name": "ESPANSHE - LuLu Mall Thiruvananthapuram",
-    "address": "",
-    "category": "Clothing store",
-    "phone": "+91 98463 32392",
-    "website": null,
-    "discovered_at": "2026-11-20 02:25:07.788737"
-  },
-  {
-    "place_id": "0x3b05bdd35329d227:0",
-    "name": "The Indian Garage Co, Lulu Mall, Trivandrum",
-    "address": "TC 91, Lulu International Shopping Mall Pvt. Ltd, The Indian Garage Co. Shop.No. F16, 17, First Floor, 270, Akkulam Bridge",
-    "category": "Clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 02:25:06.617568"
-  },
-  {
-    "place_id": "0x3b05bf17c797648d:0",
-    "name": "SK Clinic & Lab",
-    "address": "Parvathi Building, T C 97/278, Junction",
-    "category": "Medical clinic",
-    "phone": "+91 80780 24720",
-    "website": null,
-    "discovered_at": "2026-11-20 02:25:05.324018"
-  },
-  {
-    "place_id": "0x3b05bffe6a806419:0",
-    "name": "Medipicker",
-    "address": "+91 94479 24199",
-    "category": "Open 24 hours",
-    "phone": "+91 94479 24199",
-    "website": null,
-    "discovered_at": "2026-11-20 02:25:04.110822"
-  },
-  {
-    "place_id": "0x3b05bf002b277891:0",
-    "name": "BIMLABS Corporate Office",
-    "address": "",
-    "category": "Education center",
-    "phone": "+91 97464 44064",
-    "website": null,
-    "discovered_at": "2026-11-20 02:25:02.752126"
-  },
-  {
-    "place_id": "0x3b05bbef9a737eff:0",
-    "name": "HODO Medical Informatic Solutions Private Limited",
-    "address": "",
-    "category": "Software company",
-    "phone": "+91 80788 22244",
-    "website": null,
-    "discovered_at": "2026-11-20 02:25:01.562726"
   }
 ]
