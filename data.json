@@ -1,5 +1,68 @@
 [
   {
+    "place_id": "0x3b05bf5e35a3005f:0",
+    "name": "Unique Cabs 24x7 / Taxi Services - Thiruvananthapuram",
+    "address": "1st Floor, Sanjana Tower, Chekkalamukku, opp. Petrol Pump",
+    "category": "Taxi service",
+    "phone": "+91 95391 37979",
+    "website": null,
+    "discovered_at": "2026-11-26 20:15:37.595249"
+  },
+  {
+    "place_id": "0x3b05bf54ef778ff1:0",
+    "name": "Sarayu Tuition Centre",
+    "address": "Medical College -P.O, Bn248, Kavil Lane",
+    "category": "Tutoring service",
+    "phone": "+91 97445 14889",
+    "website": null,
+    "discovered_at": "2026-11-26 20:15:36.327431"
+  },
+  {
+    "place_id": "0x3b05bed2515fb5c1:0",
+    "name": "IMB Hospital",
+    "address": "",
+    "category": "Private hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 20:15:35.107866"
+  },
+  {
+    "place_id": "0x3b05becabebaf023:0",
+    "name": "Oral surgeon",
+    "address": "Temple Ln, opposite Oil Mill",
+    "category": "Oral surgeon",
+    "phone": "+91 98475 88933",
+    "website": null,
+    "discovered_at": "2026-11-26 20:15:33.612083"
+  },
+  {
+    "place_id": "0x3b05b9883d0b3d5b:0",
+    "name": "Digital Signature Certificate",
+    "address": "Chinnu's Ln",
+    "category": "Software company",
+    "phone": "+91 90375 35614",
+    "website": null,
+    "discovered_at": "2026-11-26 20:15:32.336044"
+  },
+  {
+    "place_id": "0x3b05af7b58c39a87:0",
+    "name": "Kikstaart Growth Hub",
+    "address": "2nd Floor, Ratnam Arcade, Kazhakootam Womens ITI, Road",
+    "category": "Internet marketing service",
+    "phone": "+91 87148 37195",
+    "website": null,
+    "discovered_at": "2026-11-26 20:15:31.095633"
+  },
+  {
+    "place_id": "0x3b05b981012d6821:0",
+    "name": "Sun Felicia",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 20:15:29.800821"
+  },
+  {
     "place_id": "0x3b05cf98a50b911f:0",
     "name": "Ushas Furnitures And Home Appliances",
     "address": "P2FH+RF7",
@@ -8935,68 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 10:14:09.886410"
-  },
-  {
-    "place_id": "0x3b05b9bc30dded8d:0",
-    "name": "CeeJay Designs",
-    "address": "",
-    "category": "Civil engineering company",
-    "phone": "+91 79073 26354",
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:08.697009"
-  },
-  {
-    "place_id": "0x3b05c500906bfd3f:0",
-    "name": "Auxins N' Insight Academy",
-    "address": "Closes 6 PM",
-    "category": "Open",
-    "phone": "+91 90727 62286",
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:07.485818"
-  },
-  {
-    "place_id": "0x3b05b96610ce0419:0",
-    "name": "Jeremiah Memorial learning centre and Clinical Services",
-    "address": "Thiruvananthapuram - Ponmudi Rd",
-    "category": "Occupational therapist",
-    "phone": "+91 94009 41453",
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:06.274547"
-  },
-  {
-    "place_id": "0x3b05afdd6efc4699:0",
-    "name": "RS Fitness Hub",
-    "address": "4 PM",
-    "category": "Opens soon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:05.060965"
-  },
-  {
-    "place_id": "0x3b05ba157f31d761:0",
-    "name": "BHUMIKA SUPER MARKET",
-    "address": "",
-    "category": "Grocery store",
-    "phone": "+91 95395 21555",
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:03.845559"
-  },
-  {
-    "place_id": "0x3b05cf41e73f6607:0",
-    "name": "Raja Jewellers",
-    "address": "College Rd, near sbi Bank",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:02.595910"
-  },
-  {
-    "place_id": "0x3b05c5e910e5bbe5:0",
-    "name": "Mannampachayil jewellers",
-    "address": "Pangode - Pazhavila Rd",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 10:14:01.268829"
   }
 ]
