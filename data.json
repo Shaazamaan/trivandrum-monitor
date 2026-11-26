@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bd59a5f3f925:0",
+    "name": "The Detour",
+    "address": "",
+    "category": "Eclectic restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 22:33:28.136464"
+  },
+  {
+    "place_id": "0x3b05b9df7908097b:0",
+    "name": "Yummy spot dine in",
+    "address": "Opens 11:30 AM",
+    "category": "Closed",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 22:33:26.889724"
+  },
+  {
+    "place_id": "0x3b05b98c9396f7d1:0",
+    "name": "Lunch Box Medical college",
+    "address": "1st Floor, T.C 6/1367, Bhagavathy Plaza Pongummoodu Medical College, PO",
+    "category": "Delivery Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 22:33:24.823720"
+  },
+  {
+    "place_id": "0x3b05b9005d66cd3b:0",
+    "name": "Royal Thani Nadan Thattu Kada",
+    "address": "GWGF+MCQ, Ulloor - Akkulam Rd",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 22:33:23.427690"
+  },
+  {
+    "place_id": "0x3b05bbb3dc703449:0",
+    "name": "MALABAR EATS",
+    "address": "SHOP NO.1, MALABAR EATS, Medical College, ROAD, opp. COSMO HOSPITAL",
+    "category": "Coffee shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-26 22:33:22.132549"
+  },
+  {
     "place_id": "0x3b05bfa775e0982f:0",
     "name": "Techside Work Stays - FlexTays Urban Kazhakootam",
     "address": "Trivandrum",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 12:52:28.314102"
-  },
-  {
-    "place_id": "0x3b05bfd544ad1121:0",
-    "name": "Modern Jewellers Kaniyapuram (Franchise of Omiga Jewellers Thrissur)",
-    "address": "near Amani Trend setter, opposite kunnil hypermarket",
-    "category": "Jewelry store",
-    "phone": "+91 73064 34194",
-    "website": null,
-    "discovered_at": "2026-11-20 12:52:27.081975"
-  },
-  {
-    "place_id": "0x3b05cecc2dacd849:0",
-    "name": "Fathima Medical Store",
-    "address": "P34C+JCM, Peringammala Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 12:30:42.754150"
-  },
-  {
-    "place_id": "0x3b05bb282c6c6d65:0",
-    "name": "Aamie's Travel Hub",
-    "address": "Closes 7 PM",
-    "category": "Open",
-    "phone": "+91 99952 21091",
-    "website": null,
-    "discovered_at": "2026-11-20 12:08:46.281834"
-  },
-  {
-    "place_id": "0x3b05ab8fde3ec2b3:0",
-    "name": "Apollo Pharmacy Nadaikavu",
-    "address": "1D-1, Galaxy Tower, No. 9, Choozhal Road, near C.S.I Pastorate Church",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 11:48:09.771826"
-  },
-  {
-    "place_id": "0x3b05eb446860f87d:0",
-    "name": "ATTINGAL FARM TOURISM",
-    "address": "",
-    "category": "Farm",
-    "phone": "+91 90724 71895",
-    "website": null,
-    "discovered_at": "2026-11-20 11:19:58.389509"
   }
 ]
