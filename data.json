@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bfaf0df3d181:0",
+    "name": "Meenu's Homely Food",
+    "address": "CVRA 85A",
+    "category": "Delivery Restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 01:11:34.060868"
+  },
+  {
+    "place_id": "0x3b05bbdac1908c6d:0",
+    "name": "SATYAM'S Coaching Academy",
+    "address": "Second Floor, Genius Channel Complex",
+    "category": "Coaching center",
+    "phone": "+91 99959 16183",
+    "website": null,
+    "discovered_at": "2026-11-27 01:11:32.661947"
+  },
+  {
     "place_id": "0x3b05e9b637a087b3:0",
     "name": "BLUSH SALON",
     "address": "KALLAMBALAM",
@@ -8980,23 +8998,5 @@
     "phone": "+91 99615 78501",
     "website": null,
     "discovered_at": "2026-11-20 13:06:56.130520"
-  },
-  {
-    "place_id": "0x3b05bbe4bd9de35f:0",
-    "name": "DELMA EYE CLINIC & OPTICALS",
-    "address": "Medical College",
-    "category": "Optician",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 13:06:54.883133"
-  },
-  {
-    "place_id": "0x3b05ba0d60702f39:0",
-    "name": "My Eyes Optics and Eye Clinic",
-    "address": "",
-    "category": "Optician",
-    "phone": "+91 85899 39501",
-    "website": null,
-    "discovered_at": "2026-11-20 13:06:53.662236"
   }
 ]
