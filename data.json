@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c460152ec521:0",
+    "name": "Brothers Bakery",
+    "address": "PWQR+J26",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 02:46:46.146462"
+  },
+  {
     "place_id": "0x3b05af969212c0eb:0",
     "name": "RSB mobile city",
     "address": "93XQ+5JC",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 13:06:58.613407"
-  },
-  {
-    "place_id": "0x3b05bb436d1d1633:0",
-    "name": "Pet Mamma, Trivandrum",
-    "address": "BNRA",
-    "category": "Pet sitter",
-    "phone": "+91 62820 60227",
-    "website": null,
-    "discovered_at": "2026-11-20 13:06:57.385110"
   }
 ]
