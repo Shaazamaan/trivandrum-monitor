@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05e9b637a087b3:0",
+    "name": "BLUSH SALON",
+    "address": "KALLAMBALAM",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 00:21:24.326682"
+  },
+  {
     "place_id": "0x3b05c182eb256ee3:0",
     "name": "Eagle tours and Travels",
     "address": "Trivandrum",
@@ -8989,14 +8998,5 @@
     "phone": "+91 85899 39501",
     "website": null,
     "discovered_at": "2026-11-20 13:06:53.662236"
-  },
-  {
-    "place_id": "0x3b05b97e38064f71:0",
-    "name": "Ayur Health Care",
-    "address": "GXG6+V7V, Narmada Shopping Complex",
-    "category": "Alternative medicine practitioner",
-    "phone": "+91 98460 15478",
-    "website": null,
-    "discovered_at": "2026-11-20 13:06:52.340497"
   }
 ]
