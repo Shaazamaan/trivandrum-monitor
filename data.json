@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bbf0791eaaef:0",
+    "name": "Divya Medicals",
+    "address": "Junction, Medical College, PO",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 13:06:08.565052"
+  },
+  {
+    "place_id": "0x3b05bbfd531ed897:0",
+    "name": "Elsaj Medicals",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 13:06:07.302808"
+  },
+  {
     "place_id": "0x3b05bbf6ce241fe5:0",
     "name": "Aswathy tuition centre",
     "address": "Maya bhavan NRA28 Nanthancode lane, PO",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 15:10:00.236360"
-  },
-  {
-    "place_id": "0x3b05b98971a0c355:0",
-    "name": "Colours Designing Hub",
-    "address": "GWXV+8HC, Kesavadasapuram - Venjaramoodu Rd",
-    "category": "Women's clothing store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:02:28.162253"
-  },
-  {
-    "place_id": "0x3b05b98270c8d807:0",
-    "name": "Dessi Cuppa",
-    "address": "",
-    "category": "Cafe",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:02:26.908091"
   }
 ]
