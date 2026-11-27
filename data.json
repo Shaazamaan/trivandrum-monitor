@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bdf787d4528d:0",
+    "name": "VCare - Carpenter Works, Painting Contractors, House Cleaning Services in Trivandrum",
+    "address": "Nandanam Arcade TC.91/2960(3) First Floor Karikkakom P.O",
+    "category": "House cleaning service",
+    "phone": "+91 98954 88998",
+    "website": null,
+    "discovered_at": "2026-11-27 14:06:39.635606"
+  },
+  {
+    "place_id": "0x3b05bbb2e5120775:0",
+    "name": "Viswa Tower",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": "+91 79944 07163",
+    "website": null,
+    "discovered_at": "2026-11-27 14:06:38.461929"
+  },
+  {
+    "place_id": "0x3b05ba4d56fd7a07:0",
+    "name": "Nikunjam Estates",
+    "address": "",
+    "category": "Apartment complex",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 14:06:36.507260"
+  },
+  {
     "place_id": "0x3b05e9c9e28745a3:0",
     "name": "Aami’s women’s fashion and lifestyle",
     "address": "Palachira, Varkala Kallambalam Rd",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 15:25:10.195873"
-  },
-  {
-    "place_id": "0x3b05c1bc6dfd33fd:0",
-    "name": "PRO FIT Fitness and Health Gym",
-    "address": "",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:17:21.116847"
-  },
-  {
-    "place_id": "0x3b05c82d5190b773:0",
-    "name": "AM Jewellery",
-    "address": "J3G4+2FG",
-    "category": "Jewelry store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:17:19.853521"
-  },
-  {
-    "place_id": "0x3b05bbc87418bf83:0",
-    "name": "Thapasya Ayurvedic Spa",
-    "address": "Rosho Complex, 48",
-    "category": "Health spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:10:02.794463"
   }
 ]
