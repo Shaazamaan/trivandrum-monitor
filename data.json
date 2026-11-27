@@ -1,5 +1,59 @@
 [
   {
+    "place_id": "0x3b05bb0016618ef7:0",
+    "name": "HindLabs",
+    "address": "GW8M+763",
+    "category": "Laboratory",
+    "phone": "+91 91889 25365",
+    "website": null,
+    "discovered_at": "2026-11-27 14:57:54.400933"
+  },
+  {
+    "place_id": "0x3b05bb1b1555550b:0",
+    "name": "AKSHAYA CENTRE",
+    "address": "",
+    "category": "Government office",
+    "phone": "+91 98950 71109",
+    "website": null,
+    "discovered_at": "2026-11-27 14:57:53.210510"
+  },
+  {
+    "place_id": "0x3b05bbe43cbaebb3:0",
+    "name": "KALADY JANASAHAYA KENDRAM",
+    "address": "Killippalam - Kalady Bund Rd",
+    "category": "Computer networking service",
+    "phone": "+91 97472 91885",
+    "website": null,
+    "discovered_at": "2026-11-27 14:57:52.022632"
+  },
+  {
+    "place_id": "0x3b05bb8fd2dcfc15:0",
+    "name": "Hi-Win Furniture",
+    "address": "FXJ4+M8X",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 14:57:50.872561"
+  },
+  {
+    "place_id": "0x3b05bb10e7aebaed:0",
+    "name": "M-ART FURNITURE TRIVANDRUM",
+    "address": "FXJ5+GG7, above Axis Bank",
+    "category": "Furniture store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 14:57:49.736361"
+  },
+  {
+    "place_id": "0x3b05bbb351db1b8d:0",
+    "name": "RV Furnishings",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": "+91 98470 57482",
+    "website": null,
+    "discovered_at": "2026-11-27 14:57:48.545566"
+  },
+  {
     "place_id": "0x3b05bdf787d4528d:0",
     "name": "VCare - Carpenter Works, Painting Contractors, House Cleaning Services in Trivandrum",
     "address": "Nandanam Arcade TC.91/2960(3) First Floor Karikkakom P.O",
@@ -8944,59 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 15:40:02.131272"
-  },
-  {
-    "place_id": "0x3b05bba316438601:0",
-    "name": "1LIFE GYM AND FITNESS Personal Training Studio",
-    "address": "Marappalam Rd, Po",
-    "category": "Gym",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:40:00.504791"
-  },
-  {
-    "place_id": "0x3b05bbe5459d2767:0",
-    "name": "Hotel Moon City",
-    "address": "",
-    "category": "Family restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:39:59.276579"
-  },
-  {
-    "place_id": "0x3b05bb899b53a02f:0",
-    "name": "Barbecue Space",
-    "address": "Ed Heights, Salem - Kochi Hwy",
-    "category": "Barbecue restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:39:58.055057"
-  },
-  {
-    "place_id": "0x3b05bf0063560b91:0",
-    "name": "Loaded",
-    "address": "Technopark phase III, Service Rd",
-    "category": "Fast food restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:32:41.186425"
-  },
-  {
-    "place_id": "0x3b05bf000d3f9975:0",
-    "name": "AARDE",
-    "address": "Shop No 1 AADE, opposite Elements Saloon",
-    "category": "Clothing store",
-    "phone": "+91 79077 91828",
-    "website": null,
-    "discovered_at": "2026-11-20 15:25:11.481639"
-  },
-  {
-    "place_id": "0x3b05e9ada964cc5d:0",
-    "name": "Travel Art Tours & Travels",
-    "address": "PQJQ+VH2",
-    "category": "Travel agency",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:25:10.195873"
   }
 ]
