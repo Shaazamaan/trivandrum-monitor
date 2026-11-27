@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05bbb8669cced1:0",
+    "name": "Ambal Coffee & Tea",
+    "address": "GX32+65C, NH 66",
+    "category": "Tea house",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 03:23:19.309516"
+  },
+  {
+    "place_id": "0x3b05ba4ac3b890e7:0",
+    "name": "Amrita IAS Academy",
+    "address": "TC 16, 354, Cotton Hill Rd, near Federal Bank",
+    "category": "Coaching center",
+    "phone": "+91 85890 60000",
+    "website": null,
+    "discovered_at": "2026-11-27 03:23:18.070846"
+  },
+  {
+    "place_id": "0x3b05bb336508d97f:0",
+    "name": "Thakshashila malayalam net coaching center",
+    "address": "GX25+44G, Women's College Rd",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 03:23:16.829312"
+  },
+  {
     "place_id": "0x3b05c460152ec521:0",
     "name": "Brothers Bakery",
     "address": "PWQR+J26",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 13:36:42.272787"
-  },
-  {
-    "place_id": "0x3b05bbd5bb0aa2ab:0",
-    "name": "Decus Interiors",
-    "address": "T.C. 4, 995(1, Pipeline Rd",
-    "category": "Interior designer",
-    "phone": "+91 80892 30751",
-    "website": null,
-    "discovered_at": "2026-11-20 13:07:01.144384"
-  },
-  {
-    "place_id": "0x3b05bbfd448bdb61:0",
-    "name": "ALLMATH MATHS TUITIONS | ENTRANCE ORIENTED",
-    "address": "ALLMATH Education, Brahmins Colony Ln",
-    "category": "Education center",
-    "phone": "+91 82815 01625",
-    "website": null,
-    "discovered_at": "2026-11-20 13:06:59.859617"
-  },
-  {
-    "place_id": "0x3b05bb192bf98cf5:0",
-    "name": "Primary health centre kowdiar",
-    "address": "",
-    "category": "Hospital department",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 13:06:58.613407"
   }
 ]
