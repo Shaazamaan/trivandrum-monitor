@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05efe72c60ae7f:0",
+    "name": "MS Homely Foodies",
+    "address": "Closes 10 PM",
+    "category": "Open",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 08:52:04.873471"
+  },
+  {
+    "place_id": "0x3b05ef1595e8a857:0",
+    "name": "CLOUD NINE INSIDE",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 08:52:04.871351"
+  },
+  {
     "place_id": "0x3b05bb00713e33c5:0",
     "name": "Bake couture",
     "address": "Poonthi Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 15:02:15.583681"
-  },
-  {
-    "place_id": "0x3b05c386c9c817f3:0",
-    "name": "AIGA Kilimanoor",
-    "address": "Purple Textiles",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:02:14.353033"
-  },
-  {
-    "place_id": "0x3b05dd000e1c6207:0",
-    "name": "Vinod kilimanoor",
-    "address": "QWP3+998, Kilimanoor - Kadakkal Rd",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:02:12.916581"
   }
 ]
