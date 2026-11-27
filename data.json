@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bdcca653bced:0",
+    "name": "Noufal Interior Design",
+    "address": "TC No.991, 1658, Chempakathil Karikkakom",
+    "category": "Interior designer",
+    "phone": "+91 62385 19892",
+    "website": null,
+    "discovered_at": "2026-11-27 18:48:54.124275"
+  },
+  {
+    "place_id": "0x3b05b95e7b5085c7:0",
+    "name": "Jsquare Service",
+    "address": "GWHQ+XG6",
+    "category": "Electronics repair shop",
+    "phone": "+91 93888 88688",
+    "website": null,
+    "discovered_at": "2026-11-27 18:48:52.769798"
+  },
+  {
     "place_id": "0x3b05c164f58cd033:0",
     "name": "Pots Park",
     "address": "THYCAUD, Kesavadasapuram - Venjaramoodu Rd",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 17:21:19.660567"
-  },
-  {
-    "place_id": "0x3b05c73957468dad:0",
-    "name": "Raja Hotel & Thattukada",
-    "address": "",
-    "category": "Seafood restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 17:21:18.421456"
-  },
-  {
-    "place_id": "0x3b05ab723ad2528d:0",
-    "name": "Relax",
-    "address": "85V5+J59, Parassala Vellarada Rd",
-    "category": "Massage spa",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 17:14:19.611039"
   }
 ]
