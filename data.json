@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05bf95aa5db50d:0",
+    "name": "KYL NORTH INDIAN FOOD",
+    "address": "Ward 100, Door 1422/2, Station Kadavu Rd",
+    "category": "Box lunch supplier",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 10:26:39.147177"
+  },
+  {
+    "place_id": "0x3b05e9c495f64d9f:0",
+    "name": "Alamcode Aswas Community Medical Services",
+    "address": "Main road",
+    "category": "Pharmacy",
+    "phone": "+91 95672 57575",
+    "website": null,
+    "discovered_at": "2026-11-27 10:26:37.976916"
+  },
+  {
+    "place_id": "0x3b05bbccd1d64a29:0",
+    "name": "Mullackals Medicals",
+    "address": "",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 10:26:36.739791"
+  },
+  {
+    "place_id": "0x3b05e9763462a0c1:0",
+    "name": "Focuz Eye Wear",
+    "address": "+91 80785 11150",
+    "category": "Temporarily closed",
+    "phone": "+91 80785 11150",
+    "website": null,
+    "discovered_at": "2026-11-27 10:26:35.547845"
+  },
+  {
     "place_id": "0x3b05a53cdfeeb9bf:0",
     "name": "Viswas Community Fair Price Medical Service",
     "address": "opposite Petrol Pump",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 15:02:24.378005"
-  },
-  {
-    "place_id": "0x3b05c30015f93ff1:0",
-    "name": "Kilimanoor, mankadu",
-    "address": "QVCH+RQP, Mankadu Rd",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:02:23.153912"
-  },
-  {
-    "place_id": "0x3b05c300703520db:0",
-    "name": "Sivakripa ,kayattulonam, kilimanoor",
-    "address": "QV76+8WJ",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:02:21.828483"
-  },
-  {
-    "place_id": "0x3b05dd00722c4bab:0",
-    "name": "Ajisree pappala kilimanoor",
-    "address": "QVPF+9F7, Malayamadom - Pappala Rd",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:02:20.553253"
-  },
-  {
-    "place_id": "0x3b05c33374e00d73:0",
-    "name": "Arunkumar,Panchajanyam pullayil po KILIMANOOR",
-    "address": "QV3F+59Q, Pullayil Rd",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:02:19.343547"
   }
 ]
