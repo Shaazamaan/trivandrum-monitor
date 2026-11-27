@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bf00411bf5fd:0",
+    "name": "Bold n Beauty",
+    "address": "SREERAGAM Building, Palace Nagar",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 20:30:23.963312"
+  },
+  {
+    "place_id": "0x3b05bfd4902ccb83:0",
+    "name": "ABS LOUNGE UNISEX SALON",
+    "address": "near saji hospital",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 20:30:22.628424"
+  },
+  {
     "place_id": "0x3b05dd4a15318e93:0",
     "name": "Akshaya E Centre - Aadhaar Seva Kendra",
     "address": "",
@@ -8980,23 +8998,5 @@
     "phone": "+91 90728 32690",
     "website": null,
     "discovered_at": "2026-11-20 18:05:06.860819"
-  },
-  {
-    "place_id": "0x3b05affd74c82533:0",
-    "name": "Ayurveda Hospital",
-    "address": "",
-    "category": "Hospital",
-    "phone": "+91 96050 69999",
-    "website": null,
-    "discovered_at": "2026-11-20 18:05:05.550277"
-  },
-  {
-    "place_id": "0x3b05b9fb2966f33d:0",
-    "name": "Ayurveda Doctor",
-    "address": "GWXF+V22",
-    "category": "Doctor",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 18:05:04.254004"
   }
 ]
