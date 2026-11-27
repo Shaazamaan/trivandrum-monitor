@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bf006e9553c9:0",
+    "name": "Krishna Times & Jewellery Works",
+    "address": "",
+    "category": "Jewelry store",
+    "phone": "+91 82817 43074",
+    "website": null,
+    "discovered_at": "2026-11-27 15:34:31.506547"
+  },
+  {
+    "place_id": "0x3b05bf68dab29ef5:0",
+    "name": "Fluffy Moon",
+    "address": "near Arasumoodu",
+    "category": "Store",
+    "phone": "+91 97461 63608",
+    "website": null,
+    "discovered_at": "2026-11-27 15:34:30.269161"
+  },
+  {
     "place_id": "0x3b05c39aa3b1a669:0",
     "name": "Gazania Ladieswear",
     "address": "near Private Busstand",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 16:25:14.130779"
-  },
-  {
-    "place_id": "0x3b05ef91c9d5112b:0",
-    "name": "Sky Lounge Restaurant",
-    "address": "PPP3+V3Q",
-    "category": "Eclectic restaurant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 16:25:12.754628"
-  },
-  {
-    "place_id": "0x3b05eed56efdac59:0",
-    "name": "Sundeep Medicals",
-    "address": "PPJJ+VMF, Varkala Kallambalam Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 16:25:11.434743"
   }
 ]
