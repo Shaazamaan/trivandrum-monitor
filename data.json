@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05bb2c966fdb09:0",
+    "name": "TOP BUILDERS",
+    "address": "Kaimanam Thiruvallam Rd",
+    "category": "Construction company",
+    "phone": "+91 93878 09021",
+    "website": null,
+    "discovered_at": "2026-11-27 08:09:07.870683"
+  },
+  {
+    "place_id": "0x3b05bb3adf29e143:0",
+    "name": "Pharmayush Healthcare | Trivandrum",
+    "address": "2nd Floor, Gouri PLaza, above UNION BANK OF INDIA",
+    "category": "E commerce agency",
+    "phone": "+91 75599 63966",
+    "website": null,
+    "discovered_at": "2026-11-27 08:09:06.712297"
+  },
+  {
     "place_id": "0x3b05e7e44a898bc7:0",
     "name": "Kallazhi Interior & 3D Designing Studio",
     "address": "Paravur - Parippally Rd, near Academi Junction",
@@ -8980,23 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 15:02:11.593257"
-  },
-  {
-    "place_id": "0x3b05c3003297cab9:0",
-    "name": "Kilimanoor House",
-    "address": "QV79+CM2",
-    "category": "Housing society",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:02:10.270743"
-  },
-  {
-    "place_id": "0x3b05c30388ed1acf:0",
-    "name": "Ranesh. Sreenidhi. Kilimanoor",
-    "address": "QV5M+PFJ",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:02:09.055212"
   }
 ]
