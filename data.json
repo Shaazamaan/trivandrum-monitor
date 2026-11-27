@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05a53cdfeeb9bf:0",
+    "name": "Viswas Community Fair Price Medical Service",
+    "address": "opposite Petrol Pump",
+    "category": "Pharmacy",
+    "phone": "+91 94959 58219",
+    "website": null,
+    "discovered_at": "2026-11-27 09:14:41.940989"
+  },
+  {
+    "place_id": "0x3b05af76fd32fb6f:0",
+    "name": "FACT Fertilizer Plant",
+    "address": "92WF+7WF",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 09:14:40.654303"
+  },
+  {
+    "place_id": "0x3b05af2af8f10785:0",
+    "name": "Divine Opticals",
+    "address": "9353+XJ8",
+    "category": "Eye care center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 09:14:39.416902"
+  },
+  {
     "place_id": "0x3b05efe72c60ae7f:0",
     "name": "MS Homely Foodies",
     "address": "Closes 10 PM",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 15:02:19.343547"
-  },
-  {
-    "place_id": "0x3b05c399d287d059:0",
-    "name": "Valenchery kilimanoor",
-    "address": "QV97+VM2",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:02:18.117937"
-  },
-  {
-    "place_id": "0x3b05dd00748bab45:0",
-    "name": "Kilimanoor",
-    "address": "QVMF+RV9, Pappala - Mulakkalathukavu Road",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:02:16.862853"
-  },
-  {
-    "place_id": "0x3b05c39d0d82a129:0",
-    "name": "Ahlen , kattuchantha peroor (p.o) kilimanoor",
-    "address": "Bus Stop, Kalatharamukku, Ponganadu - Puthusserymukku Rd",
-    "category": "Housing development",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:02:15.583681"
   }
 ]
