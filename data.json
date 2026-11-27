@@ -1,5 +1,41 @@
 [
   {
+    "place_id": "0x3b05af4b88ba051b:0",
+    "name": "Golden beautyparlour",
+    "address": "junction",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 21:42:11.049532"
+  },
+  {
+    "place_id": "0x3b05a50a0502214d:0",
+    "name": "THABEETHA SWEETS FRUITS & FRESH JUICE",
+    "address": "9XXJ+7RC, Kovalam",
+    "category": "Juice shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 21:42:09.806981"
+  },
+  {
+    "place_id": "0x3b05b78b6e34c5dd:0",
+    "name": "KW വുഡ് & ഇന്റീരിയർ",
+    "address": "H2R8+34F",
+    "category": "Interior designer",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 21:42:08.511824"
+  },
+  {
+    "place_id": "0x3b05b968d67b9807:0",
+    "name": "ATHILA METALS",
+    "address": "1234",
+    "category": "Furniture store",
+    "phone": "+91 99460 01408",
+    "website": null,
+    "discovered_at": "2026-11-27 21:42:07.183678"
+  },
+  {
     "place_id": "0x3b05bf00411bf5fd:0",
     "name": "Bold n Beauty",
     "address": "SREERAGAM Building, Palace Nagar",
@@ -8962,41 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 18:54:49.850997"
-  },
-  {
-    "place_id": "0x3b05e865e6641c27:0",
-    "name": "Dubai Mobiles",
-    "address": "QQ7R+23H, Varkala Kallambalam Rd",
-    "category": "Cell phone store",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 18:19:49.893783"
-  },
-  {
-    "place_id": "0x3b05e86f6f21f0df:0",
-    "name": "JUICE BAR",
-    "address": "QQ7R+GVQ, Kilimanoor - Kottarakkara Rd",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 18:19:48.652671"
-  },
-  {
-    "place_id": "0x3b05c86d7c509ec7:0",
-    "name": "MEDCARE PHARMA",
-    "address": "J2QC+2PG, Toll Junction - Karinkada Rd",
-    "category": "Pharmacy",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 18:12:08.317163"
-  },
-  {
-    "place_id": "0x3b05bb24e7995983:0",
-    "name": "Veda Ayurveda Clinic",
-    "address": "KGRWA-136, First Floor, Sree Rekha, Sasthamangalam - Pipinmoodu Rd",
-    "category": "Medical clinic",
-    "phone": "+91 90728 32690",
-    "website": null,
-    "discovered_at": "2026-11-20 18:05:06.860819"
   }
 ]
