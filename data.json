@@ -1,5 +1,32 @@
 [
   {
+    "place_id": "0x3b05ab8455d43d25:0",
+    "name": "Sk Margin Free Market",
+    "address": "942R+W39, Idichakkaplamoodu - Plamoottukada Rd",
+    "category": "Grocery store",
+    "phone": "+91 90616 16245",
+    "website": null,
+    "discovered_at": "2026-11-27 21:55:58.533909"
+  },
+  {
+    "place_id": "0x3b05ab7386956495:0",
+    "name": "Abhinan fashion Jewellery",
+    "address": "85R3+RWJ",
+    "category": "Jewelry store",
+    "phone": "+91 94007 01171",
+    "website": null,
+    "discovered_at": "2026-11-27 21:55:57.279596"
+  },
+  {
+    "place_id": "0x3b05ab0067f6b65d:0",
+    "name": "Aakayaal Pharmacy",
+    "address": "9553+H5H, Chirakkonam Parassuvaikal, Po",
+    "category": "Pharmacy",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 21:55:56.050073"
+  },
+  {
     "place_id": "0x3b05af4b88ba051b:0",
     "name": "Golden beautyparlour",
     "address": "junction",
@@ -8971,32 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 19:02:14.811354"
-  },
-  {
-    "place_id": "0x3b05bbc7220dd71b:0",
-    "name": "Prasad Clinic",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 19:02:13.522366"
-  },
-  {
-    "place_id": "0x3b05bb902cf08a93:0",
-    "name": "Ashirwad multispeciality dental clinic",
-    "address": "Pettah, TC 14/368, Palayam Airport Rd",
-    "category": "Hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 19:02:12.282870"
-  },
-  {
-    "place_id": "0x3b05bbb74b4a14d7:0",
-    "name": "Ka ka ka cafe",
-    "address": "Government girls higher secondary school, Gandhi Nagar 2nd St",
-    "category": "Food court",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 18:54:49.850997"
   }
 ]
