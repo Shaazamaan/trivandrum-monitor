@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb00713e33c5:0",
+    "name": "Bake couture",
+    "address": "Poonthi Rd",
+    "category": "Bakery",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 08:38:08.980508"
+  },
+  {
     "place_id": "0x3b05bb2c966fdb09:0",
     "name": "TOP BUILDERS",
     "address": "Kaimanam Thiruvallam Rd",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 15:02:12.916581"
-  },
-  {
-    "place_id": "0x3b05c3001aa6e523:0",
-    "name": "Kilimanoor Prasannan",
-    "address": "QV6J+JX3",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 15:02:11.593257"
   }
 ]
