@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05af969212c0eb:0",
+    "name": "RSB mobile city",
+    "address": "93XQ+5JC",
+    "category": "Cell phone store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-27 01:34:38.064696"
+  },
+  {
     "place_id": "0x3b05bfaf0df3d181:0",
     "name": "Meenu's Homely Food",
     "address": "CVRA 85A",
@@ -8989,14 +8998,5 @@
     "phone": "+91 62820 60227",
     "website": null,
     "discovered_at": "2026-11-20 13:06:57.385110"
-  },
-  {
-    "place_id": "0x3b05b96b23ee30b1:0",
-    "name": "Aswas Community Medical Services",
-    "address": "Kurushadi Junction",
-    "category": "Pharmacy",
-    "phone": "+91 99615 78501",
-    "website": null,
-    "discovered_at": "2026-11-20 13:06:56.130520"
   }
 ]
