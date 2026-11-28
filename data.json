@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05c7007a097fdb:0",
+    "name": "ROOHI CAFE",
+    "address": "JWHP+XG9, Kanyakulangara - Pothencode Rd",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 00:26:34.047617"
+  },
+  {
+    "place_id": "0x3b05bf9083c8cfb1:0",
+    "name": "Mamas parcel counter",
+    "address": "HVM8+623, Kazhakoottam - Thaikod Road, Junction",
+    "category": "Indian restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 00:26:32.856498"
+  },
+  {
     "place_id": "0x3b05af24a878445b:0",
     "name": "PANCHAVADI SWEETS AND BAKERY",
     "address": "Sree Chidambara Temple, 45666 Marappalam Jn, Poovar - Vizhinjam Rd, near Oottara Road",
@@ -8980,23 +8998,5 @@
     "phone": "+91 94471 44878",
     "website": null,
     "discovered_at": "2026-11-20 19:02:22.360810"
-  },
-  {
-    "place_id": "0x3b05bb23eb85074b:0",
-    "name": "Dr. Kammath's Pediatric Dental Care",
-    "address": "Vanchiyoor, TC No-82/742, Vaikund\", ARA-174, Ground floor, Pettah, Ambalathumukku Road, near Kerala Dental Council Office",
-    "category": "Dental clinic",
-    "phone": "+91 94477 91312",
-    "website": null,
-    "discovered_at": "2026-11-20 19:02:20.974765"
-  },
-  {
-    "place_id": "0x3b05bbbb10747bbb:0",
-    "name": "ARIES TRAVEL AND HOLIDAYS",
-    "address": "Sivans studio building, Mahatma Gandhi Rd",
-    "category": "Tour agency",
-    "phone": "+91 98957 76863",
-    "website": null,
-    "discovered_at": "2026-11-20 19:02:19.760433"
   }
 ]
