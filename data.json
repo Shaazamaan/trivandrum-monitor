@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb8fe3222127:0",
+    "name": "FOOD TEXT",
+    "address": "TC 81/2027, Ramakrishna Building, SS Kovil Rd",
+    "category": "Biryani restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 06:37:44.432074"
+  },
+  {
     "place_id": "0x3b05c83d525af4a7:0",
     "name": "Indian Institute of Space Science and Technology, Thiruvananthapuram",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 20:24:27.507561"
-  },
-  {
-    "place_id": "0x3b05b0f47d170255:0",
-    "name": "LUCA Juice hub",
-    "address": "F2RP+4HP, Thiruvananthapuram - Neyyar Dam Rd",
-    "category": "Juice shop",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 19:56:36.950705"
   }
 ]
