@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05bef91de4bf35:0",
+    "name": "Kumar Tiffin Centre",
+    "address": "",
+    "category": "Tiffin center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 01:24:28.732427"
+  },
+  {
+    "place_id": "0x3b05bf4c5886765f:0",
+    "name": "Sheela Home Food and Hostel",
+    "address": "Sheela Home Food & Hostel, Mukkolakkal, Kazhakkoottam, po",
+    "category": "Student dormitory",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 01:24:27.579180"
+  },
+  {
+    "place_id": "0x3b05bfd2187c2fa5:0",
+    "name": "Malibu Club cafe",
+    "address": "By pass road, opposite to Infosys Medanada",
+    "category": "Cafe",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 01:24:26.391462"
+  },
+  {
+    "place_id": "0x3b05bfd24357b621:0",
+    "name": "ARM ROYAL BIRIYANI - VETTUROAD,KAZHAKKOOTTAM",
+    "address": "",
+    "category": "Biryani restaurant",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 01:24:25.033065"
+  },
+  {
+    "place_id": "0x3b05e9b9f0478929:0",
+    "name": "K M THAMPI & SONS TRADING",
+    "address": "opposite Juma Masjid, kallambalam",
+    "category": "Paint store",
+    "phone": "+91 96332 23443",
+    "website": null,
+    "discovered_at": "2026-11-28 01:24:23.328370"
+  },
+  {
     "place_id": "0x3b05c7007a097fdb:0",
     "name": "ROOHI CAFE",
     "address": "JWHP+XG9, Kanyakulangara - Pothencode Rd",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 19:34:12.529854"
-  },
-  {
-    "place_id": "0x3b05bba72b000001:0",
-    "name": "Oushadhi Agency",
-    "address": "FWMW+XCM, Padmavilasam Rd, near ICICI BANK ATM",
-    "category": "Alternative medicine practitioner",
-    "phone": "+91 97461 32089",
-    "website": null,
-    "discovered_at": "2026-11-20 19:02:27.469685"
-  },
-  {
-    "place_id": "0x3b05bba729693629:0",
-    "name": "NEW AMRITA HOMOEOS",
-    "address": "FWPW+2X4",
-    "category": "Pharmacy",
-    "phone": "+91 87148 09644",
-    "website": null,
-    "discovered_at": "2026-11-20 19:02:25.968421"
-  },
-  {
-    "place_id": "0x3b05bb3088fe13a7:0",
-    "name": "SDRC LABORATORY",
-    "address": "FWVG+7W2, Puthen Rd",
-    "category": "Laboratory",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 19:02:24.771031"
-  },
-  {
-    "place_id": "0x3b05bb0900ccffbb:0",
-    "name": "Murugan Dental Clinic",
-    "address": "FXH2+W2G",
-    "category": "Dental clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 19:02:23.577959"
-  },
-  {
-    "place_id": "0x3b05bb9ff140ac95:0",
-    "name": "Dr Krishnan's Dental Clinic & Orthodontic Centre",
-    "address": "",
-    "category": "Dental clinic",
-    "phone": "+91 94471 44878",
-    "website": null,
-    "discovered_at": "2026-11-20 19:02:22.360810"
   }
 ]
