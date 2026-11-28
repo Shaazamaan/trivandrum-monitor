@@ -1,5 +1,23 @@
 [
   {
+    "place_id": "0x3b05b0cb201a989b:0",
+    "name": "Laurie Baker Centre For Habitat Studies",
+    "address": "Nooliyode Rd",
+    "category": "Non-profit organization",
+    "phone": "+91 94460 47114",
+    "website": null,
+    "discovered_at": "2026-11-28 07:52:11.424183"
+  },
+  {
+    "place_id": "0x3b05b1350b59b3f9:0",
+    "name": "Nandhanam Travels",
+    "address": "Manappuram - Kuzhumam, Kunnumpuram Rd",
+    "category": "Travel agency",
+    "phone": "+91 85901 87275",
+    "website": null,
+    "discovered_at": "2026-11-28 07:52:10.185228"
+  },
+  {
     "place_id": "0x3b05b97c69e1e59d:0",
     "name": "Paschim Biospace",
     "address": "TC 4/1315, Vysakh Ambalanager, Jn. Kowdiar",
@@ -8980,23 +8998,5 @@
     "phone": "+91 98461 75892",
     "website": null,
     "discovered_at": "2026-11-20 21:30:17.069161"
-  },
-  {
-    "place_id": "0x3b05bfa8f2438d89:0",
-    "name": "FA MINI SUPERMARKET",
-    "address": "HVF9+XCH, Near Csi Hospital, Kazhakut",
-    "category": "Grocery store",
-    "phone": "+91 96563 39549",
-    "website": null,
-    "discovered_at": "2026-11-20 21:08:12.692675"
-  },
-  {
-    "place_id": "0x3b05c12dd47feaf5:0",
-    "name": "DDRC Agilus Diagnostics, Murukkumpuzha",
-    "address": "JR6M+RGF, opposite SRK Vegetables",
-    "category": "Diagnostic center",
-    "phone": "+91 99477 97444",
-    "website": null,
-    "discovered_at": "2026-11-20 20:31:48.836113"
   }
 ]
