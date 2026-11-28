@@ -1,5 +1,176 @@
 [
   {
+    "place_id": "0x3b05af63f46d1215:0",
+    "name": "Taxi South India",
+    "address": "Pallichal, opp. Vedivachankoil",
+    "category": "Travel agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:30.883983"
+  },
+  {
+    "place_id": "0x3b05ce51e3b36289:0",
+    "name": "Mankayam Waterfalls",
+    "address": "",
+    "category": "Tourist attraction",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:29.681051"
+  },
+  {
+    "place_id": "0x3b05b963ca579afd:0",
+    "name": "Samson and Sons Builders",
+    "address": "GWHX+367, TKD Rd",
+    "category": "Construction company",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:28.443030"
+  },
+  {
+    "place_id": "0x3b05b976fd7a707f:0",
+    "name": "JEEVAN HOMES",
+    "address": "Puliyoor gardens, near Grace restaurant",
+    "category": "Industrial real estate agency",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:27.250417"
+  },
+  {
+    "place_id": "0x3b05ba443183ef8d:0",
+    "name": "Jayakumar 's Mathematics Tution",
+    "address": "FXXH+HJ4",
+    "category": "Private tutor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:25.969784"
+  },
+  {
+    "place_id": "0x3b05c9f346d8e7e9:0",
+    "name": "CAREER GUIDANCE PSC COACHING CENTRE",
+    "address": "M2XG+HP2",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:24.803445"
+  },
+  {
+    "place_id": "0x3b05cf6b9f52d5f1:0",
+    "name": "VAAMIZZ EDUCATION HUB",
+    "address": "SYMPHONY",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:23.587887"
+  },
+  {
+    "place_id": "0x3b05c97c47bda411:0",
+    "name": "Talent Tution Centre",
+    "address": "J2M6+772",
+    "category": "Education center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:22.328601"
+  },
+  {
+    "place_id": "0x3b05bb2890878d5b:0",
+    "name": "1on1Edu | Home Tutors in Trivandrum",
+    "address": "T.C, 25/2871(5, Museum - Nanthencode Rd, opposite kaduvettoor road",
+    "category": "Private tutor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:21.096229"
+  },
+  {
+    "place_id": "0x3b05c86556941aff:0",
+    "name": "EDUCATE TUITION CENTRE",
+    "address": "Trivandrum",
+    "category": "Unknown",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:19.699852"
+  },
+  {
+    "place_id": "0x3b05c82d48aa75b7:0",
+    "name": "Smart",
+    "address": "J3F4+X75, Mannoorkonam - Kulappada Rd",
+    "category": "Coaching center",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:18.505170"
+  },
+  {
+    "place_id": "0x3b05b7ee12ada2c7:0",
+    "name": "Commerce & Management Tuition Classes",
+    "address": "Simon Road",
+    "category": "Private tutor",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:17.216332"
+  },
+  {
+    "place_id": "0x3b05c5095d7b5f75:0",
+    "name": "BIG B MENS WEAR",
+    "address": "Bharathanur Junction, Junction, Vamanapuram - Chittar Rd",
+    "category": "Clothing store",
+    "phone": "+91 89210 54250",
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:13.775641"
+  },
+  {
+    "place_id": "0x3b05c75bdcb53f71:0",
+    "name": "KRISHNA TEXTILES",
+    "address": "KRISHNA BUILDING, NEAR INDIAN OIL PETROL PUMB, VEMBAYAM, MC Rd",
+    "category": "Clothing store",
+    "phone": "+91 85908 50292",
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:12.516576"
+  },
+  {
+    "place_id": "0x3b05c79f101fce21:0",
+    "name": "MDC SCANS AND LABORATORY",
+    "address": "Vattappara - Thattathumala Rd",
+    "category": "Diagnostic center",
+    "phone": "+91 92880 02513",
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:10.580901"
+  },
+  {
+    "place_id": "0x3b05bbff6ae76ba5:0",
+    "name": "Autumn Homes",
+    "address": "6th floor, Akshaya Towers, Vellayambalam - Sasthamangalam Rd",
+    "category": "Construction company",
+    "phone": "+91 93877 99331",
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:09.369815"
+  },
+  {
+    "place_id": "0x3b05c9cc07e7c8f1:0",
+    "name": "Arun S",
+    "address": "Koppam, Junction, Vithura - Palode Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:08.094281"
+  },
+  {
+    "place_id": "0x3b05c9005d245ad1:0",
+    "name": "Arun Nivas",
+    "address": "M3HJ+47M, Vithura - Peringammala Road",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:06.890786"
+  },
+  {
+    "place_id": "0x3b05c9002510f359:0",
+    "name": "Achutty chennanpara",
+    "address": "M35J+R84, Thiruvananthapuram - Ponmudi Rd",
+    "category": "Housing development",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:18:05.677703"
+  },
+  {
     "place_id": "0x3b05bb004f8bf45f:0",
     "name": "SHELL DESIGNER BOUTIQUE",
     "address": "FWGP+XH8, Subash Nagar Road",
@@ -8827,176 +8998,5 @@
     "phone": "+91 98463 44935",
     "website": null,
     "discovered_at": "2026-11-21 00:12:49.012749"
-  },
-  {
-    "place_id": "0x3b05b9000da14a4d:0",
-    "name": "A2 Physiotherapy Madhaveeyam",
-    "address": "GWHC+3WH",
-    "category": "Physical therapy clinic",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-21 00:12:47.825732"
-  },
-  {
-    "place_id": "0x3b05b9dbedbdf34b:0",
-    "name": "Dr Cynthia Basil",
-    "address": "GWMH+J7C, NH66",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-21 00:12:46.389812"
-  },
-  {
-    "place_id": "0x3b05bd3ffb27e563:0",
-    "name": "32 Care Dental Studio",
-    "address": "Pulayanarkotta, Ulloor - Akkulam Rd, near National Centre for Earth Studies",
-    "category": "Dentist",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-21 00:12:45.231827"
-  },
-  {
-    "place_id": "0x3b05b9503f0cb26b:0",
-    "name": "Dr Rahul R S, MDS - Orthodontist",
-    "address": "GWMH+M85, Kochulloor,main road, opp. to supply co",
-    "category": "Dental clinic",
-    "phone": "+91 95395 99966",
-    "website": null,
-    "discovered_at": "2026-11-21 00:12:43.940440"
-  },
-  {
-    "place_id": "0x3b05bba6e7aa4751:0",
-    "name": "Forte Manor Hotel",
-    "address": "Trivandrum",
-    "category": "Unknown",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-21 00:12:42.781667"
-  },
-  {
-    "place_id": "0x3b05bb5ad3eb51c9:0",
-    "name": "G R A N D M A R K & ASSOCIATES (TVM)",
-    "address": "TC 84/1405, DESRA - 98, SANKAR BHAVAN, PO, near CRIME BRANCH OFFICE",
-    "category": "Chartered accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-21 00:12:41.588855"
-  },
-  {
-    "place_id": "0x3b05bbb44646550b:0",
-    "name": "Laa Greens Holidays",
-    "address": "Kochar Rd",
-    "category": "Tour operator",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-21 00:12:39.816894"
-  },
-  {
-    "place_id": "0x3b05bb4bdc9fb69b:0",
-    "name": "Nakshatra Productions & Studio",
-    "address": "Karimpanal Arcade, near Padmanabha Swamy Temple",
-    "category": "Event management company",
-    "phone": "+91 95391 23926",
-    "website": null,
-    "discovered_at": "2026-11-21 00:12:38.664502"
-  },
-  {
-    "place_id": "0x3b05bb002e7ebe2f:0",
-    "name": "42, Gitanjali",
-    "address": "43",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-21 00:12:37.537413"
-  },
-  {
-    "place_id": "0x3b05bb0017aefe89:0",
-    "name": "Aadi home",
-    "address": "80, W Fort - Swathi Nagar Rd",
-    "category": "Housing complex",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-21 00:12:36.225457"
-  },
-  {
-    "place_id": "0x3b05bb002b698e23:0",
-    "name": "Kailas house(murali kumar)",
-    "address": "Fort P.O, Tc. 28/2077(1, Padmavilasam Rd",
-    "category": "Apartment building",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-21 00:12:35.085713"
-  },
-  {
-    "place_id": "0x3b05bb0018895c77:0",
-    "name": "Precise special EYE CARE New Building 🏢 PMG",
-    "address": "GW6X+Q85",
-    "category": "Eye care center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 23:57:28.446348"
-  },
-  {
-    "place_id": "0x3b05bf3bc5271d93:0",
-    "name": "Kripa Clinic",
-    "address": "",
-    "category": "Medical clinic",
-    "phone": "+91 95625 99218",
-    "website": null,
-    "discovered_at": "2026-11-20 22:59:50.782181"
-  },
-  {
-    "place_id": "0x3b05bb947a4b2837:0",
-    "name": "Vaiga Associates",
-    "address": "TC-80/3006-1, Ist Puthen Street PO",
-    "category": "Tax collector's office",
-    "phone": "+91 98099 33551",
-    "website": null,
-    "discovered_at": "2026-11-20 22:59:49.331804"
-  },
-  {
-    "place_id": "0x3b05bb0e9db3c0bd:0",
-    "name": "TAX MAN",
-    "address": "TC 40/1496, KPN Plaza",
-    "category": "Accountant",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 22:59:47.992394"
-  },
-  {
-    "place_id": "0x3b05bbafe2ab78ab:0",
-    "name": "SOUTH BUDDY TRAVEL HUB",
-    "address": "+91 80891 18139",
-    "category": "Open 24 hours",
-    "phone": "+91 80891 18139",
-    "website": null,
-    "discovered_at": "2026-11-20 22:59:46.616244"
-  },
-  {
-    "place_id": "0x3b05bb0fd2c85ce3:0",
-    "name": "Rosemini convent driving school ground",
-    "address": "FW6J+PPJ",
-    "category": "Playground",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 22:59:45.375986"
-  },
-  {
-    "place_id": "0x3b05bb0ee32b3d7f:0",
-    "name": "Meera's BEAUTY CARE",
-    "address": "FWGX+3VP",
-    "category": "Beauty salon",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 22:59:44.063595"
-  },
-  {
-    "place_id": "0x3b05bb5dfd2cdaad:0",
-    "name": "EN VOGOUE Boutique",
-    "address": "Toll junction",
-    "category": "Clothing store",
-    "phone": "+91 80757 88231",
-    "website": null,
-    "discovered_at": "2026-11-20 22:59:42.754673"
   }
 ]
