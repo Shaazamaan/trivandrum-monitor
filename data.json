@@ -1,5 +1,50 @@
 [
   {
+    "place_id": "0x3b05ab6a915f5c5b:0",
+    "name": "Vadoorkonam Stores",
+    "address": "84XP+372",
+    "category": "Produce market",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 02:52:33.610543"
+  },
+  {
+    "place_id": "0x3b0455f9c56a60ab:0",
+    "name": "ANNE PHYSIO AND FITNESS CLINIC",
+    "address": "opp. Hotel Chithra",
+    "category": "Physical therapist",
+    "phone": "+91 96294 99435",
+    "website": null,
+    "discovered_at": "2026-11-28 02:52:32.334744"
+  },
+  {
+    "place_id": "0x3b05ac79c7338c6f:0",
+    "name": "Saroj Hospital",
+    "address": "",
+    "category": "Private hospital",
+    "phone": "+91 89210 65068",
+    "website": null,
+    "discovered_at": "2026-11-28 02:52:31.102296"
+  },
+  {
+    "place_id": "0x3b05b16a1cf95471:0",
+    "name": "Aswathy Medical Store",
+    "address": "G35M+4X4, Thiruvananthapuram - Neyyar Dam Rd",
+    "category": "Medical supply store",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 02:52:29.637320"
+  },
+  {
+    "place_id": "0x3b05b169c8c3463d:0",
+    "name": "Kattakkada Government Hospital",
+    "address": "",
+    "category": "Government hospital",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 02:52:28.377587"
+  },
+  {
     "place_id": "0x3b080926ecd61caf:0",
     "name": "KICHUZZ BAKES",
     "address": "Trivandrum",
@@ -8953,50 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-20 19:41:36.405805"
-  },
-  {
-    "place_id": "0x3b05af001a3f403f:0",
-    "name": "Veda Institute Of Education",
-    "address": "near S N Auditorium",
-    "category": "Education center",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 19:41:35.152235"
-  },
-  {
-    "place_id": "0x3b05af0432c3be85:0",
-    "name": "City Sports Wear And Life Style",
-    "address": "Joe Plaza, opposite Excise Check Post, Gramam",
-    "category": "Sportswear store",
-    "phone": "+91 94955 83987",
-    "website": null,
-    "discovered_at": "2026-11-20 19:34:23.130168"
-  },
-  {
-    "place_id": "0x3b05af62a4c62c9b:0",
-    "name": "Sree Ayurveda Hospital and yoga",
-    "address": "Kriehnapuram gramam",
-    "category": "Hospital",
-    "phone": "+91 79078 54991",
-    "website": null,
-    "discovered_at": "2026-11-20 19:34:21.858921"
-  },
-  {
-    "place_id": "0x3b05ae63b492811d:0",
-    "name": "Dr Aslam's Kids Care Clinic",
-    "address": "C33P+MQ8, Vadakkekotta Rd",
-    "category": "Children's hospital",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 19:34:20.600107"
-  },
-  {
-    "place_id": "0x3b05af21e8f15467:0",
-    "name": "Dr C P RAJESH",
-    "address": "C34P+V42, Neyyattinkara Kattakkada Rd",
-    "category": "Physician referral service",
-    "phone": null,
-    "website": null,
-    "discovered_at": "2026-11-20 19:34:19.341404"
   }
 ]
