@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b9b2396791df:0",
+    "name": "White Gents Beauty Parlour",
+    "address": "J232+925",
+    "category": "Beauty salon",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 10:08:50.543024"
+  },
+  {
     "place_id": "0x3b05bbf243a29907:0",
     "name": "LeadIAS Academy Trivandrum",
     "address": "",
@@ -8989,14 +8998,5 @@
     "phone": "+91 85900 84277",
     "website": null,
     "discovered_at": "2026-11-20 21:30:22.101651"
-  },
-  {
-    "place_id": "0x3b05bb9bda7f441f:0",
-    "name": "Hindusthan Ayurvedic Hospital",
-    "address": "USRA - 100, Udarashiromony Road",
-    "category": "Hospital",
-    "phone": "+91 75618 98936",
-    "website": null,
-    "discovered_at": "2026-11-20 21:30:20.900647"
   }
 ]
