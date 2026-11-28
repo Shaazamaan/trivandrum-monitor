@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c3a80888a031:0",
+    "name": "K C Auto Spa",
+    "address": "347a, Kc Buildings, Pulimath, Trivandrum - Kilimanoor Rd",
+    "category": "Car wash",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 03:35:10.184251"
+  },
+  {
     "place_id": "0x3b05c15c0354ca19:0",
     "name": "CHIKCHIN BAKERY",
     "address": "Pothencode Kazhakkuttam, Kesavadasapuram - Venjaramoodu Rd",
@@ -8989,14 +8998,5 @@
     "phone": "+91 73565 64427",
     "website": null,
     "discovered_at": "2026-11-20 19:41:39.952912"
-  },
-  {
-    "place_id": "0x3b05abdf1226a4c1:0",
-    "name": "SJS Event management",
-    "address": "churakkavila, karodu, kakkavila P O, near to IPC church",
-    "category": "Event management company",
-    "phone": "+91 95262 39624",
-    "website": null,
-    "discovered_at": "2026-11-20 19:41:38.710746"
   }
 ]
