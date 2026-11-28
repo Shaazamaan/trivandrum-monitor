@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb8dbaa77c2b:0",
+    "name": "Rajakala",
+    "address": "B 58, Rajakala, Golf Links Rd",
+    "category": "Apartment building",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 16:47:33.049411"
+  },
+  {
     "place_id": "0x3b05be91059e4ddd:0",
     "name": "Aswalekshmi Ayurveda Clinic",
     "address": "GVPP+XRF",
@@ -8989,14 +8998,5 @@
     "phone": null,
     "website": null,
     "discovered_at": "2026-11-21 00:12:51.524206"
-  },
-  {
-    "place_id": "0x3b05bb440ded878b:0",
-    "name": "Physiotherapist GS Remesh",
-    "address": "SRA 39B, Arappura Elipode Rd, opp. Sowparnika apartments",
-    "category": "Physical therapy clinic",
-    "phone": "+91 79077 56115",
-    "website": null,
-    "discovered_at": "2026-11-21 00:12:50.212121"
   }
 ]
