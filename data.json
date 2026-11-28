@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05c30e94ff8d83:0",
+    "name": "Treoo Mens Salon",
+    "address": "MC Rd, opp. CANARA BANK",
+    "category": "Barber shop",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 13:38:56.364798"
+  },
+  {
     "place_id": "0x3b05c100388e02c1:0",
     "name": "Boho chic",
     "address": "JW92+M8V",
@@ -8989,14 +8998,5 @@
     "phone": "+91 99956 22263",
     "website": null,
     "discovered_at": "2026-11-20 22:01:03.812787"
-  },
-  {
-    "place_id": "0x3b05ef447b6426e7:0",
-    "name": "Paws N Claws",
-    "address": "QP9C+VW",
-    "category": "Kennel",
-    "phone": "+91 85898 88839",
-    "website": null,
-    "discovered_at": "2026-11-20 22:01:02.433824"
   }
 ]
