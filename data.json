@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05b9995828e16f:0",
+    "name": "Am MaXwell Group of Institutions, Corporate Office",
+    "address": "Building No 20G",
+    "category": "Educational institution",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 10:44:22.015755"
+  },
+  {
     "place_id": "0x3b05b9b2396791df:0",
     "name": "White Gents Beauty Parlour",
     "address": "J232+925",
@@ -8989,14 +8998,5 @@
     "phone": "+91 99952 05441",
     "website": null,
     "discovered_at": "2026-11-20 22:00:56.550623"
-  },
-  {
-    "place_id": "0x3b05bbd22fc49867:0",
-    "name": "Lemon Resto Cafe",
-    "address": "school, press building, St Joseph, opp. cotton hill",
-    "category": "Non vegetarian restaurant",
-    "phone": "+91 85900 84277",
-    "website": null,
-    "discovered_at": "2026-11-20 21:30:22.101651"
   }
 ]
