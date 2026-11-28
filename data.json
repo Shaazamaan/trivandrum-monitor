@@ -1,5 +1,14 @@
 [
   {
+    "place_id": "0x3b05bb5c846fe91f:0",
+    "name": "HLL Dental Clinic",
+    "address": "FXQ5+X3X, Mettukada",
+    "category": "Dental clinic",
+    "phone": null,
+    "website": null,
+    "discovered_at": "2026-11-28 04:04:09.329809"
+  },
+  {
     "place_id": "0x3b05c3a80888a031:0",
     "name": "K C Auto Spa",
     "address": "347a, Kc Buildings, Pulimath, Trivandrum - Kilimanoor Rd",
@@ -8989,14 +8998,5 @@
     "phone": "+91 95390 55100",
     "website": null,
     "discovered_at": "2026-11-20 19:41:43.916824"
-  },
-  {
-    "place_id": "0x3b05c70013cde049:0",
-    "name": "K LIFE Medical Center",
-    "address": "",
-    "category": "Hospital",
-    "phone": "+91 73565 64427",
-    "website": null,
-    "discovered_at": "2026-11-20 19:41:39.952912"
   }
 ]
